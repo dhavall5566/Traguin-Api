@@ -41,6 +41,7 @@ from routers.admin.marketing import (
     value_propositions_router,
 )
 from routers.admin.media import router as media_router
+from routers.admin.homepage_hero import router as homepage_hero_router
 from routers.admin.packages import router as packages_router
 from routers.admin.site_settings import router as site_settings_router
 from routers.admin.specializations import router as specializations_router
@@ -56,6 +57,11 @@ router.include_router(
 )
 router.include_router(destinations_router, prefix="/destinations", tags=["Admin · Destinations"])
 router.include_router(packages_router, prefix="/packages", tags=["Admin · Packages"])
+router.include_router(
+    homepage_hero_router,
+    prefix="/homepage-hero-slider",
+    tags=["Admin · Homepage Hero Slider"],
+)
 router.include_router(itineraries_router, prefix="/itineraries", tags=["Admin · Itineraries"])
 router.include_router(hotels_router, prefix="/hotels", tags=["Admin · Hotels"])
 router.include_router(experiences_router, prefix="/experiences", tags=["Admin · Experiences"])

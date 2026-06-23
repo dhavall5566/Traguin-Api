@@ -3,9 +3,10 @@ from uuid import UUID
 from fastapi import HTTPException, status
 from sqlalchemy.orm import Session, selectinload
 
+from models.destinations import Destination
 from models.hotels import Hotel, HotelMedia, HotelNearbyAttraction
 from models.media import MediaAsset
-from schemas.hotels import HotelNearbyAttractionRead, HotelRead
+from schemas.hotels import HotelListRead, HotelNearbyAttractionRead, HotelRead
 from schemas.media import MediaSummary
 from utils.orm_read import orm_read_with_nested
 
@@ -14,6 +15,30 @@ def hotel_query_with_nested(db: Session):
     return db.query(Hotel).options(
         selectinload(Hotel.nearby_attractions),
         selectinload(Hotel.gallery_media).selectinload(HotelMedia.media),
+    )
+
+
+def hotel_list_query(db: Session):
+    return (
+        db.query(Hotel, Destination.name.label("destination_name"))
+        .join(Destination, Hotel.destination_id == Destination.id)
+    )
+
+
+def hotel_to_list_read(row: tuple[Hotel, str]) -> HotelListRead:
+    hotel, destination_name = row
+    return HotelListRead(
+        id=hotel.id,
+        created_at=hotel.created_at,
+        updated_at=hotel.updated_at,
+        slug=hotel.slug,
+        destination_id=hotel.destination_id,
+        destination_name=destination_name,
+        name=hotel.name,
+        stars=hotel.stars,
+        price=hotel.price,
+        rating=hotel.rating,
+        is_published=hotel.is_published,
     )
 
 

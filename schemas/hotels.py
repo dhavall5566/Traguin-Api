@@ -55,3 +55,14 @@ class HotelUpdate(BaseModel):
 class HotelRead(TimestampRead, HotelBase):
     nearby_attractions: list[HotelNearbyAttractionRead] = Field(default_factory=list)
     gallery_media: list[MediaSummary] = Field(default_factory=list)
+
+
+class HotelListRead(TimestampRead):
+    slug: str
+    destination_id: UUID
+    destination_name: str
+    name: str
+    stars: int = Field(..., ge=1, le=5)
+    price: int = Field(..., ge=0)
+    rating: Decimal | None = None
+    is_published: bool = True

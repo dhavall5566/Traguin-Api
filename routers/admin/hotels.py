@@ -6,10 +6,12 @@ from sqlalchemy.orm import Session
 from database import get_db
 from dependencies.pagination import get_pagination
 from models.hotels import Hotel
-from schemas.hotels import HotelCreate, HotelRead, HotelUpdate
+from schemas.hotels import HotelCreate, HotelListRead, HotelRead, HotelUpdate
 from schemas.pagination import PaginatedResponse
 from services.hotels import (
+    hotel_list_query,
     hotel_query_with_nested,
+    hotel_to_list_read,
     hotel_to_read,
     sync_hotel_gallery,
     sync_hotel_nearby_attractions,
@@ -20,14 +22,14 @@ from utils.pagination import paginate
 router = APIRouter()
 
 
-@router.get("", response_model=PaginatedResponse[HotelRead])
+@router.get("", response_model=PaginatedResponse[HotelListRead])
 def list_hotels(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
 ):
     limit, offset = pagination
-    query = hotel_query_with_nested(db).order_by(Hotel.name)
-    return paginate(query, limit, offset, transform=hotel_to_read)
+    query = hotel_list_query(db).order_by(Hotel.name)
+    return paginate(query, limit, offset, transform=hotel_to_list_read)
 
 
 @router.get("/{hotel_id}", response_model=HotelRead)

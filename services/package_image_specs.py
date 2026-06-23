@@ -494,3 +494,66 @@ JK_010_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
     {"slug": "jk-010-pampore-saffron-harvest", "query": "Kashmir saffron harvest Pampore fields farmers purple", "alt": "Saffron harvest season in the lavender fields of Pampore", "tags": ["jk-010", "saffron"]},
     {"slug": "jk-010-awantipora-ruins", "query": "Awantipora ancient temple ruins Kashmir heritage stone", "alt": "Ancient Awantipora temple ruins en route to Pahalgam", "tags": ["jk-010", "awantipora"]},
 ]
+
+KL_001_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-001-hero-munnar-tea-plantations", "query": "Munnar tea plantation rolling hills Kerala India green", "alt": "Rolling emerald tea plantations in Munnar, Kerala", "tags": ["kl-001", "munnar", "tea", "hero"]},
+    {"slug": "kl-001-cheeyappara-waterfalls", "query": "Cheeyappara waterfall Kerala Western Ghats cascade", "alt": "Cheeyappara Waterfalls cascading through Kerala forests", "tags": ["kl-001", "cheeyappara"]},
+    {"slug": "kl-001-thekkady-spice-plantation", "query": "Thekkady spice plantation cardamom pepper Kerala", "alt": "Lush spice plantation walk in Thekkady, Kerala", "tags": ["kl-001", "thekkady", "spice"]},
+    {"slug": "kl-001-alleppey-houseboat-backwater", "query": "Alleppey Kerala houseboat backwater palm trees lake", "alt": "Private luxury houseboat cruising Alleppey backwaters", "tags": ["kl-001", "alleppey", "houseboat"]},
+    {"slug": "kl-001-fort-kochi-fishing-nets", "query": "Chinese fishing nets Fort Kochi sunset Kerala coast", "alt": "Iconic Chinese Fishing Nets at Fort Kochi at sunset", "tags": ["kl-001", "kochi"]},
+    {"slug": "kl-001-kathakali-performance", "query": "Kathakali traditional dance Kerala cultural performance", "alt": "Traditional Kathakali performance in Kerala", "tags": ["kl-001", "kathakali"]},
+]
+
+KL_002_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-002-hero-kovalam-lighthouse-beach", "query": "Kovalam lighthouse beach Kerala golden sand sunset", "alt": "Kovalam Beach with lighthouse and golden sunset, Kerala", "tags": ["kl-002", "kovalam", "hero"]},
+    {"slug": "kl-002-mattancherry-dutch-palace", "query": "Mattancherry Dutch Palace Kochi Kerala heritage mural", "alt": "Historic Mattancherry Dutch Palace in Fort Kochi", "tags": ["kl-002", "mattancherry"]},
+    {"slug": "kl-002-eravikulam-nilgiri-tahr", "query": "Eravikulam National Park Nilgiri Tahr Munnar Kerala", "alt": "Nilgiri Tahr in the grasslands of Eravikulam National Park", "tags": ["kl-002", "eravikulam"]},
+    {"slug": "kl-002-periyar-lake-boat", "query": "Periyar Lake boat safari Thekkady elephants Kerala", "alt": "Boat safari on Periyar Lake in Thekkady wildlife reserve", "tags": ["kl-002", "periyar"]},
+    {"slug": "kl-002-alleppey-canal-village", "query": "Alleppey narrow canal village life Kerala backwater", "alt": "Traditional village life along Alleppey backwater canals", "tags": ["kl-002", "alleppey"]},
+    {"slug": "kl-002-jew-town-kochi", "query": "Jew Town Fort Kochi antique shops colonial Kerala", "alt": "Colonial Jew Town lanes in Fort Kochi", "tags": ["kl-002", "jew-town"]},
+]
+
+KL_003_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-003-hero-lock-heart-gap-munnar", "query": "Lock Heart Gap Munnar viewpoint valley mist Kerala", "alt": "Panoramic misty valley views from Lock Heart Gap, Munnar", "tags": ["kl-003", "lock-heart", "hero"]},
+    {"slug": "kl-003-valara-waterfalls", "query": "Valara waterfall Kerala forest road Munnar route", "alt": "Valara Waterfalls nestled in dense Kerala forests", "tags": ["kl-003", "valara"]},
+    {"slug": "kl-003-tata-tea-museum", "query": "tea museum Munnar Kerala tea processing heritage", "alt": "Tata Tea Museum showcasing Munnar tea heritage", "tags": ["kl-003", "tea-museum"]},
+    {"slug": "kl-003-mattupetty-dam-lake", "query": "Mattupetty Dam lake speed boat Munnar Kerala", "alt": "Mattupetty Dam and lake with pine-fringed shores, Munnar", "tags": ["kl-003", "mattupetty"]},
+    {"slug": "kl-003-pothamedu-viewpoint", "query": "Pothamedu viewpoint tea coffee plantations Munnar", "alt": "Pothamedu Viewpoint over Munnar tea and spice estates", "tags": ["kl-003", "pothamedu"]},
+    {"slug": "kl-003-fort-kochi-heritage-street", "query": "Fort Kochi heritage street colonial architecture Kerala", "alt": "Heritage colonial streetscape in Fort Kochi", "tags": ["kl-003", "fort-kochi"]},
+]
+
+KL_005_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-005-hero-romantic-houseboat-alleppey", "query": "romantic couple Kerala houseboat backwater sunset Alleppey", "alt": "Romantic private houseboat at sunset on Alleppey backwaters", "tags": ["kl-005", "honeymoon", "hero"]},
+    {"slug": "kl-005-echo-point-munnar-couple", "query": "Echo Point Munnar lake mountains couple Kerala", "alt": "Echo Point lake surrounded by misty Munnar mountains", "tags": ["kl-005", "echo-point"]},
+    {"slug": "kl-005-tea-estate-green-carpet", "query": "Munnar tea estate green carpet rows honeymoon photography", "alt": "Endless green tea estate carpets perfect for couple photography", "tags": ["kl-005", "tea-estate"]},
+    {"slug": "kl-005-vembanad-lake-cruise", "query": "Vembanad Lake Kerala backwater cruise palm sunset", "alt": "Sunset cruise on Vembanad Lake through palm-fringed canals", "tags": ["kl-005", "vembanad"]},
+    {"slug": "kl-005-candlelight-dinner-resort", "query": "candlelight dinner romantic resort terrace Kerala hills", "alt": "Intimate candlelit dinner on a Kerala hill resort terrace", "tags": ["kl-005", "candlelight"]},
+    {"slug": "kl-005-paradesi-synagogue", "query": "Paradesi Synagogue Jew Town Kochi Kerala interior", "alt": "Historic Paradesi Synagogue in Jew Town, Kochi", "tags": ["kl-005", "synagogue"]},
+]
+
+KL_006_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-006-hero-periyar-wildlife-lake", "query": "Periyar Tiger Reserve lake elephant Thekkady Kerala wildlife", "alt": "Periyar Lake in Thekkady with forest and wildlife vistas", "tags": ["kl-006", "periyar", "hero"]},
+    {"slug": "kl-006-munnar-tea-tasting", "query": "tea tasting session Munnar plantation Kerala luxury", "alt": "Gourmet tea tasting at a Munnar plantation estate", "tags": ["kl-006", "tea-tasting"]},
+    {"slug": "kl-006-kalaripayattu-martial-arts", "query": "Kalaripayattu martial arts performance Kerala Thekkady", "alt": "Kalaripayattu martial arts performance in Kerala", "tags": ["kl-006", "kalaripayattu"]},
+    {"slug": "kl-006-luxury-kettuvallam-houseboat", "query": "Kerala Kettuvallam luxury houseboat traditional bamboo", "alt": "Traditional Kettuvallam luxury houseboat on Kerala backwaters", "tags": ["kl-006", "houseboat"]},
+    {"slug": "kl-006-kovalam-cliff-beach", "query": "Kovalam cliff beach resort Arabian Sea Kerala coast", "alt": "Clifftop views over Kovalam Beach and the Arabian Sea", "tags": ["kl-006", "kovalam"]},
+    {"slug": "kl-006-karimeen-fish-meal", "query": "Kerala Karimeen fish traditional meal banana leaf cuisine", "alt": "Traditional Karimeen pearl spot fish served on a Kerala houseboat", "tags": ["kl-006", "cuisine"]},
+]
+
+KL_009_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-009-hero-kumarakom-lake-resort", "query": "Kumarakom backwater lake resort peaceful Kerala senior travel", "alt": "Serene Kumarakom lakefront resort on Vembanad Lake", "tags": ["kl-009", "kumarakom", "hero"]},
+    {"slug": "kl-009-munnar-senior-tea-view", "query": "Munnar tea garden gentle viewpoint accessible Kerala hills", "alt": "Accessible tea garden viewpoints in the gentle hills of Munnar", "tags": ["kl-009", "munnar"]},
+    {"slug": "kl-009-sunset-houseboat-cruise", "query": "Kerala houseboat sunset cruise gentle backwater senior", "alt": "Relaxed sunset houseboat cruise on Kerala backwaters", "tags": ["kl-009", "houseboat"]},
+    {"slug": "kl-009-ayurvedic-wellness-spa", "query": "Ayurvedic wellness spa Kerala traditional oil massage", "alt": "Traditional Ayurvedic wellness treatment at a Kerala resort", "tags": ["kl-009", "ayurveda"]},
+    {"slug": "kl-009-bird-sanctuary-kumarakom", "query": "Kumarakom bird sanctuary Vembanad Lake Kerala birds", "alt": "Bird sanctuary wetlands along Kumarakom on Vembanad Lake", "tags": ["kl-009", "birds"]},
+    {"slug": "kl-009-marine-drive-kochi", "query": "Marine Drive Kochi waterfront evening lights Kerala", "alt": "Marine Drive promenade along the Kochi waterfront at evening", "tags": ["kl-009", "marine-drive"]},
+]
+
+KL_010_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "kl-010-hero-chembra-heart-lake", "query": "Chembra Peak heart shaped lake Wayanad Kerala trek", "alt": "Heart-shaped Hridayasaras lake atop Chembra Peak, Wayanad", "tags": ["kl-010", "chembra", "hero"]},
+    {"slug": "kl-010-edakkal-caves-petroglyphs", "query": "Edakkal Caves prehistoric petroglyphs Wayanad Kerala", "alt": "Ancient Neolithic petroglyphs inside Edakkal Caves, Wayanad", "tags": ["kl-010", "edakkal"]},
+    {"slug": "kl-010-banasura-sagar-dam", "query": "Banasura Sagar Dam Wayanad largest earth dam boating", "alt": "Banasura Sagar Dam reservoir with island vistas, Wayanad", "tags": ["kl-010", "banasura"]},
+    {"slug": "kl-010-lakkidi-viewpoint-ghats", "query": "Lakkidi View Point Wayanad Western Ghats hairpin Kerala", "alt": "Lakkidi View Point over the misty Western Ghats, Wayanad", "tags": ["kl-010", "lakkidi"]},
+    {"slug": "kl-010-kuruva-island-raft", "query": "Kuruva Island bamboo rafting river Wayanad Kerala forest", "alt": "Bamboo rafting through the river forests of Kuruva Island", "tags": ["kl-010", "kuruva"]},
+    {"slug": "kl-010-muthanga-wildlife-safari", "query": "Muthanga Wildlife Sanctuary jeep safari elephant Wayanad", "alt": "Jeep safari through Muthanga Wildlife Sanctuary, Wayanad", "tags": ["kl-010", "muthanga"]},
+]
