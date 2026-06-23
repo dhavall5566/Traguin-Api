@@ -431,3 +431,66 @@ HP_020_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
     {"slug": "hp-020-multi-gen-family-mountains", "query": "multi generation family vacation mountains happy", "alt": "Multi-generational family enjoying a Himalayan vacation", "tags": ["hp-020", "family"]},
     {"slug": "hp-020-dalhousie-sunset-ridge", "query": "Dalhousie Thandi Sarak sunset ridge walk colonial", "alt": "Sunset walk along colonial lanes of Dalhousie", "tags": ["hp-020", "sunset"]},
 ]
+
+JK_001_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-001-hero-dal-lake-houseboat", "query": "Dal Lake Srinagar houseboat shikara sunset Kashmir", "alt": "Sunset Shikara ride on Dal Lake, Srinagar, Kashmir", "tags": ["jk-001", "dal-lake", "hero"]},
+    {"slug": "jk-001-gulmarg-gondola-snow", "query": "Gulmarg Gondola cable car snow Apharwat peak Kashmir", "alt": "Gulmarg Gondola ascending to Apharwat Peak, Kashmir", "tags": ["jk-001", "gulmarg", "gondola"]},
+    {"slug": "jk-001-pahalgam-lidder-river", "query": "Pahalgam Lidder River pine valley Kashmir India", "alt": "Lidder River flowing through pine forests in Pahalgam", "tags": ["jk-001", "pahalgam", "lidder"]},
+    {"slug": "jk-001-betaab-valley-meadow", "query": "Betaab Valley Pahalgam green meadow mountains Kashmir", "alt": "Lush Betaab Valley meadows surrounded by snow peaks", "tags": ["jk-001", "betaab"]},
+    {"slug": "jk-001-mughal-garden-shalimar", "query": "Shalimar Bagh Mughal garden Srinagar fountains chinar", "alt": "Terraced fountains and chinar trees at Shalimar Bagh, Srinagar", "tags": ["jk-001", "shalimar"]},
+    {"slug": "jk-001-saffron-fields-pampore", "query": "Pampore saffron fields purple flowers Kashmir valley", "alt": "Blooming saffron fields at Pampore, Kashmir", "tags": ["jk-001", "saffron"]},
+]
+
+JK_002_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-002-hero-gulmarg-meadow-flowers", "query": "Gulmarg meadow flowers alpine Kashmir summer green", "alt": "Verdant Gulmarg meadow of flowers in summer, Kashmir", "tags": ["jk-002", "gulmarg", "hero"]},
+    {"slug": "jk-002-nishat-bagh-garden", "query": "Nishat Bagh Mughal garden Dal Lake terrace Srinagar", "alt": "Nishat Bagh terraced garden overlooking Dal Lake", "tags": ["jk-002", "nishat"]},
+    {"slug": "jk-002-shankaracharya-temple-view", "query": "Shankaracharya Temple Srinagar panoramic valley view", "alt": "Panoramic Srinagar valley view from Shankaracharya Temple hill", "tags": ["jk-002", "shankaracharya"]},
+    {"slug": "jk-002-dal-lake-floating-market", "query": "Dal Lake floating vegetable market shikara Srinagar", "alt": "Floating vegetable market on Dal Lake, Srinagar", "tags": ["jk-002", "floating-market"]},
+    {"slug": "jk-002-char-chinar-island", "query": "Char Chinar island Dal Lake chinar trees Kashmir", "alt": "Char Chinar island with ancient chinar trees on Dal Lake", "tags": ["jk-002", "char-chinar"]},
+    {"slug": "jk-002-kashmiri-wazwan-feast", "query": "Kashmiri Wazwan traditional feast copper dishes", "alt": "Traditional Kashmiri Wazwan feast served in copper dishes", "tags": ["jk-002", "wazwan"]},
+]
+
+JK_003_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-003-hero-pahalgam-betaab-stream", "query": "Betaab Valley crystal stream pine forest Pahalgam Kashmir", "alt": "Crystal stream cutting through Betaab Valley, Pahalgam", "tags": ["jk-003", "betaab", "hero"]},
+    {"slug": "jk-003-dal-lake-shikara-sunset", "query": "Shikara boat Dal Lake golden sunset Zabarwan mountains", "alt": "Golden sunset Shikara cruise on Dal Lake with Zabarwan backdrop", "tags": ["jk-003", "shikara"]},
+    {"slug": "jk-003-aru-valley-alpine", "query": "Aru Valley alpine meadow village Pahalgam Kashmir", "alt": "Alpine meadows and village vistas at Aru Valley, Pahalgam", "tags": ["jk-003", "aru"]},
+    {"slug": "jk-003-gulmarg-apharwat-peak", "query": "Apharwat Peak Gulmarg snow ridge cable car view", "alt": "Snow ridge views from Apharwat Peak, Gulmarg", "tags": ["jk-003", "apharwat"]},
+    {"slug": "jk-003-chandanwari-snow-bridge", "query": "Chandanwari snow bridge Amarnath route Pahalgam", "alt": "Snow bridge vistas at Chandanwari, Pahalgam", "tags": ["jk-003", "chandanwari"]},
+    {"slug": "jk-003-pari-mahal-terrace", "query": "Pari Mahal terraced garden Srinagar panoramic lake view", "alt": "Pari Mahal terraced lawns with panoramic Dal Lake views", "tags": ["jk-003", "pari-mahal"]},
+]
+
+JK_004_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-004-hero-romantic-shikara-couple", "query": "romantic couple shikara ride Dal Lake sunset Kashmir", "alt": "Romantic couple on a private Shikara at sunset, Dal Lake", "tags": ["jk-004", "honeymoon", "hero"]},
+    {"slug": "jk-004-luxury-houseboat-cedar", "query": "luxury Kashmiri houseboat carved cedar wood Dal Lake", "alt": "Hand-carved cedarwood luxury houseboat on Dal Lake", "tags": ["jk-004", "houseboat"]},
+    {"slug": "jk-004-gulmarg-snow-couple", "query": "couple walking snow meadow Gulmarg honeymoon mountains", "alt": "Couple walking hand-in-hand through Gulmarg snow meadows", "tags": ["jk-004", "gulmarg", "snow"]},
+    {"slug": "jk-004-pahalgam-riverside-bonfire", "query": "riverside bonfire luxury resort Pahalgam night stars", "alt": "Private riverside bonfire at a luxury Pahalgam resort", "tags": ["jk-004", "bonfire"]},
+    {"slug": "jk-004-candlelight-dinner-kashmir", "query": "candlelight dinner romantic terrace mountain Kashmir", "alt": "Intimate candlelight dinner on a Kashmir mountain terrace", "tags": ["jk-004", "candlelight"]},
+    {"slug": "jk-004-pashmina-shawl-artisan", "query": "Kashmiri pashmina shawl weaving artisan handloom", "alt": "Artisan weaving premium Kashmiri pashmina shawls", "tags": ["jk-004", "pashmina"]},
+]
+
+JK_006_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-006-hero-sonamarg-thajiwas-glacier", "query": "Sonamarg Thajiwas Glacier snow meadow Sindh river Kashmir", "alt": "Thajiwas Glacier snowfields at Sonamarg, Kashmir", "tags": ["jk-006", "sonamarg", "hero"]},
+    {"slug": "jk-006-dal-lake-royal-houseboat", "query": "royal houseboat Dal Lake Srinagar luxury cedar Kashmir", "alt": "Royal cedarwood houseboat moored on Dal Lake, Srinagar", "tags": ["jk-006", "houseboat"]},
+    {"slug": "jk-006-shalimar-chinar-avenue", "query": "Shalimar Bagh chinar tree avenue Mughal garden Srinagar", "alt": "Ancient chinar tree avenue at Shalimar Bagh, Srinagar", "tags": ["jk-006", "shalimar"]},
+    {"slug": "jk-006-sindh-river-valley", "query": "Sindh River valley Sonamarg pine forest road Kashmir", "alt": "Scenic Sindh River valley drive toward Sonamarg", "tags": ["jk-006", "sindh"]},
+    {"slug": "jk-006-khyber-gulmarg-resort", "query": "Gulmarg luxury mountain resort snow peak view Kashmir", "alt": "Luxury mountain resort overlooking Gulmarg snow peaks", "tags": ["jk-006", "khyber"]},
+    {"slug": "jk-006-lalit-grand-palace-srinagar", "query": "The Lalit Grand Palace Srinagar heritage hotel lake", "alt": "Heritage palace hotel overlooking Dal Lake, Srinagar", "tags": ["jk-006", "lalit"]},
+]
+
+JK_007_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-007-hero-vishansar-glacial-lake", "query": "Vishansar Lake Kashmir Great Lakes trek turquoise alpine", "alt": "Turquoise Vishansar glacial lake on the Kashmir Great Lakes trek", "tags": ["jk-007", "vishansar", "hero"]},
+    {"slug": "jk-007-gadsar-pass-summit", "query": "Gadsar Pass Kashmir trek snow mountains high altitude", "alt": "Summit views from Gadsar Pass on the Great Lakes trek", "tags": ["jk-007", "gadsar"]},
+    {"slug": "jk-007-gangabal-lake-haramukh", "query": "Gangabal Lake Mount Haramukh reflection Kashmir trek", "alt": "Gangabal Lake reflecting Mount Haramukh, Kashmir", "tags": ["jk-007", "gangabal"]},
+    {"slug": "jk-007-nichnai-birch-forest", "query": "Nichnai birch forest meadow Kashmir Great Lakes trek", "alt": "Silver birch forests on the trail to Nichnai, Kashmir", "tags": ["jk-007", "nichnai"]},
+    {"slug": "jk-007-satsar-alpine-lakes", "query": "Satsar lakes alpine Kashmir trek rocky meadow", "alt": "Interconnected Satsar alpine lakes nestled in rocky meadows", "tags": ["jk-007", "satsar"]},
+    {"slug": "jk-007-naranag-temple-ruins", "query": "Naranag ancient temple ruins stone Kashmir archaeology", "alt": "8th-century Naranag temple ruins at trek end, Kashmir", "tags": ["jk-007", "naranag"]},
+]
+
+JK_010_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
+    {"slug": "jk-010-hero-kashmir-dal-panorama", "query": "Kashmir Dal Lake panorama Zabarwan mountains aerial Srinagar", "alt": "Panoramic view of Dal Lake and Zabarwan range, Srinagar", "tags": ["jk-010", "panorama", "hero"]},
+    {"slug": "jk-010-hazratbal-shrine-dal", "query": "Hazratbal Shrine Dal Lake white marble Srinagar Kashmir", "alt": "Hazratbal Shrine on the shores of Dal Lake, Srinagar", "tags": ["jk-010", "hazratbal"]},
+    {"slug": "jk-010-sonamarg-golden-meadow", "query": "Sonamarg meadow gold flowers Sindh river mountains", "alt": "Sonamarg meadow of gold beside the Sindh River", "tags": ["jk-010", "sonamarg"]},
+    {"slug": "jk-010-gulmarg-gondola-kongdoori", "query": "Gulmarg Gondola Kongdoori phase snow Karakoram view", "alt": "Gulmarg Gondola at Kongdoori with Karakoram range views", "tags": ["jk-010", "gondola"]},
+    {"slug": "jk-010-pampore-saffron-harvest", "query": "Kashmir saffron harvest Pampore fields farmers purple", "alt": "Saffron harvest season in the lavender fields of Pampore", "tags": ["jk-010", "saffron"]},
+    {"slug": "jk-010-awantipora-ruins", "query": "Awantipora ancient temple ruins Kashmir heritage stone", "alt": "Ancient Awantipora temple ruins en route to Pahalgam", "tags": ["jk-010", "awantipora"]},
+]

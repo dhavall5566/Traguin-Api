@@ -173,3 +173,4 @@ def delete_quick_reply(reply_id: UUID, db: Session = Depends(get_db)):
     db.delete(item)
     commit_or_raise(db)
     return Response(status_code=status.HTTP_204_NO_CONTENT)
+#This is comment added by Nikunj
