@@ -10,7 +10,7 @@ from dependencies.auth import require_admin
 from routers.admin import router as admin_router
 from routers.auth import router as auth_router
 from routers.crm import router as crm_router
-from routers.public import router as public_router
+from routers.cms_public import router as public_router
 
 app = FastAPI(title="Traguin API")
 

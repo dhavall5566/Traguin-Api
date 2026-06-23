@@ -1,12 +1,16 @@
+from pathlib import Path
 from uuid import UUID
 
 from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
+_API_DIR = Path(__file__).resolve().parent
+_ENV_FILE = _API_DIR / ".env"
+
 
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
-        env_file=".env",
+        env_file=_ENV_FILE if _ENV_FILE.is_file() else None,
         env_file_encoding="utf-8",
         extra="ignore",
     )
@@ -27,6 +31,16 @@ class Settings(BaseSettings):
     traguin_system_user_id: UUID | None = None
     groq_api_key: str | None = None
     pexels_api_key: str | None = None
+
+    @field_validator("pexels_api_key", mode="before")
+    @classmethod
+    def normalize_pexels_api_key(cls, value: str | None) -> str | None:
+        if value is None:
+            return None
+        key = str(value).strip()
+        if key.lower().startswith("bearer "):
+            key = key[7:].strip()
+        return key or None
 
     @field_validator("database_url", mode="before")
     @classmethod

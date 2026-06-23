@@ -42,7 +42,6 @@ from routers.admin.marketing import (
 )
 from routers.admin.media import router as media_router
 from routers.admin.packages import router as packages_router
-from routers.admin.package_import import router as package_import_router
 from routers.admin.site_settings import router as site_settings_router
 from routers.admin.specializations import router as specializations_router
 
@@ -57,7 +56,6 @@ router.include_router(
 )
 router.include_router(destinations_router, prefix="/destinations", tags=["Admin · Destinations"])
 router.include_router(packages_router, prefix="/packages", tags=["Admin · Packages"])
-router.include_router(package_import_router, prefix="/package-import", tags=["Admin · Package Import"])
 router.include_router(itineraries_router, prefix="/itineraries", tags=["Admin · Itineraries"])
 router.include_router(hotels_router, prefix="/hotels", tags=["Admin · Hotels"])
 router.include_router(experiences_router, prefix="/experiences", tags=["Admin · Experiences"])

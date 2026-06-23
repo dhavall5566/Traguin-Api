@@ -1,11 +1,11 @@
 from fastapi import APIRouter
 
-from routers.public.chat import (
+from routers.cms_public.chat import (
     quick_replies_router as chat_quick_replies_router,
     settings_router as chat_settings_router,
     welcome_messages_router as chat_welcome_messages_router,
 )
-from routers.public.config import (
+from routers.cms_public.config import (
     company_stats_router,
     global_page_cta_router,
     navigation_router,
@@ -14,19 +14,19 @@ from routers.public.config import (
     redirects_router,
     site_ctas_router,
 )
-from routers.public.destinations import router as destinations_router
-from routers.public.experiences import router as experiences_router
-from routers.public.faqs import router as faqs_router
-from routers.public.form_submissions import router as form_submissions_router
-from routers.public.gallery import (
+from routers.cms_public.destinations import router as destinations_router
+from routers.cms_public.experiences import router as experiences_router
+from routers.cms_public.faqs import router as faqs_router
+from routers.cms_public.form_submissions import router as form_submissions_router
+from routers.cms_public.gallery import (
     client_stories_router,
     gallery_categories_router,
     gallery_items_router,
 )
-from routers.public.hotels import router as hotels_router
-from routers.public.itineraries import router as itineraries_router
-from routers.public.legal import router as legal_router
-from routers.public.marketing import (
+from routers.cms_public.hotels import router as hotels_router
+from routers.cms_public.itineraries import router as itineraries_router
+from routers.cms_public.legal import router as legal_router
+from routers.cms_public.marketing import (
     about_page_header_router,
     about_story_sections_router,
     careers_page_extras_router,
@@ -38,10 +38,10 @@ from routers.public.marketing import (
     travel_expert_settings_router,
     value_propositions_router,
 )
-from routers.public.media import router as media_router
-from routers.public.packages import router as packages_router
-from routers.public.site_settings import router as site_settings_router
-from routers.public.specializations import router as specializations_router
+from routers.cms_public.media import router as media_router
+from routers.cms_public.packages import router as packages_router
+from routers.cms_public.site_settings import router as site_settings_router
+from routers.cms_public.specializations import router as specializations_router
 
 router = APIRouter()
 
