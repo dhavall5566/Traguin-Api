@@ -72,15 +72,12 @@ class ClientStoryBase(BaseModel):
     title: str | None = Field(default=None, max_length=255)
     caption: str | None = None
     portrait_media_id: UUID | None = None
-    poster_media_id: UUID | None = None
-    video_url: str | None = None
-    is_film: bool = False
     show_on_home: bool = False
     show_in_gallery: bool = False
     is_featured_in_gallery: bool = False
     home_sort_order: int | None = None
     gallery_sort_order: int | None = None
-    is_published: bool = True
+    is_published: bool = False
 
 
 class ClientStoryCreate(ClientStoryBase):
@@ -97,9 +94,6 @@ class ClientStoryUpdate(BaseModel):
     title: str | None = Field(default=None, max_length=255)
     caption: str | None = None
     portrait_media_id: UUID | None = None
-    poster_media_id: UUID | None = None
-    video_url: str | None = None
-    is_film: bool | None = None
     show_on_home: bool | None = None
     show_in_gallery: bool | None = None
     is_featured_in_gallery: bool | None = None

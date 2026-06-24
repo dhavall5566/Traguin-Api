@@ -153,6 +153,20 @@ def create_invoice(
 ):
     if get_booking_for_agency(db, payload.booking_id, agency_id) is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Booking not found.")
+
+    existing_open = (
+        db.query(Invoice)
+        .filter(
+            Invoice.agency_id == agency_id,
+            Invoice.booking_id == payload.booking_id,
+            Invoice.status.in_(("UNPAID", "PARTIALLY_PAID", "OVERDUE")),
+        )
+        .order_by(Invoice.created_at.desc())
+        .first()
+    )
+    if existing_open is not None:
+        return existing_open
+
     invoice = Invoice(**payload.model_dump(), agency_id=agency_id)
     db.add(invoice)
     db.flush()

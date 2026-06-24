@@ -1,10 +1,11 @@
-from fastapi import APIRouter, Depends, Request, status
+from fastapi import APIRouter, BackgroundTasks, Depends, Request, status
 from sqlalchemy.orm import Session
 
 from database import get_db
 from models.submissions import FormSubmission
 from schemas.form_submissions import FormSubmissionCreate, FormSubmissionRead
-from services.form_submission_intake import process_form_submission_intake
+from services.form_submission_jobs import run_form_submission_intake
+from services.form_submission_intake import LEAD_ELIGIBLE_FORM_TYPES
 from utils.db import commit_or_raise
 from utils.request import client_ip_or_none
 
@@ -15,6 +16,7 @@ router = APIRouter()
 def create_form_submission(
     payload: FormSubmissionCreate,
     request: Request,
+    background_tasks: BackgroundTasks,
     db: Session = Depends(get_db),
 ):
     data = payload.model_dump()
@@ -27,7 +29,10 @@ def create_form_submission(
     )
     db.add(item)
     db.flush()
-    process_form_submission_intake(db, item)
+    submission_id = item.id
     commit_or_raise(db)
-    db.refresh(item)
+
+    if payload.form_type in LEAD_ELIGIBLE_FORM_TYPES:
+        background_tasks.add_task(run_form_submission_intake, submission_id)
+
     return item

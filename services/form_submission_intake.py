@@ -73,13 +73,7 @@ def _resolve_intake_actor(db: Session) -> tuple[UUID, UUID]:
         )
 
     if settings.traguin_system_user_id is not None:
-        user = db.get(User, settings.traguin_system_user_id)
-        if user is None or user.agency_id != agency_id:
-            raise HTTPException(
-                status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
-                detail="Website lead intake system user is misconfigured.",
-            )
-        return agency_id, user.id
+        return agency_id, settings.traguin_system_user_id
 
     user = db.scalar(
         select(User)
@@ -202,6 +196,18 @@ def _contact_fields(submission: FormSubmission) -> tuple[str, str, str | None, s
     return first_name, last_name, email, phone
 
 
+def _lead_message(submission: FormSubmission) -> str | None:
+    payload = submission.payload or {}
+    for key in ("message", "notes", "review"):
+        raw = payload.get(key)
+        if raw is None:
+            continue
+        text = str(raw).strip()
+        if text:
+            return text
+    return None
+
+
 def process_form_submission_intake(db: Session, submission: FormSubmission) -> Lead | None:
     """Create CRM lead artifacts for lead-eligible submissions. Returns Lead or None."""
     if submission.form_type not in LEAD_ELIGIBLE_FORM_TYPES:
@@ -220,6 +226,7 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
         status="NEW",
         value=_lead_value(submission),
         source=f"Website · {submission.form_type}",
+        message=_lead_message(submission),
     )
     db.add(lead)
     db.flush()

@@ -52,13 +52,13 @@ def link_or_create_customer_for_lead(
             return existing, False
 
     phone_key = _normalize_phone(phone)
-    if phone_key:
+    if phone_key and not normalized:
         candidates = db.scalars(
             select(Customer).where(
                 Customer.agency_id == agency_id,
                 Customer.phone.isnot(None),
                 Customer.is_deleted.is_(False),
-            )
+            ).limit(200)
         ).all()
         for candidate in candidates:
             if _normalize_phone(candidate.phone) == phone_key:

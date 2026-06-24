@@ -54,6 +54,7 @@ class LeadBase(BaseModel):
     source: str | None = Field(default=None, max_length=128)
     assigned_to_id: UUID | None = None
     customer_id: UUID | None = None
+    message: str | None = None
 
 
 class LeadCreate(LeadBase):
@@ -73,6 +74,7 @@ class LeadUpdate(BaseModel):
     source: str | None = Field(default=None, max_length=128)
     assigned_to_id: UUID | None = None
     customer_id: UUID | None = None
+    message: str | None = None
     append_notes: list[LeadNoteCreateNested] | None = None
     append_activities: list[LeadActivityCreateNested] | None = None
     append_followups: list[LeadFollowupCreateNested] | None = None

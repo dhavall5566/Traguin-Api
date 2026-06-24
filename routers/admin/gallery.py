@@ -37,7 +37,11 @@ def list_client_stories(
     pagination: tuple[int, int] = Depends(get_pagination),
 ):
     limit, offset = pagination
-    query = db.query(ClientStory).order_by(ClientStory.client_name)
+    query = db.query(ClientStory).order_by(
+        ClientStory.home_sort_order.nulls_last(),
+        ClientStory.gallery_sort_order.nulls_last(),
+        ClientStory.client_name,
+    )
     return paginate(query, limit, offset, transform=ClientStoryRead.model_validate)
 
 

@@ -40,6 +40,7 @@ class Lead(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     proposal_sent_at: Mapped[Optional[datetime]] = mapped_column(
         DateTime(timezone=True), nullable=True
     )
+    message: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     is_deleted: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
 
     agency: Mapped[Agency] = relationship(back_populates="leads")

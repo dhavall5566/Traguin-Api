@@ -98,8 +98,10 @@ def list_homepage_region_panels(
     pagination: tuple[int, int] = Depends(get_pagination),
 ):
     limit, offset = pagination
-    query = db.query(HomepageRegionPanel).order_by(
-        HomepageRegionPanel.sort_order, HomepageRegionPanel.key
+    query = (
+        db.query(HomepageRegionPanel)
+        .filter(HomepageRegionPanel.is_active.is_(True))
+        .order_by(HomepageRegionPanel.sort_order, HomepageRegionPanel.key)
     )
     return paginate(query, limit, offset, transform=HomepageRegionPanelRead.model_validate)
 

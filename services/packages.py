@@ -6,6 +6,7 @@ from models.destinations import Destination
 from models.packages import Package, PackageHighlight, PackageMood
 from schemas.packages import PackageHighlightRead, PackageListRead, PackageRead
 from utils.orm_read import orm_read_with_nested
+from utils.package_title import clean_package_title
 
 
 def package_query_with_nested(db: Session):
@@ -31,7 +32,7 @@ def package_to_list_read(row: tuple[Package, str]) -> PackageListRead:
         slug=package.slug,
         destination_id=package.destination_id,
         destination_name=destination_name,
-        title=package.title,
+        title=clean_package_title(package.title) or package.title,
         duration_label=package.duration_label,
         price=package.price,
         hero_media_id=package.hero_media_id,
@@ -61,8 +62,11 @@ def package_to_read(package: Package) -> PackageRead:
         for h in sorted(package.highlights, key=lambda x: x.sort_order)
     ]
     moods = [m.mood for m in package.moods]
-    return orm_read_with_nested(
+    read = orm_read_with_nested(
         PackageRead,
         package,
         nested={"highlights": highlights, "moods": moods},
     )
+    if read.title:
+        read.title = clean_package_title(read.title) or read.title
+    return read

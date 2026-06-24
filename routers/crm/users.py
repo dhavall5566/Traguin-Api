@@ -77,10 +77,10 @@ def create_user(
             detail="Cannot create users outside your agency.",
         )
 
-    data = payload.model_dump(exclude={"password", "agency_id"})
+    data = payload.model_dump(exclude={"password", "agency_id", "email"})
     user = User(
         **data,
-        email=payload.email.lower(),
+        email=str(payload.email).strip().lower(),
         agency_id=target_agency_id,
         password_hash=hash_password(payload.password),
     )

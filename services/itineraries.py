@@ -24,6 +24,7 @@ from schemas.itineraries import (
 )
 from schemas.media import MediaSummary
 from utils.orm_read import orm_read_with_nested
+from utils.package_title import clean_package_title
 
 
 def itinerary_query_with_nested(db: Session):
@@ -56,10 +57,10 @@ def itinerary_to_list_read(row: tuple[Itinerary, str, str | None]) -> ItineraryL
         updated_at=itinerary.updated_at,
         slug=itinerary.slug,
         package_id=itinerary.package_id,
-        package_title=package_title,
+        package_title=clean_package_title(package_title) if package_title else package_title,
         destination_id=itinerary.destination_id,
         destination_name=destination_name,
-        title=itinerary.title,
+        title=clean_package_title(itinerary.title) or itinerary.title,
         duration_label=itinerary.duration_label,
         duration_days=itinerary.duration_days,
         starting_price=itinerary.starting_price,
@@ -152,7 +153,7 @@ def itinerary_to_read(itinerary: Itinerary) -> ItineraryRead:
         for link in sorted(itinerary.gallery_media, key=lambda x: x.sort_order)
         if link.media is not None
     ]
-    return orm_read_with_nested(
+    read = orm_read_with_nested(
         ItineraryRead,
         itinerary,
         nested={
@@ -163,3 +164,6 @@ def itinerary_to_read(itinerary: Itinerary) -> ItineraryRead:
             "gallery_media": gallery_media,
         },
     )
+    if read.title:
+        read.title = clean_package_title(read.title) or read.title
+    return read

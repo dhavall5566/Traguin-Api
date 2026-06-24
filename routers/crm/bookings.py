@@ -66,6 +66,21 @@ def create_booking(
     db: Session = Depends(get_db),
 ):
     _validate_booking_refs(db, agency_id=agency_id, customer_id=payload.customer_id, itinerary_id=payload.itinerary_id)
+
+    if payload.itinerary_id is not None:
+        existing = (
+            db.query(Booking)
+            .filter(
+                Booking.agency_id == agency_id,
+                Booking.customer_id == payload.customer_id,
+                Booking.itinerary_id == payload.itinerary_id,
+            )
+            .order_by(Booking.created_at.desc())
+            .first()
+        )
+        if existing is not None:
+            return existing
+
     booking = Booking(**payload.model_dump(), agency_id=agency_id)
     db.add(booking)
     db.flush()

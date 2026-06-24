@@ -38,17 +38,12 @@ class ClientStory(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     portrait_media_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="SET NULL"), nullable=True
     )
-    poster_media_id: Mapped[Optional[uuid.UUID]] = mapped_column(
-        UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="SET NULL"), nullable=True
-    )
-    video_url: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
-    is_film: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     show_on_home: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     show_in_gallery: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     is_featured_in_gallery: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     home_sort_order: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
     gallery_sort_order: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
-    is_published: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
+    is_published: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
 
     def __repr__(self) -> str:
         return f"<ClientStory client_name={self.client_name!r}>"

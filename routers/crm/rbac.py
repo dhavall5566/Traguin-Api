@@ -6,7 +6,7 @@ from sqlalchemy.orm import Session
 from database import get_db
 from dependencies.crm_auth import require_agency_scope
 from dependencies.pagination import get_pagination
-from models.crm.tenancy import Permission, Role, RolePermission, UserRole
+from models.crm.tenancy import Permission, Role, RolePermission, User, UserRole
 from schemas.crm.rbac import (
     PermissionCreate,
     PermissionRead,
@@ -198,6 +198,22 @@ def remove_role_permission(
 
 
 # --- UserRole junction ---
+
+
+@router.get("/user-roles", response_model=list[UserRoleRead])
+def list_agency_user_roles(
+    agency_id: UUID = Depends(require_agency_scope),
+    db: Session = Depends(get_db),
+):
+    """All role assignments for active users in the current agency (single query)."""
+    rows = (
+        db.query(UserRole)
+        .join(User, User.id == UserRole.user_id)
+        .filter(User.agency_id == agency_id, User.is_deleted.is_(False))
+        .order_by(UserRole.user_id)
+        .all()
+    )
+    return [UserRoleRead(user_id=r.user_id, role_id=r.role_id) for r in rows]
 
 
 @router.get("/users/{user_id}/roles", response_model=list[UserRoleRead])

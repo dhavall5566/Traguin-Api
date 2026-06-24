@@ -101,6 +101,7 @@ class HomepageRegionPanelBase(BaseModel):
     mood: str | None = Field(default=None, max_length=16)
     hero_media_id: UUID | None = None
     sort_order: int = 0
+    is_active: bool = True
 
 
 class HomepageRegionPanelCreate(HomepageRegionPanelBase):
@@ -118,6 +119,7 @@ class HomepageRegionPanelUpdate(BaseModel):
     mood: str | None = Field(default=None, max_length=16)
     hero_media_id: UUID | None = None
     sort_order: int | None = None
+    is_active: bool | None = None
 
 
 class HomepageRegionPanelRead(TimestampRead, HomepageRegionPanelBase):

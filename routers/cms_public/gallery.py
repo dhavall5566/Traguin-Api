@@ -29,7 +29,16 @@ def list_client_stories(
         query = query.filter(ClientStory.show_on_home.is_(show_on_home))
     if show_in_gallery is not None:
         query = query.filter(ClientStory.show_in_gallery.is_(show_in_gallery))
-    query = query.order_by(ClientStory.home_sort_order.nulls_last(), ClientStory.client_name)
+    if show_in_gallery is True:
+        query = query.order_by(
+            ClientStory.gallery_sort_order.nulls_last(),
+            ClientStory.client_name,
+        )
+    else:
+        query = query.order_by(
+            ClientStory.home_sort_order.nulls_last(),
+            ClientStory.client_name,
+        )
     return paginate(query, limit, offset, transform=ClientStoryRead.model_validate)
 
 
