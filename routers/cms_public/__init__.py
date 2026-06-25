@@ -23,6 +23,7 @@ from routers.cms_public.gallery import (
     gallery_categories_router,
     gallery_items_router,
 )
+from routers.cms_public.homepage import router as homepage_router
 from routers.cms_public.hotels import router as hotels_router
 from routers.cms_public.itineraries import router as itineraries_router
 from routers.cms_public.legal import router as legal_router
@@ -45,6 +46,7 @@ from routers.cms_public.specializations import router as specializations_router
 
 router = APIRouter()
 
+router.include_router(homepage_router, prefix="/homepage", tags=["Public · Homepage"])
 router.include_router(specializations_router, prefix="/specializations", tags=["Public · Specializations"])
 router.include_router(destinations_router, prefix="/destinations", tags=["Public · Destinations"])
 router.include_router(packages_router, prefix="/packages", tags=["Public · Packages"])
