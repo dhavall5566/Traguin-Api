@@ -31,6 +31,8 @@ class Settings(BaseSettings):
     traguin_system_user_id: UUID | None = None
     groq_api_key: str | None = None
     pexels_api_key: str | None = None
+    media_upload_dir: Path = _API_DIR / "uploads" / "media"
+    media_upload_max_bytes: int = 10 * 1024 * 1024
 
     @field_validator("pexels_api_key", mode="before")
     @classmethod

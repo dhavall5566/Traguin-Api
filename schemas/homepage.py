@@ -11,7 +11,7 @@ from schemas.marketing import (
     JourneyProcessStepRead,
     ValuePropositionRead,
 )
-from schemas.media import MediaAssetRead
+from schemas.media import MediaSummary
 from schemas.packages import PackageRead
 from schemas.specialization import SpecializationRead
 
@@ -20,7 +20,7 @@ class HomepageBundleRead(BaseModel):
     packages: list[PackageRead] = Field(default_factory=list)
     destinations: list[DestinationRead] = Field(default_factory=list)
     itineraries: list[ItineraryRead] = Field(default_factory=list)
-    media: list[MediaAssetRead] = Field(default_factory=list)
+    media: list[MediaSummary] = Field(default_factory=list)
     company_stats: CompanyStatsRead
     region_panels: list[HomepageRegionPanelRead] = Field(default_factory=list)
     homepage_promo: HomepagePromoRead | None = None

@@ -20,6 +20,7 @@ from services.itineraries import (
 )
 from services.media_from_pexels import apply_pexels_images_to_package
 from services.packages import package_query_with_nested, sync_package_highlights, sync_package_moods
+from services.travel_moods import travel_moods_for_package
 from utils.db import commit_or_raise
 
 
@@ -37,13 +38,18 @@ def upsert_gujarat_package(
         raise RuntimeError(f"Destination not found: {destination_id}")
 
     existing_pkg = db.scalar(select(Package).where(Package.slug == package.slug))
+    moods = travel_moods_for_package(package.slug, package.moods)
     if existing_pkg:
         print(f"Package already exists: {package.slug} ({existing_pkg.id})")
         pkg_row = existing_pkg
+        current_moods = [m.mood for m in pkg_row.moods]
+        if current_moods != moods:
+            sync_package_moods(db, pkg_row, moods)
+            print(f"  Updated moods: {current_moods} -> {moods}")
     else:
         pkg_data = package.model_dump()
         highlights = pkg_data.pop("highlights")
-        moods = pkg_data.pop("moods")
+        pkg_data.pop("moods", None)
         pkg_row = Package(**pkg_data)
         db.add(pkg_row)
         db.flush()

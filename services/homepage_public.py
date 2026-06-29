@@ -34,10 +34,11 @@ from schemas.marketing import (
     ValuePropositionRead,
 )
 from schemas.specialization import SpecializationRead
-from schemas.media import MediaAssetRead
+from schemas.media import MediaSummary
 from schemas.packages import PackageRead
 from services.destinations import destination_query_with_categories, destination_to_read
 from services.experiences import experience_query_with_nested, experience_to_read
+from services.gallery import client_story_query, client_story_to_read
 from services.homepage_hero_settings import read_homepage_hero_settings
 from services.itineraries import itinerary_query_with_nested, itinerary_to_read
 from services.packages import package_query_with_nested, package_to_read
@@ -57,13 +58,19 @@ def _collect_media_ids(
     region_panels: list[HomepageRegionPanel],
     experiences: list[Experience],
     client_stories: list[ClientStory],
+    destination_ids: set[UUID] | None = None,
 ) -> set[UUID]:
     ids: set[UUID] = set()
+    scoped_destinations = (
+        [dest for dest in destinations if dest.id in destination_ids]
+        if destination_ids
+        else destinations
+    )
 
     for pkg in packages:
         _add_media_id(ids, pkg.hero_media_id)
 
-    for dest in destinations:
+    for dest in scoped_destinations:
         _add_media_id(ids, dest.hero_media_id)
         for link in dest.gallery_media:
             if link.media_id is not None:
@@ -114,8 +121,10 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
 
     hero_package_ids = {p.id for p in (featured_packages or packages[: hero_settings["hero_slider_max_items"]])}
     featured_dest_ids = {d.id for d in destinations if d.is_featured}
-    hero_dest_ids = {p.destination_id for p in packages if p.id in hero_package_ids}
+    hero_dest_ids = {p.destination_id for p in packages if p.id in hero_package_ids and p.destination_id}
     itinerary_dest_ids = featured_dest_ids | hero_dest_ids
+    media_package_ids = hero_package_ids
+    media_packages = [p for p in packages if p.id in media_package_ids]
 
     itinerary_filters = [Itinerary.is_published.is_(True)]
     scope_filters = []
@@ -129,12 +138,14 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
     itineraries = (
         itinerary_query_with_nested(db)
         .filter(*itinerary_filters)
-        .order_by(Itinerary.headline)
+        .order_by(Itinerary.title)
+        .limit(40)
         .all()
     )
 
     region_panels = (
         db.query(HomepageRegionPanel)
+        .filter(HomepageRegionPanel.is_active.is_(True))
         .order_by(HomepageRegionPanel.sort_order)
         .limit(20)
         .all()
@@ -172,7 +183,7 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
     )
 
     client_stories = (
-        db.query(ClientStory)
+        client_story_query(db)
         .filter(ClientStory.show_on_home.is_(True))
         .order_by(ClientStory.home_sort_order.nulls_last(), ClientStory.client_name)
         .limit(20)
@@ -180,12 +191,13 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
     )
 
     media_ids = _collect_media_ids(
-        packages=packages,
+        packages=media_packages,
         destinations=destinations,
         itineraries=itineraries,
         region_panels=region_panels,
         experiences=experiences,
         client_stories=client_stories,
+        destination_ids=itinerary_dest_ids,
     )
 
     media_assets: list[MediaAsset] = []
@@ -196,7 +208,14 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
         packages=[package_to_read(p) for p in packages],
         destinations=[destination_to_read(d) for d in destinations],
         itineraries=[itinerary_to_read(i) for i in itineraries],
-        media=[MediaAssetRead.model_validate(m) for m in media_assets],
+        media=[
+            MediaSummary(
+                id=asset.id,
+                url=asset.url,
+                alt_text=asset.alt_text,
+            )
+            for asset in media_assets
+        ],
         company_stats=CompanyStatsRead.model_validate(company_stats),
         region_panels=[HomepageRegionPanelRead.model_validate(p) for p in region_panels],
         homepage_promo=(
@@ -206,5 +225,5 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
         journey_process_steps=[JourneyProcessStepRead.model_validate(s) for s in journey_steps],
         specializations=[SpecializationRead.model_validate(s) for s in specializations],
         value_propositions=[ValuePropositionRead.model_validate(v) for v in value_propositions],
-        client_stories=[ClientStoryRead.model_validate(s) for s in client_stories],
+        client_stories=[client_story_to_read(s) for s in client_stories],
     )

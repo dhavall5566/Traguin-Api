@@ -8,6 +8,9 @@ from config import settings
 
 PEXELS_SEARCH_URL = "https://api.pexels.com/v1/search"
 
+# Mis-tagged or off-theme photos that Pexels search may surface for Kashmir queries.
+BLOCKED_PEXELS_IDS: frozenset[int] = frozenset({35030068})
+
 
 class PexelsError(RuntimeError):
     pass
@@ -30,7 +33,7 @@ def search_pexels_photo(
         raise PexelsError("PEXELS_API_KEY is not configured in api/.env.")
 
     blocked_urls = exclude_urls or set()
-    blocked_ids = exclude_pexels_ids or set()
+    blocked_ids = BLOCKED_PEXELS_IDS | (exclude_pexels_ids or set())
 
     for current_page in range(page, page + 5):
         response = httpx.get(

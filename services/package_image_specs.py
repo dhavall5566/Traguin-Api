@@ -451,7 +451,7 @@ JK_002_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
 ]
 
 JK_003_PEXELS_IMAGES: list[dict[str, str | list[str]]] = [
-    {"slug": "jk-003-hero-pahalgam-betaab-stream", "query": "Betaab Valley crystal stream pine forest Pahalgam Kashmir", "alt": "Crystal stream cutting through Betaab Valley, Pahalgam", "tags": ["jk-003", "betaab", "hero"]},
+    {"slug": "jk-003-hero-dal-lake-houseboats", "query": "Dal Lake houseboats Zabarwan mountains Srinagar Kashmir", "alt": "Dal Lake houseboats and Zabarwan mountains, Srinagar, Kashmir", "tags": ["jk-003", "dal-lake", "hero"]},
     {"slug": "jk-003-dal-lake-shikara-sunset", "query": "Shikara boat Dal Lake golden sunset Zabarwan mountains", "alt": "Golden sunset Shikara cruise on Dal Lake with Zabarwan backdrop", "tags": ["jk-003", "shikara"]},
     {"slug": "jk-003-aru-valley-alpine", "query": "Aru Valley alpine meadow village Pahalgam Kashmir", "alt": "Alpine meadows and village vistas at Aru Valley, Pahalgam", "tags": ["jk-003", "aru"]},
     {"slug": "jk-003-gulmarg-apharwat-peak", "query": "Apharwat Peak Gulmarg snow ridge cable car view", "alt": "Snow ridge views from Apharwat Peak, Gulmarg", "tags": ["jk-003", "apharwat"]},

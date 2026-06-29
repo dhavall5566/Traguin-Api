@@ -19,9 +19,12 @@ from schemas.gallery import (
 )
 from schemas.pagination import PaginatedResponse
 from services.gallery import (
+    client_story_query,
+    client_story_to_read,
     gallery_item_query_with_categories,
     gallery_item_to_read,
     sync_gallery_item_categories,
+    sync_gallery_item_media,
 )
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
@@ -37,20 +40,20 @@ def list_client_stories(
     pagination: tuple[int, int] = Depends(get_pagination),
 ):
     limit, offset = pagination
-    query = db.query(ClientStory).order_by(
+    query = client_story_query(db).order_by(
         ClientStory.home_sort_order.nulls_last(),
         ClientStory.gallery_sort_order.nulls_last(),
         ClientStory.client_name,
     )
-    return paginate(query, limit, offset, transform=ClientStoryRead.model_validate)
+    return paginate(query, limit, offset, transform=client_story_to_read)
 
 
 @client_stories_router.get("/{story_id}", response_model=ClientStoryRead)
 def get_client_story(story_id: UUID, db: Session = Depends(get_db)):
-    item = db.get(ClientStory, story_id)
+    item = client_story_query(db).filter_by(id=story_id).one_or_none()
     if item is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Client story not found.")
-    return item
+    return client_story_to_read(item)
 
 
 @client_stories_router.post("", response_model=ClientStoryRead, status_code=status.HTTP_201_CREATED)
@@ -58,8 +61,8 @@ def create_client_story(payload: ClientStoryCreate, db: Session = Depends(get_db
     item = ClientStory(**payload.model_dump())
     db.add(item)
     commit_or_raise(db)
-    db.refresh(item)
-    return item
+    item = client_story_query(db).filter_by(id=item.id).one()
+    return client_story_to_read(item)
 
 
 @client_stories_router.patch("/{story_id}", response_model=ClientStoryRead)
@@ -73,8 +76,8 @@ def update_client_story(
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Client story not found.")
     apply_partial_update(item, payload.model_dump(exclude_unset=True))
     commit_or_raise(db)
-    db.refresh(item)
-    return item
+    item = client_story_query(db).filter_by(id=item.id).one()
+    return client_story_to_read(item)
 
 
 @client_stories_router.delete("/{story_id}", status_code=status.HTTP_204_NO_CONTENT)
@@ -163,10 +166,12 @@ def get_gallery_item(item_id: UUID, db: Session = Depends(get_db)):
 def create_gallery_item(payload: GalleryItemCreate, db: Session = Depends(get_db)):
     data = payload.model_dump()
     category_ids = data.pop("category_ids")
+    media_ids = data.pop("media_ids")
     item = GalleryItem(**data)
     db.add(item)
     db.flush()
     sync_gallery_item_categories(db, item, category_ids)
+    sync_gallery_item_media(db, item, media_ids)
     commit_or_raise(db)
     item = gallery_item_query_with_categories(db).filter_by(id=item.id).one()
     return gallery_item_to_read(item)
@@ -183,9 +188,12 @@ def update_gallery_item(
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Gallery item not found.")
     data = payload.model_dump(exclude_unset=True)
     category_ids = data.pop("category_ids", None)
+    media_ids = data.pop("media_ids", None)
     apply_partial_update(item, data)
     if category_ids is not None:
         sync_gallery_item_categories(db, item, category_ids)
+    if media_ids is not None:
+        sync_gallery_item_media(db, item, media_ids)
     commit_or_raise(db)
     item = gallery_item_query_with_categories(db).filter_by(id=item.id).one()
     return gallery_item_to_read(item)

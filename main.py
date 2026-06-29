@@ -1,7 +1,11 @@
-from fastapi import Depends, FastAPI, Request, status
+from pathlib import Path
+
+from fastapi import Depends, FastAPI, File, Form, HTTPException, Request, Response, UploadFile, status
 from fastapi.exceptions import RequestValidationError
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.gzip import GZipMiddleware
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 
 from config import settings
@@ -13,6 +17,12 @@ from routers.crm import router as crm_router
 from routers.cms_public import router as public_router
 
 app = FastAPI(title="Traguin API")
+
+app.add_middleware(GZipMiddleware, minimum_size=1024)
+
+uploads_root = Path(settings.media_upload_dir).parent
+uploads_root.mkdir(parents=True, exist_ok=True)
+app.mount("/uploads", StaticFiles(directory=str(uploads_root)), name="uploads")
 
 app.add_middleware(
     CORSMiddleware,

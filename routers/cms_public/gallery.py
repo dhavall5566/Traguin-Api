@@ -8,7 +8,12 @@ from dependencies.pagination import get_pagination
 from models.gallery import ClientStory, GalleryCategory, GalleryItem
 from schemas.gallery import ClientStoryRead, GalleryCategoryRead, GalleryItemRead
 from schemas.pagination import PaginatedResponse
-from services.gallery import gallery_item_query_with_categories, gallery_item_to_read
+from services.gallery import (
+    client_story_query,
+    client_story_to_read,
+    gallery_item_query_with_categories,
+    gallery_item_to_read,
+)
 from utils.pagination import paginate
 
 client_stories_router = APIRouter()
@@ -24,7 +29,7 @@ def list_client_stories(
     pagination: tuple[int, int] = Depends(get_pagination),
 ):
     limit, offset = pagination
-    query = db.query(ClientStory).filter(ClientStory.is_published.is_(True))
+    query = client_story_query(db).filter(ClientStory.is_published.is_(True))
     if show_on_home is not None:
         query = query.filter(ClientStory.show_on_home.is_(show_on_home))
     if show_in_gallery is not None:
@@ -39,15 +44,15 @@ def list_client_stories(
             ClientStory.home_sort_order.nulls_last(),
             ClientStory.client_name,
         )
-    return paginate(query, limit, offset, transform=ClientStoryRead.model_validate)
+    return paginate(query, limit, offset, transform=client_story_to_read)
 
 
 @client_stories_router.get("/{story_id}", response_model=ClientStoryRead)
 def get_client_story(story_id: UUID, db: Session = Depends(get_db)):
-    item = db.get(ClientStory, story_id)
+    item = client_story_query(db).filter_by(id=story_id).one_or_none()
     if item is None or not item.is_published:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Client story not found.")
-    return item
+    return client_story_to_read(item)
 
 
 @gallery_categories_router.get("", response_model=PaginatedResponse[GalleryCategoryRead])

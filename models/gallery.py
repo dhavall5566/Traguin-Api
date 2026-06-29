@@ -18,26 +18,21 @@ from models.base import Base, TimestampMixin, UUIDPrimaryKeyMixin
 class ClientStory(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     __tablename__ = "client_stories"
     __table_args__ = (
-        Index("ix_client_stories_slug", "slug", unique=True),
         Index("ix_client_stories_show_on_home", "show_on_home"),
         Index("ix_client_stories_show_in_gallery", "show_in_gallery"),
         Index("ix_client_stories_is_published", "is_published"),
         Index("ix_client_stories_destination_id", "destination_id"),
     )
 
-    slug: Mapped[Optional[str]] = mapped_column(String(128), unique=True, nullable=True)
     client_name: Mapped[str] = mapped_column(String(255), nullable=False)
     destination_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("destinations.id", ondelete="SET NULL"), nullable=True
     )
-    destination_label: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
-    trip_type: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
     quote: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
-    title: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
-    caption: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     portrait_media_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="SET NULL"), nullable=True
     )
+    destination: Mapped[Optional["Destination"]] = relationship("Destination")
     show_on_home: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     show_in_gallery: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
     is_featured_in_gallery: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
@@ -76,8 +71,8 @@ class GalleryItem(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     slug: Mapped[str] = mapped_column(String(128), unique=True, nullable=False)
     place: Mapped[str] = mapped_column(String(255), nullable=False)
     region_label: Mapped[str] = mapped_column(String(255), nullable=False)
-    media_id: Mapped[uuid.UUID] = mapped_column(
-        UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="RESTRICT"), nullable=False
+    media_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="SET NULL"), nullable=True
     )
     layout: Mapped[str] = mapped_column(String(16), nullable=False)
     label_style: Mapped[str] = mapped_column(String(16), nullable=False)
@@ -88,9 +83,36 @@ class GalleryItem(Base, UUIDPrimaryKeyMixin, TimestampMixin):
         back_populates="gallery_item",
         cascade="all, delete-orphan",
     )
+    gallery_media: Mapped[list["GalleryItemMedia"]] = relationship(
+        back_populates="gallery_item",
+        cascade="all, delete-orphan",
+        order_by="GalleryItemMedia.sort_order",
+    )
 
     def __repr__(self) -> str:
         return f"<GalleryItem slug={self.slug!r} place={self.place!r}>"
+
+
+class GalleryItemMedia(Base, UUIDPrimaryKeyMixin, TimestampMixin):
+    __tablename__ = "gallery_item_media"
+    __table_args__ = (
+        Index("ix_gallery_item_media_gallery_item_id", "gallery_item_id"),
+        Index("ix_gallery_item_media_sort", "gallery_item_id", "sort_order"),
+    )
+
+    gallery_item_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("gallery_items.id", ondelete="CASCADE"), nullable=False
+    )
+    media_id: Mapped[uuid.UUID] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="CASCADE"), nullable=False
+    )
+    sort_order: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+
+    gallery_item: Mapped["GalleryItem"] = relationship(back_populates="gallery_media")
+    media: Mapped["MediaAsset"] = relationship()
+
+    def __repr__(self) -> str:
+        return f"<GalleryItemMedia item={self.gallery_item_id} sort={self.sort_order}>"
 
 
 class GalleryItemCategory(Base, TimestampMixin):

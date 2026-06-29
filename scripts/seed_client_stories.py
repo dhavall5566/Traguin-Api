@@ -16,15 +16,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from sqlalchemy import select
 
 from database import SessionLocal
+from models.destinations import Destination
 from models.gallery import ClientStory
 from models.media import MediaAsset
 
 TESTIMONIALS = [
     {
-        "slug": "priya-arjun-sharma",
         "client_name": "Priya & Arjun Sharma",
-        "destination_label": "Bali",
-        "trip_type": "Luxury Honeymoon",
+        "destination_name": "Bali",
         "quote": "TRAGUIN transformed our honeymoon into a cinematic love story. Every moment felt personally orchestrated.",
         "portrait_url": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80",
         "show_on_home": True,
@@ -33,10 +32,8 @@ TESTIMONIALS = [
         "gallery_sort_order": 1,
     },
     {
-        "slug": "rajesh-mehta",
         "client_name": "Rajesh Mehta",
-        "destination_label": "Switzerland",
-        "trip_type": "Alpine Escape",
+        "destination_name": "Switzerland",
         "quote": "The attention to detail was extraordinary. From private transfers to hidden alpine restaurants, flawless.",
         "portrait_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80",
         "show_on_home": True,
@@ -45,10 +42,8 @@ TESTIMONIALS = [
         "gallery_sort_order": 2,
     },
     {
-        "slug": "ananya-desai",
         "client_name": "Ananya Desai",
-        "destination_label": "Kerala",
-        "trip_type": "Family Journey",
+        "destination_name": "Kerala",
         "quote": "Our family backwater journey was magical. The kids still talk about the houseboat every day.",
         "portrait_url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80",
         "show_on_home": True,
@@ -57,10 +52,8 @@ TESTIMONIALS = [
         "gallery_sort_order": 3,
     },
     {
-        "slug": "vikram-neha-kapoor",
         "client_name": "Vikram & Neha Kapoor",
-        "destination_label": "Dubai",
-        "trip_type": "Corporate Retreat",
+        "destination_name": "Dubai",
         "quote": "Corporate retreat turned luxury escape. TRAGUIN handled everything with white-glove precision.",
         "portrait_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80",
         "show_on_home": True,
@@ -69,10 +62,8 @@ TESTIMONIALS = [
         "gallery_sort_order": 4,
     },
     {
-        "slug": "sofia-laurent",
         "client_name": "Sofia Laurent",
-        "destination_label": "Maldives",
-        "trip_type": "Wellness Retreat",
+        "destination_name": "Maldives",
         "quote": "A week of complete serenity. Every detail anticipated before we even thought to ask.",
         "portrait_url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80",
         "show_on_home": True,
@@ -81,10 +72,8 @@ TESTIMONIALS = [
         "gallery_sort_order": 5,
     },
     {
-        "slug": "david-emma-wright",
         "client_name": "David & Emma Wright",
-        "destination_label": "Japan",
-        "trip_type": "Cultural Discovery",
+        "destination_name": "Japan",
         "quote": "Impossible restaurants, private guides, and a pace that felt entirely our own.",
         "portrait_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.1.0&auto=format&fit=crop&w=400&q=80",
         "show_on_home": True,
@@ -127,32 +116,40 @@ def get_or_create_media(
     return asset
 
 
+def resolve_destination_id(session, destination_name: str | None):
+    if not destination_name:
+        return None
+    destination = session.scalar(
+        select(Destination).where(Destination.name.ilike(destination_name))
+    )
+    return destination.id if destination else None
+
+
 def seed_story(session, payload: dict) -> str:
-    slug = payload["slug"]
-    existing = session.scalar(select(ClientStory).where(ClientStory.slug == slug))
+    client_name = payload["client_name"]
+    existing = session.scalar(
+        select(ClientStory).where(ClientStory.client_name == client_name)
+    )
     if existing:
-        return f"skip {slug}"
+        return f"skip {client_name}"
 
     portrait_id = None
+    media_slug = slugify_media(client_name)
 
     if payload.get("portrait_url"):
         media = get_or_create_media(
             session,
-            slug=f"client-story-{slug}-portrait",
+            slug=f"client-story-{media_slug}-portrait",
             url=payload["portrait_url"],
-            alt_text=payload.get("client_name", slug),
+            alt_text=client_name,
             usage="client-story",
         )
         portrait_id = media.id
 
     story = ClientStory(
-        slug=slug,
-        client_name=payload["client_name"],
-        destination_label=payload.get("destination_label"),
-        trip_type=payload.get("trip_type"),
+        client_name=client_name,
+        destination_id=resolve_destination_id(session, payload.get("destination_name")),
         quote=payload.get("quote"),
-        title=payload.get("title"),
-        caption=payload.get("caption"),
         portrait_media_id=portrait_id,
         show_on_home=bool(payload.get("show_on_home", False)),
         show_in_gallery=bool(payload.get("show_in_gallery", False)),
@@ -163,7 +160,7 @@ def seed_story(session, payload: dict) -> str:
     )
     session.add(story)
     session.flush()
-    return f"created {slug}"
+    return f"created {client_name}"
 
 
 def main() -> None:

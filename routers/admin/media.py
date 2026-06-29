@@ -1,6 +1,8 @@
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, HTTPException, Response, status
+from pathlib import Path
+
+from fastapi import APIRouter, Depends, File, Form, HTTPException, Request, Response, UploadFile, status
 from sqlalchemy.orm import Session
 
 from database import get_db
@@ -8,6 +10,7 @@ from dependencies.pagination import get_pagination
 from models.media import MediaAsset
 from schemas.media import MediaAssetCreate, MediaAssetRead, MediaAssetUpdate
 from schemas.pagination import PaginatedResponse
+from services.media_upload import public_upload_url, save_uploaded_image
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
 
@@ -29,6 +32,31 @@ def get_media_asset(media_id: UUID, db: Session = Depends(get_db)):
     item = db.get(MediaAsset, media_id)
     if item is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Media asset not found.")
+    return item
+
+
+@router.post("/upload", response_model=MediaAssetRead, status_code=status.HTTP_201_CREATED)
+async def upload_media_asset(
+    request: Request,
+    file: UploadFile = File(...),
+    alt_text: str | None = Form(default=None),
+    db: Session = Depends(get_db),
+):
+    stored_name, mime_type, slug = save_uploaded_image(file)
+    url = public_upload_url(str(request.base_url), stored_name)
+    if slug and db.query(MediaAsset).filter(MediaAsset.slug == slug).first() is not None:
+        slug = None
+    item = MediaAsset(
+        slug=slug,
+        url=url,
+        alt_text=alt_text or (Path(file.filename or "").stem if file.filename else None),
+        mime_type=mime_type,
+        source="upload",
+        usage="upload",
+    )
+    db.add(item)
+    commit_or_raise(db)
+    db.refresh(item)
     return item
 
 

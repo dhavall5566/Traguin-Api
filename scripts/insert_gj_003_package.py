@@ -30,6 +30,7 @@ from services.itineraries import (
 from services.media_from_pexels import apply_pexels_images_to_package
 from services.package_image_specs import GJ_003_PEXELS_IMAGES
 from services.packages import package_query_with_nested, sync_package_highlights, sync_package_moods
+from services.travel_moods import travel_moods_for_package
 from utils.db import commit_or_raise
 
 GUJARAT_DESTINATION_ID = "07be1b4e-0016-4caa-a680-c130ba86b9f7"
@@ -274,10 +275,16 @@ def main() -> None:
         if existing_pkg:
             print(f"Package already exists: {PACKAGE_SLUG} ({existing_pkg.id})")
             package = existing_pkg
+            moods = travel_moods_for_package(PACKAGE.slug, PACKAGE.moods)
+            current_moods = [m.mood for m in package.moods]
+            if current_moods != moods:
+                sync_package_moods(db, package, moods)
+                print(f"  Updated moods: {current_moods} -> {moods}")
         else:
             pkg_data = PACKAGE.model_dump()
             highlights = pkg_data.pop("highlights")
-            moods = pkg_data.pop("moods")
+            pkg_data.pop("moods", None)
+            moods = travel_moods_for_package(PACKAGE.slug, PACKAGE.moods)
             package = Package(**pkg_data)
             db.add(package)
             db.flush()

@@ -3,6 +3,7 @@ from uuid import UUID
 from pydantic import BaseModel, Field
 
 from schemas.common import TimestampRead
+from schemas.media import MediaSummary
 
 
 class GalleryCategorySummary(BaseModel):
@@ -35,7 +36,6 @@ class GalleryItemBase(BaseModel):
     slug: str = Field(..., min_length=1, max_length=128)
     place: str = Field(..., min_length=1, max_length=255)
     region_label: str = Field(..., min_length=1, max_length=255)
-    media_id: UUID
     layout: str = Field(..., min_length=1, max_length=16)
     label_style: str = Field(..., min_length=1, max_length=16)
     sort_order: int | None = None
@@ -44,33 +44,31 @@ class GalleryItemBase(BaseModel):
 
 class GalleryItemCreate(GalleryItemBase):
     category_ids: list[UUID] = Field(default_factory=list)
+    media_ids: list[UUID] = Field(..., min_length=1)
 
 
 class GalleryItemUpdate(BaseModel):
     slug: str | None = Field(default=None, min_length=1, max_length=128)
     place: str | None = Field(default=None, min_length=1, max_length=255)
     region_label: str | None = Field(default=None, min_length=1, max_length=255)
-    media_id: UUID | None = None
     layout: str | None = Field(default=None, min_length=1, max_length=16)
     label_style: str | None = Field(default=None, min_length=1, max_length=16)
     sort_order: int | None = None
     is_published: bool | None = None
     category_ids: list[UUID] | None = None
+    media_ids: list[UUID] | None = Field(default=None, min_length=1)
 
 
 class GalleryItemRead(TimestampRead, GalleryItemBase):
+    media_id: UUID | None = None
+    media: list[MediaSummary] = Field(default_factory=list)
     categories: list[GalleryCategorySummary] = Field(default_factory=list)
 
 
 class ClientStoryBase(BaseModel):
-    slug: str | None = Field(default=None, max_length=128)
     client_name: str = Field(..., min_length=1, max_length=255)
     destination_id: UUID | None = None
-    destination_label: str | None = Field(default=None, max_length=255)
-    trip_type: str | None = Field(default=None, max_length=128)
     quote: str | None = None
-    title: str | None = Field(default=None, max_length=255)
-    caption: str | None = None
     portrait_media_id: UUID | None = None
     show_on_home: bool = False
     show_in_gallery: bool = False
@@ -85,14 +83,9 @@ class ClientStoryCreate(ClientStoryBase):
 
 
 class ClientStoryUpdate(BaseModel):
-    slug: str | None = Field(default=None, max_length=128)
     client_name: str | None = Field(default=None, min_length=1, max_length=255)
     destination_id: UUID | None = None
-    destination_label: str | None = Field(default=None, max_length=255)
-    trip_type: str | None = Field(default=None, max_length=128)
     quote: str | None = None
-    title: str | None = Field(default=None, max_length=255)
-    caption: str | None = None
     portrait_media_id: UUID | None = None
     show_on_home: bool | None = None
     show_in_gallery: bool | None = None
@@ -103,4 +96,4 @@ class ClientStoryUpdate(BaseModel):
 
 
 class ClientStoryRead(TimestampRead, ClientStoryBase):
-    pass
+    destination_name: str | None = None

@@ -39,7 +39,7 @@ from models.experiences import (
     ExperienceProcessStep,
     ExperienceStat,
 )
-from models.gallery import ClientStory, GalleryCategory, GalleryItem, GalleryItemCategory
+from models.gallery import ClientStory, GalleryCategory, GalleryItem, GalleryItemCategory, GalleryItemMedia
 from models.hotels import Hotel, HotelMedia, HotelNearbyAttraction
 from models.itineraries import (
     Itinerary,
@@ -91,6 +91,7 @@ __all__ = [
     "GalleryCategory",
     "GalleryItem",
     "GalleryItemCategory",
+    "GalleryItemMedia",
     "Faq",
     "HomepagePromo",
     "HomepageRegionPanel",
