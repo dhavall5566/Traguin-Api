@@ -63,6 +63,15 @@ def sync_gallery_item_media(
     gallery_item: GalleryItem,
     media_ids: list[UUID],
 ) -> None:
+    seen: set[UUID] = set()
+    unique_media_ids: list[UUID] = []
+    for media_id in media_ids:
+        if media_id in seen:
+            continue
+        seen.add(media_id)
+        unique_media_ids.append(media_id)
+    media_ids = unique_media_ids
+
     if not media_ids:
         gallery_item.gallery_media.clear()
         gallery_item.media_id = None
@@ -96,16 +105,20 @@ def gallery_item_to_read(gallery_item: GalleryItem) -> GalleryItemRead:
         for link in gallery_item.category_links
         if link.category is not None
     ]
-    media = [
-        MediaSummary(
-            id=link.media.id,
-            url=link.media.url,
-            alt_text=link.media.alt_text,
-            sort_order=link.sort_order,
+    media = []
+    seen_media_ids: set[UUID] = set()
+    for link in sorted(gallery_item.gallery_media, key=lambda row: row.sort_order):
+        if link.media is None or link.media.id in seen_media_ids:
+            continue
+        seen_media_ids.add(link.media.id)
+        media.append(
+            MediaSummary(
+                id=link.media.id,
+                url=link.media.url,
+                alt_text=link.media.alt_text,
+                sort_order=link.sort_order,
+            )
         )
-        for link in sorted(gallery_item.gallery_media, key=lambda row: row.sort_order)
-        if link.media is not None
-    ]
     return orm_read_with_nested(
         GalleryItemRead,
         gallery_item,
