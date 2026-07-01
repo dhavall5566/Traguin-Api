@@ -33,6 +33,7 @@ class Package(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     title: Mapped[str] = mapped_column(String(255), nullable=False)
     duration_label: Mapped[str] = mapped_column(String(64), nullable=False)
     price: Mapped[int] = mapped_column(Integer, nullable=False)
+    sold_last_month: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
     hero_media_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="SET NULL"), nullable=True
     )

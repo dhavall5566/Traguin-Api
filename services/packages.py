@@ -5,6 +5,7 @@ from sqlalchemy.orm import Session, selectinload
 from models.destinations import Destination
 from models.packages import Package, PackageHighlight, PackageMood
 from schemas.packages import PackageHighlightRead, PackageListRead, PackageRead
+from services.travel_moods import normalize_travel_moods
 from utils.orm_read import orm_read_with_nested
 from utils.package_title import clean_package_title
 
@@ -35,6 +36,7 @@ def package_to_list_read(row: tuple[Package, str]) -> PackageListRead:
         title=clean_package_title(package.title) or package.title,
         duration_label=package.duration_label,
         price=package.price,
+        sold_last_month=package.sold_last_month,
         hero_media_id=package.hero_media_id,
         rating=package.rating,
         is_featured=package.is_featured,
@@ -54,6 +56,12 @@ def sync_package_moods(db: Session, package: Package, moods: list[str]) -> None:
     package.moods.clear()
     for mood in moods:
         package.moods.append(PackageMood(mood=mood))
+
+
+def merge_package_moods(db: Session, package: Package, new_moods: list[str]) -> None:
+    existing = [m.mood for m in package.moods]
+    merged = normalize_travel_moods(existing + new_moods)
+    sync_package_moods(db, package, merged)
 
 
 def package_to_read(package: Package) -> PackageRead:

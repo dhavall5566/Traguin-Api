@@ -21,6 +21,7 @@ class PackageBase(BaseModel):
     title: str = Field(..., min_length=1, max_length=255)
     duration_label: str = Field(..., min_length=1, max_length=64)
     price: int = Field(..., ge=0)
+    sold_last_month: int = Field(default=0, ge=0)
     hero_media_id: UUID | None = None
     rating: Decimal | None = None
     is_featured: bool = False
@@ -39,6 +40,7 @@ class PackageUpdate(BaseModel):
     title: str | None = Field(default=None, min_length=1, max_length=255)
     duration_label: str | None = Field(default=None, min_length=1, max_length=64)
     price: int | None = Field(default=None, ge=0)
+    sold_last_month: int | None = Field(default=None, ge=0)
     hero_media_id: UUID | None = None
     rating: Decimal | None = None
     is_featured: bool | None = None
@@ -60,6 +62,7 @@ class PackageListRead(TimestampRead):
     title: str
     duration_label: str
     price: int = Field(..., ge=0)
+    sold_last_month: int = Field(default=0, ge=0)
     hero_media_id: UUID | None = None
     rating: Decimal | None = None
     is_featured: bool = False

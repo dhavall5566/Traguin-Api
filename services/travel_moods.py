@@ -38,6 +38,15 @@ MOOD_ALIASES: dict[str, str] = {
     "senior": "family",
     "girls-trip": "adventure",
     "girls trip": "adventure",
+    "premium": "luxury",
+    "educational": "cultural",
+    "education": "cultural",
+    "leisure": "nature",
+    "romantic": "romantic",
+    "complete": "luxury",
+    "all-women": "solo",
+    "all women": "solo",
+    "ladies": "solo",
 }
 
 # Curated from brochure / PDF package descriptions at insert time.
