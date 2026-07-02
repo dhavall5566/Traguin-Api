@@ -16,6 +16,7 @@ from models.crm.tenancy import User
 from models.submissions import FormSubmission
 from services.crm_audit import audit_create
 from services.lead_customers import link_or_create_customer_for_lead
+from utils.member_codes import inquiry_code_from_submission, member_code_from_phone
 
 LEAD_ELIGIBLE_FORM_TYPES = frozenset(
     {
@@ -27,8 +28,6 @@ LEAD_ELIGIBLE_FORM_TYPES = frozenset(
         "plan_my_journey",
     }
 )
-
-PLAN_MY_JOURNEY_NAME = "WhatsApp Callback Request"
 
 _PAYLOAD_LABELS: dict[str, str] = {
     "destination": "Destination",
@@ -47,6 +46,13 @@ _PAYLOAD_LABELS: dict[str, str] = {
     "dates": "Preferred dates",
     "itinerary_slug": "Itinerary slug",
     "itinerary_title": "Itinerary",
+    "rooms": "Rooms",
+    "adults": "Adults",
+    "children": "Children",
+    "child_ages": "Children ages",
+    "traveling_with_pets": "Traveling with pets",
+    "member_code": "Member code",
+    "inquiry_code": "Inquiry code",
     "hotel_id": "Hotel ID",
     "hotel_name": "Hotel",
     "rating": "Rating",
@@ -109,7 +115,11 @@ def _lead_title(submission: FormSubmission) -> str:
         return f"{hotel_name} booking request" if hotel_name else "Hotel booking request"
 
     if form_type == "plan_my_journey":
-        return "WhatsApp callback request"
+        itinerary_title = (payload.get("itinerary_title") or "").strip()
+        if itinerary_title:
+            return f"Plan My Journey · {itinerary_title}"
+        destination = (payload.get("destination") or "").strip()
+        return f"Plan My Journey · {destination}" if destination else "Plan My Journey inquiry"
 
     if form_type == "travel_expert_consultation":
         service = (payload.get("service") or "").strip()
@@ -122,7 +132,7 @@ def _lead_title(submission: FormSubmission) -> str:
 
 
 def _lead_value(submission: FormSubmission) -> Decimal:
-    if submission.form_type != "travel_planner":
+    if submission.form_type not in {"travel_planner", "plan_my_journey"}:
         return Decimal("0.00")
     budget = (submission.payload or {}).get("budget")
     if budget is None:
@@ -136,9 +146,25 @@ def _lead_value(submission: FormSubmission) -> Decimal:
 def _format_payload_value(value: Any) -> str:
     if value is None:
         return "—"
-    if isinstance(value, (dict, list)):
+    if isinstance(value, list):
+        return ", ".join(str(item) for item in value) if value else "—"
+    if isinstance(value, dict):
         return str(value)
     return str(value).strip() or "—"
+
+
+def _apply_tracking_codes(submission: FormSubmission) -> tuple[str, str]:
+    payload = dict(submission.payload or {})
+    phone = submission.phone or payload.get("phone")
+    member_code = member_code_from_phone(str(phone) if phone else None)
+    inquiry_code = inquiry_code_from_submission(
+        submission.id,
+        has_itinerary=bool(submission.related_itinerary_id or payload.get("itinerary_slug")),
+    )
+    payload["member_code"] = member_code
+    payload["inquiry_code"] = inquiry_code
+    submission.payload = payload
+    return member_code, inquiry_code
 
 
 def _build_intake_note(submission: FormSubmission) -> str:
@@ -176,11 +202,15 @@ def _contact_fields(submission: FormSubmission) -> tuple[str, str, str | None, s
     payload = submission.payload or {}
 
     if submission.form_type == "plan_my_journey":
-        first_name, last_name = split_name(PLAN_MY_JOURNEY_NAME)
+        name = (submission.name or payload.get("name") or "").strip()
+        first_name, last_name = split_name(name) if name else ("Unknown", "Visitor")
+        email = submission.email or payload.get("email")
+        if email:
+            email = str(email).strip().lower() or None
         phone = submission.phone or payload.get("phone")
         if phone:
             phone = str(phone).strip() or None
-        return first_name, last_name, None, phone
+        return first_name, last_name, email, phone
 
     name = (submission.name or payload.get("name") or "").strip()
     first_name, last_name = split_name(name) if name else ("Unknown", "Visitor")
@@ -213,6 +243,7 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
     if submission.form_type not in LEAD_ELIGIBLE_FORM_TYPES:
         return None
 
+    member_code, inquiry_code = _apply_tracking_codes(submission)
     agency_id, actor_user_id = _resolve_intake_actor(db)
     first_name, last_name, email, phone = _contact_fields(submission)
 
@@ -241,6 +272,29 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
         phone=phone,
     )
     lead.customer_id = customer.id
+
+    tracking_meta = {
+        "type": "website_intake",
+        "member_code": member_code,
+        "inquiry_code": inquiry_code,
+        "form_submission_id": str(submission.id),
+        "form_type": submission.form_type,
+    }
+    if submission.related_itinerary_id:
+        tracking_meta["cms_itinerary_id"] = str(submission.related_itinerary_id)
+    payload = submission.payload or {}
+    if payload.get("itinerary_slug"):
+        tracking_meta["itinerary_slug"] = payload.get("itinerary_slug")
+    if payload.get("itinerary_title"):
+        tracking_meta["itinerary_title"] = payload.get("itinerary_title")
+
+    existing_history = customer.travel_history
+    if isinstance(existing_history, list):
+        customer.travel_history = [*existing_history, tracking_meta]
+    elif isinstance(existing_history, dict):
+        customer.travel_history = {**existing_history, **tracking_meta}
+    else:
+        customer.travel_history = tracking_meta
 
     note_body = _build_intake_note(submission)
     db.add(
