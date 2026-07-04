@@ -1,6 +1,7 @@
 from uuid import UUID
 
 from fastapi import APIRouter, Depends, HTTPException, Query, status
+from sqlalchemy import func
 from sqlalchemy.orm import Session
 
 from database import get_db
@@ -41,7 +42,7 @@ def list_client_stories(
         )
     else:
         query = query.order_by(
-            ClientStory.home_sort_order.nulls_last(),
+            func.coalesce(ClientStory.gallery_sort_order, ClientStory.home_sort_order, 999),
             ClientStory.client_name,
         )
     return paginate(query, limit, offset, transform=client_story_to_read)

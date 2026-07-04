@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from uuid import UUID
 
-from sqlalchemy import or_
+from sqlalchemy import func, or_
 from sqlalchemy.orm import Session
 
 from models.config import CompanyStats
@@ -43,6 +43,8 @@ from services.homepage_hero_settings import read_homepage_hero_settings
 from services.itineraries import itinerary_query_with_nested, itinerary_to_read
 from services.packages import package_query_with_nested, package_to_read
 from utils.singleton import get_singleton_or_404
+
+HOME_CLIENT_STORIES_LIMIT = 6
 
 
 def _add_media_id(ids: set[UUID], value: UUID | None) -> None:
@@ -184,9 +186,16 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
 
     client_stories = (
         client_story_query(db)
-        .filter(ClientStory.show_on_home.is_(True))
-        .order_by(ClientStory.home_sort_order.nulls_last(), ClientStory.client_name)
-        .limit(20)
+        .filter(
+            ClientStory.is_published.is_(True),
+            ClientStory.quote.isnot(None),
+            ClientStory.quote != "",
+        )
+        .order_by(
+            func.coalesce(ClientStory.gallery_sort_order, ClientStory.home_sort_order, 999),
+            ClientStory.client_name,
+        )
+        .limit(HOME_CLIENT_STORIES_LIMIT)
         .all()
     )
 

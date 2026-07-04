@@ -30,17 +30,74 @@ def main():
         "PATCH",
         "/about-page-header",
         {
-            "eyebrow": "Who We Are",
-            "title": "Crafted for discerning travelers",
-            "description": "Like the world's finest travel houses, we combine deep destination knowledge with white-glove service, so every journey feels effortless and entirely yours.",
+            "eyebrow": "Luxury · Corporate · Experiential",
+            "title": "India-rooted. Globally trusted.",
+            "description": "TRAGUIN is a full-spectrum travel and destination management company delivering domestic and international travel solutions with global service standards and deep regional expertise. From leadership offsites and incentive programs to luxury leisure and immersive cultural journeys, we design experiences that are seamless, meaningful, and impeccably managed.",
         },
     )
     steps.append(f"about-page-header: {code}")
 
     sections = [
-        ("Our Story", "Founded in Ahmedabad, TRAGUIN began with a simple belief: luxury travel should feel personal, not transactional.", 0),
-        ("Since 2024", "We refined our craft from day one, pairing discerning travelers with properties, experiences, and specialists that reflect their standards.", 1),
-        ("Philosophy", "We design around how you wish to feel. Every itinerary balances beauty, comfort, and authenticity.", 2),
+        (
+            "Brand Story",
+            "TRAGUIN is a modern, premium, trust-driven travel brand headquartered in India, with an expanding international presence.",
+            0,
+        ),
+        (
+            "Who We Are",
+            "India remains our foundation and strongest capability, while our international portfolio is selective, curated, and premium by design.",
+            1,
+        ),
+        (
+            "Founder's Message",
+            "TRAGUIN was created with a simple but uncompromising belief—travel must be built on trust, intention, and excellence.",
+            2,
+        ),
+        (
+            "Philosophy & Pillars",
+            "Our philosophy rests on three pillars: craftsmanship, experience first, and responsible growth.",
+            3,
+        ),
+        (
+            "Core Services",
+            "TRAGUIN delivers end-to-end premium travel solutions across domestic and international destinations.",
+            4,
+        ),
+        (
+            "India — Destination Expertise",
+            "Deep regional mastery across West, North, East, North-East, and South India.",
+            5,
+        ),
+        (
+            "Corporate & MICE Excellence",
+            "Strategic corporate travel, MICE, leadership offsites, and end-to-end on-ground execution.",
+            6,
+        ),
+        (
+            "International Portfolio",
+            "Select international destinations curated with the same luxury standards as our domestic expertise.",
+            7,
+        ),
+        (
+            "TRAGUIN Villas",
+            "Ultra-luxury private villa stays for discerning guests, families, and corporate leaders.",
+            8,
+        ),
+        (
+            "Inbound — India for the World",
+            "Trusted India specialist for global partners—reliability, transparency, and destination authority.",
+            9,
+        ),
+        (
+            "Leadership",
+            "Abhilash Pillai, Founder—visionary thinking and execution discipline behind TRAGUIN.",
+            10,
+        ),
+        (
+            "Our Promise",
+            "We do not sell trips. We design experiences, manage responsibility, and deliver trust.",
+            11,
+        ),
     ]
     for title, body, sort_order in sections:
         code, _ = req("POST", "/about-story-sections", {"title": title, "body": body, "sort_order": sort_order})
