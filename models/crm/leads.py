@@ -1,12 +1,12 @@
 from __future__ import annotations
 
 import uuid
-from datetime import datetime
+from datetime import date, datetime
 from decimal import Decimal
-from typing import Optional
+from typing import Any, Optional
 
-from sqlalchemy import Boolean, DateTime, ForeignKey, Index, Numeric, String, Text
-from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy import Boolean, Date, DateTime, ForeignKey, Index, Integer, Numeric, String, Text
+from sqlalchemy.dialects.postgresql import JSONB, UUID
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from models.crm.base import CrmBase, CreatedAtMixin, TimestampMixin, UUIDPrimaryKeyMixin
@@ -41,6 +41,36 @@ class Lead(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
         DateTime(timezone=True), nullable=True
     )
     message: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
+    travel_date: Mapped[Optional[date]] = mapped_column(Date, nullable=True)
+    address_line1: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
+    address_line2: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
+    city: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    pincode: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    state: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    country: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
+    adults_count: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    children_count: Mapped[Optional[int]] = mapped_column(Integer, nullable=True)
+    children_ages: Mapped[Optional[list[Any]]] = mapped_column(JSONB, nullable=True)
+    travel_type: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    arrival_date: Mapped[Optional[date]] = mapped_column(Date, nullable=True)
+    hotel_category: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    meal_category: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    travel_destination: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
+    occasion: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    flight_type: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
+    extra_baggage: Mapped[Optional[str]] = mapped_column(String(8), nullable=True)
+    wheelchair_assistance: Mapped[Optional[str]] = mapped_column(String(8), nullable=True)
+    visa_assistance: Mapped[Optional[str]] = mapped_column(String(8), nullable=True)
+    travel_insurance: Mapped[Optional[str]] = mapped_column(String(8), nullable=True)
+    transportation: Mapped[Optional[str]] = mapped_column(String(16), nullable=True)
+    package_mode: Mapped[Optional[str]] = mapped_column(String(16), nullable=True)
+    cms_form_submission_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), nullable=True, index=True
+    )
+    cms_package_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), nullable=True, index=True
+    )
+    lead_code: Mapped[Optional[str]] = mapped_column(String(32), nullable=True, index=True)
     is_deleted: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
 
     agency: Mapped[Agency] = relationship(back_populates="leads")

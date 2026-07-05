@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session, joinedload
 
 from models.crm.leads import Lead, LeadActivity, LeadFollowup, LeadNote
 from schemas.crm.lead import LeadFollowupRead, LeadListRead, LeadRead
+from services.lead_codes import ensure_lead_code
 
 
 def lead_query_with_nested(db: Session):
@@ -14,13 +15,15 @@ def lead_query_with_nested(db: Session):
     )
 
 
-def lead_to_read(lead: Lead) -> LeadRead:
+def lead_to_read(db: Session, lead: Lead) -> LeadRead:
+    ensure_lead_code(db, lead)
     if not (lead.last_name or "").strip():
         lead.last_name = "Visitor"
     return LeadRead.model_validate(lead)
 
 
-def lead_to_list_read(lead: Lead) -> LeadListRead:
+def lead_to_list_read(db: Session, lead: Lead) -> LeadListRead:
+    ensure_lead_code(db, lead)
     if not (lead.last_name or "").strip():
         lead.last_name = "Visitor"
     return LeadListRead.model_validate(lead)

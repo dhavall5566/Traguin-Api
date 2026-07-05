@@ -1,13 +1,16 @@
 from __future__ import annotations
 
 import uuid
-from typing import Optional
+from typing import TYPE_CHECKING, Optional
 
 from sqlalchemy import Boolean, ForeignKey, Index, String, UniqueConstraint
 from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from models.crm.base import CrmBase, CreatedAtMixin, TimestampMixin, UUIDPrimaryKeyMixin
+
+if TYPE_CHECKING:
+    from models.crm.smtp_settings import AgencySmtpSettings
 
 
 class Agency(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
@@ -37,6 +40,9 @@ class Agency(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
         back_populates="agency", cascade="all, delete-orphan"
     )
     audit_logs: Mapped[list[AuditLog]] = relationship(back_populates="agency", cascade="all, delete-orphan")
+    smtp_settings: Mapped[Optional["AgencySmtpSettings"]] = relationship(
+        back_populates="agency", cascade="all, delete-orphan", uselist=False
+    )
 
 
 class User(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):

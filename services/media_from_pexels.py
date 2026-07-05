@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import httpx
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
@@ -8,6 +7,7 @@ from models.itineraries import Itinerary
 from models.media import MediaAsset
 from models.packages import Package
 from services.itineraries import sync_itinerary_gallery
+from services.media_upload import ingest_remote_image_url, is_local_media_url
 from services.pexels_images import PexelsError, search_pexels_photo
 from utils.slugify import slugify
 
@@ -22,10 +22,11 @@ def get_or_create_pexels_media(
     tags: list[str] | None = None,
     exclude_urls: set[str] | None = None,
     exclude_pexels_ids: set[int] | None = None,
+    request_base_url: str | None = None,
 ) -> MediaAsset | None:
     slug = slugify(f"pexels-{slug_key}")[:255]
     existing = db.scalar(select(MediaAsset).where(MediaAsset.slug == slug))
-    if existing is not None:
+    if existing is not None and is_local_media_url(existing.url):
         blocked_urls = exclude_urls or set()
         if existing.url not in blocked_urls:
             return existing
@@ -38,29 +39,38 @@ def get_or_create_pexels_media(
         )
     except PexelsError:
         raise
-    except httpx.HTTPError:
+    except Exception:
         return None
 
     if photo is None:
         return None
 
+    _, mime_type, local_url = ingest_remote_image_url(photo["url"], request_base_url=request_base_url)
+    merged_tags = list(tags or [])
+    if "pexels" not in merged_tags:
+        merged_tags.append("pexels")
+
     if existing is not None:
-        existing.url = photo["url"]
+        existing.url = local_url
         existing.alt_text = alt_text or photo["alt_text"]
         existing.width = photo.get("width")
         existing.height = photo.get("height")
+        existing.mime_type = mime_type
+        existing.source = "upload"
+        existing.tags = merged_tags
         db.flush()
         return existing
 
     asset = MediaAsset(
         slug=slug,
-        url=photo["url"],
+        url=local_url,
         alt_text=alt_text or photo["alt_text"],
         width=photo.get("width"),
         height=photo.get("height"),
-        source="pexels",
+        mime_type=mime_type,
+        source="upload",
         usage=usage,
-        tags=tags,
+        tags=merged_tags,
     )
     db.add(asset)
     db.flush()
@@ -83,6 +93,7 @@ def attach_pexels_images(
     image_specs: list[dict[str, str | list[str]]],
     *,
     global_used_urls: set[str] | None = None,
+    request_base_url: str | None = None,
 ) -> list[MediaAsset]:
     assets: list[MediaAsset] = []
     used_urls: set[str] = set(global_used_urls or ())
@@ -104,6 +115,7 @@ def attach_pexels_images(
             tags=tags,
             exclude_urls=used_urls,
             exclude_pexels_ids=used_pexels_ids,
+            request_base_url=request_base_url,
         )
         if asset is None:
             continue
@@ -127,9 +139,15 @@ def apply_pexels_images_to_package(
     itinerary: Itinerary | None,
     image_specs: list[dict[str, str | list[str]]],
     global_used_urls: set[str] | None = None,
+    request_base_url: str | None = None,
 ) -> list[MediaAsset]:
     assets = _dedupe_media_assets(
-        attach_pexels_images(db, image_specs, global_used_urls=global_used_urls)
+        attach_pexels_images(
+            db,
+            image_specs,
+            global_used_urls=global_used_urls,
+            request_base_url=request_base_url,
+        )
     )
     if not assets:
         return []

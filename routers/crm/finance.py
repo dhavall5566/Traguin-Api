@@ -1,7 +1,7 @@
 from decimal import Decimal
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, HTTPException, Response, status
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
@@ -40,6 +40,11 @@ from services.crm_scope import (
 )
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
 from services.invoice_finance import apply_invoice_status_from_payments
+from services.whatsapp_notifications import (
+    notify_invoice_created_by_id,
+    notify_payment_received_by_id,
+    notify_quotation_created_by_id,
+)
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
 
@@ -75,6 +80,7 @@ def get_quotation(
 @router.post("/quotations", response_model=QuotationRead, status_code=status.HTTP_201_CREATED)
 def create_quotation(
     payload: QuotationCreate,
+    background_tasks: BackgroundTasks,
     agency_id: UUID = Depends(require_agency_scope),
     db: Session = Depends(get_db),
 ):
@@ -83,6 +89,7 @@ def create_quotation(
     db.add(quotation)
     commit_or_raise(db)
     db.refresh(quotation)
+    background_tasks.add_task(notify_quotation_created_by_id, quotation.id)
     return quotation
 
 
@@ -147,6 +154,7 @@ def get_invoice(
 @router.post("/invoices", response_model=InvoiceRead, status_code=status.HTTP_201_CREATED)
 def create_invoice(
     payload: InvoiceCreate,
+    background_tasks: BackgroundTasks,
     agency_id: UUID = Depends(require_agency_scope),
     current_user: User = Depends(require_crm_user),
     db: Session = Depends(get_db),
@@ -180,6 +188,7 @@ def create_invoice(
     )
     commit_or_raise(db, unique_fields=("invoice_number",))
     db.refresh(invoice)
+    background_tasks.add_task(notify_invoice_created_by_id, invoice.id)
     return invoice
 
 
@@ -263,6 +272,7 @@ def get_payment(
 @router.post("/payments", response_model=PaymentRead, status_code=status.HTTP_201_CREATED)
 def create_payment(
     payload: PaymentCreate,
+    background_tasks: BackgroundTasks,
     agency_id: UUID = Depends(require_agency_scope),
     current_user: User = Depends(require_crm_user),
     db: Session = Depends(get_db),
@@ -285,6 +295,7 @@ def create_payment(
     )
     commit_or_raise(db)
     db.refresh(payment)
+    background_tasks.add_task(notify_payment_received_by_id, payment.id)
     return payment
 
 

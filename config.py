@@ -16,6 +16,8 @@ class Settings(BaseSettings):
     )
 
     database_url: str
+    cms_database_url: str | None = None
+    crm_database_url: str | None = None
     jwt_secret_key: str
     jwt_algorithm: str = "HS256"
     jwt_expire_hours: int = 24
@@ -26,6 +28,8 @@ class Settings(BaseSettings):
         "http://127.0.0.1:3001",
         "http://localhost:3002",
         "http://127.0.0.1:3002",
+        "https://traguin.in",
+        "https://www.traguin.in",
     ]
     traguin_default_agency_id: UUID | None = None
     traguin_system_user_id: UUID | None = None
@@ -33,6 +37,45 @@ class Settings(BaseSettings):
     pexels_api_key: str | None = None
     media_upload_dir: Path = _API_DIR / "uploads" / "media"
     media_upload_max_bytes: int = 10 * 1024 * 1024
+    api_public_base_url: str | None = None
+    # WhatsMarketing: WHATSAPP_API_URL=user_id|api_token (full string is apiToken)
+    whatsapp_api_url: str | None = None
+    whatsapp_api_base_url: str = "https://app.whatsmarketing.in"
+    whatsapp_phone_number_id: str | None = None
+    whatsapp_lead_template: str | None = None
+    whatsapp_crm_template: str | None = None
+    whatsapp_lead_template_language: str = "en"
+    whatsapp_notifications_enabled: bool = True
+    whatsapp_crm_base_url: str | None = None
+
+    @field_validator("api_public_base_url", mode="before")
+    @classmethod
+    def normalize_api_public_base_url(cls, value: str | None) -> str | None:
+        if value is None:
+            return None
+        raw = str(value).strip().rstrip("/")
+        return raw or None
+
+    @field_validator("whatsapp_api_url", mode="before")
+    @classmethod
+    def normalize_whatsapp_api_url(cls, value: str | None) -> str | None:
+        if value is None:
+            return None
+        raw = str(value).strip()
+        if not raw or "|" not in raw:
+            return raw or None
+        prefix, token = raw.split("|", 1)
+        # Fix common typo: h21572|token → 21572|token (matches developer console)
+        if prefix.startswith("h") and prefix[1:].isdigit():
+            prefix = prefix[1:]
+        return f"{prefix}|{token.strip()}"
+
+    @field_validator("whatsapp_notifications_enabled", mode="before")
+    @classmethod
+    def parse_whatsapp_notifications_enabled(cls, value):
+        if isinstance(value, str):
+            return value.strip().lower() in {"1", "true", "yes", "on"}
+        return value
 
     @field_validator("pexels_api_key", mode="before")
     @classmethod
@@ -44,15 +87,28 @@ class Settings(BaseSettings):
             key = key[7:].strip()
         return key or None
 
-    @field_validator("database_url", mode="before")
+    @field_validator("database_url", "cms_database_url", "crm_database_url", mode="before")
     @classmethod
-    def normalize_database_url(cls, value: str) -> str:
-        # SQLAlchemy expects postgresql:// (not postgres://) and an explicit driver.
+    def normalize_database_url(cls, value: str | None) -> str | None:
+        if value is None:
+            return None
         if value.startswith("postgres://"):
             value = value.replace("postgres://", "postgresql://", 1)
         if value.startswith("postgresql://") and "+psycopg2" not in value:
             value = value.replace("postgresql://", "postgresql+psycopg2://", 1)
         return value
+
+    @property
+    def resolved_cms_database_url(self) -> str:
+        return self.cms_database_url or self.database_url
+
+    @property
+    def resolved_crm_database_url(self) -> str:
+        return self.crm_database_url or self.database_url
+
+    @property
+    def is_split_database(self) -> bool:
+        return self.resolved_cms_database_url != self.resolved_crm_database_url
 
     @field_validator("cors_origins", mode="before")
     @classmethod

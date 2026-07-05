@@ -20,6 +20,7 @@ class FormSubmission(Base, UUIDPrimaryKeyMixin, TimestampMixin):
         Index("ix_form_submissions_related_itinerary_id", "related_itinerary_id"),
         Index("ix_form_submissions_related_hotel_id", "related_hotel_id"),
         Index("ix_form_submissions_related_destination_id", "related_destination_id"),
+        Index("ix_form_submissions_related_package_id", "related_package_id"),
     )
 
     form_type: Mapped[str] = mapped_column(String(64), nullable=False)
@@ -36,6 +37,9 @@ class FormSubmission(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     )
     related_destination_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("destinations.id", ondelete="SET NULL"), nullable=True
+    )
+    related_package_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("packages.id", ondelete="SET NULL"), nullable=True
     )
     ip_address: Mapped[Optional[str]] = mapped_column(INET, nullable=True)
     user_agent: Mapped[Optional[str]] = mapped_column(Text, nullable=True)

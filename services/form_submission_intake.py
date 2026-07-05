@@ -11,12 +11,17 @@ from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from config import settings
+from models.crm.customers import Customer
 from models.crm.leads import Lead, LeadActivity, LeadNote
 from models.crm.tenancy import User
+from models.itineraries import Itinerary
 from models.submissions import FormSubmission
-from services.crm_audit import audit_create
+from services.crm_audit import audit_create, audit_update
+from services.lead_assignee import apply_returning_customer_assignee
+from services.lead_codes import assign_lead_code
 from services.lead_customers import link_or_create_customer_for_lead
-from utils.member_codes import inquiry_code_from_submission, member_code_from_phone
+from services.lead_phone_dedup import find_canonical_lead_by_phone, merge_inquiry_into_existing_lead
+from utils.member_codes import assign_submission_inquiry_code
 
 LEAD_ELIGIBLE_FORM_TYPES = frozenset(
     {
@@ -51,6 +56,7 @@ _PAYLOAD_LABELS: dict[str, str] = {
     "children": "Children",
     "child_ages": "Children ages",
     "traveling_with_pets": "Traveling with pets",
+    "lead_code": "Lead ID",
     "member_code": "Member code",
     "inquiry_code": "Inquiry code",
     "hotel_id": "Hotel ID",
@@ -153,18 +159,20 @@ def _format_payload_value(value: Any) -> str:
     return str(value).strip() or "—"
 
 
-def _apply_tracking_codes(submission: FormSubmission) -> tuple[str, str]:
+def _apply_inquiry_code(db: Session, submission: FormSubmission) -> str:
     payload = dict(submission.payload or {})
-    phone = submission.phone or payload.get("phone")
-    member_code = member_code_from_phone(str(phone) if phone else None)
-    inquiry_code = inquiry_code_from_submission(
-        submission.id,
-        has_itinerary=bool(submission.related_itinerary_id or payload.get("itinerary_slug")),
-    )
-    payload["member_code"] = member_code
-    payload["inquiry_code"] = inquiry_code
+    existing_inquiry = payload.get("inquiry_code")
+    if existing_inquiry:
+        return str(existing_inquiry)
+    return assign_submission_inquiry_code(db, submission)
+
+
+def _attach_lead_code_to_submission(submission: FormSubmission, lead: Lead) -> str:
+    lead_code = lead.lead_code or str(lead.id)
+    payload = dict(submission.payload or {})
+    payload["lead_code"] = lead_code
     submission.payload = payload
-    return member_code, inquiry_code
+    return lead_code
 
 
 def _build_intake_note(submission: FormSubmission) -> str:
@@ -238,14 +246,125 @@ def _lead_message(submission: FormSubmission) -> str | None:
     return None
 
 
+def _resolve_cms_package_id(db: Session, submission: FormSubmission) -> UUID | None:
+    if submission.related_package_id:
+        return submission.related_package_id
+    if submission.related_itinerary_id:
+        itinerary = db.get(Itinerary, submission.related_itinerary_id)
+        if itinerary and itinerary.package_id:
+            return itinerary.package_id
+    payload = submission.payload or {}
+    raw = payload.get("package_id") or payload.get("related_package_id")
+    if raw:
+        try:
+            return UUID(str(raw))
+        except (TypeError, ValueError):
+            return None
+    return None
+
+
 def process_form_submission_intake(db: Session, submission: FormSubmission) -> Lead | None:
     """Create CRM lead artifacts for lead-eligible submissions. Returns Lead or None."""
     if submission.form_type not in LEAD_ELIGIBLE_FORM_TYPES:
         return None
 
-    member_code, inquiry_code = _apply_tracking_codes(submission)
+    inquiry_code = _apply_inquiry_code(db, submission)
     agency_id, actor_user_id = _resolve_intake_actor(db)
     first_name, last_name, email, phone = _contact_fields(submission)
+
+    cms_package_id = _resolve_cms_package_id(db, submission)
+    new_source = f"Website · {submission.form_type}"
+
+    existing = find_canonical_lead_by_phone(db, agency_id=agency_id, phone=phone)
+    if existing is not None:
+        merge_inquiry_into_existing_lead(
+            db,
+            existing,
+            new_source=new_source,
+            created_by_id=actor_user_id,
+            message=_lead_message(submission),
+            email=email,
+            cms_package_id=cms_package_id,
+            activity_detail=(
+                f"Website intake from {submission.form_type} "
+                f"(form_submission_id={submission.id}) · "
+                f"Merged into lead {existing.lead_code or existing.id}"
+            ),
+        )
+
+        if existing.customer_id:
+            customer = db.get(Customer, existing.customer_id)
+        else:
+            customer = None
+        if customer is None:
+            customer, _created = link_or_create_customer_for_lead(
+                db,
+                agency_id=agency_id,
+                lead_id=existing.id,
+                first_name=first_name,
+                last_name=last_name,
+                email=email,
+                phone=phone,
+            )
+            existing.customer_id = customer.id
+
+        apply_returning_customer_assignee(
+            db,
+            existing,
+            agency_id=agency_id,
+            customer_id=existing.customer_id,
+        )
+
+        if not existing.lead_code:
+            assign_lead_code(db, existing)
+
+        lead_code = _attach_lead_code_to_submission(submission, existing)
+
+        tracking_meta = {
+            "type": "website_intake",
+            "lead_code": lead_code,
+            "inquiry_code": inquiry_code,
+            "form_submission_id": str(submission.id),
+            "form_type": submission.form_type,
+        }
+        if submission.related_itinerary_id:
+            tracking_meta["cms_itinerary_id"] = str(submission.related_itinerary_id)
+        if cms_package_id:
+            tracking_meta["cms_package_id"] = str(cms_package_id)
+        payload = submission.payload or {}
+        if payload.get("itinerary_slug"):
+            tracking_meta["itinerary_slug"] = payload.get("itinerary_slug")
+        if payload.get("itinerary_title"):
+            tracking_meta["itinerary_title"] = payload.get("itinerary_title")
+
+        if customer is not None:
+            existing_history = customer.travel_history
+            if isinstance(existing_history, list):
+                customer.travel_history = [*existing_history, tracking_meta]
+            elif isinstance(existing_history, dict):
+                customer.travel_history = {**existing_history, **tracking_meta}
+            else:
+                customer.travel_history = tracking_meta
+
+        note_body = _build_intake_note(submission)
+        db.add(
+            LeadNote(
+                lead_id=existing.id,
+                content=note_body,
+                created_by_id=actor_user_id,
+            )
+        )
+
+        audit_update(
+            db,
+            agency_id=agency_id,
+            user_id=actor_user_id,
+            entity_type="Lead",
+            entity_id=existing.id,
+            details=f"Website intake merged into {existing.lead_code or existing.id}",
+            changed_fields=["source", "assigned_to_id"],
+        )
+        return existing
 
     lead = Lead(
         agency_id=agency_id,
@@ -256,13 +375,17 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
         phone=phone,
         status="NEW",
         value=_lead_value(submission),
-        source=f"Website · {submission.form_type}",
+        source=new_source,
         message=_lead_message(submission),
+        cms_form_submission_id=submission.id,
+        cms_package_id=cms_package_id,
     )
     db.add(lead)
     db.flush()
 
-    customer, _created = link_or_create_customer_for_lead(
+    assign_lead_code(db, lead)
+
+    customer, customer_created = link_or_create_customer_for_lead(
         db,
         agency_id=agency_id,
         lead_id=lead.id,
@@ -273,15 +396,27 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
     )
     lead.customer_id = customer.id
 
+    apply_returning_customer_assignee(
+        db,
+        lead,
+        agency_id=agency_id,
+        customer_id=customer.id,
+        prefer_original_handler=not customer_created,
+    )
+
+    lead_code = _attach_lead_code_to_submission(submission, lead)
+
     tracking_meta = {
         "type": "website_intake",
-        "member_code": member_code,
+        "lead_code": lead_code,
         "inquiry_code": inquiry_code,
         "form_submission_id": str(submission.id),
         "form_type": submission.form_type,
     }
     if submission.related_itinerary_id:
         tracking_meta["cms_itinerary_id"] = str(submission.related_itinerary_id)
+    if cms_package_id:
+        tracking_meta["cms_package_id"] = str(cms_package_id)
     payload = submission.payload or {}
     if payload.get("itinerary_slug"):
         tracking_meta["itinerary_slug"] = payload.get("itinerary_slug")
@@ -322,7 +457,7 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
         user_id=actor_user_id,
         entity_type="Lead",
         entity_id=lead.id,
-        details=f"Website intake from {submission.form_type} (form_submission_id={submission.id})",
+        details=f"Website intake from {submission.form_type} ({lead.lead_code or lead.id})",
     )
 
     return lead

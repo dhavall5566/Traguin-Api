@@ -9,7 +9,7 @@ from fastapi.staticfiles import StaticFiles
 from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 
 from config import settings
-from database import check_database_connection
+from database import check_unified_database
 from dependencies.auth import require_admin
 from routers.admin import router as admin_router
 from routers.auth import router as auth_router
@@ -65,10 +65,11 @@ async def integrity_exception_handler(_request: Request, exc: IntegrityError):
 @app.get("/health/db")
 def health_db():
     try:
-        check_database_connection()
+        summary = check_unified_database()
         return {
             "status": "ok",
-            "message": "Database connection successful",
+            "message": "Unified CMS + CRM database connection successful",
+            **summary,
         }
     except SQLAlchemyError as exc:
         return JSONResponse(

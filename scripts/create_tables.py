@@ -20,6 +20,13 @@ def create_tables() -> None:
     Base.metadata.create_all(bind=engine)
 
 
+def ensure_cms_tables() -> None:
+    """Create cms schema and any missing CMS tables without dropping existing data."""
+    with engine.begin() as connection:
+        connection.execute(text("CREATE SCHEMA IF NOT EXISTS cms"))
+    Base.metadata.create_all(bind=engine)
+
+
 def list_tables() -> list[str]:
     inspector = inspect(engine)
     return sorted(inspector.get_table_names(schema="cms"))

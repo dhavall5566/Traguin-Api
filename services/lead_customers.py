@@ -14,11 +14,7 @@ def _normalize_email(email: str | None) -> str | None:
     return email.strip().lower()
 
 
-def _normalize_phone(phone: str | None) -> str | None:
-    if not phone or not phone.strip():
-        return None
-    digits = "".join(ch for ch in phone.strip() if ch.isdigit())
-    return digits if len(digits) >= 10 else phone.strip()
+from utils.lead_codes import normalize_phone_digits
 
 
 def link_or_create_customer_for_lead(
@@ -35,8 +31,8 @@ def link_or_create_customer_for_lead(
     Find an active customer by email within the agency, or create one.
 
     Returns (customer, created) where created is True when a new row was inserted.
-    Matches legacy Zustand addLead: reuse by email, or create with placeholder email when absent.
-    When email is absent, attempts phone-based reuse before creating a new profile.
+    Reuses by email first, then by normalized phone (last 10 digits), or creates with
+    a placeholder email when none is provided.
     """
     normalized = _normalize_email(email)
 
@@ -51,8 +47,8 @@ def link_or_create_customer_for_lead(
         if existing is not None:
             return existing, False
 
-    phone_key = _normalize_phone(phone)
-    if phone_key and not normalized:
+    phone_key = normalize_phone_digits(phone)
+    if phone_key:
         candidates = db.scalars(
             select(Customer).where(
                 Customer.agency_id == agency_id,
@@ -61,7 +57,7 @@ def link_or_create_customer_for_lead(
             ).limit(200)
         ).all()
         for candidate in candidates:
-            if _normalize_phone(candidate.phone) == phone_key:
+            if normalize_phone_digits(candidate.phone) == phone_key:
                 return candidate, False
 
     if not (last_name or "").strip():

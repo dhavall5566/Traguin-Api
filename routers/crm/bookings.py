@@ -1,6 +1,6 @@
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, HTTPException, Response, status
+from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
@@ -11,6 +11,7 @@ from models.crm.tenancy import User
 from schemas.crm.booking import BookingCreate, BookingRead, BookingUpdate
 from schemas.pagination import PaginatedResponse
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
+from services.whatsapp_notifications import notify_booking_created_by_id
 from services.crm_scope import (
     get_booking_for_agency,
     get_customer_for_agency,
@@ -61,6 +62,7 @@ def get_booking(
 @router.post("", response_model=BookingRead, status_code=status.HTTP_201_CREATED)
 def create_booking(
     payload: BookingCreate,
+    background_tasks: BackgroundTasks,
     agency_id: UUID = Depends(require_agency_scope),
     current_user: User = Depends(require_crm_user),
     db: Session = Depends(get_db),
@@ -94,6 +96,7 @@ def create_booking(
     )
     commit_or_raise(db)
     db.refresh(booking)
+    background_tasks.add_task(notify_booking_created_by_id, booking.id)
     return booking
 
 

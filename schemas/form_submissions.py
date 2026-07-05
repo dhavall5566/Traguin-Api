@@ -14,6 +14,7 @@ class FormSubmissionCreate(BaseModel):
     related_itinerary_id: UUID | None = None
     related_hotel_id: UUID | None = None
     related_destination_id: UUID | None = None
+    related_package_id: UUID | None = None
 
 
 class FormSubmissionStatusUpdate(BaseModel):
@@ -30,6 +31,7 @@ class FormSubmissionRead(TimestampRead):
     related_itinerary_id: UUID | None = None
     related_hotel_id: UUID | None = None
     related_destination_id: UUID | None = None
+    related_package_id: UUID | None = None
     ip_address: str | None = None
     user_agent: str | None = None
 
@@ -37,5 +39,6 @@ class FormSubmissionRead(TimestampRead):
 class FormSubmissionCreateResponse(FormSubmissionRead):
     lead_id: UUID | None = None
     customer_id: UUID | None = None
+    lead_code: str | None = None
     member_code: str | None = None
     inquiry_code: str | None = None

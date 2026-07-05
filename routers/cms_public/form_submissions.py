@@ -6,17 +6,17 @@ from sqlalchemy.orm import Session
 from database import get_db
 from models.submissions import FormSubmission
 from schemas.form_submissions import FormSubmissionCreate, FormSubmissionCreateResponse
-from services.form_submission_jobs import run_form_submission_intake
 from services.form_submission_intake import (
     LEAD_ELIGIBLE_FORM_TYPES,
     process_form_submission_intake,
 )
+from services.lead_codes import ensure_lead_code
+from services.whatsapp_notifications import notify_team_new_lead_by_id
 from utils.db import commit_or_raise
+from utils.member_codes import assign_submission_inquiry_code
 from utils.request import client_ip_or_none
 
 router = APIRouter()
-
-SYNC_INTAKE_FORM_TYPES = frozenset({"plan_my_journey"})
 
 
 def _to_response(
@@ -24,7 +24,7 @@ def _to_response(
     *,
     lead_id: UUID | None = None,
     customer_id: UUID | None = None,
-    member_code: str | None = None,
+    lead_code: str | None = None,
     inquiry_code: str | None = None,
 ) -> FormSubmissionCreateResponse:
     return FormSubmissionCreateResponse(
@@ -40,11 +40,13 @@ def _to_response(
         related_itinerary_id=item.related_itinerary_id,
         related_hotel_id=item.related_hotel_id,
         related_destination_id=item.related_destination_id,
+        related_package_id=item.related_package_id,
         ip_address=item.ip_address,
         user_agent=item.user_agent,
         lead_id=lead_id,
         customer_id=customer_id,
-        member_code=member_code,
+        lead_code=lead_code,
+        member_code=lead_code,
         inquiry_code=inquiry_code,
     )
 
@@ -67,24 +69,21 @@ def create_form_submission(
     db.add(item)
     db.flush()
 
+    inquiry_code = assign_submission_inquiry_code(db, item)
+
     lead_id: UUID | None = None
     customer_id: UUID | None = None
-    member_code: str | None = None
-    inquiry_code: str | None = None
+    lead_code: str | None = None
 
-    if payload.form_type in SYNC_INTAKE_FORM_TYPES:
+    if payload.form_type in LEAD_ELIGIBLE_FORM_TYPES:
         lead = process_form_submission_intake(db, item)
         if lead is not None:
             lead_id = lead.id
             customer_id = lead.customer_id
-            intake_payload = item.payload or {}
-            member_code = intake_payload.get("member_code")
-            inquiry_code = intake_payload.get("inquiry_code")
+            lead_code = ensure_lead_code(db, lead)
         commit_or_raise(db)
-    elif payload.form_type in LEAD_ELIGIBLE_FORM_TYPES:
-        submission_id = item.id
-        commit_or_raise(db)
-        background_tasks.add_task(run_form_submission_intake, submission_id)
+        if lead_id is not None:
+            background_tasks.add_task(notify_team_new_lead_by_id, lead_id)
     else:
         commit_or_raise(db)
 
@@ -92,6 +91,6 @@ def create_form_submission(
         item,
         lead_id=lead_id,
         customer_id=customer_id,
-        member_code=member_code,
+        lead_code=lead_code,
         inquiry_code=inquiry_code,
     )
