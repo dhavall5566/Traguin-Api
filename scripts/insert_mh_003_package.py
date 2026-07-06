@@ -26,6 +26,7 @@ from services.itineraries import (
     sync_itinerary_highlights,
     sync_itinerary_hotels,
     sync_itinerary_inclusions,
+    sync_itinerary_nested_content,
 )
 from services.packages import package_query_with_nested, sync_package_highlights, sync_package_moods
 from services.travel_moods import travel_moods_for_package
@@ -373,7 +374,14 @@ def main() -> None:
         existing_itin = db.scalar(select(Itinerary).where(Itinerary.slug == ITINERARY_SLUG))
         if existing_itin:
             print(f"Itinerary already exists: {ITINERARY_SLUG} ({existing_itin.id})")
-            itinerary = existing_itin
+            itinerary = itinerary_query_with_nested(db).filter_by(id=existing_itin.id).one()
+            if itinerary.package_id != package.id:
+                itinerary.package_id = package.id
+            sync_itinerary_nested_content(db, itinerary, itinerary_data)
+            print(
+                f"  Synced nested content: days={len(itinerary_data.days)} "
+                f"hotels={len(itinerary_data.hotels)} inclusions={len(itinerary_data.inclusions)}"
+            )
         else:
             itin_data = itinerary_data.model_dump()
             itin_data["package_id"] = package.id

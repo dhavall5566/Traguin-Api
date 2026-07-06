@@ -17,6 +17,7 @@ from services.itineraries import (
     sync_itinerary_highlights,
     sync_itinerary_hotels,
     sync_itinerary_inclusions,
+    sync_itinerary_nested_content,
 )
 from services.media_from_pexels import apply_pexels_images_to_package
 from services.packages import package_query_with_nested, sync_package_highlights, sync_package_moods
@@ -60,7 +61,15 @@ def upsert_gujarat_package(
     existing_itin = db.scalar(select(Itinerary).where(Itinerary.slug == itinerary.slug))
     if existing_itin:
         print(f"Itinerary already exists: {itinerary.slug} ({existing_itin.id})")
-        itin_row = existing_itin
+        itin_row = itinerary_query_with_nested(db).filter_by(id=existing_itin.id).one()
+        if itin_row.package_id != pkg_row.id:
+            itin_row.package_id = pkg_row.id
+        sync_itinerary_nested_content(db, itin_row, itinerary)
+        print(
+            f"  Synced nested content: highlights={len(itinerary.highlights)} "
+            f"days={len(itinerary.days)} hotels={len(itinerary.hotels)} "
+            f"inclusions={len(itinerary.inclusions)}"
+        )
     else:
         itin_data = itinerary.model_dump()
         itin_data["package_id"] = pkg_row.id
@@ -123,3 +132,20 @@ def run_gujarat_package_inserts(
             except Exception as exc:
                 print(f"Failed {package.slug}: {exc}", file=sys.stderr)
                 raise
+
+
+def upsert_package_without_images(
+    db: Session,
+    *,
+    destination_id: str,
+    package: PackageCreate,
+    itinerary: ItineraryCreate,
+) -> tuple[Package, Itinerary, list]:
+    """Upsert package + itinerary without attaching Pexels images."""
+    return upsert_gujarat_package(
+        db,
+        destination_id=destination_id,
+        package=package,
+        itinerary=itinerary,
+        image_specs=[],
+    )

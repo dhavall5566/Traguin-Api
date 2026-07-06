@@ -15,6 +15,7 @@ from models.itineraries import (
 from models.media import MediaAsset
 from models.packages import Package
 from schemas.itineraries import (
+    ItineraryCreate,
     ItineraryDayRead,
     ItineraryHighlightRead,
     ItineraryHotelRead,
@@ -102,6 +103,14 @@ def sync_itinerary_inclusions(db: Session, itinerary: Itinerary, inclusions: lis
     for item in inclusions:
         data = item.model_dump() if hasattr(item, "model_dump") else item
         itinerary.inclusions.append(ItineraryInclusion(**data))
+
+
+def sync_itinerary_nested_content(db: Session, itinerary: Itinerary, source: ItineraryCreate) -> None:
+    """Replace highlights, days, hotels, and inclusions on an existing itinerary."""
+    sync_itinerary_highlights(db, itinerary, source.highlights)
+    sync_itinerary_days(db, itinerary, source.days)
+    sync_itinerary_hotels(db, itinerary, source.hotels)
+    sync_itinerary_inclusions(db, itinerary, source.inclusions)
 
 
 def sync_itinerary_gallery(

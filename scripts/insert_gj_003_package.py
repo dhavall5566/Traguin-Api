@@ -26,6 +26,7 @@ from services.itineraries import (
     sync_itinerary_highlights,
     sync_itinerary_hotels,
     sync_itinerary_inclusions,
+    sync_itinerary_nested_content,
 )
 from services.media_from_pexels import apply_pexels_images_to_package
 from services.package_image_specs import GJ_003_PEXELS_IMAGES
@@ -295,7 +296,14 @@ def main() -> None:
         existing_itin = db.scalar(select(Itinerary).where(Itinerary.slug == ITINERARY_SLUG))
         if existing_itin:
             print(f"Itinerary already exists: {ITINERARY_SLUG} ({existing_itin.id})")
-            itinerary = existing_itin
+            itinerary = itinerary_query_with_nested(db).filter_by(id=existing_itin.id).one()
+            if itinerary.package_id != package.id:
+                itinerary.package_id = package.id
+            sync_itinerary_nested_content(db, itinerary, ITINERARY)
+            print(
+                f"  Synced nested content: days={len(ITINERARY.days)} "
+                f"hotels={len(ITINERARY.hotels)} inclusions={len(ITINERARY.inclusions)}"
+            )
         else:
             itin_data = ITINERARY.model_dump()
             itin_data["package_id"] = package.id
