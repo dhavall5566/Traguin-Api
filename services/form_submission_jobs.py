@@ -24,7 +24,7 @@ def run_form_submission_intake(submission_id: UUID) -> None:
         lead = process_form_submission_intake(db, submission)
         commit_or_raise(db)
         if lead is not None:
-            notify_team_new_lead_by_id(lead.id)
+            notify_team_new_lead_by_id(lead.id, event_type="website_lead")
     except Exception:
         db.rollback()
         logger.exception("form intake failed for submission %s", submission_id)

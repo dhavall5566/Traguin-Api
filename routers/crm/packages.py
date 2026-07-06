@@ -42,6 +42,8 @@ def _apply_package_filters(
             or_(
                 Package.title.ilike(term),
                 Package.slug.ilike(term),
+                Package.serial_code.ilike(term),
+                Package.traguin_tour_code.ilike(term),
                 Destination.name.ilike(term),
             )
         )
@@ -76,7 +78,7 @@ def list_package_filters(db: Session = Depends(get_db)):
 def list_cms_packages(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
-    q: str | None = Query(default=None, max_length=128, description="Search title, slug, or destination."),
+    q: str | None = Query(default=None, max_length=128, description="Search title, serial code, slug, or destination."),
     published: bool | None = Query(
         default=None,
         description="When set, filter by website publish flag. Omit to return all packages.",

@@ -112,6 +112,23 @@ def _slug_from_filename(filename: str | None) -> str | None:
     return slugify(stem)[:255] or None
 
 
+def delete_local_media_file(url: str) -> bool:
+    """Remove the on-disk upload for a local media URL. Returns True if a file was deleted."""
+    raw = (url or "").strip()
+    if not raw or not is_local_media_url(raw):
+        return False
+
+    stored_name = raw.split(LOCAL_UPLOAD_PATH_PREFIX, 1)[-1].split("?", 1)[0].strip()
+    if not stored_name or ".." in stored_name or "/" in stored_name or "\\" in stored_name:
+        return False
+
+    path = Path(settings.media_upload_dir) / stored_name
+    if path.is_file():
+        path.unlink()
+        return True
+    return False
+
+
 def save_uploaded_image(file: UploadFile) -> tuple[str, str, str | None]:
     content_type = (file.content_type or "").split(";", 1)[0].strip().lower()
     raw = file.file.read()

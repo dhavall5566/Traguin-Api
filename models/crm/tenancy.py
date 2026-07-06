@@ -10,6 +10,7 @@ from sqlalchemy.orm import Mapped, mapped_column, relationship
 from models.crm.base import CrmBase, CreatedAtMixin, TimestampMixin, UUIDPrimaryKeyMixin
 
 if TYPE_CHECKING:
+    from models.crm.lead_mail_settings import AgencyLeadMailSettings
     from models.crm.smtp_settings import AgencySmtpSettings
 
 
@@ -41,6 +42,9 @@ class Agency(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     )
     audit_logs: Mapped[list[AuditLog]] = relationship(back_populates="agency", cascade="all, delete-orphan")
     smtp_settings: Mapped[Optional["AgencySmtpSettings"]] = relationship(
+        back_populates="agency", cascade="all, delete-orphan", uselist=False
+    )
+    lead_mail_settings: Mapped[Optional["AgencyLeadMailSettings"]] = relationship(
         back_populates="agency", cascade="all, delete-orphan", uselist=False
     )
 

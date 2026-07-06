@@ -17,6 +17,8 @@ class PackageHighlightRead(TimestampRead, PackageHighlightNested):
 
 class PackageBase(BaseModel):
     slug: str = Field(..., min_length=1, max_length=128)
+    serial_code: str | None = Field(default=None, min_length=1, max_length=16)
+    traguin_tour_code: str | None = Field(default=None, min_length=1, max_length=128)
     destination_id: UUID
     title: str = Field(..., min_length=1, max_length=255)
     duration_label: str = Field(..., min_length=1, max_length=64)
@@ -36,6 +38,8 @@ class PackageCreate(PackageBase):
 
 class PackageUpdate(BaseModel):
     slug: str | None = Field(default=None, min_length=1, max_length=128)
+    serial_code: str | None = Field(default=None, min_length=1, max_length=16)
+    traguin_tour_code: str | None = Field(default=None, min_length=1, max_length=128)
     destination_id: UUID | None = None
     title: str | None = Field(default=None, min_length=1, max_length=255)
     duration_label: str | None = Field(default=None, min_length=1, max_length=64)
@@ -57,6 +61,8 @@ class PackageRead(TimestampRead, PackageBase):
 
 class PackageListRead(TimestampRead):
     slug: str
+    serial_code: str | None = None
+    traguin_tour_code: str | None = None
     destination_id: UUID
     destination_name: str
     title: str

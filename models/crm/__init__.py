@@ -6,6 +6,7 @@ import models.crm.customers  # noqa: F401
 import models.crm.finance  # noqa: F401
 import models.crm.itineraries  # noqa: F401
 import models.crm.leads  # noqa: F401
+import models.crm.lead_mail_settings  # noqa: F401
 import models.crm.smtp_settings  # noqa: F401
 import models.crm.tenancy  # noqa: F401
 import models.crm.vendors  # noqa: F401

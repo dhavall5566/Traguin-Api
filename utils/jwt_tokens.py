@@ -1,4 +1,4 @@
-from datetime import UTC, datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from uuid import UUID
 
 import jwt
@@ -9,7 +9,7 @@ from config import settings
 
 def create_access_token(*, user_id: UUID, email: str, role: str) -> tuple[str, int]:
     expires_in = settings.jwt_expire_hours * 3600
-    expire = datetime.now(UTC) + timedelta(seconds=expires_in)
+    expire = datetime.now(timezone.utc) + timedelta(seconds=expires_in)
     payload = {
         "sub": str(user_id),
         "email": email,

@@ -7,6 +7,7 @@ from models.packages import Package, PackageHighlight, PackageMood
 from schemas.packages import PackageHighlightRead, PackageListRead, PackageRead
 from services.travel_moods import normalize_travel_moods
 from utils.orm_read import orm_read_with_nested
+from utils.package_codes import resolve_package_codes
 from utils.package_title import clean_package_title
 
 
@@ -31,6 +32,8 @@ def package_to_list_read(row: tuple[Package, str]) -> PackageListRead:
         created_at=package.created_at,
         updated_at=package.updated_at,
         slug=package.slug,
+        serial_code=package.serial_code,
+        traguin_tour_code=package.traguin_tour_code,
         destination_id=package.destination_id,
         destination_name=destination_name,
         title=clean_package_title(package.title) or package.title,
@@ -43,6 +46,19 @@ def package_to_list_read(row: tuple[Package, str]) -> PackageListRead:
         featured_sort_order=package.featured_sort_order,
         is_published=package.is_published,
     )
+
+
+def apply_package_codes(package: Package, *, highlight_texts: list[str] | None = None) -> None:
+    if package.serial_code and package.traguin_tour_code:
+        return
+    texts = highlight_texts
+    if texts is None:
+        texts = [h.text for h in package.highlights]
+    serial, tour = resolve_package_codes(package.slug, texts)
+    if not package.serial_code:
+        package.serial_code = serial
+    if not package.traguin_tour_code:
+        package.traguin_tour_code = tour
 
 
 def sync_package_highlights(db: Session, package: Package, highlights: list) -> None:

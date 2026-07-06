@@ -2,30 +2,31 @@
 
 from __future__ import annotations
 
+import re
 from uuid import UUID
 
-from sqlalchemy import text
+from sqlalchemy import select
 from sqlalchemy.orm import Session
 
 from models.crm.leads import Lead
 from utils.lead_codes import format_lead_code
 
+_LEAD_SEQUENCE_RE = re.compile(r"^TRG(\d+)")
+
 
 def next_lead_sequence(db: Session, agency_id: UUID) -> int:
-    value = db.execute(
-        text(
-            """
-            SELECT COALESCE(MAX(
-                CAST(SUBSTRING(lead_code FROM '^TRG([0-9]+)') AS INTEGER)
-            ), 0) + 1
-            FROM crm.leads
-            WHERE agency_id = :agency_id
-              AND lead_code IS NOT NULL
-            """
-        ),
-        {"agency_id": agency_id},
-    ).scalar_one()
-    return int(value or 1)
+    codes = db.scalars(
+        select(Lead.lead_code).where(
+            Lead.agency_id == agency_id,
+            Lead.lead_code.isnot(None),
+        )
+    ).all()
+    max_seq = 0
+    for code in codes:
+        match = _LEAD_SEQUENCE_RE.match(code or "")
+        if match:
+            max_seq = max(max_seq, int(match.group(1)))
+    return max_seq + 1
 
 
 def assign_lead_code(db: Session, lead: Lead) -> str:

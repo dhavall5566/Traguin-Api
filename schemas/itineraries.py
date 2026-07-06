@@ -121,6 +121,7 @@ class ItineraryRead(TimestampRead, ItineraryBase):
 
 class ItineraryListRead(TimestampRead):
     slug: str
+    serial_code: str | None = None
     package_id: UUID | None = None
     package_title: str | None = None
     destination_id: UUID

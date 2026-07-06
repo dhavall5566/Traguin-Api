@@ -9,6 +9,7 @@ from models.packages import Package
 from schemas.packages import PackageCreate, PackageListRead, PackageRead, PackageUpdate
 from schemas.pagination import PaginatedResponse
 from services.packages import (
+    apply_package_codes,
     package_list_query,
     package_query_with_nested,
     package_to_list_read,
@@ -46,6 +47,8 @@ def create_package(payload: PackageCreate, db: Session = Depends(get_db)):
     highlights = data.pop("highlights")
     moods = data.pop("moods")
     package = Package(**data)
+    highlight_texts = [h["text"] if isinstance(h, dict) else h.text for h in highlights]
+    apply_package_codes(package, highlight_texts=highlight_texts)
     db.add(package)
     db.flush()
     sync_package_highlights(db, package, highlights)

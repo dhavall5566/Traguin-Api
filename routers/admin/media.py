@@ -11,6 +11,7 @@ from models.media import MediaAsset
 from schemas.media import MediaAssetCreate, MediaAssetRead, MediaAssetUpdate
 from schemas.pagination import PaginatedResponse
 from services.media_upload import (
+    delete_local_media_file,
     ingest_remote_image_url,
     is_local_media_url,
     public_upload_url,
@@ -113,6 +114,7 @@ def delete_media_asset(media_id: UUID, db: Session = Depends(get_db)):
     item = db.get(MediaAsset, media_id)
     if item is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Media asset not found.")
+    delete_local_media_file(item.url)
     db.delete(item)
     commit_or_raise(db)
     return Response(status_code=status.HTTP_204_NO_CONTENT)

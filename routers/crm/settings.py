@@ -22,8 +22,9 @@ from services.crm_audit import audit_update
 from services.lead_mail_settings import (
     apply_lead_mail_settings_update,
     get_agency_lead_mail_settings,
-    get_or_create_agency_lead_mail_settings,
+    get_or_create_agency_lead_mail_settings_for_update,
     lead_mail_settings_to_read,
+    lead_mail_update_needs_row_lock,
 )
 from services.smtp_settings import (
     apply_smtp_settings_update,
@@ -117,3 +118,29 @@ def test_smtp_settings(
         ) from exc
 
     return MessageResponse(message=f"Test email sent to {to_email}.")
+
+
+@router.get("/lead-mail", response_model=AgencyLeadMailSettingsRead)
+def get_lead_mail_settings(
+    agency_id: UUID = Depends(require_agency_scope),
+    db: Session = Depends(get_db),
+):
+    row = get_agency_lead_mail_settings(db, agency_id)
+    return lead_mail_settings_to_read(row)
+
+
+@router.put("/lead-mail", status_code=status.HTTP_204_NO_CONTENT)
+def update_lead_mail_settings(
+    payload: AgencyLeadMailSettingsUpdate,
+    agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    _ = current_user
+    row = get_or_create_agency_lead_mail_settings_for_update(
+        db,
+        agency_id,
+        lock=lead_mail_update_needs_row_lock(payload),
+    )
+    apply_lead_mail_settings_update(db, row, agency_id, payload)
+    commit_or_raise(db)

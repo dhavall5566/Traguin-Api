@@ -24,6 +24,7 @@ from schemas.itineraries import (
 )
 from schemas.media import MediaSummary
 from utils.orm_read import orm_read_with_nested
+from utils.package_codes import serial_code_from_slug
 from utils.package_title import clean_package_title
 
 
@@ -43,19 +44,22 @@ def itinerary_list_query(db: Session):
             Itinerary,
             Destination.name.label("destination_name"),
             Package.title.label("package_title"),
+            Package.serial_code.label("package_serial_code"),
         )
         .join(Destination, Itinerary.destination_id == Destination.id)
         .outerjoin(Package, Itinerary.package_id == Package.id)
     )
 
 
-def itinerary_to_list_read(row: tuple[Itinerary, str, str | None]) -> ItineraryListRead:
-    itinerary, destination_name, package_title = row
+def itinerary_to_list_read(row: tuple[Itinerary, str, str | None, str | None]) -> ItineraryListRead:
+    itinerary, destination_name, package_title, package_serial_code = row
+    serial_code = package_serial_code or serial_code_from_slug(itinerary.slug)
     return ItineraryListRead(
         id=itinerary.id,
         created_at=itinerary.created_at,
         updated_at=itinerary.updated_at,
         slug=itinerary.slug,
+        serial_code=serial_code,
         package_id=itinerary.package_id,
         package_title=clean_package_title(package_title) if package_title else package_title,
         destination_id=itinerary.destination_id,

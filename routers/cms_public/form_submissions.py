@@ -83,7 +83,7 @@ def create_form_submission(
             lead_code = ensure_lead_code(db, lead)
         commit_or_raise(db)
         if lead_id is not None:
-            background_tasks.add_task(notify_team_new_lead_by_id, lead_id)
+            background_tasks.add_task(notify_team_new_lead_by_id, lead_id, event_type="website_lead")
     else:
         commit_or_raise(db)
 

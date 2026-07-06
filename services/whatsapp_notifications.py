@@ -18,6 +18,7 @@ from models.crm.bookings import Booking
 from models.crm.finance import Invoice, Payment, Quotation
 from models.crm.leads import Lead, LeadFollowup
 from models.crm.tenancy import User
+from schemas.crm.lead_mail_settings import LeadMailEventType
 
 logger = logging.getLogger(__name__)
 
@@ -240,7 +241,7 @@ def notify_team_new_lead(db: Session, lead: Lead) -> int:
     )
 
 
-def notify_team_new_lead_by_id(lead_id: UUID) -> None:
+def notify_team_new_lead_by_id(lead_id: UUID, *, event_type: LeadMailEventType = "crm_lead") -> None:
     db = SessionLocal()
     try:
         lead = db.get(Lead, lead_id)
@@ -254,7 +255,7 @@ def notify_team_new_lead_by_id(lead_id: UUID) -> None:
 
     from services.email_notifications import notify_team_new_lead_email_by_id
 
-    notify_team_new_lead_email_by_id(lead_id)
+    notify_team_new_lead_email_by_id(lead_id, event_type=event_type)
 
 
 @dataclass
@@ -299,6 +300,13 @@ def notify_lead_update_by_id(lead_id: UUID, notice: LeadUpdateNotice) -> None:
                     detail=f"{notice.old_status or '—'} → {notice.new_status}",
                     extra=f"Source: {lead.source or '—'}",
                 ),
+            )
+            from services.email_notifications import notify_lead_status_change_email_by_id
+
+            notify_lead_status_change_email_by_id(
+                lead.id,
+                old_status=notice.old_status,
+                new_status=notice.new_status,
             )
 
         if notice.followups_added > 0:

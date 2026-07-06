@@ -1,7 +1,8 @@
-from datetime import datetime
+from datetime import datetime, timezone
 from uuid import UUID
 
 from fastapi import APIRouter, BackgroundTasks, Depends, HTTPException, Query, Response, status
+from sqlalchemy import or_, select
 from sqlalchemy.orm import Session
 
 from database import get_db
@@ -9,7 +10,7 @@ from dependencies.crm_auth import require_agency_scope, require_crm_user
 from dependencies.crm_tenancy import get_include_deleted
 from dependencies.pagination import get_pagination
 from models.crm.customers import Customer
-from models.crm.leads import Lead
+from models.crm.leads import Lead, LeadActivity
 from models.crm.tenancy import User
 from schemas.crm.lead import (
     LeadActivityCreateNested,
@@ -75,30 +76,54 @@ def list_recent_lead_events(
     agency_id: UUID = Depends(require_agency_scope),
     db: Session = Depends(get_db),
 ):
-    from datetime import timezone
-
     since_utc = since if since.tzinfo else since.replace(tzinfo=timezone.utc)
     if since_utc.tzinfo is not None:
         since_utc = since_utc.astimezone(timezone.utc)
 
-    rows = (
+    new_leads = (
         db.query(Lead)
         .filter(
             Lead.agency_id == agency_id,
             Lead.is_deleted.is_(False),
-            Lead.updated_at > since_utc,
+            Lead.created_at > since_utc,
         )
-        .order_by(Lead.updated_at.desc())
+        .order_by(Lead.created_at.desc())
         .limit(15)
         .all()
     )
+
+    returning_lead_ids = db.scalars(
+        select(LeadActivity.lead_id)
+        .join(Lead, Lead.id == LeadActivity.lead_id)
+        .where(
+            Lead.agency_id == agency_id,
+            Lead.is_deleted.is_(False),
+            Lead.created_at <= since_utc,
+            LeadActivity.created_at > since_utc,
+            or_(
+                LeadActivity.description.ilike("%Returning contact%"),
+                LeadActivity.description.ilike("%Merged inquiry%"),
+                LeadActivity.description.ilike("%Website intake merged into%"),
+            ),
+        )
+        .distinct()
+        .limit(15)
+    ).all()
+
+    returning_leads: list[Lead] = []
+    if returning_lead_ids:
+        returning_leads = (
+            db.query(Lead)
+            .filter(Lead.id.in_(returning_lead_ids))
+            .order_by(Lead.updated_at.desc())
+            .all()
+        )
+
     events: list[LeadRecentEventRead] = []
-    for lead in rows:
+    seen: set[UUID] = set()
+
+    for lead in new_leads:
         ensure_lead_code(db, lead)
-        created = lead.created_at
-        if created.tzinfo is None:
-            created = created.replace(tzinfo=timezone.utc)
-        kind = "new" if created > since_utc else "returning"
         events.append(
             LeadRecentEventRead(
                 id=lead.id,
@@ -109,12 +134,34 @@ def list_recent_lead_events(
                 source=lead.source,
                 created_at=lead.created_at,
                 updated_at=lead.updated_at,
-                kind=kind,
+                kind="new",
             )
         )
+        seen.add(lead.id)
+
+    for lead in returning_leads:
+        if lead.id in seen:
+            continue
+        ensure_lead_code(db, lead)
+        events.append(
+            LeadRecentEventRead(
+                id=lead.id,
+                lead_code=lead.lead_code,
+                title=lead.title,
+                first_name=lead.first_name,
+                last_name=lead.last_name,
+                source=lead.source,
+                created_at=lead.created_at,
+                updated_at=lead.updated_at,
+                kind="returning",
+            )
+        )
+        seen.add(lead.id)
+
+    events.sort(key=lambda event: event.updated_at, reverse=True)
     if events:
         commit_or_raise(db)
-    return events
+    return events[:15]
 
 
 @router.get("/followups/pending", response_model=list[LeadFollowupRead])
@@ -238,10 +285,7 @@ def create_lead(
         lead.customer_id = customer.id
         returning_customer = not customer_created
 
-        if not existing.lead_code:
-            assign_lead_code(db, existing)
-
-        apply_returning_customer_assignee(
+    apply_returning_customer_assignee(
         db,
         lead,
         agency_id=agency_id,
@@ -305,7 +349,7 @@ def create_lead(
         details=f'Created lead "{lead.title}" ({lead.lead_code or lead.id})',
     )
     commit_or_raise(db)
-    background_tasks.add_task(notify_team_new_lead_by_id, lead.id)
+    background_tasks.add_task(notify_team_new_lead_by_id, lead.id, event_type="crm_lead")
     response.status_code = status.HTTP_201_CREATED
     lead = get_lead_for_agency(db, lead.id, agency_id, include_deleted=True)
     assert lead is not None

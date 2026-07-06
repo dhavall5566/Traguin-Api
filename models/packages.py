@@ -21,12 +21,15 @@ class Package(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     __tablename__ = "packages"
     __table_args__ = (
         Index("ix_packages_slug", "slug", unique=True),
+        Index("ix_packages_serial_code", "serial_code", unique=True),
         Index("ix_packages_destination_id", "destination_id"),
         Index("ix_packages_is_featured", "is_featured"),
         Index("ix_packages_is_published", "is_published"),
     )
 
     slug: Mapped[str] = mapped_column(String(128), unique=True, nullable=False)
+    serial_code: Mapped[Optional[str]] = mapped_column(String(16), unique=True, nullable=True)
+    traguin_tour_code: Mapped[Optional[str]] = mapped_column(String(128), nullable=True)
     destination_id: Mapped[uuid.UUID] = mapped_column(
         UUID(as_uuid=True), ForeignKey("destinations.id", ondelete="RESTRICT"), nullable=False
     )
