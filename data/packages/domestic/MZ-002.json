@@ -1,0 +1,318 @@
+{
+  "destination_slug": "mizoram",
+  "package": {
+    "slug": "mz-002-premium-mizoram-adventure-explorer",
+    "serial_code": "MZ-002",
+    "traguin_tour_code": "TRG-MIZ-ADV-2026",
+    "title": "Premium Mizoram Adventure Explorer",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MZ-002 | TRAGUIN tour code TRG-MIZ-ADV-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Mizoram / India | Category: Premium Mizoram Adventure Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Aizawl • Reiek Trekking • Dampa Tiger Reserve • Palak Lake • Adventure Immersion",
+        "sort_order": 3
+      },
+      {
+        "text": "Duration: 06 Nights / 07 Days",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Mizoram Adventure Explorer with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Private transfers and dedicated Luxury SUV throughout the journey",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN 24/7 guest experience manager on call",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Wildlife",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "mz-002-premium-mizoram-adventure-explorer-itinerary",
+    "title": "Premium Mizoram Adventure Explorer",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Aizawl • Reiek Trekking • Dampa Tiger Reserve • Palak Lake • Adventure Immersion",
+    "overview": "TRAGUIN PREMIUM MIZORAM ADVENTURE EXPLORER — Aizawl • Reiek Trekking • Dampa Tiger Reserve • Palak Lake • Adventure Immersion. 06 Nights / 07 Days High-Energy Mizoram Adventure Expedition.\n\nTOUR OVERVIEW\nUnleash your spirit of adventure with this high-energy TRAGUIN curated expedition. Designed for thrill-seekers, this Mizoram Adventure Explorer package blends rugged mountain trekking, wildlife exploration in tiger reserves, and immersive wild-lake camping. Experience exclusive experiences, enjoy nature-centric stays, and walk away with absolute unforgettable memories in the unspoiled wilderness of Mizoram.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MZ-002 | Premium Mizoram Adventure Explorer | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Mizoram package (MZ-002 / TRG-MIZ-ADV-2026): Aizawl • Reiek Trekking • Dampa Tiger Reserve • Palak Lake • Adventure Immersion with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AIZAWL & BASECAMP SETUP",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: REIEK MOUNTAIN TREKKING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: DAMPA TIGER RESERVE WILDLIFE SAFARI",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PALAK LAKE ADVENTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: CAVING & WILDERNESS TRAIL",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: CULTURAL IMMERSION & RELAXATION",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Mizoram Adventure Explorer with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AIZAWL & BASECAMP SETUP",
+        "description": "Arrive in Aizawl, the capital of Mizoram. Private transfer to your basecamp hotel. Gear up for the adventure ahead with a briefing session.",
+        "activities": [
+          "Private transfer to basecamp hotel.",
+          "Adventure briefing and gear orientation.",
+          "Overnight Stay: Aizawl Basecamp",
+          "Meals Included: MAPAI Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "REIEK MOUNTAIN TREKKING",
+        "description": "Embark on an exhilarating trek to the summit of Reiek Mountain. Witness stunning panoramic views of the Mizoram hills and untouched forest canopy.",
+        "activities": [
+          "Summit trek on Reiek Mountain.",
+          "Panoramic views of Mizoram hills and forest canopy.",
+          "Overnight Stay: Aizawl / Trail Base",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DAMPA TIGER RESERVE WILDLIFE SAFARI",
+        "description": "Venture into the Dampa Tiger Reserve. Explore one of India's most remote wildlife sanctuaries, spotting diverse flora and rare wildlife in their natural habitat.",
+        "activities": [
+          "Wildlife safari in Dampa Tiger Reserve.",
+          "Flora and fauna exploration in remote sanctuary.",
+          "Overnight Stay: Wilderness Lodge",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PALAK LAKE ADVENTURE",
+        "description": "Travel to Palak Lake, the largest lake in Mizoram. Enjoy boating and camping under the stars in the peaceful, wild landscape.",
+        "activities": [
+          "Boating at Palak Lake — largest lake in Mizoram.",
+          "Camping under the stars in wild landscape.",
+          "Overnight Stay: Palak Lake Camp",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "CAVING & WILDERNESS TRAIL",
+        "description": "Explore hidden cave networks in the remote hills of Mizoram, experiencing an off-the-grid wilderness trek.",
+        "activities": [
+          "Cave exploration in remote Mizoram hills.",
+          "Off-the-grid wilderness trekking.",
+          "Overnight Stay: Wilderness Camp",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CULTURAL IMMERSION & RELAXATION",
+        "description": "Visit traditional Mizo villages, interacting with local communities and learning indigenous mountain survival and craft techniques.",
+        "activities": [
+          "Traditional Mizo village visit.",
+          "Indigenous craft and mountain survival techniques.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE",
+        "description": "Final breakfast before your TRAGUIN private transfer, completing your premium Mizoram adventure.",
+        "activities": [
+          "Private transfer to airport.",
+          "Meals Included: Farewell Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Ritz / Trailhead Lodges",
+        "location": "Aizawl & Basecamps",
+        "nights_label": "6N Aizawl & Basecamps",
+        "description": "OPTION 01 – DELUXE: Hotel Ritz / Trailhead Lodges | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Adventure Resorts / Wilderness Camps",
+        "location": "Aizawl & Basecamps",
+        "nights_label": "6N Aizawl & Basecamps",
+        "description": "OPTION 02 – PREMIUM: Adventure Resorts / Wilderness Camps | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Adventure Cabin",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Reiek Adventure Resort / Dampa Jungle Lodge",
+        "location": "Aizawl & Basecamps",
+        "nights_label": "6N Aizawl & Basecamps",
+        "description": "OPTION 03 – LUXURY: Reiek Adventure Resort / Dampa Jungle Lodge | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Jungle Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Palak Lake Wilderness Retreat / Phawngpui Expedition Chalets",
+        "location": "Aizawl & Basecamps",
+        "nights_label": "6N Aizawl & Basecamps",
+        "description": "OPTION 04 – ULTRA LUXURY: Palak Lake Wilderness Retreat / Phawngpui Expedition Chalets | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Expedition Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 6 Nights in handpicked Mizoram properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Luxury SUV for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: MAPAI — daily breakfast and dinner at handpicked venues.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Airport/railway arrival and departure transfers in premium AC vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Stays: TRAGUIN-vetted accommodations matching your selected tier.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable taxes, driver allowances, tolls, and parking charges for the private vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Adventure activities including trekking, wildlife safari, boating, and caving as per itinerary.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, or sanctuary entry fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical expenses, and any emergency evacuation costs.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

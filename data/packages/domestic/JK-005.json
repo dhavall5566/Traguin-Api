@@ -1,0 +1,288 @@
+{
+  "destination_slug": "kashmir",
+  "package": {
+    "slug": "jk-005-tulip-romance-kashmir-honeymoon",
+    "serial_code": "JK-005",
+    "traguin_tour_code": "TRG-KASH-005",
+    "title": "Tulip Romance — A Dreamy Luxury Kashmir Holiday",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JK-005 | TRAGUIN tour code TRG-KASH-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Jammu & Kashmir / India | Category: Premium",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Srinagar • Gulmarg • Pahalgam • Dal Lake Houseboat",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Newlyweds, Romantics & Luxury Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: April to May (Tulip Festival Peak Season)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Luxury Honeymoon)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and historical storytelling briefing before",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing to avoid highway traffic, maximizing your leisure and",
+        "sort_order": 9
+      },
+      {
+        "text": "Exclusive Recommendations: VIP access parameters to select evening ceremonies and fine-dining",
+        "sort_order": 10
+      },
+      {
+        "text": "Local Markets & Souvenirs: Explore the heritage bazaars to find hand-knotted silk carpets, authentic pashmina shawls, walnut wood carvings, and beautiful papier-mâché artifacts. Don't forget to pick up premium Kashmiri saffron and fresh almonds. Cafes & Food: Old Srinagar features lovely, historic tea lounges where you can sip traditional hot Kashmiri Kahwa (saffron green tea with almonds) and try delicious, authentic bakery treats like baked Girda bread.",
+        "sort_order": 11
+      },
+      {
+        "text": "& TRAVEL INFORMATION",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Honeymoon",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "jk-005-tulip-romance-kashmir-honeymoon-itinerary",
+    "title": "Tulip Romance — A Dreamy Luxury Kashmir Holiday",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Honeymoon)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Tulip Romance — A Dreamy Luxury Kashmir Holiday",
+    "overview": "TULIP ROMANCE • A DREAMY LUXURY KASHMIR HOLIDAY Welcome to paradise on earth, a romantic fairytale designed flawlessly by TRAGUIN. Embark on our exclusive Kashmir Honeymoon Package, specifically timed with the world-renowned spring awakening of millions of blooming flowers. As your trusted premium travel consultants, TRAGUIN transforms this scenic getaway into a flawless luxury holiday complete with premium stays, romantic surprises, and immersive experiences. Witness the breathtaking landscapes of snow-dusted mountains framing oceans of multi- colored tulips, building unforgettable memories that you will cherish together forever.\n\nTOUR OVERVIEW\nThis elite curated itinerary offers the perfect balance between high-altitude mountain romance, timeless cultural heritage, and sheer natural bliss. Traveling in a fully private, chauffeured premium vehicle, you will traverse alpine routes in absolute seclusion and luxury. Enjoy an exquisite meal plan that provides lavish breakfast buffers and private candlelit dinners across the journey. Complete with specialized honeymoon add- ons—such as a premium Shikara photo session, floral room art, and a gourmet cake celebration—this represents the ultimate premium Kashmir experience. Every phase features the signature touch of TRAGUIN curated experiences, elevating your trip from a standard vacation to a true masterpiece.\n\nWHY CHOOSE THE BEST KASHMIR TOUR PACKAGE?\nWhen planning a Luxury Kashmir Holiday, couples look for unparalleled mountain beauty, historical architecture, and unmatched intimacy. Srinagar, the heart of the valley, stands out as a dream destination, making a specialized Kashmir Honeymoon Package the ultimate choice for couples. From strolling through the legendary, manicured Mughal Gardens to experiencing the absolute magic of the Indira Gandhi Memorial Tulip Garden—the primary iconic attraction during spring—Kashmir sightseeing offers deep emotional storytelling and spectacular sensory wonder. Our tailored Kashmir Family Tour and romantic designs guide you effortlessly through top tourist places in Kashmir. Take a striking photo at popular Instagram locations like the floating markets of Dal Lake, the golden alpine meadow views of Gulmarg, and the rushing turquoise rivers of Pahalgam. Whether you are indulging in local walnut wood handicraft shopping at the historic markets, relishing an upscale multi-course authentic Kashmiri Wazwan meal, or flying above pine-lined forests on the Gulmarg Gondola, our specialized TRAGUIN Kashmir Packages provide handpicked hotels and exclusive experiences that align perfectly with the best time to visit Kashmir.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JK-005 | Tulip Romance — A Dreamy Luxury Kashmir Holiday | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kashmir package (JK-005 / TRG-KASH-005): Srinagar • Gulmarg • Pahalgam • Dal Lake Houseboat with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SRINAGAR & DAL LAKE HOUSEBOAT",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SRINAGAR MUGHAL GARDENS & TULIP FESTIVAL",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SRINAGAR TO GULMARG EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SRINAGAR TO PAHALGAM EXCURSION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE FROM SRINAGAR",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and historical storytelling briefing before",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing to avoid highway traffic, maximizing your leisure and",
+        "sort_order": 7
+      },
+      {
+        "text": "Exclusive Recommendations: VIP access parameters to select evening ceremonies and fine-dining",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SRINAGAR & DAL LAKE HOUSEBOAT",
+        "description": "FLOATING LUXURY & THE MAGIC OF THE SHIKARA CRUISE Your premium Kashmir experience begins as you land at Srinagar Airport, where a dedicated private luxury transport vehicle waits to escort you. Transfer directly to the shores of the serene Dal Lake and board a traditionally crafted luxury wooden houseboat. After a refreshing afternoon rest, step out for an exclusive, private evening Shikara experience. Glide along the mirror-calm waters while listening to soft folk tunes, passing floating gardens and ancient wooden houses during sunset. houseboat suite.",
+        "activities": [
+          "Sightseeing Included: Dal Lake, Floating Markets, Historic wooden architecture canals.",
+          "Evening Experience: Honeymoon Special: Custom arrival cake and a beautiful floral decoration in your premium",
+          "Overnight Stay: Srinagar (Premium Luxury Floating Houseboat)",
+          "Meals Included: Welcome Drink & Royal Kashmiri Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SRINAGAR MUGHAL GARDENS & TULIP FESTIVAL",
+        "description": "THE TULIP ROMANCE – OCEANS OF SPRING COLOURS Awake to a peaceful misty lake view and enjoy breakfast before entering the world-renowned Indira Gandhi Memorial Tulip Garden, nestled beautifully against the Zabarwan mountain range. Walk hand-in-hand past rows of millions of blooming tulips, making this a highly popular Instagram location for couple portraits. Continue your premium Kashmir experience into the majestic Mughal heritage grounds, exploring the terraced lawns of Nishat Bagh (Garden of Pleasure) and Shalimar Bagh (Abode of Love), filled with cascading stone fountains. tulips.",
+        "activities": [
+          "Sightseeing Included: Indira Gandhi Memorial Tulip Garden, Nishat Bagh, Shalimar Bagh, Chashme Shahi.",
+          "Optional Activities: Bespoke couple photography session in traditional Kashmiri attire (Pheran) amidst the",
+          "Overnight Stay: Srinagar (Handpicked Premium Luxury Hotel)",
+          "Meals Included: Premium Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SRINAGAR TO GULMARG EXCURSION",
+        "description": "MEADOW OF GOLD & THE HIGH-ALTITUDE GONDOLA EXPERIENCE Depart after breakfast on a scenic mountain drive to Gulmarg, the crown jewel of winter sports and pristine alpine meadows. Board the world’s second-highest cable car, the Gulmarg Gondola. Ascend past towering pine forests up to Phase 1 (Kongdoori) and Phase 2 (Apharwat Peak), where breathtaking landscapes of pure white snow meet the deep blue sky. Walk along the high ridges or capture unforgettable memories with a dramatic couple photoshoot. Return to Srinagar in the late evening. hotel.",
+        "activities": [
+          "Sightseeing Included: Gulmarg Alpine Meadows, Gondola Rides (Phase 1 & 2), St. Mary's Heritage Church.",
+          "Evening Experience: Bespoke candlelit dinner with a premium menu curated by TRAGUIN experts back at your",
+          "Overnight Stay: Srinagar (Handpicked Premium Luxury Hotel)",
+          "Meals Included: Premium Breakfast & Intimate Candlelit Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SRINAGAR TO PAHALGAM EXCURSION",
+        "description": "THE VALLEY OF SHEPHERDS – RIVERSIDE SERENITY Today, take a breathtaking drive through expansive saffron fields and pine-fringed roads to Pahalgam. Known as the Valley of Shepherds, this iconic attraction is famous for its raw scenic beauty. Walk along the rushing Lidder River, listen to the water against the rocks, and explore the beautiful Betaab Valley, named after a famous Bollywood romance film. Enjoy a quiet stroll through the meadows of Aru Valley before heading back to Srinagar. Switzerland).",
+        "activities": [
+          "Sightseeing Included: Lidder River Valley, Betaab Valley, Aru Valley, Saffron Field viewpoints.",
+          "Optional Activities: Private horseback trail ride up to the high panoramic meadows of Baisaran (Mini",
+          "Overnight Stay: Srinagar (Handpicked Premium Luxury Hotel)",
+          "Meals Included: Premium Breakfast & Farewell Multi-cuisine Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE FROM SRINAGAR",
+        "description": "CHERISHING THE PARADISE – MEMORIES BEYOND DESTINATIONS Indulge in a final lavish breakfast at your premium hotel, overlooking the misty hills. Take a quiet morning walk for any last-minute souvenir shopping before your private luxury transport vehicle carries you safely back to Srinagar Airport. Board your flight home with a heart full of romance and unforgettable memories designed meticulously by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury airport departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Pine Spring / Orchard Retreat | Royal Group Houseboats / similar",
+        "location": "Srinagar | Dal Lake Houseboat",
+        "nights_label": "1N Houseboat|3N Srinagar",
+        "description": "OPTION 01 – DELUXE: Hotel Pine Spring / Orchard Retreat | Royal Group Houseboats / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Hotel / Fortune Riviera | Kashmir Oasis Houseboat / similar",
+        "location": "Srinagar | Dal Lake Houseboat",
+        "nights_label": "1N Houseboat|3N Srinagar",
+        "description": "OPTION 02 – PREMIUM: Lemon Tree Hotel / Fortune Riviera | Kashmir Oasis Houseboat / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Collection / Vivanta Dal View | The Grand Palace Houseboat Group",
+        "location": "Srinagar | Dal Lake Houseboat",
+        "nights_label": "1N Houseboat|3N Srinagar",
+        "description": "OPTION 03 – LUXURY: Radisson Collection / Vivanta Dal View | The Grand Palace Houseboat Group | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Grand Palace (Heritage Suite) | Sukoon Luxury Cruise Houseboat",
+        "location": "Srinagar | Dal Lake Houseboat",
+        "nights_label": "1N Houseboat|3N Srinagar",
+        "description": "OPTION 04 – ULTRA LUXURY: The Lalit Grand Palace (Heritage Suite) | Sukoon Luxury Cruise Houseboat | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights split between a luxury houseboat and handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all point-to-point transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily premium buffet breakfast and multi-course dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest experience manager assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized travel welcome kit and refreshing beverages.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: 01-Hour private evening Shikara cruise on Dal Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international flight tickets to and from Srinagar.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Gondola cable car ride tickets (can be pre- booked on request).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, local camera permissions, and destination guide fees.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, liquor, telephone calls, or driver tips.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

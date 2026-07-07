@@ -1,0 +1,261 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-017-saputara-hill-station-escape",
+    "serial_code": "GJ-017",
+    "traguin_tour_code": "TRAGUIN-GJ-017",
+    "title": "Saputara Hill Station Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-017 | TRAGUIN tour code TRAGUIN-GJ-017",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Weekend Gateway / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Saputara Hill Station • Gira Waterfalls",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Corporate Elites",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Monsoon & Winter (July to March)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Weekend Getaway (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Premium Luxury Sedan / SUV",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Gourmet Breakfast & Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Surat/Nashik Arrival → Saputara Lake → Sunset Point → Gira Waterfalls → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated carefully by TRAGUIN Experts to maximize premium holiday comfort. • Exclusive Recommendations: VIP line-skipping passes for the Ropeway ride during crowded holiday weekends. • Personalized Assistance: Enjoy premium handpicked hotels, highly trained local drivers, and tailored photography points across the route.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Pick up authentic bamboo crafts, dynamic tribal pottery, and pure forest honey from the Dangs cooperative markets. Instagram Spots: The beautiful lake mist during morning hours and the sunset perspective from Pushpak Cable Car.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in time is 14:00 hrs; check-out is 11:00 hrs. Early access depends on room availability. Weather Aspect: Heavy mist covers the region during monsoons; temperatures drop in winters. Carrying a light windcheater or fleece jacket is highly recommended. Advance Booking Suggestions: Weekend luxury properties sell out fast; booking 3-4 weeks ahead ensures premium room categories.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Weekend",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-017-saputara-hill-station-escape-itinerary",
+    "title": "Saputara Hill Station Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Saputara Hill Station Escape • Misty Sahyadri Retreat",
+    "overview": "Are you planning the perfect Saputara Honeymoon Package or a refreshing Saputara Family Tour? As the crown jewel of tourism in South Gujarat, Saputara Hill Station stands as one of the most searched weekend getaway hubs. It offers an incredible combination of rich tribal culture, biological reserves, and scenic beauty that satisfies any refined traveler looking for a high-end escape. From exploring the misty banks of Saputara Lake to capturing spectacular snapshots at the top popular Instagram locations like Governor’s Hill and Sunrise Point, our premium itinerary secures the finest highlights. Experience the Best Time to Visit Saputara with TRAGUIN Saputara Packages, taking advantage of exclusive access, curated sightseeing paths, and elite wellness amenities hidden within the tranquil woods.\n\nTRAGUIN Curated Touch: Indulge in a premium Saputara experience featuring handpicked hotels with direct valley views, a private cable car glide over misty gorges, and local tribal art interactions tailored seamlessly for an unparalleled luxurious family or couple vacation.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-017 | Saputara Hill Station Escape | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Gujarat package (GJ-017 / TRAGUIN-GJ-017): Saputara Lake, Pushpak Ropeway, Artist Village, Sunset Point, Gira Waterfalls, and 4-tier hill resorts",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Saputara Lake, Step Garden, Lake Promenade Walk.",
+        "sort_order": 1
+      },
+      {
+        "text": "Pushpak Ropeway, Artist Village, Governor's Hill, Sunset Point.",
+        "sort_order": 2
+      },
+      {
+        "text": "Gira Waterfalls, Waghai Botanical Garden.",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated carefully by TRAGUIN Experts to maximize premium holiday comfort. • Exclusive Recommendations: VIP line-skipping passes for the Ropeway ride during crowded holiday weekends. • Personalized Assistance: Enjoy premium handpicked hotels, highly trained local drivers, and tailored photography points across the route.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury hotels and seamless ground logistics",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & SAPUTARA LAKE CHRONICLES",
+        "description": "Arrive at Surat Airport or Nashik Railway Station where your professional TRAGUIN chauffeur welcomes you. Embark on a breathtakingly scenic mountain road climb winding through lush bamboo groves and cascading valleys. Arrive at Saputara Hill Station and experience a seamless priority check-in at your handpicked luxury resort. In the late afternoon, enjoy a relaxing private boat cruise across the calm waters of Saputara Lake, surrounded by towering trees and rolling clouds. As evening colors fill the sky, stroll through the vibrant Step Garden for spectacular photography points.",
+        "activities": [
+          "Sightseeing Included: Saputara Lake, Step Garden, Lake Promenade Walk.",
+          "Evening Experience: Local hot-spiced premium tea session hosted by the lakeside.",
+          "Overnight Stay: Ultra-Luxury Resort with Valley View, Saputara.",
+          "Meals Included: Welcome Signature Drink & Curated Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "ICONIC ATTRACTIONS & VALLEYS",
+        "description": "Savor a luxurious morning breakfast overlooking the mist-filled valley. Today, dive into the ultimate Saputara Sightseeing collection. Take an exclusive private cable car (Pushpak Ropeway) ride that glides effortlessly over high mountain chasms, offering panoramic views of the dense Dangs forest. Visit the fascinating Artist Village to interact with tribal artisans and witness authentic Warli paintings. In the evening, your vehicle takes you up to the majestic Sunset Point, where you will witness the sun melting beautifully behind the Sahyadri mountains—creating unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Pushpak Ropeway, Artist Village, Governor's Hill, Sunset Point.",
+          "Optional Activities: Paragliding from Governor's hill (seasonal/weather permitting).",
+          "Overnight Stay: Ultra-Luxury Resort with Valley View, Saputara.",
+          "Meals Included: Premium Breakfast & Candlelit Theme Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "GIRA WATERFALLS & DEPARTURE",
+        "description": "After an early gourmet breakfast, check out and drive towards the spectacular Gira Waterfalls, a magnificent 75-foot natural drop that roars majestically into the Ambika River (best viewed during monsoon and winter seasons). Capture stunning panoramic photos and breathe in the refreshing forest spray. Afterwards, your luxury private vehicle ensures a smooth, comfortable drive back to Surat or Nashik to catch your onward flight or train, concluding your premium TRAGUIN Saputara Experience.",
+        "activities": [
+          "Sightseeing Included: Gira Waterfalls, Waghai Botanical Garden.",
+          "Food Suggestions: Enjoy authentic hot local organic corn delicacies near the falls.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Patang Residency, Saputara",
+        "location": "Saputara",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Lake View Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Savshanti Hill Resort",
+        "location": "Saputara",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Super Deluxe Valley View Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Aakar Lords Inn, Saputara",
+        "location": "Saputara",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Elite Pavilion Club Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Sunil Resort / Villa Luxury Suites",
+        "location": "Saputara",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Presidential Suite with Private Jacuzzi",
+        "meal_plan": "MAP Premium Dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights premium stay at handpicked luxury hotels with sweeping valley/lake views.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 02 Lavish Multi-cuisine Breakfasts & 02 Chef-curated Dinners at premium hotel restaurants.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All point-to-point tours via private premium air-conditioned luxury transportation.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated digital concierge assistance and personalized itinerary tracking.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing wellness drink on arrival and complimentary basket of local artisanal fresh fruits.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Exclusive ticket access to the Pushpak Ropeway cable car and private boating pass.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight tickets or train fares from your home destination.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal shopping expenses, premium mini-bar bills, and laundry service charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to adventure activity parks or camera charges at sites.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, extensions, or detour mileage fees not mentioned.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-002-gujarat-discovery-luxury-itinerary",
+    "serial_code": "GJ-002",
+    "traguin_tour_code": "TRAGUIN-GJ-002",
+    "title": "Gujarat Discovery Luxury Itinerary",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-002 | TRAGUIN tour code TRAGUIN-GJ-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Family / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ahmedabad • Dasada • Bhuj • Rann of Kutch",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations & Heritage Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Family Tour (FIT)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Vehicle with Dedicated Chauffeur",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Daily gourmet breakfast and dinners as listed in the itinerary",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Ahmedabad (2N) → Dasada (1N) → Bhuj (1N) → Rann of Kutch (2N) → Ahmedabad (1N)",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sun-downer high-tea inside the vast desert wilderness of Kutch, curated by experts with flexible paced travel plans for families with children or elderly members.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping: Bandhani sarees, Ajrakh hand-block print fabrics, Kutchi mirror-work embroidery bags, and traditional silver jewelry at Bhujodi and local markets in Bhuj.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important: Rann permit requires physical/online government permits—carry Aadhaar/Passport copies. Winter desert nights are cold—carry warm layers. Advance bookings recommended during Rann Utsav festival months.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-002-gujarat-discovery-luxury-itinerary-itinerary",
+    "title": "Gujarat Discovery Luxury Itinerary",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Gujarat Discovery Luxury Itinerary • Heritage, Wildlife & White Desert",
+    "overview": "Welcome to an unforgettable journey curated by TRAGUIN. Immerse your family in the breathtaking landscapes, ancient legacy, and timeless traditions of Western India. This bespoke Luxury Gujarat Holiday is specifically designed to bring you the finest Premium Gujarat Experience, blending handpicked hotels, cultural wonders, and immersive experiences that cater perfectly to a premium family vacation.\n\nThis Best Gujarat Tour Package takes your family through a seamless luxury route starting from the vibrant heritage city of Ahmedabad, moving into the wild terrains of Dasada (Little Rann of Kutch), and culminating in the magnificent white salt deserts of Bhuj and the Greater Rann of Kutch. Travelling in a premium, private air-conditioned vehicle with handpicked heritage and luxury stays, your family will experience comfort at every turn.\n\nGujarat stands out as one of the most culturally rich and visually dynamic destinations in Asia. The absolute highlight of any Gujarat Sightseeing journey is the spellbinding Great Rann of Kutch, famous for its glowing white salt plains under full moon nights and spectacular desert sunsets. Popular Instagram locations include colorful tent cities, geometric art of centuries-old stepwells, and intricate traditional embroidery of nomadic tribes in Bhuj.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-002 | Gujarat Discovery Luxury Itinerary | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Gujarat package (GJ-002 / TRAGUIN-GJ-002): Sabarmati Ashram, Adalaj Stepwell, Little Rann safari, Aina Mahal, Great White Rann, Kalo Dungar, Modhera Sun Temple, and 4-tier handpicked accommodation",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sabarmati Ashram, Adalaj Stepwell, open jeep safari in Little Rann of Kutch.",
+        "sort_order": 1
+      },
+      {
+        "text": "Aina Mahal, Prag Mahal, Great White Rann Plains, Kalo Dungar, Nirona Craft Village.",
+        "sort_order": 2
+      },
+      {
+        "text": "Modhera Sun Temple, Patan Rani Ki Vav (Optional UNESCO Site).",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sun-downer high-tea experience inside the vast desert wilderness of Kutch.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by Experts: Fully flexible, paced travel plans custom tailored for families travelling with children or elderly members.",
+        "sort_order": 5
+      },
+      {
+        "text": "Local Immersion: Direct access to multi-generational local artisan homes for live heritage craft masterclasses.",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "AHMEDABAD | ARRIVAL IN THE HERITAGE CITY & SCENIC SIGHTSEEING",
+        "description": "Arrive in Ahmedabad, India's first UNESCO World Heritage City, where you will be greeted by a warm traditional welcome arranged by your dedicated chauffeur. Transfer seamlessly in your private premium vehicle to your handpicked luxury hotel. In the afternoon, embark on an immersive Ahmedabad Sightseeing tour. Visit the serene Sabarmati Ashram, the peaceful historic home of Mahatma Gandhi, located on the tranquil banks of the Sabarmati River. Following this, explore the architectural masterpiece of the Adalaj Stepwell, a beautifully carved five-story deep structure displaying stunning ancient Indian engineering. In the evening, capture beautiful family photographs as the sun sets over the riverfront.",
+        "activities": [
+          "Sightseeing Included: Sabarmati Ashram, Adalaj Stepwell, Akshardham Temple (Optional).",
+          "Evening Experience: Leisure stroll along the illuminated Sabarmati Riverfront.",
+          "Overnight Stay: Ahmedabad (Luxury Heritage Hotel).",
+          "Meals Included: Welcome Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AHMEDABAD TO DASADA | JOURNEY INTO THE WILD LITTLE RANN OF KUTCH",
+        "description": "Enjoy a gourmet breakfast at your luxury hotel before checking out. Today, your premium journey proceeds toward Dasada, the gateway to the Little Rann of Kutch. Upon arrival, check in to an exclusive eco-luxury desert resort. In the afternoon, gear up for an exciting open jeep cross-country desert safari across the cracked earth landscapes of the sanctuary. This unique habitat is the exclusive home of the rare endangered Asiatic Wild Ass. Marvel at the breathtaking landscapes and spectacular desert birds like flamingos and pelicans. As evening approaches, enjoy a high-tea setup amidst the desert plains while witnessing a glorious, unobstructed sunset.",
+        "activities": [
+          "Sightseeing Included: Open Jeep Safari in Little Rann of Kutch Sanctuary, Local Rabari Tribal Village tour.",
+          "Evening Experience: Traditional campfire and folk performance at the luxury resort.",
+          "Overnight Stay: Dasada / Bajana (Premium Desert Resort).",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DASADA TO BHUJ | PATHWAY TO HISTORIC PALACES & HANDICRAFT HERITAGE",
+        "description": "After a relaxed breakfast, take a scenic drive toward the historic city of Bhuj, the cultural heart of the Kutch region. The drive showcases transitioning landscapes from dry scrublands into beautiful arid hills. Arrive in Bhuj and check in to your premium suite accommodation. In the afternoon, start your local Bhuj Sightseeing. Visit the magnificent Aina Mahal (Palace of Mirrors), showcasing European-inspired glass layouts combined with local craftsmanship, followed by the nearby Prag Mahal with its grand Italian-Gothic architecture and panoramic clock tower views. Conclude your afternoon exploring the beautiful royal cenotaphs at Chattardi, a highly sought-after photography point.",
+        "activities": [
+          "Sightseeing Included: Aina Mahal, Prag Mahal, Bhujodi Weaver Village, Sharad Baug Palace.",
+          "Evening Experience: Curated shopping at Bhujodi for premium handmade shawls and fabrics.",
+          "Overnight Stay: Bhuj (Premium Luxury Hotel).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "BHUJ TO GREATER RANN OF KUTCH | THE MAGIC OF THE WHITE SALT DESERT",
+        "description": "Today marks the pinnacle of your Luxury Gujarat Holiday. Depart Bhuj for the Greater Rann of Kutch, checking into a premium luxury tent resort near Dhordo. After settling into your air-conditioned luxury tent, prepare to witness one of the top tourist places in Gujarat. In the late afternoon, your vehicle takes you to the edge of the endless salt marsh. Step onto the spectacular white desert that stretches into the horizon. The emotional storytelling of this place comes alive as you watch the white landscape change colors from soft gold to brilliant orange, and finally turn to a pristine silver under the rising moon—an absolute highlight for unforgettable family memories.",
+        "activities": [
+          "Sightseeing Included: Great White Rann Plains, Dhordo Tent City Culture Zone.",
+          "Evening Experience: Cultural music, camel cart rides, and stargazing on the salt desert.",
+          "Overnight Stay: Rann of Kutch / Dhordo (Premium Luxury Tent Resort).",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO KALO DUNGAR & INDIGENOUS ARTISAN VILLAGES",
+        "description": "Wake up early to catch a pristine desert sunrise. Following a lavish breakfast, proceed on an excursion to Kalo Dungar (Black Hill), the highest point in Kutch. From the summit, enjoy a jaw-dropping panoramic view of the entire white desert blending into the horizon and the international border. On the way back, experience an immersive cultural tour of local artisan villages like Hodka and Nirona. In Nirona, witness exclusive art forms like Rogan painting, traditional lacquer-turned woodcraft, and hand-forged copper bells made by local families using generations-old secret techniques.",
+        "activities": [
+          "Sightseeing Included: Kalo Dungar, Dattatreya Temple, Nirona Craft Village, Hodka Village.",
+          "Evening Experience: Interactive session with national-award-winning Rogan artists.",
+          "Overnight Stay: Rann of Kutch / Dhordo (Premium Luxury Tent Resort).",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "RANN OF KUTCH TO AHMEDABAD | RETURN JOURNEY VIA MODHERA SUN TEMPLE",
+        "description": "Bid farewell to the enchanting salt deserts and drive back toward Ahmedabad. To ensure your return path is just as memorable, a special detour is curated to visit the magnificent Sun Temple at Modhera. This 11th-century architectural masterpiece is designed so that the rays of the rising sun illuminate the inner sanctum during equinoxes. Walk past the grand Surya Kund, a deeply stepped reservoir featuring over a hundred beautifully carved miniature shrines. After capturing magnificent photographs of this historic monument, continue your smooth drive back to Ahmedabad for a relaxing final night.",
+        "activities": [
+          "Sightseeing Included: Modhera Sun Temple, Patan Rani Ki Vav (Optional UNESCO Site).",
+          "Evening Experience: Gala farewell family dinner highlighting authentic Gujarati fine dining.",
+          "Overnight Stay: Ahmedabad (Luxury Hotel).",
+          "Meals Included: Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "AHMEDABAD | SOUVENIR SHOPPING & DEPARTURE WITH UNFORGETTABLE MEMORIES",
+        "description": "Savor a late breakfast at your hotel. Depending on your flight or train schedule, indulge in some last-minute luxury shopping for souvenirs. Your private vehicle will transfer your family comfortably to the Ahmedabad International Airport or Railway Station for your onward journey. Your premium TRAGUIN Gujarat Package concludes here, leaving your family with beautiful, deep-seated memories of heritage, wildlife, and pristine white deserts that will be cherished for a lifetime.",
+        "activities": [
+          "Sightseeing Included: Local shopping transfers.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Premier | Rann Riders Eco Resort | Regenta Resort Bhuj | Rann Resort Dholavira",
+        "location": "Ahmedabad (2N) / Dasada (1N) / Bhuj (1N) / Rann of Kutch (2N)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 01 – DELUXE: Lemon Tree Premier (Ahmedabad (2N)) | Rann Riders Eco Resort (Dasada (1N)) | Regenta Resort Bhuj (Bhuj (1N)) | Rann Resort Dholavira (Rann of Kutch (2N)) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room / AC Tent",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency | Dasada Desert Lodge | The Fern Residency | White Rann Resort (AC Tent)",
+        "location": "Ahmedabad (2N) / Dasada (1N) / Bhuj (1N) / Rann of Kutch (2N)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 02 – PREMIUM: Hyatt Regency (Ahmedabad (2N)) | Dasada Desert Lodge (Dasada (1N)) | The Fern Residency (Bhuj (1N)) | White Rann Resort (AC Tent) (Rann of Kutch (2N)) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / AC Tent",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Skyline / ITC Narmada | Rann Riders (Luxury Suite) | Grand 3D Bhuj | Evoke Rann Resort Luxury Tent",
+        "location": "Ahmedabad (2N) / Dasada (1N) / Bhuj (1N) / Rann of Kutch (2N)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Skyline / ITC Narmada (Ahmedabad (2N)) | Rann Riders (Luxury Suite) (Dasada (1N)) | Grand 3D Bhuj (Bhuj (1N)) | Evoke Rann Resort Luxury Tent (Rann of Kutch (2N)) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite / Luxury Tent",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The House of MG (Heritage) | The Desert Courtyard Luxury | Prince Oasis Luxury Resort | The Gateway Rann Resort (Premium)",
+        "location": "Ahmedabad (2N) / Dasada (1N) / Bhuj (1N) / Rann of Kutch (2N)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The House of MG (Heritage) (Ahmedabad (2N)) | The Desert Courtyard Luxury (Dasada (1N)) | Prince Oasis Luxury Resort (Bhuj (1N)) | The Gateway Rann Resort (Premium) (Rann of Kutch (2N)) | Gourmet Meal Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Heritage Suite / Premium Tent",
+        "meal_plan": "Gourmet Meal Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation in handpicked luxury hotels & tent resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet breakfast and dinners as listed in the meal plan.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "All transfers and sightseeing in a private dedicated luxury AC vehicle.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary open jeep desert safari inside Little Rann of Kutch.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Special TRAGUIN Signature Welcome Amenities on arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Curated artisan village interaction fees and entry assistance.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable luxury taxes, toll fees, driver allowances, and parking charges.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 personalized remote concierge support via TRAGUIN Experts.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Ahmedabad.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera charges, and local guide fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses (laundry, telephone calls, mini-bar, tips).",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities, camel safari upgrades, or hot air balloon rides.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meals or alcoholic beverages not specifically noted in the itinerary.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverages (highly recommended).",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "Cost arising due to unexpected road closures, weather delays, or flight cancellations.",
+        "sort_order": 15
+      }
+    ]
+  }
+}

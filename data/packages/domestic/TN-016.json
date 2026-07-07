@@ -1,0 +1,255 @@
+{
+  "destination_slug": "tamil-nadu",
+  "package": {
+    "slug": "tn-016-yercaud-serene-hill-getaway",
+    "serial_code": "TN-016",
+    "traguin_tour_code": "TRAGUIN-TN-016",
+    "title": "Yercaud Serene Hill Getaway",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TN-016 | TRAGUIN tour code TRAGUIN-TN-016",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Tamil Nadu / India | Category: Leisure / Premium Hill Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Yercaud (Jewel of the South)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Corporate Rejuvenation",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to June",
+        "sort_order": 5
+      },
+      {
+        "text": "Travel Style: Customized FIT / Elite Leisure Weekend Break",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle Allocated: Dedicated Luxury Chauffeur-driven Private AC Sedan / SUV",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Continental Breakfast & Multi-cuisine Dinners Included",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Our professional travel consultants have handpicked premier stays featuring panoramic terrace balconies, private curated spice walks, and specialized hassle-free transport rules.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts, this itinerary guarantees a stress-free mountain escape. Enjoy pre-booked premium rooms, custom route pacing to minimize travel fatigue, and exclusive recommendations on boutique coffee estates.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Local Markets: Purchase pure mountain honey, freshly ground plantation coffee powder, and homemade organic chocolates. Spices & Cosmetics: Discover natural eucalyptus oils, black pepper, and pure herbal skincare products unique to the Shevaroy range.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Resort check-in standard time is 14:00 hrs. Early occupancy depends entirely on room availability. Weather Notes: The best time to visit Yercaud is during winter/summer. Carrying a light sweater or jacket for breezy evenings is advised. Advance Booking: Peak season weekends get occupied rapidly. We suggest completing bookings 3-4 weeks in advance.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Hills",
+      "Leisure",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "tn-016-yercaud-serene-hill-getaway-itinerary",
+    "title": "Yercaud Serene Hill Getaway",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Tamil Nadu Tour Package • Yercaud Serene Hill Getaway • 02 Nights / 03 Days",
+    "overview": "Welcome to the mesmerizing trails of the Shevaroy Hills. This premium getaway, beautifully planned by TRAGUIN, offers an emotional escape into mist-kissed orange orchards, aromatic coffee estates, and silent glassy lakes. As a leading choice for a Premium Tamil Nadu Experience, we blend elite comfort with raw natural splendor to leave you with unforgettable memories.\n\nTOUR OVERVIEW\nTravel Style: Customized FIT / Elite Leisure Weekend Break\nVehicle Allocated: Dedicated Luxury Chauffeur-driven Private AC Sedan / SUV\nMeal Plan: Continental Breakfast & Multi-cuisine Dinners Included\n\nTRAGUIN Curated Experience Note:\nOur professional travel consultants have handpicked premier stays featuring panoramic terrace balconies, private curated spice walks, and specialized hassle-free transport rules.\n\nYercaud, affectionately known as the Jewel of the South, stands out as an idyllic mountain retreat perfect for a Tamil Nadu Family Tour or an intimate Tamil Nadu Honeymoon Package.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TN-016 | Yercaud Serene Hill Getaway | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Tamil Nadu package (TN-016 / TRAGUIN-TN-016): Yercaud serene hill getaway with private boating and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Emerald Yercaud Lake, Deer Park, Anna Park, and private boating at sunset",
+        "sort_order": 1
+      },
+      {
+        "text": "32-km Loop Road, Shevaroy Temple Peak, Lady's Seat, and National Orchidarium",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Spice Garden Walk, Pagoda Point, and plantation coffee tour",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience with guided plantation walks and private boat ride tokens on Yercaud Lake",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium 4-tier handpicked luxury resort accommodation in Yercaud",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & YERCAUD HILL IMMERSION",
+        "description": "Your premium holiday begins with a scenic drive up the pristine 20 hairpin bends from Salem. Arrive at your handpicked resort where the cool mountain breeze welcomes you. After a seamless check-in experience, embark on your afternoon Tamil Nadu Sightseeing. Stroll along the beautiful paths of Yercaud Lake, surrounded by dense gardens and woods. Enjoy an exclusive private boating experience as the sun dips below the hills, painting the sky in deep shades of gold.",
+        "activities": [
+          "Sightseeing Included: Emerald Yercaud Lake, Deer Park, Anna Park.",
+          "Evening Experience: A relaxing walk through local markets followed by an immersive high-tea experience at the resort.",
+          "Photography Points: Sunset reflection over the calm lake waters and mist rolling onto the lake banks.",
+          "Overnight Stay: Handpicked Luxury Resort, Yercaud.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "EXPLORING ICONIC ATTRACTIONS & LOOPS",
+        "description": "Awake to the refreshing aroma of fresh coffee beans. Today, your luxury vehicle takes you along the famous 32-km Loop Road, a stunning stretch weaving through ancient coffee plantations and tribal hamlets. Visit the historic Shevaroy Temple, located at the highest point of the hill range. Later, step out to Lady's Seat and Gentleman's Seat—dramatic rock formations offering a bird's-eye view of the plains far below. End your afternoon exploring the diverse flora at the spectacular Orchidarium.",
+        "activities": [
+          "Sightseeing Included: 32-km Loop Road, Shevaroy Temple Peak, Lady's Seat, National Orchidarium.",
+          "Optional Activities: A guided colonial heritage walk or an estate-level coffee processing tour.",
+          "Evening Experience: Gather around a private bonfire setup under a starry sky with light acoustic music.",
+          "Overnight Stay: Handpicked Luxury Resort, Yercaud.",
+          "Meals Included: Premium Breakfast & Curated Theme Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SPICE GARDENS & DEPARTURE",
+        "description": "Savor a luxurious morning breakfast overlooking the valleys. Before bidding farewell, visit a premium spice plantation to learn about pepper cultivation and organic farming methods. Take a last peaceful look at the breathtaking landscapes before checking out. Your private vehicle transfers you smoothly back to the Salem or Coimbatore station/airport for your onward journey home.",
+        "activities": [
+          "Sightseeing Included: Private Spice Garden Walk, Pagoda Point.",
+          "Transfers Included: Private Luxury Station / Airport Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Sterling Yercaud",
+        "location": "Yercaud",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Sterling Yercaud — Premier Valley View Room — 02 Nights",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premier Valley View Room",
+        "meal_plan": "Continental Breakfast & Multi-cuisine Dinners",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Grange Resort",
+        "location": "Yercaud",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Grange Resort — Luxury Boutique Cabin — 02 Nights",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Boutique Cabin",
+        "meal_plan": "Continental Breakfast & Multi-cuisine Dinners",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Great Trails Yercaud by GRT Hotels",
+        "location": "Yercaud",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: Great Trails Yercaud by GRT Hotels — Timber Cabin / Sky Villa — 02 Nights",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Timber Cabin / Sky Villa",
+        "meal_plan": "Continental Breakfast & Multi-cuisine Dinners",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Regent Hill Villa & Spa",
+        "location": "Yercaud",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Regent Hill Villa & Spa — Grand Royal Panoramic Suite — 02 Nights",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Royal Panoramic Suite",
+        "meal_plan": "Continental Breakfast & Multi-cuisine Dinners",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Luxury stay at handpicked hotels with premium vantage viewpoints.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 02 Buffet Breakfasts and 02 multi-cuisine dinners curated by executive chefs.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven private luxury AC vehicle for all transfers.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 priority remote assistance and ground coordination.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing welcome drink, organic wet towels, and seasonal fruit basket upon arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Guided plantation walks and private boat ride tokens on Yercaud Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train ticketing expenses.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry monuments or cameras fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, adventure sports (zip-lining), or personal laundry expenses.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Goods and Services Tax or travel insurance packages.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

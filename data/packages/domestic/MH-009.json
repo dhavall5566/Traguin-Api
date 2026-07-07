@@ -1,0 +1,268 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-009-mumbai-city-sightseeing-bollywood-glamour",
+    "serial_code": "MH-009",
+    "traguin_tour_code": "TRAGUIN-MH-009",
+    "title": "Mumbai City Sightseeing & Bollywood Glamour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-009 | TRAGUIN tour code TRAGUIN-MH-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra / India | Category: Family Vacation / Luxury Heritage",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mumbai City • Bollywood Studios • Juhu",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Film Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury City & Film Industry FIT Experience",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Executive Air-Conditioned Luxury Sedan / Premium Innova Crysta",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Buffet Breakfast at Premium Luxury Stays & Specialized Bollywood Lunch",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Mumbai International Airport Arrival → South Mumbai Heritage → Bollywood Studio Tour → Juhu → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with seamless coordination, pre-reserved tickets, premium transportation, and private local storytellers at historic landmarks",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Colaba Causeway & Crawford Market — fine leather goods, antique curios, brass artifacts, organic local spices; Boutiques & High-End Malls — customized luxury fashion from designer studios",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs; Bollywood live studio visits subject to production schedules with safe equivalent options if restricted",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "City",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-009-mumbai-city-sightseeing-bollywood-glamour-itinerary",
+    "title": "Mumbai City Sightseeing & Bollywood Glamour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Mumbai City Sightseeing & Bollywood Glamour • 03 Nights / 04 Days",
+    "overview": "Step into the magical realm of India's maximum city. Curated lovingly by TRAGUIN experts, this elite getaway balances high-end coastal luxury with immersive storytelling through historical colonial structures, world-famous coastal drives, and an exclusive insider pass to the vibrant corridors of the Indian Film Industry. Create unforgettable memories with your family on a premium stay meticulously customized for ultimate comfort.\n\nMumbai, the beating heart of Maharashtra, offers breathtaking landscapes along the Arabian Sea, iconic attractions, and unmatched cultural depth. Whether you are seeking a premier Maharashtra Family Tour or a memorable Maharashtra Honeymoon Package, this itinerary hits every popular Instagram location flawlessly.\n\nFrom capturing historical photos outside the majestic Gateway of India to tracking the elite lifestyle of movie stars at Bandra, our Premium Maharashtra Experience promises deep immersion. Witness the top tourist places in Maharashtra, indulge in boutique shopping markets, and dive deep into historical colonial monuments with the absolute security and peace of mind provided by TRAGUIN Maharashtra Packages.\n\nTRAGUIN Curated Experience Note: Includes a VIP access pass into real live sets, an expert colonial architectural historian guide, pre-reserved entry tokens, and a dedicated 24/7 personal travel consultant.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-009 | Mumbai City Sightseeing & Bollywood Glamour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Mumbai package (MH-009 / TRAGUIN-MH-009): Marine Drive, Gateway of India, CSMT, Bollywood studio tour, Juhu Beach, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Marine Drive, Gateway of India, Colaba Promenade & premium high-tea overlooking the Arabian Sea",
+        "sort_order": 1
+      },
+      {
+        "text": "CSMT Station, Mani Bhavan, Dhobi Ghat & Bandra-Worli Sea Link",
+        "sort_order": 2
+      },
+      {
+        "text": "Live Shoot Set Tour, Bollywood Museum, Actor Bungalow Drives & Juhu Beach",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with pre-reserved tickets and private local storytellers",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier options from Trident Nariman Point to The St. Regis Mumbai",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Mumbai Arrival",
+        "description": "Arrive in style at Mumbai International Airport where your private elite chauffeur welcomes you with customized amenities. Drive along the beautiful Marine Drive, enjoying the scenic beauty of the city's coastline. Check in seamlessly to your handpicked hotel facing the ocean. As the sun sets, walk around the iconic Colaba Causeway for boutique souvenir shopping and premium café experiences.",
+        "activities": [
+          "Sightseeing Included: Marine Drive, Gateway of India, Colaba Promenade.",
+          "Evening Experience: Sip on premium high-tea overlooking the Arabian Sea, arranged exclusively by TRAGUIN experts.",
+          "Overnight Stay: Ultra Luxury Sea-Facing Hotel, Mumbai.",
+          "Meals Included: Welcome Drink & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mumbai City Sightseeing",
+        "description": "Savor a luxurious buffet breakfast. Embark on a comprehensive Mumbai Sightseeing drive led by an expert guide. Tour the Chhatrapati Shivaji Maharaj Terminus (UNESCO World Heritage Site) to witness stunning Victorian Gothic architecture. Visit Mani Bhavan, the peaceful residence of Mahatma Gandhi, followed by a picturesque drive through the iconic Bandra-Worli Sea Link.",
+        "activities": [
+          "Sightseeing Included: Gateway of India, CSMT Station, Dhobi Ghat, Bandra-Worli Sea Link.",
+          "Photography Points: Splendid mid-sea angles from the Bandra-Worli Sea Link bridge.",
+          "Overnight Stay: Handpicked Luxury Resort, Mumbai.",
+          "Meals Included: Gourmet Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Bollywood Experiences",
+        "description": "Today introduces the centerpiece of your holiday—an exclusive, privately guided trip into the legendary world of Bollywood. Enter prominent film studios to view real-world sound stages, post-production edit suites, and a live dance performance. Walk through historic costume galleries before driving past the grand residential bungalows of legendary actors in Bandra and Juhu.",
+        "activities": [
+          "Sightseeing Included: Live Shoot Set Tour, Bollywood Museum, Actor Bungalow Drives, Juhu Beach.",
+          "Local Experiences: Try customized recording inside a dubbing studio for a fun family memory.",
+          "Overnight Stay: Premium Luxury Beachfront Resort, Juhu.",
+          "Meals Included: Breakfast, Special Studio Lunch & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure from Mumbai",
+        "description": "Enjoy a relaxed morning beach stroll outside your resort. Following a leisurely breakfast, pack your unique souvenirs and traditional artifacts. Your private luxury vehicle will escort your family back to the airport for your onward journey, successfully concluding your high-end experience.",
+        "activities": [
+          "Transfers Included: Private Airport Drop-off.",
+          "Meals Included: Full Breakfast Buffet."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Trident, Nariman Point",
+        "location": "Mumbai",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Sea View Room",
+        "meal_plan": "CP (Breakfast Only)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott, Juhu Beach",
+        "location": "Mumbai",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Ocean View Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Mahal Palace, Colaba",
+        "location": "Mumbai",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Wing Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis, Mumbai",
+        "location": "Mumbai",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "St. Regis Suite with Butler Service",
+        "meal_plan": "MAP + VIP Lounge Entry",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium stays at ultra-luxury handpicked hotels with ocean views.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Generous luxury breakfasts daily and a specialized lunch block inside Bollywood studios.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Private high-end AC vehicle for all transfers and iconic attractions.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Elite holiday support throughout, with instant priority response parameters.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: VIP entry tickets into active filming zones and pre-arranged monument permits.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized greeting hamper including premium local chocolates, fresh wet wipes, and cold mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to Mumbai.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal spending accounts such as laundry, long-distance phone lines, and room service.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional camera fees inside heritage monuments.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive health or baggage travel insurance covers.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

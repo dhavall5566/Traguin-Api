@@ -1,0 +1,258 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-016-premium-chandigarh-shopping-extravaganza",
+    "serial_code": "CH-016",
+    "traguin_tour_code": "TG-CH-016-LUX",
+    "title": "Premium Chandigarh Shopping Extravaganza",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-016 | TRAGUIN tour code TG-CH-016-LUX",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Shopping & Leisure Extravaganza",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Sector 17 Plaza • Elante Mall • Sukhna Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Shopaholics, Fashionistas & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (October to March Ideal)",
+        "sort_order": 5
+      },
+      {
+        "text": "Hands-free retail assistance (chauffeur bag collection service)",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private concierge guide access to exclusive ethnic couture boutiques",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Phulkari embroidery, Punjabi Juttis, upscale cafes & microbreweries",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-016-shopping-extravaganza-itinerary",
+    "title": "Premium Chandigarh Shopping Extravaganza",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Shopping Extravaganza)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sector 17 Plaza • Elante Retail Luxury • Sukhna Leisure Trails",
+    "overview": "Welcome to Chandigarh, the beautifully planned \"City Beautiful\" where urban sophistication seamlessly merges with vibrant shopping culture and serene landscapes. This exclusive luxury weekend getaway, custom-crafted by TRAGUIN travel specialists, is designed for discerning shopaholics and fashion enthusiasts.\n\nTravel Format: Private Customized Luxury Retail Tour (FIT). Vehicle: Premium, spacious luxury sedan / SUV. Meal Plan: Modified American Plan (Gourmet Breakfast & Curated Dinner Included). TRAGUIN Curated Touch: Hands-free shopping assistance, pre-booked VIP lounge access, and curated culinary tasting menus.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-016 | Premium Chandigarh Shopping Extravaganza | TRAGUIN",
+    "seo_description": "Luxury 02 Nights / 03 Days shopping package (CH-016 / TG-CH-016-LUX): Sector 17 Plaza, Elante Mall VIP district, Sukhna Lake boardwalk, and 4-tier hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sector 17 Plaza Heritage Retail Walking Tour",
+        "sort_order": 1
+      },
+      {
+        "text": "Elante Mall VIP Shopping District",
+        "sort_order": 2
+      },
+      {
+        "text": "Sukhna Lake Boardwalk Walkway",
+        "sort_order": 3
+      },
+      {
+        "text": "Heritage High-Tea & Local Street Food Tasting",
+        "sort_order": 4
+      },
+      {
+        "text": "Optional Rock Garden Visit",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Chandigarh Arrival & Sector 17 Plaza Heritage Retail",
+        "description": "Arrive in style at Chandigarh Airport or Railway Station, where your dedicated professional chauffeur greets you with a warm welcome. By late afternoon, dive into your Chandigarh Sightseeing journey at the iconic Sector 17 Plaza. Stroll leisurely past fountains and grand tree-lined walkways to discover high-end showrooms, upscale boutiques, and authentic government emporiums.",
+        "activities": [
+          "Sightseeing Included: Sector 17 Plaza Walking Tour, Phulkari Emporium Trail",
+          "Evening Experience: Heritage high-tea & local street food tasting",
+          "Overnight Stay: Chandigarh (Premium Luxury Hotel)",
+          "Meals Included: Curated Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Elante Mall Ultimate Retail Luxury Extravaganza",
+        "description": "Prepare for an unparalleled day of premium retail therapy. After a lavish breakfast, your chauffeur whisks you away to the magnificent Elante Mall. Enjoy a hands-free shopping experience as your chauffeur takes care of your shopping bags directly from the stores. In the evening, step out to experience Chandigarh's upscale nightlife with dinner at an elite microbrewery or lounge.",
+        "activities": [
+          "Sightseeing Included: Elante Mall VIP Shopping District",
+          "Optional Activities: Premium salon therapies or luxury cinema viewing",
+          "Overnight Stay: Chandigarh",
+          "Meals Included: Gourmet Breakfast & Fine-Dining Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Leisure at Sukhna Lake & Departure with Memories",
+        "description": "Begin your final morning with a peaceful, early breakfast at the hotel. Before heading home, take a gentle, relaxing stroll along the pristine waters of Sukhna Lake. Return briefly to the hotel to pack your newly acquired luxury goods and complete your smooth check-out.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake Boardwalk Walkway, Rock Garden (Optional)",
+          "Photography Points: Sukhna Lake view frame, Shivalik hill backdrop",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Sumptuous Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh or similar",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Standard King Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Valley View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Room / Luxury Tent",
+        "meal_plan": "All Inclusive Curated",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights premium luxury stay at your chosen handpicked hotel",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily multi-cuisine buffet breakfasts and curated fine-dining dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private luxury sedan / SUV throughout the entire itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Seamless airport / railway station transfers with professional chauffeur",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Hands-free retail assistance (chauffeur bag collection service)",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary welcome amenities and custom welcome drinks on arrival",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complete roadside, parking, state toll, and driver allowances included",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN on-ground concierge support",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to/from Chandigarh",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal shopping expenses, clothing purchases, and retail billing",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Alcoholic beverages, laundry, tips, and room-service orders",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any monument entrance tickets or movie passes",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory travel and personal medical insurance policies",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extended tours, spa treatments, or late check-out charges",
+        "sort_order": 14
+      }
+    ]
+  }
+}

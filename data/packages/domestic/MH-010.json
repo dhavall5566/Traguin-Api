@@ -1,0 +1,279 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-010-lavasa-lakeside-resort-pune-heritage-tour",
+    "serial_code": "MH-010",
+    "traguin_tour_code": "TRAGUIN-MH-010",
+    "title": "Lavasa Lakeside Resort & Pune Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-010 | TRAGUIN tour code TRAGUIN-MH-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Family Vacation / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Pune • Lavasa Lakeside Resort",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Leisure & Heritage Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: June to March (Monsoon/Winter)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Family FIT Getaway",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Innova Crysta / Premium Chauffeur-driven Sedan",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Buffet Breakfast & Multi-cuisine Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Pune Arrival → Shaniwar Wada Heritage Loop → Lavasa Waterfront Retreat → Pune Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with pre-vetted rooms, guaranteed VIP check-ins, private cruise experience, and premium vehicle logistics",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Chitale Bandhu Bakarwadi, Laxminarayan Chivda, fine brass souvenirs; Instagram Spots — Lavasa Promenade, Aga Khan Palace, misty lakeside piers",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; monsoon months show mountains at greenest; vehicle exclusively for itinerary routes",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-010-lavasa-lakeside-resort-pune-heritage-tour-itinerary",
+    "title": "Lavasa Lakeside Resort & Pune Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Lavasa Lakeside Resort & Pune Heritage Tour • 03 Nights / 04 Days",
+    "overview": "Step into a mesmerizing blend of royal Maratha history and European lakeside elegance. Carefully hand-crafted by TRAGUIN, this ultra-premium Maharashtra Family Tour whisks your loved ones away to experience majestic forts, ancient palaces, and the stunning waterfront architecture of Lavasa. Let us create unforgettable memories wrapped in comfort, scenic beauty, and customized luxury.\n\nWhether you are planning a relaxing getaway or seeking a detailed Maharashtra Honeymoon Package, the historical landscape of Pune coupled with the tranquil Western Ghats offers the perfect luxury weekend escape. From the legendary Maratha bravery carved into the walls of Shaniwar Wada to the serene, pastel-colored Italian-style boardwalks of Lavasa, this short-haul getaway is highly sought after by discerning travelers.\n\nWith our signature TRAGUIN Maharashtra Packages, your family travels in absolute style. Discover the Top Tourist Places in Maharashtra, capture breathtaking landscapes on your camera, and unwind at handpicked hotels selected strictly for their elite service and luxury standards. This itinerary presents premium hospitality at its finest, ensuring every detail is expertly managed.\n\nTRAGUIN Curated Note: A perfectly synchronized balance of slow-paced family relaxation and deep cultural discovery.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-010 | Lavasa Lakeside Resort & Pune Heritage Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Pune & Lavasa package (MH-010 / TRAGUIN-MH-010): Aga Khan Palace, Shaniwar Wada, Lavasa promenade, private Dasve Lake cruise, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Aga Khan Palace, seamless arrival transfers & high-tea briefing by TRAGUIN experts",
+        "sort_order": 1
+      },
+      {
+        "text": "Shaniwar Wada, Dagdusheth Temple, Lavasa Dasve Viewpoint & sunset over Dasve Lake",
+        "sort_order": 2
+      },
+      {
+        "text": "Lavasa Promenade Walk, Lakeside Esplanade & exclusive private pontoon boat cruise on Dasve Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts for effortless luxury journey",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier options from Hyatt Pune to The Ritz-Carlton Pune & Elite Villa Suite",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Pune Arrival",
+        "description": "Arrive at Pune International Airport or Railway Station where your professional TRAGUIN tour manager greets you with warm local hospitality. Board your private luxury vehicle and transfer smoothly to your handpicked hotel. After checking in, head out for a classic afternoon introduction to Pune Sightseeing. Visit the magnificent Aga Khan Palace, an architectural marvel with Italian arches and vast green lawns that served as a monumental site in India's freedom struggle. Conclude your day with a comforting traditional dinner at the hotel.",
+        "activities": [
+          "Sightseeing Included: Aga Khan Palace, seamless arrival transfers.",
+          "Evening Experience: A warm high-tea briefing hosted by our travel experts to customize your family parameters.",
+          "Overnight Stay: Premium Luxury Hotel, Pune.",
+          "Meals Included: Welcome Drink & Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Pune Heritage to Lavasa",
+        "description": "Following a delicious breakfast, deep dive into the iconic history of the Peshwas. Visit Shaniwar Wada, the historical fortification that tells stories of ancient valour and royal intrigue. Next, take a peaceful moment at the sacred Dagdusheth Halwai Ganpati Temple. By afternoon, your luxury chauffeur guides you down a picturesque mountain route into the Western Ghats. Watch the landscape transform into lush green valleys as you arrive at the beautiful lakeside township of Lavasa. Check in to your lakeside luxury resort and enjoy a sunset view over Dasve Lake.",
+        "activities": [
+          "Sightseeing Included: Shaniwar Wada, Dagdusheth Temple, Lavasa Dasve Viewpoint.",
+          "Photography Points: The towering stone gates of Shaniwar Wada and the winding mist-laden mountain passes.",
+          "Overnight Stay: Premium Waterfront Resort, Lavasa.",
+          "Meals Included: Full Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Lavasa Lakeside Leisure",
+        "description": "Wake up to the gentle lapping of waves. Today is dedicated to immersive experiences along the Lavasa promenade. Take a leisurely family stroll along the colorful European-inspired streets, exploring charming lakeside cafes and boutique shops. In the afternoon, enjoy an exclusive private pontoon boat cruise arranged exclusively by TRAGUIN, letting you glide smoothly across the water while admiring the surrounding green hills. Spend a relaxed evening sharing stories by the lake.",
+        "activities": [
+          "Sightseeing Included: Lavasa Promenade Walk, Lakeside Esplanade.",
+          "Optional Activities: Gentle water sports, cycling along the promenade, or a signature spa treatment.",
+          "Evening Experience: Al-fresco lakeside dining experience under a canopy of stars.",
+          "Overnight Stay: Premium Waterfront Resort, Lavasa.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Lavasa to Pune Departure",
+        "description": "Indulge in a relaxed breakfast overlooking the misty lake. Pack your bags filled with hand-woven textiles and memorable photographs. Enjoy a comfortable drive back down the mountains directly to Pune Airport or Railway Station for your onward journey. Your premium Luxury Maharashtra Holiday concludes seamlessly, leaving you with memories that linger long after you return home.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport / Station Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Pune / The Waterfront Shaw Apartments",
+        "location": "Pune / Lavasa",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Sheraton Grand Pune / Fortune Select Dasve, Lavasa",
+        "location": "Pune / Lavasa",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Hotel Pune / Mercure Lavasa (Valley View Room)",
+        "location": "Pune / Lavasa",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Valley View Room",
+        "meal_plan": "MAPAI (Gourmet Buffet)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Ritz-Carlton, Pune / Elite Villa Suite Luxury Stay",
+        "location": "Pune / Lavasa",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Villa Suite",
+        "meal_plan": "MAPAI + High Tea Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights accommodation in handpicked hotels and luxury lakeside resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily premium breakfast spreads and curated multi-cuisine buffet dinners at all hotels.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Dedicated Chauffeur-driven AC Innova Crysta for all airport transfers, inter-city travel, and sightseeing loops.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private chartered boat cruise on Lavasa's Dasve Lake.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated remote concierge support and destination assistance.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Executive welcome kit including fresh refreshments, wet wipes, and premium packaged drinking water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All standard toll taxes, parking fees, fuel surcharges, and state driver allowances.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to and from Pune.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry keys, historical camera permissions, or local guide services.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidentals such as laundry, phone tabs, and individual tips.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports activities or optional adventure tours in Lavasa.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal medical insurance or contingency expenditures.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

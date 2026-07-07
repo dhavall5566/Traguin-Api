@@ -1,0 +1,262 @@
+{
+  "destination_slug": "lakshadweep",
+  "package": {
+    "slug": "lk-006-senior-citizen-leisure-tour",
+    "serial_code": "LK-006",
+    "traguin_tour_code": "TG-LK-SNR-006",
+    "title": "Senior Citizen Leisure Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LK-006 | TRAGUIN tour code TG-LK-SNR-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Lakshadweep, India | Category: Senior Citizen Leisure Islands Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Agatti Island • Bangaram Lagoon Atoll • Thinnakara Day Trip",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens, Retirees, Families seeking Slow Travel",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to mid-May (Smooth seas & gentle climate)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Senior-Accessible Speedboats & Stable Passenger Catamarans",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: All-Inclusive Wholesome Plan (Breakfast, Lunch, Soft High-Tea, and Gentle Dinners)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Agatti Airport Arrival → Stable Vessel Transfer → Bangaram Lagoon Base → Thinnakara Scenic Cruise → Agatti Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A slow-paced, zero-rush daily schedule custom-built for older travelers to maximize comfort and physical ease",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Agatti Local Coir Cooperatives — fine organic coconut massage oils, hand-made shell keepsakes, sweet jaggery-infused coconut sweets; Instagram Spots — white sand spit at the tip of Bangaram Island and palm-bordered pathways of Agatti during golden hour",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Supply copies of government IDs 45 days prior to travel; walking on or touching live corals is strictly prohibited; basic health centers available on Agatti and Bangaram with emergency evacuation to Kochi",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Senior",
+      "Leisure",
+      "Slow Travel"
+    ]
+  },
+  "itinerary": {
+    "slug": "lk-006-senior-citizen-leisure-tour-itinerary",
+    "title": "Senior Citizen Leisure Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "TRAGUIN Lakshadweep Senior Citizen Leisure Tour • Agatti Island • Bangaram Calm Lagoon • Relaxed Island Excursion • 05 Nights / 06 Days",
+    "overview": "Welcome to India's most serene and mesmerizing tropical haven. Our tailored Lakshadweep Family Tour thoughtfully crafted by TRAGUIN is expertly refined for senior citizens, emphasizing a leisurely pace, absolute security, and zero physical strain. Witness breathtaking landscapes of turquoise water, unwind along shallow calm beaches, and capture unforgettable memories. Rest in premium stays and handpicked hotels that guarantee easy access, modern comforts, and warm island hospitality.\n\nTravel Logistics: Private Senior-Accessible Speedboats & Stable Passenger Catamarans. Meal Plan: All-Inclusive Wholesome Plan (Breakfast, Lunch, Soft High-Tea, and Gentle Dinners). Route Plan: Agatti Airport Arrival → Stable Vessel Transfer → Bangaram Lagoon Base → Thinnakara Scenic Cruise → Agatti Departure. This premium holiday features comprehensive ground assistance, pre-arranged administrative e-permits, mandatory entry document clearances, and gentle passenger assistance boarding lines managed completely by TRAGUIN Experts.\n\nLakshadweep is a spectacular destination for mature travelers seeking a peaceful Luxury Lakshadweep Holiday. Bangaram Island Atoll is a tranquil island retreat completely enclosed by a calm lagoon with zero heavy waves. Thinnakara Island Views feature unmatched scenic beauty with shallow sandspits. Top Tourist Places in Lakshadweep include the historic coconut lanes of Agatti, the pristine turtle reefs of Bangaram, and the peaceful coral observation docks. The Best Time to Visit Lakshadweep is the highly favorable dry winter months from October to May.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LK-006 | Senior Citizen Leisure Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Lakshadweep senior leisure package (LK-006 / TG-LK-SNR-006): glass-bottom boat safari, Thinnakara sandspit, island wellness, and 2-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Effortless private transfer from Agatti to Bangaram with welcome tea party on soft sands",
+        "sort_order": 1
+      },
+      {
+        "text": "Exclusive glass-bottom boat safari at Bangaram Inner Coral Reefs and Turtle Lagoon Shallows",
+        "sort_order": 2
+      },
+      {
+        "text": "Thinnakara Island scenic boat excursion with sandspit visuals and lounge chairs under beach umbrellas",
+        "sort_order": 3
+      },
+      {
+        "text": "Leisure resort day with island wellness, coconut plantation walkways, and sunset photography session",
+        "sort_order": 4
+      },
+      {
+        "text": "Agatti heritage exploration with craft emporium, coconut groves, and wheelchair boarding assistance",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Agatti – Effortless Private Transfer to Bangaram",
+        "description": "Touch down at the exceptionally scenic Agatti Airport strip, looking out over a pristine azure sea. Your dedicated on-ground TRAGUIN coordinator welcomes you warmly at the exit gates and handles all heavy baggage. Relax in an open-air shuttle cart during a brief ride to the jetty, then step aboard a stable, luxury private speedboat charter. Glide smoothly over calm waters directly to your premium beachfront villa at Bangaram Island Resort.",
+        "activities": [
+          "Sightseeing Included: Agatti Palm Coastline View, Bangaram Beach Walkway",
+          "Evening Experience: A relaxed welcome tea party on the soft sands under shaded canopies as the tropical sun dips below the horizon.",
+          "Overnight Stay: Bangaram Island (Premium Beachfront Suite with Ground-Floor Entry)",
+          "Meals Included: Lunch & Wholesome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Calm Reef Cruise & Exclusive Glass-Bottom Boat Safari",
+        "description": "Indulge in a fresh tropical morning breakfast. Today, enjoy a highly curated, non-strenuous Premium Lakshadweep Experience. Board a specialized, stable glass-bottom boat designed to view marine life with absolute safety. Look straight through the transparent floor panels to observe vibrant living corals, giant sea turtles, and colorful schools of fish swimming right beneath your feet without having to swim or submerge.",
+        "activities": [
+          "Sightseeing Included: Bangaram Inner Coral Reefs, Turtle Lagoon Shallows",
+          "Optional Activities: A gentle, guided shallow-water wade assisted by our experienced island life-savers.",
+          "Overnight Stay: Bangaram Island",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Thinnakara Island Scenic Boat Excursion & Sandbank Visuals",
+        "description": "Savor a premium morning breakfast looking out at the turquoise sea. Enjoy a highly smooth, brief boat cruise across the calm lagoon to neighboring Thinnakara Island. Take a comfortable, slow-paced stroll along the pristine white sandbanks that merge gently into the transparent sea, capturing magnificent landscape photos. Relax on customized lounge chairs under large beach umbrellas with cool fresh coconut water.",
+        "activities": [
+          "Sightseeing Included: Thinnakara Sandspit, Isolated Lagoon Vistas",
+          "Photography Points: The vast, contrasting blue lines of the lagoon from the shaded Thinnakara shore.",
+          "Overnight Stay: Bangaram Island Resort",
+          "Meals Included: Breakfast, Light Picnic Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Leisure Resort Day – Island Wellness & Sunset Stories",
+        "description": "Enjoy a completely relaxed morning at your own pace. Today is dedicated to total rejuvenation and rest. Take a gentle walk through the resort's interior pathways, shaded beautifully by tall coconut palms. In the afternoon, enjoy an optional, soothing wellness massage at the resort's therapeutic center. Later in the evening, sit by the shore to listen to traditional folk storytelling and soft music performed by local islanders.",
+        "activities": [
+          "Sightseeing Included: Bangaram Interior Coconut Plantation Walkways",
+          "Exclusive Experiences: A dedicated, private sunset photography session on the beach for your family group.",
+          "Overnight Stay: Bangaram Island Resort",
+          "Meals Included: Breakfast, Lunch & Special Coastal Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Agatti Island Heritage Exploration & Local Crafts",
+        "description": "Board your private speedboat charter back to Agatti Island for a beautiful change of scenery. Enjoy a perfectly relaxed island heritage tour using an open-air luxury cart with soft cushions. Visit a traditional coir-handicraft collective to meet local weavers and learn about traditional island life. Spend a peaceful evening sitting out on the resort terrace, savoring mild dishes infused with fresh local coconut flavors.",
+        "activities": [
+          "Sightseeing Included: Agatti Craft Emporium, Local Coconut Groves, Golden Beach Shallows",
+          "Food Suggestion: Freshly baked traditional rice-cakes and mild local vegetable broth.",
+          "Overnight Stay: Agatti Island (Luxury Beachfront Resort Suite)",
+          "Meals Included: Breakfast, Lunch & Farewell Special Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Farewell Lakshadweep – Departure with Forever Memories",
+        "description": "Wake up to a quiet island morning and enjoy a delicious breakfast at the resort. Pack your handpicked seashell gifts and souvenirs as your private premium transport drives you smoothly to the Agatti Airport terminal gates. Your comforting, highly memorable Best Lakshadweep Tour Package vacation concludes here, leaving you with absolute peace of mind and unforgettable memories managed perfectly by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Assistance: Wheelchair or boarding lane queue-assistance completely pre-arranged by our airport escort."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bangaram Island Resort",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – LUXURY (Highly Recommended): Bangaram Island Resort (Premium AC Beach Villa, Ground-Level Entry)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium AC Beach Villa, Ground-Level Entry",
+        "meal_plan": "All-Inclusive Wholesome Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Agatti Island Beach Resort",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Agatti Island Beach Resort (Executive Lagoon View Suite, Easy Access Layout)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Lagoon View Suite, Easy Access Layout",
+        "meal_plan": "All-Inclusive Wholesome Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Handpicked hotel villas with senior-accessible layout configurations.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All-inclusive meal plans (Freshly cooked daily breakfasts, lunches, and dinners).",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary pre-processed Lakshadweep Entry Permits & Eco-clearances.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private speedboats and stable catamarans for inter-island transfers.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary private glass-bottom boat safari for safe coral viewing.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Consistent on-ground luggage and boarding TRAGUIN Support.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial airline or train tickets to/from Agatti.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional heavy scuba diving expeditions or deep-sea trolling.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry items, optional spa bills, or staff gratuities.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal travel or medical insurance policies.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

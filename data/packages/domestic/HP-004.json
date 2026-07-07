@@ -1,0 +1,332 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-004-shimla-manali-dharamshala-explorer",
+    "serial_code": "HP-004",
+    "traguin_tour_code": "TRG-HIM-004",
+    "title": "Shimla • Manali • Dharamshala Explorer",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-004 | TRAGUIN tour code TRG-HIM-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Manali • Solang Valley • Dharamshala • Mcleodganj",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Honeymooners, Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June (Summer Comfort) & October to February (Snow Experience)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Luxury Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Premium SUV (Innova Crysta) / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family orchard stroll and riverside tea-tasting arrangements",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smart pass planning across the Atal Tunnel to eliminate long lines and",
+        "sort_order": 9
+      },
+      {
+        "text": "Exclusive Recommendations: Handpicked list of mountain cafes, Tibetan artisan workshops, and secret",
+        "sort_order": 10
+      },
+      {
+        "text": "Booking Policy: We highly advise advance bookings at least 45 days prior to travel, especially during",
+        "sort_order": 11
+      },
+      {
+        "text": "peak seasons like summer and winter snow months.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-004-shimla-manali-dharamshala-explorer-itinerary",
+    "title": "Shimla • Manali • Dharamshala Explorer",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Shimla",
+    "overview": "SHIMLA • MANALI • DHARAMSHALA EXPLORER 07 NIGHTS / 08 DAYS Welcome to an otherworldly alpine escape crafted to perfection by TRAGUIN. Embark on the ultimate Himachal Family Tour designed to reveal the breathtaking landscapes, snow-capped peaks, and rich cultural tapestry of the Himalayas. As your elite travel consultants, TRAGUIN transforms your mountain holiday into a flawless luxury retreat filled with handpicked hotels, premium stays, and immersive experiences. From the colonial heritage elegance of Shimla to the high-altitude adventure playgrounds of Manali and the spiritual serenity of Dharamshala, every single day is masterfully balanced to leave you with unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers an unparalleled exploration through the finest hill stations of Northern India. Travelling in a dedicated private premium AC vehicle with professional mountain-trained chauffeur assistance, your family will enjoy absolute comfort and flexibility. With a carefully curated meal plan featuring lavish buffet breakfasts and specialized dinners, this route represents the definitive premium Himachal experience. Every step of your journey includes the signature touch of TRAGUIN curated experiences, ensuring VIP entry privileges, local heritage insights, and around-the-clock bespoke guest support.\n\nWHY CHOOSE THE BEST HIMACHAL TOUR PACKAGE?\nWhen planning a Luxury Himachal Holiday, sophisticated travelers look past standard itineraries to find truly exclusive experiences. Himachal Pradesh boasts some of the most iconic attractions in the world. From Shimla’s historical Mall Road and the snow-blessed altitudes of Solang Valley in Manali—the ultimate tourist places in Himachal for adventure—to the serene Tibetan monasteries of Dharamshala, this circuit offers unmatched environmental and cultural variety. For couples seeking a romantic Himachal Honeymoon Package or families booking an immersive Himachal Family Tour, the region unveils highly popular Instagram locations like the architectural Ridge of Shimla, the scenic beauty of Rohtang Pass paths, and the deep green cedar forests of McLeodganj. Whether you are looking for local handicraft shopping, indulging in traditional Himachali Dham cuisine, or seeking spiritual peace under the shadow of the Dhauladhar range, our TRAGUIN Himachal Packages guarantee premium comfort, handpicked luxury stays, and curated exclusive experiences that outline the best time to visit Himachal.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-004 | Shimla | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Himachal Pradesh package (HP-004 / TRG-HIM-004): Shimla • Manali • Solang Valley • Dharamshala • Mcleodganj with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DELHI TO SHIMLA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SHIMLA & KUFRI SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SHIMLA TO MANALI VIA KULLU VALLEY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MANALI LOCAL SIGHTSEEING",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: SOLANG VALLEY & ATAL TUNNEL EXCURSION",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: MANALI TO DHARAMSHALA",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DHARAMSHALA & MCLEODGANJ EXPLORATION",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: DHARAMSHALA TO DELHI / DEPARTURE",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family orchard stroll and riverside tea-tasting arrangements",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smart pass planning across the Atal Tunnel to eliminate long lines and",
+        "sort_order": 10
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DELHI TO SHIMLA",
+        "description": "GATEWAY TO THE SUMMER CAPITAL – SCENIC HILL DRIVE Your premium Himachal experience starts with a warm welcome at New Delhi Airport/Railway Station by your private chauffeured luxury vehicle. Leave the plains behind as you climb into the majestic Shivalik hills toward Shimla. As you wind through gorgeous mountain passes, experience the changing air and the breathtaking landscapes. Upon arrival in Shimla, check into your handpicked premium hotel and spend a relaxing evening admiring the mist-laden valleys. Welcome Refreshments & Luxury Dinner",
+        "activities": [
+          "Sightseeing Included: Scenic Himalayan express highway drive, Pinjore Gardens stopover (optional).",
+          "Evening Experience: Private candlelight family welcome dinner at your luxury mountain resort.",
+          "Overnight Stay: Shimla (Premium / Luxury Mountain Resort)",
+          "Meals: Included:"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHIMLA & KUFRI SIGHTSEEING",
+        "description": "COLONIAL CHARM, ALPINE PANORAMAS & THE MALL ROAD After a grand breakfast, enjoy a short drive to Kufri, a top tourist place in Shimla celebrated for its dense pine forests and snow-capped mountain views. Experience a fun yak ride or try soft adventure activities amidst the breathtaking landscapes. In the afternoon, return to Shimla for an iconic walking tour across The Ridge, the neo-Gothic Christ Church, and the historic Mall Road. Capture amazing family photos at these popular Instagram locations while enjoying the pleasant weather. Point.",
+        "activities": [
+          "Sightseeing Included: Kufri Adventure Park, Green Valley view, The Ridge, Christ Church, Mall Road, Scandal",
+          "Optional Activities: Heritage walk to the Viceregal Lodge, the historic seat of British power.",
+          "Overnight Stay: Shimla (Premium / Luxury Mountain Resort)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SHIMLA TO MANALI VIA KULLU VALLEY",
+        "description": "JOURNEY ALONG THE BEAS RIVER – VALLEY OF THE GODS Bid farewell to Shimla and head toward Manali on a highly scenic drive through the heart of Himachal. Wind along the sparkling Beas River and cross the breathtaking Kullu Valley. Stop en route to experience the traditional handloom factories of Kullu, famous for premium pashmina shawls. Take in the dramatic canyon views and beautiful waterfalls along the way. Arrive in Manali by evening and check into a premium riverside luxury resort curated by TRAGUIN experts.",
+        "activities": [
+          "Sightseeing Included: Sundernagar Lake, Pandoh Dam, Kullu Valley, Beas River drive views.",
+          "Evening Experience: Stroll along the riverbanks of the resort followed by a warm bonfire night.",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Breakfast & Lavish Riverside Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MANALI LOCAL SIGHTSEEING",
+        "description": "WOODLAND TEMPLES & HIGHLAND CULTURE Immerse yourself in the local heritage and scenic beauty of Manali. Begin with the ancient Hadimba Devi Temple, tucked away inside a dense, beautiful forest of giant deodar cedars. Explore the old stone structures of Vashisht Village, famous for its therapeutic natural hot sulphur springs. Spend your evening exploring the lively, colorful streets of Manali Mall Road, perfect for premium shopping, cozy cafe hopping, and picking up unique local souvenirs. Road.",
+        "activities": [
+          "Sightseeing Included: Hadimba Temple, Club House, Vashisht Hot Springs, Tibetan Monastery, Manali Mall",
+          "Evening Experience: Bespoke cafe hopping and trout dining recommendations in Old Manali.",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Breakfast & Premium Buffet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SOLANG VALLEY & ATAL TUNNEL EXCURSION",
+        "description": "SNOW ADVENTURE, GLACIERS & THRILLING VISTAS An exhilarating day awaits as you head to Solang Valley, the premier adventure hub of Manali. Take in the breathtaking landscapes and enjoy thrilling activities like paragliding, quad biking, and an open gondola cable car ride. Next, drive through the engineering marvel of the Atal Tunnel to enter the spectacular Lahaul Valley. The snow-covered mountain views here make this a truly unforgettable experience for the whole family.",
+        "activities": [
+          "Sightseeing Included: Solang Valley, Atal Tunnel, Sissu Village (Lahaul Valley snow viewpoints).",
+          "Optional Activities: Rohtang Pass excursion (subject to local permissions and extra cost parameters).",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Breakfast & Multi-cuisine Chef's Special Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MANALI TO DHARAMSHALA",
+        "description": "TRANSITION TO THE DHAULADHAR RANGE – HIGHWAY SPLENDOUR Enjoy a delicious breakfast before heading to Dharamshala, a spectacular spiritual hill station. Drive past rolling tea gardens, beautiful terraced farms, and historic towns like Palampur. As you approach Dharamshala, the massive, snow-covered peaks of the Dhauladhar range create a stunning backdrop. Check into your luxury resort and spend a peaceful evening relaxing surrounded by deep pine forests.",
+        "activities": [
+          "Sightseeing Included: Palampur Tea Gardens view, Baijnath Shiva Temple (historic stone marvel).",
+          "Evening Experience: Leisurely relaxation walk inside a private pine estate with mountain sunset photography.",
+          "Overnight Stay: Dharamshala / McLeodganj (Luxury Valley Resort)",
+          "Meals Included: Breakfast & Authentic Mountain Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DHARAMSHALA & MCLEODGANJ EXPLORATION",
+        "description": "LITTLE LHASA – MONASTERIES, CULTURE & WATERFALLS Discover the rich culture and stunning landscapes of McLeodganj, the home of His Holiness the Dalai Lama. Visit the serene Tsuglagkhang Complex to experience peaceful Tibetan chanting and spin the sacred prayer wheels. Take a scenic walk down to the beautiful Bhagsunag Waterfall and see the historic St. John in the Wilderness Church. In the evening, explore the local markets for premium singing bowls, fine thangka paintings, and delicious authentic momos. Stadium view.",
+        "activities": [
+          "Sightseeing Included: Dalai Lama Temple, Bhagsunag Temple & Waterfall, Dal Lake, St. John Church, Cricket",
+          "Evening Experience: Farewell family dinner gathering with live mountain music at your luxury resort.",
+          "Overnight Stay: Dharamshala / McLeodganj (Luxury Valley Resort)",
+          "Meals Included: Breakfast & Premium Farewell Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "DHARAMSHALA TO DELHI / DEPARTURE",
+        "description": "RETURN WITH UNFORGETTABLE MEMORIES BEYOND DESTINATIONS Enjoy your last mountain breakfast before your luxury vehicle drives you back to Delhi. As you travel down the scenic highways, look back on an incredible journey filled with sweet family bonds and unforgettable memories curated exclusively by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway drop-off to Delhi Airport / Railway Station.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks /",
+        "location": "Himachal Pradesh",
+        "nights_label": "07 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Willow Banks / | similar | Solang Valley Resort /",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "similar",
+        "meal_plan": "Solang Valley Resort /",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel",
+        "location": "Himachal Pradesh",
+        "nights_label": "07 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Hotel | Shimla / similar | ManuAllaya Resort & Spa /",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Shimla / similar",
+        "meal_plan": "ManuAllaya Resort & Spa /",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Cecil - Oberoi /",
+        "location": "Himachal Pradesh",
+        "nights_label": "07 Nights",
+        "description": "OPTION 03 – LUXURY: The Cecil - Oberoi / | Similar | The Himalayan (Castle",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Similar",
+        "meal_plan": "The Himalayan (Castle",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall",
+        "location": "Himachal Pradesh",
+        "nights_label": "07 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Wildflower Hall | (Oberoi Resort) | Span Resort & Spa (Elite",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "(Oberoi Resort)",
+        "meal_plan": "Span Resort & Spa (Elite",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked hotels as per chosen luxury tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all transfers, valleys & sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily lavish breakfasts and multi-cuisine dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated elite guest relationship manager assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized welcome kit, mineral water, and dry fruits box.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private bonfire session and Kullu handloom tour entry.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to and from New Delhi.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, adventure gear hire, and local ski/paragliding fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room heaters, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Rohtang Pass green tax permissions or local taxi union vehicles if enforced. TRAGUIN Luxury Proposal — HP-004 6",
+        "sort_order": 10
+      }
+    ]
+  }
+}

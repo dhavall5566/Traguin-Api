@@ -1,0 +1,348 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-016-digha-mandarmani-coastal-beach-break",
+    "serial_code": "WB-016",
+    "traguin_tour_code": "TRAGUIN-WB-016-LUX",
+    "title": "Digha • Mandarmani Coastal Beach Break",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-016 | TRAGUIN tour code TRAGUIN-WB-016-LUX",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal / India | Category: Leisure / Coastal Beach Break",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Digha, Mandarmani",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples, Solo Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle Assigned: Premium Air-Conditioned Sedan / SUV",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Kolkata → Digha (1N) → Mandarmani (2N) → Kolkata Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private beachside high-tea set up against the sunset.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping: Sea shell handicrafts, pure cotton handloom sarees, fresh pomfret and prawns.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Check-in 12:00 PM, check-out 11:00 AM. Water sports subject to sea safety clearances. Book 30-45 days ahead during holidays.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Beach",
+      "Leisure",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-016-digha-mandarmani-coastal-beach-break-itinerary",
+    "title": "Digha • Mandarmani Coastal Beach Break",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Digha • Mandarmani Coastal Beach Break • 03 Nights / 04 Days",
+    "overview": "Welcome to an unforgettable journey along the sun-kissed sands and rolling surf of the Bay of Bengal. The Best West Bengal Tour Package presents an exquisite escape from urban life into a world of pristine marine horizons and soothing coastal breezes. Handcrafted with precision, this luxury West Bengal Family Tour and West Bengal Honeymoon Package weaves together the historic allure of Digha with the tranquil, premium exclusivity of Mandarmani's expansive shores.\n\nTOUR OVERVIEW\nTravel Dates: Flexible / Custom. Group Type: FIT / Private Luxury Tour. Vehicle Assigned: Premium Air-Conditioned Sedan / SUV. Meal Plan: CP / MAPAI (Breakfast & Dinner Included). Route Map: Kolkata → Digha (1N) → Mandarmani (2N) → Kolkata Departure. Curated Note: Includes a personalized beachfront high-tea experience and priority access to premium water sports.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-016 | Digha Mandarmani Coastal Beach Break | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days West Bengal package (WB-016 / TRAGUIN-WB-016-LUX): Digha, Mandarmani beach, Chandaneswar Temple, water sports, and 4-tier coastal accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Amrabati Park, New Digha Beach Promenade, Science Centre, and sunset seafood tasting",
+        "sort_order": 1
+      },
+      {
+        "text": "Chandaneswar Shiva Temple, Udaipur Beach, Talsari Beach, and Mandarmani private coastline",
+        "sort_order": 2
+      },
+      {
+        "text": "Mandarmani water sports — parasailing, jet skiing, banana boat, and Mohana River Estuary",
+        "sort_order": 3
+      },
+      {
+        "text": "Private starlit beach bonfire with live-grill dinner and red crab photography viewpoints",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier handpicked accommodation: Digha (01 Night) + Mandarmani (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOLKATA TO DIGHA — ARRIVAL & SUNSET AT NEW DIGHA BEACH",
+        "description": "Your premium coastal holiday begins with a warm, VIP greeting by our professional chauffeur at your residence or airport/railway station in Kolkata. Step into your private luxury vehicle and embark on a smooth, scenic drive through the verdant landscapes of rural Bengal towards the historic town of Digha. Upon arrival, check into your handpicked premium hotel and experience traditional welcome amenities. In the afternoon, begin your curated Digha Sightseeing tour.",
+        "activities": [
+          "Sightseeing Included: Amrabati Park, New Digha Beach Promenade, Science Centre Complex.",
+          "Evening Experience: Sensory sunset stroll, seafood tasting tour, and handloom shopping at local markets.",
+          "Optional Activities: Speed boating at Amrabati Lake or a private photography session on the beach.",
+          "Overnight Stay: Handpicked Premium Luxury Hotel in Digha.",
+          "Meals Included: Welcome Drink & Premium Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DIGHA TO MANDARMANI — SPIRITUAL HERITAGE & LUXURY RESORT",
+        "description": "Awake to the soothing rhythm of crashing ocean waves. After a gourmet breakfast, check out and drive towards the pristine white sands of Mandarmani. En route, experience an immersive cultural excursion to the ancient Chandaneswar Shiva Temple. Following this, take a scenic drive to Udaipur Beach and Talsari Beach, famous for their unique deltaic formations, pristine casuarina groves, and dynamic red crab colonies. Cross over into Mandarmani—a haven of luxury and calm.",
+        "activities": [
+          "Sightseeing Included: Chandaneswar Temple, Udaipur Beach, Talsari Beach, Mandarmani private coastline.",
+          "Evening Experience: Private beachside high-tea experience with artisanal snacks while watching the twilight fade.",
+          "Optional Activities: Rejuvenating luxury spa session or traditional Ayurvedic therapies within the resort.",
+          "Overnight Stay: Ultra-Luxury Beachfront Resort in Mandarmani.",
+          "Meals Included: Breakfast & Specially Curated Beachside Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MANDARMANI EXPERIENCES — WATER SPORTS & BEACH BONFIRE",
+        "description": "A perfect day dedicated entirely to luxury, relaxation, and thrill on the longest motorable beach in India. Start your morning with a spectacular view of the sun emerging from the open sea horizon. For adventure enthusiasts, Mandarmani offers an immersive array of premium water sports. Under professional guidance, enjoy exhilarating parasailing, jet skiing, or high-speed banana boat rides on the gentle waves. In the afternoon, travel to the famous Mohana (River Estuary). Conclude your day with a luxurious, private beach bonfire arranged exclusively for you under a clear, starlit coastal sky.",
+        "activities": [
+          "Sightseeing Included: Mandarmani River Estuary (Mohana), Red Crab Viewpoints, Local Fishing Villages.",
+          "Evening Experience: Private starlit beach bonfire with personalized multi-cuisine live-grill dinner options.",
+          "Optional Activities: ATV Quad Biking on the sand tracks or Parasailing high above the Bay of Bengal.",
+          "Overnight Stay: Ultra-Luxury Beachfront Resort in Mandarmani.",
+          "Meals Included: Gourmet Breakfast & Exclusive Beach Bonfire Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MANDARMANI TO KOLKATA — FINAL SUNRISE & DEPARTURE",
+        "description": "Conclude your luxury holiday with a final, serene morning walk along the calm waters of Mandarmani Beach. Enjoy a lavish buffet breakfast spread featuring international and local coastal delicacies. Pack your bags with fond memories as you check out of your resort. Your private luxury vehicle will be waiting to transfer you comfortably back to Kolkata. En route, stop at popular local souvenir hubs to purchase authentic local handicrafts and sweet treats.",
+        "activities": [
+          "Sightseeing Included: En-route panoramic landscapes, rural handicraft stops.",
+          "Evening Experience: Safe drop-off at your final destination in Kolkata.",
+          "Optional Activities: Traditional Bengali lunch stop at a renowned premium highway restaurant.",
+          "Overnight Stay: Tour Concludes.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Sgres / Similar",
+        "location": "Digha",
+        "nights_label": "01 Night",
+        "description": "OPTION 01 – DELUXE: Hotel Sgres / Similar (Digha, 01 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive AC Room",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Sun City Resort / Similar",
+        "location": "Mandarmani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Sun City Resort / Similar (Mandarmani, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive AC Room",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Le ROI Digha / Similar",
+        "location": "Digha",
+        "nights_label": "01 Night",
+        "description": "OPTION 02 – PREMIUM: Le ROI Digha / Similar (Digha, 01 Night)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Sea Facing Room",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Victerra Resort / Similar",
+        "location": "Mandarmani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Victerra Resort / Similar (Mandarmani, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Sea Facing Room",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Sea Hawk / Premium Block",
+        "location": "Digha",
+        "nights_label": "01 Night",
+        "description": "OPTION 03 – LUXURY: Hotel Sea Hawk / Premium Block (Digha, 01 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Balcony Ocean Suite",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "The Sonar Bangla Mandarmani",
+        "location": "Mandarmani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: The Sonar Bangla Mandarmani (Mandarmani, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Balcony Ocean Suite",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Sayantan Beach Resort Luxe",
+        "location": "Digha",
+        "nights_label": "01 Night",
+        "description": "OPTION 04 – ULTRA LUXURY: Sayantan Beach Resort Luxe (Digha, 01 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ultra Luxury Private Beach Cottage",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Mandarmani Regenta / Sana Beach",
+        "location": "Mandarmani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Mandarmani Regenta / Sana Beach (Mandarmani, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ultra Luxury Private Beach Cottage",
+        "meal_plan": "CP / MAPAI",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Handpicked premium stays across choices from Deluxe to Ultra Luxury tiers.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily breakfasts and dinners included as per selected gourmet menu frameworks.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Dedicated private luxury air-conditioned sedan/SUV for all long drives and local tours.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Complete curated sightseeing itineraries including entrance arrangements as detailed.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 dedicated telephone support from your personal travel planner.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All standard government taxes, fuel surcharges, toll fees, and driver allowances covered.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing traditional welcome drink and cold towels upon resort arrivals.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: One exclusive private beachside high-tea set up at Mandarmani.",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Real-time digital updates and coordination from professional consultants throughout.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or Train ticket bookings to and from Kolkata.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to amusement parks, museum exhibitions, or special temple entry passes.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, premium telephone charges, and bar tabs.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional water sports activities (Parasailing, Jet Skiing, ATV rides, etc.).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage and medical expenses.",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional meals or midnight room-service ordering not highlighted in inclusions.",
+        "sort_order": 15
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional customized tour deviations or extra vehicle mileage requests.",
+        "sort_order": 16
+      }
+    ]
+  }
+}

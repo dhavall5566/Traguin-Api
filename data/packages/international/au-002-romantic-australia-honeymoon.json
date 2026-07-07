@@ -1,0 +1,388 @@
+{
+  "destination_slug": "australia",
+  "package": {
+    "slug": "au-002-romantic-australia-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Romantic Australia Honeymoon Sanctuary",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 31,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sydney (3N) → Port Douglas (2N) → Whitsundays (2N) romantic circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Private harbour sunset cruise with sparkling wine welcome",
+        "sort_order": 2
+      },
+      {
+        "text": "Great Barrier Reef private helicopter & sand cay snorkel",
+        "sort_order": 3
+      },
+      {
+        "text": "Whitehaven Beach & private candlelight island dinner",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-AUS-ROM-2026 | Serial AU-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "au-002-romantic-australia-itinerary",
+    "title": "Romantic Australia Honeymoon Sanctuary",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury Romantic Sanctuary)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sydney • Daintree • Whitsunday Islands",
+    "overview": "Begin your lifelong love story amid the most dramatic and sun-drenched landscapes of the southern hemisphere with this signature TRAGUIN curated honeymoon retreat. Intimate harbour sunset cruises, private rainforest canopy walks, and isolated sapphire-water island escapes guarantee unforgettable memories. Includes private luxury harbour vessels, executive ground transits, skip-the-line VIP sanctuary admissions, and private dining terraces overlooking iconic Australian horizons with 24/7 concierge support.",
+    "is_featured": true,
+    "featured_sort_order": 31,
+    "seo_title": "AU-002 | Romantic Australia Honeymoon Sanctuary | TRAGUIN",
+    "seo_description": "Luxury 07 Nights / 08 Days Australia honeymoon (AU-002): Sydney harbour cruise, Daintree Rainforest, Great Barrier Reef helicopter flight, and Whitsunday Islands private escape.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Sydney Harbour Sunset Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Daintree Rainforest Canopy Walk",
+        "sort_order": 2
+      },
+      {
+        "text": "Great Barrier Reef Helicopter Flight",
+        "sort_order": 3
+      },
+      {
+        "text": "Whitehaven Beach Private Escape",
+        "sort_order": 4
+      },
+      {
+        "text": "Secluded Beach Candlelight Finale Dinner",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Sydney & Private Harbour Cruise",
+        "description": "VIP airport transfer to harbour-view hotel. Evening private sunset cruise past Opera House and Harbour Bridge with sparkling wine welcome in suite.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private luxury vessel sunset harbor cruise",
+          "Honeymoon Highlight: Complimentary chilled Australian sparkling wine and rose petals in suite",
+          "Overnight Stay: Sydney Harbour (Ultra-Luxury Harbor-view Hotel)",
+          "Meals Included: Harbor Cruise Gourmet Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sydney Icons & Coastal Cliff Walks",
+        "description": "Private Opera House tour and Bondi to Coogee coastal cliff walk. Rooftop harbour dinner.",
+        "activities": [
+          "Sightseeing Included: Private Opera House guided tour, Bondi coastal cliff walk",
+          "Overnight Stay: Sydney Harbour (Ultra-Luxury Harbor-view Hotel)",
+          "Meals Included: International Breakfast & Casual Coastal Bistro Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Fly to Cairns & Daintree Rainforest",
+        "description": "Flight to Cairns and private transfer to Daintree Rainforest for guided canopy walk.",
+        "activities": [
+          "Sightseeing Included: Private executive transit to Daintree Rainforest, guided canopy walk",
+          "Overnight Stay: Port Douglas / Daintree (Luxury Boutique Rainforest Retreat)",
+          "Meals Included: International Breakfast & Rainforest Gastronomy Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Great Barrier Reef Helicopter Expedition",
+        "description": "Private helicopter flight over the reef with sand cay landing and exclusive snorkeling session.",
+        "activities": [
+          "Sightseeing Included: Private helicopter reef flight, private sand cay snorkeling session",
+          "Overnight Stay: Port Douglas / Daintree (Luxury Boutique Rainforest Retreat)",
+          "Meals Included: International Breakfast & Gourmet Reef Picnic Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Whitsunday Islands Private Escape",
+        "description": "Flight to Whitsundays. Afternoon on Whitehaven Beach with pristine silica sand and turquoise waters.",
+        "activities": [
+          "Sightseeing Included: Private island transit, Whitehaven Beach exploration",
+          "Overnight Stay: Whitsunday Islands (Ultra-Luxury Private Island Resort)",
+          "Meals Included: International Breakfast & Island Beachside Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Isolated Beach Gala & Stargazing",
+        "description": "Private luxury vessel to secret beach picnic. Candlelight farewell dinner under southern stars with acoustic music.",
+        "activities": [
+          "Sightseeing Included: Private luxury beach picnic, sunset stargazing gala",
+          "Honeymoon Finale: Candlelight farewell dinner with acoustic music performance",
+          "Overnight Stay: Whitsunday Islands (Ultra-Luxury Private Island Resort)",
+          "Meals Included: International Breakfast & Grand Honeymoon Finale Candlelight Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Sunset Checkout & Sydney Departure Transit",
+        "description": "Final Whitsunday breakfast. Private vessel and luxury van transfer to airport for Sydney transit night.",
+        "activities": [
+          "Transfers: Private island boat and luxury van departure transit, luggage assistance",
+          "Overnight Stay: Sydney Harbour (Premium Luxury Hotel near Airport)",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Farewell Australia",
+        "description": "Final luxury breakfast before private departure transfer.",
+        "activities": [
+          "Transfers: Private luxury van departure transfer",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pullman Quay Grand Sydney Harbour / similar",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pullman Reef Hotel Casino / similar",
+        "location": "Port Douglas",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Reef View Hotel / similar",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Shangri-La Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Crystalbrook Riley",
+        "location": "Port Douglas",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Hamilton Island Resort",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Crown Towers Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Silky Oaks Lodge",
+        "location": "Port Douglas",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "InterContinental Hayman Island",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Park Hyatt Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Silky Oaks Lodge",
+        "location": "Port Douglas",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Qualia / Hamilton Island",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in ultra-luxury harbor, rainforest, and private island suites",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary chilled sparkling wine, fresh fruits, and roses on arrival",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury vessels, executive ground vehicles, and helicopter flight transits",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private harbour sunset cruise and Great Barrier Reef helicopter expedition",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Secluded island candlelight farewell dinner with acoustic music",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP fast-track skip-the-line entries and 24/7 honeymoon concierge support",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and entry visa processing fees",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, hotel laundry, room service, and mini-bar billing",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, or optional sightseeing not specified in the flow",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance and personal incidentals",
+        "sort_order": 10
+      }
+    ]
+  }
+}

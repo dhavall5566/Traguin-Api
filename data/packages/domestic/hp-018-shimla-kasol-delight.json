@@ -1,0 +1,316 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-018-shimla-kasol-delight",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Shimla Kasol Delight — The Royal Ridge to the Mystic Valley",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 18,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Colonial Shimla elegance — Jakhoo Hanuman statue, Ridge & Mall Road heritage walk",
+        "sort_order": 1
+      },
+      {
+        "text": "Kasol bohemian paradise — Parvati River, pine forests & Israeli cafe culture",
+        "sort_order": 2
+      },
+      {
+        "text": "Manikaran Sahib Gurudwara hot springs beside the sacred Parvati River",
+        "sort_order": 3
+      },
+      {
+        "text": "Tosh village alpine trek & Chalal suspension bridge forest trail",
+        "sort_order": 4
+      },
+      {
+        "text": "Jibhi waterfall walk through ancient cedar forests (optional extension)",
+        "sort_order": 5
+      },
+      {
+        "text": "Private Innova Crysta with TRAGUIN 24/7 elite concierge throughout",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Adventure",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-018-shimla-kasol-itinerary",
+    "title": "Shimla Kasol Delight — The Royal Ridge to the Mystic Valley",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Royal Ridge to the Mystic Valley",
+    "overview": "TRAGUIN's Shimla Kasol Delight bridges two worlds — colonial Shimla's royal ridge elegance and Kasol's mystic Parvati Valley bohemian charm. Two nights amid Shimla's heritage architecture and Jakhoo panoramas lead to three nights in Kasol exploring Manikaran's sacred hot springs, Tosh village alpine trails, and Chalal's riverside suspension bridge — with premium stays, riverside bonfires, and private chauffeur transfers throughout.",
+    "is_featured": true,
+    "featured_sort_order": 18,
+    "seo_title": "HP-018 | Shimla Kasol Delight | TRAGUIN Premium Parvati Valley Tour",
+    "seo_description": "Luxury 05 Nights / 06 Days package (HP-018) covering Shimla, Kasol, Manikaran, Tosh, Chalal, and Jibhi with premium stays and private transfers. Ideal for families, adventure seekers, and culture enthusiasts.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Shimla Heritage & Jakhoo Panoramas",
+        "sort_order": 1
+      },
+      {
+        "text": "Kasol Parvati River Valley",
+        "sort_order": 2
+      },
+      {
+        "text": "Manikaran Sahib Hot Springs",
+        "sort_order": 3
+      },
+      {
+        "text": "Tosh Village Alpine Trek",
+        "sort_order": 4
+      },
+      {
+        "text": "Chalal Suspension Bridge Trail",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh to Shimla",
+        "description": "Your Royal Ridge to Mystic Valley journey begins with a TRAGUIN welcome at Chandigarh Airport or Railway Station. Ascend through the Shivalik foothills to Shimla and check into your premium heritage resort for a relaxing mountain evening.",
+        "activities": [
+          "Sightseeing Included: Scenic Himalayan foothills drive, Timber Trail valley views en-route",
+          "Evening Experience: Private welcome dinner and heritage walk briefing on Mall Road",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Welcome refreshment & luxury dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Shimla Heritage & Jakhoo Excursion",
+        "description": "Explore Shimla's colonial legacy at Christ Church, The Ridge, and Mall Road. Ride the heritage toy train segment (optional) or drive to Jakhoo Hill for the towering Hanuman statue and sweeping town panoramas.",
+        "activities": [
+          "Sightseeing Included: Christ Church, The Ridge, Mall Road, Jakhoo Hanuman statue, Scandal Point",
+          "Optional Activities: Heritage toy train ride to Tara Devi or Viceregal Lodge visit",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium breakfast & dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Shimla to Kasol via Bhuntar",
+        "description": "Descend from Shimla through Mandi and Bhuntar into the mystical Parvati Valley. Follow the Parvati River to Kasol — India's bohemian hub — and check into your premium riverside lodge amid pine forests.",
+        "activities": [
+          "Sightseeing Included: Mandi town, Bhuntar confluence, Parvati River valley drive, Kasol market stroll",
+          "Evening Experience: Riverside bonfire with live acoustic music at your Kasol lodge",
+          "Overnight Stay: Kasol (Premium Parvati Valley Riverside Lodge)",
+          "Meals Included: Breakfast & riverside dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Manikaran Sahib & Kasol Exploration",
+        "description": "Visit the sacred Manikaran Sahib Gurudwara with its natural hot springs beside the Parvati River. Return to Kasol for cafe hopping, explore the Chalal village suspension bridge trail, and enjoy the bohemian market culture.",
+        "activities": [
+          "Sightseeing Included: Manikaran Sahib Gurudwara, hot springs, Chalal village bridge trail, Kasol market",
+          "Evening Experience: Curated Israeli cafe dinner and riverside stargazing",
+          "Overnight Stay: Kasol (Premium Parvati Valley Riverside Lodge)",
+          "Meals Included: Breakfast & multi-cuisine dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Tosh Village & Jibhi Excursion",
+        "description": "A day of alpine adventure. Trek or drive to Tosh village perched above the Parvati Valley with traditional wooden houses and snow peaks. Optional extension to Jibhi's ancient cedar forest waterfall walk before a farewell riverside dinner.",
+        "activities": [
+          "Sightseeing Included: Tosh village alpine trail, Parvati Valley panoramas, Jibhi waterfall walk (optional)",
+          "Evening Experience: Farewell riverside bonfire dinner with Parvati Valley night sky views",
+          "Overnight Stay: Kasol (Premium Parvati Valley Riverside Lodge)",
+          "Meals Included: Breakfast, packed lunch & premium farewell dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Kasol to Chandigarh / Departure",
+        "description": "Enjoy your final mountain breakfast beside the Parvati River before your private luxury vehicle transfers you to Chandigarh Airport or Railway Station.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off via Bhuntar",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe mountain resort in Shimla.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium hill resort with valley views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Cecil — Oberoi / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury mountain hospitality in Shimla.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi Resort / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury Oberoi suite experience in the Himalayas.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Sandhya Kasol / Similar",
+        "location": "Kasol (3N)",
+        "nights_label": "03 Nights",
+        "description": "Deluxe riverside lodge in Kasol.",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Riverside Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Parvati Kuteer / Similar",
+        "location": "Kasol (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium cottage resort along the Parvati River.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Cottage",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Himalayan Village Kasol / Similar",
+        "location": "Kasol (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury boutique lodge with Parvati Valley views.",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Valley Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Whoopers Hostel & Cottages Premium / Similar",
+        "location": "Kasol (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury private cottage with riverside deck and bonfire pit.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Luxury Cottage",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 nights premium accommodation at handpicked Shimla and Kasol properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private riverside bonfire evening with music in Kasol",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Chandigarh",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Heritage toy train tickets, monument entry fees, and local guide charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Tosh village trek pony hire and adventure activity fees",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, and tipping",
+        "sort_order": 10
+      }
+    ]
+  }
+}

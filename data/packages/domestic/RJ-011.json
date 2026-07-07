@@ -1,0 +1,256 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-011-pink-city-jaipur-short-break",
+    "serial_code": "RJ-011",
+    "traguin_tour_code": "TRAGUIN-RJ-011",
+    "title": "Pink City Jaipur Short Break",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code RJ-011 | TRAGUIN tour code TRAGUIN-RJ-011",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Rajasthan, India | Category: Family Vacation / Royal",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jaipur (The Pink City)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Leisure & Royal Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury AC Sedan / SUV (Chauffeur-Driven)",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Continental Luxury Buffet Breakfast & Festive Royal Dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Details: Jaipur Arrival → Heritage Forts exploration → Local Cultural Hubs → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private curated walk within the City Palace compound.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by Experts: Perfectly planned segments with premium transportation and hassle-free transit routes.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Handpicked boutique recommendations for local jewelers and traditional block-printing houses.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Famous Shopping Items: Blue Pottery, Lac Bangles, Kundan Jewelry, Bandhej Textiles. Local Markets: Johari Bazaar, Tripolia Bazaar, Chandpole Bazaar. Instagram Spots: Patrika Gate, Albert Hall Museum, Hawa Mahal Frontage.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Rooms are subject to availability. Check-in is usually at 14:00 hrs. Advance Booking: Planning ahead for premium slots at Rambagh Palace is highly recommended. Transport Rules: Our professional vehicle follows strict guidelines for client luggage care and smooth driving.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Royal",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-011-pink-city-jaipur-short-break-itinerary",
+    "title": "Pink City Jaipur Short Break",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Pink City Jaipur Short Break • 02 Nights / 03 Days",
+    "overview": "Welcome to the majestic realm of royalty, heritage, and timeless architecture. Handcrafted meticulously by travel experts at TRAGUIN, this signature Jaipur Honeymoon Package and Rajasthan Family Tour is beautifully designed to immerse your loved ones into a grand, seamless, and aristocratic escape. Experience the captivating spirit of Rajasthan with ultra-premium stays, grand hospitality, and exquisite storytelling.\n\nTOUR OVERVIEW\nVehicle Allocated: Dedicated Luxury AC Sedan / SUV (Chauffeur-Driven)\nMeal Plan: Continental Luxury Buffet Breakfast & Festive Royal Dinners\nRoute Details: Jaipur Arrival → Heritage Forts exploration → Local Cultural Hubs → Departure\n\nTRAGUIN Curated Experience Note: This premium itinerary introduces families to iconic attractions without the rush, emphasizing breathtaking landscapes, handpicked hotels, and unique immersive experiences.\n\nWHY CHOOSE A LUXURY RAJASTHAN HOLIDAY?\nRajasthan is an enchanting land where history echoes through majestic sandstone palaces, vibrant bazaars, and beautiful heritage monuments. For those looking for the ultimate Premium Rajasthan Experience or the Best Time to Visit Rajasthan, Jaipur stands as an irreplaceable crown jewel.\nDuring your Jaipur Sightseeing journey, you will encounter the Top Tourist Places in Rajasthan including the iconic Amber Fort, the floating Jal Mahal, and the honeycomb facade of Hawa Mahal. Our signature TRAGUIN Rajasthan Packages guarantee handpicked hotels, priority entries, luxury transportation, and unforgettable memories for your family.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-011 | Pink City Jaipur Short Break | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Rajasthan package (RJ-011 / TRAGUIN-RJ-011): Hawa Mahal, Amber Fort, Jal Mahal, City Palace, Jantar Mantar, Chokhi Dhani, and 4-tier handpicked accommodation in Jaipur.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Hawa Mahal, Birla Mandir, Chokhi Dhani Village, Amber Fort, Jal Mahal, City Palace, Jantar Mantar",
+        "sort_order": 1
+      },
+      {
+        "text": "Johari Bazaar and Bapu Bazaar shopping excursion",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private curated walk within the City Palace compound",
+        "sort_order": 3
+      },
+      {
+        "text": "Curated by Experts: Premium transportation and hassle-free transit routes",
+        "sort_order": 4
+      },
+      {
+        "text": "Exclusive Recommendations: Handpicked boutique jewelers and traditional block-printing houses",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Jaipur",
+        "description": "Arrive in Jaipur where your premium chauffeured luxury vehicle and TRAGUIN representative welcome you warmly. Transfer smoothly to your magnificent handpicked heritage hotel. After check-in and leisure time, begin your Jaipur Sightseeing at the legendary Hawa Mahal (Palace of Winds), capturing its spectacular honeycomb architecture. Later, visit the pristine Birla Mandir, made of pure white marble, before heading to Chokhi Dhani for an immersive cultural evening featuring traditional folk music, puppet shows, and a spectacular Rajasthani royal feast.",
+        "activities": [
+          "Sightseeing Included: Hawa Mahal (Photo Stop), Birla Mandir, Chokhi Dhani Village.",
+          "Evening Experience: Live folk dances, camel rides, and authentic cultural culinary arts.",
+          "Overnight Stay: Handpicked Premium Luxury Palace Hotel, Jaipur.",
+          "Meals Included: Welcome Amenities & Festive Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Jaipur Heritage Exploration",
+        "description": "Enjoy a premium buffet breakfast before starting a grand day out. Ascend the majestic hill of Amber Fort like royalty. Wander through the breathtaking Sheesh Mahal (Mirror Palace), where a single candle illuminates the entire hall. Next, stop for stunning photography at the Jal Mahal, floating gracefully in the center of Man Sagar Lake. Proceed to the opulent City Palace, still home to the royal family, and marvel at the giant astronomical instruments at the UNESCO World Heritage listed Jantar Mantar.",
+        "activities": [
+          "Sightseeing Included: Amber Fort, Jal Mahal Viewpoint, City Palace, Jantar Mantar.",
+          "Photography Points: Mirror reflection shots inside Amber Fort and sunset views at Jal Mahal.",
+          "Overnight Stay: Handpicked Premium Luxury Palace Hotel, Jaipur.",
+          "Meals Included: Gourmet Breakfast & Luxury Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Vibrant Bazaars & Departure",
+        "description": "Savor a luxurious morning breakfast at your hotel. Spend your morning exploring the historic Johari Bazaar and Bapu Bazaar, famous for traditional block-print textiles, blue pottery, royal mojris, and fine kundan jewelry. In the afternoon, enjoy an authentic local lunch, visiting highly recommended artisan cafes. Your private chauffeur will then transfer you comfortably to the Jaipur Airport or Railway Station, bringing your premium TRAGUIN experience to a perfect close.",
+        "activities": [
+          "Sightseeing Included: Local Heritage Bazaars, Shopping Excursion.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Premier, Jaipur",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CP (Breakfast Only)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Rajputana - A Luxury Collection Hotel",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Cabin Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Raj Palace (Grand Heritage Hotel)",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Palace Suite",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Rambagh Palace - Taj Luxury Group",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Palace Room",
+        "meal_plan": "MAPAI + Private Royal Butler",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights stay at handpicked premium luxury properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine buffet breakfasts and premium dinners at designated hotels.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All sightseeing via private Chauffeur-driven luxury sedan/SUV.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 on-call concierge assistance and local guide service.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Royal traditional welcome with refreshing garland and premium mineral water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Cultural Entry and authentic Royal Dinner experience at Chokhi Dhani.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train ticketing charges.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera passes, and elephant/jeep ride costs.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, telephone billing, premium beverages, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any early check-in or late check-out fees.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

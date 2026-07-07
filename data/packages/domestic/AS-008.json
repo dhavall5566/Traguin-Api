@@ -1,0 +1,302 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-008-tea-gardens-dibrugarh-jorhat-kaziranga-guwahati",
+    "serial_code": "AS-008",
+    "traguin_tour_code": "TG-AS-TEAGARDEN-008",
+    "title": "TRAGUIN Premium Assam Tea Gardens Tour Package — Heritage Family: Dibrugarh • Jorhat • Kaziranga • Guwahati",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-008 | TRAGUIN tour code TG-AS-TEAGARDEN-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Premium Heritage & Tea Garden Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Dibrugarh • Jorhat • Kaziranga • Guwahati",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Multi-generational Families & Culture Aficionados",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: INR 56,800/- Per Guest (On Request)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Executive AC SUV (Toyota Innova Crysta) with English/Hindi driver-guide | Meal Plan: MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Dibrugarh ➔ Jorhat (2N) ➔ Kaziranga (2N) ➔ Guwahati (1N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Advantage: Private tea planter interactions, tea leaf picking, vintage high teas, VIP wildlife access.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Heritage bungalows combining historical authenticity with modern luxury.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Dedicated trip manager tracking daily journey for family comfort.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Estate teas, Muga and Eri silks in Jorhat, bamboo crafts near Kaziranga.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Kaziranga safaris Nov–Apr; book bungalows 60-90 days ahead; earthy colors for safaris.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-008-tea-gardens-dibrugarh-jorhat-kaziranga-guwahati-itinerary",
+    "title": "TRAGUIN Premium Assam Tea Gardens Tour Package — Heritage Family: Dibrugarh • Jorhat • Kaziranga • Guwahati",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "INR 56,800/- Per Guest (On Request)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Tea Gardens Heritage • Dibrugarh • Jorhat • Kaziranga • 05 Nights / 06 Days",
+    "overview": "Journey deep into the colonial elegance of the world's most illustrious tea country with British-era bungalows and UNESCO Kaziranga wetlands.\n\nTOUR OVERVIEW\\nDibrugarh Arrival ➔ Colonial Bungalow ➔ Jorhat Tea Capital (2 Nights) ➔ Kaziranga (2 Nights) ➔ Guwahati (1 Night) ➔ Departure with private tea tasting and jeep safaris.\n\nPREMIUM ASSAM EXPERIENCE\\nHeritage chang bungalows, tea cupping masterclasses, Majuli or Tocklai options, and Kaziranga rhino safaris across top tourist places in Assam.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-008 | Tea Gardens Dibrugarh Jorhat Kaziranga | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days tea garden package (AS-008 / TG-AS-TEAGARDEN-008): colonial bungalows, tea tasting, Majuli option, Kaziranga safaris, 4-tier stays.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Dibrugarh arrival and colonial Chang Bungalow heritage Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Tea plucking ritual and sommelier tasting masterclass Jorhat Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Majuli Island or Tocklai Tea Research excursion Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Jorhat to Kaziranga with Orchid Park and cultural dances Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Dual jeep safaris in Kaziranga National Park Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Kaziranga to Guwahati departure along the Brahmaputra Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL DIBRUGARH | STEPPING INTO COLONIAL HERITAGE & CHANG BUNGALOW LUXURY",
+        "description": "Heritage exploration begins at Dibrugarh Airport. TRAGUIN escorts you to an exquisite restored colonial Chang Bungalow with afternoon tea estate walk and colonial high tea on the verandah.",
+        "activities": [
+          "Sightseeing Included: Mancotta / Purvi Tea Estate Walk, Heritage Property Tour.",
+          "Evening Experience: Colonial-style high tea with local savory pastries.",
+          "Overnight Stay: Handpicked Heritage Bungalow, Dibrugarh.",
+          "Meals Included: Traditional Welcoming Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DIBRUGARH TO JORHAT | THE TEA PLUCKING RITUAL & TEA TASTING MASTERCLASS",
+        "description": "Hands-on tea plucking experience then scenic drive to Jorhat tea capital. Afternoon exclusive tea cupping and tasting session with a master sommelier.",
+        "activities": [
+          "Sightseeing Included: Interactive Tea Plucking, Jorhat Gymkhana Club (Historic Site).",
+          "Evening Experience: Sommelier-led Tea Tasting Masterclass.",
+          "Overnight Stay: Handpicked Boutique Tea Resort, Jorhat.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "JORHAT EXCURSION | MAJULI ISLAND ENCOUNTER OR TOCKLAI EXPERIMENT CENTRE",
+        "description": "Choice of Tocklai Tea Research Institute visit or private ferry to Majuli Island for Neo-Vaishnavite monasteries, mask-making, and monastic dances.",
+        "activities": [
+          "Sightseeing Included: Tocklai Research Centre OR Majuli Island Monasteries (Satras).",
+          "Optional Activities: Private pottery-making workshop with Majuli artisans.",
+          "Overnight Stay: Handpicked Boutique Tea Resort, Jorhat.",
+          "Meals Included: Breakfast & Multi-course Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "JORHAT TO KAZIRANGA | FROM MANICURED ESTATES TO WILD UNTAMED JUNGLE",
+        "description": "Travel to UNESCO Kaziranga National Park and ultra-luxury jungle lodge. Afternoon Orchid and Cultural Park with vibrant Assamese folk dances.",
+        "activities": [
+          "Sightseeing Included: Kaziranga Orchid Park, Cultural Dance Amphitheater.",
+          "Evening Experience: Open-air bonfire with storytelling by local naturalists.",
+          "Overnight Stay: Premium Luxury Jungle Lodge, Kaziranga.",
+          "Meals Included: Breakfast & Forest-Inspired Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KAZIRANGA NATIONAL PARK | THE WILDLIFE SAFARI EXPLORATION",
+        "description": "Morning and afternoon private open-top 4x4 jeep safaris through Central/Western and Eastern (Agaratoli) ranges for rhinos, tigers, and migratory birds.",
+        "activities": [
+          "Sightseeing Included: Morning & Afternoon Private 4x4 Jeep Safaris.",
+          "Photography Points: Wildlife observation towers overlooking natural water bodies (Beels).",
+          "Overnight Stay: Premium Luxury Jungle Lodge, Kaziranga.",
+          "Meals Included: Breakfast, Lunch & Festive Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "KAZIRANGA TO GUWAHATI | FINAL JOURNEY ALONG THE BRAHMAPUTRA",
+        "description": "Final breakfast at jungle lodge then scenic trans-Assam highway to Guwahati Airport with optional Kamakhya viewpoint or silk boutique stop.",
+        "activities": [
+          "Sightseeing Included: Trans-Assam Highway Scenic Drive, Airport Transfer route.",
+          "Meals Included: Lavish Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Mancotta Heritage Chang Bungalow | Infinity Oaks Resort / Kaziranga Resort",
+        "location": "Dibrugarh / Jorhat (3 Nights) / Kaziranga (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Mancotta Heritage Chang Bungalow (Dibrugarh/Jorhat, 3N) | Infinity Oaks / Kaziranga Resort (Kaziranga, 2N) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Heritage / Deluxe Room",
+        "meal_plan": "Buffet Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Purvi Heritage Bungalows (Dibrugarh) | Borgos Resort / Kaziranga Wilderness",
+        "location": "Dibrugarh / Jorhat (3 Nights) / Kaziranga (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Purvi Heritage Bungalows (Dibrugarh/Jorhat, 3N) | Borgos / Kaziranga Wilderness (Kaziranga, 2N) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Buffet Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Thengal Manor Heritage Hotel (Jorhat) | Diphlu River Lodge (Luxury Cabins)",
+        "location": "Dibrugarh / Jorhat (3 Nights) / Kaziranga (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Thengal Manor Heritage Hotel (Jorhat, 3N) | Diphlu River Lodge Luxury Cabins (Kaziranga, 2N) | Premium Dining Package",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage / Luxury Cabin",
+        "meal_plan": "Premium Dining Package",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Kaziranga Golf Resort (Private Bungalows) | The Ultimate Travelling Camp (TUTC)",
+        "location": "Dibrugarh / Jorhat (3 Nights) / Kaziranga (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Kaziranga Golf Resort Private Bungalows (Jorhat, 3N) | TUTC (Kaziranga, 2N) | Bespoke Personal Chef Menu",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Bungalow / Luxury Tent",
+        "meal_plan": "Bespoke Personal Chef Menu",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Bespoke Stays: 05 Nights accommodation in selected premium tea bungalows and luxury safari lodges.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Ground Fleet: Entire journey via Air-Conditioned Toyota Innova Crysta with permits, toll taxes, and driver fees.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Meal Package: 05 Elegant Buffet Breakfasts and 05 Chef-curated Dinners at the properties.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private Tea Tasting Session with estate sommelier & entry tickets to the Orchid Park.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Wildlife Exploration: 02 Private 4x4 open Jeep Safaris in Kaziranga National Park with professional trackers.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Services: Personalized welcome gifts, daily premium bottled water, and dedicated 24/7 on-ground support.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Air/Rail Tickets: Commercial flights or train connections to Dibrugarh and out of Guwahati.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, alcoholic beverages, and tips for estate staff or drivers.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera Charges: Specific video camera or high-end DSLR fees at national park checkpoints.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Excursions: Majuli Island ferry costs and local guide hires outside the primary plan.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Unforeseen Overheads: Additional costs from flight cancellations, natural weather delays, or unexpected events.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

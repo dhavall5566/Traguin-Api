@@ -1,0 +1,292 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-017-dharamshala-escape",
+    "serial_code": "HP-017",
+    "traguin_tour_code": "TRG-HP-017",
+    "title": "Dharamshala Escape • Serenity, Spirituality & Peaks",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-017 | TRAGUIN tour code TRG-HP-017",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Dharamshala • Mcleodganj • Dharamkot • Naddi • Palampur",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Cultural Explorers & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & September to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private guided heritage walk through the Norbulingka Institute to",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Carefully planned daily drives that ensure plenty of relaxed family time.",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected for their high safety standards, stunning views,",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Expert, uniform-clad mountain drivers who know the best spots for photography.",
+        "sort_order": 11
+      },
+      {
+        "text": "Hotel Policies: Check-in time is 14:00 hrs and check-out is 11:00 hrs. Please bring a valid government-",
+        "sort_order": 12
+      },
+      {
+        "text": "issued photo ID card.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-017-dharamshala-escape-itinerary",
+    "title": "Dharamshala Escape • Serenity, Spirituality & Peaks",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dharamshala Escape",
+    "overview": "DHARAMSHALA ESCAPE • SERENITY, SPIRITUALITY & PEAKS Welcome to a breathtaking family adventure proudly curated by TRAGUIN. Embark on the finest Dharamshala Family Tour designed to uncover the mystical charms, spiritual depths, and stunning pine- clad peaks of the Dhauladhar range. As your luxury travel consultant, TRAGUIN transforms your retreat into a seamless luxury holiday packed with handpicked hotels, refreshing scenic beauty, and heartwarming local stories. From the sacred, peaceful chanting at the Dalai Lama Temple to the rich colonial heritage of Palampur, every element is designed to craft unforgettable memories for you and your family.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers an exquisite blend of Tibetan spirituality, pristine pine forests, high-altitude sports, and rolling green tea estates. Travelling in a completely private premium AC vehicle with a highly knowledgeable local chauffeur-guide, your family is assured absolute comfort, safety, and leisure. Featuring a refined meal plan comprising lavish daily breakfasts and specialized dinners, this route represents the definitive premium Dharamshala experience. Every single phase of your vacation includes the hallmark TRAGUIN curated experiences, assuring personalized assistance, exclusive recommendations, and seamless entry privileges everywhere.\n\nWHY CHOOSE THE BEST DHARAMSHALA TOUR PACKAGE?\nWhen considering a Luxury Himachal Holiday, discerning travellers seek a profound mix of untouched nature, rich culture, and top-tier comfort. Dharamshala is a world-class hill station offering some of the most iconic attractions in Northern India. From the internationally admired Tsuglagkhang Complex (Dalai Lama Temple)—a top tourist place in Dharamshala for cultural deep dives—to the high-altitude bliss of Naddi View Point, the valley overflows with beauty. For couples and families reserving a specialized Dharamshala Honeymoon Package or Dharamshala Family Tour, this region unveils stellar popular Instagram locations such as the HPCA Cricket Stadium, the historic St. John in the Wilderness Church, and the misty paths of Bhagsunag Waterfall. Whether you are looking for authentic Tibetan handicraft shopping, exploring lush tea gardens, or seeking inner peace under the shade of giant deodars, our customized TRAGUIN Himachal Packages guarantee premium stays, immersive experiences, and handpicked luxury hotels that reveal the absolute best time to visit Himachal.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-017 | Dharamshala Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Himachal Pradesh package (HP-017 / TRG-HP-017): Dharamshala • Mcleodganj • Dharamkot • Naddi • Palampur with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DHARAMSHALA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MCLEODGANJ SPIRITUAL & HERITAGE TOUR",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: EXCURSION TO NADDI VIEW POINT & DHARAMKOT",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PALAMPUR TEA GARDENS DAY TRIP",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DHARAMSHALA TO DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private guided heritage walk through the Norbulingka Institute to",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Carefully planned daily drives that ensure plenty of relaxed family time.",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected for their high safety standards, stunning views,",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DHARAMSHALA",
+        "description": "WELCOME TO THE DHARAMSHALA RETREAT – SPIRITUAL BEGINNINGS Your premium Himachal experience starts as you arrive at Pathankot Railway Station or Gaggal Airport, where your private luxury transportation vehicle awaits to greet you. Drive through winding, pine-scented mountain roads with vistas of cascading streams until you reach Dharamshala. Check into your premium handpicked luxury hotel and settle down. In the afternoon, take a relaxed family walk to explore the local markets or enjoy a warm cup of Tibetan tea at a cozy café overlooking the valley.",
+        "activities": [
+          "Sightseeing Included: Scenic valley drive, local market stroll, orientation walk.",
+          "Evening Experience: Traditional welcome drinks and a curated multi-course dinner at the resort.",
+          "Overnight Stay: Dharamshala (Premium Luxury Resort View Room)",
+          "Meals Included: Welcome Drink & Luxury Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MCLEODGANJ SPIRITUAL & HERITAGE TOUR",
+        "description": "LITTLE LHASA – TIBETAN CULTURE & THE MAJESTIC DHAULADHARS Awake to a peaceful mountain sunrise and a lavish breakfast. Today, immerse yourself in Mcleodganj sightseeing, the vibrant home of His Holiness the Dalai Lama. Visit the tranquil Tsuglagkhang Temple complex, where you can watch monks debating in the courtyard and turn the sacred prayer wheels. Afterward, explore the neo-Gothic St. John in the Wilderness Church, built in 1852 amidst dense deodar woods. Conclude your afternoon by trekking a short, scenic route to the beautiful Bhagsunag Waterfall. Road.",
+        "activities": [
+          "Sightseeing Included: Dalai Lama Temple, St. John Church, Bhagsunag Temple & Waterfall, Mcleodganj Mall",
+          "Optional Activities: Private guided meditation session or an interactive Tibetan cooking class.",
+          "Overnight Stay: Dharamshala (Premium Luxury Resort View Room)",
+          "Meals Included: Premium Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "EXCURSION TO NADDI VIEW POINT & DHARAMKOT",
+        "description": "PANORAMIC PEAKS, SUNSET GLORY & HIPPIE SERENITY Following a delicious breakfast, your luxury transportation takes you higher up the mountainside to Naddi Village. This spot offers stunning landscapes and panoramic close-up views of the snow-clad Dhauladhar peaks, making it a highly popular Instagram location. Next, journey to the peaceful village of Dharamkot, often called the 'Hippie Village' of Himachal, known for its tranquil vibe and wellness cafes. Spend your late afternoon visiting the Dal Lake of Dharamshala, a sacred pond enclosed by ancient deodar trees. area.",
+        "activities": [
+          "Sightseeing Included: Naddi Sunset Point, Dharamkot Eco Village, Sacred Dal Lake, Tibetan Children's Village",
+          "Evening Experience: A private sunset tea session at Naddi with reserved premium terrace seating.",
+          "Overnight Stay: Dharamshala (Premium Luxury Resort View Room)",
+          "Meals Included: Premium Breakfast & Traditional Himachali Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PALAMPUR TEA GARDENS DAY TRIP",
+        "description": "THE GREEN VALLEY – TEA CARPETS & COLONIAL SPLENDOUR Embark on a scenic day excursion to Palampur, the tea capital of Northwest India. The drive itself is filled with scenic beauty, taking you past pine forests and over gushing mountain streams. Walk through lush green tea estates, breathe in the fresh aroma of tea leaves, and take beautiful family photographs. Later, visit the historic Baijnath Temple, a 13th-century architectural masterpiece dedicated to Lord Shiva, before driving past the iconic HPCA Stadium in Dharamshala on your return.",
+        "activities": [
+          "Sightseeing Included: Palampur Tea Estates, Baijnath Temple, Norbulingka Institute, HPCA Cricket Stadium.",
+          "Evening Experience: A guided tour of the tea factory followed by an exclusive tea-tasting session.",
+          "Overnight Stay: Dharamshala (Premium Luxury Resort View Room)",
+          "Meals Included: Premium Breakfast & Farewell Gala Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DHARAMSHALA TO DEPARTURE",
+        "description": "CHERISHING FAREWELL MOMENTS – MEMORIES FOR A LIFETIME Enjoy a final luxury breakfast at your resort while taking in the morning mountain views. Pack your bags as your dedicated private luxury vehicle arrives to escort you back to Pathankot or Gaggal Airport for your journey home. Leave the hills behind with your heart full of peace, joy, and unforgettable memories designed beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pride Surya Mountain Resort / Hotel",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Pride Surya Mountain Resort / Hotel | Imperial / similar | Deluxe Valley View",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Imperial / similar",
+        "meal_plan": "Deluxe Valley View",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Regenta Resort Camellia / Fortune",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Regenta Resort Camellia / Fortune | Park Moksha | Premium Balcony",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Park Moksha",
+        "meal_plan": "Premium Balcony",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Dharamshala Resort /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Hyatt Regency Dharamshala Resort / | Radisson Blu | Luxury Club Resort",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Radisson Blu",
+        "meal_plan": "Luxury Club Resort",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Pavilion by HPCA / Luxurious",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Pavilion by HPCA / Luxurious | Private Mountain Villa | VVIP Royal",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Mountain Villa",
+        "meal_plan": "VVIP Royal",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights in handpicked luxury mountain hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily buffet breakfasts and premium dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest experience manager assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Warm traditional shawl welcome and customized family amenities.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Curated family tea tasting tour in Palampur.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or main train travel.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, paragliding, or ropeway ride charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, phone calls, or tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional adventure activities or extended tours.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

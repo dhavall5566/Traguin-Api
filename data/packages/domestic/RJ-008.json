@@ -1,0 +1,389 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-008-rajasthan-royal-ladies-tour",
+    "serial_code": "RJ-008",
+    "traguin_tour_code": "TRAGUIN-RJ-008",
+    "title": "Rajasthan Royal Ladies Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial RJ-008 | Tour code TRAGUIN-RJ-008",
+        "sort_order": 1
+      },
+      {
+        "text": "Jaipur (3N) → Pushkar (1N) → Jodhpur (1N) — Female Only Royal Ladies Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Hands-on Anokhi block printing workshop with women artisans",
+        "sort_order": 3
+      },
+      {
+        "text": "Sunset camel-cart desert safari with Kalbeliya dance",
+        "sort_order": 4
+      },
+      {
+        "text": "Patrika Gate, Mehrangarh Fort, Pushkar Brahma Temple",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN 24/7 priority support and safety tracking",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Women",
+      "Heritage",
+      "Luxury",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-008-rajasthan-royal-ladies-tour-itinerary",
+    "title": "Rajasthan Royal Ladies Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Handpicked Luxury)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Jaipur • Pushkar • Jodhpur — 05 Nights / 06 Days of Sisterhood & Splendor",
+    "overview": "An ultra-exclusive, luxurious celebration of sisterhood designed by TRAGUIN for women solo travelers, girlfriends, and mother-daughter duos. This female-only getaway features verified professional chauffeurs, handpicked hotels with top-tier hospitality, artisan workshops, and high-end shopping excursions. Route: Jaipur (3N) → Pushkar desert glamping (1N) → Jodhpur (1N). Meal plan: CP (Gourmet Buffet Breakfast). Best season: October to March.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-008 | Rajasthan Royal Ladies Tour | TRAGUIN",
+    "seo_description": "Female-only 05 Nights / 06 Days Rajasthan tour (RJ-008): Jaipur palaces, Anokhi block printing, Pushkar desert glamping, and Mehrangarh Fort with TRAGUIN safety support.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Amer Fort & Anokhi block printing workshop",
+        "sort_order": 1
+      },
+      {
+        "text": "Patrika Gate & City Palace",
+        "sort_order": 2
+      },
+      {
+        "text": "Pushkar Lake & Brahma Temple",
+        "sort_order": 3
+      },
+      {
+        "text": "Sunset camel-cart safari with folk dance",
+        "sort_order": 4
+      },
+      {
+        "text": "Mehrangarh Fort & Toorji Ka Jhalra Stepwell",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Jaipur | Royal Cocktails & High-Tea Welcome",
+        "description": "Traditional greeting with rose petals and mocktails. Transfer to luxury heritage hotel. Evening signature TRAGUIN royal welcome high-tea at restored haveli café with live sitar music.",
+        "activities": [
+          "Sightseeing Included: Historic Old City Drive, Albert Hall Museum illumination exterior view",
+          "Optional Activities: Henna/Mehendi artwork session at the hotel courtyard",
+          "Evening Experience: Welcome high-tea with traditional live sitar music",
+          "Overnight Stay: Jaipur (Handpicked Luxury Heritage Hotel)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Jaipur Palace Exploration | Fortress Splendor & Block Printing",
+        "description": "Amer Fort and Sheesh Mahal, Jal Mahal photo stop. Exclusive hands-on block printing workshop at Anokhi artisan village with local women artisans.",
+        "activities": [
+          "Sightseeing Included: Amer Fort, Jal Mahal, Hawa Mahal photography bay",
+          "Optional Activities: Professional royal styling and saree draping experience",
+          "Evening Experience: Private dining featuring authentic local Rajasthani delicacies",
+          "Overnight Stay: Jaipur Luxury Heritage Hotel"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Jaipur's Secret Gems & Bazaars | Instagrammable Palaces & Jewelry Shopping",
+        "description": "Patrika Gate, City Palace royal rooms, Jantar Mantar. Guided shopping at Johari Bazar and Bapu Bazar.",
+        "activities": [
+          "Sightseeing Included: Patrika Gate, City Palace Museum, Jantar Mantar",
+          "Optional Activities: Private jewelry curation consult with local experts",
+          "Evening Experience: Sunset cocktails at trendy rooftop café overlooking the city",
+          "Overnight Stay: Jaipur Luxury Heritage Hotel"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jaipur to Pushkar | Sacred Lakes, Desert Glamping & Sunset Camel Safari",
+        "description": "Drive to Pushkar. Walking tour of Pushkar Lake and Brahma Temple. Sunset camel-cart ride across desert dunes with Kalbeliya dance and starlit dinner.",
+        "activities": [
+          "Sightseeing Included: Pushkar Lake Ghats, Brahma Temple, Thar Desert Dunes",
+          "Optional Activities: Private spiritual evening blessing ceremony at the ghats",
+          "Evening Experience: Live folk music, Kalbeliya dance, and starlit desert dinner",
+          "Overnight Stay: Pushkar (Premium Luxury Desert Resort)"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Pushkar to Jodhpur | Blue City Bastions & Boutique Stepwell Cafés",
+        "description": "Optional morning yoga. Mehrangarh Fort, Jaswant Thada, and Toorji Ka Jhalra stepwell café. Special farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Mehrangarh Fort, Jaswant Thada, Toorji Ka Jhalra Stepwell",
+          "Optional Activities: Zip-lining over the majestic fort battlements",
+          "Evening Experience: Special farewell dinner to celebrate an unforgettable trip",
+          "Overnight Stay: Jodhpur (Premium Boutique Heritage Stay)"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Jodhpur Departure | Farewell Royal Sisters",
+        "description": "Final breakfast, Clock Tower market souvenir shopping, and private transfer to Jodhpur Airport.",
+        "activities": [
+          "Sightseeing Included: Clock Tower local market strolls",
+          "Meals Included: Premium Gourmet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Mandawa Haveli",
+        "location": "Jaipur",
+        "nights_label": "3N Jaipur",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Heritage Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pushkar Resort",
+        "location": "Pushkar",
+        "nights_label": "1N Pushkar",
+        "description": "Option 02 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Desert Tent",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Jodhpur",
+        "nights_label": "1N Jodhpur",
+        "description": "Option 03 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Comfort Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Shahpura House",
+        "location": "Jaipur",
+        "nights_label": "3N Jaipur",
+        "description": "Option 04 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Heritage Suite",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Aaram Baagh Luxury",
+        "location": "Pushkar",
+        "nights_label": "1N Pushkar",
+        "description": "Option 05 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Tent",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC",
+        "location": "Jodhpur",
+        "nights_label": "1N Jodhpur",
+        "description": "Option 06 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Rajputana / Taj Mahal Palace",
+        "location": "Jaipur",
+        "nights_label": "3N Jaipur",
+        "description": "Option 07 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Orchard Retreat",
+        "location": "Pushkar",
+        "nights_label": "1N Pushkar",
+        "description": "Option 08 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Glamping Suite",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Hari Mahal Palace",
+        "location": "Jodhpur",
+        "nights_label": "1N Jodhpur",
+        "description": "Option 09 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Garden Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "The Raj Palace / Rambagh Palace",
+        "location": "Jaipur",
+        "nights_label": "3N Jaipur",
+        "description": "Option 10 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Palace Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Greenhouse Luxury Glamping",
+        "location": "Pushkar",
+        "nights_label": "1N Pushkar",
+        "description": "Option 11 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Glamping Tent",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Umaid Bhawan Palace Suite",
+        "location": "Jodhpur",
+        "nights_label": "1N Jodhpur",
+        "description": "Option 12 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Palace Suite",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Bespoke luxury accommodations across premium properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet hot buffet breakfasts at all hotels",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private luxury vehicle with expert chauffeur",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All road taxes, toll fees, fuel costs, and driver allowances",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary private high-tea experience on Day 1",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Hands-on block printing workshop admission fees",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Sunset camel-cart desert safari with live cultural dances",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 priority support and safety tracking from TRAGUIN",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic flight tickets or internal train bookings",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Standard monument entrance fees and camera licenses",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, tipping, and room service orders",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities like zip-lining or hot air ballooning",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meal options not explicitly mentioned in the itinerary",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive personal travel insurance policies",
+        "sort_order": 14
+      }
+    ]
+  }
+}

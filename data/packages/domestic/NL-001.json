@@ -1,0 +1,328 @@
+{
+  "destination_slug": "nagaland",
+  "package": {
+    "slug": "nl-001-nagaland-discovery-a-premium-custom-travel-experience",
+    "serial_code": "NL-001",
+    "traguin_tour_code": "TRAGUIN-NL-001",
+    "title": "Nagaland Discovery: A Premium Custom Travel Experience",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code NL-001 | TRAGUIN tour code TRAGUIN-NL-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Nagaland / India | Category: Premium Luxury Family Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Dimapur • Kohima • Khonoma • Mokokchung",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Culture Seekers, Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Special Hornbill Festival in Dec)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Premium SUV (Innova Crysta) / Modified American Plan (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Dimapur → Kohima → Khonoma Green Village → Mokokchung → Dimapur",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private audience with local village elders in Khonoma to listen to orally",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Hand-crafted travel paces optimized fully for families, balancing active",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Seamless coordination with zero waiting times at protected tribal boundary",
+        "sort_order": 11
+      },
+      {
+        "text": "Premium Handpicked Hotels: Continuous monitoring of luxury properties to ensure the highest",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "nl-001-nagaland-discovery-a-premium-custom-travel-experience-itinerary",
+    "title": "Nagaland Discovery: A Premium Custom Travel Experience",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dimapur • Kohima • Khonoma • Mokokchung",
+    "overview": "Nagaland Discovery: A Premium Custom Travel Experience “Unveiling the Mystique of the Land of the Nagas in Absolute Luxury” Embark on an extraordinary journey through dense mist-laden hills, ancestral tribal legacies, and untouched ecosystems. Designed perfectly as a high-end Nagaland Family Tour or an exclusive Luxury Nagaland Holiday, this bespoke itinerary weaves deep cultural immersion with curated premium comforts, brought to life exclusively by TRAGUIN.\n\nTOUR OVERVIEW\nWelcome to a meticulously planned North-East experience curated by TRAGUIN Experts. This luxury getaway is tailored for discerning families who wish to explore the rich warrior history, intricate handlooms, and scenic visual poetry of Nagaland without compromising on comfort. VEHICLE: Private Premium SUV (Innova Crysta) throughout the journey MEAL PLAN: Modified American Plan (Breakfast & Dinner Included) ROUTE MAP: Dimapur → Kohima → Khonoma Green Village → Mokokchung → Dimapur GUEST TYPE: Premium Family / FIT TRAGUIN Curated Experience Note: Every aspect of this Nagaland Sightseeing tour has been personally vetted. From private cultural audiences with Angami village elders to smooth, high-clearance premium transport along winding mountain ridges, we ensure your family experiences the warmth of Naga hospitality seamlessly.\n\nWHY CHOOSE A PREMIUM NAGALAND EXPERIENCE?\nNagaland remains one of Asia’s last pristine cultural frontiers, making it the ultimate destination for an unforgettable luxury family getaway. The region is highly celebrated for its spectacular landscapes, emerald valleys, and its legendary 16 indigenous tribes, each safeguarding distinct customs, attire, and dialects. Whether you are searching for the Best Nagaland Tour Package for immersive heritage or a highly bespoke Nagaland Honeymoon Package set against misty mountains, the land offers unmatched beauty. Key highlights include exploring the Top Tourist Places in Nagaland such as the historic Kohima War Cemetery, the architectural wonders of Khonoma Green Village, and the traditional tribal bastions of Mokokchung. The Best Time to Visit Nagaland spans from October to May, when the weather is perfectly crisp, skies are clear cerulean blue, and the state bursts into colorful community celebrations, most notably the iconic Hornbill Festival in December. Let TRAGUIN Nagaland Packages guide you through a realm of living history, rare organic gastronomy, and premium high-altitude serenity.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "NL-001 | Nagaland Discovery: A Premium Custom Travel Experience | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Nagaland package (NL-001 / TRAGUIN-NL-001): Dimapur • Kohima • Khonoma • Mokokchung with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DIMAPUR & SCENIC TRANSFER TO KOHIMA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: KOHIMA SIGHTSEEING — EMBARKING ON HISTORIC & CULTURAL LEGEND",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: EXCURSION TO KHONOMA — ASIA'S FIRST ECO-GREEN VILLAGE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: KOHIMA TO MOKOKCHUNG — INTO THE CULTURAL HEARTLAND OF THE AO",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: MOKOKCHUNG — UNVEILING THE LIVING HERITAGE OF UNTOUCHED",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: MOKOKCHUNG TO DIMAPUR — DEPARTURE WITH TIMELESS MEMORIES",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private audience with local village elders in Khonoma to listen to orally",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Hand-crafted travel paces optimized fully for families, balancing active",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: Seamless coordination with zero waiting times at protected tribal boundary",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DIMAPUR & SCENIC TRANSFER TO KOHIMA",
+        "description": "Your extraordinary journey begins as you step off your flight at Dimapur Airport. A dedicated TRAGUIN tour ambassador will warmly welcome your family and escort you to your awaiting private luxury SUV. Leaving the bustling plains of Dimapur behind, you will embark on a highly scenic drive ascending into the crisp, refreshing air of the Naga hills toward Kohima, the historic capital city. Along the way, stop for a gourmet refreshment break while overlooking breathtaking landscapes of deep-green gorges and cascading roadside waterfalls. As you enter Kohima, check into your handpicked premium accommodation. The evening is yours to relax and adjust to the serene mountain pace. authentic mild Naga culinary delicacies.",
+        "activities": [
+          "Sightseeing Included: Scenic mountain drive, entry lookouts, roadside panoramic photography points.",
+          "Evening Experience: A private welcome dinner at the hotel featuring a curated blend of continental and",
+          "Overnight Stay: Handpicked Premium Luxury Hotel / Luxury Eco-Lodge in Kohima.",
+          "Meals Included: Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KOHIMA SIGHTSEEING — EMBARKING ON HISTORIC & CULTURAL LEGEND",
+        "description": "Awake to a majestic sunrise over the mist-clad peaks. Today is dedicated to an immersive Kohima Sightseeing experience. First, visit the beautifully manicured Kohima War Cemetery, a poignant World War II memorial dedicated to the brave soldiers who stopped the advancing forces in the famous Battle of Kohima. Next, drive to the Kisama Heritage Village, the legendary permanent venue of the world-famous Hornbill Festival. Walk through meticulously crafted traditional Naga morungs (tribal bachelors' dormitories) representing all 16 tribes. Conclude your afternoon with a visit to the Kohima State Museum, showcasing priceless royal tribal artifacts, ancestral jewelry, and warrior costumes. Handloom Emporium. organic artisanal coffee.",
+        "activities": [
+          "Sightseeing Included: WWII War Cemetery, Kisama Heritage Village, Kohima State Museum, Local Naga",
+          "Optional Activities: Specialized guided photography walk through the local fresh produce and spice markets.",
+          "Evening Experience: Relaxed evening stroll at a premium boutique cafe in Kohima sampling locally grown",
+          "Overnight Stay: Handpicked Premium Luxury Hotel / Luxury Eco-Lodge in Kohima.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "EXCURSION TO KHONOMA — ASIA'S FIRST ECO-GREEN VILLAGE",
+        "description": "Today, travel back in time as you visit the legendary Khonoma Green Village, located about 20 km from Kohima. Khonoma is an ancient 700-year-old settlement famed for its brave warrior history and its revolutionary global model of eco-conservation. A local village expert will guide your family through traditional stone gateways, explaining the genius of their ancient terrace farming methods. Witness an exclusive, private demonstration of traditional basket weaving and organic shawl weaving. The sheer scenic beauty of the step cultivation fields carved into steep mountain slopes provides an exceptional backdrop for incredible family photographs. Enjoy a premium, organically sourced farm-to-table lunch prepared specially for TRAGUIN guests within the village. morungs.",
+        "activities": [
+          "Sightseeing Included: Khonoma Fort, Eco-conservation reserve, ancient step-farming overlooks, traditional",
+          "Optional Activities: A light, scenic nature trek through the surrounding alder tree forests for birdwatching.",
+          "Evening Experience: Return to Kohima for an interactive traditional cooking demonstration at the lodge.",
+          "Overnight Stay: Handpicked Premium Luxury Hotel / Luxury Eco-Lodge in Kohima.",
+          "Meals Included: Breakfast, Curated Lunch & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KOHIMA TO MOKOKCHUNG — INTO THE CULTURAL HEARTLAND OF THE AO",
+        "description": "NAGA Following an early breakfast, your premium SUV departs northwards toward Mokokchung, the vibrant cultural capital of the Ao Naga tribe. This journey is a breathtaking showcase of rural Nagaland, passing through beautiful terraced rice paddies, tea gardens, and misty valleys. Arrive in Mokokchung by afternoon and check into your premium valley-view resort. Mokokchung is universally celebrated for its pristine hospitality and beautifully kept villages. Spend your late afternoon visiting the structural marvels of the town and interacting with warm, welcoming locals who love sharing stories of their grand cultural lineage. Mokokchung town center. painted attire. staple of Naga culture.",
+        "activities": [
+          "Sightseeing Included: Longkhum Village (famed for its panoramic ridge views and rhododendron paths),",
+          "Optional Activities: Interaction with local Ao artisans specializing in traditional wood carving and hand-",
+          "Evening Experience: Sunset viewing from the resort deck accompanied by live acoustic music, a beloved",
+          "Overnight Stay: Premium Heritage Resort / Luxury Eco-Resort in Mokokchung.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "MOKOKCHUNG — UNVEILING THE LIVING HERITAGE OF UNTOUCHED",
+        "description": "VILLAGES Dedicate your morning to exploring Mopungchuket Village, widely regarded as one of the best-preserved cultural villages in the entire North-East. Walk along pristine pathways to see the awe-inspiring time- weathered log-drums, towering totem poles, and the romantic cultural monument of Jina and Etiben (the Romeo and Juliet of the Ao tribe). Next, visit Ungma Village, the oldest and largest village of the Ao tribe, offering a profound look into ancestral governing systems. The day is rich with unforgettable memories, deep historical insights, and immersive experiences that connect your family directly to the true spirit of India’s tribal frontier. village museums. photoshoot. cuisine.",
+        "activities": [
+          "Sightseeing Included: Mopungchuket cultural site, Ungma heritage village, sacred log-drums, traditional",
+          "Optional Activities: Trying on ornate, traditional Ao warrior attire for an exclusive, professional family",
+          "Evening Experience: A grand, private farewell dinner organized by TRAGUIN featuring premium fusion",
+          "Overnight Stay: Premium Heritage Resort / Luxury Eco-Resort in Mokokchung.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MOKOKCHUNG TO DIMAPUR — DEPARTURE WITH TIMELESS MEMORIES",
+        "description": "After a delightful breakfast overlooking the sweeping valley, pack your bags filled with beautiful memories, authentic souvenirs, and stories to last a lifetime. Your private premium SUV will comfortably transfer your family back down to Dimapur Airport. Your dedicated TRAGUIN travel consultant will ensure a seamless drop- off at the terminal for your homeward flight, concluding your ultra-premium, luxury holiday to magical Nagaland.",
+        "activities": [
+          "Sightseeing Included: Return scenic valley transit, final viewpoint stops.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Vivor / Equivalent | Hotel Whispering Winds / Equivalent",
+        "location": "Kohima | Mokokchung",
+        "nights_label": "3N Kohima|2N Mokokchung",
+        "description": "OPTION 01 – DELUXE: Hotel Vivor / Equivalent | Hotel Whispering Winds / Equivalent | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Heritage Kohima / Equivalent | Woodland Resort / Equivalent",
+        "location": "Kohima | Mokokchung",
+        "nights_label": "3N Kohima|2N Mokokchung",
+        "description": "OPTION 02 – PREMIUM: The Heritage Kohima / Equivalent | Woodland Resort / Equivalent | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Razhu Pru Heritage Mansion / Equivalent | Mopungchuket Luxury Eco-Lodge",
+        "location": "Kohima | Mokokchung",
+        "nights_label": "3N Kohima|2N Mokokchung",
+        "description": "OPTION 03 – LUXURY: Razhu Pru Heritage Mansion / Equivalent | Mopungchuket Luxury Eco-Lodge | Breakfast & Dinner (MAP)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Mansion | Luxury Eco-Lodge",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Dzukou Valley Luxury Glamping / Tents | TRAGUIN Signature Handpicked Estate",
+        "location": "Kohima | Mokokchung",
+        "nights_label": "3N Kohima|2N Mokokchung",
+        "description": "OPTION 04 – ULTRA LUXURY: Dzukou Valley Luxury Glamping / Tents | TRAGUIN Signature Handpicked Estate | All Meals Custom Curated",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Glamping | Signature Estate",
+        "meal_plan": "All Meals Custom Curated",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights luxurious accommodation in handpicked top-rated properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Modified American Plan (Daily Premium Breakfast and Chef-Curated Dinners).",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private exclusive airport transfers and all sightseeing via premium SUV (Innova Crysta).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Professional, English-speaking certified local cultural guides for deep storytelling.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "All inner line permits (ILP) and state entry documentation handled seamlessly.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive farm-to-table lunch experience at Khonoma Green Village.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary welcome amenities and custom travel comfort kits in the vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated remote concierge support from TRAGUIN operational headquarters.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International Airfare / Train tickets to Dimapur.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses (laundry, telephone calls, premium alcoholic beverages).",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera fees, video recording charges at monument checkpoints.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure activities or treks not explicitly outlined.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance policies (highly recommended).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips and gratuities for drivers, local guides, and hotel staff.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-006-silvassa-quick-nature-getaway",
+    "serial_code": "DN-006",
+    "traguin_tour_code": "TG-DN-006-PREM",
+    "title": "Silvassa Quick Nature Getaway",
+    "duration_label": "01 Night / 02 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-006 | TRAGUIN tour code TG-DN-006-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Weekend Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa & Surrounding Nature Trails",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Weekend FIT Getaway",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium Executive Sedan / SUV at disposal",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Buffet Breakfast & Chef's Special Dinner)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi/Surat Arrival → Silvassa Nature Circuit → Vapi/Surat Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private interaction session with local Warli artists",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli Art Masterpieces, Pure Forest Honey, Handcrafted Wooden Artifacts",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Wildlife parks operate on restricted timing; book weekends 3 weeks prior",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Weekend",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-006-silvassa-quick-nature-getaway-itinerary",
+    "title": "Silvassa Quick Nature Getaway",
+    "duration_label": "01 Night / 02 Days",
+    "duration_days": 2,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Silvassa Quick Nature Getaway • Escape Into the Green Lap",
+    "overview": "Escape the mechanical rush of city life and breathe in the rich emerald air of Silvassa. Carefully mapped out by the luxury curators at TRAGUIN, this rapid rejuvenation getaway is crafted to maximize your weekend tranquility. Experience breathtaking landscapes, immersive experiences in tribal cultures, and serene boat cruises surrounded by pristine woodlands.\n\nOur Silvassa Quick Nature Getaway offers a brilliant blend of winding forest corridors, Portuguese architectural remnants, and elite hospitality. Sized perfectly for a swift yet luxurious weekend breakthrough, this layout ensures zero stress and complete immersion.\n\nTRAGUIN Curated Touch: Handpicked hotels boasting private riverfront views, pre-booked VIP access tickets to wildlife reserves, and customized refreshment kits onboard your premium transport.\n\nWhy Visit Dadra and Nagar Haveli: Unparalleled forest canopy density, tranquil lakes, rare wildlife encounters, and duty-free relaxation zones. Famous Attractions: Vanganga Lake Garden, Tribal Cultural Museum, Khanvel, and the Nakshatra Garden. Most Searched Experiences: Quiet shikara boat rides on pristine lake waters, photographing deer herds in natural habitats, and shopping for authentic Warli tribal paintings. Popular Instagram Locations: The rustic wooden bridges of Vanganga Lake, sunset view points at Dudhni, and lush avenues of Nakshatra Garden.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-006 | Silvassa Quick Nature Getaway Premium Tour | TRAGUIN",
+    "seo_description": "Premium 01 Night / 02 Days Silvassa nature package (DN-006 / TG-DN-006-PREM): Tribal Cultural Museum, Vanganga Lake Garden, Vasona Lion Safari, Nakshatra Garden, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tribal Cultural Museum & Vanganga Lake Garden",
+        "sort_order": 1
+      },
+      {
+        "text": "Vasona Lion Safari & Nakshatra Garden",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private interaction session with local Warli artists",
+        "sort_order": 3
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Perfect layout sequence designed to minimize travel fatigue",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa & Immersion Into Vanco Life",
+        "description": "Your refreshing weekend begins with a scenic drive through smooth country roads as you arrive in the capital city of Silvassa. Receive a warm greeting from your dedicated TRAGUIN host and check into your handpicked premium resort featuring luxurious rooms looking over manicured lawns or flowing river pathways. After standard check-in formalities, refresh yourself and prepare for your first deep look at Dadra and Nagar Haveli Sightseeing. We head directly to the famous Tribal Cultural Museum, housing rare masks, hunting weapons, and musical instruments that narrate local heritage. Next, take a peaceful stroll down the wooden pathways of Vanganga Lake Garden, an iconic destination where manicured Japanese style bridges and pedal boating options create the ultimate setting for photography and unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Tribal Cultural Museum, Vanganga Lake Garden",
+          "Evening Experience: Lakeside walk and organic tea tasting",
+          "Overnight Stay: Silvassa Luxury Riverfront Resort",
+          "Meals Included: Curated Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Wildlife Exploration & Farewell Adieu",
+        "description": "Awake to the beautiful sounds of chirping birds and misty forest air. Indulge in a premium, lavish breakfast spread at the resort's open-air café. After checking out, embark on your Premium Dadra and Nagar Haveli Experience to explore the wilder side of Silvassa. We take you to the Lion Safari Wildlife Park in Vasona, where a secured safari vehicle lets you spot the majestic Asiatic Lions roaming safely within their sprawling natural habitat. Conclude your morning with an artistic stop at Nakshatra Garden, a meticulously designed astronomical garden packed with medicinal trees and stunning flower beds. Following a delightful local lunch at a premium restaurant recommended by TRAGUIN experts, begin your comfortable return drive to your departure hub (Vapi or Surat) with your mind thoroughly recharged.",
+        "activities": [
+          "Sightseeing Included: Vasona Lion Safari, Nakshatra Garden",
+          "Photography Points: Lion tracking and exotic medicinal floral arrays",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 2
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Treat Resort Silvassa or similar",
+        "location": "Silvassa",
+        "nights_label": "01 Night",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pluz Resort Silvassa",
+        "location": "Silvassa",
+        "nights_label": "01 Night",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Pool View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts Silvassa",
+        "location": "Silvassa",
+        "nights_label": "01 Night",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Riverview Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Boutique Nature Luxury Villa",
+        "location": "Silvassa",
+        "nights_label": "01 Night",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Signature Villa",
+        "meal_plan": "All Inclusive Gourmet",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "01 Night premium luxury stay at selected property in Silvassa",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Lavish buffet breakfast and customized dinner curated by resort chefs",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private high-end air-conditioned vehicle for all transfers and tours",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Pre-arranged entry permits and tickets to all mentioned state attractions",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated destination support from TRAGUIN customer care network",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary welcome non-alcoholic drinks on arrival",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or long-distance train tickets to entry station",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal item spending, tips, laundry, and minibar usage",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Boating activity tickets or camera fees inside parks",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Anything not explicitly detailed in the inclusions list",
+        "sort_order": 10
+      }
+    ]
+  }
+}

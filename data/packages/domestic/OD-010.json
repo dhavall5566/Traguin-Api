@@ -1,0 +1,315 @@
+{
+  "destination_slug": "odisha",
+  "package": {
+    "slug": "od-010-complete-odisha-temples-lagoons-pristine-shores",
+    "serial_code": "OD-010",
+    "traguin_tour_code": "TRG-ODI-010",
+    "title": "Complete Odisha Temples Lagoons Pristine Shores",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code OD-010 | TRAGUIN tour code TRG-ODI-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Odisha / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Bhubaneswar • Puri • Konark • Chilika Lake (Satapada) • Pipli",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Groups, Heritage Lovers & Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Breeze)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Exclusive curated interaction with master Patachitra artists inside their ancestral homes in Raghurajpur.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Perfect travel timing through the Marine Drive route to witness the Konark Sun Temple under optimal lighting.",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Specialized destination coordinators providing hassle-free entry support at crowded heritage hubs.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite ocean-facing resort properties that offer safety, premium comfort, and unmatched hospitality.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Coastal"
+    ]
+  },
+  "itinerary": {
+    "slug": "od-010-complete-odisha-temples-lagoons-pristine-shores-itinerary",
+    "title": "Complete Odisha Temples Lagoons Pristine Shores",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bhubaneswar • Puri • Konark • Chilika Lake (Satapada) • Pipli",
+    "overview": "COMPLETE ODISHA • TEMPLES, LAGOONS & PRISTINE SHORES Welcome to the soul of incredible India, beautifully curated by TRAGUIN. Embark on a spectacular Complete Odisha experience meticulously designed to unveil a land of timeless architecture, spiritual depth, and unparalleled natural marvels. As your elite travel consultants, TRAGUIN transforms this destination into an absolute luxury holiday. Enjoy handpicked hotels, executive comfort, and breathtaking landscapes where the ancient architecture tells stories of bygone eras. From the legendary temple spires of TRAGUIN Premium Luxury Proposal — OD-010 1 Bhubaneswar to the gold-gilded, sun-soaked sands of Puri and the mystical avian waters of Chilika Lake, let us craft unforgettable memories for your family.\n\nTOUR OVERVIEW\nThis elite 6 Nights / 7 Days custom-tailored luxury holiday package offers the quintessential balance of cultural discovery and relaxed seaside indulgence for your family. Travelling in a dedicated, top-tier private air- conditioned vehicle with a professional chauffeur, your family will enjoy absolute safety, privacy, and flexibility. Featuring an curated meal plan offering elegant morning spreads and exquisite traditional and global dinners, this route highlights the premium Odisha experience. Complete with a signature TRAGUIN curated experience note, your tour guarantees customized sightseeing tracks, prioritized temple assistance, and premier comfort at every turn.\n\nWHY VISIT\nWhen considering a Luxury Odisha Holiday, travelers look for an immersive experience that weaves ancient maritime legacies with world-class comforts. Odisha holds some of the most iconic attractions in India. From the architectural grandeur of the Konark Sun Temple—a UNESCO World Heritage site and a top tourist place in Odisha—to the holy shrines of Lord Jagannath in Puri, every location promises spiritual and historical awe. For families and couples seeking a memorable Odisha Honeymoon Package or Odisha Family Tour, the Golden Triangle of Odisha reveals highly popular Instagram locations like the red-stone Mukteshwar Temple, the pristine, Blue Flag-certified Golden Beach of Puri, and the dramatic dolphin viewpoints of Chilika Lake. Whether your interest lies in regional silver filigree shopping, witness live sand art, or tasting the legendary mahaprasad, our signature TRAGUIN Odisha Packages ensure premium stays and exclusive experiences during the best time to visit Odisha.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "OD-010 | Complete Odisha Temples Lagoons Pristine Shores | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Odisha package (OD-010 / TRG-ODI-010): Bhubaneswar • Puri • Konark • Chilika Lake (Satapada) • Pipli with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BHUBANESWAR — WELCOME TO THE TEMPLE CITY – ARCHITECTURAL GENIUS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: BHUBANESWAR LOCAL SIGHTSEEING — ANCIENT CAVES, JAIN HERITAGE & ROYAL WHITE PAGODAS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: BHUBANESWAR TO PURI VIA PIPLI — THE PATH OF THE APPLIQUÉ ARTISANS TO THE HOLY SHORES",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PURI TO KONARK SUN TEMPLE EXCURSION — THE STONE POETRY OF THE SUN CHARIOT & RAMCHANDI BEACH",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCURSION TO CHILIKA LAKE (SATAPADA) — THE EMBRACE OF ASIA'S LARGEST BRACKISH LAGOON",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: PURI TO RAGHURAJPUR HERITAGE VILLAGE TO BHUBANESWAR — THE LEGACY OF PATACHITRA MASTER ARTISANS",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE FROM BHUBANESWAR — CHERISHING THE MEMORIES OF THE SOULFUL COAST",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Exclusive curated interaction with master Patachitra artists inside their ancestral homes in Raghurajpur.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Perfect travel timing through the Marine Drive route to witness the Konark Sun Temple under optimal lighting.",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Specialized destination coordinators providing hassle-free entry support at crowded heritage hubs.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite ocean-facing resort properties that offer safety, premium comfort, and unmatched hospitality.",
+        "sort_order": 11
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BHUBANESWAR — WELCOME TO THE TEMPLE CITY – ARCHITECTURAL GENIUS",
+        "description": "Your premium Odisha experience commences as you step out at Bhubaneswar Airport or Railway Station. You will be warmly received by your private chauffeured luxury transport vehicle and escorted to your premium stay. Known as the Temple City of India, Bhubaneswar balances ancient heritage with modern elegance. Spend your afternoon visiting the 11th-century Lingaraj Temple and the exquisitely carved Mukteshwar Temple, celebrated as the gem of Odishan architecture. 2",
+        "activities": [
+          "Sightseeing Included:  Lingaraj Temple complex, Mukteshwar Temple, Rajarani Temple, and Bindusagar Lake.",
+          "Evening Experience:  An interactive introductory session over high-tea detailing Odishan heritage by TRAGUIN",
+          "Overnight Stay:  Bhubaneswar (Premium / Luxury Hotel)",
+          "Meals Included:  Welcome Drink & Luxury Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "BHUBANESWAR LOCAL SIGHTSEEING — ANCIENT CAVES, JAIN HERITAGE & ROYAL WHITE PAGODAS",
+        "description": "Relish a lavish morning buffet breakfast before departing for the twin hills of Khandagiri and Udayagiri. Explore the ancient rock-cut caves adorned with dynamic historical inscriptions dating back to the 2nd century BC. Following a premium lunch break, drive to Dhauli Hills—the emotional site of the Kalinga War where Emperor Ashoka embraced Buddhism. Behold the majestic Shanti Stupa (White Peace Pagoda) overlooking the serene Daya River, a highly popular Instagram location.",
+        "activities": [
+          "Sightseeing Included:  Udayagiri & Khandagiri Caves, Dhauli Shanti Stupa, Ashokan Rock Edicts.",
+          "Optional Activities:  A guided tour of the state-of-the-art Kala Bhoomi Odisha Crafts Museum.",
+          "Overnight Stay:  Bhubaneswar (Premium / Luxury Hotel)",
+          "Meals Included:  Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "BHUBANESWAR TO PURI VIA PIPLI — THE PATH OF THE APPLIQUÉ ARTISANS TO THE HOLY SHORES",
+        "description": "After a delicious breakfast, check out and drive towards the spiritual epicentre—Puri. En route, pause at the famous artisan village of Pipli. Walk along vibrant rows of shops showcasing traditional appliqué handicrafts, a brilliant photography point for families. Continue the drive to Puri and check into your handpicked premium luxury beach resort. In the evening, visit the world-renowned Lord Jagannath Temple for a deeply moving spiritual experience.",
+        "activities": [
+          "Sightseeing Included:  Pipli Craft Village, Lord Jagannath Temple (VIP Darshan Assistance).",
+          "Evening Experience:  Private sunset walk on the golden sands of Puri beach with complimentary refreshments.",
+          "Overnight Stay:  Puri (Premium / Luxury Beach Resort)",
+          "Meals Included:  Breakfast & Coastal Specialty Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PURI TO KONARK SUN TEMPLE EXCURSION — THE STONE POETRY OF THE SUN CHARIOT & RAMCHANDI BEACH",
+        "description": "Drive along the stunning, scenic marine drive road towards Konark to witness the awe-inspiring Konark Sun Temple. Conceived as a colossal stone chariot with 24 beautifully carved wheels, this 13th-century wonder showcases breathtaking landscapes of architectural precision. Hear emotional storytelling of ancient craftsmen from our expert guide. Later, unwind at the tranquil Ramchandi Beach and the confluence of the Kushabhadra River.",
+        "activities": [
+          "Sightseeing Included:  Konark Sun Temple, Konark Interpretation Centre, Ramchandi Beach, Chandrabhaga",
+          "Optional Activities:  Enjoy high-end water sports or speed-boating at Ramchandi beach.",
+          "Overnight Stay:  Puri (Premium / Luxury Beach Resort)",
+          "Meals Included:  Premium Breakfast & Luxury Resort Buffet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO CHILIKA LAKE (SATAPADA) — THE EMBRACE OF ASIA'S LARGEST BRACKISH LAGOON",
+        "description": "Embark on a spectacular morning excursion to Satapada, the eastern section of the magnificent Chilika Lake. Board an exclusive private boat ride arranged for your family to explore the expansive waters. Spot the rare, playful Irrawaddy Dolphins swimming in their natural habitat. Cruise towards the Sea Mouth where the vast lagoon meets the roaring Bay of Bengal—a truly panoramic, immersive experience.",
+        "activities": [
+          "Sightseeing Included:  Chilika Lake Lagoon Cruise, Irrawaddy Dolphin Sanctuary points, Sea Mouth island",
+          "Evening Experience:  Leisurely relaxation at the Blue Flag Golden Beach of Puri with beach chair amenities.",
+          "Overnight Stay:  Puri (Premium / Luxury Beach Resort)",
+          "Meals Included:  Breakfast & Premium Seafood / Authentic Vegetarian Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "PURI TO RAGHURAJPUR HERITAGE VILLAGE TO BHUBANESWAR — THE LEGACY OF PATACHITRA MASTER ARTISANS",
+        "description": "Bid adieu to the ocean waves and check out after breakfast. Drive to Raghurajpur Heritage Craft Village. Here, every home is an art studio preserving the ancient tradition of Patachitra scroll paintings. Engage in a highly exclusive experience, interacting with national award-winning artisans. Return to Bhubaneswar in the evening for your final evening of shopping and relaxation. 4",
+        "activities": [
+          "Sightseeing Included:  Raghurajpur Heritage Village, Local Patachitra workshops, Gotipua dance viewing area.",
+          "Optional Activities:  Purchase verified hand-painted souvenirs directly from the master artists.",
+          "Overnight Stay:  Bhubaneswar (Premium / Luxury Hotel)",
+          "Meals Included:  Breakfast & Farewell Premium Gala Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE FROM BHUBANESWAR — CHERISHING THE MEMORIES OF THE SOULFUL COAST",
+        "description": "Indulge in a final lavish breakfast spread at your luxury hotel. Your premium private vehicle will safely transfer your family back to Bhubaneswar Airport or Railway Station for your flight home. Return with an enriched spirit and a gallery full of sweet family bonds and unforgettable memories meticulously arranged by TRAGUIN.",
+        "activities": [
+          "Transfers Included:  Private luxury door-to-door station or airport drop-off.",
+          "Meals Included:  Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Swosti Grand / similar + The Hans Coco Palms / similar",
+        "location": "Bhubaneswar & Puri",
+        "nights_label": "3N Bhubaneswar + 3N Puri",
+        "description": "OPTION 01 – DELUXE: Hotel Swosti Grand / similar + The Hans Coco Palms / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room / The Hans Coco Palms",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Swosti Premium / Lemon Tree Premier + Pramod Convention & Beach Resort",
+        "location": "Bhubaneswar & Puri",
+        "nights_label": "3N Bhubaneswar + 3N Puri",
+        "description": "OPTION 02 – PREMIUM: Swosti Premium / Lemon Tree Premier + Pramod Convention & Beach Resort | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Pramod Convention & Beach Resort",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Lagoon / Welcomhotel By ITC + Mayfair Waves Puri / Sterling Puri",
+        "location": "Bhubaneswar & Puri",
+        "nights_label": "3N Bhubaneswar + 3N Puri",
+        "description": "OPTION 03 – LUXURY: Mayfair Lagoon / Welcomhotel By ITC + Mayfair Waves Puri / Sterling Puri | Premium MAPAI Luxury Selections",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Mayfair Waves Puri",
+        "meal_plan": "Premium MAPAI Luxury Selections",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Trident Bhubaneswar (Executive Suite) + Mayfair Heritage (Premium Sea View Club)",
+        "location": "Bhubaneswar & Puri",
+        "nights_label": "3N Bhubaneswar + 3N Puri",
+        "description": "OPTION 04 – ULTRA LUXURY: Trident Bhubaneswar (Executive Suite) + Mayfair Heritage (Premium Sea View Club) | Bespoke Royal Custom Dining Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite / Mayfair Heritage (Premium Sea View Club)",
+        "meal_plan": "Bespoke Royal Custom Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 06 Nights accommodation in handpicked elite hotels/resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated SUV for all transfers and highway runs.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "✔ TRAGUIN Premium Luxury Proposal — OD-010 5 Curated Meal Plan: Daily premium breakfast and custom culinary dinners. TRAGUIN Support: 24/7 dedicated local guest experience manager on call.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized family travel kit and fresh arrival drinks.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved private boat cruise at Chilika Lake Satapada.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Main interstate airfare, flight bookings, or train ticketing.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, professional guide fees, or temple donation cards.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tipping.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional beach sports, specialized photography, or extensions.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

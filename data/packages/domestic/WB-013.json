@@ -1,0 +1,252 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-013-elgin-darjeeling-heritage-luxury-stay",
+    "serial_code": "WB-013",
+    "traguin_tour_code": "TRAGUIN-WB-013",
+    "title": "TRAGUIN Elgin Darjeeling Heritage Luxury Stay Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-013 | TRAGUIN tour code TRAGUIN-WB-013",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Luxury Mountain Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Darjeeling • Tiger Hill • Ghoom",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers & Honeymooners",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to May & October to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Hotel: The Elgin, Darjeeling — legendary King George V era heritage property",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private cultural interactions and exclusive heritage entries.",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Hand-woven textiles, tribal artifacts, premium tea varieties, and heritage crafts.",
+        "sort_order": 8
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs. Dedicated vehicle per approved TRAGUIN itinerary. Heritage site entries require prior reservations.",
+        "sort_order": 9
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-013-elgin-darjeeling-heritage-luxury-stay-itinerary",
+    "title": "TRAGUIN Elgin Darjeeling Heritage Luxury Stay Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "TRAGUIN Elgin Darjeeling Heritage Luxury Stay • 03 Nights / 04 Days",
+    "overview": "Welcome to a truly magnificent luxury vacation experience planned specifically for you. Every detail of this itinerary has been curated by TRAGUIN Experts to offer premium comfort, unforgettable memories, and scenic beauty.\n\nDESTINATION STRATEGIC INSIGHTS\nWhy Visit Darjeeling: Offering breathtaking views of the world's highest peaks and world-renowned tea estates, Darjeeling is perfect for a Luxury Darjeeling Holiday or a romantic Darjeeling Honeymoon Package. Premium Handpicked Experiences: Staying at the legendary Elgin heritage luxury resort combined with a classic UNESCO Toy Train ride guarantees an elite, unforgettable mountain getaway. Best Time to Visit Darjeeling: March to May and October to December provide the clearest panoramic views of Mount Kanchenjunga.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-013 | Elgin Darjeeling Heritage Luxury Stay | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days West Bengal package (WB-013 / TRAGUIN-WB-013): The Elgin Darjeeling, Tiger Hill sunrise, Toy Train, tea garden tour, and 4 Elgin room tiers.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "The Elgin heritage hotel with colonial history session and Chowrasta Mall walk",
+        "sort_order": 1
+      },
+      {
+        "text": "Tiger Hill sunrise, Ghoom Monastery, Batasia Loop, and UNESCO Toy Train steam ride",
+        "sort_order": 2
+      },
+      {
+        "text": "Heritage Darjeeling Tea Estate tour with exclusive tea-tasting masterclass",
+        "sort_order": 3
+      },
+      {
+        "text": "Himalayan Mountaineering Institute, Zoo with Red Panda and Snow Leopard, Tibetan Refugee Center",
+        "sort_order": 4
+      },
+      {
+        "text": "4 Elgin room tiers: Deluxe Heritage, Luxury Heritage Suite, Grand Executive, Royal Emperor (03 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DARJEELING – THE ELGIN HERITAGE EXPERIENCE",
+        "description": "Your luxury Himalayan experience begins with a scenic drive from Bagdogra Airport to the Queen of the Hills. Arrive at The Elgin, Darjeeling—a legendary luxury heritage hotel that reflects King George V era elegance. Sip a welcoming cup of authentic Darjeeling first-flush tea by the fireplace while your TRAGUIN coordinator completes a seamless in-room check-in. Spend a relaxed evening walking around the historic Mall Road (Chowrasta) breathing in the fresh mountain air.",
+        "activities": [
+          "Sightseeing Included: Chowrasta Mall, The Elgin Heritage Property Walk.",
+          "Evening Experience: Exclusive high tea and colonial history session at The Elgin Lounge.",
+          "Overnight Stay: Darjeeling (The Elgin Heritage Luxury Stay).",
+          "Meals Included: Welcome Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "TIGER HILL SUNRISE & THE DARJEELING TOY TRAIN RIDE",
+        "description": "Wake up early for a premium highlight: a private luxury vehicle ride to Tiger Hill to watch the sunrise paint Mount Kanchenjunga in golden hues. On your return, visit the tranquil Ghoom Monastery and Batasia Loop. After a delicious breakfast at The Elgin, enjoy an iconic ride on the UNESCO World Heritage Darjeeling Himalayan Railway (Toy Train)—a classic immersive experience through breathtaking landscapes.",
+        "activities": [
+          "Sightseeing Included: Tiger Hill Sunrise, Ghoom Monastery, Batasia Loop, Toy Train Steam Ride.",
+          "Evening Experience: Fine dining featuring curated Himalayan and Continental cuisines.",
+          "Overnight Stay: Darjeeling (The Elgin).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "TEA GARDEN IMMERSION & HIMALAYAN ALPINE EXPLORATION",
+        "description": "Discover the secrets behind the world's most premium tea with a curated tour of a heritage Darjeeling Tea Estate. Walk alongside traditional tea pluckers and enjoy an exclusive tea-tasting masterclass. In the afternoon, explore the Himalayan Mountaineering Institute (HMI) and meet rare alpine species at the Padmaja Naidu Himalayan Zoological Park, including the endangered Red Panda and Snow Leopard.",
+        "activities": [
+          "Sightseeing Included: Heritage Tea Garden Tour, Himalayan Mountaineering Institute, Zoo, Tibetan Refugee Self-Help Center.",
+          "Evening Experience: Local warm Tibetan hot-pot (Gyathuk) dining suggestion.",
+          "Overnight Stay: Darjeeling (The Elgin).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DEPARTURE FROM THE QUEEN OF THE HILLS",
+        "description": "Enjoy a relaxed morning breakfast overlooking the mist-filled valleys from the gardens of The Elgin. Your premium Darjeeling Sightseeing holiday draws to a close. Board your luxury private vehicle for a comfortable return transfer to Bagdogra Airport/NJP Railway Station, taking home unforgettable memories curated exclusively by your premier travel experts at TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Scenic Mirik Lake Route (Optional en-route stop).",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Elgin, Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "DELUXE: The Elgin, Darjeeling — Deluxe Heritage Room (03 Nights)",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Heritage Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin, Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "PREMIUM: The Elgin, Darjeeling — Luxury Heritage Suite (03 Nights)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Heritage Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin, Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "LUXURY: The Elgin, Darjeeling — Grand Executive Suite (03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Grand Executive Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin, Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "ULTRA LUXURY: The Elgin, Darjeeling — Royal Emperor Suite (03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Emperor Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury handpicked premium accommodations as per selected plan.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Professional English/Hindi speaking tour managers and destination experts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated luxury air-conditioned private transportation throughout the route.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All sightseeing entries, special permissions, and curated experiences.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive TRAGUIN 24/7 VIP desk support during the entire tour.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Refreshments, welcome amenities, and surprise local souvenirs.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or train bookings to and from the starting destination.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, premium telephone calls, bar bills, and tips.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure activities or specialized local guide upgrades not in the itinerary.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance policies and medical evacuation coverages.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

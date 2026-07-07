@@ -1,0 +1,269 @@
+{
+  "destination_slug": "puducherry",
+  "package": {
+    "slug": "py-002-romantic-puducherry-premium-honeymoon-package",
+    "serial_code": "PY-002",
+    "traguin_tour_code": "TG-PY-HON-002",
+    "title": "Romantic Puducherry Premium Honeymoon Package",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PY-002 | TRAGUIN tour code TG-PY-HON-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Puducherry, India | Category: Honeymoon / Romantic Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: White Town • Paradise Beach • Auroville • Promenade",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Honeymooners, Couples, Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Premium Chauffeur-Driven Air-Conditioned Sedan",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Breakfast & Curated Candlelight French-Continental Specialty Dinners",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Chennai / Puducherry Arrival → White Town Heritage Quarter → Paradise Beach → Auroville → Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Pre-reserved premium table settings at famous heritage cafes with curated taster menus.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom-tailored routing schedules to let you avoid peak midday crowds at top attractions.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Famous Souvenirs: Hand-rolled organic candles, Auroville aromatherapy essential oils, handmade leather items, and gourmet French cheese. Top Café Recommendations: Cafe Des Arts, Villa Shanti Restaurant, and Baker's Street for authentic French croissants.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Honeymoon",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "py-002-romantic-puducherry-premium-honeymoon-package-itinerary",
+    "title": "Romantic Puducherry Premium Honeymoon Package",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Romantic Puducherry Premium Honeymoon Package • 03 Nights / 04 Days",
+    "overview": "Escape to India's own French Riviera. The ultimate Puducherry Honeymoon Package, passionately curated by TRAGUIN, blends old-world French elegance, quiet cobblestone streets, and intimate coastal walks. Stroll past mustard-hued colonial villas, capture breathtaking landscapes, and relax in premium stays and handpicked hotels that whisper luxury and romance. Allow us to craft unforgettable memories for your new beginning through highly exclusive experiences and unparalleled personal hospitality.\n\nTOUR OVERVIEW\nTravel Mode: Private Premium Chauffeur-Driven Air-Conditioned Sedan\nMeal Plan: Breakfast & Curated Candlelight French-Continental Specialty Dinners\nRoute Plan: Chennai / Puducherry Arrival → White Town Heritage Quarter → Paradise Beach → Auroville → Departure\n\nCurated Note:\nThis premium luxury holiday includes customized room amenities, private beach ferry boat transfers, handpicked romantic café reservations, and 24/7 dedicated guest concierge support by TRAGUIN Experts.\n\nPuducherry shines beautifully as a coastal haven, making it a highly searched option for a Best Puducherry Tour Package or a romantic Puducherry Honeymoon Package. Brimming with vintage European charm, artistic cafes, and golden shores, it offers an absolute Premium Puducherry Experience for couples looking for luxury and culture.\n**White Town (French Quarter):** A postcard-perfect neighborhood with vibrant bougainvillea, pastel facades, and unique architectural design—the ultimate popular Instagram location for romance.\n**Paradise Beach:** An isolated shoreline with soft golden sands accessible by a scenic backwater boat ride, offering peaceful seclusion and scenic beauty.\n**Auroville Matrimandir:** A magnificent golden sphere representing harmony and soulfulness, offering deep, immersive experiences for newly married couples.\n**Best Time to Visit Puducherry:** The refreshing winter climate between October and March provides an ideal setting for romantic walks and comprehensive Puducherry Sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PY-002 | Romantic Puducherry Premium Honeymoon Package | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Puducherry honeymoon package (PY-002 / TG-PY-HON-002): White Town, Paradise Beach, Auroville, Promenade, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "White Town Heritage Quarter, Promenade Beach sunset, and Mahatma Gandhi Statue",
+        "sort_order": 1
+      },
+      {
+        "text": "Auroville Matrimandir Viewpoint, Auroville Beach, and Sri Aurobindo Ashram",
+        "sort_order": 2
+      },
+      {
+        "text": "Chunnambar Backwaters ferry cruise to Paradise Beach and vintage bicycle heritage tour",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private multi-course French-Continental candlelight dinner with artisanal cake setup",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium 4-tier handpicked romantic heritage accommodation in the French Quarter",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Puducherry – Charming White Town & Promenade Sunset",
+        "description": "Your romantic journey begins with a smooth drive from Chennai along the scenic East Coast Road. Arrive in Puducherry, where a TRAGUIN coordinator greets you warmly at your handpicked luxury heritage hotel. After checking in, spend a relaxed afternoon discovering the cobblestone lanes of White Town. Walk hand-in-hand past iconic attractions like the French Consulate and Raj Nivas, and watch a beautiful sunset along the beachfront Promenade.",
+        "activities": [
+          "Sightseeing Included: White Town Heritage Quarter, Promenade Beach, Mahatma Gandhi Statue",
+          "Welcome Amenities: Complimentary premium pastries, an artisanal chocolate hamper, and customized floral decor in-room.",
+          "Overnight Stay: Puducherry (French Quarter Luxury Heritage Suite)",
+          "Meals Included: Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Auroville Spiritual Trails & Private Candlelight Dinner",
+        "description": "Wake up to a classic French-style breakfast. Today, take a short drive to the experimental township of Auroville. Walk through the shaded green trails to reach the viewpoint facing the majestic golden Matrimandir. In the afternoon, explore artistic boutiques and organic cafes nearby. Return to your resort for a luxurious evening, culminating in a highly romantic private candlelight dinner organized exclusively for you.",
+        "activities": [
+          "Sightseeing Included: Auroville Matrimandir Viewpoint, Auroville Beach, Sri Aurobindo Ashram",
+          "Exclusive Experiences: Private multi-course French-Continental candlelight dinner with an artisanal cake setup.",
+          "Overnight Stay: Puducherry",
+          "Meals Included: Breakfast & Specialty Candlelight Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Paradise Beach Backwater Cruise & Soulful Cycling Tour",
+        "description": "Following a premium breakfast, your private chauffeur takes you to Chunnambar boat house. Board a private ferry boat cruise navigating the calm backwaters to reach the golden shores of Paradise Beach. Enjoy a peaceful afternoon on the sand. In the late afternoon, take a vintage-style guided bicycle tour through the Tamil and French quarters, capturing the unique architecture and local lifestyle.",
+        "activities": [
+          "Sightseeing Included: Chunnambar Backwaters, Paradise Beach, Sacred Heart Basilica, Cluny Embroidery Centre",
+          "Photography Points: Bougainvillea hanging over pastel-yellow walls along Rue Romain Rolland.",
+          "Overnight Stay: Puducherry",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Boutique Shopping, Café Insights & Departure with Forever Memories",
+        "description": "Savor a lazy morning breakfast. Enjoy some final-hour shopping for fine hand-made paper items, aromatic incense, and clay pottery at local boutiques. Take a quiet moment to sit in a French café before your private chauffeur transfers you back to Chennai. Your romantic Luxury Puducherry Holiday and unforgettable honeymoon package concludes here, leaving you with divine blessings and stories to cherish for a lifetime, proudly arranged by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Assistance: Airport or railway terminal drop assistance with priority luggage handling support."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Atithi / Ocean Spray Residency",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Atithi / Ocean Spray Residency (Standard Comfort Room)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Comfort Room",
+        "meal_plan": "Breakfast & Specialty Dinners",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Maison Perumal - CGH Earth / Gratitude Heritage",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Maison Perumal - CGH Earth / Gratitude Heritage (Premium Heritage Room)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Heritage Room",
+        "meal_plan": "Breakfast & Specialty Dinners",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Villa Shanti / La Villa Pondicherry",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Villa Shanti / La Villa Pondicherry (Luxury Heritage Room)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Room",
+        "meal_plan": "Breakfast & Specialty Dinners",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Palais de Mahé - CGH Earth / The Promenade Premium Ocean View Suite",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Palais de Mahé - CGH Earth / The Promenade Premium Ocean View Suite",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Ocean View Suite",
+        "meal_plan": "Breakfast & Specialty Dinners",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Handpicked heritage boutique accommodations with romantic accents.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast & gourmet multi-course dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "One highly exclusive private candlelight dining experience.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury AC Sedan for all transfers & premium sightseeing routes.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Ferry boat tickets for the Paradise Beach cruise.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary vintage guided bicycle heritage tour.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Continuous personalized assistance and on-ground TRAGUIN Support.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or inter-state train ticket charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument or camera entry tickets at sightseeing gates.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, phone billing, or premium alcoholic beverages.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional water sports, surfing lessons, or guide tips.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

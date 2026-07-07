@@ -1,0 +1,317 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-003-munnar-kochi-family",
+    "serial_code": "KL-003",
+    "traguin_tour_code": "TRAGUIN-MNNR-05",
+    "title": "Munnar • Kochi Family Getaway",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-003 | TRAGUIN tour code TRAGUIN-MNNR-05",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Premium Family Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kochi • Munnar • Kochi",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples, Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Innova Crysta",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Cochin International Airport → Kochi → Munnar (3 Nights) → Kochi (1 Night) → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, high-tea set up at an exclusive scenic viewpoint in Munnar",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by Experts: Fully customizable pacing, flexible timing, and multi-generational family-friendly",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Premium Luxury Holidays",
+        "sort_order": 11
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties holding excellent safety, premium culinary, and top-tier",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-003-munnar-kochi-family-itinerary",
+    "title": "Munnar • Kochi Family Getaway",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Munnar",
+    "overview": "Welcome to an enchanting world of emerald hill stations, misty mountains, and timeless colonial charm. Carefully structured for sophisticated travelers, this Best Kerala Tour Package delivers an immersive journey through the breathtaking landscapes of God's Own Country. From the historic spice ports of Kochi to the endless rolling tea estates of Munnar, every aspect of your holiday is curated to provide unforgettable memories. Experience a seamless fusion of natural scenic beauty, handpicked hotels, and customized local sightseeing designed exclusively for your family's ultimate comfort and relaxation.\n\nTOUR OVERVIEW\nThis exclusive family tour connects the historical coastal city of Kochi with the mist-laden peaks of Munnar. Travel in absolute luxury with a dedicated private vehicle, stay at the finest premium properties, and savor exquisite culinary spreads throughout your journey. Route: Cochin International Airport → Kochi → Munnar (3 Nights) → Kochi (1 Night) → Departure Meal Plan: Modified American Plan (Daily Premium Buffet Breakfast & Dinner) TRAGUIN Curated Experience Note: Your vacation features handpicked boutique resorts, private chauffeur-driven luxury transit, fast-track sightseeing entry clearances, and personalized multi- generational family activities meticulously arranged by TRAGUIN travel experts. TRAGUIN Premium Luxury Holidays Page 1\n\nWHY VISIT KERALA? – DESTINATION INSIGHTS & SEO HIGHLIGHTS\nKerala remains India's premier destination for luxury family vacations and romantic escapes. A Kerala Honeymoon Package or Kerala Family Tour opens up a world of rich cultural tapestry, refreshing mountain air, and unparalleled tranquility. Munnar, the crown jewel of Western Ghats, is globally renowned for its sweeping tea plantations, rare flora like the Neelakurinji, and cascading waterfalls, making it one of the most searched experiences in Asian tourism. Capture gorgeous family portraits at popular Instagram locations like the Lock Heart Gap, Mattupetty Dam, and the historical streets of Fort Kochi. Whether you seek soft adventure trekking at Eravikulam National Park, therapeutic Ayurvedic wellness sessions, or premium shopping for authentic spices and traditional handloom silk, this Premium Kerala Experience satisfies every travel desire perfectly. DAY WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-003 | Munnar | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kerala package (KL-003 / TRAGUIN-MNNR-05): Kochi • Munnar • Kochi with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: KOCHI TO MUNNAR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MUNNAR SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MUNNAR OFFBEAT EXPERIENCES",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MUNNAR TO KOCHI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: KOCHI DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, high-tea set up at an exclusive scenic viewpoint in Munnar",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by Experts: Fully customizable pacing, flexible timing, and multi-generational family-friendly",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Premium Luxury Holidays",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOCHI TO MUNNAR",
+        "description": "ARRIVE IN COCHIN & ASCEND TO THE MISTY HILLS OF MUNNAR Arrive at the Cochin International Airport where your professional TRAGUIN tour representative warmly welcomes you. Step into your private luxury vehicle and commence a highly scenic drive toward Munnar, the ultimate destination for a Luxury Kerala Holiday. As you ascend into the Western Ghats, the air transforms into a crisp, refreshing breeze, and the urban landscape gives way to endless canopies of green. En route, enjoy beautiful photography points at the majestic Cheeyappara and Valara Waterfalls, tumbling down rocky cliffs amidst lush forests. Pass through local spice villages where the aroma of fresh cardamom, pepper, and vanilla fills the air. Upon arrival in Munnar, complete a seamless check-in at your handpicked luxury resort. Spend the evening relaxing on your private balcony, taking in the breathtaking landscapes of the surrounding cloud-kissed mountains.",
+        "activities": [
+          "Sightseeing Included: Cheeyappara Waterfalls, Valara Waterfalls, Spice Plantation viewpoints.",
+          "Evening Experience: Leisurely resort walk, high tea overlooking valleys, and traditional welcome dinner.",
+          "Optional Activities: Traditional Ayurvedic rejuvenation massage at the resort spa.",
+          "Overnight Stay: Munnar (Premium/Luxury Resort)",
+          "Meals Included: Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MUNNAR SIGHTSEEING",
+        "description": "EXPLORING THE TEA EMPIRE & ICONIC ATTRACTIONS OF MUNNAR Wake up to a glorious mountain sunrise and enjoy a sumptuous buffet breakfast. Today is dedicated to comprehensive Munnar Sightseeing, discovering why this region is crowned among the top tourist places in Kerala. Drive first to the famous Eravikulam National Park (Rajamalai), the natural sanctuary of the TRAGUIN Premium Luxury Holidays Page 2 endangered Nilgiri Tahr. Ride the eco-friendly park transit up the slopes and enjoy a light trek enveloped in rolling mountain mist. Later, visit the Tata Tea Museum to understand the legacy of tea processing in the region, followed by an aromatic tea-tasting session. Continue to the scenic Mattupetty Dam and Lake, where your family can experience an exhilarating speed-boat cruise. Conclude your afternoon at Eco Point, famous for its natural acoustics, and the tranquil Kundala Lake, surrounded by towering pine trees. Return to your premium estate stay for an evening of luxury hospitality. Lake.",
+        "activities": [
+          "Sightseeing Included: Eravikulam National Park, Tata Tea Museum, Mattupetty Dam, Eco Point, Kundala",
+          "Evening Experience: Strolling through the old Munnar town market, sampling fresh local banana fritters.",
+          "Optional Activities: Speed boating at Mattupetty; Professional family photoshoot amidst tea gardens.",
+          "Overnight Stay: Munnar (Premium/Luxury Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MUNNAR OFFBEAT EXPERIENCES",
+        "description": "HIDDEN VALLEYS, DEEP GORGES & PANORAMIC VISTAS After a delicious breakfast, embark on an offbeat exploration designed for a true Premium Kerala Experience. Head towards the spectacular Lock Heart Gap, a vantage point offering sweeping views of emerald valleys, winding roads, and distant tribal hamlets. Walk together through neatly manicured tea pathways, learning the art of tea plucking from local estate workers. In the afternoon, visit the magnificent Blossom Hydel Park, featuring beautiful flower gardens, water paths, and soft adventure play zones for children. Next, head to the Pothamedu Viewpoint, which offers panoramic vistas of Munnar's vast tea, coffee, and cardamom plantations. As the sun sets, return to your luxury resort to enjoy a cozy campfire session arranged exclusively for your family. walks.",
+        "activities": [
+          "Sightseeing Included: Lock Heart Gap, Blossom Hydel Park, Pothamedu Viewpoint, Tea Estate interactive",
+          "Evening Experience: Exclusive family campfire with live acoustic music or traditional storytelling.",
+          "Optional Activities: Jeep Safari to Kolukkumalai (the world's highest tea estate) for sunset views.",
+          "Overnight Stay: Munnar (Premium/Luxury Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MUNNAR TO KOCHI",
+        "description": "TRAGUIN Premium Luxury Holidays Page 3 RETURN TO THE COLONIAL CHARM OF HERITAGE COCHIN Relish your final breakfast overlooking the misty valleys of Munnar before checking out. Descend smoothly back towards the coastal heritage plains of Kochi. Upon arrival, check into your premium city hotel or historical boutique property in Fort Cochin. Kochi, historically known as Cochin, is an architectural mosaic blending Portuguese, Dutch, British, and Malabar design elements. In the afternoon, set out for comprehensive Kochi Sightseeing. See the iconic Chinese Fishing Nets silhouetted against the Arabian Sea, visit the historic St. Francis Church (India's oldest European church), and explore the vibrant 400-year-old Jewish Synagogue in Jew Town. Wander along the ancient lanes of Mattancherry Palace (Dutch Palace) to admire its intricate, historic mythological murals. Palace.",
+        "activities": [
+          "Sightseeing Included: Fort Kochi Chinese Fishing Nets, St. Francis Church, Jewish Synagogue, Dutch",
+          "Evening Experience: Sunset harbor cruise observing the shipping channels, followed by a gourmet dinner.",
+          "Optional Activities: Attending an authentic evening Kathakali classical dance performance.",
+          "Overnight Stay: Kochi (Premium Business / Heritage Luxury Hotel)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KOCHI DEPARTURE",
+        "description": "SOUVENIR SHOPPING & FOND FAREWELLS Enjoy a leisurely morning breakfast at your hotel. Depending on your flight schedule, indulge in premium souvenir shopping around Kochi's upscale districts. Pick up vacuum-sealed organic spices, exotic tea blends, premium cashew nuts, and traditional Kerala handloom attire as mementos of your luxury holiday. At the designated hour, your private chauffeur will transfer your family seamlessly back to Cochin International Airport for your onward journey, concluding your magnificent vacation designed by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Jew Town shopping walk, Lulu Mall visit (optional based on flight timing).",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Leaf Munnar / Amber Dale | Trident Cochin / Radisson Blu",
+        "location": "Munnar | Cochin",
+        "nights_label": "3N Munnar|1N Kochi",
+        "description": "OPTION 01 – DELUXE: The Leaf Munnar / Amber Dale | Trident Cochin / Radisson Blu | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel / Fragrant Nature | Brunton Boatyard / Grand Hyatt Bolgatty",
+        "location": "Munnar | Cochin",
+        "nights_label": "3N Munnar|1N Kochi",
+        "description": "OPTION 02 – PREMIUM: Blanket Hotel / Fragrant Nature | Brunton Boatyard / Grand Hyatt Bolgatty | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandy's Windy Woods / Elixir Hills | Cochin Marriott / Taj Malabar Resort",
+        "location": "Munnar | Cochin",
+        "nights_label": "3N Munnar|1N Kochi",
+        "description": "OPTION 03 – LUXURY: Chandy's Windy Woods / Elixir Hills | Cochin Marriott / Taj Malabar Resort | Breakfast & Dinner (MAP)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Spice Tree / Windermere Estate | Taj Malabar Heritage / Grand Hyatt Presidential",
+        "location": "Munnar | Cochin",
+        "nights_label": "3N Munnar|1N Kochi",
+        "description": "OPTION 04 – ULTRA LUXURY: Spice Tree / Windermere Estate | Taj Malabar Heritage / Grand Hyatt Presidential | Premium Curated Meals (MAP)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Premium Curated Meals (MAP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Munnar.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "01 Night premium heritage/business accommodation in Kochi.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Daily buffet breakfasts and dinners prepared by master chefs.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Entire transit via private luxury AC Innova Crysta with a professional driver-guide.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary premium resort amenities, Wi-Fi, and recreational club access.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome non-alcoholic drinks and traditional floral garlanding on arrival.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable state tolls, parking fees, driver allowances, and fuel taxes.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 digital concierge support from your personal travel advisor.",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "Domestic or International Airfare / Train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and local guide charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities (Speed boating, Kathakali show, Jeep safaris).",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, mini-bar, telephone calls, and tips.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory Gala Dinner surcharges during Christmas or New Year's Eve.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal travel, medical, or baggage cancellation insurance.",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "Anything not explicitly mentioned in the detailed inclusions list.",
+        "sort_order": 15
+      }
+    ]
+  }
+}

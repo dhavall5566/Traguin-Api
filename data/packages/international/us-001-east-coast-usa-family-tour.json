@@ -1,0 +1,414 @@
+{
+  "destination_slug": "usa",
+  "package": {
+    "slug": "us-001-east-coast-usa-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "East Coast USA Family Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 79,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "New York (4N) → Washington D.C. (2N) → Niagara Falls (2N) premium circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Statue of Liberty, Empire State Building & Summit One Vanderbilt",
+        "sort_order": 2
+      },
+      {
+        "text": "Philadelphia heritage, Capitol Hill & Smithsonian museums",
+        "sort_order": 3
+      },
+      {
+        "text": "Maid of the Mist & Cave of the Winds at Niagara Falls",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-US-001-PREMIUM | Serial US-001",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural",
+      "Adventure",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "us-001-east-coast-usa-itinerary",
+    "title": "East Coast USA Family Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "New York • Philadelphia • Washington D.C. • Niagara Falls",
+    "overview": "Discover the iconic landmarks of America on this ultimate luxury East Coast holiday curated by TRAGUIN. From the sky-high towers of Manhattan and historic sites of Philadelphia to the political nerve centers of Washington D.C. and the majestic waters of Niagara Falls — with VIP skip-the-line access and private executive transfers throughout.",
+    "is_featured": true,
+    "featured_sort_order": 79,
+    "seo_title": "US-001 | East Coast USA Family Tour | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days USA East Coast family package (US-001): New York City, Philadelphia, Washington D.C., and Niagara Falls with VIP sightseeing.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Statue of Liberty & Empire State Building",
+        "sort_order": 1
+      },
+      {
+        "text": "Summit One Vanderbilt & Central Park",
+        "sort_order": 2
+      },
+      {
+        "text": "White House, Lincoln Memorial & Smithsonian",
+        "sort_order": 3
+      },
+      {
+        "text": "Maid of the Mist & Cave of the Winds",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrive in New York City",
+        "description": "Welcome to the energy capital of the world. Upon arrival at JFK or Newark, a TRAGUIN private chauffeur escorts you to your premium Manhattan hotel. Evening orientation walk through Times Square and a wonderful family dinner nearby.",
+        "activities": [
+          "Sightseeing Included: Manhattan airport arrival transfer, Times Square evening orientation walk",
+          "Overnight Stay: Handpicked Premium Hotel, Manhattan (New York City)",
+          "Meals Included: Welcome Drinks"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Statue of Liberty & Empire State Building",
+        "description": "Priority ferry to Liberty Island and Ellis Island. Drive past Wall Street, 9/11 Memorial, and SoHo. Ascend the Empire State Building 86th-floor observatory at dusk for breathtaking city views.",
+        "activities": [
+          "Sightseeing Included: Statue of Liberty & Ellis Island Ferry, Wall Street, Charging Bull, 9/11 Memorial, Empire State Building 86th Floor Observatory",
+          "Photography Points: Liberty Island shoreline, Empire State sky-views, DUMBO Brooklyn Bridge frame",
+          "Overnight Stay: Handpicked Premium Hotel, Manhattan (New York City)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Summit One Vanderbilt & Central Park",
+        "description": "Experience Summit One Vanderbilt's multi-sensory viewpoints. Afternoon stroll through Central Park, Bow Bridge, and Bethesda Fountain. Fifth Avenue premium window shopping and optional Broadway show.",
+        "activities": [
+          "Sightseeing Included: Summit One Vanderbilt Entry, Central Park Walking Tour, Fifth Avenue Premium Window Shopping",
+          "Optional Activities: Evening Broadway Premium Theater Show reservation",
+          "Overnight Stay: Handpicked Premium Hotel, Manhattan (New York City)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Philadelphia Heritage to Washington D.C.",
+        "description": "Private drive south with stops at the Liberty Bell, Independence Hall, and the Rocky Steps. Continue to Washington D.C. and enjoy an evening walk along the Georgetown waterfront.",
+        "activities": [
+          "Sightseeing Included: Philadelphia Historic District, Liberty Bell Center, Independence Hall, Washington D.C. overland transfer",
+          "Overnight Stay: Handpicked Premium Hotel, Washington D.C.",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Washington D.C. City Tour",
+        "description": "Photo stops at the White House, US Capitol, and Supreme Court. Visit the Lincoln Memorial, World War II Memorial, and Vietnam Veterans Memorial. Afternoon at the Smithsonian Institution.",
+        "activities": [
+          "Sightseeing Included: White House & Capitol Exterior Stops, Lincoln Memorial, Washington Monument, Smithsonian Museum Exploration",
+          "Photography Points: Capitol Hill Reflecting Pool, The White House gates, Lincoln Memorial stairs",
+          "Overnight Stay: Handpicked Premium Hotel, Washington D.C.",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Washington D.C. to Niagara Falls",
+        "description": "Transfer to Buffalo International Airport or enjoy a scenic overland drive. Check into your premium fallsview hotel and witness the illuminated falls in the evening.",
+        "activities": [
+          "Sightseeing Included: Airport transfers, Niagara Falls State Park evening illumination stroll",
+          "Evening Experience: Fine dining overlooking Horseshoe Falls",
+          "Overnight Stay: Premium Fallsview Hotel, Niagara Falls (USA Side)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Maid of the Mist & Cave of the Winds",
+        "description": "Board the Maid of the Mist to the base of Horseshoe Falls. Experience the Cave of the Winds walkway near Bridal Veil Falls. Afternoon boutique shopping or fashion outlets visit.",
+        "activities": [
+          "Sightseeing Included: Maid of the Mist Boat Cruise, Cave of the Winds Gorge Walk, Goat Island Overlooks",
+          "Exclusive Experiences: VIP front-deck boat cruise access, panoramic fallsview family lunch reservation",
+          "Overnight Stay: Premium Fallsview Hotel, Niagara Falls (USA Side)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Buffalo to New York City — Farewell Dinner",
+        "description": "Morning views of the mist rising off the falls. Flight back to New York City for your final evening. Farewell dinner at an upscale rooftop lounge overlooking the Manhattan skyline.",
+        "activities": [
+          "Sightseeing Included: Inter-city return transfers, evening skyline farewell dinner reservation",
+          "Overnight Stay: Handpicked Premium Hotel, Manhattan (New York City)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Departure",
+        "description": "Final premium breakfast before your private chauffeur transfer to the international airport, concluding your East Coast USA holiday.",
+        "activities": [
+          "Sightseeing Included: Private Luxury Airport Chauffeur Transfer",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Westin New York Times Square",
+        "location": "New York City",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Omni Shoreham Hotel",
+        "location": "Washington D.C.",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Sheraton Niagara Falls",
+        "location": "Niagara Falls",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "InterContinental New York Barclay",
+        "location": "New York City",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Mayflower Hotel, Autograph Collection",
+        "location": "Washington D.C.",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "DoubleTree by Hilton Niagara Falls",
+        "location": "Niagara Falls",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Essex House New York",
+        "location": "New York City",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Sofitel Washington DC Lafayette Square",
+        "location": "Washington D.C.",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Seneca Niagara Resort & Casino",
+        "location": "Niagara Falls",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "The Plaza New York / The Ritz-Carlton",
+        "location": "New York City",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis Washington D.C.",
+        "location": "Washington D.C.",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "The Giacomo, Luxury Boutique Hotel",
+        "location": "Niagara Falls",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "08 Nights in premium handpicked hotels across New York City, Washington D.C., and Niagara Falls",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive air-conditioned chauffeur-driven luxury vehicle throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium American / Continental breakfast at hotels",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "VIP skip-the-line entry: Empire State Building, Statue of Liberty ferry, Summit One Vanderbilt, Maid of the Mist",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Philadelphia heritage, Washington D.C. monuments, and Smithsonian museum access",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Signature welcome drinks and personalized TRAGUIN travel kit",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated executive destination manager support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International and internal domestic airfares unless stated",
+        "sort_order": 100
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, Broadway show entries, and specialized evening activities",
+        "sort_order": 101
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, telephone calls, and boutique purchases",
+        "sort_order": 102
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional helicopter rides or private boat charters",
+        "sort_order": 103
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive international travel and health insurance",
+        "sort_order": 104
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and newly introduced government surcharges",
+        "sort_order": 105
+      }
+    ]
+  }
+}

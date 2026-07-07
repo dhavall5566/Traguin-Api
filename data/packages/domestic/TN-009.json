@@ -1,0 +1,323 @@
+{
+  "destination_slug": "tamil-nadu",
+  "package": {
+    "slug": "tn-009-grand-tamil-nadu-heritage-hills-vacation",
+    "serial_code": "TN-009",
+    "traguin_tour_code": "TRAGUIN-TN-009",
+    "title": "Grand Tamil Nadu Heritage & Hills Vacation",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TN-009 | TRAGUIN tour code TRAGUIN-TN-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Tamil Nadu, India | Category: Family Vacation / Premium Heritage",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chennai • Mahabalipuram • Pondicherry • Tanjore • Madurai • Ooty",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Leisure Travelers & Heritage Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle Allocated: Private Air-Conditioned Luxury Innova Crysta (Chauffeur-Driven)",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Buffet Breakfast & Specially Curated Dinners)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Chennai → Mahabalipuram → Pondicherry → Tanjore → Madurai → Ooty → Coimbatore Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Every stop along this premium path has been vetted by our destination experts. Enjoy priority VIP entrances at historical sites, certified professional storytellers, handpicked luxury stays, and seamless logistical execution.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts for discerning families. Enjoy seamless execution with zero delays, direct contact with local artisan guilds, VIP temple entries, and unparalleled luxury throughout the diverse landscape.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Souvenirs: Kanchipuram & Madurai: Buy world-famous authentic hand-woven Kanchipuram silk sarees and Sungudi fabrics. Tanjore & Ooty: Pick up traditional gold-leaf paintings, bronze artifacts, Nilgiri organic tea varieties, and homemade chocolates.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Standard check-in is at 14:00 hrs and check-out at 11:00 hrs. Early arrival options are subject to availability. Dress Codes: Traditional modest attire is required for entry into major temples like Madurai Meenakshi Temple. Weather Notes: Please carry warm clothing or shawls for your evenings in Ooty and Coonoor, where temperatures decrease.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Hills"
+    ]
+  },
+  "itinerary": {
+    "slug": "tn-009-grand-tamil-nadu-heritage-hills-vacation-itinerary",
+    "title": "Grand Tamil Nadu Heritage & Hills Vacation",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Tamil Nadu Tour Package • Grand Tamil Nadu Heritage & Hills Vacation • 08 Nights / 09 Days",
+    "overview": "Welcome to a majestic realm where ancient history meets cloud-kissed mountain peaks. This exclusive, high-end itinerary curated beautifully by TRAGUIN takes your family on an unforgettable journey through time and nature. From the towering Dravidian gopurams of Madurai to the cool, colonial air of misty Ooty, prepare to live a truly premium travel experience filled with handpicked hotels, breathtaking landscapes, and immersive experiences.\n\nTOUR OVERVIEW\nVehicle Allocated: Private Air-Conditioned Luxury Innova Crysta (Chauffeur-Driven)\nMeal Plan: Modified American Plan (Buffet Breakfast & Specially Curated Dinners)\nRoute Map: Chennai → Mahabalipuram → Pondicherry → Tanjore → Madurai → Ooty → Coimbatore Departure\n\nTRAGUIN Curated Experience Note:\nEvery stop along this premium path has been vetted by our destination experts. Enjoy priority VIP entrances at historical sites, certified professional storytellers, handpicked luxury stays, and seamless logistical execution.\n\nTamil Nadu is a treasure trove of culture, home to majestic UNESCO World Heritage monuments, spiritual architecture, and serene hill stations. Whether you are seeking a grand Tamil Nadu Family Tour or a romantic Tamil Nadu Honeymoon Package, this state fulfills every travel dream with its unique diversity.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TN-009 | Grand Tamil Nadu Heritage & Hills Vacation | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days Tamil Nadu package (TN-009 / TRAGUIN-TN-009): Chennai, Mahabalipuram, Pondicherry, Tanjore, Madurai, Ooty heritage and hills tour with 4-tier accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Coastal ECR Drive, Shore Temple, Five Rathas, and French Quarter Promenade",
+        "sort_order": 1
+      },
+      {
+        "text": "Auroville Matrimandir Viewpoint, Sri Aurobindo Ashram, and Brihadeeswarar Temple UNESCO site",
+        "sort_order": 2
+      },
+      {
+        "text": "Meenakshi Amman Temple, Thousand Pillar Hall, and Nilgiri Mountain scenic drive to Ooty",
+        "sort_order": 3
+      },
+      {
+        "text": "Nilgiri Heritage Toy Train, Sims Park Coonoor, and Botanical Gardens",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience with private gold-leaf painting session and confirmed Nilgiri Toy Train tickets",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "CHENNAI TO MAHABALIPURAM",
+        "description": "Arrive at Chennai International Airport, where a dedicated TRAGUIN executive gives you a premium traditional welcome. Board your luxury vehicle and embark on a smooth scenic drive along the beautiful East Coast Road toward Mahabalipuram. Check into your ultra-premium beachside resort. Spend a relaxing evening watching the sunset over the Bay of Bengal.",
+        "activities": [
+          "Sightseeing Included: Scenic Coastal ECR Drive, Beachfront Relaxation.",
+          "Evening Experience: Private beachside high-tea organized exclusively by TRAGUIN experts.",
+          "Overnight Stay: Luxury Beach Resort, Mahabalipuram.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MAHABALIPURAM TO PONDICHERRY",
+        "description": "After an early gourmet breakfast, explore the iconic attractions of Mahabalipuram, starting with the magnificent rock-cut Shore Temple and the massive relief of Arjuna's Penance. Afterward, drive down to the charming coastal town of Pondicherry. Check into your heritage boutique hotel and spend the afternoon exploring the pristine, colorful French Quarter with its colonial architecture and quiet cafes.",
+        "activities": [
+          "Sightseeing Included: Shore Temple, Five Rathas, Arjuna's Penance, French Quarter Promenade.",
+          "Photography Points: The striking seaside view of Shore Temple and yellow colonial walls of White Town.",
+          "Overnight Stay: Handpicked Luxury Heritage Hotel, Pondicherry.",
+          "Meals Included: Full Breakfast & Curated French-Indian Fusion Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PONDICHERRY EXPLORATION",
+        "description": "Immerse yourself in spiritual peace with a morning visit to Auroville and the architectural marvel of the Matrimandir viewpoint. Spend your afternoon at the serene Sri Aurobindo Ashram. In the evening, enjoy a peaceful stroll down the famous Promenade Beach, feeling the crisp sea breeze.",
+        "activities": [
+          "Sightseeing Included: Auroville Matrimandir Viewpoint, Sri Aurobindo Ashram, Promenade Beach.",
+          "Food Suggestions: Taste freshly baked wood-fired pizzas and gourmet pastries at local French bistros.",
+          "Overnight Stay: Luxury Heritage Hotel, Pondicherry.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PONDICHERRY TO TANJORE",
+        "description": "Drive deeper into the cultural heartland of Tamil Nadu towards Tanjore (Thanjavur). Upon arrival, explore the majestic Brihadeeswarar Temple (The Big Temple), a UNESCO World Heritage site built by Raja Raja Chola I. Marvel at its breathtaking architecture and monolithic stone Nandi, which stands as a monumental symbol of ancient Indian engineering.",
+        "activities": [
+          "Sightseeing Included: Brihadeeswarar Temple, Thanjavur Royal Palace & Museum.",
+          "Local Experiences: Private demonstration of the authentic gold-leaf Tanjore Painting technique.",
+          "Overnight Stay: Premium Luxury Resort, Tanjore.",
+          "Meals Included: Breakfast & Traditional South Indian Royal Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "TANJORE TO MADURAI",
+        "description": "Depart for Madurai, one of the oldest continuously inhabited cities in the world. Check into your premium resort situated on the peaceful slopes of Pasumalai. In the evening, visit the historic Thirumalai Nayakkar Mahal to witness a spectacular sound and light show narrating the royal history of the region.",
+        "activities": [
+          "Sightseeing Included: Thirumalai Nayakkar Palace, Evening Cultural Light Show.",
+          "Overnight Stay: Premium Handpicked Resort, Madurai.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MADURAI SOULFUL EXPLORATION",
+        "description": "Begin your morning with a premium guided visit to the iconic Meenakshi Amman Temple. Beholding its massive intricately carved gopurams reaching toward the sky and explore the breathtaking Hall of a Thousand Pillars. Spend a relaxed afternoon exploring the historic markets of Madurai or relaxing at your luxury resort.",
+        "activities": [
+          "Sightseeing Included: Meenakshi Amman Temple, Thousand Pillar Hall, Gandhi Memorial Museum.",
+          "Food Suggestions: Try the famous local refreshing sweet beverage called Jigarthanda.",
+          "Overnight Stay: Premium Luxury Resort, Madurai.",
+          "Meals Included: Breakfast & Festive Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "MADURAI TO OOTY",
+        "description": "Leave the plains behind as your premium private vehicle begins a scenic climb up into the Nilgiri Hills. Pass through misty pine forests and sprawling tea gardens before arriving in beautiful Ooty. Check into your ultra-luxury colonial-style estate resort and unwind next to a cozy fireplace.",
+        "activities": [
+          "Sightseeing Included: Nilgiri Mountain Scenic Drive, Tea Garden Viewpoints.",
+          "Evening Experience: Premium tea-tasting experience overlooking the misty valleys.",
+          "Overnight Stay: Premium Colonial Estate / Luxury Resort, Ooty.",
+          "Meals Included: Breakfast & Warm Premium Dinner."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "OOTY & COONOOR SIGHTSEEING",
+        "description": "Enjoy a beautiful day exploring the best of Ooty and Coonoor. Board the historic UNESCO heritage Nilgiri Mountain Toy Train for a nostalgic, breathtaking ride down to Coonoor. Visit Sims Park and the spectacular Dolphin's Nose viewpoint before returning to Ooty to explore the lush Botanical Gardens.",
+        "activities": [
+          "Sightseeing Included: Ooty Botanical Gardens, Ooty Lake, Nilgiri Heritage Toy Train, Sims Park Coonoor.",
+          "Photography Points: Panoramic views of tea plantations from Dolphin's Nose.",
+          "Overnight Stay: Premium Colonial Estate, Ooty.",
+          "Meals Included: Breakfast & Farewell Grand Dinner."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "OOTY TO COIMBATORE DEPARTURE",
+        "description": "Enjoy a slow breakfast while looking out over the misty hills. Pack your bags with beautiful souvenirs and memorable moments. Drive down to Coimbatore International Airport for your flight back home, bringing an end to your flawless Premium Tamil Nadu Experience handled with care by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private Airport Drop-off at Coimbatore.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Chariot Beach Resort / Promenade Hotel Sterling Ooty Fern Hill",
+        "location": "Heritage Route • Ooty",
+        "nights_label": "08 Nights",
+        "description": "OPTION 01 – DELUXE: Chariot Beach Resort / Promenade Hotel (Heritage Route) • Sterling Ooty Fern Hill (Ooty) — MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Resort Temple Bay / Palais de Mahe / Savoy - IHCL SeleQtions",
+        "location": "Heritage Route • Ooty",
+        "nights_label": "08 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu Resort Temple Bay / Palais de Mahe (Heritage Route) • Savoy - IHCL SeleQtions (Ooty) — MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "InterContinental Chennai / Heritage Madurai / WelcomHeritage Savoy Hotel",
+        "location": "Heritage Route • Ooty",
+        "nights_label": "08 Nights",
+        "description": "OPTION 03 – LUXURY: InterContinental Chennai / Heritage Madurai (Heritage Route) • WelcomHeritage Savoy Hotel (Ooty) — MAPAI (Gourmet Meals)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Gourmet Meals)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace Chennai / Taj Pasumalai Madurai / The Tamara Ooty (Luxury Suite)",
+        "location": "Heritage Route • Ooty",
+        "nights_label": "08 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Leela Palace Chennai / Taj Pasumalai Madurai (Heritage Route) • The Tamara Ooty (Luxury Suite) — Luxury MAPAI Premium",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "Luxury MAPAI Premium",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 08 Nights stay in handpicked premium luxury hotels and heritage properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine breakfast spreads and curated gourmet dinners included.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Entire journey covered by a dedicated luxury air-conditioned Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 priority concierge assistance and certified regional guides.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private gold-leaf painting session in Tanjore and confirmed tickets for the Nilgiri Toy Train.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Premium arrival kit containing traditional stoles, organic refreshments, and wet tissues.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international airfare to Chennai and from Coimbatore.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Direct entry tickets to monuments or camera charges unless specified.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room service, or tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional adventure activities or vehicle extensions.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

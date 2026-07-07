@@ -1,0 +1,274 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-007-kamakhya-spiritual-pilgrimage-guwahati-hajo",
+    "serial_code": "AS-007",
+    "traguin_tour_code": "TG-AS-KAM-007",
+    "title": "TRAGUIN Premium Kamakhya Spiritual Tour Package — Divine Pilgrimage: Guwahati • Nilachal Hills • Hajo",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-007 | TRAGUIN tour code TG-AS-KAM-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Pilgrimage & Spiritual",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Nilachal Hills • Hajo",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Devotees, Families, Spiritual Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to April (Ambubachi period for special darshan)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Tailored Rates)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Premium Luxury AC SUV (Toyota Innova Crysta) | Meal Plan: MAPAI — elaborate breakfasts and gourmet dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati ➔ Nilachal Hills Inner Sanctum ➔ Hajo ➔ Brahmaputra Confluence ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Skip crowded queues with meticulously mapped morning entry schedules.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Hand-vetted transport partners for safe, reliable city driving.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Verified index of spiritual souvenir shops and authentic handloom centers.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Fancy Bazar & Pan Bazar bell-metal artifacts, Muga and Pat silk sarees from state emporiums.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Conservative dress at Kamakhya; vehicle restricted past 10 PM; book festivals 30-45 days ahead.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Cultural",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-007-kamakhya-spiritual-pilgrimage-guwahati-hajo-itinerary",
+    "title": "TRAGUIN Premium Kamakhya Spiritual Tour Package — Divine Pilgrimage: Guwahati • Nilachal Hills • Hajo",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Tailored Rates)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kamakhya Spiritual Pilgrimage • Guwahati • Hajo • 03 Nights / 04 Days",
+    "overview": "Embark on a sacred odyssey into the spiritual epicenter of the Northeast with VIP connectivity and luxurious boutique comfort.\n\nTOUR OVERVIEW\\nKamakhya Spiritual Tour by TRAGUIN bridges historical antiquity with premium stays. Route: Guwahati ➔ Nilachal Hills ➔ Hajo ➔ Brahmaputra Confluence ➔ Departure.\n\nTHE ESSENCE OF ASSAM SIGHTSEEING\\nKamakhya Temple Shakti worship, Umananda Peacock Island, Hajo interfaith confluence, and luxury private river decks at sunset.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-007 | Kamakhya Spiritual Pilgrimage Guwahati | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Kamakhya spiritual package (AS-007 / TG-AS-KAM-007): VIP darshan, Hajo pilgrimage, Umananda cruise, 4-tier Guwahati hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Guwahati arrival with Vashistha Ashram and Brahmaputra Riverfront Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Priority Kamakhya Temple darshan and Sukreswar Temple Arati Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Hajo pilgrimage and private Brahmaputra cruise to Umananda Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Sacred souvenirs and departure Day 04",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI | WELCOME TO THE SACRED VALLEY",
+        "description": "Sacred journey begins at Guwahati airport with traditional Assamese gamosas. Late afternoon visit serene Vashistha Ashram and sunset stroll along the Brahmaputra Riverfront.",
+        "activities": [
+          "Sightseeing Included: Vashistha Ashram, Brahmaputra Riverfront.",
+          "Evening Experience: Relaxing evening briefing over premium local tea.",
+          "Overnight Stay: Handpicked Luxury Hotel in Guwahati.",
+          "Meals Included: Welcome Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DIVINE DARSHAN | INNER SANCTUM OF MAA KAMAKHYA TEMPLE",
+        "description": "Priority entry sequence for Maa Kamakhya Temple inner sanctum with Dasa Mahavidyas shrines. Evening Sukreswar Temple traditional Arati on the river banks.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple (Main Darshan), Sukreswar Temple Arati.",
+          "Optional Activities: Personal consultation with temple pandits for family rituals.",
+          "Overnight Stay: Handpicked Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HAJO PILGRIMAGE & PRIVATE SUNSET RIVER CRUISE",
+        "description": "Visit historic Hajo and Hayagriva Madhava Temple. Private premium charter cruise to Umananda Temple on Peacock Island at golden hour.",
+        "activities": [
+          "Sightseeing Included: Hajo Temples, Umananda Island Temple, Private River Cruise.",
+          "Photography Points: Mid-river shots of the Guwahati skyline at golden hour.",
+          "Overnight Stay: Handpicked Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Farewell Gala Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SACRED SOUVENIRS & DEPARTURE",
+        "description": "Relaxed breakfast and spiritual keepsakes shopping before graceful airport transfer concluding your TRAGUIN spiritual getaway.",
+        "activities": [
+          "Sightseeing Included: Local shopping markets route.",
+          "Meals Included: Lavish Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Grand Majesty / Kiranshree Portico",
+        "location": "Guwahati (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Grand Majesty / Kiranshree Portico (Guwahati, 3 Nights) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Guwahati GS Road",
+        "location": "Guwahati (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Guwahati GS Road (Guwahati, 3 Nights) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Hotel Guwahati",
+        "location": "Guwahati (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Radisson Blu Hotel Guwahati Deluxe Lake View (Guwahati, 3 Nights) | Gourmet MAP Plan",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Lake View",
+        "meal_plan": "Gourmet MAP Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Guwahati (Taj Group)",
+        "location": "Guwahati (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Vivanta Guwahati Taj Group Premium Suite (Guwahati, 3 Nights) | Bespoke Dining Privileges",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Suite",
+        "meal_plan": "Bespoke Dining Privileges",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 3 Nights accommodation at the finest handpicked hotels based on your preferred tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: All transfers and local sightseeing via a private air-conditioned Toyota Innova Crysta.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine buffet breakfasts and premium dinners at your hotel.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: Personalized airport arrival handling and dedicated TRAGUIN support.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All current fuel costs, toll prices, parking fees, and government service taxes.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Assamese traditional welcome scarves, fresh fruit platters, and premium bottled water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: A scenic private boat cruise to the Umananda river island.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights: Main airline or train transport ticketing to and from Guwahati.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry Tickets: Camera fees, special quick darshan ticket costs, and internal temple donation offerings.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry service, telephone usage bills, and individual hotel room minibar consumptions.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Activities: Any additional unlisted local boat hires or individual tour options.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Travel medical or cancellation insurance policies.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

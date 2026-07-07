@@ -1,0 +1,294 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-009-statue-of-unity-gir-safari-express",
+    "serial_code": "GJ-009",
+    "traguin_tour_code": "TRAGUIN-GJ-009",
+    "title": "Statue of Unity & Gir Safari Express",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-009 | TRAGUIN tour code TRAGUIN-GJ-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Family Vacation / Luxury Wildlife",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Statue of Unity • Sasan Gir National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Photographers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Family Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Innova Crysta / Premium Chauffeur Driven Sedan",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (All Daily Premium Breakfasts & Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vadodara Arrival → Kevadia (Statue of Unity) → Sasan Gir National Park → Rajkot / Diu Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by our leading travel planners, this itinerary balances luxury transportation and handpicked hotels with flawless seamless execution. Experience stress-free wildlife bookings, express entry management at global heritage monuments, and localized insider dining recommendations for an extraordinary holiday.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Purchase handlooms and authentic local handicrafts collected from diverse tribal communities across India. •",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Sasan Gir forest safaris are regulated by government authorities and require mandatory permit slot bookings up to 30–45 days in advance. Hotel Policies: Standard check-in time across luxury resorts is 14:00 hrs and check-out is 11:00 hrs. Weather & Safety: Morning safaris can be crisp and chilly; carrying a light jacket or windcheater is highly recommended for complete family comfort.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Wildlife",
+      "Heritage",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-009-statue-of-unity-gir-safari-express-itinerary",
+    "title": "Statue of Unity & Gir Safari Express",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Statue of Unity & Gir Safari Express • Monuments & Majestic Lions",
+    "overview": "Gujarat stands as one of India's most dynamic and sought-after luxury travel destinations, making the Best Gujarat Tour Package an exceptional choice for travelers worldwide. Whether you are seeking an adventurous Gujarat Family Tour or a beautifully romantic Gujarat Honeymoon Package, this state pairs rich cultural history with breathtaking landscapes. From exploring iconic attractions like the world-record-breaking Statue of Unity to taking part in highly searched wildlife experiences inside Sasan Gir, our Luxury Gujarat Holiday brings you unparalleled comfort. Discover popular Instagram locations including the vibrant Laser Light and Sound show at Kevadia and capture majestic shots of wild lions in their natural habitat. With premium handpicked hotels and exclusive curated tours, our TRAGUIN Gujarat Packages are tailored to redefine your next vacation.\n\nTRAGUIN Curated Touch: This custom luxury holiday ensures priority access tickets to the Statue of Unity, guaranteed booking slots for an authentic Gir Safari, handpicked luxury jungle resorts, and dedicated concierge travel assistance throughout.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-009 | Statue of Unity & Gir Safari Express | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Gujarat package (GJ-009 / TRAGUIN-GJ-009): Laser Light Show, Statue of Unity Viewing Gallery, Unity Glow Garden, Gir jungle safari, Devalia Safari Park, and 4-tier hotels",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Route to Kevadia, Evening Laser Light and Sound Show.",
+        "sort_order": 1
+      },
+      {
+        "text": "Statue of Unity Monument, Viewing Gallery, Valley of Flowers, Unity Glow Garden.",
+        "sort_order": 2
+      },
+      {
+        "text": "Inter-city scenic transfer, Nature orientation walkthrough.",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by our leading travel planners, this itinerary balances luxury transportation and handpicked hotels with flawless seamless execution. Experience stress-free wildlife bookings, express entry management at global heritage monuments, and localized insider dining recommendations for an extraordinary holiday.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury hotels and seamless ground logistics",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VADODARA ARRIVAL TO KEVADIA (STATUE OF UNITY)",
+        "description": "Arrive at Vadodara Airport or Railway Station, where your elite, professional TRAGUIN chauffeur greets you with premium welcome amenities. Board your private luxury air-conditioned vehicle for a smooth, scenic drive to Kevadia, the home of the monumental Statue of Unity. Check-in to your handpicked luxury tented resort or premium hotel. In the late afternoon, witness the epic, emotionally moving Laser Light and Sound Show, which projects the inspiring history of Sardar Vallabhbhai Patel onto the massive 182-meter sculpture.",
+        "activities": [
+          "Sightseeing Included: Scenic Route to Kevadia, Evening Laser Light and Sound Show.",
+          "Evening Experience: Walk down the illuminated pathways of the Narmada riverbank.",
+          "Overnight Stay: Premium Luxury Tented Resort / Hotel, Kevadia.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "STATUE OF UNITY SIGHTSEEING",
+        "description": "Indulge in a premium buffet breakfast before diving into a comprehensive day of exploration. Benefit from priority skip-the-line express tickets to access the Statue of Unity Viewing Gallery, located at an astonishing 153 meters inside the chest of the statue, offering breathtaking panoramic views of the Narmada River and Vindhyachal mountain ranges. Later, enjoy a tranquil stroll through the exotic Valley of Flowers and explore the mesmerizing Unity Glow Garden, an architectural park adorned with illuminated structural installations.",
+        "activities": [
+          "Sightseeing Included: Statue of Unity Monument, Viewing Gallery, Valley of Flowers, Unity Glow Garden.",
+          "Photography Points: The towering monument facade and the sparkling lights of the Glow Garden.",
+          "Overnight Stay: Premium Luxury Tented Resort / Hotel, Kevadia.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KEVADIA TO SASAN GIR NATIONAL PARK",
+        "description": "Bid farewell to Kevadia after breakfast as your premium vehicle begins a comfortable cross-state transit to the globally acclaimed Sasan Gir National Park, the sole home of the magnificent wild Asiatic Lions. The journey unfolds through charming rural landscapes and vast agricultural tracts. Reach Sasan Gir by afternoon and check-in to an ultra-luxury jungle lodge. Unwind amidst nature, enjoy an evening cultural folk dance around a bonfire, or listen to wildlife orientation stories curated by expert naturalists.",
+        "activities": [
+          "Sightseeing Included: Inter-city scenic transfer, Nature orientation walkthrough.",
+          "Evening Experience: Authentic local folk performance at the premium resort premises.",
+          "Overnight Stay: Handpicked Luxury Wilderness Resort, Sasan Gir.",
+          "Meals Included: Full Breakfast & Organic Farm-to-Table Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SASAN GIR WILDLIFE JUNGLE SAFARI",
+        "description": "An unforgettable highlight awaits you. Wake up early for an exclusive open-top 4x4 Gypsy Gir Jungle Safari. As the golden morning rays filter through the dry deciduous forest, keep your cameras primed to spot the king of the jungle—the Asiatic Lion—alongside leopards, spotted deer, sambar, and rare bird species. Return to the resort for a late breakfast and relaxation by the luxury pool. In the afternoon, visit the Devalia Safari Park or explore a local organic mango orchard to experience authentic rural village hospitality.",
+        "activities": [
+          "Sightseeing Included: Open 4x4 Gir National Park Safari, Devalia Interpretation Zone.",
+          "Optional Activities: Guided bird watching trek along the Hiran River.",
+          "Overnight Stay: Handpicked Luxury Wilderness Resort, Sasan Gir.",
+          "Meals Included: Full Breakfast & Farewell Theme Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SASAN GIR TO RAJKOT / DIU DEPARTURE",
+        "description": "Enjoy a leisurely breakfast at your wilderness lodge, taking in the serene forest sounds one last time. Pack your bags as your luxury vehicle arrives to escort you comfortably to Rajkot Airport / Station or nearby Diu Airport for your onward flight home. Your premium holiday concludes with endless tales of iconic attractions and wild adventures.",
+        "activities": [
+          "Transfers Included: Private Airport/Station Drop-off.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Tent City 2, Kevadia / Gir Birding Lodge",
+        "location": "Kevadia / Sasan Gir",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Tent / Forest Cottage",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Sardar Sarovar Resort / Lords Resorts Sasan Gir",
+        "location": "Kevadia / Sasan Gir",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room / Premium Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Statue of Unity Tent City 1 (Luxury AC Tent) / The Fern Gir Forest Resort",
+        "location": "Kevadia / Sasan Gir",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury AC Tent / Club Villa",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Amantara Resort / Ramada Encore Kevadia / Woods at Sasan (Luxury Studio Villa)",
+        "location": "Kevadia / Sasan Gir",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Studio Villa",
+        "meal_plan": "MAPAI + Safari High Tea",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 04 Nights stay at handpicked premium luxury properties and tented villages.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 04 Premium buffet breakfasts and 04 curated gourmet multi-cuisine dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All city-to-city transfers and sightseeings in a private luxury Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 dedicated on-call concierge and expert destination specialist coordination.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All applicable luxury resort taxes, toll fees, parking fees, and driver allowances.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized travel kit containing traditional stoles, organic snacks, and bottled mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Confirmed access passes to the unique Laser Light Show and Unity Glow Garden.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or main-line train tickets to Vadodara / from Rajkot.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory Government Forest Safari permit fees or camera tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as telephone calls, laundry, alcoholic beverages, and personal tips.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities or vehicle detours outside the planned itinerary sequence.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal medical insurance or emergency expenses.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "destination_slug": "andaman-and-nicobar",
+  "package": {
+    "slug": "an-008-ladies-island-tour",
+    "serial_code": "AN-008",
+    "traguin_tour_code": "TRG-AND-008",
+    "title": "Ladies Island Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AN-008 | TRAGUIN tour code TRG-AND-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andaman & Nicobar Islands, India | Category: Female-Only / Ladies Island Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Port Blair (2N) • Havelock Island (2N) • Neil Island (1N)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Solo Women Travelers, Girlfriends Getaways & Female Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Bespoke Package)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle & Meals: Private Luxury AC Vehicle / CP Plus (Daily Gourmet Breakfast)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Port Blair (2N) → Havelock Island (2N) → Neil Island (1N) → Port Blair → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, secured beach side yoga and meditation circles designed exclusively for our ladies' cohort.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Direct priority booking parameters for private luxury cruises to eliminate long boarding queues.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Elite, vetted local drivers and safety marshals specialized in hosting premium female groups.",
+        "sort_order": 11
+      },
+      {
+        "text": "Exclusive Recommendations: Pre-arranged table reservations at the most highly rated hidden beachside cafes and live music lounges.",
+        "sort_order": 12
+      },
+      {
+        "text": "Shopping & Local Experiences: Local Markets & Souvenirs: Authentic ocean pearls, beautifully polished coconut shell lamps, and rich wooden curios. Aberdeen Bazar in Port Blair is an exceptional place for unique sea-shell curios. Instagram Spots: Leaning palms of Radhanagar Beach and chic cafes of Havelock Island.",
+        "sort_order": 13
+      },
+      {
+        "text": "Important Notes: Weather Considerations: Light cotton garments, sunscreen, hats, and reliable anti-slip beach footwear are highly advised. Ferry Operations: Cruise timings are subject to weather elements—in the rare event of ferry cancellation, TRAGUIN provides instant alternate arrangements. Advance Booking: Advanced booking of 45-60 days is highly recommended for luxury categories.",
+        "sort_order": 14
+      }
+    ],
+    "moods": [
+      "Women",
+      "Luxury",
+      "Beach",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "an-008-ladies-island-tour-itinerary",
+    "title": "Ladies Island Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Bespoke Package)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ladies Island Tour • Tropical Luxury for the Modern Woman • 05 Nights / 06 Days",
+    "overview": "Welcome to an extraordinary tropical getaway crafted exclusively for women, proudly presented by TRAGUIN. This bespoke Ladies Getaway is conceptualized for those who seek to lose themselves in breathtaking landscapes, absolute security, and matchless island indulgence.\n\nTOUR OVERVIEW\nThis meticulously planned Female-Only itinerary presents the gold standard of island hospitality. From the moment you touch down in Port Blair, your safety, luxury, and peace of mind are managed entirely by our dedicated team. With a dedicated TRAGUIN curated experience note, you will enjoy unique touches like exclusive ladies-only beach side yoga sessions and private photography assistants.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AN-008 | Ladies Island Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Ladies Island Tour (AN-008 / TRG-AND-008): Port Blair, Havelock Radhanagar Beach, Elephant Beach snorkeling, Neil Island Natural Bridge, and 4-tier handpicked accommodation for female travelers.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Cellular Jail National Memorial, Corbyn's Cove Beach, and Historic Sound & Light Show",
+        "sort_order": 1
+      },
+      {
+        "text": "Premium cruise transfer and Radhanagar Beach sunset exploration",
+        "sort_order": 2
+      },
+      {
+        "text": "Elephant Beach speedboat cruise and coral reef snorkeling session",
+        "sort_order": 3
+      },
+      {
+        "text": "Natural Rock Bridge formation, Laxmanpur Beach Sunset, and Bharatpur Beach",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, secured beach side yoga and meditation circles for ladies' cohort",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PORT BLAIR — WELCOME TO THE EMERALD ISLANDS",
+        "description": "Your premium Andaman experience officially begins at Port Blair Airport, where our professional female-friendly representative welcomes you with custom floral garlands. Transfer smoothly in a private luxury AC coach to your handpicked premium stay. In the afternoon, visit the historic Cellular Jail, followed by a spectacular private sunset view at Corbyn's Cove Beach. Conclude the day with a VIP seat at the legendary Sound and Light Show.",
+        "activities": [
+          "Sightseeing Included: Cellular Jail National Memorial, Corbyn's Cove Beach, Historic Sound & Light Show.",
+          "Evening Experience: An elegant welcome dinner at a premium seaside deck curated by TRAGUIN experts.",
+          "Overnight Stay: Port Blair (Premium Ocean-View Hotel)",
+          "Meals Included: Welcome Drink & Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "PORT BLAIR TO HAVELOCK ISLAND — SAILING TO PARADISE",
+        "description": "Board a high-speed luxury private cruise (Nautika/Makruzz) in the premium class cabin towards Havelock Island. Upon arrival, check into an ultra-luxury beachfront resort. Late afternoon is reserved for Radhanagar Beach, a breathtaking landscape of smooth white sands and pristine blue surf.",
+        "activities": [
+          "Sightseeing Included: Premium Cruise Transfer, Radhanagar Beach (Beach No. 7) sunset exploration.",
+          "Optional Activities: Professional beachside sunset group photoshoot with a dedicated stylist.",
+          "Overnight Stay: Havelock Island (Luxury Beachfront Villa Stay)",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HAVELOCK ISLAND — UNDERWATER IMMERSION & CORAL GARDENS",
+        "description": "An exhilarating day awaits at Elephant Beach, reached via a short, scenic speed-boat ride. Enjoy a complimentary session of snorkeling or try an optional sea-walk experience to walk amongst exotic tropical fish. Spend your afternoon relaxing at a premium beachside cafe.",
+        "activities": [
+          "Sightseeing Included: Elephant Beach Speedboat Cruise, Coral Reef Snorkeling Session.",
+          "Immersive Experiences: Guided marine interaction explaining the local coral restoration programs.",
+          "Overnight Stay: Havelock Island (Luxury Beachfront Villa Stay)",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "HAVELOCK TO NEIL ISLAND — SERENITY & THE NATURAL BRIDGE",
+        "description": "Take an early afternoon cruise to the quaint, idyllic paradise of Neil Island. Explore the unique Natural Coral Bridge, a magnificent geological marvel formed by ancient dead corals. Later, visit Laxmanpur Beach to watch the horizon turn into brilliant shades of amber and rose.",
+        "activities": [
+          "Sightseeing Included: Natural Rock Bridge formation, Laxmanpur Beach Sunset, Bharatpur Beach.",
+          "Evening Experience: Private beachside stargazing and storytelling circle with signature Mocktails.",
+          "Overnight Stay: Neil Island (Premium Luxury Boutique Resort)",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "NEIL ISLAND TO PORT BLAIR — RETURN CRUISE & SOUVENIR SHOPPING",
+        "description": "Catch a morning private cruise back to Port Blair. After checking back into your luxury city property, explore local culture and premium handicraft centers. Spend your afternoon selecting authentic shell jewelry, premium pearl items, and hand-carved padauk wood artifacts at Sagarika Government Emporium.",
+        "activities": [
+          "Sightseeing Included: Sagarika Emporium, Local Spice plantations (optional), Anthropological Museum.",
+          "Optional Activities: A fine-dining dinner experience overlooking the harbor waters.",
+          "Overnight Stay: Port Blair (Premium Ocean-View Hotel)",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "PORT BLAIR — DEPARTURE",
+        "description": "Indulge in your final lavish breakfast overlooking the tropical ocean. Your private luxury transport will pick you up and safely drop you to Port Blair Airport for your flight back home.",
+        "activities": [
+          "Transfers Included: Private luxury airport transfer with assistance.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Sentinel / Peerless Resort",
+        "location": "Port Blair",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Sentinel / Peerless Resort (Port Blair, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Symphony Palms Beach Resort",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – DELUXE: Symphony Palms Beach Resort (Havelock Island, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Summer Sands Beach Resort",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 03 – DELUXE: Summer Sands Beach Resort (Neil Island, 01 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "SeaShell Port Blair / similar",
+        "location": "Port Blair",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – PREMIUM: SeaShell Port Blair / similar (Port Blair, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Havelock Island Beach Resort",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 05 – PREMIUM: Havelock Island Beach Resort (Havelock Island, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "SeaShell Neil Island / similar",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 06 – PREMIUM: SeaShell Neil Island / similar (Neil Island, 01 Night)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC Bay Island",
+        "location": "Port Blair",
+        "nights_label": "02 Nights",
+        "description": "OPTION 07 – LUXURY: Welcomhotel by ITC Bay Island (Port Blair, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Barefoot at Havelock / SeaShell",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 08 – LUXURY: Barefoot at Havelock / SeaShell (Havelock Island, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Silver Sand Beach Resort",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 09 – LUXURY: Silver Sand Beach Resort (Neil Island, 01 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Symphony Samudra (Pool Villa)",
+        "location": "Port Blair",
+        "nights_label": "02 Nights",
+        "description": "OPTION 10 – ULTRA LUXURY: Symphony Samudra (Pool Villa) (Port Blair, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Pool Villa",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Exotica Resort & Spa, Andamans",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 11 – ULTRA LUXURY: Taj Exotica Resort & Spa, Andamans (Havelock Island, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Villa",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Tilar Siro Neil Island (CGH Earth)",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 12 – ULTRA LUXURY: Tilar Siro Neil Island (CGH Earth) (Neil Island, 01 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "CP Plus (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Standard/Villa options across handpicked beachfront hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private Cruise Tickets: High-speed luxury cruise transfers in Premium Class.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury vehicle for transfers & sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Dedicated female guest assistance manager and 24/7 helpline.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized travel kit, floral welcome, and island maps.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: One special introductory snorkeling session at Elephant Beach.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic/International airfare to Port Blair.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional water sports (Scuba Diving, Sea Walking, Jet Skiing).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as bar bills, phone calls, laundry, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any additional meals or beverages not stated under the meal plan.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

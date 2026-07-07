@@ -1,0 +1,274 @@
+{
+  "destination_slug": "lakshadweep",
+  "package": {
+    "slug": "lk-009-premium-luxury-holiday",
+    "serial_code": "LK-009",
+    "traguin_tour_code": "TG-LK-PREM-009",
+    "title": "Premium Luxury Holiday",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LK-009 | TRAGUIN tour code TG-LK-PREM-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Lakshadweep, India | Category: Premium Lakshadweep Luxury Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Agatti Island • Bangaram Atoll • Thinnakara • Kalpitti Coral Island",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Discerning Couples, Honeymooners, Luxury Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Dedicated Luxury Speedboats & Chartered Island Transits",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: All-Inclusive Royal Island Gastronomy (Breakfast, Lunch, High Tea, and Beachfront BBQs)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Agatti Airport Arrival → Bangaram Lagoon Resort → Thinnakara Island Excursion → Kalpitti Cruise → Agatti Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A private, fully catered sandbank lunch setup far away from other travelers, complete with a dedicated server",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Agatti Local Markets — cold-pressed virgin coconut oil, handcrafted shell decor items, traditionally dried tuna sticks (Maas Min); Instagram Spots — sweeping palm bent over the water at Agatti's southern coastline and uninhabited sandbanks of Kalpitti at twilight",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Flights and permits should be finalized 60–90 days ahead; touching, breaking, or removing coral and shells is strictly prohibited; network connectivity is minimal (BSNL/Airtel function best)",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon",
+      "Premium"
+    ]
+  },
+  "itinerary": {
+    "slug": "lk-009-premium-luxury-holiday-itinerary",
+    "title": "Premium Luxury Holiday",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "TRAGUIN Premium Lakshadweep Luxury Holiday • Agatti Island • Bangaram Island • Thinnakara • Private Island Expeditions • 06 Nights / 07 Days",
+    "overview": "Welcome to an extraordinary paradise on earth, where absolute seclusion meets untamed tropical ocean splendor. This highly refined Premium Lakshadweep Experience meticulously crafted by TRAGUIN is an exclusive gateway to endless sapphire horizons, curated experiences, and absolute comfort. Immerse yourself in the breathtaking landscapes of deep-sea lagoons, indulge in private luxury speedboat charters, and gather unforgettable memories in premium stays across handpicked hotels designed to deliver the pinnacle of island hospitality.\n\nTravel Mode: Private Dedicated Luxury Speedboats & Chartered Island Transits. Meal Plan: All-Inclusive Royal Island Gastronomy (Breakfast, Lunch, High Tea, and Beachfront BBQs). Route Plan: Agatti Airport Arrival → Bangaram Lagoon Resort → Thinnakara Island Excursion → Kalpitti Cruise → Agatti Departure. This ultra-premium holiday by TRAGUIN features completely pre-vetted entry documentation, priority government e-permits, premium luggage handling, and dedicated private marine naturalists.\n\nThe pristine sands of Lakshadweep host India's most brilliant multi-tonal ocean reefs. Bangaram Island Atoll is a stunning, uninhabited tropical sanctuary enveloped by a sprawling 10-kilometer lagoon area. Thinnakara Sandspits are teardrop sand islands extending directly into shallow marine beds. Top Tourist Places in Lakshadweep include the coral fields of Agatti, Bangaram's marine conservation centers, and Kalpitti's sunset cliffs. The Best Time to Visit Lakshadweep is the sunny and calm months from October until May.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LK-009 | Premium Luxury Holiday | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Lakshadweep luxury package (LK-009 / TG-LK-PREM-009): Bangaram coral safari, Thinnakara lagoon picnic, Kalpitti sunset cliffs, and 2-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Private premium speedboat charter from Agatti to Bangaram Royal Resort with welcome cocktail event",
+        "sort_order": 1
+      },
+      {
+        "text": "Private coral safari and sunken shipwreck snorkeling with marine naturalist at Bangaram Outer Reef",
+        "sort_order": 2
+      },
+      {
+        "text": "Luxury speed-yacht excursion to Thinnakara with exclusive lagoon picnic and beachfront BBQ dinner",
+        "sort_order": 3
+      },
+      {
+        "text": "Deep lagoon glass kayaking and stunning bioluminescent evening with professional photographer session",
+        "sort_order": 4
+      },
+      {
+        "text": "Kalpitti Island uninhabited sunset cliffs excursion with premium high-tea picnic on sandbanks",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Agatti – Speedboat Chop to Bangaram Royal Resort",
+        "description": "Your luxury escape begins as you fly over surreal rings of sand and turquoise waters before landing at the iconic Agatti Airport runway. Your private TRAGUIN island manager greets you with iced coconut water and manages your baggage transfers seamlessly. Board an exclusive private premium speedboat charter, cutting across deep channels directly to the pristine shores of Bangaram Island Resort. Check into your premium air-conditioned beachfront villa, step onto powder-soft sand, and look out over a spectacular golden sunset.",
+        "activities": [
+          "Sightseeing Included: Agatti Deep Sea Channel Transit, Bangaram Lagoon Walk",
+          "Evening Experience: A private beachside welcome cocktail event with acoustic island music beneath towering palms.",
+          "Overnight Stay: Bangaram Island (Premium Beachfront Villa)",
+          "Meals Included: Lunch & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Private Coral Safari & Sunken Shipwreck Snorkeling",
+        "description": "Wake to the rhythmic sounds of gentle waves and enjoy a gourmet breakfast. Today, a private marine naturalist arranged by TRAGUIN Experts guides you on a custom-chartered reef safari. Venture out to exclusive, undisturbed coral gardens where you will snorkel alongside vibrant sea turtles, harmless reef sharks, and multi-colored schools of parrotfish. Spend your afternoon relaxing under your private beach pergola.",
+        "activities": [
+          "Sightseeing Included: Bangaram Outer Reef Formations, Black Coral Coral Fields",
+          "Optional Activities: Certified PADI introductory scuba diving sessions over deep wall drop-offs.",
+          "Overnight Stay: Bangaram Island Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Excursion to Thinnakara Island & Exclusive Lagoon Picnic",
+        "description": "Relish a tropical breakfast before boarding a luxury speed-yacht over to the sister island of Thinnakara. This uninhabited paradise offers breathtaking landscapes of raw marine wilderness. Walk hand-in-hand along a private sandspit extending a kilometer out into the open sea. Your crew sets up an exclusive, shaded beach canopy with chilled refreshments, offering an immersive experience of absolute privacy.",
+        "activities": [
+          "Sightseeing Included: Thinnakara Island Perimeter, Sandbar Tip Walks",
+          "Photography Points: Striking low-tide drone-style vistas from the Thinnakara sandbar.",
+          "Overnight Stay: Bangaram Island Resort / Tented Luxury Base",
+          "Meals Included: Breakfast, Curated Island Picnic Lunch, Beachfront BBQ Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Deep Lagoon Glass Kayaking & Stunning Bioluminescent Evening",
+        "description": "Following a refreshing morning meal, indulge in customized watersports. Glide across the glass-like ocean inside premium transparent glass-bottom kayaks, viewing the busy coral life beneath you without getting wet. As darkness blankets the atoll, your private guide leads you to hidden lagoon pockets to witness the incredible bioluminescent plankton glowing like stardust in the water.",
+        "activities": [
+          "Sightseeing Included: Bangaram Interior Lagoons, Bioluminescent Night Bay Tour",
+          "Exclusive Experiences: Private drone and portrait session with a dedicated professional vacation photographer.",
+          "Overnight Stay: Bangaram Island Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Returning to Agatti – Coconut Groves & Heritage Discovery",
+        "description": "After breakfast, board your private speedboat charter back to Agatti Island for a delightful change of scenery. Check into your luxury beach resort suite and discover the local heritage in an open-air luxury cart. Travel past traditional coir-weaving communities, historical mosques, and thick coconut plantations. In the evening, relax with an exclusive culinary showcase featuring authentic island seafood recipes.",
+        "activities": [
+          "Sightseeing Included: Agatti Culture Museum, Eastern Marine Jetty, Coconut Grove Trails",
+          "Food Suggestion: Local lobster or fresh fish curry simmered gently with fresh organic coconut milk.",
+          "Overnight Stay: Agatti Island (Luxury Beachfront Resort Suite)",
+          "Meals Included: Breakfast, Lunch & Island Specialty Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Excursion to Kalpitti Island – Uninhabited Sunset Cliffs",
+        "description": "Dedicate your morning to absolute relaxation on Agatti's southern beaches. In the afternoon, embark on an exclusive short boat cruise to the tiny, uninhabited coral island of Kalpitti. Renowned for its unique jagged coral rock formations and breathtaking landscapes, Kalpitti is the absolute best sunset viewpoint in the archipelago. Share a premium high-tea basket as the sun sinks below the endless blue horizon.",
+        "activities": [
+          "Sightseeing Included: Kalpitti Coral Island, Southern Reef Flats",
+          "Evening Experience: A premium high-tea picnic basket prepared and served on the quiet Kalpitti sandbanks.",
+          "Overnight Stay: Agatti Island Luxury Suite",
+          "Meals Included: Breakfast, Lunch & Farewell Grand Buffet Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Farewell Lakshadweep – Departure with Timeless Ocean Blessings",
+        "description": "Savor your final morning breakfast as the sun lights up your resort terrace. Pack your beach attire and unique handcrafted shell souvenirs before your driver transfers you comfortably to the Agatti Airport terminal gates. Your unforgettable Lakshadweep Family Tour and premium island journey concludes here. Depart with divine peace and everlasting memories designed exclusively by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Assistance: Direct airport luggage escort and fast-track permit verification support from our resident staff."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bangaram Island Resort",
+        "location": "Lakshadweep Stay (6 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 01 – ULTRA LUXURY: Bangaram Island Resort (Premium Air-Conditioned Deluxe Beach Villa)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Air-Conditioned Deluxe Beach Villa",
+        "meal_plan": "All-Inclusive Royal Island Gastronomy",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Agatti Island Beach Resort / Thinnakara Luxury Lagoon Cottages",
+        "location": "Lakshadweep Stay (6 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 02 – LUXURY: Agatti Island Beach Resort / Thinnakara Luxury Lagoon Cottages (Executive Beach Suites)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Beach Suites",
+        "meal_plan": "All-Inclusive Royal Island Gastronomy",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury air-conditioned villa stays situated directly on white sand beaches.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All-inclusive gourmet meal plans (Daily Breakfast, Lunch, High-Tea, and Dinner).",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Pre-arranged government e-permits, heritage fees, and clearance paper management.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private speedboat and speed-yacht charters for all island inter-connections.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary guided snorkeling safari and transparent glass-kayak rentals.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Constant 24/7 on-call localized operational and hospitality TRAGUIN Support.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial airline or flight ticketing to/from Agatti Airport.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional PADI deep-sea scuba certifications or night-diving fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, phone tabs, or specialized shopping items.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal travel insurance coverage or medical evacuation policies.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

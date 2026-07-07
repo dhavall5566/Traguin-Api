@@ -1,0 +1,308 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-018-shimla-kasol-delight",
+    "serial_code": "HP-018",
+    "traguin_tour_code": "TRG-HP-018",
+    "title": "Shimla Kasol Delight • The Royal Ridge to the Mystic Valley",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-018 | TRAGUIN tour code TRG-HP-018",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Kufri • Kasol • Manikaran Sahib • Kullu Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Getaways, Mountain Explorers & Culture Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: April to June (Summer Resort) / October to March (Snowfall)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised Family Package)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private colonial architecture walking tour on the Shimla Ridge with a",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked mountain driving times to ensure leisurely coffee stops and",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for their stunning views, strict family safety",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Chauffeur-driven executive vehicles equipped with emergency kits and pristine",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Explore Shimla's Lakkar Bazar for beautiful handcrafted wooden toys and artifacts. In Kullu, shop for globally celebrated, authentic hand-loomed Kullu shawls, warm pashminas, and local carpets. Cafes & Food: Kasol's local wooden streets are lined with ambient cafes offering authentic Israeli cuisine, fresh river trout delicacies, wood-fired pizzas, and rich mountain teas accompanied by live music.",
+        "sort_order": 12
+      },
+      {
+        "text": "Hotel Policies: Standard check-in is 14:00 hrs and check-out is 11:00 hrs. Government IDs are required",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-018-shimla-kasol-delight-itinerary",
+    "title": "Shimla Kasol Delight • The Royal Ridge to the Mystic Valley",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised Family Package)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Shimla Kasol Delight",
+    "overview": "SHIMLA KASOL DELIGHT • THE ROYAL RIDGE TO THE MYSTIC VALLEY Welcome to an unforgettable mountain retreat designed by TRAGUIN. Embark on the finest Himachal Family Tour engineered to perfectly unite the colonial majesty of Shimla with the serene, pine-scented bohemian tranquility of Kasol. As your trusted premium travel consultants, TRAGUIN elevates your holiday into an inspiring luxury experience complete with handpicked hotels, breathtaking landscapes, and exclusive experiences. From family moments on the snow-dusted heights of Kufri to an immersive spiritual visit at Manikaran Sahib, every detail is woven with emotional storytelling to gift your family unforgettable memories.\n\nTOUR OVERVIEW\nThis custom luxury holiday package offers a phenomenal route traversing the changing layers of Himachal Pradesh. Moving from the well-manicured, historical hillsides of the former summer capital to the rushing, crystal-clear Parvati River waters in Kasol, your family travels in absolute style. Your private premium vehicle provides effortless luxury transportation across every mountain switchback, led by an experienced hill chauffeur. With a premium meal plan including expansive hot buffet breakfasts and curated multi-cuisine dinners, this itinerary brings you the ultimate premium Himachal experience. Every step incorporates a dedicated TRAGUIN curated experience note, guaranteeing priority assistance and unmatched travel refinement.\n\nWHY CHOOSE THE BEST HIMACHAL TOUR PACKAGE?\nWhen search-conscious travelers lock in a Luxury Himachal Holiday, they look for iconic attractions paired with hidden, serene escape points. Shimla remains the absolute king of colonial hill heritage, making a Shimla Family Tour or a romantic Himachal Honeymoon Package deeply popular. From taking family walks along the vehicle-free Ridge to discovering the mist-wrapped conifer valleys, Shimla sightseeing never fails to captivate. Further down the valley, Kasol introduces you to spectacular natural trails and popular Instagram locations along the winding Parvati River. Whether you want to experience the spiritual thermal springs of Manikaran, capture the wooden architectural marvels, shop for hand-woven woolen shawls at Kullu, or sit inside bohemian riverside cafes, our custom TRAGUIN Himachal Packages provide the perfect solution. We guarantee premium stays, handpicked hotels, and curated exclusive experiences that outline the best time to visit Himachal.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-018 | Shimla Kasol Delight | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Himachal Pradesh package (HP-018 / TRG-HP-018): Shimla • Kufri • Kasol • Manikaran Sahib • Kullu Valley with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SHIMLA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: KUFRI EXCURSION & JAKHOO HILL",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SHIMLA TO KASOL VIA KULLU VALLEY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: KASOL & MANIKARAN SAHIB EXCURSION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCURSION TO TOSH OR JIBHI EDGE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: KASOL TO DELHI / CHANDIGARH DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private colonial architecture walking tour on the Shimla Ridge with a",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked mountain driving times to ensure leisurely coffee stops and",
+        "sort_order": 8
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for their stunning views, strict family safety",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SHIMLA",
+        "description": "WELCOME TO THE SUMMER CAPITAL – HIGH-LIFESTYLE RIDGE STROLL Your premium Himachal experience initiates as you touch down at Chandigarh or Delhi, where your professional chauffeur welcomes you with your private luxury transport. Enjoy a highly scenic route winding through the lower Shivalik hills, arriving at your handpicked premium resort in Shimla. After a relaxed check-in, step out to experience the iconic Mall Road, The Ridge, and the historical neo-Gothic Christ Church. The absence of motor vehicle traffic on the Mall ensures a peaceful walking and shopping atmosphere for your family.",
+        "activities": [
+          "Sightseeing Included: The Ridge, Mall Road, Christ Church, Scandal Point, Gaiety Theatre.",
+          "Evening Experience: Bespoke colonial-era walking tour followed by dinner curated by TRAGUIN experts.",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Welcome Mountain Drink & Gourmet Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KUFRI EXCURSION & JAKHOO HILL",
+        "description": "PANORAMIC SNOW PEAKS & ECO-HIGHLANDS Relish a rich buffet breakfast before driving to Kufri, one of the top tourist places in Himachal for panoramic Himalayan views. Pass through the lush green Hasan Valley, capturing magnificent photography points along the way. In Kufri, enjoy immersive experiences like family horse riding or walking through the Himalayan Nature Park. On your return, head up to Jakhoo Hill—the highest peak in Shimla—to see the monumental 108-foot Hanuman Statue and catch a brilliant sunset view.",
+        "activities": [
+          "Sightseeing Included: Kufri Meadows, Hasan Valley Viewpoint, Jakhoo Temple, Indira Tourist Park.",
+          "Optional Activities: Traditional Himachali attire family portrait session amidst pine forests.",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium Breakfast & Specialized Family Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SHIMLA TO KASOL VIA KULLU VALLEY",
+        "description": "SCENIC DRIVE ALONG THE PARVATI RIVER CANYON Bid adieu to Shimla after breakfast and head down the grand mountain highways toward the mystical Parvati Valley. This scenic route takes you right through the heart of the Kullu Valley. Stop along the banks of the roaring Beas River for refreshing photography and optional river rafting. By afternoon, your luxury vehicle enters the emerald pine borders of Kasol. Check into your premium riverside hotel and relax to the therapeutic sound of the flowing water.",
+        "activities": [
+          "Sightseeing Included: Kullu Valley views, Pandoh Dam en-route, Parvati River banks.",
+          "Evening Experience: Private riverside family bonfire with hot mountain refreshments.",
+          "Overnight Stay: Kasol (Premium Handpicked Riverside Luxury Resort)",
+          "Meals Included: Breakfast & Riverside Buffet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KASOL & MANIKARAN SAHIB EXCURSION",
+        "description": "SPIRITUAL THERMAL SPRINGS & BOHEMIAN NATURE TRAILS Today highlights the natural spiritual duality of the valley. Visit the holy Manikaran Sahib Gurudwara, a revered pilgrimage destination famous for its powerful natural hot sulfur springs that run parallel to the icy river waters. Learn the fascinating history of the shrine and partake in the community Langar kitchen. The afternoon leads you back to Kasol to explore the pine trails of Chalal village and the trendy local wooden markets.",
+        "activities": [
+          "Sightseeing Included: Manikaran Gurudwara, Lord Shiva Temple, Chalal Suspension Bridge, Kasol Market.",
+          "Optional Activities: A guided wellness cafe tour to sample artisan wood-fired bakery delights.",
+          "Overnight Stay: Kasol (Premium Handpicked Riverside Luxury Resort)",
+          "Meals Included: Premium Breakfast & Organic Valley Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO TOSH OR JIBHI EDGE",
+        "description": "UNTOUCHED ALPINE SPLENDOUR & IMPRECISE VISTAS Embark on a morning excursion further up the valley to see traditional wooden Himalayan villages perched on step-cropped hillsides. Walk past pristine streams, apple orchards, and cascading mountain waterfalls. This region offers a quiet retreat far from busy tourist tracks, presenting breathtaking landscapes and popular Instagram locations perfect for capturing your family trip. Return to your luxury resort for a final celebratory evening.",
+        "activities": [
+          "Sightseeing Included: Alpine valley vistas, Local wooden village walk, Cascade waterfalls.",
+          "Evening Experience: Special farewell family dinner setup with personalized menu curation.",
+          "Overnight Stay: Kasol (Premium Handpicked Riverside Luxury Resort)",
+          "Meals Included: Breakfast & Farewell Premium Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "KASOL TO DELHI / CHANDIGARH DEPARTURE",
+        "description": "CHERISHING SWEET FAMILY JOURNEYS FOREVER Enjoy your final luxury breakfast overlooking the misty Parvati valley peaks. Pack your bags as your private luxury vehicle safely drives you down the smooth national highways back to Chandigarh or New Delhi Airport for your return home. Your incredible mountain escape concludes, leaving you with unforgettable memories crafted beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway transfer drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / East",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Willow Banks / East | Bourne / similar | The Parvati Kuteer / Hotel",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Bourne / similar",
+        "meal_plan": "The Parvati Kuteer / Hotel",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Hotel Shimla / | Marina / similar | Kasol Camps & Resorts /",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Marina / similar",
+        "meal_plan": "Kasol Camps & Resorts /",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Orchid Hotel /",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: The Orchid Hotel / | Welcomhotel by ITC | Echor Riverside Resort /",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Welcomhotel by ITC",
+        "meal_plan": "Echor Riverside Resort /",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall / The Oberoi",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Wildflower Hall / The Oberoi | Cecil (Suites) | VVIP Private Luxury Alpine",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Cecil (Suites)",
+        "meal_plan": "VVIP Private Luxury Alpine",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations as per specified selection tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Innova Crysta for all point-to-point tours.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meals: Premium hot buffet breakfasts and delicious table-service dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest relation manager on assignment.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Customized family welcome pack with travel treats on arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private family bonfire event in Parvati Valley. TRAGUIN Premium Luxury Itinerary — HP-018 5",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic flights, airfare, or train ticketing to/from arrival points.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "River rafting fees, horse riding tickets, adventure park costs.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone calls, drinks, or gratuities.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera passes, or local guide hire.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

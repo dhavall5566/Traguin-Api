@@ -1,0 +1,332 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-014-athirapally-waterfalls-munnar-premium-escape",
+    "serial_code": "KL-014",
+    "traguin_tour_code": "TRAGUIN-KL-014",
+    "title": "Athirapally Waterfalls & Munnar Premium Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-014 | TRAGUIN tour code TRAGUIN-KL-014",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala, India | Category: Luxury Family Holiday",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Athirapally • Munnar • Cochin",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Premium Family Tour & Honeymooners",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Premium Family FIT Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury AC Innova Crysta with Professional Chauffeur",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Breakfast & Gourmet Buffets)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Cochin Arrival → Athirapally Waterfalls → Munnar Hills → Cochin Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with fast-track luxury waterfall access, exclusive guided tea plantation trail, and elite handpicked hotels.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Fresh green cardamom, black peppercorns, cloves, vanilla from Munnar; Kasavu sarees and rosewood elephant figurines from Fort Cochin",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Advance bookings advised during high season; check-in 14:00 hrs, check-out 11:00 hrs; light woolens suggested for Munnar evenings",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-014-athirapally-waterfalls-munnar-premium-escape-itinerary",
+    "title": "Athirapally Waterfalls & Munnar Premium Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Athirapally Waterfalls & Munnar Premium Escape • 04 Nights / 05 Days",
+    "overview": "Welcome to God's Own Country. This luxury itinerary, thoughtfully designed by TRAGUIN, invites your family to rediscover the timeless charm of lush wilderness, sprawling tea hills, and misty valley vistas. From the thundering cascade of Athirapally to the serene tea horizons of Munnar, immerse yourself in premium stays and handpicked holiday magic tailored perfectly to generate unforgettable memories. TOUR OVERVIEW\n\ncomfort is handled with an impeccable travel consultant tone. Let TRAGUIN Kerala Packages elevate your luxury vacation through immersive experiences, spice estate exploration, and traditional food encounters.\n\nTRAGUIN Curated Touch: Curated by TRAGUIN Experts with fast-track luxury waterfall access, exclusive guided tea plantation trail, and elite handpicked hotels.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-014 | Athirapally Waterfalls & Munnar Premium Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kerala package (KL-014 / TRAGUIN-KL-014): Athirapally • Munnar • Cochin. Handpicked luxury stays and private transfers by TRAGUIN.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Athirapally Waterfalls and Vazhachal Forest Rapids",
+        "sort_order": 1
+      },
+      {
+        "text": "Munnar Eravikulam National Park, Mattupetty Dam & Tea Museum",
+        "sort_order": 2
+      },
+      {
+        "text": "Fort Cochin Chinese Fishing Nets and Jew Town heritage walk",
+        "sort_order": 3
+      },
+      {
+        "text": "Guided organic spice estate trail and tea-tasting sessions",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience with fast-track waterfall access",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN TO ATHIRAPALLY",
+        "description": "Arrive at Cochin International Airport where your private professional chauffeur will extend a warm traditional welcome. Board your air-conditioned luxury vehicle and embark on a scenic route toward the majestic Athirapally Waterfalls. As you approach, the soothing roar of water echoing through dense green canopies instantly sets an emotional storytelling backdrop. Check into your ultra-luxury resort overlooking the falls. Spend the afternoon exploring the scenic forest pathways and capture magnificent photos at designated photography points.",
+        "activities": [
+          "Sightseeing Included: Athirapally Main Falls, Vazhachal Forest Rapids.",
+          "Evening Experience: Relax on your private resort deck, sipping locally brewed cardamom tea while watching",
+          "Overnight Stay: Handpicked Luxury Rainforest Resort, Athirapally.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "ATHIRAPALLY TO MUNNAR HILLS",
+        "description": "Indulge in a luxurious breakfast before checking out. Embark on a spectacular drive through winding roads to the queen of hill stations—Munnar. En route, witness the mesmerizing Valara and Cheeyappara waterfalls, which serve as iconic attractions and perfect backdrops for family portraits. As you ascend, feel the temperature drop and the air grow crisp with the scent of wild mountain flora. Reach your handpicked premium stays perched safely on the mist-kissed slopes of Munnar and check in seamlessly.",
+        "activities": [
+          "Sightseeing Included: Cheeyappara & Valara Waterfalls, Karadipara Viewpoint.",
+          "Local Experiences: A brief stop at a local roadside spice market to observe artisanal farming methods.",
+          "Overnight Stay: Premium Luxury Mountainside Resort, Munnar.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MUNNAR HIGHLANDS SIGHTSEEING",
+        "description": "Dedicate your morning to an exclusive, immersive experience within Eravikulam National Park, the famous sanctuary sheltering the endangered Nilgiri Tahr. Next, marvel at the engineering marvel of Mattupetty Dam, where gentle boating options can be enjoyed by families. Walk through the natural acoustic pathways of Echo Point and capture unforgettable memories by the lakeside. Later, discover the rich heritage of tea processing with an informative guided excursion inside a colonial-era tea factory museum.",
+        "activities": [
+          "Sightseeing Included: Eravikulam National Park, Mattupetty Dam, Echo Point, Tea Museum.",
+          "Optional Activities: Serene private speed-boating across Mattupetty reservoir lake.",
+          "Overnight Stay: Premium Luxury Mountainside Resort, Munnar.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MUNNAR TO COCHIN",
+        "description": "Savor a relaxed breakfast, absorbing the breathtaking landscapes for one last morning before driving back to the historical port city of Cochin. In the afternoon, enjoy a cultural dive into Fort Cochin. Admire the iconic Chinese Fishing Nets operating gracefully against the horizon and visit the historic St. Francis Church. Conclude your evening walking through the vintage colonial lanes of Jew Town, browsing antique markets and high-end cafes.",
+        "activities": [
+          "Sightseeing Included: Fort Cochin Chinese Nets, Mattancherry Palace, Jew Town.",
+          "Food Suggestions: Taste fresh coastal Malabar seafood at a premium heritage restaurant in Fort Cochin.",
+          "Overnight Stay: Ultra-Luxury Boutique Hotel, Cochin.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "COCHIN DEPARTURE",
+        "description": "Relish a slow morning breakfast overlooking the harbour waters. Pack your bags loaded with authentic local souvenirs, premium spices, and beautiful memories. Your private luxury transportation will pick you up from the lobby and transfer you comfortably to Cochin International Airport for your flight back home. Your premium holiday curated by TRAGUIN concludes seamlessly.",
+        "activities": [
+          "Transfers Included: Private Airport Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Athirapally Green Trees",
+        "location": "Athirapally",
+        "nights_label": "01 Night",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel & Spa (Executive)",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Rainforest Resort (Luxury Room)",
+        "location": "Athirapally",
+        "nights_label": "01 Night",
+        "description": "Option 03 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Panoramic Getaway (Deluxe View)",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Rainforest Resort (Treehouse Option)",
+        "location": "Athirapally",
+        "nights_label": "01 Night",
+        "description": "Option 05 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Treehouse",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Spice Tree Munnar (Classic Jacuzzi Suite)",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 06 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Classic Jacuzzi Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Niraamaya Retreats Samroha",
+        "location": "Athirapally",
+        "nights_label": "01 Night",
+        "description": "Option 07 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Villa",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Elixir Hills Suites Resort & Spa",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 08 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 04 Nights premium stays at selected ultra-luxury and boutique hotel resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 04 Premium Breakfasts & 04 curated Gourmet Dinners at the resorts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All luxury transfers managed in a private, air-conditioned Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized arrival greeting kits containing traditional Kerala stoles and cold-pressed juices.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Guided organic spice estate walking trail and interactive tea-tasting sessions.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Full 24/7 priority concierge backing from our backend corporate travel desk.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight tickets, airport taxes, or interstate railway fares.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry monuments cards, camera licenses, and national park safari slips.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, long-distance phone billing, mini-bar consumption, and gratuities.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure tours or extra vehicle kilometers outside planned boundaries.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

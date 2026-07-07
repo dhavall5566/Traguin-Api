@@ -1,0 +1,265 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-004-udaipur-romance-luxury-tour",
+    "serial_code": "RJ-004",
+    "traguin_tour_code": "TRAGUIN-RJ-004-UDAIPUR",
+    "title": "Udaipur Romance Luxury Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial RJ-004 | Tour code TRAGUIN-RJ-004-UDAIPUR",
+        "sort_order": 1
+      },
+      {
+        "text": "Udaipur (3N) — Honeymoon / Luxury Romance circuit",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Lake Pichola sunset solar boat cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "City Palace, Monsoon Palace, Bagore-ki-Haveli cultural show",
+        "sort_order": 4
+      },
+      {
+        "text": "CP plan with welcome drink and honeymoon amenities",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN 24/7 on-call backend concierge support",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-004-udaipur-romance-luxury-tour-itinerary",
+    "title": "Udaipur Romance Luxury Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Scale)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Udaipur Romance Tour — City of Lakes & Palaces",
+    "overview": "Udaipur, acclaimed as the Venice of the East, is a mesmerizing oasis of white marble palaces, tranquil azure lakes, and breathtaking landscapes. This meticulously curated honeymoon package transforms your escape into a royal fairytale with premium handpicked hotels, private luxury transportation, and highly curated romantic experiences. Route: Udaipur arrival → Lake Pichola cruise → City Palace → Monsoon Palace → departure. Meal plan: CP (Bed & Breakfast). Best season: October to March.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-004 | Udaipur Romance Luxury Tour | TRAGUIN",
+    "seo_description": "Luxury 03 Nights / 04 Days Udaipur honeymoon (RJ-004): private Lake Pichola sunset cruise, City Palace, Saheliyon-ki-Bari, Sajjangarh Monsoon Palace, and Bagore-ki-Haveli folk show.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Private Lake Pichola sunset solar boat cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "City Palace & Crystal Gallery",
+        "sort_order": 2
+      },
+      {
+        "text": "Sajjangarh Monsoon Palace panoramic views",
+        "sort_order": 3
+      },
+      {
+        "text": "Bagore-ki-Haveli Rajasthani folk dance show",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature twilight cruise with onboard musician",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Udaipur Arrival | Royal Reception & Private Lake Pichola Sunset Cruise",
+        "description": "Private chauffeur welcome with cold towels and floral bouquet. Check-in at premium hotel. Exclusive private solar boat cruise on Lake Pichola past Lake Palace at sunset. Exquisite lakeside dinner.",
+        "activities": [
+          "Sightseeing Included: Lake Pichola, Gangaur Ghat, Ambrai Viewpoint",
+          "Optional Activities: Couples' traditional aromatherapy spa session at the hotel",
+          "Evening Experience: Ultra-luxury lakeside dinner featuring authentic Mewari cuisine",
+          "Overnight Stay: Handpicked Premium Luxury Hotel / Resort in Udaipur",
+          "Meals Included: Welcome Drink & Breakfast"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Udaipur Sightseeing | Monumental Romance & Grand City Palace",
+        "description": "Full-day Udaipur sightseeing with heritage guide: City Palace, Crystal Gallery, Saheliyon-ki-Bari, and Jagdish Temple. Romantic walk through old city markets.",
+        "activities": [
+          "Sightseeing Included: City Palace, Crystal Gallery, Saheliyon-ki-Bari, Jagdish Temple",
+          "Optional Activities: Private professional vintage photoshoot in royal Mewari costumes",
+          "Evening Experience: Panoramic views and coffee at boutique cafe overlooking Fateh Sagar Lake",
+          "Overnight Stay: Handpicked Premium Luxury Hotel / Resort in Udaipur",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Sajjangarh Palace & Culture | Monsoon Palace Vista & Mewari Cultural Show",
+        "description": "Visit Sajjangarh Monsoon Palace for sweeping lake views. Afternoon at Bagore-ki-Haveli for vibrant Rajasthani folk dance and puppet show. Romantic candlelight rooftop dinner.",
+        "activities": [
+          "Sightseeing Included: Sajjangarh Monsoon Palace, Biological Park, Bagore-ki-Haveli",
+          "Optional Activities: Private pottery making workshop and rural art tour at Shilpgram",
+          "Evening Experience: Vibrant live cultural dance performance at Bagore-ki-Haveli",
+          "Overnight Stay: Handpicked Premium Luxury Hotel / Resort in Udaipur",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure | Souvenir Collection & Cherished Farewell",
+        "description": "Leisurely breakfast, last-minute shopping at Bada Bazaar and Hathi Pol, and private transfer to Udaipur airport or railway station with customized farewell token.",
+        "activities": [
+          "Sightseeing Included: Local craft emporiums and shopping bazaars (Bada Bazaar, Hathi Pol)",
+          "Optional Activities: Quick mid-day luxury high tea before heading to the terminal",
+          "Evening Experience: Flawless departure transfer assist",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Udaipur Palace Resort",
+        "location": "Udaipur",
+        "nights_label": "3N Udaipur",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Superior Lake View Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Ananta Udaipur / Aurika Udaipur",
+        "location": "Udaipur",
+        "nights_label": "3N Udaipur",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Valley View Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace Udaipur / Taj Lake Palace",
+        "location": "Udaipur",
+        "nights_label": "3N Udaipur",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Grand Heritage Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Udaivilas",
+        "location": "Udaipur",
+        "nights_label": "3N Udaipur",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Room with Semi-Private Pool",
+        "meal_plan": "Gourmet CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury accommodations at chosen handpicked tier hotels (3 nights)",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily buffet breakfast featuring international and local options",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury AC sedan for all transfers, excursions, and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive private sunset boat cruise on Lake Pichola curated by TRAGUIN",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Professional English-speaking local heritage guide for City Palace tour",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "24/7 on-call backend concierge support from TRAGUIN",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Traditional welcome amenities, custom floral arrangements, and honeymoon cake",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All applicable state taxes, parking fees, toll fees, and driver allowances",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international airfares / train tickets",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance tickets and camera fees",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory dynamic gala dinners during Christmas, New Year, or peak festivals",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses: laundry, mini-bar, telephone calls, and gratuities",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure tours, premium water sports, or extra sightseeing trips",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and medical insurance cover",
+        "sort_order": 14
+      }
+    ]
+  }
+}

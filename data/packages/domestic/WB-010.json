@@ -1,0 +1,198 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-010-sundarbans-mangrove-cruise-safari",
+    "serial_code": "WB-010",
+    "traguin_tour_code": "TRAGUIN-WB-010",
+    "title": "Sundarbans Mangrove Cruise Safari",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-010 | TRAGUIN tour code TRAGUIN-WB-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Nature / Wildlife Safari",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Sundarbans Mangrove Forest • Gadkhali • Sajnekhali • Sudhanyakhali",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Nature Lovers & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle & Cruise: Luxury AC Sedan to Gadkhali Jetty + Exclusive Private Motorized Cruise Boat",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: All Meals Included (Gourmet Bengali & Traditional Delta Cuisines)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Kolkata Arrival → Gadkhali → Sajnekhali Creek Cruise → Sudhanyakhali → Dobanki → Kolkata Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Elite eco-safari with priority forest permits and upscale cruise boat with spacious dining decks.",
+        "sort_order": 9
+      },
+      {
+        "text": "Important Notes: Deep forest permits require advance booking with ID copies. Plastic items strictly prohibited inside tiger reserve.",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Wildlife",
+      "Nature",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-010-sundarbans-mangrove-cruise-safari-itinerary",
+    "title": "Sundarbans Mangrove Cruise Safari",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sundarbans Mangrove Cruise Safari • 02 Nights / 03 Days",
+    "overview": "Welcome to the untamed wilderness of the world's largest mangrove forest. This ultra-premium Sundarbans Family Tour, curated by TRAGUIN, offers an emotional dive into the land of the Royal Bengal Tiger. Sail seamlessly through narrow creeks, marvel at raw, breathtaking landscapes, and retreat into handpicked hotels offering eco-luxury amenities for unforgettable memories.\n\nTOUR OVERVIEW\nVehicle & Cruise: Luxury Air-Conditioned Chauffeur Sedan to Gadkhali Jetty followed by an Exclusive Private Motorized Cruise Boat. Meal Plan: All Meals Included (Gourmet Bengali & Traditional Delta Cuisines Served Onboard). Route Map: Kolkata Arrival → Gadkhali → Sajnekhali Creek Cruise → Sudhanyakhali Watchtower → Dobanki → Kolkata Departure.\n\nTRAGUIN Curated Experience Note: This is a true Premium West Bengal Experience featuring customized deep-forest entry permissions, dedicated naturalist guides, and private village interactions away from regular crowds.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-010 | Sundarbans Mangrove Cruise Safari | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days West Bengal package (WB-010 / TRAGUIN-WB-010): Royal Bengal Tiger safari, Sajnekhali, Sudhanyakhali, Dobanki Canopy Walk, and 2-tier eco-luxury resorts.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Delta cruise on Hogol, Gomor, and Durgaduani rivers to Sajnekhali Watchtower",
+        "sort_order": 1
+      },
+      {
+        "text": "Deep forest cruise through Pirkhali and Gazikhali with Sudhanyakhali tiger spotting",
+        "sort_order": 2
+      },
+      {
+        "text": "Dobanki 20-foot-high fenced Canopy Walk and Panchamukhani Five River Confluence",
+        "sort_order": 3
+      },
+      {
+        "text": "Exclusive guided village walk with honey-gathering traditions and Baul folk music",
+        "sort_order": 4
+      },
+      {
+        "text": "2-tier handpicked eco-luxury Sundarbans accommodation (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOLKATA TO SUNDARBANS",
+        "description": "Your premium journey begins with an early morning pickup from Kolkata by a professional luxury vehicle. Drive comfortably through scenic rural landscapes to Gadkhali Jetty. Here, step onto your exclusive private TRAGUIN-vetted cruise boat. Enjoy a refreshing welcome drink as you glide down the Hogol, Gomor, and Durgaduani rivers. Arrive at your eco-luxury resort, check-in seamlessly, and savor a hot traditional lunch. In the afternoon, cruise to the Sajnekhali Watchtower for your initial wildlife sightings and explore the Mangrove Interpretation Center.",
+        "activities": [
+          "Sightseeing Included: Delta Cruise, Sajnekhali Watchtower, Crocodile Pond.",
+          "Evening Experience: Witness a traditional multi-generational Baul folk music performance at the resort.",
+          "Overnight Stay: Handpicked Luxury Eco-Resort, Sundarbans.",
+          "Meals Included: Buffet Lunch, Afternoon Tea & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DEEP FOREST CRUISE & WATCHTOWERS",
+        "description": "Awake to the peaceful calls of exotic birds. Today features an immersive full-day safari cruise through dense waterways. Sail through the narrow canopy creeks of Pirkhali and Gazikhali. Visit the famous Sudhanyakhali Watchtower, where tigers are frequently spotted near the sweet-water pond. Later, proceed to the Dobanki Watchtower to experience the unique 20-foot-high fenced Canopy Walk, putting you right inside the mangrove jungle while ensuring complete safety.",
+        "activities": [
+          "Sightseeing Included: Deep Forest Cruise, Sudhanyakhali, Dobanki Canopy Walk, Panchamukhani (Five River Confluence).",
+          "Photography Points: Golden hour over the vast mangrove river bends and basking crocodiles.",
+          "Overnight Stay: Premium Eco-Resort, Sundarbans.",
+          "Meals Included: Onboard Forest Breakfast, Lunch & Elegant Resort Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "VILLAGE WALK & RETURN TO KOLKATA",
+        "description": "After a relaxed breakfast, engage in an exclusive guided village walk to experience the local lifestyle, traditional clay homes, and honey-gathering stories. Board your private boat for a final cruise back to Gadkhali Jetty. Your luxury private vehicle awaits to drive you back to Kolkata, concluding your high-end safari with beautiful memories.",
+        "activities": [
+          "Transfers Included: Private Jetty to Kolkata Airport / Hotel Drop-off.",
+          "Meals Included: Breakfast & Farewell Lunch."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Sundorban Tiger Camp",
+        "location": "Sundarbans",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – LUXURY: Sundorban Tiger Camp (Sundarbans, 02 Nights)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Executive AC Cottage",
+        "meal_plan": "All Meals Included",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Sunderban Mangrove Retreat",
+        "location": "Sundarbans",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – ULTRA LUXURY: Sunderban Mangrove Retreat (Sundarbans, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Royal Suite",
+        "meal_plan": "All Meals + Private Naturalist",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights stay at handpicked premium luxury eco-resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: All breakfasts, lunches, and dinners prepared with organic, fresh ingredients.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Cruise: Private AC vehicle from Kolkata & fully private dedicated safari cruise boat.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local concierge and professional forest companion guide.",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or train connections to Kolkata.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Forest entry fees, video camera permits, and personal tips.",
+        "sort_order": 6
+      }
+    ]
+  }
+}

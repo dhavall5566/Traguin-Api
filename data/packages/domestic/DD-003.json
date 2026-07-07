@@ -1,0 +1,269 @@
+{
+  "destination_slug": "daman-and-diu",
+  "package": {
+    "slug": "dd-003-diu-discovery",
+    "serial_code": "DD-003",
+    "traguin_tour_code": "TRG-DIU-003",
+    "title": "Diu Discovery",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DD-003 | TRAGUIN tour code TRG-DIU-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Daman and Diu / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Diu Island • Ghoghla Beach • Nagoa Beach • Diu Fort",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Luxury Beach Seekers & Heritage Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Private AC Vehicle / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Diu Arrival → Jalandhar Beach & Sunset Point → Diu Fort & Naida Caves → Nagoa & Ghoghla Beaches → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and maritime history briefing before visiting Diu Fort.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked beachfront allocations ensuring your room opens to premium sea vistas.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Shell handicrafts, tortoise-shell artifacts, woven beachwear; lobster platters and Portuguese-style rolls at seaside bistros.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Book 30–45 days ahead in peak season; vehicle dedicated to itinerary route; check-in 14:00 hrs, check-out 11:00 hrs.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Beach",
+      "Family",
+      "Luxury",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "dd-003-diu-discovery-itinerary",
+    "title": "Diu Discovery",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Diu Discovery • Sun, Sand & Portuguese Splendour",
+    "overview": "Welcome to an exquisite coastal retreat curated exclusively by TRAGUIN. Embark on the finest Daman & Diu Family Tour designed to reveal the breathtaking landscapes, ancient marine fortifications, and golden beaches of this historic Union Territory. As your elite travel consultants, TRAGUIN transforms your vacation into a seamless luxury holiday filled with handpicked hotels, immersive experiences, and captivating sea-faring history. From the massive battlements of the sea-facing Diu Fort to the tranquil shores of Nagoa Beach, every detail is engineered to create unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers an exquisite balance between sun-soaked beach relaxation, maritime history, and colonial Portuguese architecture. Travelling in a dedicated premium AC vehicle with professional chauffeur-driven assistance, your family will enjoy absolute comfort and privacy. With a carefully curated meal plan featuring lavish breakfasts and specialized seaside dinners, this route represents the definitive premium Daman & Diu experience. Every step of your journey includes the signature touch of TRAGUIN curated experiences, ensuring private sunset excursions, local culinary insights, and around-the-clock bespoke support.\n\nWHY CHOOSE THE BEST DAMAN & DIU TOUR PACKAGE?\nWhen considering a Luxury Daman & Diu Holiday, discerning travellers seek a tranquil beach escape seamlessly blended with old-world heritage. Diu Island boasts some of the most iconic attractions in Western India. From the architectural marvel of St. Paul's Church to the magnificent Diu Fort—a top tourist place in Daman & Diu for panoramic Arabian Sea vistas—the region offers unparalleled aesthetic depth. For families and couples booking a bespoke Daman & Diu Honeymoon Package or Daman & Diu Family Tour, the island reveals highly popular Instagram locations like the Naida Caves, the beautiful walkway of Ghoghla Beach, and the sunset points overlooking the sea. Our TRAGUIN Daman & Diu Packages guarantee premium comfort, handpicked luxury stays, and curated exclusive experiences during the absolute best time to visit Daman & Diu.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DD-003 | Diu Discovery Premium Family Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Diu family package (DD-003 / TRG-DIU-003): Diu Fort, Naida Caves, Nagoa Beach, Ghoghla Blue Flag Beach, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Jalandhar Beach, Sunset Point & INS Khukri Memorial on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Diu Fort, Naida Caves, St. Paul's Church & Sea Shell Museum on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Nagoa Beach, Ghoghla Blue Flag Beach & Hoka Tree groves on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Smooth departure from Diu on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family maritime history briefing before Diu Fort visit",
+        "sort_order": 5
+      },
+      {
+        "text": "Complimentary Experience: Reserved family sunset viewing lounge access",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Diu | Welcome to the Seaside Gem – Sunset and Coastal Serenity",
+        "description": "Your premium Daman & Diu experience begins as you arrive at Diu Airport or the nearby Rajkot/Veraval station, where a dedicated private luxury transport vehicle waits to escort you. Transfer smoothly to your handpicked premium luxury beachfront resort. After a refreshing afternoon, step out for an exclusive evening experience at the Sunset Point near Jalandhar Beach. Enjoy a peaceful evening walk along the coast, punctuated by breathtaking landscapes as the golden sun dips into the Arabian Sea.",
+        "activities": [
+          "Sightseeing Included: Jalandhar Beach, Sunset Point, INS Khukri Memorial.",
+          "Evening Experience: Gourmet coastal welcome dinner curated by TRAGUIN experts.",
+          "Overnight Stay: Diu Island (Premium Beachfront Resort).",
+          "Meals Included: Welcome Drink & Luxury Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Diu Fortress & Colonial Heritage Exploration | Impressive Marine Architecture & Portuguese Splendour",
+        "description": "Awake to the soothing sound of ocean waves. Today, explore the magnificent heritage of Diu. Visit the grand Diu Fort, an architectural marvel flanked by the sea on three sides, offering incredible photography points. Walk through the beautifully lit paths of Naida Caves, a highly popular Instagram location famed for its surreal rock formations and natural light beam displays. Conclude your afternoon exploring the intricate woodwork of St. Paul's Church and the historic St. Thomas Church Museum.",
+        "activities": [
+          "Sightseeing Included: Diu Fort, Naida Caves, St. Paul's Church, Sea Shell Museum.",
+          "Optional Activities: Private heritage walking tour with an expert storyteller guide.",
+          "Overnight Stay: Diu Island (Premium Beachfront Resort).",
+          "Meals Included: Premium Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Nagoa & Ghoghla Beach Relaxation | Pristine Sands, Water Adventure & Sun-Kissed Memories",
+        "description": "Dedicate this day to the incredible beaches of Diu. Spend your morning at Nagoa Beach, famous for its unique Hoka palm trees and horse-shoe shaped bay. This beach is perfect for swimming or enjoying optional luxury water sports. In the afternoon, visit Ghoghla Beach, a pristine Blue Flag certified beach that offers endless scenic beauty and clean walkways. Relax in a private beach lounge arranged exclusively for your family.",
+        "activities": [
+          "Sightseeing Included: Nagoa Beach, Ghoghla Blue Flag Beach, Hoka Tree groves.",
+          "Evening Experience: Private beachside mocktail session and candlelit farewell dinner.",
+          "Overnight Stay: Diu Island (Premium Beachfront Resort).",
+          "Meals Included: Breakfast & Premium Coastal Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure from Diu | Cherishing Unforgettable Memories Beyond Destinations",
+        "description": "Indulge in a final lavish breakfast looking out onto the blue horizon. Your private luxury transport will safely drive you to Diu Airport or the nearest railway station for your onward journey. Return home carrying a heart filled with sweet family bonds and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Kohinoor / similar",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Pool View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Resort Diu / similar",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Sea View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Diu / Azzaro Resorts",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Seaside Resort (Villas)",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Beachfront Villa",
+        "meal_plan": "Elite Custom Luxury Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked seaside resorts as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC premium vehicle for all transfers & sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfast and gourmet dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized coastal travel kit and refreshing welcome mocktails.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved family sunset viewing lounge access.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to and from entry gateways.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports, scuba diving fees, and monument entry tickets.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional activities or extended tours not specified.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

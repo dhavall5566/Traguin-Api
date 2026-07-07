@@ -1,0 +1,309 @@
+{
+  "destination_slug": "jharkhand",
+  "package": {
+    "slug": "jh-006-ranchi-netarhat-betla-deoghar-luxury",
+    "serial_code": "JH-006",
+    "traguin_tour_code": "TRG-JHR-LUX-006",
+    "title": "Ranchi • Netarhat • Betla National Park • Deoghar Luxury Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JH-006 | TRAGUIN tour code TRG-JHR-LUX-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Jharkhand / India | Category: Luxury Holiday",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ranchi • Netarhat • Betla National Park • Deoghar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Connoisseurs of Culture, Luxury Seekers, Families & Honeymooners",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Vibrant)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Quotation)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN SIGNATURE EXPERIENCE",
+        "sort_order": 8
+      },
+      {
+        "text": "& BOOKING GUIDELINES",
+        "sort_order": 9
+      },
+      {
+        "text": "Advance Booking: Betla safari permits and luxury Netarhat cottages are highly restricted; early reservations are",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Nature",
+      "Spiritual"
+    ]
+  },
+  "itinerary": {
+    "slug": "jh-006-ranchi-netarhat-betla-deoghar-luxury-itinerary",
+    "title": "Ranchi • Netarhat • Betla National Park • Deoghar Luxury Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Quotation)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ranchi",
+    "overview": "Ranchi • Netarhat • Betla National Park • Deoghar 05 Nights / 06 Days Immersive Luxury Experience Welcome to an untold realm of sublime wilderness, sacred echoes, and majestic cascading waters. The Best Jharkhand Tour Package by TRAGUIN unlocks the hidden heart of India, presenting an elite blueprint of travel where ancient heritage blends with untouched natural opulence. Embark on a highly tailored Jharkhand Family Tour or an ultra-private Jharkhand Honeymoon Package designed specifically for discerning souls who crave curated experiences, breathtaking landscapes, and premium stays. Let TRAGUIN guide you through dense sal forests, misty hillsides, and regal spiritual structures to forge unforgettable memories.\n\nTOUR OVERVIEW\nThis bespoke itinerary traces a deliberate luxury loop through Jharkhand's finest gems. Beginning in the vibrant \"City of Waterfalls,\" Ranchi, your journey moves upwards into the serene clouds of Netarhat (\"The Queen of Chotanagpur\"), dives deep into the ancient wilderness of Betla National Park, and culminates with a TRAGUIN Luxury Holidays • Premium Jharkhand Itinerary soul-stirring VIP pilgrimage into spiritual Deoghar. Every single detail is overseen by elite travel coordinators to guarantee an unparalleled, stress-free escape. Travel Options: Fully customizable dates (FIT / Private Elite Group) Vehicle assigned: Premium Luxury Chauffeur- Driven SUV (Innova Crysta / Audi / BMW on request) Meal Plan: Continental Breakfast & Curated Gourmet Dinners (MAPAI) TRAGUIN Edge: Handpicked 5-Star & Heritage Stays, Private Local Guides, 24/7 Concierge\n\nWHY CHOOSE A LUXURY JHARKHAND HOLIDAY?\nJharkhand, famously known as the land of forests, is rapidly ascending as India's ultimate destination for offbeat luxury. Travelers searching for Luxury Jharkhand Holiday or comprehensive Jharkhand Sightseeing are greeted by unprecedented natural geography away from crowded mass tourism. From the majestic, multi-tiered waterfalls of Ranchi to the mist-laden sunrises of Netarhat, the topography offers the perfect canvas for your next viral Popular Instagram locations. Wildlife aficionados find solace in Betla National Park, home to rare tigers, wild elephants, and a centuries-old tribal history. Culturally, the sacred site of Baidyanath Jyotirlinga in Deoghar delivers deeply transformative spiritual fulfillment, ranking as one of the most searched experiences in Eastern India. Whether you seek thrilling outdoor adventure, authentic tribal textile shopping, or an elegant retreat amidst scenic beauty, this package combines them all into an immersive experience. THE MASTER ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JH-006 | Ranchi | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Jharkhand package (JH-006 / TRG-JHR-LUX-006): Ranchi • Netarhat • Betla National Park • Deoghar with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: RANCHI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: RANCHI TO NETARHAT",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: NETARHAT TO BETLA NATIONAL PARK",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: BETLA NATIONAL PARK TO RANCHI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: RANCHI TO DEOGHAR",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEOGHAR TO RANCHI / DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN SIGNATURE EXPERIENCE",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "RANCHI",
+        "description": "ARRIVAL IN THE CITY OF WATERFALLS & ELITE URBAN GRANDEUR Your ultimate Premium Jharkhand Experience begins with a warm, personalized reception at Birsa Munda Airport or Ranchi Railway Station. A designated TRAGUIN luxury travel concierge will escort you via a private luxury vehicle to your handpicked premium hotel. After a smooth VIP check-in and refreshing gourmet welcome drinks, step out to explore the fascinating landmarks of Ranchi. We begin with a scenic drive to the famous Ranchi Lake, followed by an elegant cable car ride up to the historic Tagore Hill, where Rabindranath Tagore's family found deep poetic inspiration. Capture stunning, expansive panoramic photos of the city skyline during golden hour. In the evening, immerse yourself in local culture with an exclusive walk through the vibrant local handicraft markets, ideal for purchasing rare tribal Sohrai paintings and elegant Tussar silk. TRAGUIN Luxury Holidays • Premium Jharkhand Itinerary",
+        "activities": [
+          "Sightseeing Included: Tagore Hill, Ranchi Lake, Nakshatra Van, local boutique emporiums."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RANCHI TO NETARHAT",
+        "description": "ASCENDING TO THE QUEEN OF CHOTANAGPUR & MYSTICAL SUNSETS Indulge in a rich, multi-cuisine breakfast before departing on a breathtakingly scenic road journey toward Netarhat. As your luxury SUV maneuvers through winding ghats and dense, emerald pine forests, you will feel the air transform into a crisp, invigorating chill. This represents the ultimate luxury mountain escape within our TRAGUIN Jharkhand Packages. Arrive at your premium nature resort in Netarhat by early afternoon. After checking into your luxurious cottage, prepare for an iconic visual feast. Travel to the famous Magnolia Sunset Point, an ethereal location steeped in local romantic lore, where the sun dips below undulating blue hills in a brilliant display of crimson and gold. This remains one of the top-rated Popular Instagram locations in Eastern India.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "NETARHAT TO BETLA NATIONAL PARK",
+        "description": "BREATHTAKING SUNRISES, CASCADING WATERFALLS & UNTAMED WILDERNESS Awaken at dawn to witness an incredible sunrise at Netarhat Sunrise Point, where a sea of white mist rolls majestically through the deep valleys below. Return to your resort for a hearty artisanal breakfast before driving towards the famous Betla National Park. En route, we pause at the magnificent Lodh Falls, the highest waterfall in Jharkhand, where pristine water crashes dramatically down 143 meters into a rugged rocky gorge. Continue your premium drive toward Betla, passing through lush bamboo thickets and old-growth sal forests. Check directly into your exclusive jungle safari lodge. In the late afternoon, step back in time at the historic delicacies. TRAGUIN Luxury Holidays • Premium Jharkhand Itinerary 16th-century Palamu Forts, hidden deep within the forest reserve, offering phenomenal photography opportunities.",
+        "activities": [
+          "Optional Activities: Private guided interactive session with a master Sohrai tribal painter.",
+          "Evening Experience: A premium fine-dining experience celebrating authentic, upscale Jharkhandi culinary",
+          "Overnight Stay: Radisson Blu Hotel Ranchi / Chanakya BNR Hotel (Luxury Heritage Suite).",
+          "Meals Included: Curated Dinner.",
+          "Sightseeing Included: Pine Forest drives, Netarhat Dam, Magnolia Point Sunset.",
+          "Optional Activities: Stargazing experience in the clear, pollution-free mountain skies of Netarhat.",
+          "Evening Experience: A private bonfire setup beneath the stars with customized premium hors d'oeuvres.",
+          "Overnight Stay: Premium Eco-Luxury Resort, Netarhat.",
+          "Meals Included: Gourmet Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "BETLA NATIONAL PARK TO RANCHI",
+        "description": "DEEP JUNGLE SAFARIS & SPECTACULAR CASCADES Embrace the morning with an exhilarating open-top 4x4 Jeep Safari deep into the core of Betla National Park. Accompanied by a senior forest tracker, keep your camera ready to photograph majestic wild elephants, gaurs, sloth bears, multi-hued deer, and if fortune favors you, the royal Bengal tiger. The vibrant birdlife adds a magical soundtrack to your premium morning safari. Return to the lodge for lunch before checking out to begin your return drive to Ranchi. Along the way, visit the incredible Hundru Falls or Dassam Falls, where the Subarnarekha River plunges over sheer rock cliffs, creating a spectacular mist spray. Re-enter Ranchi in the evening to relax in total 5-star comfort.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "RANCHI TO DEOGHAR",
+        "description": "THE SPIRITUAL PINNACLE & VIP BLESSINGS Following an early breakfast, your premium vehicle will drive you northeast toward the sacred capital of Jharkhand: Deoghar. Known across India as an invaluable bastion of peace and spirituality, Deoghar houses the world-renowned Baidyanath Jyotirlinga Temple. Upon your arrival, TRAGUIN organizes an exclusive, seamless VIP entry and private priest consultation for the holy Baba Baidyanath darshan, completely bypassing standard crowds. Feel the deep spiritual energy of this historic temple complex. Later in the afternoon, board the scenic ropeway to ascend the sacred Trikut TRAGUIN Luxury Holidays • Premium Jharkhand Itinerary Hills, believed to be tied directly to legendary tales from the Ramayana, offering gorgeous aerial views of the landscape.",
+        "activities": [
+          "Sightseeing Included: Netarhat Sunrise, Lodh Falls, Koel River viewpoint, Historic Palamu Forts.",
+          "Optional Activities: Guided nature walk with an expert tribal naturalist along the river banks.",
+          "Evening Experience: Open-air tribal folk performance around a cozy campfire at your resort.",
+          "Overnight Stay: The Tree House Resort / Luxury Wildlife Lodge, Betla.",
+          "Meals Included: Gourmet Breakfast & Jungle Dinner.",
+          "Sightseeing Included: Core Zone Jeep Safari, Hundru / Dassam Waterfalls, Jonha Falls (time permitting).",
+          "Optional Activities: Organic farm visit and fresh local tea tasting.",
+          "Evening Experience: High-end therapeutic spa session at your luxury hotel to unwind after your jungle safari.",
+          "Overnight Stay: Radisson Blu Hotel Ranchi.",
+          "Meals Included: Gourmet Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEOGHAR TO RANCHI / DEPARTURE",
+        "description": "CHERISHING UNFORGETTABLE MEMORIES & FAREWELL Savor your final morning breakfast at the hotel, soaking in the serene spiritual atmosphere of Deoghar. If time permits, visit the beautifully designed Naulakha Mandir, famous for its grand architecture reminiscent of Ramakrishna Math structures. Conclude your premium journey as your luxury chauffeur drives you smoothly back to Ranchi Airport or Deoghar Airport/Station for your departure flight home. Board your onward flight with a relaxed spirit and a heart full of unforgettable memories, all meticulously designed and perfectly executed by TRAGUIN.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Chanakya BNR (Executive Room) | Hotel Prabhat Vihar | Van Vihar Forest Resort | Hotel Baidyanath (Executive)",
+        "location": "Ranchi | Netarhat | Betla | Deoghar",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla|1N Deoghar",
+        "description": "OPTION 01 – DELUXE: Chanakya BNR (Executive Room) | Hotel Prabhat Vihar | Van Vihar Forest Resort | Hotel Baidyanath (Executive) | Continental Breakfast & Curated Gourmet Dinners (MAPAI)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room | Deluxe Cottage | Forest Resort | Executive Room",
+        "meal_plan": "Continental Breakfast & Curated Gourmet Dinners (MAPAI)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Capitol Hill / Landmark | Nature Premium Cottages | Betla Wildlife Retreat | Stoneberry Heritage Resort",
+        "location": "Ranchi | Netarhat | Betla | Deoghar",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla|1N Deoghar",
+        "description": "OPTION 02 – PREMIUM: Hotel Capitol Hill / Landmark | Nature Premium Cottages | Betla Wildlife Retreat | Stoneberry Heritage Resort | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room | Premium Cottage | Wildlife Retreat | Heritage Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Ranchi (Superior Room) | Netarhat Luxury Glamping Tents | The Tree House Resort (Luxury Cabin) | Hotel Sai Regency ",
+        "location": "Ranchi | Netarhat | Betla | Deoghar",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla|1N Deoghar",
+        "description": "OPTION 03 – LUXURY: Radisson Blu Ranchi (Superior Room) | Netarhat Luxury Glamping Tents | The Tree House Resort (Luxury Cabin) | Hotel Sai Regency (Premium Suite) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior Room | Glamping Tent | Luxury Cabin | Premium Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu (Executive Suite) | Royal Forest Eco-Lodge (VIP Wing) | Luxury Safari Lodge (Private Villa) | Imperial Suite Collec",
+        "location": "Ranchi | Netarhat | Betla | Deoghar",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla|1N Deoghar",
+        "description": "OPTION 04 – ULTRA LUXURY: Radisson Blu (Executive Suite) | Royal Forest Eco-Lodge (VIP Wing) | Luxury Safari Lodge (Private Villa) | Imperial Suite Collection | Premium bespoke breakfast and gourmet dinners daily",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite | VIP Wing | Private Villa | Imperial Suite",
+        "meal_plan": "Premium bespoke breakfast and gourmet dinners daily",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Gourmet Meal Plan: Daily breakfast and dinners curated by executive head chefs.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transfers: Dedicated private luxury SUV for all transits and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "VIP Assistance: Personalized welcome amenities and express check-ins.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Darshan: Pre-arranged VIP priority pass at Baidyanath Temple.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Elite Safari: Private 4x4 open-top Jeep Safari inside Betla National Park.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Professional Guide: Certified English/Hindi speaking destination specialists.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 real-time remote concierge assistance.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All Taxes Included: Drivers allowances, toll taxes, parking fees, and GST.",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Luxury Holidays • Premium Jharkhand Itinerary Page 6 of 8",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, alcoholic beverages, and mini-bar.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Excursions: Any activity specified as optional in the daily itinerary.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel Insurance: Comprehensive health and trip cancellation coverage.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping: Gratuities for drivers, safari trackers, and hotel staff.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Sohrai & Khovar Paintings: Stunning traditional canvas folk arts perfect for modern home decor. • Tussar Silk Sarees: World-renowned fine silks hand-woven directly by local master weavers. • Paitkar Art: Classic scroll paintings from ancient tribal settlements. • Local Culinary Treats: Try hot, fresh Dhuska with Ghugni at our exclusively vetted premium organic food stops. • TRAGUIN Luxury Holidays • Premium Jharkhand Itinerary Page 7 of 8",
+        "sort_order": 14
+      }
+    ]
+  }
+}

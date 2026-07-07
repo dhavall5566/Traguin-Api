@@ -1,0 +1,308 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-003-shimla-manali-classic-alpine-luxury",
+    "serial_code": "HP-003",
+    "traguin_tour_code": "TRG-HP-003",
+    "title": "Shimla Manali Classic • Alpine Luxury & Escapes",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-003 | TRAGUIN tour code TRG-HP-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Kufri • Kullu Valley • Manali • Solang Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Getaways, Honeymooners & Luxury Retreat Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June (Summer) & October to February (Snow Experience)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Curated)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium AC Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Hand-crafted mountain routes with pre-arranged pit stops at scenic",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Direct coordination with premium hoteliers for room upgrades and flexible",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Uniformed, mountain-trained expert chauffeurs with comprehensive navigation",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Handpicked",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Explore Shimla's Lakkar Bazaar for exquisite handcrafted wooden toys, walking sticks, and home decor items. In Manali, don't miss buying original Kullu shawls, warm rugs, and fresh organic mountain honey or apples directly from orchards. Cafes & Food: Old Manali boasts an incredible array of mountain cafes. Indulge in authentic wood-fired pizzas, fresh trout delicacies, mountain teas, and traditional Himachali Siddu dipped in hot ghee.",
+        "sort_order": 12
+      },
+      {
+        "text": "Weather & Clothing: Heavy woolens are recommended for winter months (Nov to Feb). Light jackets or",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-003-shimla-manali-classic-alpine-luxury-itinerary",
+    "title": "Shimla Manali Classic • Alpine Luxury & Escapes",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Shimla Manali Classic",
+    "overview": "SHIMLA MANALI CLASSIC • ALPINE LUXURY & ESCAPES Welcome to an ethereal journey meticulously crafted by TRAGUIN. Discover the ultimate Himachal Family Tour, a premium retreat designed to unveil the majestic peaks, lush valleys, and charming colonial heritages of Northern India. As your dedicated high-end travel consultants, TRAGUIN delivers a luxury holiday enriched with premium stays, immersive experiences, and breathtaking landscapes. From the historic ridges of Shimla to the adventurous, snow-draped horizons of Manali, every aspect is thoughtfully polished to create unforgettable memories for you and your loved ones.\n\nTOUR OVERVIEW\nThis bespoke luxury itinerary connects the two most iconic hill stations of Himachal Pradesh. Traveling inside a private, high-end vehicle managed by an experienced alpine chauffeur, your family will traverse winding mountain passes, pristine river banks, and pine-clad hillsides with unrivaled ease. Featuring handpicked hotels that overlook cloud-kissed ridges and inclusive gourmet dining, this journey captures the finest premium Himachal experience. Every day features an exclusive TRAGUIN curated experience note, from private high- tea viewpoints to fast-track adventure passes.\n\nWHY CHOOSE THE BEST HIMACHAL TOUR PACKAGE?\nA true Luxury Himachal Holiday demands a beautiful balance of heritage exploration, peaceful nature, and world-class hospitality. Himachal Pradesh remains home to some of the most iconic attractions in the Indian subcontinent. Whether it is walking down the historic Mall Road in Shimla, exploring the panoramic ridges of Kufri, or capturing the majestic snowcapped peaks of Solang Valley and Atal Tunnel near Manali, this destination provides unparalleled visual wonders. For discerning families and couples looking for a magical Himachal Honeymoon Package or Himachal Family Tour, the region offers top tourist places in Himachal packed with popular Instagram locations—such as the Beas River rapids, Hadimba Temple, and the colonial architectural masterpieces of the Viceregal Lodge. With specialized local handicraft shopping for pashmina shawls, immersive paragliding adventures, and intimate cafes, our customized TRAGUIN Himachal Packages stand out as the premium option, perfectly tailored to ensure you travel during the best time to visit Himachal with absolute peace of mind.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-003 | Shimla Manali Classic | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Himachal Pradesh package (HP-003 / TRG-HP-003): Shimla • Kufri • Kullu Valley • Manali • Solang Valley with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DELHI / CHANDIGARH TO SHIMLA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SHIMLA & KUFRI EXCURSION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SHIMLA TO MANALI VIA KULLU VALLEY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MANALI SOLANG VALLEY EXCURSION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: MANALI LOCAL SIGHTSEEING",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: MANALI TO DELHI / CHANDIGARH DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Hand-crafted mountain routes with pre-arranged pit stops at scenic",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Direct coordination with premium hoteliers for room upgrades and flexible",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: Uniformed, mountain-trained expert chauffeurs with comprehensive navigation",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DELHI / CHANDIGARH TO SHIMLA",
+        "description": "ASCENDING TO THE QUEEN OF HILL STATIONS Your premium Himachal experience kicks off with a warm welcome by your private TRAGUIN chauffeur at the airport/railway station. Board your luxury vehicle and begin a beautiful, scenic uphill drive towards Shimla. Watch the changing terrain as plains give way to terraced orchards and pine forests. Arrive at your handpicked luxury resort in Shimla, check into your room featuring sweeping views of the valley, and spend a relaxing evening enjoying the crisp mountain air.",
+        "activities": [
+          "Sightseeing Included: Scenic Himalayan Expressway drive, Pinjore timber trail vistas.",
+          "Evening Experience: Private veranda high-tea with valley views, arranged by TRAGUIN.",
+          "Overnight Stay: Shimla (Premium / Luxury Mountain Resort)",
+          "Meals Included: Welcome Refreshment & Gourmet Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHIMLA & KUFRI EXCURSION",
+        "description": "COLONIAL MAJESTY & PANORAMIC ALPINE PEAKS After a premium breakfast, proceed for a morning excursion to Kufri, an iconic attraction famed for its breathtaking landscapes and panoramic Himalayan snow-range views. Enjoy light adventure activities, yak rides, and photography points amidst dense cedar forests. In the afternoon, return to Shimla to explore its colonial past. Walk along the historic Mall Road, visit the beautiful Ridge, the neo-gothic Christ Church, and the grand Viceregal Lodge—once the summer seat of British viceroys.",
+        "activities": [
+          "Sightseeing Included: Kufri Fun World, Viceregal Lodge, The Ridge, Mall Road, Christ Church, Scandal Point.",
+          "Optional Activities: Pony trekking in Kufri trails or heritage indoor tour of the Viceregal ballroom.",
+          "Overnight Stay: Shimla (Premium / Luxury Mountain Resort)",
+          "Meals Included: Premium Breakfast & Luxury Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SHIMLA TO MANALI VIA KULLU VALLEY",
+        "description": "SCENIC DRIVE ALONG THE RUSHING WATERS OF THE BEAS Bid adieu to Shimla and drive towards Manali through the spellbinding Kullu Valley. This scenic route traces the roaring Beas River, framed by towering granite cliffs and emerald pine woodlands. Stop en route at the beautiful Pandoh Dam and visit the traditional handloom factories in Kullu for exclusive shopping of authentic pashmina and woolens. Arrive in Manali by evening—a top tourist place in Himachal—and settle into an exquisite luxury riverside hotel.",
+        "activities": [
+          "Sightseeing Included: Kullu Valley drive, Pandoh Dam, Hanogi Mata Temple overlooks, Beas River vistas.",
+          "Evening Experience: Riverside bonfire with live traditional music recommendations by TRAGUIN experts.",
+          "Overnight Stay: Manali (Premium Customised Riverside Resort)",
+          "Meals Included: Breakfast & Lavish Buffet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MANALI SOLANG VALLEY EXCURSION",
+        "description": "SNOW FIELDS, GLACIERS & HIGHLAND ADVENTURE Today is dedicated to the thrilling alpine playground of Solang Valley, globally renowned for its immersive experiences and outdoor sports. Witness breathtaking landscapes of glaciers and snowcapped mountains. Participate in thrilling optional activities like paragliding, zorbing, and a scenic cable-car ropeway ride. (Depending on weather and permissions, an optional excursion to the engineering marvel of Atal Tunnel or Rohtang Pass can be seamlessly added by your consultant).",
+        "activities": [
+          "Sightseeing Included: Solang Valley Meadow, Snow Point Viewpoints, Adventure Activity Arenas.",
+          "Optional Activities: Tandem paragliding, quad biking over snow, or Atal Tunnel north-portal crossing.",
+          "Overnight Stay: Manali (Premium Customised Riverside Resort)",
+          "Meals Included: Premium Breakfast & Chef's Special Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "MANALI LOCAL SIGHTSEEING",
+        "description": "CULTURAL HERITAGE, FOREST SANCTUARIES & OLD MANALI CAFES Explore the unique cultural tapestry of Manali today. Visit the 16th-century wooden Hadimba Temple, set inside the deep shade of towering Dhungri Deodar forests. Explore the sacred Vashisht Hot Water Springs, followed by the serene Tibetan Monastery. Spend your afternoon wandering through the popular Instagram locations of Old Manali, enjoying its vibrant bohemian cafes, local bakeries, and unique lifestyle boutiques.",
+        "activities": [
+          "Sightseeing Included: Hadimba Devi Temple, Vashisht Village & Springs, Tibetan Monastery, Old Manali lanes.",
+          "Evening Experience: Leisurely shopping walk on Manali Mall Road with custom local food suggestions.",
+          "Overnight Stay: Manali (Premium Customised Riverside Resort)",
+          "Meals Included: Breakfast & Farewell Grand Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MANALI TO DELHI / CHANDIGARH DEPARTURE",
+        "description": "RETURNING WITH MEMORIES BEYOND DESTINATIONS Enjoy your final luxury breakfast facing the mist-draped Beas valley. Pack your bags and check out from your premium resort. Your private vehicle will carefully drive you down the smooth highway paths back to Chandigarh or New Delhi airport/railway station. Head homeward carrying a treasure trove of laughter, familial bonds, and unforgettable memories exclusively designed for you by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private door-to-door highway departure drop-off.",
+          "Meals Included: Lavish Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / East",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Willow Banks / East | Bourne Resort | The Grand Welcome / Solang",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Bourne Resort",
+        "meal_plan": "The Grand Welcome / Solang",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Hotel Shimla / | Sterling Kufri | ManuAllaya Resort / Tiaraa",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Sterling Kufri",
+        "meal_plan": "ManuAllaya Resort / Tiaraa",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj The Trees, Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: The Taj The Trees, Shimla / | Welcomhotel | The Himalayan Castle / Span",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Welcomhotel",
+        "meal_plan": "The Himalayan Castle / Span",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Wildflower Hall, An Oberoi | Resort (Luxury Suite) | The Oberoi Sukhvilas /",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Resort (Luxury Suite)",
+        "meal_plan": "The Oberoi Sukhvilas /",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Curated stay options across handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Chauffeur-driven AC Innova Crysta throughout.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily elaborate breakfasts and multi-cuisine dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel concierge assistant on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Himalayan customized travel kits, organic juices & fruits.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private bonfire session & family portrait photography pointers.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight extensions, or train tickets to Delhi/ Chandigarh.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Rohtang Pass NGT permissions & local shuttle vehicle charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure sport fees (paragliding, zorbing, river rafting tickets).",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidentals, room service, laundry, tips, and insurance. TRAGUIN Premium Luxury Itinerary — HP-003 5",
+        "sort_order": 10
+      }
+    ]
+  }
+}

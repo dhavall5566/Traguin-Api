@@ -1,0 +1,268 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-002-chandigarh-shimla-combo-premium-family-tour",
+    "serial_code": "CH-002",
+    "traguin_tour_code": "TRG-CH-SH-002",
+    "title": "Chandigarh Shimla Combo — The Garden City Meets the Queen of Hills",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-002 | TRAGUIN tour code TRG-CH-SH-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh & Himachal Pradesh / India | Category: Premium Family Tour Combo",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh • Shimla • Kufri",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Luxury Mountain Getaways & Honeymooners",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & October to February",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Luxury chauffeur-driven vehicle / MAPAI plan",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: private family historical briefing on Shimla's colonial landmarks",
+        "sort_order": 8
+      },
+      {
+        "text": "Shopping: Lakkar Bazar wooden handicrafts, pashmina shawls, local apple jams",
+        "sort_order": 9
+      },
+      {
+        "text": "Instagram spots: Christ Church neo-Gothic structure, Mashobra forest valley views",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Romantic"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-002-chandigarh-shimla-combo-itinerary",
+    "title": "Chandigarh Shimla Combo — The Garden City Meets the Queen of Hills",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Garden City Meets the Queen of Hills",
+    "overview": "Welcome to an exquisite holiday experience curated exclusively by TRAGUIN. Embark on a spectacular Chandigarh Shimla Combo designed to give you a perfect blend of high-end urban planning and old-world alpine romance. As your elite travel planners, TRAGUIN transforms your vacation into a premium mountain escape filled with curated experiences, breathtaking landscapes, and handpicked hotels. From the beautifully designed architectural marvels of Chandigarh to the snow-dusted ridges and pine-scented paths of Shimla, every element is stitched meticulously to craft unforgettable memories for your family.\n\nThis custom luxury holiday package offers a perfect seamless route from Chandigarh's manicured modern layouts straight into the grand heritage trails of Shimla. Traveling in a premium private AC vehicle managed by a background-verified chauffeur, your family enjoys unmatched hospitality, seamless comfort, and safety. Enjoy a curated meal plan featuring lavish buffet breakfasts and elite dinners at your premium stays.\n\nWhy choose the best Chandigarh Shimla tour package? This magnificent route combines top tourist places in Chandigarh—including the unique Nek Chand Rock Garden and Sukhna Lake—with the legendary colonial charm and majestic mountain ranges of Shimla. For couples seeking a romantic Chandigarh Shimla Honeymoon Package or families choosing a Chandigarh Shimla Family Tour, this combo features popular Instagram locations such as the heritage Gaiety Theatre on Mall Road, the panoramic mountain peaks of Kufri, and the beautiful multi-tiered Pinjore Gardens.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-002 | Chandigarh Shimla Combo Premium Family Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Chandigarh Shimla combo (CH-002 / TRG-CH-SH-002): Rock Garden, Sukhna Lake, Pinjore Gardens, Viceregal Lodge, Mall Road, Kufri, Mashobra, and 4-tier hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Rock Garden, Rose Garden & Sukhna Lake private sunset cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Pinjore Gardens (Yadavindra Gardens) en route to Shimla",
+        "sort_order": 2
+      },
+      {
+        "text": "Viceregal Lodge, The Ridge, Christ Church & Mall Road",
+        "sort_order": 3
+      },
+      {
+        "text": "Kufri Fun World, Mahasu Peak & Mashobra apple orchards",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts with hill-expert drivers",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Sightseeing — The Luxury Urban Experience",
+        "description": "Your premium adventure begins as you land at Chandigarh Airport or arrive at the railway station. A luxury vehicle will instantly escort your family to a premium handpicked hotel. After checking in, head out to explore the best Chandigarh sightseeing spots. Wander through the world-famous Rock Garden, decorated entirely with recycled industrial art, followed by a serene walk in the Rose Garden. As the evening sets, experience an exclusive private sunset cruise at Sukhna Lake, arranged specially by your TRAGUIN consultant.",
+        "activities": [
+          "Sightseeing Included: Nek Chand's Rock Garden, Zakir Hussain Rose Garden, Sukhna Lake Promenade",
+          "Evening Experience: Private luxury shikara/boat cruise at Sukhna Lake followed by high-end dinner at Sector 26",
+          "Overnight Stay: Chandigarh (Premium / Luxury Selected Hotel)",
+          "Meals Included: Welcome Drink & Luxury Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Chandigarh to Shimla via Pinjore — Royal Mughal Gardens to Alpine Grandeur",
+        "description": "Savor a delightful breakfast before checking out. Your private vehicle will journey along the scenic Himalayan Expressway towards Shimla. En route, make a grand stop at the historic Pinjore Gardens to admire its magnificent fountains and terraced lawns. As you climb higher into the mountains, witness the dramatic transition into breathtaking landscapes of dense pine forests. Upon arrival in Shimla, the Queen of Hills, check into your ultra-luxury resort and relax in front of stunning valley views.",
+        "activities": [
+          "Sightseeing Included: Pinjore Gardens (Yadavindra Gardens), Timber Trail panoramic view pass",
+          "Scenic Route Points: Shivalik foothills photography stops, Solan Valley views",
+          "Overnight Stay: Shimla (Premium Luxury Mountain Resort)",
+          "Meals Included: Premium Breakfast & Gourmet Valley-View Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Shimla Colonial Heritage Exploration — Colonial Legacies & Mall Road",
+        "description": "Immerse yourself today in the royal British history of Shimla. Begin with an exclusive guided tour of the Indian Institute of Advanced Study (Viceregal Lodge), an elegant Scottish baronial mansion. Later, take a pleasant walk along the historic Ridge, see the Christ Church, and wander down the bustling Mall Road. Enjoy a hot brew at a premium heritage cafe and shop for local wooden souvenirs.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge, The Ridge, Christ Church, Mall Road, Scandal Point, Gaiety Theatre",
+          "Evening Experience: Reserved sunset terrace seating at a boutique colonial cafe",
+          "Overnight Stay: Shimla (Premium Luxury Mountain Resort)",
+          "Meals Included: Breakfast & Exquisite Themed Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Excursion to Kufri & Mashobra — Snow-Capped Peaks & Unforgettable Highlands",
+        "description": "Drive today to Kufri, a high-altitude playground famous for its scenic beauty and sweeping views of the snow-capped Greater Himalayas. Walk or ride a pony through rhododendron forests to reach the highest viewpoint. If traveling in winter, enjoy the snowy landscapes. In the afternoon, explore Mashobra's quiet wilderness trails before returning to Shimla for your final mountain evening.",
+        "activities": [
+          "Sightseeing Included: Kufri Fun World, Mahasu Peak, Mashobra apple orchard valleys",
+          "Optional Activities: Yak riding, photography sessions in traditional Himachali attire",
+          "Overnight Stay: Shimla (Premium Luxury Mountain Resort)",
+          "Meals Included: Breakfast & Farewell Premium Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Shimla to Chandigarh Departure — Memories Beyond Destinations",
+        "description": "Relish a long, lazy breakfast overlooking the mist-filled valley. Check out from your resort as your private luxury transport smoothly drives you back down to Chandigarh. Reflect on the beautiful moments and unforgettable family bonds formed during this journey. You will be dropped off at Chandigarh Airport or the Railway Station for your onward destination.",
+        "activities": [
+          "Transfers Included: Private downhill luxury transfer to Chandigarh Airport / Station",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Premier / Hotel East Bourne Resort / similar",
+        "location": "Chandigarh (1N) / Shimla (3N)",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Executive Room",
+        "meal_plan": "Breakfast & Dinner (MAPAI)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Chandigarh / Radisson Hotel Shimla / similar",
+        "location": "Chandigarh (1N) / Shimla (3N)",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Club Room",
+        "meal_plan": "Breakfast & Dinner (MAPAI)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh / The Clarkes (Heritage) / Combermere",
+        "location": "Chandigarh (1N) / Shimla (3N)",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Room",
+        "meal_plan": "Luxury Buffet Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort / Wildflower Hall, An Oberoi Resort",
+        "location": "Chandigarh (1N) / Shimla (3N)",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Room / Luxury Suite",
+        "meal_plan": "Bespoke Fine Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Standard/Suite rooms in handpicked hotels as per chosen tier",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private dedicated high-end vehicle for transfers & sightseeing",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Lavish breakfasts and daily gourmet multi-cuisine dinners",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated professional guest experience manager on call",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Personalized welcome kit, snacks, and mineral water bottles",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive private sunset boat ride voucher at Sukhna Lake",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to Chandigarh",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera passes, and local guide charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, liquor, telephone bills, and room service",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Pony ride charges at Kufri or optional sports activities",
+        "sort_order": 10
+      }
+    ]
+  }
+}

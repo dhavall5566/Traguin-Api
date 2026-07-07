@@ -1,0 +1,389 @@
+{
+  "destination_slug": "japan",
+  "package": {
+    "slug": "jp-003-romantic-japan-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Romantic Japan Honeymoon",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 50,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Tokyo (2N) → Hakone Onsen (1N) → Kyoto (3N) → Osaka (1N) romantic circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Private helicopter skyline cruise over Tokyo at sunset",
+        "sort_order": 2
+      },
+      {
+        "text": "Luxury Ryokan private onsen & first-class Shinkansen",
+        "sort_order": 3
+      },
+      {
+        "text": "Private tea ceremony, rickshaw & bamboo grove serenade",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-JPN-ROMANCE-2026 | Serial JP-003",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Cultural",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "jp-003-romantic-japan-itinerary",
+    "title": "Romantic Japan Honeymoon",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Honeymoon Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Tokyo • Mt. Fuji • Kyoto Bamboo • Osaka Twilight",
+    "overview": "Begin your life together where timeless elegance meets the edge of tomorrow. TRAGUIN's romantic Japan escape weaves Michelin-tier dining, intimate volcanic hot-spring encounters, first-class Shinkansen, and quiet strolls through historical geisha districts — with private luxury vans and 24/7 bilingual support.",
+    "is_featured": true,
+    "featured_sort_order": 50,
+    "seo_title": "JP-003 | Romantic Japan Honeymoon | TRAGUIN",
+    "seo_description": "Ultra-luxury 07 Nights / 08 Days Japan honeymoon (JP-003): Tokyo helicopter cruise, Hakone onsen, Kyoto tea ceremony, Golden Pavilion, and Dotonbori farewell.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Helicopter Skyline Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Hakone Luxury Ryokan Private Onsen",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Rickshaw & Tea Ceremony",
+        "sort_order": 3
+      },
+      {
+        "text": "Golden Pavilion & Fushimi Inari",
+        "sort_order": 4
+      },
+      {
+        "text": "Dotonbori Neon Farewell Gala",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Tokyo & Helicopter Skyline Cruise",
+        "description": "Elite airport meet-and-greet. Private executive van to ultra-luxury hotel. Private helicopter flight over Tokyo at sunset with Tokyo Tower and Skytree views.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private luxury van, private helicopter skyline cruise",
+          "Honeymoon Touch: Chilled champagne and seasonal strawberries in suite",
+          "Overnight Stay: Tokyo Center (Ultra-Luxury Sky-high Property)",
+          "Meals Included: Waterfront Candlelight Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Tokyo Art Insights & The TeamLab Maze",
+        "description": "Morning exploring Ginza boutiques. Priority skip-the-line entry to teamLab Planets immersive digital art experience.",
+        "activities": [
+          "Sightseeing Included: TeamLab Planets priority admission, Ginza fashion boulevard walk",
+          "Overnight Stay: Tokyo Center (Ultra-Luxury Sky-high Property)",
+          "Meals Included: International Breakfast & Intimate Sushi Fine-Dining Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Mount Fuji Hideaway & Rejuvenating Hot Springs",
+        "description": "Scenic drive toward Mt. Fuji. Check into luxury Ryokan in Hakone with private outdoor onsen hot-spring bath. TRAGUIN luggage forwarding to Kyoto.",
+        "activities": [
+          "Sightseeing Included: Mt. Fuji scenic valley trail, private hot spring relaxation",
+          "Logistics Highlight: Luggage forwarding from Tokyo to Kyoto",
+          "Overnight Stay: Hakone (Elite Luxury Onsen Ryokan Resort)",
+          "Meals Included: International Breakfast & Multi-course Kaiseki Feast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "First-Class Bullet Train to Poetic Kyoto",
+        "description": "First-class Shinkansen to Kyoto. Intimate private guided evening walk through Gion geisha lanes and Shirakawa canal.",
+        "activities": [
+          "Sightseeing Included: First-class Shinkansen ticket, Gion heritage district evening walk",
+          "Overnight Stay: Kyoto Riverside (Ultra-Luxury Boutique Palace Resort)",
+          "Meals Included: International Breakfast & Traditional Kyoto Bistro Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Private Temple Tea Ceremony & Bamboo Serenade",
+        "description": "Private rickshaw through Arashiyama Bamboo Grove at sunrise. Private Matcha Tea Ceremony hosted by expert master at hidden temple pavilion.",
+        "activities": [
+          "Sightseeing Included: Arashiyama Bamboo Grove rickshaw ride, private zen tea ceremony",
+          "Overnight Stay: Kyoto Riverside (Ultra-Luxury Boutique Palace Resort)",
+          "Meals Included: International Breakfast & Fine Dining Kaiseki Lunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "The Golden Pavilion & Crimson Torii Pathways",
+        "description": "Kinkaku-ji Golden Pavilion reflecting across mirror pond. Fushimi Inari Shrine vermilion torii gate mountain trail.",
+        "activities": [
+          "Sightseeing Included: Kinkaku-ji Golden Pavilion entry, Fushimi Inari torii trail",
+          "Overnight Stay: Kyoto Riverside (Ultra-Luxury Boutique Palace Resort)",
+          "Meals Included: International Breakfast & Premium Wagyu Beef Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Transit to Dynamic Osaka & Neon Farewell Gala",
+        "description": "Osaka Castle park tour. Intimate culinary walking tour through Dotonbori neon canals. Grand honeymoon finale candlelight dinner.",
+        "activities": [
+          "Sightseeing Included: Osaka Castle guided tour, Dotonbori culinary trail",
+          "Evening Experience: Grand honeymoon finale candlelight dinner",
+          "Overnight Stay: Osaka Centre (Ultra-Luxury Modern Property)",
+          "Meals Included: International Breakfast & Riverfront Gastronomy Farewell Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "High-End Resort Farewell & Departure",
+        "description": "Luxurious final breakfast. Private van to Osaka Kansai International Airport with luggage coordination.",
+        "activities": [
+          "Transfers Included: Private luxury van airport departure, priority luggage coordination",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Keio Plaza Hotel Tokyo / similar",
+        "location": "Tokyo",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hakone Yumoto Onsen / similar",
+        "location": "Hakone",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast & Kaiseki Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Thousand Kyoto / Cross Osaka / similar",
+        "location": "Kyoto / Osaka",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Cerulean Tower Tokyu",
+        "location": "Tokyo",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Hakone Kowakien Ten-yu",
+        "location": "Hakone",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast & Kaiseki Dinner",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Kyoto Tokyu Hotel / Swissotel Nankai",
+        "location": "Kyoto / Osaka",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Capitol Hotel Tokyu",
+        "location": "Tokyo",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Gora Kadan Ryokan",
+        "location": "Hakone",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast & Kaiseki Dinner",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "The Ritz-Carlton Kyoto / W Osaka",
+        "location": "Kyoto / Osaka",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Aman Tokyo / Palace Hotel",
+        "location": "Tokyo",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Hoshinoya Fuji / Gora Kadan",
+        "location": "Hakone",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast & Kaiseki Dinner",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Aman Kyoto / St. Regis Osaka",
+        "location": "Kyoto / Osaka",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in ultra-luxury honeymoon suites across Tokyo, Hakone, Kyoto, and Osaka",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary chilled champagne, seasonal strawberries, and floral arrangements on arrival",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private helicopter skyline cruise over Tokyo landmarks",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury executive van and first-class Shinkansen transits",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN seamless hotel-to-hotel luggage forwarding (1 bag per person)",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP skip-the-line entries and private tea ceremony with zen master",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and Japan entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar billing",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, or extra sightseeing not specified",
+        "sort_order": 10
+      }
+    ]
+  }
+}

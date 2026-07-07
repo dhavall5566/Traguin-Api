@@ -1,0 +1,252 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-009-ladies-retreat-rishikesh",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Ladies Retreat Rishikesh • Renewal, Sisterhood & Sacred Waters",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 28,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Rishikesh (4N) with Shivpuri rafting and Kunjapuri sunrise",
+        "sort_order": 1
+      },
+      {
+        "text": "Private luxury Traveller/Innova with female concierge support",
+        "sort_order": 2
+      },
+      {
+        "text": "APAI — all gourmet breakfasts, lunches, and dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Private Tibetan Sound Bowl healing workshop",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated local female concierge assistance",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-009 | Serial UK-009",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Spiritual",
+      "Solo"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-009-ladies-retreat-itinerary",
+    "title": "Ladies Retreat Rishikesh • Renewal, Sisterhood & Sacred Waters",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium All-Women Exclusive Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Rishikesh • Narendranagar • Shivpuri • Haridwar",
+    "overview": "This elite, all-women customized luxury holiday package offers an exquisite balance of adventure, holistic wellness, and royal comfort. Travelling in a high-end, chauffeured private premium vehicle backed by female concierge assistance, your group will enjoy unmatched security and leisure. With a carefully structured healthy gourmet meal plan featuring daily organic spreads, this route represents the definitive premium Uttarakhand experience. Every stage of your retreat features the distinct TRAGUIN curated experience note, including private sound-healing workshops, reserved premium seating at the ghats, and tailored local exploration.",
+    "is_featured": true,
+    "featured_sort_order": 28,
+    "seo_title": "UK-009 | Ladies Retreat Rishikesh | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days all-women Rishikesh retreat (UK-009): yoga, rafting, Kunjapuri sunrise, sound healing, and APAI full-board plan with 4N Rishikesh luxury stays.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sunrise Yoga & Meditation",
+        "sort_order": 1
+      },
+      {
+        "text": "Beatles Ashram",
+        "sort_order": 2
+      },
+      {
+        "text": "Shivpuri White-Water Rafting",
+        "sort_order": 3
+      },
+      {
+        "text": "Kunjapuri Devi Temple Sunrise",
+        "sort_order": 4
+      },
+      {
+        "text": "Private Ganga Aarti Ceremony",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Rishikesh | Welcome to the Spiritual Capital",
+        "description": "Your premium Uttarakhand experience begins as you arrive at Dehradun Airport or Haridwar Station, where a private luxury transport coach with dedicated guest assistance awaits your group. Drive along scenic routes carved through the Shivalik forests to arrive in Rishikesh, checking into a handpicked premium wellness resort overlooking the majestic Ganges. After a refreshing organic welcome juice, indulge in a complimentary evening group foot reflexology session to melt away travel fatigue.",
+        "activities": [
+          "Sightseeing Included: Scenic Shivalik foothills drive, Riverside premium wellness resort check-in",
+          "Evening Experience: Group ice-breaking dinner with custom herbal cocktails curated by TRAGUIN experts",
+          "Overnight Stay: Rishikesh (Premium Riverside Luxury Spa Resort)",
+          "Meals Included: Welcome Drink, Refreshing High Tea & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Rishikesh Ayurveda & Sacred Sightseeing | Yoga Sanctuary & Private Ganga Aarti",
+        "description": "Awake early for a sunrise meditation and yoga session led by a master yogi. After a delicious gourmet breakfast, enjoy a curated tour of the famous Beatles Ashram, where the legendary band practiced transcendental meditation amidst breathtaking landscapes. In the afternoon, walk past the iconic attractions of Ram Jhula and Lakshman Jhula. As dusk falls, enjoy an exclusive experience at a private ghat for an emotional, soul-stirring Ganga Aarti ceremony with premium reserved seating.",
+        "activities": [
+          "Sightseeing Included: Beatles Ashram, Ram Jhula, Parmarth Niketan, Private Aarti Ghat",
+          "Optional Activities: Private customized astrological and aura reading session inside the resort",
+          "Overnight Stay: Rishikesh (Premium Riverside Luxury Spa Resort)",
+          "Meals Included: Organic Breakfast, Spa Lunch & Fine Dining Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Shivpuri River Adventure & Beach Picnic | White Water Thrills",
+        "description": "Today combines high-octane adventure with scenic beauty. Travel to Shivpuri for a thrilling, professionally-guided white-water rafting experience along the emerald currents of the Ganges. For those seeking relaxation, alternative paths lead to beautiful nature walks. Gather later on a clean, white-sand beach for a private luxury picnic lunch featuring live acoustic music and gourmet local delicacies setup exclusively for your group.",
+        "activities": [
+          "Sightseeing Included: Shivpuri river rapids, white-sand river beaches, secret mountain stream trails",
+          "Evening Experience: Resort bonfire night under the starry skies with curated interactive drumming circles",
+          "Overnight Stay: Rishikesh (Premium Riverside Luxury Spa Resort)",
+          "Meals Included: Gourmet Breakfast, Luxury Beach Picnic Lunch & Live Barbecue Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Kunjapuri Sunrise & Luxury Wellness Retreat | Sound Healing Therapy",
+        "description": "An unforgettable morning begins before dawn with a luxury drive up to Kunjapuri Devi Temple, perched high on a ridge at 1,645 meters. Witness a spectacular sunrise illuminating the snow-clad peaks of the Himalayas—a highly sought-after photography point. Return to the resort for an afternoon of pure leisure. Participate in an exclusive, deeply restorative Tibetan Sound Bowl healing workshop designed to align your mind and spirit.",
+        "activities": [
+          "Sightseeing Included: Kunjapuri Mountain Summit, Himalayan Range Panorama view points",
+          "Optional Activities: Signature full-body Ayurvedic Abhyanga massage at the elite resort wellness wing",
+          "Overnight Stay: Rishikesh (Premium Riverside Luxury Spa Resort)",
+          "Meals Included: Summit High-Tea Breakfast, Nutritious Lunch & Elegant Farewell Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure via Haridwar | Returning with Renewed Vigor & Lifelong Sisterhood",
+        "description": "Enjoy your final organic breakfast overlooking the misty river currents. Check out from your premium stays property and embark on a smooth return drive via Haridwar. Stop briefly to see the sacred Har Ki Pauri ghat before your private vehicle safely transfers you to Dehradun Airport or Haridwar station for your journey home. Return carrying a deep sense of peace, empowerment, and unforgettable memories designed with passion by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury group drop-off with complete luggage handling assistance",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Aloha On The Ganges / Divine Resort / similar",
+        "location": "Rishikesh",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Garden View Executive Room",
+        "meal_plan": "APAI (Breakfast, Lunch & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Shiva / Namami Ganges / similar",
+        "location": "Rishikesh",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Private Balcony Room",
+        "meal_plan": "APAI (Breakfast, Lunch & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Rishikesh Resort & Spa / The Roseate Ganges",
+        "location": "Rishikesh",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury River View Suite",
+        "meal_plan": "APAI + Wellness Privilege Kit",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Ananda In The Himalayas (Palace Estate)",
+        "location": "Rishikesh",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Royal Palace Garden Suite",
+        "meal_plan": "Bespoke Signature Detox APAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights inside high-end handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Dedicated private AC vehicle with experienced tourist driver",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Full-board APAI plans (All gourmet breakfasts, lunches & dinners)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local female concierge assistance on call",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized organic skincare gift kit and welcome beverages",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private Tibetan Sound Bowl healing & reserved Aarti seating",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight charges, or long-distance train tickets",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as external laundry, shopping, phone calls",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual tip distributions, alcohol bills, optional medical insurances",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any extreme adventure sports not explicitly mentioned in the itinerary",
+        "sort_order": 10
+      }
+    ]
+  }
+}

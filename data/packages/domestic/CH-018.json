@@ -1,0 +1,267 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-018-chandigarh-kasauli-hills-escape",
+    "serial_code": "CH-018",
+    "traguin_tour_code": "TG-CH-018-PREM",
+    "title": "Chandigarh & Kasauli Hills Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-018 | TRAGUIN tour code TG-CH-018-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh & HP / India | Category: Leisure Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh • Kasauli Hills",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Leisurists",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Round the year (Oct to Jun ideal)",
+        "sort_order": 5
+      },
+      {
+        "text": "Private solar boat cruise experience at Sukhna Lake",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private twilight valley-view dining and customized historical walks",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Kasauli hand-woven shawls, artisanal fruit wines, Phulkari embroidery",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Romantic",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-018-chandigarh-kasauli-hills-itinerary",
+    "title": "Chandigarh & Kasauli Hills Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Kasauli Hills Escape)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Urban Masterpiece Meet Sublime Alpine Serenity",
+    "overview": "Experience a perfectly orchestrated transition from urban architectural luxury to serene alpine grandeur with the Premium Chandigarh Experience curated by TRAGUIN travel specialists. This hand-tailored luxury holiday brings together the structural elegance of Chandigarh and the colonial timeless charm of Kasauli Hills.\n\nTravel Setup: Fully Private Customized Leisure Tour (FIT). Vehicle Allocation: Luxury Premium Sedan / SUV (Innova Crysta). Meal Plan: Modified American Plan (Daily Premium Breakfast & Gourmet Dinner). TRAGUIN Curated Experience Note: VIP access entry at key sites, private candlelit dinner option in Kasauli.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-018 | Chandigarh & Kasauli Hills Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days package (CH-018 / TG-CH-018-PREM): Sukhna Lake solar boat cruise, Rock Garden, Kasauli Heritage Mall Road, Gilbert Trail, Manki Point, and split-stay hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sukhna Lake Private Sunset Boat Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Nek Chand Rock Garden & Rose Garden",
+        "sort_order": 2
+      },
+      {
+        "text": "Kasauli Heritage Mall Road & Christ Church",
+        "sort_order": 3
+      },
+      {
+        "text": "Gilbert Trail Nature Walk",
+        "sort_order": 4
+      },
+      {
+        "text": "Manki Point Panoramic Lookout",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Sukhna Lake Luxury Cruise",
+        "description": "Welcome to the City of Joy and structural perfection. Arrive at Chandigarh Airport or Railway Station, where your dedicated TRAGUIN luxury chauffeur awaits. After a smooth check-in, begin your exploration with a visit to the iconic Sukhna Lake. We have curated an exclusive private solar boat cruise for you during sunset.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake Promenade & Waterfront Walk",
+          "Evening Experience: Private Sunset Boat Cruise Experience",
+          "Overnight Stay: Chandigarh (Premium Luxury Hotel)",
+          "Meals Included: Gourmet Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Revealing Architectural Wonders & Rose Garden Balm",
+        "description": "Savor a lavish morning buffet breakfast before venturing out to see the finest landmarks of Chandigarh Sightseeing at Nek Chand's famous Rock Garden and the Zakir Hussain Rose Garden. In the afternoon, explore the architectural landmarks of the Capitol Complex or enjoy premium high-street shopping at Sector 17 Plaza.",
+        "activities": [
+          "Sightseeing Included: Nek Chand Rock Garden, Rose Garden, Sector 17 Architectural Tour",
+          "Photography Points: Recycled sculpture galleries, blooming rose beds",
+          "Overnight Stay: Chandigarh",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Journey to Kasauli Hills & Colonial Mall Road Walks",
+        "description": "Bid adieu to the plains as we take a smooth, winding, scenic drive upward into the crisp mountain air of Kasauli Hills. Upon arrival in Kasauli, check into your ultra-premium boutique resort. In the afternoon, take a leisurely stroll down the historic colonial Heritage Mall Road and visit the neo-gothic Christ Church.",
+        "activities": [
+          "Sightseeing Included: Heritage Mall Road, Colonial Christ Church Walk",
+          "Evening Experience: Mountain tea-tasting & bonfire at your resort",
+          "Overnight Stay: Kasauli Hills (Luxury Valley-View Resort)",
+          "Meals Included: Premium Breakfast & Valley-view Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Hiking Gilbert Trail & Panoramic Manki Point View",
+        "description": "Awake to the birds singing and a magnificent sunrise cutting through the mountain mist. We begin with the famous Gilbert Trail, a short, flat, yet highly scenic nature walk along a cliff edge. Later, we drive up to the historical Manki Point, the highest point in Kasauli. Spend your final evening enjoying an exclusive, curated dinner setup beneath the stars.",
+        "activities": [
+          "Sightseeing Included: Gilbert Trail Nature Walk, Manki Point Lookout",
+          "Exclusive Recommendation: Sip traditional hot Himachali apple cider",
+          "Overnight Stay: Kasauli Hills",
+          "Meals Included: Premium Breakfast & Candlelit Farewell Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Farewell to the Hills & Departure from Chandigarh",
+        "description": "Enjoy a leisurely breakfast on the terrace deck of your resort. Your TRAGUIN luxury transport will pick you up for a smooth downhill drive back to Chandigarh, delivering you comfortably to Chandigarh Airport or Railway Station for your return flight home.",
+        "activities": [
+          "Sightseeing Included: En-route scenic photo stops in Pinjore Valley",
+          "Assistance: Complete baggage handling and airport gate drop-off",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Hearty Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Hyatt Regency / Lemon Tree | Kasauli Exotica / Fortune Resort",
+        "location": "Chandigarh / Kasauli",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room / Resort Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh (Superior Room) | The Fern Surya Resort / Rosetum",
+        "location": "Chandigarh / Kasauli",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Superior Room / Valley Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Chandigarh (Luxury Suite) | Welcomhotel by ITC Hotels, Kasauli",
+        "location": "Chandigarh / Kasauli",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite / Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort | TRAGUIN Private Elite Villas & Spas",
+        "location": "Chandigarh / Kasauli",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Elite Villa",
+        "meal_plan": "All Inclusive Premium",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights in Chandigarh & 02 Nights in Kasauli at handpicked premium hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily multi-cuisine buffet breakfast and curated chef-crafted dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private luxury Innova Crysta for all transfers and tours",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private solar boat cruise experience at Sukhna Lake",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "All monument entry passes, parking fees, highway tolls, and driver allowances",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary welcome amenities, fresh seasonal fruits, and mineral water bottles",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Specialized 24/7 TRAGUIN on-ground destination support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Inter-state flights or railway tickets to Chandigarh",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone charges, or liquor",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional adventure sports, paragliding, or porter tips",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical insurance and items not declared in the inclusions",
+        "sort_order": 11
+      }
+    ]
+  }
+}

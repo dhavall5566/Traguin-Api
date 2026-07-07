@@ -1,0 +1,255 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-018-premium-mussoorie-dhanaulti-romantic-experience",
+    "serial_code": "UK-018",
+    "traguin_tour_code": "TRG-UK-018",
+    "title": "Premium Mussoorie & Dhanaulti Romantic Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UK-018 | TRAGUIN tour code TRG-UK-018",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Uttarakhand, India | Category: Honeymoon / Romantic Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mussoorie • Dhanaulti",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Newlyweds, Couples & Romance Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & September to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle & Meals: Dedicated Luxury Chauffeur Sedan / SUV at disposal | Modified American Plan (Artisan Breakfasts & Romantic Candlelight Dinners Included)",
+        "sort_order": 6
+      },
+      {
+        "text": "Route: Dehradun Arrival → Scenic Mussoorie Foothills Drive → Eco Dhanaulti Excursion → Return Departure",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Premium honeymoon suite upgrades with personalized floral layout, custom chocolate platters, a private sunset high-tea on open valley ledges, and highly romantic, unhurried sightseeing trails.",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private cliff-side sundowner high-tea setup with premium artisanal blends.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by Experts: Fully flexible day itineraries designed to emphasize relaxation, avoiding any rigid or rushed tracking.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Accommodations: Strategic room requests guaranteeing unobstructed valley and sunrise viewpoints.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Local Souvenirs: Hand-knitted Garhwali pashminas, organic plum jams from Landour, and custom wooden artifacts. Instagram Spots: Vintage red post box at Landour, sunset silhouette at Camel's Back Road, and high pine paths of Dhanaulti Eco Park. Café Recommendations: Cafe By The Way and Landour Bakehouse for iconic artisan mountain pastries.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Honeymoon inclusion requests must be finalized along with your initial booking token payment. Heavy winter woolens are essential for Dhanaulti from November through February; light jackets are recommended for summers.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Honeymoon",
+      "Romantic",
+      "Luxury",
+      "Hills"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-018-premium-mussoorie-dhanaulti-romantic-experience-itinerary",
+    "title": "Premium Mussoorie & Dhanaulti Romantic Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Mussoorie Honeymoon Package • Premium Mussoorie & Dhanaulti Romantic Wilderness Experience • 03 Nights / 04 Days",
+    "overview": "Welcome to the Queen of Hills. TRAGUIN invites you and your significant other to celebrate love amidst the misty valleys, whispering deodars, and soaring snow peaks of Uttarakhand. Surrender to a world of curated experiences, breathtaking landscapes, and premium stays meticulously arranged to ignite romance. This Luxury Mussoorie Holiday brings you exclusive access to scenic beauty, iconic attractions, and immersive experiences, weaving memories that will remain close to your heart forever.\n\nTOUR OVERVIEW\nTravel Month: Tailored Around Your Personal Milestones\nGroup / FIT: Bespoke Private Luxury Honeymoon FIT Tour\nVehicle: Dedicated Luxury Chauffeur Sedan / SUV at disposal for smooth transfers\nMeal Plan: Modified American Plan (Artisan Breakfasts & Romantic Candlelight Dinners Included)\nRoute: Dehradun Arrival → Scenic Mussoorie Foothills Drive → Eco Dhanaulti Excursion → Return Departure\n\nTRAGUIN Curated Experience Note: Premium honeymoon suite upgrades with personalized floral layout, custom chocolate platters, a private sunset high-tea on open valley ledges, and highly romantic, unhurried sightseeing trails.\n\nChoosing the ultimate Best Mussoorie Tour Package or a deeply memorable Mussoorie Honeymoon Package demands an itinerary that smoothly blends colonial charm with tranquil mountain escapes. Discover the Top Tourist Places in Mussoorie, featuring the cascading Kempty Falls, the historic Mall Road, the cloud-kissed heights of Lal Tibba, and the pristine quietude of the Eco Parks in Dhanaulti.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UK-018 | Premium Mussoorie Dhanaulti Romantic Experience | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Uttarakhand package (UK-018 / TRG-UK-018): Mussoorie honeymoon, Kempty Falls, Dhanaulti Eco Park, and 3-tier romantic accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Decorated honeymoon suite welcome with fruit basket, chocolate platter, and Camel's Back Road sunset stroll",
+        "sort_order": 1
+      },
+      {
+        "text": "Kempty Falls, Gun Hill Ropeway Ride, Lal Tibba Viewpoint, and Mall Road evening walk",
+        "sort_order": 2
+      },
+      {
+        "text": "Dhanaulti Eco Park, Surkanda Devi Temple ropeway, and premium cliff-side sundowner high-tea",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private cliff-side sundowner high-tea with premium artisanal blends",
+        "sort_order": 4
+      },
+      {
+        "text": "3-tier handpicked romantic accommodation in Mussoorie (03 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN THE CLOUDS — THE ROMANTIC WELCOME",
+        "description": "Your love story in the hills begins with a private, premium greeting at Dehradun Airport or Railway Station by your dedicated TRAGUIN chauffeur. Ascend the winding, beautiful mountain tracks as the air turns refreshingly crisp. Arrive at your luxury handpicked resort in Mussoorie, where a decorated honeymoon suite awaits your arrival. Enjoy a leisurely afternoon toast to your new journey while admiring the rolling mist over the hills.",
+        "activities": [
+          "Sightseeing Included: En-route valley photography stops and an evening exploratory stroll along the iconic Camel's Back Road.",
+          "Evening Experience: A premium welcome fruit basket, custom chocolate platter, and a private balcony sunset orientation session.",
+          "Overnight Stay: Luxury Ridge-Facing Resort in Mussoorie.",
+          "Meals Included: Welcome Amenities & Curated Romantic Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MUSSOORIE ICONIC SIGHTSEEING & SUNSET SPECTACLE",
+        "description": "Awake to a gorgeous mountain sunrise right from your premium bed. Today, uncover the old-world colonial beauty of Mussoorie. Take a cable car ride to Gun Hill for breathtaking views of the majestic Himalayan peaks, visit the cascading waters of Kempty Falls, and explore the beautiful gardens of Company Bagh. In the evening, walk hand-in-hand through Mall Road, soaking in the mountain atmosphere.",
+        "activities": [
+          "Sightseeing Included: Kempty Falls, Gun Hill Ropeway Ride, Lal Tibba Viewpoint, and the bustling Mall Road.",
+          "Evening Experience: A deeply romantic, private candlelit dinner set up exclusively for you by the resort pool or open-view deck.",
+          "Overnight Stay: Handpicked Luxury Resort in Mussoorie.",
+          "Meals Included: Artisan Breakfast & Candlelit Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "ROMANTIC ESCAPE TO DHANAULTI'S PINE SANCTUARY",
+        "description": "Embark on a spectacular day excursion through dense pine and oak forests to the peaceful alpine retreat of Dhanaulti. Marvel at the dramatic, snow-capped mountain vistas flanking the road. Stroll gracefully through the beautifully maintained Eco Park, enjoying the absolute quietude and the crisp, clean breeze.",
+        "activities": [
+          "Sightseeing Included: Dhanaulti Eco Park (Amber & Dhara), Surkanda Devi Temple (via comfortable modern ropeway), and the misty Jainalal forest trails.",
+          "Evening Experience: A premium roadside high-tea session hosted on a cliff overlook, arranged beautifully by TRAGUIN experts.",
+          "Overnight Stay: Premium Luxury Resort in Mussoorie.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "FOND MEMORIES & FAREWELL TO THE MOUNTAINS",
+        "description": "Savor your final morning breakfast together on the mountain terrace as the sun illuminates the valley below. Take a final, peaceful stroll along the pine-lined lanes to capture last-minute travel photographs. Your premium luxury vehicle and courteous chauffeur will ensure a comfortable return transfer to Dehradun, completing your dream holiday.",
+        "activities": [
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Mussoorie Walnut Grove Resort & Spa",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – ULTRA LUXURY: JW Marriott Mussoorie Walnut Grove Resort & Spa | Luxury Valley View Room (03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Valley View Room",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC Hotels, The Savoy / Rokeby Manor",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – LUXURY: Welcomhotel by ITC Hotels, The Savoy / Rokeby Manor | Premium Suite (03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium Suite",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Mosaic Hotel Mussoorie / Jaypee Residency Manor",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – PREMIUM: Mosaic Hotel Mussoorie / Jaypee Residency Manor | Executive Room (03 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Executive Room",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights ultra-luxury accommodation in handpicked, romance-oriented premium properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily curated buffet breakfasts and custom candlelight dinners at the resorts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private luxury sedan/SUV for complete airport/station transfers and localized sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary honeymoon layout features (personalized floral decoration, custom cake, and chocolate platter).",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Pre-arranged premium round-trip cable car ropeway tickets for Gun Hill.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated TRAGUIN 24/7 on-ground guest relations remote assistance.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable resort luxury service taxes, state border permits, driver allowance, and toll costs.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Long-distance airfare or intercity express train tickets to Dehradun.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenditures such as laundry, specialty spa sessions, and telephone calls.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure activity charges (ziplining, sky walking in Dhanaulti).",
+        "sort_order": 10
+      }
+    ]
+  }
+}

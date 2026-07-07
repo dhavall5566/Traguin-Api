@@ -1,0 +1,352 @@
+{
+  "destination_slug": "kashmir",
+  "package": {
+    "slug": "jk-007-kashmir-great-lakes-trek",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Kashmir Great Lakes Trek — Alpine Expedition",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 26,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Turquoise Vishansar glacial lake beneath the Kolahoi massif — trek day highlight",
+        "sort_order": 1
+      },
+      {
+        "text": "Gadsar Pass summit crossing at 13,800 ft with snow peak panoramas",
+        "sort_order": 2
+      },
+      {
+        "text": "Gangabal Lake reflecting sacred Mount Haramukh — the trek's crown jewel",
+        "sort_order": 3
+      },
+      {
+        "text": "Nichnai silver birch forests and Satsar interconnected alpine lakes",
+        "sort_order": 4
+      },
+      {
+        "text": "8th-century Naranag temple ruins — archaeological finale at trek end",
+        "sort_order": 5
+      },
+      {
+        "text": "Certified trek leader, camping gear, porters & TRAGUIN expedition concierge",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "jk-007-kashmir-great-lakes-trek-itinerary",
+    "title": "Kashmir Great Lakes Trek — Alpine Expedition",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Seven Sacred Lakes — One Legendary Trek",
+    "overview": "Embark on TRAGUIN's premium Kashmir Great Lakes expedition — one of India's most celebrated high-altitude treks through seven glacial lakes, birch forests, and alpine meadows between Sonamarg and Naranag. This 08-night adventure combines Srinagar acclimatization, Sonamarg base camp, six days of guided trekking through Vishansar, Krishansar, Gadsar Pass, Satsar, and Gangabal Lake, with premium camping equipment, certified guides, and expedition concierge.",
+    "is_featured": true,
+    "featured_sort_order": 26,
+    "seo_title": "JK-007 | Kashmir Great Lakes Trek | TRAGUIN Premium Kashmir Adventure",
+    "seo_description": "Premium 08 Nights / 09 Days Kashmir Great Lakes trek (JK-007) covering Vishansar, Gadsar Pass, Satsar lakes, Gangabal Lake, and Naranag with certified guides, camping gear, and expedition support. Ideal for adventure seekers and experienced trekkers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Vishansar Glacial Lake",
+        "sort_order": 1
+      },
+      {
+        "text": "Gadsar Pass Summit Crossing",
+        "sort_order": 2
+      },
+      {
+        "text": "Gangabal & Mount Haramukh",
+        "sort_order": 3
+      },
+      {
+        "text": "Nichnai Birch Forests",
+        "sort_order": 4
+      },
+      {
+        "text": "Naranag Temple Ruins Finale",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar — Acclimatization",
+        "description": "Arrive at Srinagar Airport for your TRAGUIN expedition briefing. Check into a premium hotel for altitude acclimatization and equipment check. Meet your certified trek leader for route orientation, safety protocols, and a welcome dinner.",
+        "activities": [
+          "Sightseeing Included: Airport transfer, Dal Lake evening walk (optional)",
+          "Evening Experience: Expedition briefing with trek leader and gear inspection",
+          "Overnight Stay: Srinagar (Premium Hotel — Acclimatization)",
+          "Meals Included: Welcome dinner & trek orientation meal"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Srinagar to Sonamarg — Trek Base Camp",
+        "description": "Drive along the Sindh River valley to Sonamarg — the Meadow of Gold and traditional starting point for the Great Lakes trek. Check into a premium base camp lodge, final gear check, and an early night before the ascent begins.",
+        "activities": [
+          "Sightseeing Included: Sindh River valley drive, Sonamarg meadow views, base camp setup",
+          "Evening Experience: Pre-trek team dinner and early rest briefing",
+          "Overnight Stay: Sonamarg (Premium Base Camp Lodge)",
+          "Meals Included: Breakfast, lunch & base camp dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Sonamarg to Nichnai — Birch Forest Ascent",
+        "description": "Trek begins from Sonamarg through silver birch forests and rolling meadows toward Nichnai Pass. Cross the Nichnai stream and camp beside alpine meadows with views of snow-capped peaks. First night under canvas in the Kashmir wilderness.",
+        "activities": [
+          "Sightseeing Included: Nichnai birch forest trail, alpine meadow camps, stream crossings",
+          "Trek Details: Approx. 13 km trek, moderate ascent, camp at Nichnai meadows",
+          "Overnight Stay: Nichnai (Alpine Camping — Premium Tents)",
+          "Meals Included: Hot breakfast, packed trail lunch & camp dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Nichnai to Vishansar Lake via Nichnai Pass",
+        "description": "Cross Nichnai Pass at 13,500 ft with sweeping valley views before descending to the turquoise Vishansar Lake — the first of the Great Lakes. Camp beside this glacial jewel beneath the Kolahoi massif for an unforgettable alpine sunset.",
+        "activities": [
+          "Sightseeing Included: Nichnai Pass summit, Vishansar Lake turquoise waters, Kolahoi peak views",
+          "Trek Details: Approx. 12 km trek, pass crossing, camp at Vishansar Lake shore",
+          "Overnight Stay: Vishansar Lake (Alpine Camping — Premium Tents)",
+          "Meals Included: Hot breakfast, packed trail lunch & lakeside camp dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Vishansar to Gadsar via Krishansar & Gadsar Pass",
+        "description": "The trek's most dramatic day — visit twin lakes Vishansar and Krishansar, then ascend Gadsar Pass at 13,800 ft with panoramic snow peak views. Descend through wildflower meadows to camp near Gadsar Lake in the heart of the Great Lakes circuit.",
+        "activities": [
+          "Sightseeing Included: Krishansar twin lake, Gadsar Pass summit panoramas, Gadsar Lake camp",
+          "Trek Details: Approx. 14 km trek, highest pass crossing, camp near Gadsar Lake",
+          "Overnight Stay: Gadsar Lake (Alpine Camping — Premium Tents)",
+          "Meals Included: Hot breakfast, packed trail lunch & camp dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Gadsar to Satsar Lakes",
+        "description": "Trek through rocky meadows and past shepherd settlements to the interconnected Satsar alpine lakes — seven small glacial pools nestled in a high-altitude basin. Camp beside the lakes with Mount Harmukh visible on the horizon.",
+        "activities": [
+          "Sightseeing Included: Satsar interconnected lakes, rocky alpine meadows, shepherd hut encounters",
+          "Trek Details: Approx. 12 km trek, moderate terrain, camp at Satsar lakes basin",
+          "Overnight Stay: Satsar Lakes (Alpine Camping — Premium Tents)",
+          "Meals Included: Hot breakfast, packed trail lunch & camp dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Satsar to Gangabal Lake — Mount Haramukh",
+        "description": "The crown jewel of the trek — ascend to Gangabal Lake at the foot of sacred Mount Haramukh (16,870 ft). The lake's mirror-still waters reflect the peak in perfect symmetry. Camp at Nundkol Lake nearby for the trek's most spiritual evening.",
+        "activities": [
+          "Sightseeing Included: Gangabal Lake Haramukh reflection, Nundkol twin lake, high-altitude photography",
+          "Trek Details: Approx. 11 km trek, Gangabal Lake highlight, camp at Nundkol",
+          "Overnight Stay: Gangabal / Nundkol (Alpine Camping — Premium Tents)",
+          "Meals Included: Hot breakfast, packed trail lunch & celebratory camp dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Gangabal to Naranag — Trek Finale",
+        "description": "Descend through pine forests to Naranag village and its 8th-century Shiva temple ruins — a fitting archaeological finale. Board your private vehicle for the drive back to Srinagar and a well-earned celebration dinner at your premium hotel.",
+        "activities": [
+          "Sightseeing Included: Naranag ancient temple ruins, pine forest descent, Srinagar valley return",
+          "Trek Details: Approx. 13 km descent, trek ends at Naranag, transfer to Srinagar",
+          "Overnight Stay: Srinagar (Premium Hotel — Recovery & Celebration)",
+          "Meals Included: Hot breakfast, trail lunch & celebration dinner in Srinagar"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Srinagar Departure",
+        "description": "Enjoy a leisurely breakfast and optional Dal Lake shikara ride before your private transfer to Srinagar Airport. Depart with the Great Lakes etched forever in memory by TRAGUIN's expedition team.",
+        "activities": [
+          "Transfers Included: Private luxury airport drop-off",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Grand Plaza / Similar",
+        "location": "Srinagar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe hotel for acclimatization and recovery.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Pine Spring Srinagar / Similar",
+        "location": "Srinagar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium hotel with expedition support desk.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAP (Premium Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Grand Palace / Similar",
+        "location": "Srinagar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury palace hotel post-trek recovery.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAP (Elite Chef Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Dal View / Similar",
+        "location": "Srinagar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury recovery suite with spa access.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAP (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Sonamarg Glacier Heights / Similar",
+        "location": "Sonamarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe base camp lodge before trek.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Full Board (Pre-Trek Meals)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Snowland Sonamarg / Similar",
+        "location": "Sonamarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium lodge with gear storage and briefing room.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Full Board (Pre-Trek Meals)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Premium Alpine Camp / Similar",
+        "location": "Trek Route (5N)",
+        "nights_label": "05 Nights",
+        "description": "Luxury trekking tents with dining tent and sleeping systems.",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Premium Alpine Tent (Twin Share)",
+        "meal_plan": "Full Board (Trail Meals & Hot Camp Dinners)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Expedition Camp / Similar",
+        "location": "Trek Route (5N)",
+        "nights_label": "05 Nights",
+        "description": "Ultra-premium expedition tents with heated dining and porter support.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Expedition Suite Tent (Private)",
+        "meal_plan": "Full Board (Gourmet Trail & Camp Cuisine)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "08 nights accommodation — Srinagar hotel, Sonamarg base camp lodge, and alpine camping on trek nights",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All meals on trek days — nutritious breakfast, packed lunch, and hot dinner at camps",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Certified high-altitude trek leader, local guide, and support crew throughout the expedition",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Premium trekking tents, sleeping bags, mattresses, and communal dining tent on trail",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Porter and mule support for camping equipment and group supplies on trek route",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private transfers Srinagar ↔ Sonamarg/Naranag and TRAGUIN 24/7 expedition concierge",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Forest permits, trek registration, medical kit, and oxygen support at high camps",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to Srinagar",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal trekking gear — boots, jackets, poles (rental available on request)",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Pony hire for personal baggage, tips to crew, and personal insurance",
+        "sort_order": 10
+      }
+    ]
+  }
+}

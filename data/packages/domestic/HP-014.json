@@ -1,0 +1,308 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-014-oberoi-himachal-experience",
+    "serial_code": "HP-014",
+    "traguin_tour_code": "TRG-OB-HP-014",
+    "title": "The Oberoi Himachal Experience • Royalty Reimagined",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-014 | TRAGUIN tour code TRG-OB-HP-014",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Ultra-Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Wildflower Hall • Mashobra • Kufri",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Connoisseurs of Luxury, Romantic Escapes & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: April to June (Pleasant) / November to February (Snow Experience)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Ultra- Luxury Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / Premium MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private heritage walkthrough of historic Shimla lanes with an expert",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom pacing that balances cultural sightseeing with serene,",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations chosen strictly based on outstanding heritage value,",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Chauffeurs thoroughly vetted for elite behavior, safety records, and local route",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Explore the old Lakkar Bazaar to purchase authentic wooden handicrafts, custom-made walking sticks, exquisite Himachali shawls, and organic local fruit jams or honey. Cafes & Food: Old Shimla features classic wood-paneled cafes serving traditional English afternoon teas, delicate fresh pastries, and authentic Himalayan-style comfort food.",
+        "sort_order": 12
+      },
+      {
+        "text": "Weather Notes: Evenings can be cold throughout the year; we recommend carrying light woolens for the",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Romantic",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-014-oberoi-himachal-experience-itinerary",
+    "title": "The Oberoi Himachal Experience • Royalty Reimagined",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra- Luxury Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Oberoi Himachal Experience",
+    "overview": "THE OBEROI HIMACHAL EXPERIENCE • ROYALTY REIMAGINED Welcome to an extraordinary luxury holiday created exclusively by TRAGUIN. Embark on the prestigious Oberoi Himachal Experience, a tour meticulously designed to surround you with absolute opulence, majestic cedar forests, and time-honored colonial grandeur. As your elite travel consultants, TRAGUIN transforms your vacation into a premium Himachal experience featuring unparalleled service, handpicked hotels of legendary repute, and deeply curated exclusive experiences. Immerse yourselves in the staggering scenic beauty of the Shivalik range and allow the legendary hospitality of Oberoi properties to curate unforgettable memories for you and your loved ones.\n\nTOUR OVERVIEW\nThis bespoke Luxury Himachal Holiday brings you an unmatched level of privacy, prestige, and comfort. Travel in an ultra-premium, chauffeur-driven luxury SUV customized to negotiate mountain passes seamlessly. This signature route takes you to the historic summer capital of Shimla and into the tranquil forest paradise of Wildflower Hall. Your package includes an exquisite meal plan with breakfasts and custom curations at award- winning restaurants. Every detail contains the signature TRAGUIN curated experience note—offering customized fast-track access, private heritage guides, and around-the-clock dedicated assistance.\n\nWHY VISIT HIMACHAL WITH THE BEST HIMACHAL TOUR PACKAGE?\nWhen exploring options for a Luxury Himachal Holiday, true luxury travellers seek a world apart from the ordinary. This region offers a perfect sanctuary of breathtaking landscapes, colonial timelessness, and majestic heritage. For discerning couples looking at an elite Himachal Honeymoon Package or families choosing an upscale Himachal Family Tour, this destination offers an ideal landscape of wellness, culture, and high-altitude sophistication. From iconic attractions such as the regal Viceregal Lodge and the bustling historic Ridge to popular Instagram locations buried in the pine valleys of Mashobra, the options for exploration are endless. Indulge in premium handicraft shopping, private nature photography sessions, or a forest bath under century-old cedars. Our elite TRAGUIN Himachal Packages guarantee that you visit during the best time to visit Himachal, wrapped in the comfort of premium stays and unparalleled leisure.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-014 | The Oberoi Himachal Experience | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Himachal Pradesh package (HP-014 / TRG-OB-HP-014): Shimla • Wildflower Hall • Mashobra • Kufri with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SHIMLA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SHIMLA HERITAGE EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SHIMLA TO WILDFLOWER HALL (MASHOBRA)",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SANCTUARY NATURE TRAIL & PICNIC",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCURSION TO KUFRI & NALDEHRA",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE TO CHANDIGARH / DELHI",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private heritage walkthrough of historic Shimla lanes with an expert",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom pacing that balances cultural sightseeing with serene,",
+        "sort_order": 8
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations chosen strictly based on outstanding heritage value,",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SHIMLA",
+        "description": "COLONIAL MAJESTY & THE LEGENDARY OBEROI CECIL EXPERIENCE Your premium Himachal experience begins with a VIP greeting at Chandigarh Airport or Shimla's airport by your private luxury transport chauffeur. Travel along scenic, well-paved mountain roads directly to Shimla. Check into the historic Oberoi Cecil, a grand 100-year-old ballroom palace that instantly evokes colonial majesty. Relax in your meticulously designed premium room and enjoy a customized welcome tea service overlooking the valley.",
+        "activities": [
+          "Sightseeing Included: Scenic Shivalik foothills drive, historic luxury hotel orientation.",
+          "Evening Experience: Private heritage walkthrough of the colonial ballroom and lounge.",
+          "Overnight Stay: The Oberoi Cecil, Shimla (Luxury Room)",
+          "Meals Included: Welcome Drink & Signature Fine-Dining Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHIMLA HERITAGE EXPLORATION",
+        "description": "WALKING AMIDST ARCHITECTURAL LEGENDS & REGENCIES Relish a lavish breakfast before stepping out for a beautifully curated Shimla sightseeing tour. Accompanied by a private historian, visit the spectacular Viceregal Lodge, the seat of British power during the summer months. Take a soft walk along the pedestrian-only Mall Road, stopping at Christchurch, the Gaiety Theatre, and the sprawling Ridge. Capture magnificent panoramic mountain photographs at these iconic attractions.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge, The Ridge, Mall Road, Gaiety Theatre, Christchurch.",
+          "Optional Activities: High-tea reservation at an upscale heritage café with views of the valley.",
+          "Overnight Stay: The Oberoi Cecil, Shimla (Luxury Room)",
+          "Meals Included: Premium Breakfast & Ala Carte Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SHIMLA TO WILDFLOWER HALL (MASHOBRA)",
+        "description": "TRANSIT TO AN ANCIENT PINE FORTRESS OF SUPREME WELLNESS Depart The Oberoi Cecil for a short, beautiful mountain drive farther into the mountains towards Mashobra. Check into Wildflower Hall, An Oberoi Resort, perched at 8,250 feet amidst dense cedar forests. This magnificent fairy-tale estate provides breathtaking landscapes and unmatched tranquility. Spend your afternoon enjoying the world-renowned outdoor infinity whirlpool, heated to perfection and looking directly onto the snow-capped Himalayan ranges.",
+        "activities": [
+          "Sightseeing Included: Mashobra forest vistas, Wildflower estate grounds exploration.",
+          "Evening Experience: Sunset viewing from the open deck with custom-brewed artisanal teas.",
+          "Overnight Stay: Wildflower Hall, An Oberoi Resort (Premier Valley View Room)",
+          "Meals Included: Premium Breakfast & Curated Chef's Tasting Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SANCTUARY NATURE TRAIL & PICNIC",
+        "description": "IMMERSIVE EXPERIENCES IN NATURE'S PRIVATE AMPHITHEATRE Wake up early to the soothing sound of the mountain wind. Today, enjoy an immersive experience: a private guided sanctuary nature trail through the protected pine reserves surrounding the estate. TRAGUIN experts have organized an exclusive, private gourmet picnic lunch at a secluded strawberry glade within the forest. Spend the rest of your day unwinding at the luxury spa pavilion or reading in the grand colonial library.",
+        "activities": [
+          "Sightseeing Included: Private Forest Sanctuary Trails, Cedar Glades, Wildflower paths.",
+          "Complimentary Experience: TRAGUIN Exclusive Private Forest Picnic with a dedicated butler.",
+          "Overnight Stay: Wildflower Hall, An Oberoi Resort (Premier Valley View Room)",
+          "Meals Included: Premium Breakfast, Forest Picnic Lunch, & Fine Dining Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO KUFRI & NALDEHRA",
+        "description": "HIGH-ALTITUDE MEADOWS & ICONIC HIGHLAND GOLF TURFS Take a short, pleasant morning excursion to Kufri, a beautiful high-altitude meadow offering spectacular panoramic views of the inner Himalayan ranges. Later, proceed to Naldehra, home to one of India’s oldest and most scenic 9-hole golf courses, designed under the supervision of Lord Curzon. Walk hand-in-hand along the cedar-fringed fairways before returning to your luxury resort for a special farewell evening.",
+        "activities": [
+          "Sightseeing Included: Kufri nature paths, Naldehra historical golf glades.",
+          "Evening Experience: Candle-lit farewell dinner organized in a private gazebo or the grand dining room.",
+          "Overnight Stay: Wildflower Hall, An Oberoi Resort (Premier Valley View Room)",
+          "Meals Included: Premium Breakfast & Gala Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE TO CHANDIGARH / DELHI",
+        "description": "CHERISHING UNFORGETTABLE MEMORIES OF AN ELITE JOURNEY Savor your final gourmet breakfast as the mountain fog gently rolls across the cedar treetops. Pack your belongings as your private luxury SUV arrives to escort you down the scenic highway. Your chauffeur will drop you safely at Chandigarh or New Delhi Airport for your journey onward. Return home with a refreshed spirit and unforgettable memories designed flawlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway drop-off.",
+          "Meals Included: Lavish Breakfast Buffet"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Radisson Hotel Shimla / | similar | Club Mahindra Mashobra /",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "similar",
+        "meal_plan": "Club Mahindra Mashobra /",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Marina Hotel /",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Marina Hotel / | Welcomhotel Shimla | Tathagata Tents / Premium",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Welcomhotel Shimla",
+        "meal_plan": "Tathagata Tents / Premium",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil (Deluxe",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: The Oberoi Cecil (Deluxe | Room) | Wildflower Hall (Deluxe",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Room)",
+        "meal_plan": "Wildflower Hall (Deluxe",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi Cecil | (Executive Suite) | Wildflower Hall (Premier",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "(Executive Suite)",
+        "meal_plan": "Wildflower Hall (Premier",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations at Oberoi properties or similar chosen tiers.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Innova Crysta / Fortuner for all routes.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily multi-cuisine breakfast and custom tasting dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest relation officer on stand-by.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized welcome kit, high-altitude chocolates, and refreshments.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private guided forest sanctuary trail and luxury picnic.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airfares and train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Government monuments, museums, or historical property entry tickets.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, premium liquor, telephone calls, tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities, green taxes, golf course rentals, or spa therapies. TRAGUIN Premium Luxury Itinerary — HP-014 5",
+        "sort_order": 10
+      }
+    ]
+  }
+}

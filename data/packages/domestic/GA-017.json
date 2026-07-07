@@ -1,0 +1,313 @@
+{
+  "destination_slug": "goa",
+  "package": {
+    "slug": "ga-017-dudhsagar-trek-backwater-safari",
+    "serial_code": "GA-017",
+    "traguin_tour_code": "TRG-GOA-017",
+    "title": "TRAGUIN Premium Goa Tour Package — Dudhsagar Trek & Backwater Safari",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GA-017 | TRAGUIN tour code TRG-GOA-017",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Goa / India | Category: Bespoke Adventure & Eco-Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: North Goa Beaches • Mollem National",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Enthusiasts, Nature Lovers & Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Trekking & Safaris) / June to September (Monsoon Magic)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised Expedition)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private riverbanks picnic setup with premium organic mocktails during",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Expertly routed transfers that bypass traffic to maximize your relaxation",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected for their high safety records, impeccable",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Expert drivers with extensive knowledge of local terrains and the best scenic",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Visit the famous Anjuna Wednesday Market or the Saturday Night Market to browse authentic terracotta pottery, hand-crafted coconut shell artifacts, and famous local cashew nuts. Cafes & Food: Old Panaji features cozy, atmospheric cafes offering authentic Indo-Portuguese snacks, fresh local poi bread, and world-class wood-fired seafood delicacies accompanied by live music.",
+        "sort_order": 12
+      },
+      {
+        "text": "Weather Notes: Summer months require light cotton clothing, while monsoon treks require sturdy, high-",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Beach",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ga-017-dudhsagar-trek-backwater-safari-itinerary",
+    "title": "TRAGUIN Premium Goa Tour Package — Dudhsagar Trek & Backwater Safari",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised Expedition)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dudhsagar Trek & Backwater Safari",
+    "overview": "ADVENTURE ESCAPE Welcome to a thrilling and sophisticated eco-expedition curated exclusively by TRAGUIN. Embark on the ultimate Goa Adventure Package, meticulously engineered to uncover the untamed wilderness, roaring waterfalls, and serene emerald waterways beyond the coast. As your premier travel consultants, TRAGUIN transforms the traditional beach holiday into a seamless luxury holiday filled with premium stays, high- octane explorations, and deep nature immersions. From the majestic heights of the Dudhsagar Trek to the hidden secrets of a Backwater Safari, let us create unforgettable memories for your soul.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers an exquisite balance between legendary coastal relaxation and deep inland exploration. Travelling in a dedicated private premium SUV with professional chauffeur assistance, you will explore Goa in absolute comfort and luxury. Featuring a carefully curated meal plan with expansive breakfasts and specialized culinary dinners, this route represents the definitive premium Goa experience. Every detail of this itinerary includes the signature touch of TRAGUIN curated experiences, ensuring private naturalists, VIP safety permits, and around-the-clock tailored support.\n\nWHY CHOOSE THE BEST GOA TOUR PACKAGE?\nWhen considering a Luxury Goa Holiday, discerning travellers seek experiences that break away from standard itineraries. Goa holds deep, untouched natural secrets. The legendary Dudhsagar Waterfalls and the tranquil Mandovi River backwaters stand out as some of the most searched experiences and iconic attractions in Western India, making a customized Goa Honeymoon Package or Goa Family Tour incredibly unique. For travelers seeking thrill and scenery, the region boasts highly popular Instagram locations like the historic Cabo de Rama cape, the spice plantations of Ponda, and the dense bird sanctuaries of Chorao Island. Whether you are looking for local market shopping, indulging in authentic Indo-Portuguese fusion cuisine, or seeking thrills on a backwater safari, our signature TRAGUIN Goa Packages ensure handpicked hotels, elite comfort, and curated exclusive experiences during the best time to visit Goa.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GA-017 | Goa | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Goa package (GA-017 / TRG-GOA-017): North Goa Beaches • Mollem National.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GOA – NORTH COAST",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HINTERLAND EXPEDITION & CHORAO ISLAND KAYAKING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: THE EPIC DUDHSAGAR TREK",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SPICE PLANTATION CANOPY WALK & HERITAGE VILLAGES",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: SOUTH GOA WILDLIFE & BACKWATER SAFARI",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: CLIFFTREK TO CABO DE RAMA FORT",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: ECO-LUXURY RESORT LEISURE & SPA RESORT DAY",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: DEPARTURE FROM GOA",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GOA – NORTH COAST",
+        "description": "WELCOME TO THE SUN-KISSED COASTLINE & PREMIUM LUXURY Your premium Goa experience begins as you step off your flight or train. A private luxury SUV waits to escort you to your handpicked premium resort in North Goa. Enjoy a refreshing welcome drink while checking in. Spend a relaxed afternoon adjusting to the tropical rhythm before heading down to a secluded beach enclave for your first sunset view over the Arabian Sea—a prime photography point to start your trip.",
+        "activities": [
+          "Sightseeing Included: Coastal drive, Secluded North Goa beach walk.",
+          "Evening Experience: Beachside gourmet welcome dinner curated by TRAGUIN experts.",
+          "Overnight Stay: North Goa (Premium Beachfront Resort)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HINTERLAND EXPEDITION & CHORAO ISLAND KAYAKING",
+        "description": "MANDOVI BACKWATER SAFARI & ECO-SYSTEM IMMERSION Awake early for a spectacular morning drive toward the river banks. Board a private boat for an exclusive backwater safari along the Mandovi River. Navigate through dense mangrove forests to Chorao Island, a sanctuary teeming with rare migratory birds. Swap your boat for a premium guided kayaking experience to glide quietly through the narrow, serene mudflats and natural channels.",
+        "activities": [
+          "Sightseeing Included: Mandovi River backwaters, Salim Ali Bird Sanctuary borders, Chorao Island.",
+          "Optional Activities: Premium drone photography session during the kayak trail.",
+          "Overnight Stay: North Goa (Premium Beachfront Resort)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "THE EPIC DUDHSAGAR TREK",
+        "description": "ROARING WATERFALLS, DEEP JUNGLES & TREK EXPEDITION Today marks the apex of your adventure tour. Travel inland to Mollem National Park, where you will switch to an open-top 4x4 jungle jeep. Venture deep through rugged streams and dense teak forests before initiating the guided trek to the base of Dudhsagar Waterfalls. Witness the awe-inspiring sight of white water cascading down four tiers from a height of over 300 meters. Cool off with a refreshing dip in the natural pool at the base of the falls.",
+        "activities": [
+          "Sightseeing Included: Mollem National Park, Dudhsagar Waterfall Trek, Bhagwan Mahavir Wildlife Sanctuary.",
+          "Evening Experience: Private bonfire and dynamic tribal storytelling at a boutique jungle lodge.",
+          "Overnight Stay: Mollem / Ponda (Boutique Eco-Luxury Jungle Resort)",
+          "Meals Included: Breakfast & Traditional Goan Spice Plantation Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SPICE PLANTATION CANOPY WALK & HERITAGE VILLAGES",
+        "description": "ORGANIC TRAILS, ZIP-LINING & PORTUGUESE ARCHITECTURE Enjoy a freshly brewed organic breakfast before embarking on an exclusive tour of a heritage spice plantation. Walk beneath a lush canopy of pepper vines, vanilla orchids, and nutmeg trees. Thrill seekers can opt for a high-altitude zip-lining experience across the forest valley. Later in the afternoon, drive through Fontainhas, the historic Latin Quarter of Panaji, a highly popular Instagram location known for its brightly colored houses.",
+        "activities": [
+          "Sightseeing Included: Ponda Spice Farm, Fontainhas Latin Quarter, Panaji Church.",
+          "Evening Experience: Premium sunset cruise along the Arabian Sea coast with live music.",
+          "Overnight Stay: South Goa (Ultra-Luxury Beach Resort)",
+          "Meals Included: Breakfast & Authentic Buffet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SOUTH GOA WILDLIFE & BACKWATER SAFARI",
+        "description": "CUMBARJUA CANAL CROCODILE SAFARI & SECLUDED RIVERS Savor a beautiful beachside breakfast and head out for a thrilling backwater safari along the Cumbarjua Canal. This brackish waterway is famous for spotting Mugger crocodiles in their natural mangrove habitat. Accompanied by an expert naturalist, enjoy excellent wildlife photography opportunities as you cruise safely down the canal.",
+        "activities": [
+          "Sightseeing Included: Cumbarjua Canal Mangroves, Crocodile Spotting, Mangrove Boardwalk.",
+          "Optional Activities: Traditional line fishing experience aboard the luxury pontoon boat.",
+          "Overnight Stay: South Goa (Ultra-Luxury Beach Resort)",
+          "Meals Included: Breakfast & Exquisite Seafood Specialty Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CLIFFTREK TO CABO DE RAMA FORT",
+        "description": "OCEAN VISIONS, CANYON VIEWS & ROMANTIC RUINS Embark on a magnificent cliffside trek toward the ancient ruins of Cabo de Rama Fort in South Goa. The trek leads you along pristine clifftops overlooking panoramic ocean vistas and breathtaking landscapes. Explore the historic stone battlements where legendary myths meet colonial history. Conclude your trek at a hidden beach cove accessible only by foot.",
+        "activities": [
+          "Sightseeing Included: Cabo de Rama Fort ruins, Hidden Beach Cove, South Goa coastal trails.",
+          "Evening Experience: Sunset champagne toast on the clifftops overlooking the open sea.",
+          "Overnight Stay: South Goa (Ultra-Luxury Beach Resort)",
+          "Meals Included: Breakfast & Coastal Barbecue Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "ECO-LUXURY RESORT LEISURE & SPA RESORT DAY",
+        "description": "RELAXATION, REJUVENATION & REFLECTION Dedicate this day entirely to premium relaxation. Enjoy the extensive amenities of your ultra-luxury South Goa resort. Indulge in an exclusive Ayurvedic or Balinese couple's massage, lounge by the infinity pool, or take a sunset walk along the pristine sands of Varca or Palolem beach. Reflect on your incredible adventure tour in pure bliss.",
+        "activities": [
+          "Sightseeing Included: Varca/Cavelossim beach access, Resort private gardens.",
+          "Optional Activities: Private luxury yacht rental for a deep-sea dolphin cruise.",
+          "Overnight Stay: South Goa (Ultra-Luxury Beach Resort)",
+          "Meals Included: Breakfast & Farewell Premium Gala Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "DEPARTURE FROM GOA",
+        "description": "CHERISHING UNFORGETTABLE MEMORIES BEYOND DESTINATIONS Enjoy a final lavish breakfast overlooking the ocean waves. Your private luxury transport will safely drive you to Mopa Airport, Dabolim Airport, or Madgaon Railway Station. Return home carrying a heart filled with spirit, deep bonds, and unforgettable memories designed flawlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door airport/station drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Novotel Resort & Spa / similar | Dudhsagar Spa Resort / similar | Caravela Beach Resort / similar",
+        "location": "North Goa (2 Nights) / Mollem-Ponda (1 Night) / South Goa (4 Nights)",
+        "nights_label": "07 Nights",
+        "description": "OPTION 01 – DELUXE: Novotel Resort & Spa / similar (North Goa (2 Nights)) | Dudhsagar Spa Resort / similar (Mollem-Ponda (1 Night)) | Caravela Beach Resort / similar (South Goa (4 Nights)) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hard Rock Hotel / Vivanta Vagator | Nature's Nest Eco Lodge | Radisson Blu Resort South Goa",
+        "location": "North Goa (2 Nights) / Mollem-Ponda (1 Night) / South Goa (4 Nights)",
+        "nights_label": "07 Nights",
+        "description": "OPTION 02 – PREMIUM: Hard Rock Hotel / Vivanta Vagator (North Goa (2 Nights)) | Nature's Nest Eco Lodge (Mollem-Ponda (1 Night)) | Radisson Blu Resort South Goa (South Goa (4 Nights)) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "W Goa / Taj Holiday Village | Stone Water Eco Resort Stay | The Leela Goa / Taj Exotica Goa",
+        "location": "North Goa (2 Nights) / Mollem-Ponda (1 Night) / South Goa (4 Nights)",
+        "nights_label": "07 Nights",
+        "description": "OPTION 03 – LUXURY: W Goa / Taj Holiday Village (North Goa (2 Nights)) | Stone Water Eco Resort Stay (Mollem-Ponda (1 Night)) | The Leela Goa / Taj Exotica Goa (South Goa (4 Nights)) | MAPAI + Premium Amenities",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI + Premium Amenities",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis Goa Resort (Suite) | Bespoke Wild Eco Luxury Villa | The St. Regis Goa Resort (Pool Villa)",
+        "location": "North Goa (2 Nights) / Mollem-Ponda (1 Night) / South Goa (4 Nights)",
+        "nights_label": "07 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The St. Regis Goa Resort (Suite) (North Goa (2 Nights)) | Bespoke Wild Eco Luxury Villa (Mollem-Ponda (1 Night)) | The St. Regis Goa Resort (Pool Villa) (South Goa (4 Nights)) | Bespoke Signature VIP Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Pool Villa",
+        "meal_plan": "Bespoke Signature VIP Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or train tickets to Goa.",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities (Zip-lining, premium drone",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "rentals).",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "calls, or tips.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Any monument camera permits or alcoholic",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "beverage charges.",
+        "sort_order": 7
+      }
+    ]
+  }
+}

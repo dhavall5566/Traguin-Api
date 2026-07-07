@@ -1,0 +1,325 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-011-complete-saurashtra-panorama",
+    "serial_code": "GJ-011",
+    "traguin_tour_code": "TRAGUIN-GJ-011",
+    "title": "Complete Saurashtra Panorama",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-011 | TRAGUIN tour code TRAGUIN-GJ-011",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Leisure / Heritage & Wildlife",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ahmedabad • Dasada • Jamnagar • Dwarka • Somnath • Gir National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Culture Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Winter Season)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Tailor-made Luxury Independent Travel (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury Chauffeur-driven AC Innova Crysta",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Premium Breakfast & Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Ahmedabad → Little Rann of Kutch (Dasada) → Jamnagar → Dwarka Coastline → Somnath Temple → Gir National Park → Ahmedabad Heritage Return",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts to offer the ultimate balance of historic immersion and modern comfort. Benefit from zero-wait hotel check-ins, top-tier private transportation, priority access to historical landmarks, and custom culinary menus prepared by regional chefs.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Purchase world-famous Bandhani tie-dye sarees, fine block-printed fabrics, and traditional silver artifacts. Saurashtra Souvenirs: Pick up genuine terracotta pottery items, hand-woven mirror-work fabrics, and regional artifacts.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Standard regional check-in is at 14:00 hrs and check-out is at 11:00 hrs. Early check-in requests depend entirely on room availability. • • •",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Spiritual",
+      "Wildlife"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-011-complete-saurashtra-panorama-itinerary",
+    "title": "Complete Saurashtra Panorama",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Complete Saurashtra Panorama • Coastlines, Temples & Lions",
+    "overview": "COMPLETE SAURASHTRA PANORAMA • 07 NIGHTS / 08 DAYS Embark on a magnificent, soul-stirring journey across the land of legends with this signature Gujarat Honeymoon Package and elite Gujarat Family Tour. Specially curated by travel specialists at TRAGUIN, this exclusive journey reveals the breathtaking landscapes of the Saurashtra peninsula. From timeless structural wonders and holy architectural edifices to the deep roars of untamed Asiatic lions, treat your senses to unparalleled luxury, premium stays, and deeply immersive experiences.\n\nSaurashtra is globally celebrated as a cornerstone of Indian culture, wildlife preservation, and timeless coastal beauty. For discerning globetrotters searching for a Premium Gujarat Experience or seeking out the finest Gujarat Sightseeing landmarks, this circuit seamlessly weaves royal history with natural magnificence. Here you will experience the pristine white salt fields of the Little Rann, the tranquil maritime beauty of Jamnagar, the legendary spirituality at Dwarka and Somnath, and the thrilling biodiversity of Sasan Gir. Our meticulously designed itinerary showcases the top highly searched tourism attractions, highly optimized for an exceptional vacation structure. Stay at handpicked hotels boasting unparalleled regional elegance and luxury amenities, coupled with smooth logistics that keep transitions comfortable. Whether capturing memories at popular Instagram locations or savoring authentic Kathiyawadi cuisines, this holiday guarantees unforgettable memories. HERITAGE GATEWAY & LITTLE RANN OF KUTCH SUN TEMPLE MARVEL & ROYAL LAKESIDES\n\nTRAGUIN Curated Touch: Private safari vehicle arrangements, local companion guides, priority temple darsan entry cards, and 24/7 dedicated travel advisor care.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-011 | Complete Saurashtra Panorama | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Gujarat package (GJ-011 / TRAGUIN-GJ-011): Little Rann safari, Modhera Sun Temple, Dwarka, Beyt Dwarka, Somnath, Sasan Gir safari, and 4-tier hotels",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Little Rann of Kutch Wildlife Safari, Salt Pan Views.",
+        "sort_order": 1
+      },
+      {
+        "text": "Modhera Sun Temple, Lakhota Lake & Palace Museum, Bala Hanuman Temple.",
+        "sort_order": 2
+      },
+      {
+        "text": "Dwarkadhish Temple Complex, Gomti Ghat Walkways.",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts to offer the ultimate balance of historic immersion and modern comfort. Benefit from zero-wait hotel check-ins, top-tier private transportation, priority access to historical landmarks, and custom culinary menus prepared by regional chefs.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury hotels and seamless ground logistics",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "AHMEDABAD TO DASADA",
+        "description": "Begin your spectacular Premium Gujarat Experience as you arrive in the historic city of Ahmedabad. Meet your elite TRAGUIN chauffeur at the terminal and travel smoothly via a scenic rural expressway to Dasada, the gateway to the legendary Little Rann of Kutch. Check in seamlessly at your eco-luxury resort. In the afternoon, enjoy an exclusive cross-desert safari in a customized private open-top 4x4 vehicle. Witness the breathtaking landscapes of the salt pans and encounter the rare Asiatic Wild Ass (Khur), desert foxes, and majestic birds gliding over the horizon.",
+        "activities": [
+          "Sightseeing Included: Little Rann of Kutch Wildlife Safari, Salt Pan Views.",
+          "Photography Points: Sunset over the expansive barren desert salt crust.",
+          "Evening Experience: Stargazing beneath a perfectly clear desert canopy with traditional high-tea.",
+          "Overnight Stay: Handpicked Luxury Desert Resort, Dasada.",
+          "Meals Included: Welcome Refreshments & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DASADA TO JAMNAGAR via MODHERA",
+        "description": "Savor a delightful organic breakfast before departing for the historic port city of Jamnagar. En route, pause to behold the breathtaking architectural precision of the 11th-century Modhera Sun Temple, an iconic attraction designed so that the first rays of dawn illuminate the inner sanctum. Arrive in Jamnagar by early afternoon and check in to your premium luxury accommodation. Later, explore the elegant Lakhota Lake and Palace museum, an absolute highlight for culture lovers.",
+        "activities": [
+          "Sightseeing Included: Modhera Sun Temple, Lakhota Lake & Palace Museum, Bala Hanuman Temple.",
+          "Local Experiences: Witness the continuous spiritual chants (Guinness Record) at the Bala Hanuman temple.",
+          "Overnight Stay: Premium Luxury Heritage Hotel, Jamnagar.",
+          "Meals Included: Full Buffet Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "JAMNAGAR TO DWARKA",
+        "description": "Following a leisurely breakfast, embark on a smooth coastal drive toward the sacred city of Dwarka, one of India's ancient Chardham destinations. The route offers glimpses of local windmills and tranquil seaside panoramas. Check in to your ultra-luxury seaside property with time to relax. In the late afternoon, proceed to the glorious Dwarkadhish Temple (Jagat Mandir), standing tall against the crashing Arabian Sea waves. Your TRAGUIN package provides priority entry cards, letting you immerse in the spiritual evening aarti with complete ease.",
+        "activities": [
+          "Sightseeing Included: Dwarkadhish Temple Complex, Gomti Ghat Walkways.",
+          "Optional Activities: A peaceful evening meditation session on the banks of the Gomti River.",
+          "Overnight Stay: Handpicked Luxury Resort, Dwarka.",
+          "Meals Included: Breakfast & Choice of Authentic Regional Cuisine Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DWARKA EXCURSIONS",
+        "description": "Dedicate your morning to an exclusive excursion to Beyt Dwarka Island, traveling via a premium private speedboat ride across the blue Gulf of Kutch waters. Discover ancient temples and historical structures hidden amidst the island. On your return route, visit the magnificent Nageshwar Jyotirlinga Temple and Gopi Talav. Conclude your day at the scenic Rukmini Devi Temple before catching a brilliant sunset over Shivrajpur Beach, a globally accredited Blue Flag destination perfect for peaceful photography.",
+        "activities": [
+          "Sightseeing Included: Beyt Dwarka, Nageshwar Jyotirlinga, Rukmini Temple, Shivrajpur Blue-Flag Beach.",
+          "Instagram Spots: The majestic white sand dunes and crystal clear waters of Shivrajpur.",
+          "Overnight Stay: Handpicked Luxury Resort, Dwarka.",
+          "Meals Included: Full Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DWARKA TO SOMNATH via PORBANDAR",
+        "description": "Drive along a spectacular marine highway from Dwarka to Somnath. En route, make a premium stop at Porbandar to explore Kirti Mandir, the heritage birthplace of Mahatma Gandhi. Continue your drive toward the timeless town of Somnath. Check in to your premium handpicked stay. In the evening, visit the magnificent Somnath Temple, an architectural masterpiece standing prominently on the shores of the Arabian Sea. Witness a breathtaking Light & Sound show highlighting the resilience of this sacred temple.",
+        "activities": [
+          "Sightseeing Included: Kirti Mandir, Somnath Shore Temple, Light & Sound Projection Show.",
+          "Evening Experience: Watch the shoreline light up as a symphony of chimes and ocean waves fill the air.",
+          "Overnight Stay: Premium Luxury Resort, Somnath.",
+          "Meals Included: Breakfast & Full Multi-cuisine Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "SOMNATH TO SASAN GIR NATIONAL PARK",
+        "description": "After a morning breakfast, take a pleasant 1.5-hour drive into the thick teak forests of Gir National Park, the absolute last habitat of the endangered wild Asiatic Lions. Check in to your ultra-luxury forest wilderness lodge and unwind. In the afternoon, embark on an immersive open-jeep wildlife safari deep inside the sanctuary core. Guided by a certified expert tracker, look out for leopards, marsh crocodiles, spotted deer, and the magnificent King of the Forest.",
+        "activities": [
+          "Sightseeing Included: Sasan Gir Forest Core Safari, Wildlife Tracking.",
+          "Food Suggestions: Enjoy an authentic organic meal at a boutique farm-to-table forest estate.",
+          "Overnight Stay: Ultra-Luxury Wilderness Lodge, Sasan Gir.",
+          "Meals Included: Full Breakfast & Luxury Resort Buffet Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "SASAN GIR TO AHMEDABAD via JUNAGADH",
+        "description": "Enjoy a serene breakfast surrounded by forest birds. Depart towards Ahmedabad, pausing along the way at the ancient heritage city of Junagadh. Explore the historic Uparkot Fort, an ancient citadel featuring deep stepwells like Adi Kadi Vav and Navghan Kuwo carved right from monolithic rock faces. Continue your smooth drive to Ahmedabad and check in to your ultra-premium hotel for your final evening in Gujarat.",
+        "activities": [
+          "Sightseeing Included: Junagadh Uparkot Fort, Mahabat Maqbara architectural wonder. Shopping: Browse authentic local markets for fine brassware and intricate single-ikat Patola silk.",
+          "Overnight Stay: Premium Luxury Business Hotel, Ahmedabad.",
+          "Meals Included: Full Breakfast & Celebration Farewell Dinner."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "AHMEDABAD SIGHTSEEING & DEPARTURE",
+        "description": "Conclude your landmark TRAGUIN Gujarat Package with a relaxed morning exploration of Ahmedabad, India's first UNESCO World Heritage City. Visit the tranquil Sabarmati Ashram along the riverfront, once the epicenter of India’s freedom movement. Admire the marvelous stone lattice-work at the Sidi Saiyyed Mosque. Later, your private vehicle will drop you off smoothly at the Ahmedabad International Airport for your journey home, carrying a treasure trove of unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Sabarmati Ashram, Sidi Saiyyed Mosque, Airport Drop Transfer.",
+          "Meals Included: Full Breakfast Buffet."
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Rann Riders (Dasada) / Lords Inn (Dwarka) / Fern Residency (Somnath)",
+        "location": "Multi-City Saurashtra",
+        "nights_label": "07 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Deluxe / Executive AC",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Desert Coursers (Dasada) / Hawthorn Suites by Wyndham (Dwarka) / Woods at Sasan (Gir)",
+        "location": "Multi-City Saurashtra",
+        "nights_label": "07 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Suite / Studio Villa",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Crown (Sasangir) / Lemon Tree Premier (Dwarka) / Hyatt Regency (Ahmedabad)",
+        "location": "Multi-City Saurashtra",
+        "nights_label": "07 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage / Riverview Club",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Gateway Gir Forest Resort / Taj Club House (Dwarka) / ITC Narmada (Ahmedabad)",
+        "location": "Multi-City Saurashtra",
+        "nights_label": "07 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Villa / Royal Suite",
+        "meal_plan": "Gourmet MAP All-Inclusive",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 07 Nights stay at handpicked premium luxury hotels and wilderness safari lodges.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 07 Buffet Breakfasts and 07 curated dinners across your premium hotel stops.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated AC Innova Crysta for all airport routes, inter-city travel, and tourist places.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel concierge assistance and professional local guides at key sites.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private chartered boat tickets at Beyt Dwarka and pre-booked Light & Sound show seats in Somnath.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized travel kit containing traditional stoles, organic sanitizers, and premium packed mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to and from Gujarat.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Jungle Safari permit charges and camera tickets inside Sasan Gir National Park.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, phone calls, premium beverages, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional adventure activities or detour vehicle usage beyond the itinerary path.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory travel and health insurance premiums.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

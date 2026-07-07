@@ -1,0 +1,317 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-010-leisure-senior-citizen-retreat",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Leisure Uttarakhand • A Soulful Senior Citizen Retreat",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 29,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Mussoorie (2N) → Rishikesh (3N) with Haridwar excursion",
+        "sort_order": 1
+      },
+      {
+        "text": "Private AC Innova Crysta with senior-care chauffeur",
+        "sort_order": 2
+      },
+      {
+        "text": "MAPAI — mild, low-spice healthy breakfasts and dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Reserved comfortable seating for Triveni Ghat Maha Aarti",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated telephone line and emergency backing",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-010 | Serial UK-010",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Spiritual",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-010-senior-leisure-itinerary",
+    "title": "Leisure Uttarakhand • A Soulful Senior Citizen Retreat",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Fully Customizable)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dehradun • Mussoorie • Rishikesh • Haridwar",
+    "overview": "This custom-designed leisure itinerary has been carefully planned by TRAGUIN experts to minimize long, exhausting road travel and avoid high-strain walking paths. Traveling in a dedicated premium luxury vehicle equipped with superior suspension and captain seats, our senior guests will enjoy optimal comfort. Accompanied by a highly empathetic, professional chauffeur, this route delivers a flawless premium Uttarakhand experience. Featuring a nourishing meal plan with mild, healthy culinary options across luxury properties, this package ensures a completely smooth vacation from pickup to departure.",
+    "is_featured": true,
+    "featured_sort_order": 29,
+    "seo_title": "UK-010 | Senior Citizen Leisure Retreat Uttarakhand | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days senior citizen leisure tour (UK-010): Mussoorie, Rishikesh, and Haridwar with gentle sightseeing, MAPAI plan, and accessible luxury stays.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Company Garden & Gun Hill Cable Car",
+        "sort_order": 1
+      },
+      {
+        "text": "Forest Research Institute Dehradun",
+        "sort_order": 2
+      },
+      {
+        "text": "Parmarth Niketan Ashram",
+        "sort_order": 3
+      },
+      {
+        "text": "Triveni Ghat Ganga Aarti",
+        "sort_order": 4
+      },
+      {
+        "text": "Har Ki Pauri & Mansa Devi Temple",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Dehradun & Drive to Mussoorie | Welcome to the Queen of Hills",
+        "description": "Your premium Uttarakhand experience begins with a VIP reception at Dehradun Airport or Railway Station. Your professional chauffeur assists you into a luxury private vehicle, pre-stocked with refreshing mineral water and healthy snacks. Enjoy a smooth, scenic drive up the winding hills to Mussoorie. Check into your premium luxury hotel with quick, priority room check-in. The evening is spent entirely at leisure, breathing the pure mountain air from your private valley-view balcony.",
+        "activities": [
+          "Sightseeing Included: Malsi Deer Park en-route (gentle walking path), Mussoorie valley views",
+          "Evening Experience: Relaxed welcome high-tea session overlooking the glittering Doon Valley",
+          "Overnight Stay: Mussoorie (Premium / Luxury Resort)",
+          "Meals Included: Welcome Drink & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mussoorie Sightseeing | Colonial Heritage, Scenic Beauty & Refreshing Gardens",
+        "description": "Indulge in a nutritious breakfast before embarking on a relaxed Mussoorie sightseeing tour. Visit Company Garden, a beautifully manicured park featuring smooth paved walking tracks, vibrant flower beds, and flat resting benches perfect for seniors. Take an optional, short cable car ride up to Gun Hill to soak in the breathtaking landscapes of the majestic Himalayan peaks. Conclude your afternoon with a gentle drive through the historic, vehicle-restricted Mall Road using authorized local golf carts.",
+        "activities": [
+          "Sightseeing Included: Company Garden, Camels Back Road (scenic drive), Gun Hill Cable Car (optional)",
+          "Photography Points: Camels Rock formation, snow-capped Himalayan viewpoint spots",
+          "Overnight Stay: Mussoorie (Premium / Luxury Resort)",
+          "Meals Included: Premium Breakfast & Luxury Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Mussoorie to Rishikesh via Dehradun | Transition to Serenity",
+        "description": "After a serene morning breakfast, check out and drive down towards Rishikesh. En-route, enjoy a flat, leisurely stop at the beautiful Forest Research Institute (FRI) in Dehradun, a world-famous architectural wonder and a popular Instagram location. Arrive in Rishikesh by afternoon and check into your handpicked luxury riverside wellness resort. Spend your evening resting or sitting by the holy Ganges riverbank inside the private resort gardens.",
+        "activities": [
+          "Sightseeing Included: FRI Dehradun campus drive, Lakshman Jhula suspension bridge views from café",
+          "Evening Experience: Private customized light meditation or gentle chair yoga session at the resort",
+          "Overnight Stay: Rishikesh (Luxury Riverside Wellness Resort)",
+          "Meals Included: Premium Breakfast & Satvik Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Rishikesh Spiritual Experience | Divine Ashrams & Immersive Sightseeing",
+        "description": "Embrace the day with a calming view of the emerald-green river. Your exclusive experiences today include a smooth visit to the iconic Parmarth Niketan Ashram. Explore the beautifully manicured spiritual courtyards without any steep climbing. In the late afternoon, TRAGUIN experts arrange VIP reserved seating for you at Triveni Ghat to witness the world-famous, emotionally moving Ganga Aarti. Listen to soul-stirring hymns as hundreds of brass lamps illuminate the river.",
+        "activities": [
+          "Sightseeing Included: Parmarth Niketan, Ram Jhula area via electric battery vehicle, Triveni Ghat Aarti",
+          "Optional Activities: Private gemstone shopping or consultation with an ancient Ayurvedic doctor",
+          "Overnight Stay: Rishikesh (Luxury Riverside Wellness Resort)",
+          "Meals Included: Premium Breakfast & Organic Gourmet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Excursion to Haridwar | Sacred Waterways & Spiritual Legacies",
+        "description": "Take a short, comfortable morning drive to Haridwar, one of the oldest living holy cities. Avoid the dense crowds with a custom-scheduled visit to Har Ki Pauri ghat. Take an easy, modern ropeway cable car ride up to Mansa Devi Temple, eliminating any hill climbing. Spend your afternoon exploring local handloom markets or enjoying mild local food recommendations before heading back to your quiet luxury resort in Rishikesh for your final evening.",
+        "activities": [
+          "Sightseeing Included: Har Ki Pauri, Mansa Devi Temple (via Cable Car), Daksh Mahadev Temple",
+          "Evening Experience: A soulful private farewell musical bhajan session inside the resort lounge",
+          "Overnight Stay: Rishikesh (Luxury Riverside Wellness Resort)",
+          "Meals Included: Premium Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Dehradun / Delhi Departure | Cherishing Faith & Unforgettable Memories",
+        "description": "Wake up for a final relaxed breakfast by the sound of the flowing river. Pack your bags as your driver handles all heavy luggage transfers seamlessly. Your private luxury vehicle drives you smoothly back to Dehradun Airport (or onwards to New Delhi) for your return journey home. You depart carrying a deeply rejuvenated body, a peaceful soul, and unforgettable memories crafted with pure love and care by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off",
+          "Meals Included: Lavish Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Fortune Resort Grace / similar",
+        "location": "Mussoorie",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Aloha On The Ganges / similar",
+        "location": "Rishikesh",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC The Savoy",
+        "location": "Mussoorie",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Divine Resort / Lemon Tree Premier",
+        "location": "Rishikesh",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Walnut Grove Resort",
+        "location": "Mussoorie",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Rishikesh Resort & Spa / similar",
+        "location": "Rishikesh",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Westin Resort & Spa Himalayas",
+        "location": "Mussoorie",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Ananda In The Himalayas (Palace View)",
+        "location": "Rishikesh",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Bespoke Customized Dietary Wellness Meals",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations with flat layouts and elevator access",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta driven by an elite senior-care chauffeur",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Mild, low-spice, healthy breakfasts and dinners daily (MAPAI)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated telephone line and localized emergency backing",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized senior travel assistance kit, hand sanitizers, and generic health treats",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved comfortable seating and entry tags for Triveni Ghat Maha Aarti",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight tickets, or train reservations",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal medications, specialized nursing support, or clinical charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance fees, cable car boarding passes, golf cart rentals",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as external laundry, laundry items, and phone calls",
+        "sort_order": 10
+      }
+    ]
+  }
+}

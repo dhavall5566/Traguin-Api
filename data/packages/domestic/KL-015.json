@@ -1,0 +1,454 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-015-kanyakumari-with-south-kerala-express",
+    "serial_code": "KL-015",
+    "traguin_tour_code": "TRAGUIN-KL-015",
+    "title": "Kanyakumari with South Kerala Express",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-015 | TRAGUIN tour code TRAGUIN-KL-015",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala & Tamil Nadu, India | Category: Luxury Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Cochin • Munnar • Alleppey Houseboat • Kovalam • Kanyakumari",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Multi-Destination FIT Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury Air-Conditioned Toyota Innova Crysta / Premium Sedan",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Gourmet Breakfasts & Dinners at all resorts; All meals included on Houseboat)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Cochin Arrival → Munnar Hills → Alleppey Backwaters → Kovalam Beach → Kanyakumari Confluence → Trivandrum Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by premium travel specialists with priority check-ins, complimentary tea tasting in Munnar, and private backwater high-tea experience.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Fresh tea leaves and eucalyptus oils from Munnar; Kasavu sarees, banana chips, and cashew nuts from Trivandrum & Kovalam",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; houseboat AC 21:00–06:00 hrs on standard boats; traditional attire required at Padmanabhaswamy Temple",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-015-kanyakumari-with-south-kerala-express-itinerary",
+    "title": "Kanyakumari with South Kerala Express",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kanyakumari with South Kerala Express • 06 Nights / 07 Days",
+    "overview": "Welcome to an unforgettable voyage slicing through the cultural heart and spectacular maritime edges of South India. This signature itinerary, thoughtfully curated by TRAGUIN, perfectly blends the high green hills of Munnar, the calm emerald channels of Alleppey, the golden beach horizons of Kovalam, and the sacred ocean confluence at Kanyakumari. Prepare for a seamless premium stay where luxury hospitality meets timeless natural heritage. Premium Travel Proposal Page\n\nAre you searching for the definitive Best Kerala Tour Package or a high-end Kerala Honeymoon Package? This specialized cross-state route targets the absolute top tourist places in Kerala and South India. Experience the timeless allure of the Munnar tea heritage, explore popular Instagram locations along Kovalam’s crescent coastlines, and take in the spiritual scenic beauty of Kanyakumari where three grand oceans meet. Choosing our signature TRAGUIN Kerala Packages ensures that your family steps away from crowded mass tours. Our focus centers on curated experiences, breathtaking landscapes, and premium stays. Whether it’s an eco-adventure inside Eravikulam or shopping for aromatic spices in old trade ports, this is the ultimate luxury Kerala holiday your family deserves. EMERALD HILLS WELCOME TEA ESTATES & EXOTIC WILDLIFE\n\nTRAGUIN Curated Touch: Curated by premium travel specialists with priority check-ins, complimentary tea tasting in Munnar, and private backwater high-tea experience.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-015 | Kanyakumari with South Kerala Express | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Kerala package (KL-015 / TRAGUIN-KL-015): Cochin • Munnar • Alleppey Houseboat • Kovalam • Kanyakumari. Handpicked luxury stays and private transfers by TRAGUIN.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Munnar Eravikulam National Park and Tata Tea Museum",
+        "sort_order": 1
+      },
+      {
+        "text": "Private Alleppey Kettuvallam houseboat cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Kovalam Lighthouse Beach and Ayurvedic spa",
+        "sort_order": 3
+      },
+      {
+        "text": "Kanyakumari Vivekananda Rock Memorial and sunset confluence",
+        "sort_order": 4
+      },
+      {
+        "text": "Padmanabhaswamy Temple and Kuthira Malika Palace in Trivandrum",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN TO MUNNAR",
+        "description": "Arrive at Cochin International Airport where your professional TRAGUIN driver manager extends a warm, personalized welcome. Board your luxury private vehicle and quickly leave the city bustle behind as you ascend toward Munnar. The scenic route winds past misty gaps and the dramatic cascading sprays of Cheeyappara and Valara waterfalls. Arrive at your handpicked luxury mountain resort for a seamless check-in and an evening at total leisure.",
+        "activities": [
+          "Sightseeing Included: Cheeyappara Waterfalls, Valara Eco-points, Tea Garden driveways.",
+          "Evening Experience: Sip on fine, locally grown cardamom tea during a welcome briefing by our local expert.",
+          "Overnight Stay: Premium Luxury Mountain Resort, Munnar.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MUNNAR SIGHTSEEING",
+        "description": "Enjoy a beautiful hill-station breakfast before a full-day exploration of Munnar's iconic attractions. Ride up to Eravikulam National Park, the sanctuary of the endangered Nilgiri Tahr, offering panoramic vistas of clouds resting on green peaks. Later, visit the engineering marvel of Mattupetty Dam, enjoy the natural acoustics at Echo Point, and stroll hand-in-hand through rows of a historic spice plantation.",
+        "activities": [
+          "Sightseeing Included: Eravikulam National Park, Mattupetty Dam, Echo Point, Tata Tea Museum.",
+          "Photography Points: The symmetrical, velvety tea fields of Kundala Lake.",
+          "Overnight Stay: Premium Luxury Mountain Resort, Munnar.",
+          "Meals Included: Full Buffet Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MUNNAR TO ALLEPPEY HOUSEBOAT",
+        "description": "After breakfast, descend the hills towards the tranquil backwaters of Alleppey. Step aboard your private luxury Kettuvallam (Houseboat), exclusively vetted by TRAGUIN. Drift past quiet palm-fringed canals, traditional lakeside hamlets, and vast paddy fields. Relax as your personal onboard chef serves fresh, authentic Malabar delicacies tailored to your preference.",
+        "activities": [
+          "Sightseeing Included: Vembanad Lake Cruise, Alleppey narrow backwater canals.",
+          "Overnight Stay: Premium Private AC Houseboat, Alleppey.",
+          "Meals Included: Breakfast, Traditional Lunch, High-Tea Snacks & Seafood Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ALLEPPEY TO KOVALAM",
+        "description": "Wake up to a quiet morning over the waters. Disembark after breakfast and drive south to Kovalam Beach, a premier coastal paradise. Check into an ultra-luxury cliff resort overlooking the Arabian Sea. Spend your afternoon relaxing on the iconic Light House Beach, or walking across the soft sands of Hawa Beach as waves roll in.",
+        "activities": [
+          "Sightseeing Included: Light House Beach, Vizhinjam Marine Aquarium, Sagarika Marine Gallery.",
+          "Optional Activities: Indulge in an authentic, rejuvenating Ayurvedic full-body massage at the resort spa.",
+          "Overnight Stay: Ultra-Luxury Beachfront Resort, Kovalam.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KOVALAM TO KANYAKUMARI",
+        "description": "Following breakfast, take a beautiful coastal drive across the border into Tamil Nadu to reach Kanyakumari. Board a safe private ferry to the iconic Vivekananda Rock Memorial and the colossal Thiruvalluvar Statue towering over the sea. In the evening, gather at the viewing point to witness a breathtaking sunset where the Arabian Sea, the Bay of Bengal, and the Indian Ocean merge.",
+        "activities": [
+          "Sightseeing Included: Vivekananda Rock Memorial, Thiruvalluvar Statue, Kumari Amman Temple, Sunset",
+          "Emotional Storytelling: Stand at the literal geographic tip of India, absorbing the spiritual energy of the rocky",
+          "Overnight Stay: Premium Ocean-View Hotel, Kanyakumari.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "KANYAKUMARI TO KOVALAM (VIA TRIVANDRUM)",
+        "description": "Witness a magnificent Kanyakumari sunrise over the ocean. After breakfast, drive back towards Kovalam, stopping in Trivandrum to visit the architectural masterpiece of Padmanabhaswamy Temple (the world's richest temple). Admire the classical wooden art at Kuthira Malika Palace before returning to your luxury Kovalam resort for a final celebratory evening.",
+        "activities": [
+          "Sightseeing Included: Sri Padmanabhaswamy Temple, Kuthira Malika Palace Museum, Napier Museum.",
+          "Food Suggestions: Enjoy a luxury lunch featuring traditional sadhya served on a banana leaf in Trivandrum.",
+          "Overnight Stay: Ultra-Luxury Beachfront Resort, Kovalam.",
+          "Meals Included: Breakfast & Festive Farewell Dinner."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Tea Castle Munnar",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Deluxe AC Houseboat",
+        "location": "Alleppey",
+        "nights_label": "01 Night",
+        "description": "Option 02 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe AC Cabin",
+        "meal_plan": "All Meals on Houseboat",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Soma Palmshore Resort",
+        "location": "Kovalam",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Seaview",
+        "location": "Kanyakumari",
+        "nights_label": "01 Night",
+        "description": "Option 04 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Sea View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel & Spa",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 05 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium AC Houseboat",
+        "location": "Alleppey",
+        "nights_label": "01 Night",
+        "description": "Option 06 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium AC Cabin",
+        "meal_plan": "All Meals on Houseboat",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Uday Samudra Beach Resort",
+        "location": "Kovalam",
+        "nights_label": "02 Nights",
+        "description": "Option 07 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Sparsa Resort Kanyakumari",
+        "location": "Kanyakumari",
+        "nights_label": "01 Night",
+        "description": "Option 08 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "The Panoramic Getaway",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 09 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Private Cruise",
+        "location": "Alleppey",
+        "nights_label": "01 Night",
+        "description": "Option 10 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Private Cabin",
+        "meal_plan": "All Meals on Houseboat",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Kovalam (Garden View)",
+        "location": "Kovalam",
+        "nights_label": "02 Nights",
+        "description": "Option 11 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Garden View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Annai Resorts & Spa",
+        "location": "Kanyakumari",
+        "nights_label": "01 Night",
+        "description": "Option 12 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 12
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandy's Windy Woods",
+        "location": "Munnar",
+        "nights_label": "02 Nights",
+        "description": "Option 13 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 13
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium Glass Houseboat",
+        "location": "Alleppey",
+        "nights_label": "01 Night",
+        "description": "Option 14 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Glass Cabin",
+        "meal_plan": "All Meals on Houseboat",
+        "image_media_id": null,
+        "sort_order": 14
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Kovalam (Club Suite)",
+        "location": "Kovalam",
+        "nights_label": "02 Nights",
+        "description": "Option 15 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Club Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 15
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Tri Sea (Suite Room)",
+        "location": "Kanyakumari",
+        "nights_label": "01 Night",
+        "description": "Option 16 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Suite Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 16
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 06 Nights stay at top-rated, handpicked luxury hotels and premium beach resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 06 Buffet Breakfasts & 06 curated dinners at hotels, plus all meals prepared live on the Alleppey Houseboat.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Chauffeur-driven, air-conditioned luxury Innova Crysta for smooth private transfers and all sightseeing destinations.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 dedicated concierge desk and support during the entire journey.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All applicable luxury resort taxes, toll fees, and driver permits included.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold towels, traditional fresh garlands, and a basket of curated tropical fruits upon arrival.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to Cochin / from Trivandrum.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to monuments, museums, or ferry rides at Vivekananda Rock.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone bills, premium beverages, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, water sports, or independent vehicle usage outside the planned hours.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory international travel insurance or medical cover.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

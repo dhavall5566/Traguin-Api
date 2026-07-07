@@ -1,0 +1,423 @@
+{
+  "destination_slug": "andaman-and-nicobar",
+  "package": {
+    "slug": "an-006-luxury-andaman-escape",
+    "serial_code": "AN-006",
+    "traguin_tour_code": "TRG-AND-006",
+    "title": "Luxury Andaman Escape",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AN-006 | TRAGUIN tour code TRG-AND-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andaman & Nicobar Islands, India | Category: Luxury Travel Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Port Blair (3N) • Havelock Island (2N) • Neil Island (1N)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Honeymooners, Luxury Connoisseurs & Discerning Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Ultra-Luxury Pricing)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle & Meals: Private Luxury AC Vehicle & Premium Cruise (Nautika/Makruzz Premium)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Port Blair (3N) → Havelock Island (2N) → Neil Island (1N) → Port Blair → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private beach setup at Radhanagar with refreshments during sunset hour.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Direct premium seat upgrades on island cruise vessels bypassing long public queues.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Dedicated coordinators present at every jetty point to manage luggage and ticketing seamlessly.",
+        "sort_order": 11
+      },
+      {
+        "text": "Luxury Transportation: Elite premium private fleet matching meticulous maintenance schedules.",
+        "sort_order": 12
+      },
+      {
+        "text": "Shopping & Local Experiences: Sagarika Emporium & Local Markets: Authentic mother-of-pearl jewelry, hand-carved coconut shell artifacts, and premium wooden spice boxes. Beachfront Cafes: Fresh catch lobster and international woodfired pizzas at high-end seaside cafes in Havelock Island.",
+        "sort_order": 13
+      },
+      {
+        "text": "Important Notes: Ferry Operations: Catamaran cruise sailings depend entirely on sea weather conditions and technical clearance. Hotel Policies: Island check-out times are early, usually around 08:00 hrs to 09:00 hrs, aligned with cruise schedules. Advance Bookings: Highly recommended to book 45-60 days ahead during peak travel season (October through May).",
+        "sort_order": 14
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon",
+      "Family",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "an-006-luxury-andaman-escape-itinerary",
+    "title": "Luxury Andaman Escape",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Ultra-Luxury Pricing)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury Andaman Escape • Tropical Opulence & Paradise Beachfronts • 06 Nights / 07 Days",
+    "overview": "Welcome to an unforgettable journey curated exclusively by TRAGUIN. Embark on the finest Luxury Andaman Escape, specifically engineered to offer an exquisite fusion of breathtaking landscapes, premium stays, and immersive experiences across India's premier tropical paradise.\n\nTOUR OVERVIEW\nThis elite 06 Nights / 07 Days itinerary takes you across the turquoise expanses of the Bay of Bengal, traversing Port Blair, Havelock Island, and Neil Island. Traveling in seamless, air-conditioned executive luxury vehicles with private assistance at every jetty, you will sail past the open seas via the premium cabins of high-speed luxury catamarans.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AN-006 | Luxury Andaman Escape | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Luxury Andaman Escape (AN-006 / TRG-AND-006): Port Blair, Havelock Radhanagar Beach, Elephant Beach, Neil Island candlelight dinner, Ross Island, North Bay, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Cellular Jail Museum, Carbyn's Cove Beach Promenade, and Light & Sound Show",
+        "sort_order": 1
+      },
+      {
+        "text": "Radhanagar Beach and luxury catamaran island transit to Havelock",
+        "sort_order": 2
+      },
+      {
+        "text": "Elephant Beach guided snorkeling and private speedboat transfers",
+        "sort_order": 3
+      },
+      {
+        "text": "Laxmanpur Natural Bridge, Bharatpur Coral Beach, and private oceanside dinner on Neil Island",
+        "sort_order": 4
+      },
+      {
+        "text": "Ross Island Ruins, North Bay Lighthouse Island, and glass-bottom coral viewing",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PORT BLAIR — WELCOME TO THE TROPICAL GATEWAY",
+        "description": "Your premium Andaman experience begins as you step onto the runway of Veer Savarkar International Airport in Port Blair. Your private luxury chauffeur-driven vehicle and a dedicated TRAGUIN guest coordinator await to escort you to your premium hotel. After check-in and an exquisite lunch, explore the poignant national heritage of Cellular Jail. As dusk falls, enjoy VIP-seated access to the legendary Light and Sound Show.",
+        "activities": [
+          "Sightseeing Included: Cellular Jail Museum, Carbyn's Cove Beach Promenade, National Memorial Light & Sound Show.",
+          "Evening Experience: Exclusive welcoming seafood culinary dinner curated by TRAGUIN experts.",
+          "Overnight Stay: Port Blair (Premium Ocean-View Resort)",
+          "Meals Included: Welcome Exotic Beverage & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "PORT BLAIR TO HAVELOCK ISLAND — HIGH-SPEED LUXURY CRUISE",
+        "description": "Board an executive high-speed luxury catamaran (Nautika or Makruzz) from Haddo Jetty to Havelock Island. Upon arrival at Havelock, transfer smoothly to your ultra-luxury beachfront villa. In the afternoon, journey to Radhanagar Beach, universally celebrated for its powdery white sand and breathtaking landscapes.",
+        "activities": [
+          "Sightseeing Included: Radhanagar Beach (Beach No. 7), Luxury Catamaran Island Transit.",
+          "Evening Experience: Private beachside starlit stroll along the resort's restricted coastline.",
+          "Overnight Stay: Havelock Island (Ultra-Luxury Beachfront Resort)",
+          "Meals Included: Premium Buffet Breakfast & Multi-cuisine Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "ELEPHANT BEACH AQUATIC EXCURSION — IMMERSIVE MARINE LIFE",
+        "description": "Embark on a private speedboat charter heading directly to Elephant Beach, a prime hotspot for marine adventure and popular Instagram locations. Known for its turquoise water and brilliant shallow coral reefs, it provides the perfect setting for curated experiences like snorkeling and sea-walking. Return to your resort by afternoon for an exclusive luxury spa session.",
+        "activities": [
+          "Sightseeing Included: Elephant Beach, Guided Snorkeling Session, Private Speedboat Transfers.",
+          "Optional Activities: PADI Discover Scuba Diving with a private instructor and underwater photography.",
+          "Overnight Stay: Havelock Island (Ultra-Luxury Beachfront Resort)",
+          "Meals Included: Breakfast & Special Chef's Choice Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "HAVELOCK ISLAND TO NEIL ISLAND — EXPLORING SHAHEED DWEEP",
+        "description": "Sail via cruise to Neil Island, an oasis of agricultural serenity and quiet iconic attractions. Check into your premium stay and venture out to Laxmanpur Beach to view its famous natural rock arch bridge. Later, travel to Bharatpur Beach for a quiet evening watching the gentle tide break across a vibrant coral shelf.",
+        "activities": [
+          "Sightseeing Included: Laxmanpur Natural Bridge, Bharatpur Coral Beach, Inter-Island Premium Cruise.",
+          "Evening Experience: A private candlelight dinner directly on the sandy shores, arranged by TRAGUIN.",
+          "Overnight Stay: Neil Island (Premium Luxury Resort)",
+          "Meals Included: Breakfast & Private Oceanside Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "NEIL ISLAND TO PORT BLAIR — SUNSET PANORAMAS AT CHIDIYATAPU",
+        "description": "Catch a late-morning luxury cruise back to Port Blair. After checking in to your premium suite, take a scenic coastal drive to Chidiyatapu, famed for its breathtaking landscapes and dense mangrove woods. Walk up to the sunset point to view the sun dip below the horizon of the open ocean.",
+        "activities": [
+          "Sightseeing Included: Chidiyatapu Sunset Viewpoint, Biological Park trail, Local Souvenir Emporium.",
+          "Optional Activities: High-end shopping for genuine pearl jewelry and rare shell handicrafts.",
+          "Overnight Stay: Port Blair (Premium Luxury Resort)",
+          "Meals Included: Breakfast & Premium Continental Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "ROSS ISLAND & NORTH BAY EXCURSION — VICTORIAN RUINS",
+        "description": "Board a premium private boat to Ross Island (Netaji Subhash Chandra Bose Island), the historic British administrative headquarters now draped in beautiful ficus tree roots and wandering deer. Continue onward to North Bay Island, whose iconic lighthouse is immortalized on the Indian twenty-rupee note. Experience a glass-bottom boat ride to look into the coral ecosystem without getting wet.",
+        "activities": [
+          "Sightseeing Included: Ross Island Ruins, North Bay Lighthouse Island, Glass-Bottom Coral Viewing.",
+          "Evening Experience: Farewell cocktail session and a curated dinner review with your guest manager.",
+          "Overnight Stay: Port Blair (Premium Luxury Resort)",
+          "Meals Included: Breakfast & Gala Farewell Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "PORT BLAIR — DEPARTURE",
+        "description": "Indulge in a final lavish breakfast looking out over the sea. Your private luxury car will transport you seamlessly to Veer Savarkar International Airport for your return flight.",
+        "activities": [
+          "Transfers Included: Private luxury airport departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Peerless Resort / similar",
+        "location": "Port Blair",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Peerless Resort / similar (Port Blair, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Symphony Palms Beach Resort",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – DELUXE: Symphony Palms Beach Resort (Havelock Island, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Symphony Summer Sands",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 03 – DELUXE: Symphony Summer Sands (Neil Island, 01 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "SeaShell Hotel / Lemon Tree",
+        "location": "Port Blair",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – PREMIUM: SeaShell Hotel / Lemon Tree (Port Blair, 03 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "SeaShell Havelock / Sandyy Wavess",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 05 – PREMIUM: SeaShell Havelock / Sandyy Wavess (Havelock Island, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "SeaShell Neil / Silver Sand Beach",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 06 – PREMIUM: SeaShell Neil / Silver Sand Beach (Neil Island, 01 Night)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC Bay Island",
+        "location": "Port Blair",
+        "nights_label": "03 Nights",
+        "description": "OPTION 07 – LUXURY: Welcomhotel by ITC Bay Island (Port Blair, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Barefoot at Havelock / Symphony Samudra",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 08 – LUXURY: Barefoot at Havelock / Symphony Samudra (Havelock Island, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Silver Sand Sentinel Luxury Suite",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 09 – LUXURY: Silver Sand Sentinel Luxury Suite (Neil Island, 01 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Exotica Resort & Spa (Suite)",
+        "location": "Port Blair",
+        "nights_label": "03 Nights",
+        "description": "OPTION 10 – ULTRA LUXURY: Taj Exotica Resort & Spa (Suite) (Port Blair, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Exotica Resort & Spa (Havelock)",
+        "location": "Havelock Island",
+        "nights_label": "02 Nights",
+        "description": "OPTION 11 – ULTRA LUXURY: Taj Exotica Resort & Spa (Havelock) (Havelock Island, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "SeaShell Neil Island (Luxury Lagoon Villa)",
+        "location": "Neil Island",
+        "nights_label": "01 Night",
+        "description": "OPTION 12 – ULTRA LUXURY: SeaShell Neil Island (Luxury Lagoon Villa) (Neil Island, 01 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Lagoon Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations at handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Cruise Transits: Premium seat ticket allocations on Nautika / Makruzz.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private executive AC vehicles throughout the tour.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local island coordinator assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meals: Lavish daily breakfasts and premium gourmet dinners.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized floral lei welcome and airport travel kit.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private candlelight dinner experience on Neil Island.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Taxes & Permits: All island entry permits, forest fees, and taxes included.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international flights to Port Blair.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Scuba Diving, Sea-walking, or advanced water sports.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as bar bills, laundry, and guide tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional extensions caused by flight delays or weather conditions.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

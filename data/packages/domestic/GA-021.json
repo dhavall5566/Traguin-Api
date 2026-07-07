@@ -1,0 +1,270 @@
+{
+  "destination_slug": "goa",
+  "package": {
+    "slug": "ga-021-educational-history-science-tour",
+    "serial_code": "GA-021",
+    "traguin_tour_code": "TRG-GOA-021",
+    "title": "TRAGUIN Premium Goa Tour Package — Educational History & Science Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GA-021 | TRAGUIN tour code TRG-GOA-021",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Goa / India | Category: School Educational",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Panaji • Old Goa •",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Students, Academic Batches & Educational Institutions",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Excellent for field studies)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Group Customised Rate)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium Luxury Multi-Axle",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private expert-led history briefing and architectural mapping before",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Well-paced routing planned away from congested tourist crowds to",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties selected strictly based on stringent safety records, perimeter",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Fleet of audited luxury touring coaches driven by verified, professional drivers.",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Take a curated shopping trip to find authentic Goan premium cashews, local feni-infused handmade chocolates, traditional clay crafts, and unique hand-painted Azulejos tiles as souvenirs. Cafes & Food: Enjoy refreshing tropical fruit juices, regional Bebinca layer dessert delicacies, and organic farm-to-table treats at the plantation cafes.",
+        "sort_order": 12
+      },
+      {
+        "text": "Hotel Policies: Uniform check-in is at 14:00 hrs and check-out at 11:00 hrs. Student lists with institute IDs",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Beach",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ga-021-educational-history-science-tour-itinerary",
+    "title": "TRAGUIN Premium Goa Tour Package — Educational History & Science Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Group Customised Rate)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Educational History & Science Tour",
+    "overview": "BEACHES Welcome to a beautifully designed academic expedition curated by TRAGUIN. This exclusive Goa Family Tour and School Group Package redefines traditional excursions by combining absolute premium comfort with profound, experiential learning. Often celebrated merely for its coastline, Goa holds an extraordinary wealth of scientific, ecological, and historical value. As your professional travel consultants, TRAGUIN has orchestrated an immersive itinerary that weaves the breathtaking landscapes of the Western Ghats together with monumental architectural relics and innovative science exhibits, transforming this journey into an array of unforgettable memories.\n\nTOUR OVERVIEW\nThis elite academic itinerary is crafted to satisfy the intellectual curiosity of students while providing the flawless safety and organization expected of a luxury holiday. Traveling across the state in a dedicated fleet of premium high-deck coaches equipped with advanced safety mechanics and overseen by a professional TRAGUIN tour manager, the group will cover historical Portuguese settlements, advanced oceanographic research centers, and tropical botanical ecosystems. With a comprehensive full-board meal plan featuring hygienic, custom-curated food options at handpicked hotels, this premium Goa experience perfectly combines safety, prestige, and immersive learning.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GA-021 | Goa | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Goa package (GA-021 / TRG-GOA-021): Panaji • Old Goa •.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GOA & MANDUVI RIVER CRUISE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HISTORICAL EXPLORATION OF OLD GOA & LATIN QUARTER",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SCIENCE CENTRE & INTERACTIVE OCEANOGRAPHY EXPERIENCES",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: ECO-BOTANY & AGRICULTURAL SCIENCE IN PONDA",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: NAVAL AVIATION MUSEUM & DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GOA & MANDUVI RIVER CRUISE",
+        "description": "WELCOME TO THE GATEWAY OF ENLIGHTENMENT – URBAN HISTORY & HERITAGE Your premium Goa experience begins as your flight or train arrives. You will be warmly greeted by your private luxury transport team. Transfer smoothly to your handpicked premium accommodation, where a dedicated student check-in lounge and refreshment drinks await. After an afternoon orientation session, step out to explore the scenic beauty of Panaji. In the evening, enjoy a curated educational cruise on the Mandovi River, highlighting the historical maritime importance of Goa's ancient trade routes. TRAGUIN experts.",
+        "activities": [
+          "Sightseeing Included: Panaji City Walk, Miramar Beach Shoreline, Mandovi River Cruise.",
+          "Evening Experience: Cultural folk dance observation and historical talk onboard the cruise, curated by",
+          "Overnight Stay: Panaji / North Goa (Premium Selected Group Hotel)",
+          "Meals Included: Welcome Amenities, Lunch & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HISTORICAL EXPLORATION OF OLD GOA & LATIN QUARTER",
+        "description": "COLONIAL ARCHITECTURE & THE CRADLE OF INDO-PORTUGUESE CULTURE Awake early for a healthy breakfast before traveling back in time to explore the iconic attractions of Old Goa, the former capital under Portuguese rule. Walk through the breathtakingly massive Basilica of Bom Jesus and the majestic Se Cathedral, studying the structural engineering of late 16th-century Renaissance architecture. In the afternoon, explore Fontainhas—the Latin Quarter of Panaji—a popular Instagram location famous for its bright Mediterranean-style architecture, rich tilework, and heritage art galleries. Quarter.",
+        "activities": [
+          "Sightseeing Included: Basilica of Bom Jesus, Se Cathedral, Archaeological Museum of Goa, Fontainhas Latin",
+          "Optional Activities: Interactive architectural sketch workbook session led by local preservation experts.",
+          "Overnight Stay: Panaji / North Goa (Premium Selected Group Hotel)",
+          "Meals Included: Breakfast, Mid-Day Field Lunch & Managed Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SCIENCE CENTRE & INTERACTIVE OCEANOGRAPHY EXPERIENCES",
+        "description": "MARINE INTERACTIVE RESEARCH & THE WONDERS OF SCIENTIFIC PHYSICS Dedicate today to scientific innovation and hands-on experiments. Visit the renowned Goa Science Centre & Planetarium, taking part in immersive experiences through the 3D starry sky theater, mirror mazes, and outdoor physics parks. Following lunch, head to Dona Paula to understand ocean currents and marine preservation. Students will complete guided research sheets on the unique coastal geography and ecosystems of Goa.",
+        "activities": [
+          "Sightseeing Included: Goa Science Centre & Planetarium, Dona Paula Jetty, Caranzalem Bay.",
+          "Evening Experience: Science quiz competition and planetarium celestial viewing session with premium prizes.",
+          "Overnight Stay: Panaji / North Goa (Premium Selected Group Hotel)",
+          "Meals Included: Breakfast, Lunch & Gourmet Institutional Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ECO-BOTANY & AGRICULTURAL SCIENCE IN PONDA",
+        "description": "BIODIVERSITY BASICS & HORTICULTURAL FIELD WORK Journey into the green heart of Ponda to discover the rich flora and fauna of the Western Ghats. Tour a premium tropical spice plantation, walking along paths filled with aromatic plants, black pepper vines, and rare medicinal herbs. Learn about advanced sustainable farming, natural vermicomposting, and rainwater harvesting techniques. Conclude your afternoon by visiting the majestic Fort Aguada to study coastal defensive design and historical lighthouse engineering.",
+        "activities": [
+          "Sightseeing Included: Ponda Tropical Spice Plantation, Sinquerim Coastal Fort, Aguada Fortress & Lighthouse.",
+          "Optional Activities: Traditional Goan plantation lunch served over fresh eco-friendly banana leaves.",
+          "Overnight Stay: Panaji / North Goa (Premium Selected Group Hotel)",
+          "Meals Included: Breakfast, Traditional Organic Spice Farm Buffet Lunch & Farewell Gala Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "NAVAL AVIATION MUSEUM & DEPARTURE",
+        "description": "AERONAUTICAL MARVELS – SHAPING UNFORGETTABLE MEMORIES On the final morning of your luxury holiday, check out and drive towards Bogmalo to tour the unique Naval Aviation Museum. This iconic attraction stands as one of the few naval aviation museums in Asia. It offers an incredible view of decommissioned aircraft, jet fighters, and deep-sea rescue gear, inspiring young minds with aeronautical engineering principles. Your private luxury transport will then guide you comfortably to Goa Airport or Madgaon Station for your journey home, carrying unforgettable memories designed beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Naval Aviation Museum, Final Airport/Station drop-off coordination.",
+          "Meals Included: Sumptuous Buffet Breakfast & Packed Departure Lunch"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Country Inn & Suites by Radisson / similar",
+        "location": "Panaji / North Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Country Inn & Suites by Radisson / similar (Panaji / North Goa (4 Nights)) | Full Board (All Meals)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Triple Shared Wing",
+        "meal_plan": "Full Board (All Meals)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Fortune Miramar by ITC Hotel Group / similar",
+        "location": "Panaji / North Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Fortune Miramar by ITC Hotel Group / similar (Panaji / North Goa (4 Nights)) | Full Board (All Meals)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Twin Shared Room Wing",
+        "meal_plan": "Full Board (All Meals)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The O Hotel / Vivanta Goa Panaji",
+        "location": "Panaji / North Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: The O Hotel / Vivanta Goa Panaji (Panaji / North Goa (4 Nights)) | Full Board + High Tea Service",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Executive Double Room Wing",
+        "meal_plan": "Full Board + High Tea Service",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Cidade de Goa Horizon / Grand Hyatt Goa",
+        "location": "Panaji / North Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Taj Cidade de Goa Horizon / Grand Hyatt Goa (Panaji / North Goa (4 Nights)) | Elite Custom Luxury Dining Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Deluxe Oceanfront Institutional Suite",
+        "meal_plan": "Elite Custom Luxury Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "excluded",
+        "text": "Interstate flights, airfare, or long-distance",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "train tickers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like telephone bills, laundry, or",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "room service.",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional recreational watersports or beach",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "rides.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Any insurance policies or unforeseen medical",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "hospitalization fees.",
+        "sort_order": 8
+      }
+    ]
+  }
+}

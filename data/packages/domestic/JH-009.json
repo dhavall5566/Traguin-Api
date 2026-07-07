@@ -1,0 +1,306 @@
+{
+  "destination_slug": "jharkhand",
+  "package": {
+    "slug": "jh-009-romantic-netarhat-chotanagpur-honeymoon",
+    "serial_code": "JH-009",
+    "traguin_tour_code": "TG-JHR-ROM-009",
+    "title": "Romantic Netarhat & Chotanagpur Hills Luxury Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JH-009 | TRAGUIN tour code TG-JHR-ROM-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Jharkhand / India | Category: Honeymoon / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jharkhand",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Newlyweds, Couples, Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Mist & Greenery)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Chauffeur-Driven SUV (Innova Crysta / Premium Sedan) Meal Architecture: Daily Elaborate Buffet Breakfast and Custom Gastronomic Dinners Bespoke Route: Ranchi Arrival → Scenic Patratu Valley → Netarhat Highland Retreat → Lodh & Sadni Excursions → Ranchi Departure",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Ranchi Arrival → Scenic Patratu Valley → Netarhat Highland Retreat → Lodh & Sadni Excursions → Ranchi Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, romantic evening high-tea setup at Magnolia Point with a",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Hand-picked itineraries designed by destination specialists who map",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Every property features exceptional hospitality scores, guaranteed couple-",
+        "sort_order": 11
+      },
+      {
+        "text": "Luxury Transportation: Professional, fully verified, courteous chauffeurs trained in elite hospitality",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Nature",
+      "Spiritual"
+    ]
+  },
+  "itinerary": {
+    "slug": "jh-009-romantic-netarhat-chotanagpur-honeymoon-itinerary",
+    "title": "Romantic Netarhat & Chotanagpur Hills Luxury Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Romantic Netarhat & Chotanagpur Hills Luxury Escape",
+    "overview": "Romantic Netarhat & Chotanagpur Hills Luxury Escape Ranchi • Netarhat (Queen of Chotanagpur) • Lodh Waterfalls • Betla • Patratu Valley \"Step into a world where mist-covered valleys whisper timeless love stories, and the pristine wilderness of the Chotanagpur Plateau sings in harmony with your hearts. TRAGUIN invites you to experience Jharkhand's best-kept secret—a curated romantic honeymoon odyssey through rolling hills, cascading pine forests, and breathtaking panoramic horizons. This is not just a holiday; it is an unforgettable luxury travel experience custom-tailored for souls beginning their shared eternity.\"\n\nTOUR OVERVIEW\nEmbark on the ultimate Jharkhand Honeymoon Package designed by our elite travel architects. This meticulously planned luxury itinerary weaves together the breathtaking landscapes of the Patratu Valley, the pine-infused mountain breezes of Netarhat—affectionately crowned the \"Queen of Chotanagpur\"—and the untamed green corridors of Betla. Travel in absolute comfort with a private premium luxury vehicle, TRAGUIN Premium Luxury Holidays handpicked romantic accommodations, and curated experiences that transform moments into milestones. Your bespoke journey features curated candlelit experiences, specialized photography halts, and deep cultural immersions managed seamlessly by TRAGUIN dedicated concierge professionals. Travel Protocol: Private Luxury FIT (Fully Independent Traveler) Execution Premium Vehicle: Luxury Chauffeur-Driven SUV (Innova Crysta / Premium Sedan) Meal Architecture: Daily Elaborate Buffet Breakfast and Custom Gastronomic Dinners Bespoke Route: Ranchi Arrival → Scenic Patratu Valley → Netarhat Highland Retreat → Lodh & Sadni Excursions → Ranchi Departure TRAGUIN Curated Advantage: Dedicated 24/7 VIP assistance, welcome champagne/mocktail amenities, exclusive honeymoon cake cutting, and pre-mapped top Instagram locations for timeless memories.\n\nWHY CHOOSE A LUXURY JHARKHAND HOLIDAY?\nJharkhand is rapidly emerging as India's premier choice for eco-luxury tourism and romantic escapades, boasting some of the most spectacular, pristine sights in Eastern India. The Best Jharkhand Tour Package reveals an uncharted paradise far from crowded standard destinations. It is universally sought after for a unique Jharkhand Family Tour or an intimate Jharkhand Honeymoon Package due to its pleasant high- altitude climate, deep mystical woodlands, and expansive views. From the stunning serpentine roads of Patratu Valley, rivaling international alpine routes, to the mesmerizing sunset points of Netarhat, this itinerary captures the essence of Jharkhand Sightseeing. Couples seeking immersive experiences, rich tribal culture, fine local culinary traditions, and rare wildlife photography find their expectations beautifully exceeded with TRAGUIN Jharkhand Packages.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JH-009 | Romantic Netarhat & Chotanagpur Hills Luxury Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Jharkhand package (JH-009 / TG-JHR-ROM-009): Jharkhand with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: RANCHI ARRIVAL & PATRATU VALLEY EXCURSION",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: RANCHI TO NETARHAT (QUEEN OF CHOTANAGPUR)",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: NETARHAT SUNRISE & LODH FALLS WILDERNESS EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: NETARHAT TO BETLA NATIONAL PARK ECO-ADVENTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: BETLA TO RANCHI & FINAL DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, romantic evening high-tea setup at Magnolia Point with a",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Hand-picked itineraries designed by destination specialists who map",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Every property features exceptional hospitality scores, guaranteed couple-",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "RANCHI ARRIVAL & PATRATU VALLEY EXCURSION",
+        "description": "WELCOME TO THE LAND OF FORESTS – ASCENT INTO THE SERPENTINE LUXURY OF PATRATU Your premium Jharkhand Tour Package begins with a warm, grand VIP welcome at Ranchi Airport (IXR) or Ranchi Railway Station by our dedicated TRAGUIN tour ambassador. Step into your plush, private air- conditioned vehicle as we escort you into the heart of Jharkhand's capital city. Check into your ultra-luxury room and enjoy an exclusive welcome amenity box curated just for you. By afternoon, your romantic journey heads toward the world-famous Patratu Valley. Prepare to be spellbound as your luxury car glides down the impeccably engineered hairpin turns, surrounded by lush green hills. Stop at our pre-mapped Popular Instagram locations to capture stunning panoramic photographs with the shimmering Patratu Dam backdrop. Enjoy a private, handpicked luxury speedboat ride over the placid waters as the setting sun colors the sky in beautiful hues of gold and amber. TRAGUIN Premium Luxury Holidays Optional Activities: High- speed jet- skiing, local handloom artifact Empora. Overnight Stay: Radisson Blu Hotel Ranchi / Rahi Patratu Luxury Resort (Luxury Option).",
+        "activities": [
+          "Sightseeing Included: Patratu Valley S-Curves, Patratu Dam and Lake, VIP Lake Boardwalk.",
+          "shopping: at Ranchi",
+          "Evening Experience: Gourmet high-tea served at a scenic viewpoint overlooking the valley.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RANCHI TO NETARHAT (QUEEN OF CHOTANAGPUR)",
+        "description": "DRIVE INTO THE MIST-SHROUDED HIGHLANDS & UNMATCHED ROMANTIC SUNSET EXPERIENCE Wake up to a beautiful morning and enjoy a delicious breakfast buffet. Today, we embark on an incredibly scenic drive toward the star highlight of your Jharkhand Honeymoon Package: Netarhat, legendary as the \"Queen of Chotanagpur\". As the altitude rises, the air cools and becomes crisp, carrying the sweet scent of eucalyptus and pine trees. This high-altitude sanctuary is widely recognized as one of the Top Tourist Places in Jharkhand for travelers seeking pure serenity. Arrive in Netarhat by early afternoon and check into your handpicked, premium cottage sanctuary. After refreshing, stroll hand-in-hand through the majestic, towering Netarhat Pine Forest, an absolute dream for couples and photography lovers. Later, we escort you to the iconic Magnolia Sunset Point. Here, you will witness a breathtaking sunset while hearing the romantic local folklore of Magnolia. It is an emotional, unforgettable moment that defines your premium TRAGUIN Netarhat Experience. TRAGUIN Premium Luxury Holidays Optional Activities: Guided couple's nature walk with an expert naturalist through tribal woodland tracks. starry sky. Overnight Stay: Nature Hat Resort / Prabhat Vihar Luxury Premium Cottages, Netarhat.",
+        "activities": [
+          "Sightseeing Included: Netarhat Pine Forest, Magnolia Sunset Point, Upper Ghaghri Waterfalls.",
+          "Evening Experience: A warm, private bonfire with an artisanal barbecue session beneath a clear,",
+          "Meals Included: Full Breakfast & Traditional Chotanagpur Royal Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "NETARHAT SUNRISE & LODH FALLS WILDERNESS EXCURSION",
+        "description": "A GLORIOUS DAWN AT SUNRISE POINT & MARVELING AT THE MAJESTIC LODH WATERFALLS Begin your day early to witness a spectacular sunrise at Sunrise Point, Netarhat. Watch together in awe as the morning mist rises from the deep valleys, revealing a beautiful canvas of gold, orange, and purple light across the hills. This is widely known as the absolute Best Time to Visit Netarhat for capturing magical, mist-kissed couple photographs. Return to your resort for a hearty, hot breakfast before setting off on an exciting day-trip to the magnificent Lodh Falls, the highest and most awe-inspiring waterfall in Jharkhand. Located within a lush, untamed jungle setting, the sight and sound of water cascading from over 460 feet is truly spectacular. Feel the refreshing, cool mist on your face as you enjoy a private, premium picnic lunch curated by TRAGUIN near the safe viewing zones. On the way back, explore the beautiful, multi-tiered Sadni Falls, nestled gracefully within a tranquil, verdant valley landscape. TRAGUIN Premium Luxury Holidays Optional Activities: Interactive cultural visit to a local tribal village to see traditional Chhotanagpur art. resort. Overnight Stay: Nature Hat Resort / Prabhat Vihar Luxury Premium Cottages, Netarhat.",
+        "activities": [
+          "Sightseeing Included: Sunrise Point Netarhat, Lodh Waterfalls, Sadni Falls, Netarhat Dam.",
+          "Evening Experience: A cozy, romantic candlelit dinner featuring fine regional delicacies at your",
+          "Meals Included: Breakfast, Curated Picnic Lunch, and a Special Honeymoon Candlelit Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "NETARHAT TO BETLA NATIONAL PARK ECO-ADVENTURE",
+        "description": "JUNGLE SAFARI ROMANCE, ANCIENT FORTS, & IMMERSIVE WILDLIFE ENCOUNTERS After a leisurely, scenic breakfast, check out from the misty heights of Netarhat as we descend toward the lush eco-reserve of Betla National Park, one of India's earliest and most historic wildlife sanctuaries. The drive takes you through beautiful tribal heartlands, dense sal forests, and winding rivers, offering a true taste of wilderness luxury. Arrive and check into your premium wildlife lodge. In the afternoon, embark on an exclusive jungle safari inside Betla National Park. Keep your cameras ready to spot majestic elephants, spotted deer, wild boars, gaurs, and elusive big cats. Deep within the forest, you will explore the historic, atmospheric ruins of the 16th- century Chero Kings' Betla Fort, where nature and history blend beautifully. This unique combination makes it a key highlight of our TRAGUIN Jharkhand Packages. Viewpoint. Optional Activities: Elephant- back safari (subject to availability and forestry TRAGUIN Premium Luxury Holidays department permissions). grounds. Overnight Stay: Hotel Tree House Betla / Van Vihar Premium Eco Resort, Betla.",
+        "activities": [
+          "Sightseeing Included: Betla Tiger Reserve Sanctuary, Historical Betla Chero Fort, Koel River",
+          "Evening Experience: Tribal dance performance showcase by local artists at the eco-resort",
+          "Meals Included: Breakfast, Lunch, and Jungle-Theme Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "BETLA TO RANCHI & FINAL DEPARTURE",
+        "description": "FAREWELL TO THE MAGICAL CHOTANAGPUR HILLS WITH UNFORGETTABLE MEMORIES Enjoy a beautiful, relaxed breakfast while listening to the sweet sounds of the forest. Check out from your eco- lodge as your premium chauffeured vehicle takes you back on a smooth, scenic drive to Ranchi. Along the way, stop at the magnificent Jonha Falls or Hundru Falls (depending on your flight schedule) to marvel at the beautiful river drops that make Ranchi famous as the 'City of Waterfalls'. Indulge in some last-minute shopping at the premium handloom markets to pick up beautiful Souvenirs. Your incredible Luxury Jharkhand Holiday concludes as we transfer you with VIP assistance to Ranchi Airport (IXR) or Ranchi Railway Station for your journey home. You leave with a heart full of joy, deep love, and beautiful memories carefully crafted by TRAGUIN. Optional Activities: Quick lunch stop at a top- rated fine dining restaurant in Ranchi city. Overnight Stay: None (Happy Journey). TRAGUIN Premium Luxury Holidays",
+        "activities": [
+          "Sightseeing Included: En-route Waterfall Stop (Jonha/Hundru), Ranchi Local Souvenir Emporium.",
+          "Evening Experience: Direct airport check-in assistance by your dedicated chauffeur.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Chanakya BNR Hotel | Hotel Prabhat Vihar (Govt Class A) | Van Vihar Resort Eco Block",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "1N Ranchi|2N Netarhat|1N Betla",
+        "description": "OPTION 01 – DELUXE: Chanakya BNR Hotel | Hotel Prabhat Vihar (Govt Class A) | Van Vihar Resort Eco Block | CP Plan (Breakfast & Dinner on select nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room | Govt Class A | Eco Block",
+        "meal_plan": "CP Plan (Breakfast & Dinner on select nights)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Capitol Hill | Nature Hat Resort (Premium Cottage) | Hotel Tree House Betla",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "1N Ranchi|2N Netarhat|1N Betla",
+        "description": "OPTION 02 – PREMIUM: Hotel Capitol Hill | Nature Hat Resort (Premium Cottage) | Hotel Tree House Betla | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Suite | Premium Cottage | Valley View",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Ranchi | The Woodside Premium Highlands | Betla Forest Oasis Lodge",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "1N Ranchi|2N Netarhat|1N Betla",
+        "description": "OPTION 03 – LUXURY: Radisson Blu Ranchi | The Woodside Premium Highlands | Betla Forest Oasis Lodge | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Club Room | VIP Villa | Forest Oasis",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu (Executive Suite) | TRAGUIN Bespoke Heritage Villa Upgrade | Grand Wilderness Safari Suite",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "1N Ranchi|2N Netarhat|1N Betla",
+        "description": "OPTION 04 – ULTRA LUXURY: Radisson Blu (Executive Suite) | TRAGUIN Bespoke Heritage Villa Upgrade | Grand Wilderness Safari Suite | All Meals Included",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite | Heritage Villa | Plunge Pool Villa",
+        "meal_plan": "All Meals Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Double occupancy stays across the selected hotel options.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily breakfast and dinners as specified in the customized meal plan.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Fleet: Private AC Innova Crysta or premium sedan for all transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Touches: Complimentary honeymoon cake, room decoration, and premium non-alcoholic sparkling drinks upon arrival.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Curated Experiences: Private speedboating at Patratu Dam and custom high-tea at Magnolia Point.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Premium Luxury Holidays Page 7 of 9",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "VIP Service: Comprehensive parking fees, toll taxes, driver night allowances, and fuel surcharges included.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated remote guest relations manager and local ground assistance.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Air & Rail Tickets: Domestic/International airfare or train bookings to and from Ranchi.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry & Activity Tickets: Monument entry charges, camera fees, forest safari seat ticketing, and guide charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry service, telephone charges, alcoholic beverages, and mini- bar usage.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Any sightseeing or extensions not mentioned explicitly in the day-wise itinerary.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance Protection: Travel, medical, or baggage loss insurance coverages.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Emergency Costs: Flight delays, land blockage, or expenses arising from unexpected natural events.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

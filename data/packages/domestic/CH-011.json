@@ -1,0 +1,253 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-011-oberoi-sukhvilas-luxury-wellness-retreat-chandigarh",
+    "serial_code": "CH-011",
+    "traguin_tour_code": "TG-CH-011-OBEROI",
+    "title": "The Oberoi Sukhvilas Luxury Wellness Retreat • Chandigarh",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-011 | TRAGUIN tour code TG-CH-011-OBEROI",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Luxury Wellness",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Sukhvilas • Rock Garden • Sukhna Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Executives & Elites",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Complimentary signature 60-minute Oberoi Spa massage per guest",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunrise yoga and forest mindfulness breathing sessions",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Sector 17 Plaza, Phulkari Handlooms, organic elixirs at resort boutique",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Romantic",
+      "Wellness"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-011-oberoi-sukhvilas-wellness-itinerary",
+    "title": "The Oberoi Sukhvilas Luxury Wellness Retreat • Chandigarh",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Luxury Wellness Retreat)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Oberoi Sukhvilas Luxury Wellness Retreat • Chandigarh",
+    "overview": "Escape into a sanctuary of absolute tranquility, architectural splendor, and bespoke rejuvenation. Perfectly curated by the master travel consultants at TRAGUIN, this signature itinerary invites you to indulge in an ultra-luxury weekend at The Oberoi Sukhvilas Luxury Wellness Resort, nestled against the peaceful backdrop of the Siswan Forest Range near Chandigarh.\n\nTravel Format: Private Ultra-Luxury FIT Escape with Dedicated On-Ground Concierge. Vehicle: Premium Luxury Sedan (Mercedes-Benz / BMW Group) with Professional Chauffeur. Meal Plan: Continental Breakfast & Specially Curated Wellness Dinners at Ananta Mahal. TRAGUIN Curated Touch: Priority check-in, personalized dynamic spa sequencing, and exclusive reservations at the finest city hotspots.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-011 | Oberoi Sukhvilas Luxury Wellness Retreat | TRAGUIN",
+    "seo_description": "Luxury 02 Nights / 03 Days wellness package (CH-011 / TG-CH-011-OBEROI): Oberoi Sukhvilas stay, Rock Garden, Rose Garden, Sukhna Lake private cruise, and signature spa therapy.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "The Oberoi Sukhvilas Luxury Wellness Resort Stay",
+        "sort_order": 1
+      },
+      {
+        "text": "Rock Garden & Rose Garden Chandigarh Sightseeing",
+        "sort_order": 2
+      },
+      {
+        "text": "Sukhna Lake Private Sunset Cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "60-Minute Signature Oberoi Massage Therapy",
+        "sort_order": 4
+      },
+      {
+        "text": "Resort Forest Orientation Trail Walk",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Retreat to The Oberoi Sukhvilas",
+        "description": "Your luxury journey begins with a smooth arrival experience at Chandigarh Airport or Railway Station, where a uniform-clad TRAGUIN representative and a private luxury sedan await you. Leave the city buzz behind as you take a scenic route towards the Siswan Forest Range. Arrive at the magnificent gates of The Oberoi Sukhvilas Luxury Wellness Resort, where a grand traditional welcome sets the tone for your stay. Check into your beautifully appointed Premier Room or Luxury Tent featuring private garden views. In the evening, meet with an in-house wellness physician for a curated Ayurvedic body profiling, followed by an exquisite multi-cuisine wellness dinner at Ananta Mahal.",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Resort Forest Orientation Trail Walk",
+          "EVENING EXPERIENCE: Personalized Spa Consultation & Gourmet Dinner",
+          "OVERNIGHT STAY: The Oberoi Sukhvilas Luxury Wellness Resort",
+          "MEALS INCLUDED: Welcome Wellness Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Architectural Marvels & Serene Sunset Cruises",
+        "description": "Awaken to the soothing sounds of nature and start your day with an energizing yoga session under the forest canopy. After a healthy breakfast, your chauffeur takes you to discover the top tourist places in Chandigarh. Begin your Chandigarh Sightseeing tour at the legendary Nek Chand Rock Garden. Next, take a gentle walk across the Zakir Hussain Rose Garden. In the late afternoon, enjoy an exclusive private boating cruise on the calm waters of Sukhna Lake during a breathtaking sunset view. Return to the resort for an ultra-premium holistic therapy at the Oberoi Spa.",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Rock Garden, Rose Garden, Sukhna Lake Private Cruise",
+          "EXCLUSIVE EXPERIENCE: 60-Minute Signature Oberoi Massage Therapy",
+          "OVERNIGHT STAY: The Oberoi Sukhvilas Luxury Wellness Resort",
+          "MEALS INCLUDED: Luxury Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Inner Peace & Departure with Unforgettable Memories",
+        "description": "Your final day begins with a gentle morning meditation session and a lavish breakfast spread at the resort. Enjoy your remaining hours at leisure—indulge in the hydrotherapy facilities, capture photographs across the stunning water bodies, or buy premium wellness oils from the boutique. Your dedicated chauffeur will handle all luggage transfers smoothly. Bid farewell to this serene paradise as you are transferred back to Chandigarh Airport or Station for your onward journey.",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Capitol Complex Architectural Drive (Optional)",
+          "ASSISTANCE: Airport/Station Chauffeur drop-off & luggage assistance",
+          "OVERNIGHT STAY: Tour Concludes",
+          "MEALS INCLUDED: Fine Dining Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas (Forest Wing)",
+        "location": "Siswan Forest Range",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Premier Room with Garden Views",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas (Luxury Wing)",
+        "location": "Siswan Forest Range",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Royal Forest Tent with Private Deck",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas (Elite Collection)",
+        "location": "Siswan Forest Range",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Villa with Private Temperature-Controlled Pool",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas (Signature Suite)",
+        "location": "Siswan Forest Range",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Kohinoor Presidential Villa",
+        "meal_plan": "All-Inclusive Royal Wellness Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights premium stay at The Oberoi Sukhvilas Luxury Wellness Resort",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet breakfast and specially curated wellness dinners at Ananta Mahal",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Chauffeur-driven premium luxury sedan for all airport transfers and city tours",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary expert wellness doctor consultation and custom spa profiling",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "01 Complimentary signature 60-minute spa massage per guest at Oberoi Spa",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private motorboat cruise ride at Sukhna Lake with priority entry",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 TRAGUIN on-ground executive assistance",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "High-speed Wi-Fi access, luxury wellness welcome amenities, and all resort taxes",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial or private flight tickets / train tickets to Chandigarh",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any additional personal spa treatments or specialized medical therapies",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Custom laundry, telephone bills, and mini-bar consumption charges",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Entrance fees for optional monument photography clips",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Gratuities and tips for resort staff and accompanying drivers",
+        "sort_order": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "destination_slug": "delhi",
+  "package": {
+    "slug": "dl-003-educational-delhi-tour",
+    "serial_code": "DL-003",
+    "traguin_tour_code": "TRG-DEL-003",
+    "title": "Educational Delhi Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DL-003 | TRAGUIN tour code TRG-DEL-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Delhi / India | Category: School Educational Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: New Delhi • Old Delhi • National Science Centre • Akshardham",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Students, Academic Batches & Institution Scholars",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Student Tariff)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium AC Luxury Coach / APAI (All Meals Included)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Imperial Exploration → Science Discovery → Old Delhi Heritage & Akshardham → Crafts Museum & Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private interactive session with leading historical preservationists inside the Red Fort quarter.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routes designed to avoid heavy urban rush hour traffic, prioritizing safety and student focus.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Janpath Market and Dilli Haat for traditional puppets, ethnic bookmarks, regional paintings, and sandalwood souvenirs.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Room discipline required; luxury coach on pre-approved corridors; pre-approve monuments 30 days prior.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Educational",
+      "Family",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "dl-003-educational-delhi-tour-itinerary",
+    "title": "Educational Delhi Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Student Tariff)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Educational Delhi Tour • Unveiling History & Innovation",
+    "overview": "Welcome to an expertly crafted scholastic journey designed and managed by TRAGUIN. This specialized Educational Delhi Tour is engineered to immerse young scholars in the iconic attractions, cultural milestones, and monumental milestones of the national capital. As premium travel consultants, TRAGUIN blends luxury student logistics with high-value learning to create unforgettable memories. From the power corridors of New Delhi to the ancient heritage sites of Old Delhi, this journey promises safe, premium stays, immersive experiences, and deep intellectual inspiration.\n\nTOUR OVERVIEW\nThis custom-designed academic itinerary presents a seamless balance between Delhi sightseeing, experiential discovery, and scientific innovation. Travelling in a high-end, safety-vetted luxury coach with full onboard GPS tracking and dedicated tour managers, the students enjoy peak comfort. Offering an all-inclusive premium meal plan with strict hygiene standards, the route showcases the finest heritage landmarks and modern institutional zones. Every detail incorporates a specialized TRAGUIN curated experience note, encompassing pre-approved student entries, expert historical guides, and 24/7 dedicated security protocol.\n\nWHY BOOK THE BEST DELHI TOUR PACKAGE FOR STUDENTS?\nAn enrichment-led Luxury Delhi Holiday serves as a vital cornerstone for experiential academic growth. When booking a specialized Delhi Family Tour or a premium Delhi Educational Tour, institutions gain unparalleled access to the top tourist places in Delhi. Scholars dive straight into live architectural studies at the spectacular Qutub Minar, observe the governance mechanics at Rashtrapati Bhavan, and explore evolutionary physics inside the National Science Centre. For educational groups looking for cultural depth, Delhi highlights highly sought-after, popular Instagram locations such as the grand India Gate and the sprawling, tech-forward Akshardham Temple complex. From heritage shopping strolls in Janpath to tasting historic culinary methods in traditional hubs, our premium TRAGUIN Delhi Packages ensure handpicked hotels with separate safe blocks for boys and girls, making any season the best time to visit Delhi for a high-value, organized institutional journey.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DL-003 | Educational Delhi Tour Premium Student Package | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days educational Delhi package (DL-003 / TRG-DEL-003): National Science Centre, Qutub Minar, Red Fort, Akshardham, Crafts Museum, and secure 4-tier student accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "India Gate, Rashtrapati Bhavan, National War Memorial & student debate workshop on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Qutub Minar, National Science Centre & Humayun's Tomb on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Red Fort, Old Delhi Heritage Quarter & Akshardham Sahaj Anand Water Show on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "National Crafts Museum, artisan interactions & departure on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private session with historical preservationists at Red Fort",
+        "sort_order": 5
+      },
+      {
+        "text": "Personalized Assistance: Certified first-aid trained coordinators throughout the journey",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Delhi & Imperial Exploration | Chronicles of Nationhood – The Colonial Epicentre",
+        "description": "Your premium educational journey kicks off with a warm, organized reception by the TRAGUIN field staff at New Delhi Airport or Railway Station. Board your private luxury coach and transfer directly to your handpicked hotel for briefing and check-in. In the afternoon, start your premium Delhi experience with a grand drive along Rajpath. Explore the stunning architecture of India Gate, photograph the prestigious Rashtrapati Bhavan, and tour the National War Memorial to learn about the nation's contemporary history.",
+        "activities": [
+          "Sightseeing Included: India Gate, Rashtrapati Bhavan (Drive past), National War Memorial, Sansad Bhavan view.",
+          "Evening Experience: Interactive student debate workshop on modern Indian history led by academic guides.",
+          "Overnight Stay: New Delhi (Premium / Secured Student Wing Hotel).",
+          "Meals Included: Welcome Drink, Mid-day Refreshments & Institutional Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Historic Delhi & Science Discovery | From Medieval Monuments to Revolutionary Science",
+        "description": "Begin the day with an early breakfast, followed by a visit to the UNESCO World Heritage Site—Qutub Minar, a prime example of Indo-Islamic architecture. Next, shift focus to technological exploration at the National Science Centre. Here, students engage in immersive experiences across human biology galleries, nuclear physics exhibits, and live science demonstration labs. Wind up the afternoon with a visit to Humayun's Tomb, the architectural inspiration behind the Taj Mahal.",
+        "activities": [
+          "Sightseeing Included: Qutub Minar Complex, Iron Pillar of Delhi, National Science Centre, Humayun's Tomb.",
+          "Optional Activities: Private planetarium show or 3D innovation lab workshop at the science centre.",
+          "Overnight Stay: New Delhi (Premium / Secured Student Wing Hotel).",
+          "Meals Included: Nutritious Breakfast, Packaged Hot Lunch & Premium Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Heritage of Old Delhi & Akshardham Evening | Ancient Ramparts to Extravagant Multimedia Spectacles",
+        "description": "Dive into the classic side of the city with an immersive tour of the monumental Red Fort, tracing the rise and fall of empires. Walk past the historic Jama Masjid, experiencing the cultural pulse of Old Delhi. In the afternoon, transition to the majestic Akshardham Temple complex. Here, students explore ancient Indian heritage through cultural boat rides, robotics exhibitions, and a spectacular evening multimedia musical fountain show.",
+        "activities": [
+          "Sightseeing Included: Red Fort, Old Delhi Heritage Quarter, Swaminarayan Akshardham Complex & Exhibition Halls.",
+          "Evening Experience: The iconic Sahaj Anand Water Show—a breathtaking display of multi-color lasers and fire tech.",
+          "Overnight Stay: New Delhi (Premium / Secured Student Wing Hotel).",
+          "Meals Included: Premium Breakfast, Buffet Lunch & Grand Farewell Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Crafts Museum & Knowledge Retreat / Departure | Handlooms, Heritage & Sweet Departure Memories",
+        "description": "Following your morning breakfast, explore the National Crafts Museum, styled like a traditional Indian village. Students can interact directly with rural master artisans, learning about sustainable materials, traditional block-printing, and ancient terracotta arts. After a group photo and an academic feedback session, board your luxury coach for your transfer to the station or airport, concluding a journey filled with unforgettable memories tailored by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Group escort and private airport/station luxury drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast & Continental Lunch."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Pride Plaza / Fortune Park / similar",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Pride Plaza / Fortune Park / similar | Standard Triple Sharing | CCTV Monitored Corridor, Guarded Entry",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Triple Sharing",
+        "meal_plan": "APAI (All Meals Included) | CCTV Monitored Corridor, Guarded Entry",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu / Welcomhotel by ITC / similar",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu / Welcomhotel by ITC / similar | Premium Twin/Triple Beds | Dedicated Wing, Electronic Smart Keys",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Twin/Triple Beds",
+        "meal_plan": "APAI (All Meals Included) | Dedicated Wing, Electronic Smart Keys",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand New Delhi / Eros Hotel / similar",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Grand New Delhi / Eros Hotel / similar | Executive Club Twin Room | In-house Medical Assistance Desk",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Club Twin Room",
+        "meal_plan": "APAI (All Meals Included) | In-house Medical Assistance Desk",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Palace / The Leela Palace New Delhi",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Taj Palace / The Leela Palace New Delhi | Grand Luxury Garden Suite | Elite Multi-tier Security Clearances",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Luxury Garden Suite",
+        "meal_plan": "APAI (All Meals Included) | Elite Multi-tier Security Clearances",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Secure, handpicked student-friendly luxury properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury coach for all transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: High-nutrition hygienic meals (APAI: Breakfast, Lunch, Dinner).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Dedicated round-the-clock student welfare manager.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized student travel journals, pens, and identity badges.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Pre-booked entry tickets to Akshardham Exhibitions.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train ticketing fees from the home institution city.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as arcade games, laundry, room service drinks.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Any insurance fees or unexpected medical costs outside basic first-aid.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional excursions or extra site visits not explicitly part of the schedule.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

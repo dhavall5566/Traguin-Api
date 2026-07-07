@@ -1,0 +1,206 @@
+{
+  "destination_slug": "south-korea",
+  "package": {
+    "slug": "kr-001-seoul-highlights-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Seoul Highlights Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 51,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Seoul (5N) classic family expedition",
+        "sort_order": 1
+      },
+      {
+        "text": "Gyeongbokgung Palace & Bukchon Hanok Village",
+        "sort_order": 2
+      },
+      {
+        "text": "N Seoul Tower panoramic views & Myeongdong shopping",
+        "sort_order": 3
+      },
+      {
+        "text": "Full-day Lotte World theme park adventure",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-SEO-FAM-2026 | Serial KR-001",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "kr-001-seoul-highlights-itinerary",
+    "title": "Seoul Highlights Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Seoul Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Gyeongbokgung Palace • N Seoul Tower • Myeongdong • Lotte World",
+    "overview": "Discover the vibrant capital of South Korea with TRAGUIN's curated family expedition. From historic Gyeongbokgung Palace and iconic N Seoul Tower to the high-energy entertainment of Lotte World and the shopping delights of Myeongdong — unforgettable memories in the heart of Seoul.",
+    "is_featured": true,
+    "featured_sort_order": 51,
+    "seo_title": "KR-001 | Seoul Highlights Family Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Seoul family package (KR-001): Gyeongbokgung Palace, N Seoul Tower, Myeongdong, Lotte World, and Bukchon Hanok Village.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Gyeongbokgung Palace & Royal Guard",
+        "sort_order": 1
+      },
+      {
+        "text": "Bukchon Hanok Village",
+        "sort_order": 2
+      },
+      {
+        "text": "N Seoul Tower Cable Car",
+        "sort_order": 3
+      },
+      {
+        "text": "Lotte World Theme Park",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Seoul",
+        "description": "Arrive in Seoul. Private transfer to your handpicked premium hotel. Evening at leisure to experience the city's modern neon charm.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private hotel transfer",
+          "Overnight Stay: Seoul (Luxury City Hotel in Myeongdong)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Historic Palace Tour",
+        "description": "Visit the majestic Gyeongbokgung Palace. Witness the Changing of the Royal Guard and explore Bukchon Hanok Village — a must-see cultural highlight.",
+        "activities": [
+          "Sightseeing Included: Gyeongbokgung Palace, Changing of the Royal Guard, Bukchon Hanok Village",
+          "Overnight Stay: Seoul (Luxury City Hotel in Myeongdong)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Seoul Skyline & Shopping",
+        "description": "Take the cable car to N Seoul Tower for panoramic views. Spend the afternoon exploring the vibrant shopping streets of Myeongdong.",
+        "activities": [
+          "Sightseeing Included: N Seoul Tower cable car, Myeongdong shopping district",
+          "Overnight Stay: Seoul (Luxury City Hotel in Myeongdong)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Lotte World Adventure",
+        "description": "A full day of excitement at Lotte World, one of the world's largest indoor theme parks — a perfect family adventure experience.",
+        "activities": [
+          "Sightseeing Included: Lotte World full-day admission",
+          "Overnight Stay: Seoul (Luxury City Hotel in Myeongdong)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Cultural Exploration & Leisure",
+        "description": "A relaxed day exploring local culture, museums, or visiting traditional markets — enjoying the dynamic metropolis at your own pace.",
+        "activities": [
+          "Sightseeing Included: Leisure day for cultural exploration and traditional markets",
+          "Overnight Stay: Seoul (Luxury City Hotel in Myeongdong)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Departure",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer to the airport, completing your premium Seoul highlights expedition.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Luxury City Hotel in Myeongdong / similar",
+        "location": "Seoul",
+        "nights_label": "05 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights in handpicked premium luxury hotel in Seoul",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Gyeongbokgung Palace, N Seoul Tower, and Lotte World sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and South Korea entry visa processing fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "destination_slug": "kashmir",
+  "package": {
+    "slug": "jk-001-kashmir-paradise-family",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Kashmir Paradise Family — Houseboat, Gulmarg & Pahalgam",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 21,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Heritage cedarwood houseboat nights on Dal Lake with private shikara transfers",
+        "sort_order": 1
+      },
+      {
+        "text": "Gulmarg Gondola ascent to Apharwat Peak — snow meadows and alpine panoramas",
+        "sort_order": 2
+      },
+      {
+        "text": "Pahalgam valley drive — Betaab Valley, Lidder River, and pine-forested meadows",
+        "sort_order": 3
+      },
+      {
+        "text": "Mughal garden circuit — Shalimar Bagh, Nishat Bagh, and Chashme Shahi fountains",
+        "sort_order": 4
+      },
+      {
+        "text": "Pampore saffron fields and floating vegetable market on Dal Lake",
+        "sort_order": 5
+      },
+      {
+        "text": "Private Innova Crysta with TRAGUIN 24/7 family concierge throughout",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "jk-001-kashmir-paradise-family-itinerary",
+    "title": "Kashmir Paradise Family — Houseboat, Gulmarg & Pahalgam",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Paradise Found — A Family Journey Through Kashmir",
+    "overview": "Discover Kashmir's legendary beauty on TRAGUIN's definitive family escape — from sunrise shikara glides across mirror-still Dal Lake and nights aboard hand-carved cedar houseboats to Gulmarg's iconic Gondola and the emerald valleys of Pahalgam. This premium curated journey weaves together Mughal garden heritage, saffron meadows at Pampore, authentic Wazwan feasts, and handpicked resorts with a dedicated private chauffeur for seamless family comfort.",
+    "is_featured": true,
+    "featured_sort_order": 21,
+    "seo_title": "JK-001 | Kashmir Paradise Family | TRAGUIN Premium Kashmir Tour",
+    "seo_description": "Luxury 05 Nights / 06 Days Kashmir family package (JK-001) covering Dal Lake houseboat, Gulmarg Gondola, Pahalgam Betaab Valley, and Mughal gardens with premium stays and private transfers. Ideal for families and nature lovers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Dal Lake Houseboat & Shikara",
+        "sort_order": 1
+      },
+      {
+        "text": "Gulmarg Gondola & Snow Meadows",
+        "sort_order": 2
+      },
+      {
+        "text": "Pahalgam Betaab & Lidder Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Mughal Gardens Heritage Circuit",
+        "sort_order": 4
+      },
+      {
+        "text": "Pampore Saffron & Floating Market",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar — Dal Lake Houseboat",
+        "description": "Your Kashmir family adventure begins with a warm TRAGUIN welcome at Srinagar Airport. Board your private luxury vehicle and glide by shikara to your hand-carved heritage houseboat moored on Dal Lake. Spend a magical evening sipping kahwa on the cedar deck as the Zabarwan mountains turn gold at sunset.",
+        "activities": [
+          "Sightseeing Included: Scenic airport transfer, Dal Lake first glimpse, Char Chinar island cruise (optional)",
+          "Evening Experience: Traditional Wazwan tasting dinner aboard your private houseboat",
+          "Overnight Stay: Srinagar (Heritage Deluxe / Premium Houseboat on Dal Lake)",
+          "Meals Included: Welcome kahwa & authentic Kashmiri dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Srinagar Mughal Gardens & Old City",
+        "description": "After a leisurely breakfast, explore Kashmir's living heritage — the terraced fountains of Shalimar Bagh built by Emperor Jahangir, Nishat Bagh's twelve terraces cascading toward Dal Lake, and the royal spring pavilions of Chashme Shahi. Ascend Shankaracharya Temple hill for a sweeping valley panorama before browsing Pashmina ateliers in the old city.",
+        "activities": [
+          "Sightseeing Included: Shalimar Bagh, Nishat Bagh, Chashme Shahi, Shankaracharya Temple, Hazratbal Shrine view",
+          "Optional Activities: Heritage walk through Khanqah-e-Moula and old Srinagar spice lanes",
+          "Overnight Stay: Srinagar (Heritage Houseboat / Premium Lake-View Hotel)",
+          "Meals Included: Premium breakfast & multi-cuisine dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Srinagar to Gulmarg — Gondola & Alpine Meadows",
+        "description": "Drive through apple orchards and pine forests to Gulmarg — the Meadow of Flowers at 8,694 ft. Ride Asia's highest cable car in two phases to Kongdoori and Apharwat Peak for breathtaking views of the Pir Panjal and Karakoram ranges. Families can enjoy snow activities in winter or wildflower meadows in summer.",
+        "activities": [
+          "Sightseeing Included: Gulmarg Golf Course view, Gondola Phase I & II, Apharwat Peak snow ridge panoramas",
+          "Optional Activities: Skiing lessons, snow scooter rides, or pony rides across alpine meadows",
+          "Overnight Stay: Gulmarg (Premium / Luxury Mountain Resort)",
+          "Meals Included: Breakfast & hearty mountain dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Gulmarg to Pahalgam — Betaab Valley",
+        "description": "Descend through the Kashmir Valley toward Pahalgam, the Valley of Shepherds. En route, marvel at the crystal Lidder River cutting through pine forests. Explore the cinematic Betaab Valley meadows and optional Aru Valley with its alpine village charm and trout streams.",
+        "activities": [
+          "Sightseeing Included: Awantipora temple ruins en route, Betaab Valley meadows, Lidder River viewpoints, Aru Valley (optional)",
+          "Evening Experience: Riverside family bonfire with Kashmiri folk music at your resort",
+          "Overnight Stay: Pahalgam (Premium Riverside Valley Resort)",
+          "Meals Included: Breakfast & riverside barbecue dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Pahalgam to Srinagar — Saffron Fields & Shikara",
+        "description": "Return to Srinagar via the saffron capital Pampore, where purple crocus fields bloom in autumn. Check back into your houseboat or lake-view hotel for a final sunset shikara cruise past floating gardens and the vibrant early-morning vegetable market.",
+        "activities": [
+          "Sightseeing Included: Pampore saffron fields, floating vegetable market shikara ride, Pari Mahal terrace gardens",
+          "Evening Experience: Farewell family dinner with live santoor performance on Dal Lake",
+          "Overnight Stay: Srinagar (Heritage Houseboat / Luxury Lake-View Hotel)",
+          "Meals Included: Breakfast & premium farewell Wazwan dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Srinagar Departure",
+        "description": "Savor a final lakeside breakfast as mist rises off Dal Lake. Your private vehicle transfers you to Srinagar Airport with cherished family memories of Kashmir's paradise curated by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door airport drop-off",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "New Alexandra / Similar Heritage Houseboat",
+        "location": "Srinagar Dal Lake (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe cedarwood houseboat with lake views.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Houseboat Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Peacock Houseboats / Similar",
+        "location": "Srinagar Dal Lake (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium hand-carved houseboat with shikara transfers.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Houseboat Suite",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Grand Palace / Similar",
+        "location": "Srinagar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury heritage palace hotel overlooking Dal Lake.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Palace Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Dal View / Similar",
+        "location": "Srinagar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury lake-view suite with butler service.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Lake View Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Hilltop / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe mountain resort in Gulmarg.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Pine Spring / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium resort with meadow and peak views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Khyber Himalayan Resort & Spa / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury alpine resort at the foot of Apharwat.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Khyber Premium Cottage / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra-luxury cottage with spa and peak panoramas.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Alpine Cottage",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Heevan / Similar",
+        "location": "Pahalgam (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe riverside resort on the Lidder.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Pine N Peak / Similar",
+        "location": "Pahalgam (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium valley resort with pine forest views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Valley View Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel Pine N Peak / Similar",
+        "location": "Pahalgam (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury riverside resort with spa facilities.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Pahalgam Hotel / Similar",
+        "location": "Pahalgam (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra-luxury suite with private riverside access.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Riverside Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium accommodation at handpicked Kashmir resorts, heritage houseboats, and valley properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and authentic Kashmiri multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers, valleys, and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Personalized welcome kit with kahwa, dry fruits, mineral water, and shikara transfers where applicable",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "05 nights premium accommodation across Srinagar houseboat, Gulmarg, and Pahalgam",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "One complimentary sunset shikara ride on Dal Lake for the family",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Srinagar or Delhi gateway",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Gondola ride tickets, pony rides, and adventure activity fees beyond included tier",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and optional guide gratuities",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room heaters, and tipping",
+        "sort_order": 12
+      }
+    ]
+  }
+}

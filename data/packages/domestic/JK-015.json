@@ -1,0 +1,279 @@
+{
+  "destination_slug": "kashmir",
+  "package": {
+    "slug": "jk-015-sacred-amarnath-yatra-via-baltal",
+    "serial_code": "JK-015",
+    "traguin_tour_code": "TRG-JK-015",
+    "title": "Sacred Amarnath Yatra via Baltal",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JK-015 | TRAGUIN tour code TRG-JK-015",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Jammu & Kashmir / India | Category: Pilgrimage / Luxury Yatra",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Srinagar • Sonmarg • Baltal • Amarnath Holy Cave",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Devotees, Families & Spiritual Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: July to August (Yatra Shravan Month)",
+        "sort_order": 5
+      },
+      {
+        "text": "Travel Month: July – August (Official Shrine Board Dates)",
+        "sort_order": 6
+      },
+      {
+        "text": "Group / FIT: Private Luxury FIT Pilgrimage Customized Escape",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated AC Luxury MUV (Innova Crysta) throughout the entire valley track",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Nutritious Breakfasts & Dinners Included Daily)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route: Srinagar Arrival → Sonmarg Alpine Valley → Baltal Base → Amarnath Holy Cave Darshan → Srinagar Return",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Complete administrative permit facilitation support, priority helicopter ticket coordination (subject to shrine guidelines), pre-arranged premium base camp or hotel stays, and continuous 24/7 dedicated local field assistance.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Pure Pampore saffron filaments, authentic walnut-wood prayer beads, and pure local organic honey.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: All Amarnath Yatris must secure a Compulsory Health Certificate (CHC) from authorized state doctors prior to registration. Please pack adequate thermal clothing, raincoats, waterproof trekking boots, and essential personal medicines. Helicopter travel parameters remain highly dependent on local weather conditions for absolute security.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Spiritual",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "jk-015-sacred-amarnath-yatra-via-baltal-itinerary",
+    "title": "Sacred Amarnath Yatra via Baltal",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium Kashmir Experience — Sacred Amarnath Yatra via Baltal",
+    "overview": "Embark on the ultimate spiritual pilgrimage to the abode of Lord Shiva. TRAGUIN presents a highly secure, seamless, and meticulously structured premium Amarnath Yatra itinerary via the Baltal route. Witness breathtaking landscapes, soaring Himalayan peaks, and serene high-altitude tracks under the utmost care. This Luxury Kashmir Holiday combines your divine aspiration with premium stays, handpicked hotels, and exclusive experiences, leaving you with unforgettable memories.\n\nPlanning the highly revered Amarnath Yatra via Baltal requires precision planning, seamless logistics, and comfortable stays. When selecting the Best Kashmir Tour Package with a spiritual core, or aligning it as a Kashmir Family Tour, devotees look for short pathways and minimal physical strain. The Baltal trail offers the fastest route to the holy ice lingam, framed by stunningly steep valleys and cascading glacial rivers.\n\nThe Best Time to Visit Kashmir for this pilgrimage is strictly during the summer months of July and August. Our comprehensive TRAGUIN Kashmir Packages ensure a highly stable and Premium Kashmir Experience despite the rugged mountain conditions. From organizing transfers to your premium accommodation to facilitating your Kashmir Sightseeing after the darshan, we manage every moving part with complete professional care.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JK-015 | Sacred Amarnath Yatra via Baltal | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Amarnath Yatra package (JK-015 / TRG-JK-015): Sonmarg, Baltal, Amarnath Holy Cave darshan, Dal Lake Shikara, Mughal Gardens, and 3-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Amarnath Holy Cave darshan via Baltal helicopter and Panjtarni track",
+        "sort_order": 1
+      },
+      {
+        "text": "Sonmarg alpine acclimatization and Dal Lake Shikara romance",
+        "sort_order": 2
+      },
+      {
+        "text": "Srinagar Mughal Heritage trail — Nishat, Shalimar & Shankaracharya Temple",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private dedicated high-altitude helper support available on request",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by Experts: Carefully managed mountain travel pacing ensuring excellent acclimatization intervals",
+        "sort_order": 5
+      },
+      {
+        "text": "Personalized Assistance: Fast-track physical luggage handling assistance across transit base stations",
+        "sort_order": 6
+      },
+      {
+        "text": "Instagram Spots: Sunset reflections over Dal Lake, the raw glacial valley cuts of Baltal, and the towering mountain walls of Panjtarni",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar & Transit to Sonmarg",
+        "description": "Your sacred spiritual passage commences as you touch down at Srinagar Airport. A personal TRAGUIN executive welcomes you warmly and introduces you to your premium chauffeur. Board your luxury vehicle and begin a smooth, highly scenic drive towards Sonmarg, the 'Meadow of Gold'. Trace the winding paths of the sparkling Sindh River, watching the dramatic valley transform into alpine conifer forests. Check into your premium hotel seamlessly and spend the evening resting to prepare for the sacred journey ahead.",
+        "activities": [
+          "Sightseeing Included: En-route photography halts over the expansive Sindh valley views.",
+          "Evening Experience: A vital acclimatization briefing session with high-tea presented by our operational lead tracker.",
+          "Overnight Stay: Handpicked Premium Luxury Resort in Sonmarg",
+          "Meals Included: Welcome High-Tea & Custom Nourishing Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sonmarg to Baltal Base — Sacred Ascent to Holy Cave",
+        "description": "Wake up before dawn to a crisp mountain breeze. Proceed to the Baltal Helipad base camp. Board your pre-arranged private chartered helicopter ride flying past breathtaking landscapes and sharp glaciated valleys directly towards Panjtarni. Upon landing at Panjtarni, embark on a scenic track towards the Amarnath Holy Cave via foot, pony, or palki. Stand in deep spiritual awe inside the massive cave shrine before the natural Ice Lingam of Lord Shiva. Soak in the powerful spiritual energy and return safely to Panjtarni or Baltal base camp.",
+        "activities": [
+          "Sightseeing Included: Holy Amarnath Cave Shrine Darshan, high-altitude glacier views, and the sacred Sangam confluence.",
+          "Evening Experience: A cozy relaxation session at the resort following your successful sacred darshan.",
+          "Overnight Stay: Sonmarg Premium Resort (or premium executive alpine Swiss tents at Baltal Base)",
+          "Meals Included: Energetic Breakfast & Piping Hot Restorative Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Re-entering Srinagar & Shikara Romance",
+        "description": "Enjoy a relaxed morning breakfast overlooking the mist-laden peaks of Sonmarg. Board your luxury vehicle for a smooth drive returning to Srinagar. Check into your premium property or an authentic boutique luxury houseboat. In the afternoon, unwind completely during an emotional storytelling experience aboard a private Shikara ride across the calm, shimmering waters of Dal Lake, passing old wooden architectures and vibrant floating markets.",
+        "activities": [
+          "Sightseeing Included: Extended Dal Lake cruising, floating lotus fields, and Char Chinar island photography spots.",
+          "Evening Experience: A traditional warm Kashmiri Kahwa tea serving with crisp local treats at sunset.",
+          "Overnight Stay: Premium Luxury Houseboat / Handpicked Luxury Hotel in Srinagar",
+          "Meals Included: Full Breakfast & Multi-Cuisine Gourmet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Srinagar — Imperial Mughal Heritage Trail",
+        "description": "Dedicate a glorious day to uncovering the finest historical landmarks of Srinagar. Explore the terraced royal lawns of the Mughal Gardens, built by ancient emperors against backgrounds of steep craggy mountains. Stroll along the water channels of Shalimar Bagh and Nishat Bagh, and ascend to higher viewpoints to look over the expansive valley plains.",
+        "activities": [
+          "Sightseeing Included: Nishat Bagh (Garden of Pleasure), Shalimar Bagh (Abode of Love), and the historical Shankaracharya Temple hilltop shrine.",
+          "Evening Experience: A special curated premium farewell dinner celebrating authentic local Kashmiri delicacies.",
+          "Overnight Stay: Handpicked Luxury Hotel in Srinagar",
+          "Meals Included: Artisan Breakfast & Farewell Festive Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Farewell Paradise — Departure Journey",
+        "description": "Savor your final morning breakfast looking out over the majestic mountain lines of Kashmir. Take a slow walk through the local emporiums to pick up fine souvenirs before your private premium vehicle transfers you seamlessly back to Srinagar Airport for your outbound flight, concluding your divine pilgrimage trip with absolute convenience.",
+        "activities": [
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Sonmarg | Radisson Collection Srinagar / The Grand Mamta",
+        "location": "Sonmarg / Srinagar",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – ULTRA LUXURY: Radisson Hotel Sonmarg (2N) • Radisson Collection Srinagar / The Grand Mamta (2N)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Handpicked Ultra Luxury Rooms",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Rah Villas Sonmarg | Fortune Resort Heevan Srinagar",
+        "location": "Sonmarg / Srinagar",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – LUXURY: Hotel Rah Villas Sonmarg (2N) • Fortune Resort Heevan Srinagar (2N)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Handpicked Luxury Rooms",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Village Walk Sonmarg | Hotel Lemon Tree Srinagar",
+        "location": "Sonmarg / Srinagar",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – PREMIUM: Village Walk Sonmarg (2N) • Hotel Lemon Tree Srinagar (2N)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Handpicked Premium Rooms",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 Nights premium accommodation in handpicked top-tier hotels and luxury houseboats.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Modified American Plan: Daily high-nutrition breakfasts and custom dinners included.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Complete private valley transfers and sightseeing loops in a dedicated luxury AC Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Administrative permit processing assistance and mandatory shrine board registration clearances.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "01 Complimentary extended private Shikara cruise setup on Dal Lake.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated professional English/Hindi speaking driver-cum-guide for the entire route.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 Continuous TRAGUIN on-ground back-end remote support and safety monitoring.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Main flight sector or railway ticketing costs to Srinagar.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Actual helicopter ticketing fares (coordinated transparently based on Shrine Board direct windows).",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Local mountain pony, palki, or porter charges on the mountain tracks.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Compulsory medical health certificate processing fees.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

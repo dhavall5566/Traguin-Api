@@ -1,0 +1,283 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-013-jodhpur-jaisalmer-desert-classic",
+    "serial_code": "RJ-013",
+    "traguin_tour_code": "TRAGUIN-RJ-013",
+    "title": "Jodhpur Jaisalmer Desert Classic",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code RJ-013 | TRAGUIN tour code TRAGUIN-RJ-013",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Rajasthan, India | Category: Family Vacation / Royal Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jodhpur • Jaisalmer • Thar Desert",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Elite Groups",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Innova Crysta / Luxury Coach",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Buffet Breakfast & Elite Dinners Included)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Jodhpur Arrival → Blue City Sightseeing → Jaisalmer Golden City → Thar Desert Dune Camp → Jodhpur Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Includes a private Royal Mehrangarh Fort curated guide, an exclusive private sunset camel safari over Sam Sand Dunes, authentic Rajasthani folk dance performances, and handpicked boutique heritage hotels.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Experiences: Jodhpur Markets: Purchase authentic Jodhpuri Jutis (leather footwear), hand-dyed Bandhani textiles, and exquisite silver artifacts. Jaisalmer Souvenirs: Bring home beautiful local yellow sandstone crafts, camel leather bags, and intricately woven rugs.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Standard check-in time is 14:00 hrs and check-out is 11:00 hrs. Early access depends on premium hotel availability. Desert Weather: Desert temperatures drop pleasantly during winter evenings. Carrying premium light layers and shawls is highly advised. Advance Booking: Luxury desert camps and palace properties experience high demand; advance reservations are highly recommended.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Royal",
+      "Desert"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-013-jodhpur-jaisalmer-desert-classic-itinerary",
+    "title": "Jodhpur Jaisalmer Desert Classic",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Jodhpur • Jaisalmer Desert Classic — 05 Nights / 06 Days",
+    "overview": "Step into a golden era of timeless royalty, grand fortresses, and shifting sand dunes. Crafted into perfection by travel artisans at TRAGUIN, this ultra-luxury Rajasthan Honeymoon Package and family getaway connects you with the blue-hued alleys of Jodhpur and the majestic desert horizons of Jaisalmer. Expect bespoke hospitality, premium stays, and an emotionally moving journey through India's regal past.\n\nTOUR OVERVIEW\nVehicle Allocated: Private Air-Conditioned Luxury Innova Crysta / Luxury Coach\nMeal Plan: Modified American Plan (Buffet Breakfast & Elite Dinners Included)\nRoute Map: Jodhpur Arrival → Blue City Sightseeing → Jaisalmer Golden City → Thar Desert Dune Camp → Jodhpur Departure\n\nTRAGUIN Curated Experience Note: Includes a private Royal Mehrangarh Fort curated guide, an exclusive private sunset camel safari over Sam Sand Dunes, authentic Rajasthani folk dance performances, and handpicked boutique heritage hotels.\n\nPREMIUM RAJASTHAN EXPERIENCE & HIGHLIGHTS\nFor travelers seeking the ultimate Rajasthan Family Tour or an unforgettable Luxury Rajasthan Holiday, this dynamic circuit unrolls premium travel encounters across the state's most sought-after landmarks. From capturing iconic Instagram-worthy vistas at the glowing golden fort of Jaisalmer to experiencing immersive heritage walks through Jodhpur's ancient quarters, our curated itinerary blends flawless hospitality with high-end cultural storytelling.\nDiscover why the cooler months represent the Best Time to Visit Rajasthan. Our TRAGUIN Rajasthan Packages feature handpicked luxury desert camps, exquisite candlelight dinners under stargazing desert skies, and access to elite local markets overflowing with traditional souvenirs and vibrant textiles.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-013 | Jodhpur Jaisalmer Desert Classic | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Rajasthan package (RJ-013 / TRAGUIN-RJ-013): Mehrangarh Fort, Jaisalmer Golden Fort, Sam Sand Dunes camel safari, Patwon-ki-Haveli, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace Museum, Gadisar Lake",
+        "sort_order": 1
+      },
+      {
+        "text": "Jaisalmer Golden Fort, Patwon-ki-Haveli, Sam Sand Dunes sunset camel safari",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with private check-ins and seamless desert coordination",
+        "sort_order": 3
+      },
+      {
+        "text": "Private sunset camel ride safari and Rajasthani musical evening at the dunes",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium handpicked luxury accommodations across Jodhpur, Jaisalmer, and Thar Desert",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Jodhpur Arrival",
+        "description": "Your premium Rajasthan holiday begins as you land in the historical city of Jodhpur. A dedicated chauffeur-driven luxury vehicle arranged by TRAGUIN will greet you for a comfortable transfer to your premier handpicked heritage hotel. Following a smooth check-in, spend your afternoon relaxing. In the evening, visit the vibrant old markets surrounding the iconic Clock Tower, exploring authentic local handicrafts and multi-hued textiles.",
+        "activities": [
+          "Sightseeing Included: Ghanta Ghar (Clock Tower), Sadar Market Heritage Walk.",
+          "Food Suggestions: Taste Jodhpur's legendary Makhaniya Lassi and hot Mawa Kachori at heritage sweet shops.",
+          "Overnight Stay: Handpicked Luxury Heritage Hotel, Jodhpur.",
+          "Meals Included: Welcome Amenities & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Jodhpur Sightseeing",
+        "description": "Savor a luxurious buffet breakfast before setting off for a full-day Jodhpur Sightseeing tour. Ascend to the breathtaking Mehrangarh Fort, standing majestically over the city skyline. Walk through the exquisite courts of Moti Mahal and Phool Mahal accompanied by an expert historian. Later, explore the serene white-marble cenotaph of Jaswant Thada, often referred to as the Taj Mahal of Marwar, followed by the grand royal museum at Umaid Bhawan Palace.",
+        "activities": [
+          "Sightseeing Included: Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace Museum.",
+          "Photography Points: Capture the stunning panoramas of blue houses from the ramparts of Mehrangarh Fort.",
+          "Overnight Stay: Handpicked Luxury Heritage Hotel, Jodhpur.",
+          "Meals Included: Full Breakfast & Royal Marwari Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Jodhpur to Jaisalmer",
+        "description": "Embark on a scenic luxury drive across the scenic landscape of the Thar desert heading toward Jaisalmer. Watch the terrain transform into shimmering gold as you approach the city. Upon arrival, check in seamlessly to your premium luxury resort. As the evening sets in, enjoy a peaceful visit to Gadisar Lake, viewing its beautiful floating shrines casting golden reflections on the water.",
+        "activities": [
+          "Sightseeing Included: Gadisar Lake Evening Walk, Scenic Desert Highway.",
+          "Evening Experience: Witness a traditional puppet show at the desert cultural center.",
+          "Overnight Stay: Premium Luxury Resort, Jaisalmer.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jaisalmer Fort & Thar Desert Dune Camp",
+        "description": "Spend your morning exploring the living marvel of Jaisalmer Fort (Sonal Quila), an extraordinary structure where thousands still reside inside the walls. Visit the legendary hand-carved stone architecture of Patwon-ki-Haveli and Nathmal-ki-Haveli. Post-lunch, transfer to your ultra-luxury tented camp at the Sam Sand Dunes. Climb aboard camels for an exclusive private sunset safari, followed by a vibrant evening of live folk music, Kalbeliya dances, and a lavish desert dinner beneath a sky full of stars.",
+        "activities": [
+          "Sightseeing Included: Jaisalmer Golden Fort, Patwon-ki-Haveli, Sam Sand Dunes.",
+          "Optional Activities: Thrilling 4x4 Jeep Sand Dune Bashing over high crests.",
+          "Overnight Stay: Ultra-Luxury Tented Desert Camp, Thar Desert.",
+          "Meals Included: Breakfast & Traditional Rajasthani Feast Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Thar Desert to Jodhpur Return",
+        "description": "Awake to a crisp, majestic desert sunrise and enjoy a warm gourmet breakfast at the camp. Board your luxury private transport to comfortably travel back to Jodhpur. Upon arrival, settle back into your premium stay for a relaxed afternoon. Your final evening is perfectly suited for dynamic local shopping or scheduling a premium wellness spa treatment at the hotel.",
+        "activities": [
+          "Sightseeing Included: Mandore Gardens (En Route), Leisure Evening.",
+          "Overnight Stay: Premium Luxury Hotel, Jodhpur.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Jodhpur Departure",
+        "description": "Enjoy a relaxed morning breakfast looking over the hotel's palatial grounds. Your professional TRAGUIN chauffeur will arrive on time to transfer you smoothly to Jodhpur Airport or the Railway Station for your return flight home. Your elite royal holiday concludes, leaving you with unforgettable memories.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport / Station Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Indana Palace / Fort Rajwada / Desert Springs Resort Tents",
+        "location": "Jodhpur / Jaisalmer / Thar Desert",
+        "nights_label": "05 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Heritage Room / Resort Room / Tents",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC Hotels / Jaisalmer Marriott Resort / Le Seringapatam Luxury Camp",
+        "location": "Jodhpur / Jaisalmer / Thar Desert",
+        "nights_label": "05 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room / Resort Room / Luxury Camp",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Hari Mahal / Suryagarh Jaisalmer / The Serai (SUJÁN Luxury Camp)",
+        "location": "Jodhpur / Jaisalmer / Thar Desert",
+        "nights_label": "05 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Heritage Suite / Luxury Tent",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Umaid Bhawan Palace (Taj) / Suryagarh Luxury Suite / SUJÁN Royal Oasis Tents",
+        "location": "Jodhpur / Jaisalmer / Thar Desert",
+        "nights_label": "05 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Palace Room / Luxury Suite / Royal Oasis Tent",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 05 Nights stay at handpicked elite luxury hotels and desert camps.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine buffet breakfasts and premium dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven luxury AC vehicle for transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest concierge assistance and expert monuments guide fees.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private sunset camel ride safari and Rajasthani musical evening at the dunes.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Royal traditional welcoming garland greeting and premium hydration kit.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate luxury train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any camera fees, monument entry fees, or dynamic activity prices.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as premium beverages, laundry, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "4x4 Jeep dune bashing or extra safari rides not listed.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

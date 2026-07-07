@@ -1,0 +1,289 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-010-honeymoon",
+    "serial_code": "DN-010",
+    "traguin_tour_code": "TG-DN-010-HON",
+    "title": "Honeymoon",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-010 | TRAGUIN tour code TG-DN-010-HON",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Honeymoon Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Khanvel • Dudhni Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples & Honeymooners",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Honeymoon FIT Tour with Dedicated On-Call Concierge",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium Luxury Sedan (Chauffeur driven with privacy partitions)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Gourmet Breakfast & Intimate Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi / Surat Arrival → Silvassa Riverside → Khanvel → Dudhni Lake → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private canopy candlelight dining setup with a customized cake and acoustic music recommendations",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli Paintings, Handcrafted Bamboo Items, Local Toddy & Local Delicacies",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 13:00 hrs; book premium luxury cottages 30-45 days prior",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Honeymoon",
+      "Romance",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-010-honeymoon-itinerary",
+    "title": "Honeymoon",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Romantic Riverside Cottage Stay • Silvassa • Dudhni Lake",
+    "overview": "Celebrate your union in a hidden sanctuary of love and natural bliss. Crafted exclusively by TRAGUIN travel architects, this romantic escape introduces newlyweds to the serene landscape of Dadra and Nagar Haveli. Unwind in luxury riverside cottages engulfed by lush green canopies, experience smooth boat cruises, and immerse yourselves in private candlelit dinners beside shimmering waters.\n\nThis custom-tailored Dadra and Nagar Haveli Honeymoon Package is built for couples looking for luxury, privacy, and serene relaxation.\n\nTRAGUIN Curated Touch: Complimentary cake, beautiful flower bed decoration, private riverside canopy seating, and handpicked romantic luxury properties.\n\nWhy Visit Dadra and Nagar Haveli: Beautiful, uncrowded forests, winding rivers, romantic weather, and luxurious wellness resorts.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-010 | Honeymoon | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Dadra and Nagar Haveli package (DN-010 / TG-DN-010-HON): Vanganga Lake, Tribal Museum, Dudhni boat cruise, Khanvel drive, Satmaliya Deer Park",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vanganga Lake Garden Stroll & Private Riverside Candlelight Dinner",
+        "sort_order": 1
+      },
+      {
+        "text": "Tribal Museum, Nakshatra Garden & Portuguese Church",
+        "sort_order": 2
+      },
+      {
+        "text": "Dudhni Lake Waterfront Excursion with optional speedboat",
+        "sort_order": 3
+      },
+      {
+        "text": "Khanvel Landscape Drive & Satmaliya Viewpoint",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private canopy candlelight dining with customized cake",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamlessly structured pacing for utmost privacy",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa & Romantic Riverside Check-In",
+        "description": "Your enchanting journey begins as you arrive at Vapi Railway Station or Surat Airport, where a private luxury vehicle arranged by TRAGUIN awaits you. Take a smooth, comfortable drive to Silvassa, the capital of Dadra and Nagar Haveli. Check in to your ultra-luxury riverside cottage where a beautiful welcome amenity including sparkling juice and a complimentary cake awaits. Spend a relaxed afternoon inside your premium cottage overlooking the flowing waters of the Daman Ganga River. In the evening, visit the Vanganga Lake Garden, a stunning Japanese-style landscape adorned with wooden bridges and pristine water bodies—the perfect spot for your first honeymoon photography session. Return to the resort for an exclusive private candlelight dinner curated by TRAGUIN experts.",
+        "activities": [
+          "Sightseeing Included: Vanganga Lake Garden Stroll",
+          "Evening Experience: Private Riverside Candlelight Dinner",
+          "Overnight Stay: Silvassa (Premium Riverside Cottage)",
+          "Meals Included: Welcome Honeymoon Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Silvassa Colonial & Heritage Discovery",
+        "description": "Savor a delightful breakfast together before exploring the rich cultural heritage of Silvassa. We visit the famous Tribal Cultural Museum, which beautifully showcases the traditional lifestyle, masks, musical instruments, and authentic Warli paintings of the native tribes. Following this, take a lazy stroll through the Nakshatra Garden, a beautifully designed medicinal and astrological garden featuring pristine walkways and calming ponds. After a gourmet lunch at a local boutique cafe, visit the historic Church of Our Lady of Piety, standing as an elegant reminder of Portuguese architecture. The rest of the afternoon is yours to relax and enjoy the premium stays and swimming pools of your resort.",
+        "activities": [
+          "Sightseeing Included: Tribal Museum, Nakshatra Garden, Portuguese Church",
+          "Photography Points: Vintage church exterior, Warli mural walls",
+          "Overnight Stay: Silvassa",
+          "Meals Included: Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Dudhni Lake Boat Cruise & Sunset Magic",
+        "description": "Today, after a late morning breakfast, embark on a scenic excursion to Dudhni Lake, often described as the 'Kashmir of the West'. Winding through breathtaking landscapes of green hills and tribal hamlets, you will reach the massive waterfront formed by the Madhuban Dam. TRAGUIN arranges an exclusive private speed boat ride across the lake, allowing you to experience the scenic beauty in complete privacy. For adventure-loving couples, optional jet-skiing and kayaking are available. Sit together by the waterfront as the sun dips below the horizon, painting the sky in deep shades of gold and amber. Return to your resort for a premium open-air dinner.",
+        "activities": [
+          "Sightseeing Included: Dudhni Lake Waterfront Excursion",
+          "Optional Activities: Private Speedboat ride, Water sports",
+          "Overnight Stay: Silvassa / Khanvel Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Khanvel Forest Trails & Farewell Departure",
+        "description": "Indulge in a final floating breakfast in your private pool (optional luxury add-on) or enjoy the widespread resort buffet. Check out and drive through the pristine forest landscapes of Khanvel. Visit the Satmaliya Deer Park for a short, peaceful glimpse of wildlife including blackbucks and chitals roaming freely in their natural habitat. Capture your last few honeymoon photographs amidst the towering trees. Afterward, your professional TRAGUIN chauffeur will transfer you back smoothly to Vapi Railway Station or Surat Airport for your journey home, concluding your premium Dadra and Nagar Haveli Experience.",
+        "activities": [
+          "Sightseeing Included: Khanvel Landscape Drive, Satmaliya Viewpoint",
+          "Assistance: Complete luggage support up to your transit point",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts Silvassa or similar",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Garden View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort, Silvassa / Khanvel",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Pool View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Pluz Resort / Khanvel Forest Hideaway",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Riverside Villa / Cottage",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Signature Partner Luxury Villas",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Pool Villa with Private Deck",
+        "meal_plan": "All Inclusive Premium",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights luxury stay in premium handpicked waterfront cottages",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish buffet breakfasts and curated romantic dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private luxury air-conditioned sedan throughout the trip",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Professional chauffeur with excellent local route knowledge",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary honeymoon cake and special room decoration elements",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "1 Premium Private Candlelight Dinner setup by the riverbank",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All toll fees, parking, driver allowances, and regional taxes",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN on-ground guest assistance",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight or train ticket expenses to Vapi / Surat",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry tickets to gardens and museums",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports charges or private speed boating at Dudhni Lake",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, alcoholic beverages, and tipping",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Anything not explicitly mentioned in the inclusions list",
+        "sort_order": 13
+      }
+    ]
+  }
+}

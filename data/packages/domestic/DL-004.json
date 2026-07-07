@@ -1,0 +1,280 @@
+{
+  "destination_slug": "delhi",
+  "package": {
+    "slug": "dl-004-delhi-agra-gateway",
+    "serial_code": "DL-004",
+    "traguin_tour_code": "TRG-DEL-AGR-004",
+    "title": "Delhi Agra Gateway",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DL-004 | TRAGUIN tour code TRG-DEL-AGR-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Delhi & Uttar Pradesh / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: New Delhi • Old Delhi • Yamuna Expressway • Agra",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Heritage Enthusiasts & Luxury Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Winter Capital Season)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Bespoke Family Rate)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI (Lavish Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Delhi Arrival → Full Day Delhi Sightseeing → Yamuna Expressway to Agra → Taj Mahal Sunrise & Agra Fort → Return to Delhi",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunrise timing synchronization for optimal Taj Mahal lighting and crowd avoidance.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Chauffeur routing structured to utilize peak highway conditions, giving you more time for leisure.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Khan Market textiles in Delhi; Agra marble inlay (Pietra Dura), leather goods, and Zardozi embroidery.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Valid photo ID required; Taj Mahal closed Fridays; book 30–45 days ahead for monument-view rooms.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Romantic"
+    ]
+  },
+  "itinerary": {
+    "slug": "dl-004-delhi-agra-gateway-itinerary",
+    "title": "Delhi Agra Gateway",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Bespoke Family Rate)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Delhi Agra Gateway • Empires, Elegance & Eternal Romance",
+    "overview": "Welcome to an unforgettable voyage through time, art, and imperial legacy curated exclusively by TRAGUIN. Embark on the finest Delhi Family Tour and Agra getaway, engineered to introduce your loved ones to the breathtaking landscapes, sprawling fortresses, and monumental wonders of India's golden heritage core. As your elite travel consultants, TRAGUIN transforms this iconic route into a seamless luxury holiday featuring premium stays, handpicked hotels, and deeply moving historical storytelling. Witness the monumental grace of Delhi and the timeless majesty of Agra's Taj Mahal to gather sweet, unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday itinerary offers an unparalleled heritage balance between the old-world lanes of Shahjahanabad, the polished avenues of Lutyens' New Delhi, and the eternal romance of Mughal Agra. Travelling in a dedicated private premium AC vehicle with an expert, background-verified chauffeur, your family will experience flawless connectivity. With a meticulously curated meal plan comprising daily multi-cuisine breakfasts and specialized elite dining, this getaway sets the gold standard for a premium Delhi experience. Every segment includes the signature touch of TRAGUIN curated experiences, assuring priority entry privileges and round-the-clock boutique assistance.\n\nWHY CHOOSE THE BEST DELHI AGRA TOUR PACKAGE?\nWhen considering a Luxury Delhi Holiday or an iconic Golden Triangle snippet, discerning travelers look for a path that minimizes transit stress and maximizes cultural depth. This route offers a window into the most famous attractions of Northern India. From the soaring minarets of Qutub Minar and the stately dome of Humayun's Tomb—top tourist places in Delhi—to the legendary ivory-white marble contours of the Taj Mahal in Agra, every turn reveals absolute grandeur. For couples and modern families seeking a tailored Delhi Honeymoon Package or Agra Family Tour, the region unveils highly sought-after, popular Instagram locations like Sunder Nursery, Connaught Place, Safdarjung Tomb, and the reflective banks of the Yamuna River at Mehtab Bagh. Indulge in premium handicraft shopping, explore historic bazaars, or sample legendary culinary delights. Our signature TRAGUIN Delhi Packages seamlessly blend handpicked luxury stays and curated exclusive experiences, guaranteeing that you enjoy the best time to visit Delhi and Agra with absolute distinction.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DL-004 | Delhi Agra Gateway Premium Family Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Delhi Agra package (DL-004 / TRG-DEL-AGR-004): Old & New Delhi, Yamuna Expressway, Mehtab Bagh, Taj Mahal sunrise, Agra Fort, and 4-tier multi-city accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "India Gate, Rashtrapati Bhavan, Connaught Place & welcome dinner on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Red Fort, Jama Masjid, Chandni Chowk, Humayun's Tomb & Qutub Minar on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Yamuna Expressway to Agra, Mehtab Bagh sunset & cultural artisan show on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Taj Mahal sunrise, Agra Fort & Baby Taj on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Return to Delhi & departure transfer on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunrise timing for optimal Taj Mahal lighting",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Delhi | Welcome to the Imperial Capital – Urban Luxury & Elite Welcome",
+        "description": "Your premium Delhi experience begins as your flight or train lands in the national capital. A dedicated private luxury transport vehicle will greet you with custom refreshments and escort you directly to your handpicked premium luxury hotel. After a refreshing check-in and afternoon at leisure, step out to explore the polished avenues of Lutyens' Delhi. Drive past the historic India Gate, the majestic Rashtrapati Bhavan, and the ultra-modern architecture of the new Parliament House, taking beautiful photos as dusk settles over the capital.",
+        "activities": [
+          "Sightseeing Included: India Gate, Kartavya Path, Rashtrapati Bhavan exterior, Connaught Place.",
+          "Evening Experience: Elite welcome dinner at a curated culinary restaurant specializing in royal frontier cuisine.",
+          "Overnight Stay: New Delhi (Premium / Luxury Selected Hotel).",
+          "Meals Included: Welcome Drink & Fine-Dining Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Full Day Delhi Sightseeing | The Tale of Two Cities – Chronicles of Old & New Delhi",
+        "description": "Awake to a lavish breakfast before diving into a detailed Delhi sightseeing tour. Start in Old Delhi with a private premium rickshaw ride through the bustling alleys of Chandni Chowk, admiring the grand walls of the Red Fort and visiting the monumental Jama Masjid. In the afternoon, shift to the peaceful oasis of New Delhi to explore Humayun's Tomb, a magnificent precursor to the Taj Mahal, and the soaring, ancient stone masterpiece of the Qutub Minar complex.",
+        "activities": [
+          "Sightseeing Included: Red Fort, Jama Masjid, Chandni Chowk rickshaw ride, Humayun's Tomb, Qutub Minar.",
+          "Optional Activities: Bespoke evening high-tea experience inside the elegant corridors of the heritage Imperial Hotel.",
+          "Overnight Stay: New Delhi (Premium / Luxury Selected Hotel).",
+          "Meals Included: Premium Luxury Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Delhi to Agra (Via Yamuna Expressway) | Journey to the Mughal Seat – Twilight at Mehtab Bagh",
+        "description": "Following a sumptuous breakfast, check out and embark on a smooth, comfortable drive along the modern Yamuna Expressway to Agra. Arrive by afternoon and check into your ultra-luxury resort, where rooms can be curated to overlook the monument lines. In the golden hours of the evening, enjoy a private visit to Mehtab Bagh (The Moonlight Garden), located across the river. Take stunning photographs as the sunset casts soft golden hues over the white marble of the Taj Mahal.",
+        "activities": [
+          "Sightseeing Included: Expressway scenic transit, Mehtab Bagh, sunset riverside viewpoint.",
+          "Evening Experience: Private viewing of a local cultural artisan show detailing the history of the Taj Mahal.",
+          "Overnight Stay: Agra (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Breakfast & Traditional Awadhi Style Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Agra Sightseeing Excursion | The Epitome of Eternal Love & Formidable Citadels",
+        "description": "Experience a magical sunrise visit to the Taj Mahal, the world's ultimate monument to love. Walk the serene pathways accompanied by an expert historian who will bring the Mughal era to life with emotional storytelling. Return to the resort for a fresh breakfast, then head out to explore the massive red sandstone ramparts of Agra Fort, a UNESCO World Heritage site full of grand palaces and courtyards.",
+        "activities": [
+          "Sightseeing Included: The Taj Mahal (Sunrise tour), Agra Fort, Tomb of Itmad-ud-Daulah (Baby Taj).",
+          "Optional Activities: An excursion to Fatehpur Sikri, the preserved red sandstone Mughal city (optional).",
+          "Overnight Stay: Agra (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Luxury Gala Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Agra to Delhi / Departure | Returning with Cherished Memories Beyond Destinations",
+        "description": "Enjoy a final luxury breakfast at your premium hotel before starting your return drive to Delhi. Your private luxury transport will take you smoothly back along the expressway, dropping you off directly at New Delhi Airport or Railway Station for your onward journey. Return home carrying beautiful family bonds and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door expressway drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu / Welcomhotel Dwarka | Crystal Sarovar Premiere / Radisson Agra",
+        "location": "Delhi (2 Nights) / Agra (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Radisson Blu / Welcomhotel Dwarka (Delhi, 2 Nights) | Crystal Sarovar Premiere / Radisson Agra (Agra, 2 Nights) | MAPAI (Breakfast & Dinner included)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner included)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Crowne Plaza Okhla / Hyatt Regency | Taj Hotel & Convention Centre Agra",
+        "location": "Delhi (2 Nights) / Agra (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Crowne Plaza Okhla / Hyatt Regency (Delhi, 2 Nights) | Taj Hotel & Convention Centre Agra (Agra, 2 Nights) | MAPAI + Elevated Room View Amenities",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI + Elevated Room View Amenities",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Ambience / Taj Palace Delhi | ITC Mughal, A Luxury Collection Hotel",
+        "location": "Delhi (2 Nights) / Agra (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: The Leela Ambience / Taj Palace Delhi (Delhi, 2 Nights) | ITC Mughal, A Luxury Collection Hotel (Agra, 2 Nights) | MAPAI + Signature Wellness Spa Access",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI + Signature Wellness Spa Access",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lodhi / The Imperial New Delhi | The Oberoi Amarvilas (Taj View Rooms)",
+        "location": "Delhi (2 Nights) / Agra (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Lodhi / The Imperial New Delhi (Delhi, 2 Nights) | The Oberoi Amarvilas Taj View Rooms (Agra, 2 Nights) | Bespoke Custom Platinum Luxury Menu",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Taj View Room",
+        "meal_plan": "Bespoke Custom Platinum Luxury Menu",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations in top handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated SUV for all sightseeing and transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meals: Daily luxury breakfast and fine-dining dinners as specified.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel concierge and guest assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Traditional welcome, customized family travel kit, and wet wipes.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private heritage rickshaw ride through old lanes.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flights, or train tickets to Delhi.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, professional guide fees, or camera permits.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional excursions or services not specifically outlined above.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "destination_slug": "tamil-nadu",
+  "package": {
+    "slug": "tn-007-chennai-mahabalipuram-coastal-express",
+    "serial_code": "TN-007",
+    "traguin_tour_code": "TRAGUIN-TN-007",
+    "title": "Chennai • Mahabalipuram Coastal Express",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TN-007 | TRAGUIN tour code TRAGUIN-TN-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Tamil Nadu, India | Category: Family Vacation / Coastal Leisure",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chennai • Mahabalipuram Coastal Belt",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Getaways & Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle Allocated: Dedicated Luxury Chauffeur-driven Air-Conditioned Vehicle",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Deluxe Continental Breakfast (CP Plus Plan Hotels)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Track: Chennai Arrival & Urban Tour → ECR Scenic Drive → Mahabalipuram Coastal Escapes → Cochin/Chennai Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Experience the finest elements of a Premium Tamil Nadu Experience. This escape guarantees top tourist places in Tamil Nadu with expert companion guidance, flexible family-friendly timings, and private shorefront leisure.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Handcrafted to maximize family relaxation. Skip standard vehicle waiting with prioritized hotel check-ins, custom roadside break suggestions, and elite destination curation from premier holiday experts.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Souvenirs: Authentic Kanchipuram Silks: Pick out high-quality traditional handloomed sarees and ethnic textiles from verified legacy outlets. Stone Sculptures: Purchase miniature hand-carved stone models sculpted meticulously by traditional artisans of Mahabalipuram.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Resort Check Times: Check-in window begins at 14:00 hours; departures are managed at 11:00 hours. Options are flexible based on premium resort load status. Seasonal Dress Recommendations: Light clothing fabrics work best throughout the year. Bringing dynamic sunblock options or broad shades ensures maximum comfort.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Coastal",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "tn-007-chennai-mahabalipuram-coastal-express-itinerary",
+    "title": "Chennai • Mahabalipuram Coastal Express",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Tamil Nadu Tour Package • Chennai • Mahabalipuram Coastal Express • 03 Nights / 04 Days",
+    "overview": "Welcome to a land where ancient soul meets pristine coastlines. Handcrafted elegantly by your premier holiday curators at TRAGUIN, this exclusive Tamil Nadu Honeymoon Package and Tamil Nadu Family Tour option invites your loved ones to witness majestic rock-cut wonders, serene beach shores, and heritage luxury. Let us turn miles into moments with handpicked hotels, seamless transfers, and immersive stories.\n\nTOUR OVERVIEW\nVehicle Allocated: Dedicated Luxury Chauffeur-driven Air-Conditioned Vehicle\nMeal Plan: Deluxe Continental Breakfast (CP Plus Plan Hotels)\nRoute Track: Chennai Arrival & Urban Tour → ECR Scenic Drive → Mahabalipuram Coastal Escapes → Cochin/Chennai Departure\n\nTRAGUIN Curated Experience Note:\nExperience the finest elements of a Premium Tamil Nadu Experience. This escape guarantees top tourist places in Tamil Nadu with expert companion guidance, flexible family-friendly timings, and private shorefront leisure.\n\nWhy plan a spectacular Luxury Tamil Nadu Holiday? Boasting deep historical significance, breathtaking landscapes, and beautiful shorelines, Tamil Nadu stands tall as a treasure trove of culture. From the dynamic cityscapes of Chennai to the legendary Shore Temple architectures in Mahabalipuram, this itinerary reveals the absolute best of Tamil Nadu Sightseeing options.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TN-007 | Chennai Mahabalipuram Coastal Express | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Tamil Nadu package (TN-007 / TRAGUIN-TN-007): Chennai, Mahabalipuram ECR coastal tour with 4-tier handpicked beachfront accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "San Thome Cathedral, Marina Beach Coastline Walk, and Kapaleeshwarar Temple",
+        "sort_order": 1
+      },
+      {
+        "text": "ECR Coastal Drive, DakshinaChitra Cultural Stopover, and beachside resort leisure",
+        "sort_order": 2
+      },
+      {
+        "text": "UNESCO Shore Temple, Five Rathas, Arjuna's Penance, and Krishna's Butterball",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience with prioritized hotel check-ins and elite destination curation",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium 4-tier handpicked accommodation across Chennai and Mahabalipuram",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "CHENNAI ARRIVAL",
+        "description": "Your premium gateway into Tamil Nadu starts at Chennai International Airport/Railway Station. Meet your specialized TRAGUIN chauffeur who will welcome you and ensure your luggage is securely placed into your private luxury transport. Check into your chosen handpicked premium stay and unwind. In the afternoon, enjoy an urban drive covering the historic San Thome Cathedral Basilica, built over the tomb of St. Thomas. Conclude the day watching the golden sun set at Marina Beach, the second longest natural urban beach in the world, filled with crisp sea breezes and lively local evening stalls.",
+        "activities": [
+          "Sightseeing Included: San Thome Cathedral, Marina Beach Coastline Walk, Kapaleeshwarar Temple.",
+          "Photography Points: Majestic gopurams of Kapaleeshwarar Temple and the wide expanse of Marina Beach at twilight.",
+          "Overnight Stay: Handpicked Luxury Resort / Premium Hotel, Chennai.",
+          "Meals Included: Welcome Drinks & Refreshing High Tea."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "CHENNAI TO MAHABALIPURAM VIA ECR",
+        "description": "Savor a luxurious morning breakfast before starting a magnificent drive down the famous East Coast Road (ECR) towards the ancient port town of Mahabalipuram. En route, make a special stop at DakshinaChitra Living History Museum, a curated cultural village representing the traditional crafts, lifestyles, and performing arts of South India. Upon arriving in Mahabalipuram, check into an premium beachside resort. Spend your evening listening to waves right from your resort patio or relaxing pool-side.",
+        "activities": [
+          "Sightseeing Included: ECR Coastal Drive, DakshinaChitra Cultural Stopover.",
+          "Evening Experience: Private family dinner suggestions featuring authentic Chettinad preparations or coastal catching varieties.",
+          "Overnight Stay: Handpicked Premium Beach Resort, Mahabalipuram.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MAHABALIPURAM SIGHTSEEING",
+        "description": "Wake up to a crisp coastal sunrise. Today, explore the Top Tourist Places in Tamil Nadu based within this historical sanctuary. Visit the spectacular Shore Temple, standing gracefully since the 8th century on the edge of the roaring Bay of Bengal. Wander across to the Five Rathas, monolith structures sculpted out of solid granite rocks, reflecting brilliant Dravidian artistry. Witness Arjuna's Penance, one of the largest open-air rock reliefs anywhere on earth. Finish your day marveling at Krishna's Butterball, a giant natural boulder perched miraculously on a hillside slope.",
+        "activities": [
+          "Sightseeing Included: UNESCO Shore Temple, Five Rathas, Arjuna's Penance, Krishna's Butterball.",
+          "Optional Activities: Indulge in an exclusive beach surfing introduction or premium traditional spa treatments at the resort.",
+          "Overnight Stay: Handpicked Premium Beach Resort, Mahabalipuram.",
+          "Meals Included: Full Breakfast spread."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MAHABALIPURAM TO CHENNAI DEPARTURE",
+        "description": "Enjoy a relaxed morning breakfast overlooking the beachfront palms. Pack your belongings with unforgettable memories of your premium coastal vacation. Your chauffeur will drive you comfortably back to Chennai. Before dropping you off, make a brief stop to pick up iconic traditional handlooms or locally sculpted stone keepsakes. Smooth transfer to Chennai Airport or Central Railway Station for your return trip home.",
+        "activities": [
+          "Transfers Included: Private Airport/Station drop-off vehicle transfers.",
+          "Meals Included: Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Pride Hotel Chennai / Chariot Beach Resort",
+        "location": "Chennai • Mahabalipuram",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: The Pride Hotel Chennai • Chariot Beach Resort (CP Plan Breakfast)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Comfort Room",
+        "meal_plan": "CP Plan (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Residency Towers / Radisson Blu Resort Temple Bay",
+        "location": "Chennai • Mahabalipuram",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: The Residency Towers • Radisson Blu Resort Temple Bay (CP Plan Breakfast)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "CP Plan (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Connemara Chennai / InterContinental Chennai Mahabalipuram",
+        "location": "Chennai • Mahabalipuram",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Connemara, Chennai • InterContinental Chennai Mahabalipuram (CP Plan Breakfast)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "CP Plan (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace Chennai / Taj Fisherman's Cove Resort & Spa",
+        "location": "Chennai • Mahabalipuram",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Leela Palace Chennai • Taj Fisherman's Cove Resort & Spa (Gourmet Breakfast + Welcome Amenities)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Beach Villa",
+        "meal_plan": "Gourmet Breakfast + Welcome Amenities",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Curated stay at handpicked hotels and beachfront coastal resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Generous morning breakfast buffets at all standard property choices.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Private air-conditioned luxury transportation with dedicated polite chauffeur.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized arrival greeting kits and pure bottled drinking water allocations throughout the road tour.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 round-the-clock backend execution help and professional travel expert care.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or inter-state rail ticket purchases to reach Chennai.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual historical monument ticket admission fees or photography passes.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal bills (laundry, room service snacks, phone calling, and driver gratuity tips).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional coastal water sport activities or vehicle modifications.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

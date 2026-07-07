@@ -1,0 +1,282 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-011-educational-student-pobitora-kaziranga",
+    "serial_code": "AS-011",
+    "traguin_tour_code": "TG-ED-AS011-2026",
+    "title": "TRAGUIN Premium Assam Educational Tour Package — Student Learning: Guwahati • Pobitora • Kaziranga National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-011 | TRAGUIN tour code TG-ED-AS011-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: School Educational Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Kaziranga National Park • Pobitora",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Student Groups, Academic Institutions, Researchers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: Student Group Concession (On Request)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury AC Coaches with certified safety features | Meal Plan: Full Board Academic Plan (APAI)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati ➔ Pobitora Ecology Briefing ➔ Kaziranga (2N) ➔ Guwahati Historical Survey (2N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Note: Dedicated field guides, interactive worksheets, educational handbooks, and multi-point security coordination.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by Experts: Learning exercises aligned with leading academic curricula.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Support desks for faculty with student headcounts and medical needs.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Orchid center organic remedies, bamboo handicraft centers, Guwahati book centers.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Follow safari safety guidelines; monitor plastic usage in Kaziranga; book 60 days ahead for concessions.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Cultural",
+      "Family",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-011-educational-student-pobitora-kaziranga-itinerary",
+    "title": "TRAGUIN Premium Assam Educational Tour Package — Student Learning: Guwahati • Pobitora • Kaziranga National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "Student Group Concession (On Request)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Educational Student Tour • Pobitora • Kaziranga • 04 Nights / 05 Days",
+    "overview": "Enlightening academic voyage combining rigorous learning modules with immersive experiences across Assam's biodiversity hotspots.\n\nTOUR OVERVIEW\\nEducational Assam Tour for academic excellence: Guwahati ➔ Pobitora ➔ Kaziranga (2N) ➔ Guwahati (2N) with luxury AC coaches and field research modules.\n\nWHY PLAN AN EDUCATIONAL ASSAM TOUR?\\nKaziranga rhino conservation, Brahmaputra hydro-geomorphology, bio-diversity research stations, and sustainable silk cultivation for student field excursions.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-011 | Educational Student Tour Pobitora Kaziranga | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Assam educational package (AS-011 / TG-ED-AS011-2026): Pobitora ecology, Kaziranga safari, tea estate study, science centre, Brahmaputra cruise.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Pobitora ecology briefing and grassland field session Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Wetland survey and Kaziranga Orchid Park ethnobotanical mapping Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Kaziranga jeep safari and tea plantation manufacturing study Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Regional Science Centre and Brahmaputra hydro-geography cruise Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Kamakhya architectural survey and academic certificate wrap-up Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI | FIELD BRIEFING & TRANSFER TO POBITORA ECO-ZONE",
+        "description": "Student groups welcomed at Guwahati airport by TRAGUIN tour managers. Premium AC coach to Pobitora for interactive conservationist orientation on alluvial grasslands and rhino habitats.",
+        "activities": [
+          "Sightseeing Included: Pobitora Buffer Zone, Wetland Observation Deck.",
+          "Learning Activity: Grassland Ecology Field Briefing and Q&A session.",
+          "Overnight Stay: Handpicked Student Resort / Eco Lodge near Pobitora/Guwahati.",
+          "Meals Included: Lunch & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "POBITORA TO KAZIRANGA | WETLAND SURVEY & ORCHID BIODIVERSITY CENTER",
+        "description": "Early bird-watching and wetland survey then scenic drive to UNESCO Kaziranga. Visit Orchid and Cultural Park for ethnobotanical mapping and folk culture showcase.",
+        "activities": [
+          "Sightseeing Included: Kaziranga Orchid Park, Conservation Greenhouses.",
+          "Learning Activity: Ethnobotanical mapping and local folk culture showcase.",
+          "Overnight Stay: Handpicked Eco-Resort in Kaziranga.",
+          "Meals Included: Breakfast, Lunch, Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KAZIRANGA WILDLIFE SAFARI | MEGAMAMMAL CONSERVATION MODULE",
+        "description": "Early open jeep safari observing rhinos, buffaloes, and birds. Afternoon tea processing estate study of economic geography and fair-trade labor models.",
+        "activities": [
+          "Sightseeing Included: Kaziranga National Park Jeep Safari, Tea Plantation Estate.",
+          "Learning Activity: Habitat observation logging and agricultural manufacturing study.",
+          "Overnight Stay: Handpicked Eco-Resort in Kaziranga.",
+          "Meals Included: Breakfast, Lunch, Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KAZIRANGA TO GUWAHATI | REGIONAL SCIENCE MUSEUM & BRAHMAPUTRA HYDROLOGY CRUISE",
+        "description": "Regional Science Centre interactive galleries then exclusive educational Brahmaputra cruise lecture on river island formation and silt dynamics.",
+        "activities": [
+          "Sightseeing Included: Regional Science Centre, Brahmaputra Educational Cruise.",
+          "Learning Activity: Hydro-geographic lecture and interactive science experiments.",
+          "Overnight Stay: Premium Hotel in Guwahati.",
+          "Meals Included: Breakfast, Lunch, Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "GUWAHATI HISTORICAL SURVEY | KAMAKHYA STUDIES & DEPARTURE",
+        "description": "Kamakhya Temple compound architectural study, field notes wrap-up session, academic certificate distribution, and safe group airport transfer.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple Complex, Archaeological view points.",
+          "Learning Activity: Final presentation and distribution of academic certificates.",
+          "Meals Included: Breakfast & Packed Box Lunch."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pobitora Village Eco Resort | Kaziranga Village Resort / Aranya | Hotel Dynasty / Landmark",
+        "location": "Pobitora/Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Pobitora Village Eco Resort (Night 1) | Kaziranga Village Resort / Aranya (Nights 2-3) | Hotel Dynasty / Landmark (Night 4)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Student / Executive Room",
+        "meal_plan": "Full Board (APAI)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayang Village Eco Camp | Infinity Resort / Borgos Resort | Kiranshree Grand / Novotel",
+        "location": "Pobitora/Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Mayang Village Eco Camp (Night 1) | Infinity / Borgos (Nights 2-3) | Kiranshree Grand / Novotel (Night 4)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Full Board (APAI)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Brahmaputra River Lodge | Iora - The Retreat / Diphlu River Lodge | Radisson Blu Guwahati",
+        "location": "Pobitora/Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: The Brahmaputra River Lodge (Night 1) | Iora / Diphlu (Nights 2-3) | Radisson Blu (Night 4)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Full Board (APAI)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Bespoke Premium Private Cruise | Taj Kaziranga Safari Lodge | Vivanta Guwahati (Taj Group)",
+        "location": "Pobitora/Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Bespoke Premium Private Cruise (Night 1) | Taj Kaziranga Safari Lodge (Nights 2-3) | Vivanta Guwahati (Night 4)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "Full Board (APAI)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Safe multi-share or twin room configurations across curated handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Entire itinerary via premium AC luxury coaches including fuel, driver allowances, and permits.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Hygienic Catering: All student-friendly meals (Breakfast, Lunch, Dinner) included as listed.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Field Access: Open Jeep Safari permits for Kaziranga and standard entry tickets to all science centres.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Student learning portfolios, custom clipboards, identification tags, and welcome stoles.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: On-site student coordinators, first-aid kits, and real-time medical backup.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel Costs: Institutional airfare or train transit tickets to and from Guwahati.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Media: Camera premium recording passes or drone use permits inside sanctuary zones.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Incidentals: Laundry, individual cold drinks, snacks, or extra souvenir shopping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Unforeseen Overheads: Expenses from flight cancellations, bad weather, or sudden national holidays.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "destination_slug": "mizoram",
+  "package": {
+    "slug": "mz-003-premium-aizawl-special-tour",
+    "serial_code": "MZ-003",
+    "traguin_tour_code": "TRG-AIZ-SPC-2026",
+    "title": "Premium Aizawl Special Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MZ-003 | TRAGUIN tour code TRG-AIZ-SPC-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Mizoram / India | Category: Best Aizawl Family Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Aizawl City • Luangmual Handicrafts • Mizoram State Museum • KV Paradise",
+        "sort_order": 3
+      },
+      {
+        "text": "Duration: 04 Nights / 05 Days",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Aizawl Special Tour with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Private transfers and dedicated Luxury SUV throughout the journey",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN 24/7 guest experience manager on call",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "mz-003-premium-aizawl-special-tour-itinerary",
+    "title": "Premium Aizawl Special Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Aizawl City • Luangmual Handicrafts • Mizoram State Museum • KV Paradise",
+    "overview": "TRAGUIN PREMIUM AIZAWL SPECIAL TOUR — Aizawl City • Luangmual Handicrafts • Mizoram State Museum • KV Paradise. 04 Nights / 05 Days Captivating Aizawl Family Getaway.\n\nTOUR OVERVIEW\nDiscover the charm, culture, and scenic beauty of Aizawl, the capital of Mizoram, with this TRAGUIN curated family getaway. Designed for a blend of cultural exploration and relaxation, this Aizawl Special itinerary offers a serene escape into Northeast India's mountain lifestyle. Experience warm hospitality with TRAGUIN's handpicked stays, creating unforgettable memories.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MZ-003 | Premium Aizawl Special Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Mizoram package (MZ-003 / TRG-AIZ-SPC-2026): Aizawl City • Luangmual Handicrafts • Mizoram State Museum • KV Paradise with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AIZAWL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: CULTURE & MUSEUMS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: KV PARADISE & SCENIC VIEWS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: LOCAL EXPLORATION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN curated Premium Aizawl Special Tour with handpicked premium stays",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AIZAWL",
+        "description": "Arrive in Aizawl. Private transfer to your handpicked hotel. Enjoy the evening exploring local markets and mountain views.",
+        "activities": [
+          "Private transfer to handpicked hotel.",
+          "Evening exploration of local markets and mountain views.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "CULTURE & MUSEUMS",
+        "description": "Visit the Mizoram State Museum and local handicraft centres at Luangmual to learn about traditional Mizo life and iconic attractions.",
+        "activities": [
+          "Mizoram State Museum visit.",
+          "Luangmual handicraft centres and traditional Mizo life.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KV PARADISE & SCENIC VIEWS",
+        "description": "Visit KV Paradise, a beautiful memorial with a poignant history. Enjoy the stunning panoramic views of the Aizawl valley.",
+        "activities": [
+          "KV Paradise memorial visit.",
+          "Panoramic views of the Aizawl valley.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "LOCAL EXPLORATION",
+        "description": "Enjoy a day exploring the unique local cafes, serene parks, and vibrant streets, creating unforgettable memories.",
+        "activities": [
+          "Local cafes, parks, and vibrant streets.",
+          "Leisure exploration at your own pace.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Final breakfast before your TRAGUIN private transfer, completing your premium Aizawl experience.",
+        "activities": [
+          "Private transfer to airport.",
+          "Meals Included: Farewell Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Ritz / Hotel Arini",
+        "location": "Aizawl",
+        "nights_label": "4N Aizawl",
+        "description": "OPTION 01 – DELUXE: Hotel Ritz / Hotel Arini | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Classic Aizawl / Hotel Regency",
+        "location": "Aizawl",
+        "nights_label": "4N Aizawl",
+        "description": "OPTION 02 – PREMIUM: Classic Aizawl / Hotel Regency | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Millennium Inn / Hotel Ahimsa",
+        "location": "Aizawl",
+        "nights_label": "4N Aizawl",
+        "description": "OPTION 03 – LUXURY: Millennium Inn / Hotel Ahimsa | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Premium Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Continental / Chawlhna Hotel",
+        "location": "Aizawl",
+        "nights_label": "4N Aizawl",
+        "description": "OPTION 04 – ULTRA LUXURY: The Grand Continental / Chawlhna Hotel | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Heritage Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 4 Nights in handpicked Mizoram properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Luxury SUV for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: MAPAI — daily breakfast and dinner at handpicked venues.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Airport/railway arrival and departure transfers in premium AC vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Stays: TRAGUIN-vetted accommodations matching your selected tier.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable taxes, driver allowances, tolls, and parking charges for the private vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Guided cultural visits to Mizoram State Museum, Luangmual handicrafts, and KV Paradise.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, or sanctuary entry fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical expenses, and any emergency evacuation costs.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

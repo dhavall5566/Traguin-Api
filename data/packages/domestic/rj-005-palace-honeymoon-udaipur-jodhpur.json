@@ -1,0 +1,331 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-005-palace-honeymoon-udaipur-jodhpur",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Premium Rajasthan Palace Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 12,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Udaipur (3N) → Jodhpur (2N) romantic palace circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Chauffeur-driven luxury sedan with CP breakfast plan",
+        "sort_order": 2
+      },
+      {
+        "text": "Complimentary private Lake Pichola boat cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Welcome honeymoon amenities — cake and floral decor",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-RJ-005 | Serial RJ-005",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-005-palace-honeymoon-itinerary",
+    "title": "Premium Rajasthan Palace Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Custom)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Udaipur • Jodhpur — 05 Nights / 06 Days of Royal Romance",
+    "overview": "The Best Rajasthan Tour Package beckons lovers into an immersive realm of heritage hospitality, timeless romance, and majestic architectural marvels. This meticulously planned Rajasthan Honeymoon Package weaves together the ethereal lakes of Udaipur and the sun-kissed blue fortresses of Jodhpur. Private FIT tour with dedicated chauffeur-driven executive vehicle. Route: Udaipur Arrival → Udaipur Sightseeing → Ranakpur Enroute → Jodhpur Sightseeing → Jodhpur Departure. Best season: October to March.",
+    "is_featured": true,
+    "featured_sort_order": 12,
+    "seo_title": "RJ-005 | Premium Rajasthan Palace Honeymoon | TRAGUIN",
+    "seo_description": "Luxury 05 Nights / 06 Days Rajasthan honeymoon (RJ-005): Udaipur and Jodhpur with Lake Pichola cruise, City Palace, Mehrangarh Fort, and Ranakpur Jain Temple.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Lake Pichola Sunset Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "City Palace Udaipur",
+        "sort_order": 2
+      },
+      {
+        "text": "Sajjangarh Monsoon Palace",
+        "sort_order": 3
+      },
+      {
+        "text": "Mehrangarh Fort",
+        "sort_order": 4
+      },
+      {
+        "text": "Ranakpur Jain Temple",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Udaipur | Romantic Arrival & Sunset Boat Cruise",
+        "description": "Traditional royal welcome and private boat cruise on Lake Pichola at golden hour with views of Jag Mandir and City Palace.",
+        "activities": [
+          "Sightseeing Included: Lake Pichola Cruise, Jag Mandir Views, Local Romantic Promenades",
+          "Optional Activities: Couples' traditional attire photoshoot",
+          "Evening Experience: Lakeside candlelit fine-dining recommendation",
+          "Overnight Stay: Udaipur (Handpicked Palace/Resort)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Udaipur Exploration | Royal Grandeur & Couturier Markets",
+        "description": "Tour City Palace, Jagdish Temple, Saheliyon-ki-Bari, and Vintage Car Museum. Evening miniature painting session and Hathipole Bazaar shopping.",
+        "activities": [
+          "Sightseeing Included: City Palace, Jagdish Temple, Saheliyon-ki-Bari, Vintage Car Museum",
+          "Optional Activities: Cable car ride to Mansapurna Karni Mata Temple",
+          "Evening Experience: Live folk dance at Bagore Ki Haveli",
+          "Overnight Stay: Udaipur Palace Resort"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Udaipur Excursion | Monsoon Palace & Lakeside Serenity",
+        "description": "Visit Sajjangarh Monsoon Palace for panoramic vistas. Peaceful afternoon at Fateh Sagar Lake and Nehru Park.",
+        "activities": [
+          "Sightseeing Included: Sajjangarh Monsoon Palace, Fateh Sagar Circuit, Nehru Park",
+          "Optional Activities: Speedboating on Fateh Sagar Lake",
+          "Evening Experience: Private sunset viewing from a mountain vantage point",
+          "Overnight Stay: Udaipur Palace Resort"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Udaipur to Jodhpur via Ranakpur | Sacred Architecture",
+        "description": "En-route visit to Ranakpur Jain Temple with 1,444 uniquely carved marble pillars. Arrive in Jodhpur and check into heritage palace hotel.",
+        "activities": [
+          "Sightseeing Included: Ranakpur Jain Temple, Scenic Aravali Highway Drive",
+          "Optional Activities: Authentic Rajasthani Thali lunch en route",
+          "Evening Experience: Leisure time at your luxury heritage property",
+          "Overnight Stay: Jodhpur Luxury Palace"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Jodhpur Sightseeing | Mehrangarh Fort & Royal Cenotaphs",
+        "description": "Explore Mehrangarh Fort, Jaswant Thada, Clock Tower, and Sadar Market. Optional zip-lining over fort moats.",
+        "activities": [
+          "Sightseeing Included: Mehrangarh Fort, Jaswant Thada, Clock Tower, Umaid Bhawan Museum",
+          "Optional Activities: Zip-lining over the Mehrangarh Fort moats",
+          "Evening Experience: Romantic rooftop dinner overlooking the illuminated fort",
+          "Overnight Stay: Jodhpur Luxury Palace"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Jodhpur Departure | Royal Farewell",
+        "description": "Final breakfast, optional souvenir shopping for local sweets and block-printed textiles, and transfer to Jodhpur Airport.",
+        "activities": [
+          "Sightseeing Included: Local markets, souvenir stops",
+          "Meals Included: Premium Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Palace",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace / Taj Lake Palace",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premier Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Oberoi Udaivilas",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "CP + Welcome Mix",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Fern Residency",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Hari Mahal",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Umaid Bhawan Palace",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Palace Room",
+        "meal_plan": "CP + Welcome Mix",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury handpicked heritage palace/hotel accommodation",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium multi-cuisine buffet breakfasts (CP plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated executive chauffeur-driven air-conditioned vehicle",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All interstate taxes, tolls, parking, and driver allowances",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary private boat cruise on Lake Pichola",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome honeymoon amenities (cake, floral decor arrangement)",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international airfares/train bookings",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and local guide fees",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses (laundry, telephone calls, mini-bar)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities (zip-lining, cable car, special dinners)",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory festival or peak season gala dinner surcharges",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage",
+        "sort_order": 13
+      }
+    ]
+  }
+}

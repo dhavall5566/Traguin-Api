@@ -1,0 +1,289 @@
+{
+  "destination_slug": "daman-and-diu",
+  "package": {
+    "slug": "dd-007-premium-daman-diu-heritage-tour",
+    "serial_code": "DD-007",
+    "traguin_tour_code": "TG-DD-007-HRG",
+    "title": "Premium Daman & Diu Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DD-007 | TRAGUIN tour code TG-DD-007-HRG",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Daman and Diu / India | Category: Heritage & Leisure",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Diu Fort • St. Paul's • Naida Caves • Ghoghla",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families, History Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Heritage Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium, air-conditioned Luxury Sedan / SUV with dedicated chauffeur",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Buffet Breakfast & Curated Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Diu Airport / Rajkot Arrival → Diu Fort Complex → Naida Caves → Ghoghla Beach → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset sailing excursion with panoramic Panikota fortress views",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Handcrafted shell souvenirs, Portuguese-inspired artifacts, premium local cashews",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Resort check-in 14:00 hrs, check-out 11:00 hrs; book beachfront suites in advance",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Luxury",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "dd-007-premium-daman-diu-heritage-itinerary",
+    "title": "Premium Daman & Diu Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Portuguese Forts, Baroque Churches & Golden Sandy Beaches",
+    "overview": "Immerse yourself in a fascinating blend of Mediterranean charm and sun-kissed coastal luxury. Specially curated by our experts, this premium getaway invites you to explore the timeless allure of legendary Portuguese architecture, magnificent sea forts, and serene shorelines. TRAGUIN details every corner of your holiday, offering boutique beachfront hospitality, privately chauffeured coastal journeys, and unforgettable memories filled with history, golden sunsets, and premium relaxation.\n\nDiscover the majestic remnants of Portuguese India with the ultimate Daman and Diu Tour Package. Designed as a high-end luxury vacation, this itinerary perfectly balances guided heritage explorations of architectural marvels with relaxing hours along peaceful sea waves. TRAGUIN handles every element from your initial airport arrival to premium stays at handpicked hotels.\n\nTRAGUIN Curated Touch: Private sunset sailing excursion, skip-the-line heritage entry passes, and reservations at the most exclusive seaside dining establishments.\n\nWhy Visit Daman and Diu: Unrivaled colonial sea architecture, uncrowded white-sand beaches, and clean maritime air steeped in five centuries of rich Portuguese lineage. Famous Attractions: The Grand Diu Fort, St. Paul's Church, Naida Caves, Moti Daman Fort, and Ghoghla Beach. Most Searched Experiences: Walking through the surreal geological structures of Naida Caves, sunset photography over the Arabian Sea bastions, and indulging in fresh coastal seafood. Best Time to Visit Daman and Diu: October to March, when cool sea breezes create the perfect climate for outdoor sightseeing and beachside dining.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DD-007 | Premium Daman & Diu Heritage Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Daman and Diu heritage package (DD-007 / TG-DD-007-HRG): Diu Fort, St. Paul's Church, Naida Caves, Ghoghla Beach, exclusive sunset boat cruise, and 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Ghoghla Beach evening walk & welcome mocktails sundowner session",
+        "sort_order": 1
+      },
+      {
+        "text": "Diu Fort, St. Paul's Church, Naida Caves & Panikota Fort View",
+        "sort_order": 2
+      },
+      {
+        "text": "Ghoghla Beach leisure, Nagoa Beach drive & exclusive sunset boat cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "INS Khukri Memorial & seamless departure assistance",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset sailing with illuminated Panikota sea fortress views",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked local heritage guides sharing colonial legends",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Diu – Private Transfer & Sunset Beach Walk",
+        "description": "Your exceptional coastal retreat begins the moment you touch down. A premium, air-conditioned vehicle managed by TRAGUIN will receive you at the airport for a smooth transfer to your handpicked beachfront resort. Check into your luxury sea-view room, unpack at your own pace, and soak in the soothing ocean breeze. In the late afternoon, step out to explore the scenic beauty of the pristine coast. Walk along the soft sands as the warm golden sun dips elegantly below the Arabian Sea horizon, marking the official beginning of your premium experience.",
+        "activities": [
+          "Sightseeing Included: Relaxed evening walk at Ghoghla Beach",
+          "Evening Experience: Welcome mocktails & beachside sundowner session",
+          "Overnight Stay: Diu (Premium Luxury Beachfront Resort)",
+          "Meals Included: Welcome Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Portuguese Maritime Bastions & Impressive Baroque Churches",
+        "description": "Savor a delightful breakfast before diving deep into history. Your day begins at the iconic Diu Fort, a massive 16th-century Portuguese fortress surrounded by sea water on three sides. Stroll along the ancient ramparts, admire the bronze cannons pointing out to the ocean, and capture panoramic views of the coast. Next, visit the magnificent St. Paul's Church, a masterpiece of baroque architecture featuring intricate white wood carvings. Continue your heritage tour to the Church of St. Francis of Assisi, now converted into an archaeological museum. Conclude your historical exploration with an immersive experience inside the mysterious Naida Caves, where natural rock formations and sunlight create a dreamlike setting for photography.",
+        "activities": [
+          "Sightseeing Included: Diu Fort, St. Paul's Church, Naida Caves, Panikota Fort View",
+          "Photography Points: Naida Caves sunbeams, Fort bastions",
+          "Overnight Stay: Diu",
+          "Meals Included: Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Golden Sandy Beaches & Exclusive Sunset Boat Cruise",
+        "description": "Dedicate your morning to absolute relaxation or thrilling water activities. Head to the beautifully clean Ghoghla Beach, widely recognized as one of the finest Blue Flag certified beaches in India. Relax under a private canopy or participate in exciting optional activities such as parasailing or jet-skiing. In the afternoon, return to your premium resort for a refreshing spa session. As evening approaches, TRAGUIN hosts an exclusive private boat cruise along the coast, offering stunning views of the illuminated Panikota sea fort while you enjoy customized appetizers.",
+        "activities": [
+          "Sightseeing Included: Ghoghla Beach Leisure, Nagoa Beach Drive",
+          "Optional Activities: Parasailing, Jet-Skiing, Speedboat Rides",
+          "Overnight Stay: Diu",
+          "Meals Included: Breakfast & Farewell Seafood Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Final Chrome Corner & Departure with Memories",
+        "description": "Enjoy a relaxed gourmet breakfast looking out at the beautiful ocean waves. If time permits, take a final walk through the quaint local markets to purchase souvenirs and unique handcrafted items. Your professional chauffeur will assist you with your luggage and provide a comfortable private transfer to the airport or station for your journey home, concluding your premium getaway.",
+        "activities": [
+          "Sightseeing Included: Brief stop at INS Khukri Memorial",
+          "Assistance: Complete luggage handling and departure drop",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Rasal / The Resort Diu or similar",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Sea View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radhika Beach Resort, Diu",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Poolside Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Azzaro Resorts & Spa, Diu",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Club Royal Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Elite Beach Villas",
+        "location": "Diu",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Oceanfront Villa",
+        "meal_plan": "All-Inclusive Luxury",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights luxury stay at premium, top-rated beachfront properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium buffet breakfasts and custom multi-cuisine dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated premium air-conditioned luxury vehicle throughout the tour",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All sightseeing entry tickets, monument passes, and cave entry permits",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive sunset boat cruise experience with light refreshments",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome drinks, fresh seasonal fruits, and amenities upon arrival",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive 24/7 internal concierge TRAGUIN support",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All applicable resort taxes, driver allowances, tolls, and parking fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic airfare or train tickets to the destination",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports charges (parasailing, jet-skiing, scuba diving)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items (laundry, phone calls, premium alcohol, tips)",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any camera or professional video recording fees at sites",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive travel and personal medical insurance",
+        "sort_order": 13
+      }
+    ]
+  }
+}

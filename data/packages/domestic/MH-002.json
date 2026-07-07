@@ -1,0 +1,281 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-002-premium-shirdi-pilgrimage-package",
+    "serial_code": "MH-002",
+    "traguin_tour_code": "TRAGUIN-SHIRDI-002",
+    "title": "Premium Shirdi Pilgrimage Package",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-002 | TRAGUIN tour code TRAGUIN-SHIRDI-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Premium Pilgrimage / Divine Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shirdi • Shani Shingnapur • Nashik",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Devotees, Multi-generational Groups",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-round (Pleasant Winters Oct-Mar)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Pilgrimage Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Premium SUV (Innova Crysta / Luxury Coach)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Gourmet Vegetarian Breakfast & Dinner (MAPAI)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Mumbai/Pune ➔ Shirdi (2N) ➔ Shani Shingnapur ➔ Nashik ➔ Return",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: VIP Pass arrangement and 24/7 dedicated concierge with private family VIP Darshan coordination",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Authentic brass Sai Baba idols, incense, Rudraksha beads, Ladoo Prasad; Nashik table grapes and raisins",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Conservative traditional clothing at temples; mobile phones prohibited in Samadhi Mandir; book 30 days ahead for VIP slots",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Spiritual",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-002-premium-shirdi-pilgrimage-package-itinerary",
+    "title": "Premium Shirdi Pilgrimage Package",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Ultimate Shirdi Darshan & Divine Family Tour • 2 Nights / 3 Days",
+    "overview": "Welcome to a divine spiritual journey thoughtfully curated by TRAGUIN. This exclusive luxury Shirdi holiday is designed to soothe your soul and elevate your spiritual senses, guiding you seamlessly through the most sacred thresholds of Maharashtra. Experience the tranquil divinity of the world-renowned Shirdi Sai Baba Temple, coupled with unique visits to the magical, doorless village of Shani Shingnapur and the ancient riverside heritage of Nashik. Combining absolute comfort, private VIP entries, premium handpicked hotels, and a flawless chauffeured ride, this premium travel itinerary ensures your family returns transformed, bearing unforgettable memories of profound peace.\n\nYour bespoke TRAGUIN pilgrimage begins with your arrival in Mumbai or Pune, from where a private premium vehicle sweeps you across beautiful highway corridors directly to the spiritual capital of Shirdi. Your exclusive tour incorporates a perfectly timed VIP Shirdi Darshan experience, shielding your multi-generational family from tedious waiting times. Delve deep into the local lore, witness the evening or early-morning sacred Kakad Aarti, and explore breathtaking landscapes and historic temples along the sacred Godavari riverbanks, all while surrounded by exceptional luxury and personalized assistance.\n\nWhy Visit Shirdi and Surrounding Shrines? As India's most highly venerated spiritual epicenter, a Shirdi family tour serves as a beautiful anchor for family bonding, reflection, and rejuvenation. Millions seek out the benevolent gaze of Sai Baba, making a Luxury Shirdi Holiday one of the most searched experiences in heritage tourism. Beyond the main temple, the adjoining destinations offer immersive experiences: the profound planetary energy at Shani Shingnapur and the epic Ramayana heritage landmarks situated in holy Nashik.\n\nTop Tourist Places & Instagram Locations: Capture beautifully serene and timeless frames at the intricately adorned Sai Baba Samadhi Mandir, the historical Dwarkamai mosque, the peaceful Lendi Baug gardens, the colossal stone idol of Shani Dev, and the dramatic, ancient steps of Panchavati and Ram Kund along the river in Nashik. This custom TRAGUIN Shirdi package prioritizes specialized timing and localized private support to maximize comfort and photography options for your elders and children alike.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-002 | Premium Shirdi Pilgrimage Package | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Shirdi pilgrimage package (MH-002 / TRAGUIN-SHIRDI-002): VIP Shirdi Darshan, Shani Shingnapur, Nashik Panchavati, Kalaram Temple, and 4-tier handpicked Shirdi accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sai Baba Samadhi Temple, Dwarkamai, Chavadi, Gurusthan & Kakad Aarti",
+        "sort_order": 1
+      },
+      {
+        "text": "VIP Shirdi Darshan, Shani Shingnapur Temple & Lendi Baug",
+        "sort_order": 2
+      },
+      {
+        "text": "Panchavati, Kalaram Temple, Sita Gufi & Ram Kund Godavari",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family VIP Darshan coordination with a dedicated local representative",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: Serene, smoke-free properties with pure, high-quality vegetarian food options",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Shirdi Transfer | Stepping into the Realm of Serenity",
+        "description": "Your premium spiritual adventure commences as your private luxury chauffeur welcomes you directly at your airport terminal or doorstep in Mumbai/Pune. Settle into your premium vehicle and embark on a smooth, scenic journey to the holy town of Shirdi. Upon your arrival, enjoy a seamless, prioritized check-in at your handpicked premium resort. After settling into your spacious luxury suite, step out for an introductory visit to the main temple complex. TRAGUIN has arranged prioritized entry cards for your evening Shirdi sightseeing, giving you direct access to the main shrine, the sacred flame at Dwarkamai, and Chavadi, where Sai Baba spent his historical nights.",
+        "activities": [
+          "Sightseeing Included: Sai Baba Samadhi Temple, Dwarkamai, Chavadi, Gurusthan",
+          "Optional Activities: Participation in the magnificent evening Dhoop Aarti",
+          "Evening Experience: Spiritual stroll through the historical alleys of Shirdi town",
+          "Overnight Stay: Shirdi Premium Luxury Resort",
+          "Meals Included: Gourmet Vegetarian Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "VIP Shirdi Darshan & Shani Shingnapur Excursion | Divine Radiance",
+        "description": "Awaken early for the soul-stirring Kakad Aarti or a premium morning VIP Shirdi Darshan session precisely coordinated by your TRAGUIN travel advisor to ensure absolute ease. Experience a profound sense of calm standing before the radiant white marble idol of Sai Baba. Return to your resort for a hearty, multi-cuisine breakfast. In the afternoon, enjoy a highly scenic drive through rural Maharashtra to visit the legendary Shani Shingnapur temple. This fascinating village is globally famous because houses feature no doors or locks, protected by the deep faith in Lord Shani. Pay your respects at the open-sky rock shrine before returning to Shirdi for a relaxed evening.",
+        "activities": [
+          "Sightseeing Included: Early Morning Shrine Access, Shani Shingnapur Temple, Lendi Baug",
+          "Optional Activities: Private Satyanarayan Pooja inside temple vicinity",
+          "Evening Experience: Soulful meditation session within the resort's private gardens",
+          "Overnight Stay: Shirdi Premium Luxury Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Shirdi to Nashik Heritage Exploration | Departure via Holy Panchavati",
+        "description": "Enjoy a leisurely breakfast before checking out of your hotel. Your private chauffeur will drive you to the historical temple city of Nashik, a key site of the ancient Kumbh Mela. Explore the holy Panchavati region, visiting the ancient Kalaram Temple and the mystical Sita Gufi caves, where Ramayana legends come to life. Witness the sacred rituals at Ram Kund on the Godavari riverbanks, capturing the spiritual essence of India. Following a premium lunch at a heritage estate, your luxury vehicle carries you back smoothly to Mumbai or Pune, concluding your magnificent TRAGUIN Shirdi package with hearts full of blessings and unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Panchavati, Kalaram Temple, Sita Gufi, Ram Kund Godavari",
+          "Optional Activities: Traditional family blessing ritual along the holy riverbanks",
+          "Evening Experience: Scenic highway return ride with sunset photography stops",
+          "Overnight Stay: Departure / End of Services",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Sun N Sand Shirdi / Hotel Sai Jharokha",
+        "location": "Shirdi",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "Buffet Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "St Laurn The Spiritual Resort Shirdi",
+        "location": "Shirdi",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Pool-View Room",
+        "meal_plan": "Buffet Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Marigold Regency / Goradia's Lords Inn",
+        "location": "Shirdi",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Suite",
+        "meal_plan": "Premium Ala-Carte Menu (MAP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Gateway Hotel (Ambad Nashik / Shirdi Luxury Wing)",
+        "location": "Shirdi",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Sanctuary Suite with VIP Escort",
+        "meal_plan": "Curated Wellness Meals (MAP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 02 Nights accommodation in selected top-tier spiritual luxury properties in Shirdi.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily expansive vegetarian breakfasts and multi-course buffet dinners at the resorts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Entire route and sightseeing covered via an exclusive premium SUV (Innova Crysta).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN VIP Assistance: Pre-arranged VIP Darshan passes for seamless, queue-free temple access.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Traditional shawl presentation, fresh coconut welcoming drinks, and holy sweets boxes.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Expert Local Guiding: Private knowledgeable heritage guides at Shani Shingnapur and Nashik Panchavati.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All-Inclusive Coverage: All parking, toll charges, driver allowances, state fuel taxes, and night surcharges are included.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Continuous 24/7 dedicated telephone and on-ground assistance from our senior team.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfares, helicopter ticketing, or main interstate railway tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal charges like laundry, telephone calls, mini-bar orders, or specialized temple offerings (Prasad/Dakshina).",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Specialized video camera permissions or additional pooja costs inside the temples.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any mid-day meals or lunches not explicitly detailed in the final confirmation voucher.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Festival peak period surcharges (e.g., Guru Purnima, Dussehra, Diwali, or New Year weeks).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance protections or personal medical expenses.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

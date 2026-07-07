@@ -1,0 +1,281 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-005-kaziranga-wildlife-safari-guwahati-kaziranga",
+    "serial_code": "AS-005",
+    "traguin_tour_code": "TG-KAZI-WILD-005",
+    "title": "TRAGUIN Premium Kaziranga Wildlife Tour Package — Luxury Safari: Guwahati • Kaziranga National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-005 | TRAGUIN tour code TG-KAZI-WILD-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Premium Wildlife Luxury Safari",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Kaziranga National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Wildlife Enthusiasts, Premium Families, Luxury Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April (Dry winter park openings)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: INR 56,000/- Per Guest (On Request)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Premium Luxury AC SUV (Toyota Innova Crysta) + open-top 4x4 Gypsy for safaris | Meal Plan: Jungle APAI in Kaziranga",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati Arrival ➔ Kaziranga National Park (3N) ➔ Immersive Wilderness Safaris ➔ Guwahati (1N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private dining options directly overlooking the beautiful Diphlu River on demand.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: All open-top safari vehicles driven by vetted, destination-trained drivers.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Smooth coordination ensuring zero waiting times for park passes.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Organic Assam Orthodox teas, hand-carved rhino figurines, Hathaway Tea Estates.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Park open November–April; wear muted safari colors; book Diphlu River Lodge 60 days ahead.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-005-kaziranga-wildlife-safari-guwahati-kaziranga-itinerary",
+    "title": "TRAGUIN Premium Kaziranga Wildlife Tour Package — Luxury Safari: Guwahati • Kaziranga National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "INR 56,000/- Per Guest (On Request)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kaziranga Wildlife Safari • Guwahati • Kaziranga • 04 Nights / 05 Days",
+    "overview": "Venture into the heart of wild Assam with a signature itinerary intricately conceptualized for true nature lovers. This customized journey blends emotional storytelling, thrilling deep-forest exploration, and stays at the finest eco-luxury lodges.\n\nTOUR OVERVIEW\\nWelcome to an elite wilderness escape meticulously planned by TRAGUIN. Route Plan: Guwahati Arrival ➔ Lush Scenic Drive to Kaziranga National Park (3 Nights) ➔ Immersive Wilderness Safaris ➔ Return to Guwahati (1 Night) ➔ Departure. Vehicle Class: Private Premium Luxury Air-Conditioned SUV paired with open-top specialized 4x4 Gypsy vehicles.\n\nWHY VISIT KAZIRANGA?\\nKaziranga National Park is a jewel in the crown of global biodiversity. Famous as the last stronghold of the Great Indian One-Horned Rhinoceros, sheltering the Big Five: Rhino, Royal Bengal Tiger, Asian Elephant, Wild Water Buffalo, and Swamp Deer.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-005 | Kaziranga Wildlife Safari Guwahati | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kaziranga wildlife package (AS-005 / TG-KAZI-WILD-005): elephant and jeep safaris, Orchid Park, Kamakhya VIP, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic transit through tea fields from Guwahati to Kaziranga on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Dawn elephant safari and afternoon 4x4 jeep safari in Central Range on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Western Range jeep safari and Kaziranga Orchid & Cultural Park on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Eastern Range birding paradise and return to Guwahati on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Spiritual farewell at Kamakhya Temple VIP entry on Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI | SCENIC TRANSIT THROUGH TEA FIELDS TO KAZIRANGA",
+        "description": "Your ultimate wildlife holiday begins at Guwahati International Airport or Railway Station, where a designated TRAGUIN travel coordinator welcomes you warmly. Board your private luxury SUV and leave the city behind for a smooth journey to the historic plains of Kaziranga. The drive transitions beautifully from urban highways to sweeping rural vistas lined with emerald-green paddy fields and manicured tea plantations. Arrive at your luxury wilderness resort by afternoon, where a cooling signature indigenous fruit mocktail awaits you.",
+        "activities": [
+          "Sightseeing Included: Scenic countryside drive, Tea Garden vistas.",
+          "Evening Experience: Nature walk inside the resort followed by a traditional orientation briefing.",
+          "Overnight Stay: Handpicked Luxury Resort in Kaziranga.",
+          "Meals Included: Gourmet Welcome Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DAWN ELEPHANT SAFARI & AFTERNOON 4X4 JEEP SAFARI INTO THE CENTRAL RANGE",
+        "description": "Wake up to the sounds of nature. Before dawn, step into the Central (Kohora) Range for a majestic morning Elephant Safari. As the golden fog rises from the wetlands, ride safely into the tall elephant grass to view the prehistoric One-Horned Rhinoceros grazing just feet away. Return to the lodge for a hearty multi-cuisine breakfast. In the afternoon, board your private open-top 4x4 vehicle for a thrilling Jeep Safari across the Central Range accompanied by a veteran naturalist.",
+        "activities": [
+          "Sightseeing Included: Kohora Range Elephant Safari, Central Range Exclusive Jeep Safari.",
+          "Photography Points: Wetlands of Mihimukh for spectacular wildlife shots against the horizon.",
+          "Overnight Stay: Handpicked Luxury Resort in Kaziranga.",
+          "Meals Included: Breakfast, Lunch, and Specialty Jungle Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DEEP JUNGLE JEEP SAFARI IN WESTERN RANGE & ETHNIC ORCHID PARK CULTURAL TOUR",
+        "description": "Enjoy an early breakfast before heading out to explore the Western (Bagori) Range, famous for its high density of large mammals and massive families of Asian Elephants. In the afternoon, discover the rich heritage of Assam at the Kaziranga National Orchid and Cultural Park with live Bihu and Jhumur performances.",
+        "activities": [
+          "Sightseeing Included: Bagori Range Jeep Safari, National Orchid & Cultural Park.",
+          "Evening Experience: Live traditional Bihu dance show performed by local artists.",
+          "Overnight Stay: Handpicked Luxury Resort in Kaziranga.",
+          "Meals Included: Breakfast, Lunch, and Traditional Assamese Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "EASTERN RANGE BIRDING PARADISE & SCENIC TRANSIT BACK TO GUWAHATI",
+        "description": "Your final safari takes you into the Eastern (Agaratoli) Range, a serene paradise renowned among international birding enthusiasts. Bid farewell to Kaziranga as your premium SUV brings you smoothly back to Guwahati for a relaxing final evening.",
+        "activities": [
+          "Sightseeing Included: Agaratoli Range Exploration, Intercity Scenic Drive back.",
+          "Optional Activities: High-end dinner at a signature heritage restaurant in Guwahati.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SPIRITUAL FAREWELL AT KAMAKHYA TEMPLE & DEPARTURE",
+        "description": "Conclude your premium vacation with VIP fast-track entry at the highly revered Kamakhya Temple atop Nilachal Hills. After collecting souvenirs, your professional driver will transfer you to the airport or railway station.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple (VIP Entry), Craft Emporium.",
+          "Meals Included: Lavish Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Infinity Oakwood Resort / Kaziranga Resort | Kiranshree Grand / Grand Majesty",
+        "location": "Kaziranga (3 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Infinity Oakwood Resort / Kaziranga Resort (Kaziranga, 3 Nights) | Kiranshree Grand / Grand Majesty (Guwahati, 1 Night) | Kaziranga (AP) | Guwahati (CP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Kaziranga (AP) | Guwahati (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Borgos Resort (Executive Room) | Novotel Guwahati GS Road",
+        "location": "Kaziranga (3 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Borgos Resort Executive Room (Kaziranga, 3 Nights) | Novotel Guwahati GS Road (Guwahati, 1 Night) | Kaziranga (AP) | Guwahati (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Executive Room",
+        "meal_plan": "Kaziranga (AP) | Guwahati (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "IORA - The Retreat (Luxury Suite) | Radisson Blu Hotel Guwahati",
+        "location": "Kaziranga (3 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: IORA - The Retreat Luxury Suite (Kaziranga, 3 Nights) | Radisson Blu Hotel Guwahati (Guwahati, 1 Night) | All Gourmet Meals Plan",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "All Gourmet Meals Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Diphlu River Lodge (Luxury Eco Cottages) | Vivanta Guwahati (Taj Group)",
+        "location": "Kaziranga (3 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Diphlu River Lodge Luxury Eco Cottages (Kaziranga, 3 Nights) | Vivanta Guwahati Taj Group (Guwahati, 1 Night) | Ultra Premium Dining Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Eco Cottage",
+        "meal_plan": "Ultra Premium Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury Stays: Selected sharing rooms across premium handpicked hotels and high-end jungle eco-resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private Premium Logistics: Intercity transport via an air-conditioned Toyota Innova Crysta, including toll taxes and driver allowances.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Jungle Safaris: 01 Exclusive Morning Elephant Safari and 02 Private 4x4 Deep Forest Jeep Safaris.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Meal Framework: All meals (Breakfast, Lunch, Dinner) included while in Kaziranga, and breakfast in Guwahati.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Fast-tracked VIP temple entry permits and 24/7 dedicated local coordinator backup.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Traditional Assamese welcome scarves and complimentary daily mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights/Rail: Major domestic or international travel tickets to and from Guwahati.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera Charges: Special high-end camera lens fees required inside the forest limits.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Extras: Laundry services, tips, premium room drinks, or alcoholic beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Travel or health insurance policies.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-013-kumarakom-backwater-heritage",
+    "serial_code": "KL-013",
+    "traguin_tour_code": "TRAGUIN-KL-013",
+    "title": "Kumarakom Backwater Heritage",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-013 | TRAGUIN tour code TRAGUIN-KL-013",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Family Vacation / Luxury Heritage",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Cochin • Kumarakom Backwaters",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Heritage Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Heritage FIT Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Chauffeur-driven AC Luxury Sedan / Innova Crysta",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Premium Breakfast & Gourmet Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Cochin Airport Arrival → Kumarakom Backwaters → Heritage Village Immersion → Cochin Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts to give your family a deeply immersive experience with pre-arranged resort check-ins and luxury transportation.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Organic black pepper, pure vanilla beans, cardamom; miniature brass Aranmula Kannadi mirrors and hand-sculpted wooden houseboats",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; lightweight cotton clothing recommended; advance bookings advised for houseboat experiences",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-013-kumarakom-backwater-heritage-itinerary",
+    "title": "Kumarakom Backwater Heritage",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kumarakom Backwater Heritage • 03 Nights / 04 Days",
+    "overview": "Step into an ancestral wonderland where emerald waters sync with absolute tranquility. Designed seamlessly by TRAGUIN, this iconic luxury holiday package brings you face-to-face with the timeless charm of Kumarakom. Melt away into unforgettable memories as you traverse deep heritage lanes, rest inside elite lakeside premium stays, and surrender to the soothing rhythm of Kerala's legendary scenic beauty.\n\nKumarakom is globally celebrated for its collection of pristine canals, dense mangrove forests, and the massive Vembanad Lake. If you are looking for the Best Kerala Tour Package or a relaxing Kerala Family Tour, this destination offers an idyllic slower alternative to busy holiday spots. From exploring the iconic attractions of the Kumarakom Bird Sanctuary to experiencing a traditional houseboat lunch cruise, our Luxury Kerala Holiday guarantees absolute peace. Key elements include handpicked luxury lakeside properties, immersive cultural activities, and high-standard photography spots. Choosing TRAGUIN Kerala Packages ensures top-tier comfort, smooth transfers, and premium personalized assistance at every step.\n\nTRAGUIN Curated Touch: Curated by TRAGUIN Experts to give your family a deeply immersive experience with pre-arranged resort check-ins and luxury transportation.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-013 | Kumarakom Backwater Heritage | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Kerala package (KL-013 / TRAGUIN-KL-013): Cochin • Kumarakom Backwaters. Handpicked luxury stays and private transfers by TRAGUIN.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sunset canoe ride and luxury heritage houseboat lunch cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Kumarakom Bird Sanctuary trail with naturalist guide",
+        "sort_order": 2
+      },
+      {
+        "text": "Authentic Ayurvedic spa therapy at lakeside resort",
+        "sort_order": 3
+      },
+      {
+        "text": "Heritage village coir making and handloom weaving",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience with pre-arranged resort check-ins",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN TO KUMARAKOM",
+        "description": "Arrive at Cochin International Airport where your private professional chauffeur welcomes you warmly. Board your premium vehicle and begin a beautiful, scenic route towards the backwater paradise of Kumarakom. As you pull into your ultra-luxury lakeside resort, enjoy a refreshing traditional welcome drink. Spend the afternoon settling into your premium villa, soaking in the serene breathtaking landscapes of Vembanad Lake.",
+        "activities": [
+          "Sightseeing Included: Smooth Airport Transfer, Scenic Backwater Drive.",
+          "Evening Experience: A relaxing sunset canoe ride organized exclusively by TRAGUIN experts to see local fishing nets up close.",
+          "Overnight Stay: Handpicked Luxury Resort, Kumarakom.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KUMARAKOM",
+        "description": "Wake up to a crisp morning over the lake. Today, enjoy an exclusive private day-cruise on a beautifully structured luxury heritage Kettuvallam (houseboat). Drift gently past local villages, lush green paddy fields, and lines of coconut trees. Taste authentic, freshly-prepared traditional Kerala dishes cooked by your private chef onboard. Later, explore local art centers to witness a live demonstration of coir making and traditional handloom weaving.",
+        "activities": [
+          "Sightseeing Included: Premium Houseboat Backwater Cruise, Heritage Village Walk.",
+          "Photography Points: Endless horizons of Vembanad Lake from the open-deck houseboat.",
+          "Overnight Stay: Handpicked Luxury Resort, Kumarakom.",
+          "Meals Included: Full Breakfast, Traditional Houseboat Lunch & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KUMARAKOM",
+        "description": "In the early hours, proceed for a mild walking trail inside the famous Kumarakom Bird Sanctuary accompanied by a certified naturalist guide. Spot beautiful migratory birds flying across the treetops. Return to your premium stay for a lavish breakfast. The afternoon is kept completely at leisure to experience immersive wellness rituals. Indulge in an authentic, synchronized Ayurvedic spa therapy session right at the resort wellness wing.",
+        "activities": [
+          "Sightseeing Included: Kumarakom Bird Sanctuary Trail, Pathiramanal Island view.",
+          "Optional Activities: Premium traditional Ayurvedic rejuvenation massage session.",
+          "Overnight Stay: Handpicked Luxury Resort, Kumarakom.",
+          "Meals Included: Full Buffet Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KUMARAKOM TO COCHIN DEPARTURE",
+        "description": "Savor a luxurious morning breakfast overlooking the calm waters. Take a final walk around the landscaped property gardens to capture beautiful photos. Pack your bags and bid farewell to this heritage haven. Your private luxury vehicle will transfer you smoothly back to Cochin Airport for your return flight home, wrapping up an exceptional premium holiday experience.",
+        "activities": [
+          "Transfers Included: Private Comfort Airport Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Waterscapes KTDC Backwater Resort",
+        "location": "Kumarakom",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Canal View Exotic Cottage",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Aveda Resorts & Spa",
+        "location": "Kumarakom",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Lake-Facing Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Zuri Kumarakom, Kerala Resort",
+        "location": "Kumarakom",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Zuri Deluxe Lagoon View Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Kumarakom Lake Resort / Taj Kumarakom",
+        "location": "Kumarakom",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Heritage Luxury Villa with Private Pool",
+        "meal_plan": "MAP + Houseboat Lunch Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights exquisite stay at ultra-premium lakeside luxury properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily premium buffet breakfasts and 03 curated multi-cuisine gourmet dinners at the resort.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All city transfers and backwater tour circuits via a private luxury AC Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 priority concierge desk and localized operational assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Exclusive 02-Hour traditional houseboat ride with onboard local delicacies.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold-pressed aromatic oils, traditional hand-woven stoles, and premium mineral water bottles.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial/Domestic flight tickets or railway bookings.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry tickets to monuments, sanctuaries, or personal video camera passes.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Laundry charges, telephone bills, internal room orders, and tipping expenses.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any insurance plans, emergency medical coverage, or expenses caused by flight delays.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

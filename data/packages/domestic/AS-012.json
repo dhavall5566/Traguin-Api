@@ -1,0 +1,307 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-012-adventure-rafting-brahmaputra-kaziranga",
+    "serial_code": "AS-012",
+    "traguin_tour_code": "TG-ASM-ADV-012",
+    "title": "TRAGUIN Premium Assam Adventure Tour Package — Brahmaputra Rafting: Guwahati • Kaziranga • River Basin",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-012 | TRAGUIN tour code TG-ASM-ADV-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Luxury Adventure",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Kaziranga • Brahmaputra River Basin",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Thrill-Seekers, Wildlife Lovers & Corporate Retreats",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: INR 56,000/- Per Guest",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Luxury AC 4x4 All-Terrain SUV with expert tracker-chauffeur | Meal Plan: Jungle MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati ➔ Kaziranga (3N) ➔ Brahmaputra River Excursions ➔ Guwahati (2N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private secluded sand-island picnic on the Brahmaputra with custom menu.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every safari path, rafting route, and property personally vetted for safety and luxury.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Boutique accommodations balancing modern luxury with natural surroundings.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Fancy Bazar Muga silk sarees, hand-woven stoles, bamboo artifacts, Assamese fish curries.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Safaris weather-dependent; rafting depends on water levels; book properties 45-60 days ahead.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Luxury",
+      "Nature",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-012-adventure-rafting-brahmaputra-kaziranga-itinerary",
+    "title": "TRAGUIN Premium Assam Adventure Tour Package — Brahmaputra Rafting: Guwahati • Kaziranga • River Basin",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "INR 56,000/- Per Guest",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Assam Adventure • Brahmaputra Rafting • Kaziranga • 05 Nights / 06 Days",
+    "overview": "Adrenaline-infused high-end expedition through untamed Northeast India with luxury intertwined with raw wilderness.\n\nTOUR OVERVIEW\\nElite Brahmaputra Adventure: Guwahati ➔ Kaziranga (3N) ➔ River Excursions ➔ Guwahati (2N) with private rafting access and elite luxury camping amenities.\n\nWHY UNDERTAKE THE PREMIUM ASSAM ADVENTURE?\\nRhino safaris, Brahmaputra white-water rafting, Gangetic dolphins, misty Kaziranga sunrise frames, and ancient Guwahati spiritual landmarks.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-012 | Adventure Rafting Brahmaputra Kaziranga | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Assam adventure (AS-012 / TG-ASM-ADV-012): jeep safaris, Brahmaputra rafting, sand-island picnic, sunset cruise, Kamakhya VIP, 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic 4x4 drive to Kaziranga with tribal campfire Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Central and Western Range jeep safaris and Orchid Park Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Brahmaputra rafting and Gangetic dolphin spotting Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Return to Guwahati with premium sunset cruise Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Kamakhya VIP, Umananda Island, and Muga silk weaving Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Departure from wild valley Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "GUWAHATI ARRIVAL | SCENIC HIGHWAY DRIVE TO KAZIRANGA WILDLIFE RESERVE",
+        "description": "Traditional Gamosa welcome at Guwahati airport. Premium all-terrain 4x4 drive along Brahmaputra banks past tea estates to luxury wilderness lodge with open-air tribal campfire.",
+        "activities": [
+          "Sightseeing Included: Tea Estate Viewpoints, Forest Fringe Trail.",
+          "Evening Experience: Traditional Karbi tribal campfire and dinner.",
+          "Overnight Stay: Handpicked Luxury Jungle Lodge in Kaziranga.",
+          "Meals Included: Welcome Drinks & Luxury Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KAZIRANGA JUNGLE SAFARI | TRACKING THE ONE-HORNED RHINO",
+        "description": "Dawn private Central Range jeep safari tracking rhinos and buffaloes. Afternoon Western Range safari and Kaziranga Orchid National Biodiversity Park with 500+ orchid species.",
+        "activities": [
+          "Sightseeing Included: Kaziranga Jeep Safaris (Central & Western Zones), Orchid Park.",
+          "Photography Points: Kohora watchtowers overlooking sprawling water bodies.",
+          "Overnight Stay: Handpicked Luxury Jungle Lodge in Kaziranga.",
+          "Meals Included: Buffet Breakfast & Themed Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "BRAHMAPUTRA RIVER WATER ADVENTURE | RAFTING & DOLPHIN SPOTTING",
+        "description": "Premium safety gear and certified river masters guide private rafts on Brahmaputra currents with Gangetic dolphin spotting and exclusive gourmet sand-island picnic lunch.",
+        "activities": [
+          "Sightseeing Included: Brahmaputra Basin Rafting, Isolated Sand Island Exploration.",
+          "Optional Activities: Controlled river swimming, wildlife bird-watching from water channels.",
+          "Overnight Stay: Premium Riverside Boutique Property / Lodge.",
+          "Meals Included: Breakfast, Island Picnic Lunch, Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KAZIRANGA TO GUWAHATI | SUNSET CRUISE ON THE MIGHTY RIVER",
+        "description": "Morning tea plantation nature walk then return to Guwahati ultra-luxury hotel. Spectacular sunset cruise with fine local teas, appetizers, and live acoustic regional music.",
+        "activities": [
+          "Sightseeing Included: Guwahati Riverside Highway, Premium Brahmaputra Sunset Cruise.",
+          "Evening Experience: Live folk music and cultural showcase on-board.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "GUWAHATI EXPLORATION | SACRED SHRINES & GOLDEN SILK EXPEDITIONS",
+        "description": "Priority VIP Kamakhya Temple visit, private speed-boat to Umananda Temple, and silk emporium hand-weaving of Assam Muga Silk with premium orthodox high tea.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple (VIP Entry), Umananda River Island, Silk Weaving Centers.",
+          "Local Experience: High tea featuring handpicked single-estate Premium Assam Orthodox Tea.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Grand Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE | MEMORIES OF THE WILD VALLEY",
+        "description": "Final gourmet terrace breakfast and private chauffeur transfer to Guwahati International Airport with tea blends and fine silks collected along the way.",
+        "activities": [
+          "Sightseeing Included: Airport Transit Route.",
+          "Meals Included: Luxury Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Infinity Oak Forest Resort / Borgos | Kiranshree Grand / Grand Majesty",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Infinity Oak Forest Resort / Borgos (Kaziranga, 3N) | Kiranshree Grand / Grand Majesty (Guwahati, 2N) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Diphlu River Lodge (Standard) | Novotel Guwahati GS Road",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Diphlu River Lodge Standard (Kaziranga, 3N) | Novotel Guwahati GS Road (Guwahati, 2N) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Standard Cottage",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Iora Retreat / Diphlu River Luxury Cabin | Radisson Blu Hotel Guwahati",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Iora Retreat / Diphlu River Luxury Cabin (Kaziranga, 3N) | Radisson Blu (Guwahati, 2N) | Gourmet Wilderness MAP",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Cabin",
+        "meal_plan": "Gourmet Wilderness MAP",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Bespoke Luxury Glamping Safari Tents | Vivanta Guwahati (Taj Group)",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Bespoke Luxury Glamping Safari Tents (Kaziranga, 3N) | Vivanta Guwahati Taj Group (Guwahati, 2N) | Signature Full Board Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Glamping Tent",
+        "meal_plan": "Signature Full Board Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Bespoke Accommodations: Five nights at handpicked elite jungle resorts and luxury city hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Fleet Transport: Complete itinerary via private 4x4 SUV with toll fees, parking, and driver logistics.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Wilderness Dinings: 05 multi-cuisine breakfasts and 05 chef-curated premium dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support & Assistance: On-ground tracking coordinators and 24/7 dedicated telephone support.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Curated Adventure Assets: Private river rafting outfit rentals, professional guides, life jackets, and sand-island picnic.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Privileges: VIP Kamakhya Temple assistance and private boat access to Umananda Island.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Welcome drinks on arrival, traditional stoles, and complimentary Assam tea sample packs.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Air / Train Tickets: Inbound and outbound domestic or international travel tickets to Guwahati.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry Tickets: Camera fees and individual monument tickets not specified in the itinerary.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Discretionary Expenses: Premium room service, laundry services, and telephone charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance Coverage: Medical insurance or personal travel protection plans.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Optional excursions or activities not listed in the day-by-day plan.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

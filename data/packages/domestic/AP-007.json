@@ -1,0 +1,284 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-007-graceful-heritage-trail-vijayawada-vizag",
+    "serial_code": "AP-007",
+    "traguin_tour_code": "TG-AP-SL-007",
+    "title": "TRAGUIN Premium Andhra Leisure Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-007 | TRAGUIN tour code TG-AP-SL-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Senior Leisure Comfort",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Vijayawada • Amaravati • Vizag",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens & Relaxed Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Comfort & Luxury)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury SUV (Extra Comfort & Accessibility) | Meal Plan: Premium MAPAI (Easy-to-digest Breakfast & Comfort Dinners)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Vijayawada Arrival → Amaravati → Visakhapatnam (Vizag) Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Prioritized sightseeing slots to avoid crowds, easily accessible monument visits, comfortable hotel lounges, and dedicated 24/7 travel consultant.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Comfort Commitment: Manageable pacing, easy access, and professional care for every senior guest.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every resort, transport route, and driver rigorously vetted to guarantee safety and comfort.",
+        "sort_order": 11
+      },
+      {
+        "text": "Personalized Assistance: Elite travel coordinator available around the clock to manage every detail.",
+        "sort_order": 12
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties known for excellence in service and accessibility.",
+        "sort_order": 13
+      },
+      {
+        "text": "Local Immersive Experiences: Heritage Textiles (Pochampally and Dharmavaram silks), Spiritual Souvenirs, Coastal Crafts in Vizag beachfront markets.",
+        "sort_order": 14
+      },
+      {
+        "text": "Important Notes: Itinerary paced to avoid long consecutive transit hours. Advance bookings recommended 45–60 days in advance.",
+        "sort_order": 15
+      }
+    ],
+    "moods": [
+      "Leisure",
+      "Heritage",
+      "Senior",
+      "Coastal"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-007-graceful-heritage-trail-vijayawada-vizag-itinerary",
+    "title": "TRAGUIN Premium Andhra Leisure Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Comfort & Luxury)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Graceful Heritage Trail: Vijayawada • Amaravati • Vizag • 04 Nights / 05 Days",
+    "overview": "Welcome to a journey of grace, history, and tranquil beauty. The Best Andhra Pradesh Leisure Package, meticulously curated by TRAGUIN, invites our distinguished senior guests to explore the spiritual heart and coastal serenity of Andhra Pradesh.\n\nTOUR OVERVIEW\nThis customized Senior Citizen Leisure Tour offers a calm, enriching sanctuary away from the hustle of standard tourist circuits. Experience personalized handling, private luxury transport, and handpicked premium properties known for their comfort and accessibility.\n\nWHY CHOOSE THE PREMIUM ANDHRA LEISURE TRAIL?\nIconic Attractions include Amaravati Stupa, Prakasam Barrage, Vijayawada temples, and Vizag coastlines. Best Time to Visit: October to March provides the most pleasant weather.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-007 | Premium Andhra Leisure Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Andhra leisure package (AP-007 / TG-AP-SL-007): Vijayawada, Amaravati Stupa, Vizag coastline, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Kanaka Durga Temple and Bhavani Island boat ride in Vijayawada",
+        "sort_order": 1
+      },
+      {
+        "text": "Amaravati Stupa, Archaeological Site Museum, and Prakasam Barrage viewpoint",
+        "sort_order": 2
+      },
+      {
+        "text": "Scenic coastal drive and lounge time overlooking the Bay of Bengal in Vizag",
+        "sort_order": 3
+      },
+      {
+        "text": "INS Kursura Submarine Museum, TU 142 Aircraft Museum, and Kailasagiri Hill ropeway",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Comfort Commitment: Manageable pacing and professional care for senior guests",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VIJAYAWADA — ARRIVAL & SPIRITUAL SERENITY",
+        "description": "Your graceful journey begins as you arrive in Vijayawada. Your dedicated TRAGUIN private chauffeur welcomes you with traditional hospitality and signature care. Transfer comfortably to your premium, handpicked hotel. After a smooth check-in and a relaxed lunch, visit the peaceful Kanaka Durga Temple, perched on the Indrakeeladri hill. In the late afternoon, enjoy a quiet, scenic boat ride to Bhavani Island, where lush greenery and the gentle flow of the Krishna River provide a soothing, meditative atmosphere.",
+        "activities": [
+          "Sightseeing Included: Kanaka Durga Temple, Bhavani Island boat ride.",
+          "Evening Experience: Peaceful riverside evening spent in comfortable ambient surroundings.",
+          "Meals Included: Welcome Drink, Refreshments, & Comfort Dinner.",
+          "Overnight Stay: Premium Comfort Hotel, Vijayawada."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AMARAVATI — ANCIENT HERITAGE AT A GENTLE PACE",
+        "description": "Savor a relaxed breakfast before a smooth, comfortable drive toward the historic Buddhist seat of Amaravati. Explore the magnificent Amaravati Stupa, a UNESCO-worthy architectural marvel featuring intricate stone relief carvings. Spend time in the site museum to admire the rich history of the Buddhist tradition in Andhra. Return to Vijayawada by late afternoon, allowing time to unwind in your hotel lounge.",
+        "activities": [
+          "Sightseeing Included: Amaravati Stupa, Archaeological Site Museum, Prakasam Barrage viewpoint.",
+          "Evening Experience: Leisurely time in the hotel lounge followed by a healthy, comforting dinner.",
+          "Meals Included: Breakfast & Comfort Dinner.",
+          "Overnight Stay: Premium Comfort Hotel, Vijayawada."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "VIJAYAWADA TO VISAKHAPATNAM — COASTAL TRANSITIONS",
+        "description": "After a leisurely morning breakfast, enjoy a comfortable, scenic drive toward the coastal city of Visakhapatnam with full assistance for baggage and comfort needs. Upon arrival in Vizag, settle into your premium beachfront hotel. In the late afternoon, take a relaxed drive along the coastal road and spend a quiet hour in a premium lounge overlooking the Bay of Bengal.",
+        "activities": [
+          "Sightseeing Included: Scenic coastal drive, brief overview of the Vizag coastline.",
+          "Evening Experience: Relaxed lounge time overlooking the Bay of Bengal.",
+          "Meals Included: Breakfast & Comfort Dinner.",
+          "Overnight Stay: Premium Beachfront Hotel, Visakhapatnam."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "VISAKHAPATNAM — COASTAL SERENITY & CULTURAL IMMERSION",
+        "description": "Today's Vizag Sightseeing is curated for comfort. Visit the INS Kursura Submarine Museum and the nearby TU 142 Aircraft Museum. The afternoon is kept free for your leisure. In the late afternoon, take a slow drive up to Kailasagiri Hill via the accessible ropeway, offering expansive, gentle views of the sea and city. Conclude your day with a special farewell dinner at your hotel.",
+        "activities": [
+          "Sightseeing Included: Submarine Museum, Kailasagiri Hill, coastal view points.",
+          "Evening Experience: Farewell dinner in a comfortable setting at your hotel.",
+          "Meals Included: Breakfast, Light Afternoon Refreshments, & Farewell Dinner.",
+          "Overnight Stay: Premium Beachfront Hotel, Visakhapatnam."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE — A GRACEFUL FAREWELL",
+        "description": "Share a beautiful final morning breakfast by the sea. Take a gentle morning walk on the beach or sit by the resort garden, savoring the peaceful final hours of your holiday. Complete your check-out with our assistance and meet your private chauffeur for your smooth transfer back to the Airport or Railway Station.",
+        "activities": [
+          "Sightseeing Included: Departure transfer via your private luxury vehicle.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Gateway Hotel (Standard)",
+        "location": "Vijayawada / Visakhapatnam",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Gateway Hotel (Standard) (Comfort Room)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Comfort Room",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Varun Beach (Superior)",
+        "location": "Visakhapatnam",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Varun Beach (Superior) (Sea View Room)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Sea View Room",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Varun Beach (Executive)",
+        "location": "Visakhapatnam",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Novotel Varun Beach (Executive) (Luxury Ocean Suite)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Ocean Suite",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Park Visakhapatnam",
+        "location": "Visakhapatnam",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Park Visakhapatnam (Royal Ocean Suite)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Ocean Suite",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights luxury accommodation at handpicked premium hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily breakfast and chef-curated comfort dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury SUV (Innova Crysta or equivalent) dedicated to your party throughout the tour.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Concierge Assistance: Dedicated support from our holiday specialists to ensure comfort and ease at every site.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 travel consultant access for all small needs, and all tolls, parking, and fuel costs included.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Main Transport: Any commercial flight or railway tickets to/from Andhra Pradesh.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument Fees: Individual entry tickets and camera fees.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, medical costs, premium alcoholic drinks, and tips for local staff.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Extras: Any tours not explicitly listed in the inclusions.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

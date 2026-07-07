@@ -1,0 +1,285 @@
+{
+  "destination_slug": "puducherry",
+  "package": {
+    "slug": "py-009-premium-puducherry-family-beach-holiday",
+    "serial_code": "PY-009",
+    "traguin_tour_code": "TG-PY-FAM-009",
+    "title": "Premium Puducherry Family Beach Holiday",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PY-009 | TRAGUIN tour code TG-PY-FAM-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Puducherry, India | Category: Luxury Family Beach Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: White Town • Paradise Beach • Serenity Beach • Auroville",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Multi-generational Groups, Leisure Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium Private Air-Conditioned Multi-Utility Vehicle (Innova Crysta / Luxury Traveler)",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Breakfast & Curated Family Dinners (French-Indo Fusion Gastronomy Options)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Chennai International Airport Arrival → Puducherry French Quarter → Auroville → Paradise Beach → Return Transfer",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family cycling tour through the quiet lanes of the French Quarter at sunrise with safety gears.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Selective dining partners ensuring premium hygiene and distinct child-friendly meal variations.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Shopping Highlights: Auroville boutique soaps, hand-rolled candles, and fine leather goods.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Advance Booking Suggestion: Due to high peak seasonal demand within the boutique heritage hotels of White Town, family suites must be reserved 45–60 days in advance. Dress Code Notice: When visiting the Aurobindo Ashram or the Matrimandir pavilion area, conservative clothing covering shoulders and knees is highly recommended. Weather Advice: Light cotton clothing, sunscreen lotions, and wide hats are optimal for day excursions.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Beach",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "py-009-premium-puducherry-family-beach-holiday-itinerary",
+    "title": "Premium Puducherry Family Beach Holiday",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium Puducherry Family Beach Holiday • 04 Nights / 05 Days",
+    "overview": "Welcome to the French Riviera of the East. This meticulously designed Luxury Puducherry Holiday curated by TRAGUIN is expertly crafted for family vacations, offering seamless transitions, immersive experiences, and a beautiful blend of heritage and coastal leisure. Walk past pastel colonial mansions, witness breathtaking landscapes over the azure Bay of Bengal, and create unforgettable memories within our handpicked hotels. Relish premium stays that provide exceptional comfort, bespoke children's activities, and elite family-oriented hospitality.\n\nTOUR OVERVIEW\nVehicle Type: Premium Private Air-Conditioned Multi-Utility Vehicle (Innova Crysta / Luxury Traveler)\nMeal Plan: Breakfast & Curated Family Dinners (French-Indo Fusion Gastronomy Options)\nRoute Plan: Chennai International Airport Arrival → Puducherry French Quarter → Auroville → Paradise Beach → Return Transfer\n\nCurated Note:\nThis premium TRAGUIN Puducherry Package features a privately guided architecture trail of White Town, VIP priority speed-boat charters to Paradise Beach, and pre-arranged family passes for a relaxed, stress-free journey.\n\nPuducherry is widely recognized as India's premier coastal sanctuary for cultural fusion, making it a highly searched option for a Best Puducherry Tour Package or a relaxing Puducherry Family Tour. Famous for its colonial French architecture, spiritual retreats, and golden sand beaches, it promises a pristine multi- generational getaway.\nWhite Town (French Quarter): A historic enclave filled with mustard-walled villas, bougainvillea-shaded avenues, and artisanal boutiques—the absolute finest location for family photography.\nParadise Beach: Accessible via a scenic backwater cruise, it offers isolated, clean golden sands, perfect for family beach sports and water recreation.\nTop Tourist Places in Puducherry: Features the famous Promenade Beach, Aurobindo Ashram, Matrimandir viewpoint, and the sacred Sacred Heart Basilica.\nBest Time to Visit Puducherry: The pleasantly refreshing coastal months from October to March present an optimal climate for comprehensive, sun-kissed Puducherry Sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PY-009 | Premium Puducherry Family Beach Holiday | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Puducherry family beach package (PY-009 / TG-PY-FAM-009): White Town, Paradise Beach, Serenity Beach, Auroville, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "East Coast Road drive, Promenade Beach Walk, and French Quarter orientation",
+        "sort_order": 1
+      },
+      {
+        "text": "French Quarter heritage trail, Sri Aurobindo Ashram, and private family croissant baking masterclass",
+        "sort_order": 2
+      },
+      {
+        "text": "Chunnambar Backwaters priority speedboat charter and Paradise Beach luxury excursion",
+        "sort_order": 3
+      },
+      {
+        "text": "Auroville Matrimandir Viewing Pavilion and Serenity Beach Pier sunset",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family cycling tour through French Quarter at sunrise",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Chennai to Puducherry – Scenic East Coast Road Drive & French Quarter Check-In",
+        "description": "Your premium family vacation begins with a warm greeting by your private chauffeur at Chennai Airport. Embark on a spectacular drive along the scenic East Coast Road (ECR), catching glimpses of the sparkling ocean. Arrive in Puducherry and check into your handpicked luxury heritage hotel in White Town. Spend a relaxing afternoon settling in. As dusk sets, enjoy an immersive stroll down the beachfront Promenade, feeling the cool sea breeze while viewing the iconic Mahatma Gandhi statue.",
+        "activities": [
+          "Sightseeing Included: East Coast Road Drive, Promenade Beach Walk, French Quarter Orientation",
+          "Welcome Amenities: Personalized welcome drinks, a traditional box of French macarons, and custom kids' welcome activity kits.",
+          "Overnight Stay: Puducherry French Quarter (Premium Luxury Heritage Hotel)",
+          "Meals Included: Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "French Quarter Heritage Trail, Cycling & Experiential Gastronomy",
+        "description": "Savor a delightful gourmet morning breakfast. Today, a private architecture historian leads your family on a highly curated walking or cycling trail across the grid-patterned streets of White Town. Admire the stunning blend of European architecture and traditional Tamil courtyards. Visit the serene Sri Aurobindo Ashram, followed by the majestic Notre Dame des Anges church. In the afternoon, partake in a private family baking masterclass at an artisanal French patisserie.",
+        "activities": [
+          "Sightseeing Included: Sri Aurobindo Ashram, Notre Dame Church, French Quarter Architectural Mansions",
+          "Exclusive Experience: 1-Hour Private Family Croissant & Pastry Baking Session with an expert pastry chef.",
+          "Overnight Stay: Puducherry French Quarter",
+          "Meals Included: Breakfast & Family Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Paradise Beach Backwater Cruise & Golden Sand Retreat",
+        "description": "Following a refreshing premium breakfast, drive comfortably to Chunnambar Eco-Cruises. Board a private, priority speedboat charter arranged exclusively by TRAGUIN through the lush mangrove-lined backwaters. Step onto the pristine shores of Paradise Beach. Spend a beautiful day enjoying your family holiday—build sandcastles with the children, relax under luxury beach shacks, or engage in safe water sports under professional guidance.",
+        "activities": [
+          "Sightseeing Included: Chunnambar Backwaters, Paradise Beach Luxury Excursion",
+          "Photography Points: The sweeping sandy coastlines and turquoise waves of Paradise Beach during midday sun.",
+          "Overnight Stay: Puducherry Beachfront Resort Base",
+          "Meals Included: Breakfast & Beachfront Seafood Barbecue Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Auroville Spiritual Eco-Walk & Serenity Beach Sunset",
+        "description": "Wake up to the breathtaking landscapes of the coast. Today, journey on a brief drive to the international township of Auroville. Walk through the peaceful forest paths to reach the viewing pavilion overlooking the magnificent golden globe of the Matrimandir. Learn about this sustainable community model together. In the late afternoon, head to Serenity Beach to watch local surfers and catch a glorious sunset from the rocky pier.",
+        "activities": [
+          "Sightseeing Included: Auroville International Township, Matrimandir Viewing Pavilion, Serenity Beach Pier",
+          "Food Suggestion: Wood-fired organic sourdough pizzas at Auroville's famous open-air cafes.",
+          "Overnight Stay: Puducherry Beachfront Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Souvenir Shopping & Comfortable Return Transfer to Chennai",
+        "description": "Indulge in a late breakfast at your resort patio. Spend your morning shopping for premium hand-made paper items, local terracotta art, organic aromatic oils, and chic resort wear. Your private premium vehicle will then transfer you comfortably back along the ECR to Chennai International Airport. Your magical Premium Puducherry Experience concludes here, leaving your family with beautiful stories and unforgettable memories to treasure forever.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Shopping Highlights: Auroville boutique soaps, hand-rolled candles, and fine leather goods."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Atithi / Ocean Spray Residency",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Atithi / Ocean Spray Residency (Standard Comfort Room)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Comfort Room",
+        "meal_plan": "Breakfast & Family Dinners",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Maison Perumal - CGH Earth / Gratitude Heritage",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Maison Perumal - CGH Earth / Gratitude Heritage (Premium Heritage Room)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Heritage Room",
+        "meal_plan": "Breakfast & Family Dinners",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Villa Shanti / Radisson Resort Pondicherry Bay",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Villa Shanti / Radisson Resort Pondicherry Bay (Executive Interconnected Family Rooms)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Interconnected Family Rooms",
+        "meal_plan": "Breakfast & Family Dinners",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Palais de Mahé - CGH Earth / InterContinental Resort ECR",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Palais de Mahé - CGH Earth / InterContinental Resort ECR (Luxury Family Suite)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Family Suite",
+        "meal_plan": "Breakfast & Family Dinners",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Handpicked family-friendly premium accommodations.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily buffet breakfast & curated gourmet family dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury AC Innova Crysta for all airport transfers & local touring.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private priority speedboat charter for the Paradise Beach tour.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary family pastry baking experience pass.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 localized operational and guest TRAGUIN Support.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All luxury state entry permits, toll fees, and driver allowances.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or national railway train tickets to Chennai.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional camera entry tickets at heritage monuments.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry expenditures, phone calls, or alcoholic drinks.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any comprehensive medical or travel insurance policies.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

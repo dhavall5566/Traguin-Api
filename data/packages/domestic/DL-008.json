@@ -1,0 +1,268 @@
+{
+  "destination_slug": "delhi",
+  "package": {
+    "slug": "dl-008-delhi-shopping-tour",
+    "serial_code": "DL-008",
+    "traguin_tour_code": "TRG-DEL-008",
+    "title": "Delhi Shopping Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DL-008 | TRAGUIN tour code TRG-DEL-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Delhi / India | Category: Premium Family Shopping Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Connaught Place • Chandni Chowk • Khan Market • Dilli Haat • South Extension",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Connoisseurs, Fashion Seekers & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Shopping Weather)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Tailor-made Luxury Plan)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Connaught Place & Khan Market → Chandni Chowk & Emporio → Dilli Haat & South Extension → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family insider guide map highlighting famous antique shops and hidden silk stores.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Perfect route management ensuring seamless pick-up and drop-offs at busy market entries.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Chandni Chowk bridal couture; Khan Market lifestyle; Dilli Haat silver jewelry, tribal arts, pashminas.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs; markets closed Sun/Mon may adjust schedule; book 30 days ahead.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Shopping",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "dl-008-delhi-shopping-tour-itinerary",
+    "title": "Delhi Shopping Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Tailor-made Luxury Plan)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Delhi Shopping Tour • Ultimate Retail Luxury Escape",
+    "overview": "Welcome to a shopping extravaganza crafted meticulously by TRAGUIN. This exclusive Delhi Family Tour opens the doors to the finest high-end boutiques, legendary heritage bazaars, and contemporary haute couture hubs. As your premier luxury travel consultants, TRAGUIN ensures your experience is enhanced with premium stays, seamless transfers, and deep local insight. Immerse yourselves in the vivid colors and premium retail layers of India's capital city, transforming your holiday into a series of beautiful, unforgettable memories.\n\nTOUR OVERVIEW\nThis elite corporate presentation style itinerary is thoughtfully designed for family groups seeking a perfect blend of high-end indulgence and historic charm. Traveling inside a private luxury SUV alongside a highly experienced, professional uniform-clad chauffeur, you will easily glide past metropolitan traffic. With customized lunch maps and pre-reserved tables at world-class restaurants, your days remain structured and perfectly balanced. Every moment includes a unique TRAGUIN curated experience note, ensuring complete comfort, priority assistance, and personalized shopping guides.\n\nWHY CHOOSE THE BEST DELHI TOUR PACKAGE?\nWhen shortlisting a Luxury Delhi Holiday, a passionate traveler seeks a flawless balance between historical depth and absolute comfort. Delhi stands proudly as India's ultimate retail capital, making a premium Delhi Shopping Tour an exceptional choice for families and bridal look seekers. From exploring the labyrinthine lanes of Old Delhi's historic spice markets to navigating the sophisticated rows of globally praised designer showrooms, Delhi sightseeing unfolds a marvelous story of trade and artistry. For discerning couples or larger groups picking out a customized Delhi Honeymoon Package or Delhi Family Tour, the city highlights extremely popular Instagram locations such as Sunder Nursery, the elegant arches of Connaught Place, and the colorful artisan stalls of Dilli Haat. Discover intricate traditional wedding jewelry, buy magnificent Kashmiri shawls, or treat your family to iconic fine dining. Our signature TRAGUIN Delhi Packages promise handpicked hotels, highly exclusive experiences, and refined assistance during the best time to visit Delhi.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DL-008 | Delhi Shopping Tour Premium Retail Escape | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Delhi shopping package (DL-008 / TRG-DEL-008): Connaught Place, Chandni Chowk, DLF Emporio, Dilli Haat, South Extension, and 4-tier luxury accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Connaught Place inner circle & Khan Market on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Chandni Chowk, Dariba Kalan, Kinari Bazaar & DLF Emporio on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Dilli Haat craft village & South Extension couture on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Final souvenir shopping & departure on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private insider guide map for antique shops and silk stores",
+        "sort_order": 5
+      },
+      {
+        "text": "Personalized Assistance: Package management and delivery coordination support",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Heritage Chic | Connaught Place & Emerald Khan Market Lounging",
+        "description": "Your premium journey starts the moment you land, with a warm greeting at New Delhi Airport by a personal chauffeur-driven luxury vehicle. After checking into your premium handpicked hotel, drive down the wider boulevard lines toward Connaught Place—a beautiful colonial-era masterpiece of white arches and premium luxury boutiques. Spend your late afternoon browsing premium Indian labels at Khan Market, a globally renowned high street. Enjoy excellent opportunities for vintage photography, or unwind at a luxury artisan café.",
+        "activities": [
+          "Sightseeing Included: Connaught Place inner circle, Khan Market high-end lifestyle stroll.",
+          "Evening Experience: A welcome dinner and curated orientation session hosted inside a premium heritage lounge.",
+          "Overnight Stay: New Delhi (Ultra Luxury Hotel Option).",
+          "Meals Included: Welcome Drink & Fine-Dining Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Couture & Old World Charm | Chandni Chowk Royal Bazaars & Emporio Luxury",
+        "description": "Indulge in a magnificent breakfast before experiencing the old-world majesty of Old Delhi. Travel by private, eco-friendly luxury cycle-rickshaws through the lanes of Chandni Chowk, Dariba Kalan (The Street of Silver), and Kinari Bazaar. Witness dazzling wedding couture and traditional embroideries. In the afternoon, shift to the modern world at DLF Emporio mall in Vasant Kunj—India's primary temple of international luxury brands and master Indian couturiers.",
+        "activities": [
+          "Sightseeing Included: Chandni Chowk, Spice Market overlooks, DLF Emporio Luxury Pavilion.",
+          "Food Suggestions: Savor legendary Mughlai delicacies or experience highly elevated modern Indian street food.",
+          "Overnight Stay: New Delhi (Ultra Luxury Hotel Option).",
+          "Meals Included: Premium Breakfast & Crafted Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Ethnic Masterpieces & High Fashion | Dilli Haat Artisans & South Extension Couture Spree",
+        "description": "Dedicate your morning to the scenic beauty and vibrant craft stalls of Dilli Haat, an open-air food and craft plaza. Handpicked by TRAGUIN experts for its cultural richness, you can purchase authentic pashmina shawls, rosewood carvings, and silk sarees directly from national award-winning master weavers. In the afternoon, explore South Extension or Greater Kailash markets to browse stunning jewelry galleries and premium designer studios.",
+        "activities": [
+          "Sightseeing Included: Dilli Haat craft village, South Extension couture high street.",
+          "Photography Points: Vibrant handicraft stalls and beautiful architectural backgrounds of South Delhi.",
+          "Overnight Stay: New Delhi (Ultra Luxury Hotel Option).",
+          "Meals Included: Premium Breakfast & Special Celebration Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure with Treasures | Souvenir Finals & Farewell Transfers",
+        "description": "Enjoy a final luxury breakfast at your hotel. Spend your morning at leisure collecting last-minute boutique souvenirs or fine teas. Your private luxury transport will safely drive you to New Delhi Airport or the railway station for your onward journey. Return home carrying premium treasures and unforgettable memories designed beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private door-to-door luxury airport terminal drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Plaza / Vivanta Dwarka / similar",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Radisson Blu Plaza / Vivanta Dwarka / similar | Superior Executive Room | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Eros Hotel Nehru Place / Hyatt Regency",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: The Eros Hotel Nehru Place / Hyatt Regency | Premium City View Room | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium City View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Mahal Hotel (Mansingh Road) / ITC Maurya",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Taj Mahal Hotel (Mansingh Road) / ITC Maurya | Luxury Heritage Club Room | MAPAI + Executive Lounge Access",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Club Room",
+        "meal_plan": "MAPAI + Executive Lounge Access",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace New Delhi / The Oberoi New Delhi",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Leela Palace New Delhi / The Oberoi New Delhi | Grand Deluxe Royal Suite | Bespoke Gourmet Dine-around MAPAI",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Deluxe Royal Suite",
+        "meal_plan": "Bespoke Gourmet Dine-around MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights accommodation in selected elite properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Chauffeur-driven luxury vehicle for all routing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily breakfasts and fine dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated concierge desk on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family luxury welcome kit and shopping map.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private heritage rickshaw ride through Chandni Chowk bazaars.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight upgrades, or long-distance train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Direct purchases, shopping bills, and tailoring charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, commercial video permissions, camera fees.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, or tips.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

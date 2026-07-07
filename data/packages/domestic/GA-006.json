@@ -1,0 +1,254 @@
+{
+  "destination_slug": "goa",
+  "package": {
+    "slug": "ga-006-north-south-goa-highlights",
+    "serial_code": "GA-006",
+    "traguin_tour_code": "TRG-GOA-006",
+    "title": "TRAGUIN Premium Goa Tour Package — North & South Goa Highlights",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GA-006 | TRAGUIN tour code TRG-GOA-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Goa / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: North Goa (Calangute, Baga,",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Luxury Explorers & Multi- Generational Getaways",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Family Rates)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury AC",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private walking tour through the Portuguese houses of Fontainhas with",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing avoiding crowded peak hours to maximize family",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected specifically for high safety ratings, private",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Professional, uniform-clad, background-verified chauffeurs with absolute route",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Explore the vibrant Anjuna Flea Market or Panaji markets to buy authentic Goan cashews, local Feni, hand-painted Azulejos ceramic tiles, and premium cotton resort wear. Cafes & Food: Indulge in traditional Bebinca desserts, fresh prawn balchão, and elite wood-fired artisan pizzas across legendary seaside cafes in Candolim and Assagao.",
+        "sort_order": 12
+      },
+      {
+        "text": "Hotel Policies: Standard check-in is at 14:00 hrs and check-out is at 11:00 hrs. Valid original photo IDs",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Beach",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ga-006-north-south-goa-highlights-itinerary",
+    "title": "TRAGUIN Premium Goa Tour Package — North & South Goa Highlights",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Family Rates)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "North & South Goa Highlights",
+    "overview": "LUXURY Welcome to a glorious tropical escape beautifully customized by TRAGUIN. Experience the absolute Best Goa Tour Package designed to combine coastal leisure with cultural discovery. As your trusted luxury travel consultants, TRAGUIN ensures your family receives a truly premium Goa experience. From the golden sands and thrilling waters of North Goa to the colonial heritage and pristine serenity of South Goa, our handpicked hotels and exclusive experiences promise to fill your holiday with sweet, unforgettable memories.\n\nTOUR OVERVIEW\nThis premium travel itinerary is skillfully framed for families looking to balance relaxation with immersive exploration. Travelling in a dedicated, high-end private AC vehicle with professional assistance, you will avoid all local transit hassles. With an elite meal plan comprising lavish breakfasts and curated dinners, the route offers a comprehensive showcase of Goa's iconic attractions. Your journey includes an exceptional TRAGUIN curated experience note—bringing you private cruise bookings, verified safe beach excursions, and uncompromised comfort from arrival to departure.\n\nWHY CHOOSE THE BEST GOA TOUR PACKAGE?\nWhen exploring options for a Luxury Goa Holiday, families seek an seamless merger of pristine beachfronts, local history, and high-quality dining. Goa stands as India's ultimate leisure getaway, making a Goa Family Tour or a dedicated Goa Honeymoon Package the perfect recipe for a blissful vacation. From exploring the historic ramparts of Fort Aguada to walking through the massive Portuguese-era cathedrals of Old Goa, Goa sightseeing offers something deeply magical for every generation. For families and lifestyle enthusiasts, the state reveals highly popular Instagram locations like Fontainhas (the Latin Quarter of Panaji), the vibrant beach shacks of Baga, and stunning sunset viewpoints across Dona Paula. Whether your family is looking to indulge in authentic Goan seafood curry, experience water adventures, or browse local night flea markets, our signature TRAGUIN Goa Packages provide curated exclusive experiences and premium stays during the best time to visit Goa.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GA-006 | Goa | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Goa package (GA-006 / TRG-GOA-006): North Goa (Calangute, Baga,.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GOA - NORTH GOA LEISURE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: NORTH GOA SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SOUTH GOA HERITAGE & MANDOVI RIVER CRUISE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: DEPARTURE FROM GOA",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GOA - NORTH GOA LEISURE",
+        "description": "WELCOME TO INDIA'S COASTAL PARADISE – SUNSET & SERENITY Your luxury Goa holiday begins as your flight lands at MOPA / Dabolim Airport or your train arrives at Madgaon station. A private luxury transport vehicle arranged by TRAGUIN will receive you with premium welcome amenities. Drive through winding lanes flanked by coconut palms to check into your handpicked premium resort. Spend a relaxed afternoon by the pool before heading out to Calangute or Baga beach in the evening to witness a glorious tropical sunset, accompanied by lively music and ambient beachside dining suggestions.",
+        "activities": [
+          "Sightseeing Included: Baga Beachfront, Calangute Promenade leisure walk.",
+          "Evening Experience: Complimentary beach shack dinner orientation and luxury resort downtime.",
+          "Overnight Stay: North Goa (Premium / Luxury Beachfront Resort)",
+          "Meals Included: Welcome Drink & Luxury Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "NORTH GOA SIGHTSEEING",
+        "description": "HISTORIC FORTS, SENSATIONAL BEACHES & WATER ADVENTURES Awake to the soothing sound of ocean waves and enjoy a lavish breakfast. Today, delve into an extensive North Goa sightseeing tour. Visit the iconic 17th-century Fort Aguada, where the historic lighthouse offers sweeping views of the Arabian Sea—a highly rated photography point. Proceed to Sinquerim Beach for optional premium water sports, and later explore Anjuna Beach and Vagator Beach, framed by dramatic red cliffs. End the evening exploring high-end beachside cafes or enjoying local boutique shopping.",
+        "activities": [
+          "Sightseeing Included: Fort Aguada, Sinquerim Beach, Anjuna Beach, Vagator Beach, Chapora Fort viewpoint.",
+          "Optional Activities: Premium speed-boating, parasailing, or private jet-skiing with certified instructors.",
+          "Overnight Stay: North Goa (Premium / Luxury Beachfront Resort)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SOUTH GOA HERITAGE & MANDOVI RIVER CRUISE",
+        "description": "COLONIAL SPLENDOUR, OLD GOA CATHEDRALS & LATIN QUARTERS Following a rich buffet breakfast, travel southward to experience the cultural heart of the state. Explore Old Goa, visiting the UNESCO World Heritage site Basilica of Bom Jesus, which houses the sacred remains of St. Francis Xavier, and the grand Se Cathedral. Next, visit the beautiful, colorful Latin Quarter of Fontainhas in Panaji—a spectacular popular Instagram location. In the evening, step aboard an exclusive Mandovi River sunset cruise featuring traditional Goan folk dances and music.",
+        "activities": [
+          "Sightseeing Included: Basilica of Bom Jesus, Se Cathedral, Fontainhas Latin Walk, Miramar Beach, Dona Paula.",
+          "Evening Experience: Reserved seating on the Mandovi River Scenic Cruise with sunset photography assistance.",
+          "Overnight Stay: North/South Goa Luxury Resort",
+          "Meals Included: Premium Breakfast & Farewell Special Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DEPARTURE FROM GOA",
+        "description": "CHERISHING THE TRAGUIN TROPICAL MEMORIES Indulge in your final morning breakfast at the resort's open-air restaurant. Take a final stroll along the sandy shores to collect sea shells with the family. As per your travel schedule, your private luxury transport vehicle will transfer you comfortably to MOPA/Dabolim Airport or Madgaon station for your return journey. Depart with a sun-kissed tan, re-energized spirits, and unforgettable memories carefully designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Novotel Goa Candolim / Fairfield by Marriott / similar",
+        "location": "North Goa (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Novotel Goa Candolim / Fairfield by Marriott / similar (North Goa (3 Nights)) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Garden View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "DoubleTree by Hilton Panaji / Hyatt Centric Candolim",
+        "location": "North Goa (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: DoubleTree by Hilton Panaji / Hyatt Centric Candolim (North Goa (3 Nights)) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Pool View Balcony Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Fort Aguada Resort & Spa / W Goa (Vagator)",
+        "location": "North Goa (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Fort Aguada Resort & Spa / W Goa (Vagator) (North Goa (3 Nights)) | Bespoke MAPAI Plan",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Sea View Room",
+        "meal_plan": "Bespoke MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Goa / Taj Exotica Resort & Spa (Benaulim)",
+        "location": "North Goa (3 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Leela Goa / Taj Exotica Resort & Spa (Benaulim) (North Goa (3 Nights)) | VVIP Custom Dining Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Luxury Plunge Pool Villa Suite",
+        "meal_plan": "VVIP Custom Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight bookings, or mainline train tickets",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "to Goa.",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports equipment rentals or activity hiring",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "charges.",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "calls, drinks, or tips.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Any monument entry fees, local guide charges, or",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "camera permits.",
+        "sort_order": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-003-leisure-chandigarh-senior-citizen-package",
+    "serial_code": "CH-003",
+    "traguin_tour_code": "TRG-CHD-003",
+    "title": "Leisure Chandigarh • Serenity, Accessibility & Sophistication Senior Citizen Package",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-003 | TRAGUIN tour code TRG-CHD-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Senior Citizen Special — Leisure & Comfort",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh (Leisure Chandigarh Exploration)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens, Family Groups & Relaxation Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Spring/Winter Weather)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Fully-Assisted Customization)",
+        "sort_order": 6
+      },
+      {
+        "text": "Luxury private AC Sedan/Innova / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: slow-paced daily plan avoiding early morning rushes or late-night fatigue",
+        "sort_order": 8
+      },
+      {
+        "text": "Shopping: Phulkari shawls, dupattas, premium dry fruits, organic wellness remedies",
+        "sort_order": 9
+      },
+      {
+        "text": "Travel note: wheelchair requirements must be requested at booking; book 30 days ahead for accessible suites",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Senior",
+      "Leisure",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-003-leisure-chandigarh-senior-itinerary",
+    "title": "Leisure Chandigarh • Serenity, Accessibility & Sophistication Senior Citizen Package",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Fully-Assisted Customization)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Leisure Chandigarh • Serenity, Accessibility & Sophistication",
+    "overview": "Welcome to an exquisitely paced luxury experience proudly conceptualized by TRAGUIN. This bespoke Chandigarh Senior Citizen Package has been purposefully engineered for multi-generational families and seniors seeking a gentle, slow-travel immersion. Bask in the scenic beauty of India's most beautifully planned urban landscape. From wide, smooth tree-lined avenues to tranquil botanical havens, TRAGUIN transforms your vacation into a premium Chandigarh experience characterized by handpicked hotels, step-free access, wheelchair assistance upon request, and deeply heartfelt hospitality.\n\nCrafted with meticulous attention to comfort, physical ease, and relaxation, this Leisure Chandigarh holiday minimizes long walking distances and completely removes hurried timelines. Travel comfortably in a private, spacious luxury vehicle accompanied by a dedicated, courteous chauffeur trained to assist senior travelers. Stay in handpicked hotels known for premium elevators, accessible layouts, and peaceful soundscapes.\n\nWhy book the best Chandigarh tour package for seniors? Chandigarh stands out as a prime destination because of its immaculate planning, wide roads, and beautiful green lungs. It features top tourist places including the tranquil waters of Sukhna Lake and the world-renowned Rose Garden, which offer paved walkways and ample resting benches perfect for a relaxed stroll.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-003 | Leisure Chandigarh Senior Citizen Package | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days senior-friendly Chandigarh package (CH-003 / TRG-CHD-003): accessible Rose Garden, Sukhna Lake sunset cruise, Rock Garden, Government Art Museum, Sector 17, and 4-tier accessible hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Le Corbusier Architectural Boulevard Drive & Open Hand Monument",
+        "sort_order": 1
+      },
+      {
+        "text": "Rose Garden flat trail & Sukhna Lake private sunset boat cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Rock Garden accessible paved loop",
+        "sort_order": 3
+      },
+      {
+        "text": "Government Museum and Art Gallery with elevator access",
+        "sort_order": 4
+      },
+      {
+        "text": "Sector 17 Heritage Hub premium shopping",
+        "sort_order": 5
+      },
+      {
+        "text": "Pre-screened hotel rooms allocated close to elevators",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh — Gentle Reception & Urban Serenity",
+        "description": "Your premium Chandigarh experience begins with a warm welcome at Chandigarh Airport or Railway Station, where your private, air-conditioned luxury vehicle awaits. Enjoy a smooth transfer to your premium handpicked hotel, featuring seamless check-in assistance organized by TRAGUIN experts. Spend your afternoon resting in your peaceful suite. In the evening, enjoy a panoramic, low-speed drive along the tree-lined avenues of the high-end Capitol Complex area, ending with an accessible dinner layout at your hotel.",
+        "activities": [
+          "Sightseeing Included: Le Corbusier Architectural Boulevard Drive, Open Hand Monument photo-stop",
+          "Evening Experience: Bespoke welcome dinner with soft ambient background music",
+          "Overnight Stay: Chandigarh (Premium / Luxury Handpicked Hotel)",
+          "Meals Included: Welcome Drink & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Botanical Wonders & Sunset Cruise — Sukhna Lake & Rose Garden",
+        "description": "Start your day with a relaxed breakfast. Head out for a morning visit to the Zakir Hussain Rose Garden, Asia's largest botanical garden of its kind. Paved flat pathways make walking effortless amidst thousands of blooming roses. After a refreshing lunch, proceed to the iconic Sukhna Lake. TRAGUIN has arranged a private, gentle sunset boat cruise, allowing you to absorb the breathtaking landscapes of the Shivalik hills without any physical exertion.",
+        "activities": [
+          "Sightseeing Included: Rose Garden flat trail, Sukhna Lake Promenade, Shivalik Vista point",
+          "Exclusive Experiences: Private, easily accessible pontoon/boat ride at Sukhna Lake during sunset",
+          "Overnight Stay: Chandigarh (Premium / Luxury Handpicked Hotel)",
+          "Meals Included: Premium Breakfast & Nutritious Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Heritage Crafts & Nek Chand's Legacy — Art & Heritage Shopping",
+        "description": "Following breakfast, explore the world-renowned Rock Garden. A designated accessible route allows you to observe Nek Chand's fascinating sculptures made from recycled porcelain and glass. Spend your afternoon at the Government Museum and Art Gallery, which offers full elevator access and holds spectacular Gandhara sculptures. Cap off your day with premium shopping at the upscale Sector 17 Plaza, a paved arena perfect for finding authentic souvenirs.",
+        "activities": [
+          "Sightseeing Included: Rock Garden (Accessible Paved Loop), Government Art Museum, Sector 17 Heritage Hub",
+          "Optional Activities: High-tea experience at an iconic heritage cafe with traditional live music",
+          "Overnight Stay: Chandigarh (Premium / Luxury Handpicked Hotel)",
+          "Meals Included: Premium Breakfast & Farewell Special Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure from Chandigarh — Cherishing Unforgettable Memories",
+        "description": "Savor a final, leisurely morning breakfast at your hotel. Take a peaceful stroll through the manicured lawns of your resort before packing your bags. Your dedicated luxury transport vehicle will provide door-to-door transfer back to Chandigarh Airport or Railway Station. Return home feeling fully refreshed, with your heart filled with unforgettable memories designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private, assisted airport or station drop-off",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Bella Vista / Similar",
+        "location": "Chandigarh",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Wide elevators, step-free entry paths.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room (MAPAI)",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Chandigarh / Similar",
+        "location": "Chandigarh",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Spacious grab-bar bathrooms, walk-in showers.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room (MAPAI)",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh / Hyatt Regency",
+        "location": "Chandigarh",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Full operational assistance, centralized premium care.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room (MAPAI)",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Private golf-cart mobility, bespoke wellness dining.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Premier Room / Private Villa",
+        "meal_plan": "Bespoke wellness dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "3 Nights stay at handpicked hotels featuring excellent accessibility",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private dedicated AC Sedan or Innova Crysta for all sightseeing",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Lavish daily breakfast and customized dinners with low-sodium/mild options on request",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated guest manager with premium concierge response",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Senior wellness welcome kit, wet wipes, and continuous mineral water supply",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Reserved private sunset boat cruise at Sukhna Lake",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train tickets, or inter-state transfers to Chandigarh",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance fees, camera charges, and personal local guide fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room service, or tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical insurance or extra expenses caused by unexpected transit delays",
+        "sort_order": 10
+      }
+    ]
+  }
+}

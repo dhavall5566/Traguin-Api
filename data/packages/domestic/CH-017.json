@@ -1,0 +1,260 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-017-premium-chandigarh-morni-hills-retreat",
+    "serial_code": "CH-017",
+    "traguin_tour_code": "TG-CH-017-PREM",
+    "title": "Premium Chandigarh & Morni Hills Retreat",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-017 | TRAGUIN tour code TG-CH-017-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh & Haryana / India | Category: Offbeat Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh • Morni Hills • Tikkar Taal",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Nature Lovers, Couples, Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Exclusive Private Lakeside High-Tea experience at Tikkar Taal",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private luxury high-tea on the banks of Tikkar Taal lake",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Sector 22 & 17 Plazas, organic mountain honey, local rock crafts",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Romantic",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-017-chandigarh-morni-hills-itinerary",
+    "title": "Premium Chandigarh & Morni Hills Retreat",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Morni Hills Offbeat Getaway)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sukhna Lake • Morni Hills Nature Trails • Tikkar Taal Escape",
+    "overview": "Escape into a world where modern structural planning elegantly meets untamed highland wilderness. Curated exclusively by travel design experts at TRAGUIN, this offbeat journey unrolls the serene, manicured architecture of Chandigarh before ascending into the mist-covered valleys of Morni Hills.\n\nTravel Format: Private Customized Premium Tour (FIT). Vehicle: Dedicated Executive Luxury Sedan / SUV. Meal Plan: Modified American Plan (Daily Buffet Breakfast & Curated Dinners). TRAGUIN Curated Touch: Private lakeside high-tea, customized nature walks guided by local naturalists.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-017 | Premium Chandigarh & Morni Hills Retreat | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days offbeat package (CH-017 / TG-CH-017-PREM): Rock Garden, Sukhna Lake boating, Morni Fort, Tikkar Taal lakes, TRAGUIN lakeside high-tea, and split-stay hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Rock Garden, Rose Garden & Sukhna Lake Private Boating",
+        "sort_order": 1
+      },
+      {
+        "text": "Scenic Shivalik Drive & Heritage Morni Fort Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Tikkar Taal Twin Lakes Exploration",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Lakeside Premium High-Tea",
+        "sort_order": 4
+      },
+      {
+        "text": "Pine Forest Trails at Morni Hills",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Sunset Lake Cruise",
+        "description": "Welcome to the City of Joy and Architecture. Arrive at Chandigarh Airport or Railway Station where your private TRAGUIN chauffeur greets you warmly. Begin your Chandigarh Sightseeing at the Rock Garden and Rose Garden. As twilight approaches, arrive at the iconic Sukhna Lake for a private boat cruise across its tranquil waters.",
+        "activities": [
+          "Sightseeing Included: Rock Garden, Rose Garden, Sukhna Lake Private Boating",
+          "Evening Experience: Lakeside stroll & premium cafe coffee stop",
+          "Overnight Stay: Chandigarh (Premium Handpicked Luxury Hotel)",
+          "Meals Included: Luxury Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Scenic Ascent to Morni Hills & Historic Fort Trails",
+        "description": "Relish a lavish breakfast at your hotel before check-out. Today we leave the city grid behind, ascending the winding, tree-lined roads toward Morni Hills. Upon arrival, check into your upscale hillside resort. In the afternoon, visit the historic Morni Fort, a restored heritage monument surrounded by old trees.",
+        "activities": [
+          "Sightseeing Included: Scenic Shivalik Drive, Heritage Morni Fort Tour",
+          "Photography Points: Mountain viewpoints, historic fort battlements",
+          "Overnight Stay: Morni Hills (Premium Boutique Mountain Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Essence of Tikkar Taal Lakes & Nature Immersion",
+        "description": "Wake up to a crisp mountain breeze and a glorious sunrise over the peaks. Embark on a short drive to Tikkar Taal, a stunning valley featuring two interconnected, beautiful lakes. TRAGUIN has curated an exclusive premium high-tea setup by the lake margin, allowing you to relax comfortably amidst the breathtaking landscapes.",
+        "activities": [
+          "Sightseeing Included: Tikkar Taal Twin Lakes Exploration, Pine Forest Trails",
+          "Exclusive Highlight: TRAGUIN Signature Lakeside Premium High-Tea",
+          "Overnight Stay: Morni Hills",
+          "Meals Included: Breakfast & Farewell Hillside Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Hillside Breakfast & Seamless Departure",
+        "description": "Savor your final morning meal overlooking the mist-filled valley of Morni Hills. At your preferred time, your private chauffeur manages a smooth descent back down the hills. If time permits, stop at a premium shopping plaza in Chandigarh before heading to the airport or railway station.",
+        "activities": [
+          "Sightseeing Included: En-route valley photography, brief city shopping stop",
+          "Assistance: Complete baggage handling and terminal drop-off",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Hotel / Classic Sector Hotel | Morni Heights Resort / Similar",
+        "location": "Chandigarh / Morni Hills",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room / Heights Wing",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Chandigarh / Radisson City Centre | Royal Hills Resort (Premium Valley View)",
+        "location": "Chandigarh / Morni Hills",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Valley View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency / Marriott Chandigarh | Golden Tulip Resort Morni Hills (Luxury Wing)",
+        "location": "Chandigarh / Morni Hills",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Wing Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort | TRAGUIN Exclusive Handpicked Luxury Villa",
+        "location": "Chandigarh / Morni Hills",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Handpicked Luxury Villa",
+        "meal_plan": "All Inclusive Premium Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights accommodation in highly rated premium handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfast spreads and custom curated dinner courses",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury transportation with dedicated executive chauffeur",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All specialized inner-route permits, highway tolls, and parking tickets",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private boating tokens at Sukhna Lake and dedicated entry to Rock Garden",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Exclusive Private Lakeside High-Tea experience at Tikkar Taal",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Premium welcome amenities and consistent on-ground TRAGUIN customer support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate rail travel tickets to Chandigarh",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, bar tabs, room service orders, and tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure sports tickets at Tikkar Taal (Boating, Zip-lining)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual travel or medical insurance documents",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any entry fees or adjustments outside the detailed itinerary",
+        "sort_order": 12
+      }
+    ]
+  }
+}

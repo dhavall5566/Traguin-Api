@@ -1,0 +1,302 @@
+{
+  "destination_slug": "mizoram",
+  "package": {
+    "slug": "mz-004-premium-luxury-mizoram-tour",
+    "serial_code": "MZ-004",
+    "traguin_tour_code": "TRG-MIZ-LUX-2026",
+    "title": "Premium Luxury Mizoram Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MZ-004 | TRAGUIN tour code TRG-MIZ-LUX-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Mizoram / India | Category: Premium Luxury Mizoram Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Aizawl Luxury • Reiek Heritage Retreat • Phawngpui Blue Mountain • Pukzing Caves • Cultural Immersion",
+        "sort_order": 3
+      },
+      {
+        "text": "Duration: 05 Nights / 06 Days",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Luxury Mizoram Tour with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Private transfers and dedicated Luxury SUV throughout the journey",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN 24/7 guest experience manager on call",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Culture",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "mz-004-premium-luxury-mizoram-tour-itinerary",
+    "title": "Premium Luxury Mizoram Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Aizawl Luxury • Reiek Heritage Retreat • Phawngpui Blue Mountain • Pukzing Caves • Cultural Immersion",
+    "overview": "TRAGUIN PREMIUM LUXURY MIZORAM TOUR — Aizawl Luxury • Reiek Heritage Retreat • Phawngpui Blue Mountain • Pukzing Caves • Cultural Immersion. 05 Nights / 06 Days Premium Mizoram Sovereign Exploration.\n\nTOUR OVERVIEW\nDiscover the untouched beauty and cultural sophistication of Mizoram with this TRAGUIN curated luxury journey. Designed for those seeking comfort amidst wild nature, this Luxury Mizoram itinerary combines premium accommodations, guided cultural insights, and breathtaking scenic explorations, guaranteeing unforgettable memories in Northeast India's pristine hills.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MZ-004 | Premium Luxury Mizoram Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Mizoram package (MZ-004 / TRG-MIZ-LUX-2026): Aizawl Luxury • Reiek Heritage Retreat • Phawngpui Blue Mountain • Pukzing Caves • Cultural Immersion with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AIZAWL & LUXURY CHECK-IN",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: CULTURE & HANDICRAFT EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: REIEK HERITAGE RETREAT",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PHAWNGPUI BLUE MOUNTAIN SOJOURN",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: PUKZING CAVES & FAREWELL DINNER",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN curated Premium Luxury Mizoram Tour with handpicked premium stays",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AIZAWL & LUXURY CHECK-IN",
+        "description": "Arrive in Aizawl, private transfer to your premium hotel. Enjoy a curated welcome dinner with stunning mountain vistas.",
+        "activities": [
+          "Private transfer to premium hotel.",
+          "Curated welcome dinner with mountain vistas.",
+          "Overnight Stay: Aizawl Luxury Property",
+          "Meals Included: Welcome Dinner (MAPAI)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "CULTURE & HANDICRAFT EXPLORATION",
+        "description": "Private guided tour of the Mizoram State Museum and traditional handicraft centers, exploring the local art and iconic attractions.",
+        "activities": [
+          "Private guided museum and handicraft tour.",
+          "Local art and iconic attractions exploration.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "REIEK HERITAGE RETREAT",
+        "description": "Exclusive visit to the Reiek Heritage Village, enjoying traditional architecture and spectacular scenic beauty in total comfort.",
+        "activities": [
+          "Exclusive Reiek Heritage Village visit.",
+          "Traditional architecture and scenic beauty.",
+          "Overnight Stay: Aizawl / Heritage Retreat",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PHAWNGPUI BLUE MOUNTAIN SOJOURN",
+        "description": "Journey to Phawngpui, the Blue Mountain. Experience the breathtaking landscapes of this sacred peak with a private nature guide.",
+        "activities": [
+          "Journey to Phawngpui Blue Mountain.",
+          "Private nature guide and breathtaking landscapes.",
+          "Overnight Stay: Blue Mountain Retreat",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "PUKZING CAVES & FAREWELL DINNER",
+        "description": "Visit the legendary Pukzing Caves and indulge in a private farewell fine-dining experience celebrating Mizo cuisine, creating unforgettable memories.",
+        "activities": [
+          "Pukzing Caves visit.",
+          "Private farewell fine-dining celebrating Mizo cuisine.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer, completing your premium Mizoram experience.",
+        "activities": [
+          "Private transfer to airport.",
+          "Meals Included: Farewell Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Ritz / Hotel Regency (Standard)",
+        "location": "Aizawl & Retreats",
+        "nights_label": "5N Aizawl & Retreats",
+        "description": "OPTION 01 – DELUXE: Hotel Ritz / Hotel Regency (Standard) | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Heritage Stays & Luxury Eco-Resorts",
+        "location": "Aizawl & Retreats",
+        "nights_label": "5N Aizawl & Retreats",
+        "description": "OPTION 02 – PREMIUM: Heritage Stays & Luxury Eco-Resorts | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Heritage Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Reiek Heritage Retreat / Phawngpui Eco Lodge",
+        "location": "Aizawl & Retreats",
+        "nights_label": "5N Aizawl & Retreats",
+        "description": "OPTION 03 – LUXURY: Reiek Heritage Retreat / Phawngpui Eco Lodge | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Eco Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Blue Mountain Sovereign Suites / Mizoram Luxury Heritage Villas",
+        "location": "Aizawl & Retreats",
+        "nights_label": "5N Aizawl & Retreats",
+        "description": "OPTION 04 – ULTRA LUXURY: Blue Mountain Sovereign Suites / Mizoram Luxury Heritage Villas | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Sovereign Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 5 Nights in handpicked Mizoram properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Luxury SUV for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: MAPAI — daily breakfast and dinner at handpicked venues.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Airport/railway arrival and departure transfers in premium AC vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Stays: TRAGUIN-vetted accommodations matching your selected tier.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable taxes, driver allowances, tolls, and parking charges for the private vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Private guided cultural insights and luxury scenic explorations including Reiek, Phawngpui, and Pukzing Caves.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, or sanctuary entry fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical expenses, and any emergency evacuation costs.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-011-kauncha-tribal-village",
+    "serial_code": "DN-011",
+    "traguin_tour_code": "TG-DN-011-PREM",
+    "title": "Kauncha Tribal Village",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-011 | TRAGUIN tour code TG-DN-011-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Offbeat Tribal Experience",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Kauncha Village • Dudhni Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Culture Enthusiasts & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Independent Tour (FIT) / Luxury Cultural Escape",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Executive Air-Conditioned Sedan / SUV for all transfers and tours",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Premium Breakfast & Gourmet Dinner Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi/Surat Arrival → Silvassa → Kauncha Village → Dudhni Lake → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: An immersive tribal culinary journey with an organic lunch sourced and cooked directly by a Warli family",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Original Warli Paintings, Handmade Bamboo Crafts, Silvassa Toddy & Local Wines",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; Kauncha village visits require TRAGUIN advance reservations",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Cultural",
+      "Tribal",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-011-kauncha-tribal-village-itinerary",
+    "title": "Kauncha Tribal Village",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kauncha Tribal Village Experience • Silvassa • Dudhni Waterfront",
+    "overview": "Escape into a world unchanged by time. Carefully curated by TRAGUIN destination experts, this immersive getaway invites you into the beating cultural heart of Dadra and Nagar Haveli. Journey beyond the tourist maps into Kauncha Tribal Village, a beautiful sanctuary of the Warli community.\n\nDiscover an unfiltered side of Western India on this luxury weekend escape. From the dense wood forests of Silvassa to the tranquil waterfront of Dudhni, every single day is tailored to deliver maximum comfort alongside deep immersive experiences.\n\nTRAGUIN Curated Touch: Private Warli painting masterclass and an exclusive evening tribal dance performance around a lakeside bonfire.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-011 | Kauncha Tribal Village | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Dadra and Nagar Haveli package (DN-011 / TG-DN-011-PREM): Tribal Museum, Kauncha village, Warli masterclass, Dudhni Shikara, Tarpa dance",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tribal Cultural Museum & Vanganga Lake Garden",
+        "sort_order": 1
+      },
+      {
+        "text": "Kauncha Heritage Walk & Private Warli Painting Class with tribal lunch",
+        "sort_order": 2
+      },
+      {
+        "text": "Dudhni Water Sports Waterfront & Private Tarpa Dance Performance",
+        "sort_order": 3
+      },
+      {
+        "text": "Church of Our Lady of Piety & Local Craft Emporium",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Immersive tribal culinary journey with organic Warli family lunch",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked travel routes avoiding crowded roads",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa & Cultural Awakening",
+        "description": "Your luxury journey begins as you arrive at Vapi or Surat station/airport, where a private TRAGUIN chauffeur greets you warmly. Enjoy a smooth drive into Silvassa, the capital of Dadra and Nagar Haveli, passing through lovely rural landscapes. Check in at your premium resort and take some time to refresh. In the afternoon, explore the Top Tourist Places in Dadra and Nagar Haveli, beginning with the fascinating Tribal Cultural Museum. Here, life-sized displays, musical instruments, and ancient hunting gear tell an emotional story of the region's indigenous clans. Later, enjoy a relaxing walk through the beautifully landscaped Vanganga Lake Garden, where Japanese-style bridges and peaceful boating streams create unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Tribal Cultural Museum, Vanganga Lake Garden",
+          "Evening Experience: Lakeside stroll and welcome drinks at the resort",
+          "Overnight Stay: Silvassa (Premium Resort)",
+          "Meals Included: Welcome Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "The Heart of Kauncha Village & Private Warli Masterclass",
+        "description": "Awake to the crisp morning air and enjoy a delicious breakfast. Today, we venture deep into the wilderness to experience the authentic Kauncha Tribal Village Experience. Set against the expansive backdrop of the Madhuban Dam reservoir, Kauncha is a pristine village where the Warli tribe lives in harmony with nature. TRAGUIN guests will enjoy an exclusive, handpicked interaction with the village elders. Step into a traditional mud-and-bamboo house to witness a private masterclass in Warli painting led by a master artisan. Learn how simple geometric shapes create breathtaking representations of community life. Savor a traditional, freshly prepared local organic lunch inside the village before returning to your luxury resort for an evening of absolute leisure.",
+        "activities": [
+          "Sightseeing Included: Kauncha Heritage Walk, Warli Artisan Village",
+          "Exclusive Experiences: Private Warli Painting Class, Traditional Village Lunch",
+          "Overnight Stay: Silvassa / Dudhni Waterfront Resort",
+          "Meals Included: Breakfast, Tribal Lunch, and Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Dudhni Lake Water Scenery & Ritualistic Tarpa Dance",
+        "description": "Following breakfast, take a scenic drive to the majestic Dudhni Water Sports Complex, often called the 'Kashmir of the West'. The vast waterfront, created by the waters of the Madhuban Dam, offers stunning panoramic views of rolling green hills. Embark on a private luxury Shikara boat cruise across the pristine waters, curated exclusively by TRAGUIN. In the evening, gather around a cozy bonfire at the resort to witness the hypnotic Tarpa Dance. Watch as tribal dancers form a seamless circle, moving to the deep sounds of the wind instrument made from dried gourd, offering an immersive cultural experience that connects you deeply to the spirit of the land.",
+        "activities": [
+          "Sightseeing Included: Dudhni Water Sports Waterfront, Madhuban Viewpoint",
+          "Evening Experience: Private Tarpa Dance Performance around a Bonfire",
+          "Overnight Stay: Dudhni / Silvassa Luxury Resort",
+          "Meals Included: Breakfast & Grand Farewell Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Portuguese Memories & Homeward Journey",
+        "description": "On your final morning, indulge in a relaxed gourmet breakfast at the resort. Before concluding your family holiday, take a short drive to see the beautiful Church of Our Lady of Piety, a historic stone church built by the Portuguese in the late 19th century. Marvel at its exquisite altar and classic architecture. Afterward, your private chauffeur will assist with your luggage and provide a comfortable drive back to Vapi or Surat for your homeward journey, leaving you with a treasure trove of unforgettable memories from your specialized TRAGUIN holiday.",
+        "activities": [
+          "Sightseeing Included: Church of Our Lady of Piety, Local Craft Emporium",
+          "Assistance: Luggage handling and smooth drop-off service",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Deluxe Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts Silvassa or similar",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Garden View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort Silvassa",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Superior Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Khanvel Resort / Pluz Resort",
+        "location": "Silvassa",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Exclusive Waterfront Eco-Resort",
+        "location": "Dudhni",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Lakeside Cottage",
+        "meal_plan": "All Inclusive Curated",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights accommodation in premium, top-rated luxury hotels/resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily buffet breakfast and custom gourmet multi-cuisine dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private executive sedan/SUV for all airport/station transfers & sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive entry permits, activity charges, and private Shikara boat cruise at Dudhni",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Curated private Warli art masterclass with local village artisans",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Special private Tarpa tribal dance performance with bonfire setup",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 on-tour customer support from dedicated TRAGUIN experts",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All toll taxes, fuel charges, parking fees, and driver allowances",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or main train tickets to the arrival gateway",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone calls, or spa therapies",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Meals or drinks not specifically outlined in the daily schedule",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Speedboat or optional motorized high-speed water sports at Dudhni",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips, gratuities, and mandatory travel medical insurance",
+        "sort_order": 13
+      }
+    ]
+  }
+}

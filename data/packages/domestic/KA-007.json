@@ -1,0 +1,268 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-007-kabini-nagarhole-luxury-wildlife-trail",
+    "serial_code": "KA-007",
+    "traguin_tour_code": "TRAGUIN-KA-007",
+    "title": "Kabini & Nagarhole Luxury Wildlife Trail",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-007 | TRAGUIN tour code TRAGUIN-KA-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Nature & Luxury Wildlife",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kabini • Nagarhole National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Wildlife Enthusiasts & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Wildlife Expedition (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Chauffeur-Driven Air-Conditioned Luxury Sedan / SUV",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Jungle American Plan (All Meals Included at Wildlife Lodges)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Bangalore / Mysore Arrival → Kabini Backwaters → Nagarhole Jungle Rim → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with elite lodge accommodations, premium private 4x4 options, and specialized river cruise slot assignments",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Organic Wilderness Honey and Sandalwood Artworks from certified Mysore government outlets",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Safari zones strictly allocated by State Forest Department; wear earth-toned clothing; no single-use plastic in sanctuary",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Wildlife",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-007-kabini-nagarhole-luxury-wildlife-trail-itinerary",
+    "title": "Kabini & Nagarhole Luxury Wildlife Trail",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kabini & Nagarhole Luxury Wildlife Trail • 03 Nights / 04 Days",
+    "overview": "Welcome to the raw, untamed heartland of Southern India. This ultra-luxury nature expedition curated by TRAGUIN invites you into a world of breathtaking landscapes, premium stays, and iconic attractions. Venture through deep teak forests, listen to the call of the wild, and surrender to unforgettable memories across Karnataka's most celebrated forest ecosystems.\n\nFor travelers scouting the absolute Best Karnataka Tour Package or planning an exquisite Karnataka Family Tour, the Kabini river basin and Nagarhole Forest represent the true crest of Indian wildlife tourism. Renowned globally for hosting the highest density of Asian Elephants, majestic Bengal Tigers, and the elusive Indian Black Panther, this sanctuary provides a magnificent Premium Karnataka Experience.\n\nTRAGUIN Curated Touch: This custom luxury itinerary offers immersive experiences, signature open-top custom 4x4 jungle safaris, elite resident naturalist companions, and priority water-cruise bookings tailored for high-end wildlife travelers.\n\nWhy Visit Kabini & Nagarhole: Capture awe-inspiring moments at famous Instagram locations, enjoy a peaceful coracle boat ride on the Kabini River, or spot rare birds from your private deck during dry winter-spring months when wildlife congregations around the riverbed create natural masterpieces.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-007 | Kabini & Nagarhole Luxury Wildlife Trail | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Kabini wildlife package (KA-007 / TRAGUIN-KA-007): Nagarhole jungle safari, Kabini river cruise, coracle ride, eco-village walk, and 4-tier waterfront lodge options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Backwater Drive, Naturalist Briefing & Lake Overlook",
+        "sort_order": 1
+      },
+      {
+        "text": "Nagarhole Jungle Tracks & River Cruise Expedition",
+        "sort_order": 2
+      },
+      {
+        "text": "Core Zone Safari, Coracle Ride Experience & Eco-Village Walk",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Elite lodge accommodations and specialized river cruise slot assignments",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: Award-winning eco-luxury wildlife lodges",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Bangalore / Mysore to Kabini",
+        "description": "Arrive at Bangalore or Mysore airport/station, where your private TRAGUIN chauffeur welcomes you. Embark on a premium drive passing through changing terrain into the legendary woods of Kabini. Upon reaching your ultra-luxury jungle resort, enjoy a seamless check-in and refresh with an exotic welcome drink. Spend your afternoon admiring the scenic beauty of the calm waterfront. At dusk, gather by the campfire to watch an insightful documentary presented by an expert wildlife naturalist.",
+        "activities": [
+          "Sightseeing Included: Scenic Backwater Drive, Naturalist Briefing, Lake Overlook",
+          "Evening Experience: A premium curated high-tea on the bank of the river, organized by TRAGUIN experts",
+          "Overnight Stay: Ultra-Luxury Handpicked Waterfront Lodge, Kabini",
+          "Meals Included: Lunch & Gourmet Wilderness Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Kabini & Nagarhole Wildlife Safari",
+        "description": "Awake to the crisp morning air and bird songs. Board a specially authorized 4x4 open-top vehicle for a thrilling morning safari through Nagarhole National Park. Trace the paths of tigers, leopards, and giant bison alongside an expert tracker. Return to the resort for a premium breakfast and relaxation. In the late afternoon, enjoy an exclusive boat safari across the Kabini River, capturing magnificent herds of elephants coming down to bathe at water points.",
+        "activities": [
+          "Sightseeing Included: Nagarhole Jungle Tracks, River Cruise Expedition",
+          "Photography Points: Elephant herds along the water edge and pristine forest canopies under golden hour sunlight",
+          "Overnight Stay: Ultra-Luxury Waterfront Lodge, Kabini",
+          "Meals Included: Jungle Buffet Breakfast, Lunch, and Fine Dining Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Jungle Immersion & Experiences",
+        "description": "Your day begins with another masterfully coordinated safari session inside deep core zones to tracking big cats. Returning to your resort, savor a lazy afternoon by your private plunge pool. Later, step onto a traditional circular coracle boat for an intimate water excursion. End your evening visiting a local eco-village settlement to hear immersive tales of forest legends, lifestyle habits, and ancestral tribal culture.",
+        "activities": [
+          "Sightseeing Included: Core Zone Safari, Coracle Ride Experience, Eco-Village Walk",
+          "Optional Activities: Relaxing traditional spa treatment overlooking the vast forest rim",
+          "Overnight Stay: Premium Handpicked Wilderness Lodge, Kabini",
+          "Meals Included: All Gourmet Meals (Breakfast, Lunch & Dinner)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure from Kabini",
+        "description": "Savor an elegant breakfast on the lakeside deck, soaking in final views of the forest landscape. Pack your travel bags filled with unforgettable memories. Your luxury private vehicle will transfer you back comfortably to Mysore or Bangalore for your onward connection home. Your specialized TRAGUIN Karnataka Package concludes perfectly.",
+        "activities": [
+          "Transfers Included: Private Premium Airport / Station Drop-off",
+          "Meals Included: Sumptuous Lakeside Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Waterwoods Lodges & Resorts, Kabini",
+        "location": "Kabini",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Lake View Room",
+        "meal_plan": "Jungle AP (All Meals)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Serai Resort, Kabini",
+        "location": "Kabini",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Waterfront Cabin",
+        "meal_plan": "Jungle AP (All Meals)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Kaav Safari Lodge, Kabini",
+        "location": "Kabini",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Glamping Tent / Cottage",
+        "meal_plan": "Jungle AP (All Meals)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Kuruba Safari Lodge",
+        "location": "Kabini",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Safari Hut with Private Pool",
+        "meal_plan": "Ultra Luxury All Meals Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 3 Nights stay at award-winning premium stays and eco-luxury wildlife lodges",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: All meals included (Breakfasts, Lunches, High-Teas, and Dinners) during the resort stay",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Private Chauffeur-driven AC Innova Crysta / Premium SUV for all transit paths",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Forest entry permits, professional naturalist tracking fees, and scheduled open-top jeep safaris",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 priority concierge and real-time remote destination monitoring by TRAGUIN support",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized eco-friendly jungle kit with insulated bottles, natural bug-repellents, and organic treats",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or inter-state rail transportation tickets to and from Bangalore",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal luxury services such as specialized premium body spa therapies, laundry, and vintage alcohol orders",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Excess camera gear permit fees charged directly at forest entry gates",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance and expenses emerging from flights delays or natural route diversions",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "destination_slug": "uae",
+  "package": {
+    "slug": "uae-002-dubai-abu-dhabi-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Dubai Abu Dhabi Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 76,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Dubai (3N) → Abu Dhabi (2N) classic UAE family circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Burj Khalifa, desert safari & Dubai Marina evening",
+        "sort_order": 2
+      },
+      {
+        "text": "Sheikh Zayed Grand Mosque & Louvre Abu Dhabi",
+        "sort_order": 3
+      },
+      {
+        "text": "Ferrari World family thrills",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-DXB-AUH-FAM-2026 | Serial UAE-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "uae-002-dubai-abu-dhabi-itinerary",
+    "title": "Dubai Abu Dhabi Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium UAE Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dubai • Abu Dhabi • Burj Khalifa • Sheikh Zayed Mosque • Ferrari World",
+    "overview": "Embark on an unforgettable UAE journey with TRAGUIN's curated family itinerary. Blending the futuristic pulse of Dubai with the cultural grandeur of Abu Dhabi, this tour offers a seamless mix of excitement and heritage — ensuring unforgettable memories.",
+    "is_featured": true,
+    "featured_sort_order": 76,
+    "seo_title": "UAE-002 | Dubai Abu Dhabi Family Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days UAE family package (UAE-002): Dubai city tour, desert safari, Sheikh Zayed Mosque, Louvre Abu Dhabi, and Ferrari World.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Burj Khalifa & Dubai City Exploration",
+        "sort_order": 1
+      },
+      {
+        "text": "Desert Safari & Abu Dhabi Transfer",
+        "sort_order": 2
+      },
+      {
+        "text": "Sheikh Zayed Grand Mosque & Louvre",
+        "sort_order": 3
+      },
+      {
+        "text": "Ferrari World Family Day",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Dubai",
+        "description": "Your TRAGUIN family tour begins with a VIP airport welcome. A private luxury van transfers you to your premium hotel. Enjoy a relaxing evening by the Dubai Marina, admiring the breathtaking landscapes of the illuminated city.",
+        "activities": [
+          "Sightseeing Included: VIP airport welcome, private luxury van transfer",
+          "Overnight Stay: Dubai (Luxury Family Hotel)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Dubai City Exploration",
+        "description": "Explore the best of Dubai. Visit the iconic Burj Khalifa, The Dubai Mall, and Palm Jumeirah. This curated experience offers deep insights into Dubai's luxury living and iconic attractions.",
+        "activities": [
+          "Sightseeing Included: Burj Khalifa, Dubai Mall, Palm Jumeirah city tour",
+          "Overnight Stay: Dubai (Luxury Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Desert Safari & Transfer to Abu Dhabi",
+        "description": "Experience an adrenaline-filled desert safari before driving to Abu Dhabi. The scenic beauty of the shifting sands sets the stage for a memorable transition to the capital.",
+        "activities": [
+          "Sightseeing Included: Desert safari, scenic drive to Abu Dhabi",
+          "Overnight Stay: Abu Dhabi (Luxury Family Hotel)",
+          "Meals Included: Breakfast & Desert BBQ Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Abu Dhabi Cultural Immersion",
+        "description": "Visit the stunning Sheikh Zayed Grand Mosque and Louvre Abu Dhabi. This immersive experience brings together global art and breathtaking cultural beauty.",
+        "activities": [
+          "Sightseeing Included: Sheikh Zayed Grand Mosque, Louvre Abu Dhabi",
+          "Overnight Stay: Abu Dhabi (Luxury Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Ferrari World & Family Thrills",
+        "description": "A day of excitement at Ferrari World. Experience speed, luxury, and exclusive experiences designed for the whole family, leaving you with unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Ferrari World full-day visit",
+          "Overnight Stay: Abu Dhabi (Luxury Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Departure",
+        "description": "Final breakfast before your TRAGUIN assisted transfer to the airport. Your classic Dubai Abu Dhabi tour concludes with lasting memories.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Atlantis, The Palm / similar",
+        "location": "Dubai",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Address Downtown / similar",
+        "location": "Dubai",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Emirates Palace / similar",
+        "location": "Abu Dhabi",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "St. Regis Abu Dhabi / similar",
+        "location": "Abu Dhabi",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights in handpicked premium family hotels across Dubai and Abu Dhabi",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury van transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dubai city tour — Burj Khalifa, Dubai Mall & Palm Jumeirah",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Desert safari with transfer to Abu Dhabi",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Sheikh Zayed Grand Mosque and Louvre Abu Dhabi visit",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Ferrari World full-day visit",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and UAE entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "destination_slug": "lakshadweep",
+  "package": {
+    "slug": "lk-004-premium-family-island-vacation",
+    "serial_code": "LK-004",
+    "traguin_tour_code": "TG-LK-FAM-004",
+    "title": "Premium Family Island Vacation",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LK-004 | TRAGUIN tour code TG-LK-FAM-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Lakshadweep, India | Category: Premium Family Island Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Agatti Island • Bangaram Island Atoll",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Multi-generational Groups, Couples",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to Mid-May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Premium Chauffeur AC Vehicles on land & High-Speed Safety Speedboats over sea",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: All-Inclusive Family Buffet Plan (Daily Breakfast, Lunch, High Tea, and Culinary Dinners)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Agatti Airport Arrival → Private Speedboat to Bangaram Island → Agatti Local Sightseeing → Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A private beach canopy setup on an uninhabited sandbank with a dedicated family butler service",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Agatti Cooperative Shops — cold-pressed virgin coconut oil, hand-woven palm souvenirs, island dried spiced tuna packets; Instagram Spots — wooden docks at Agatti's southern edge and sweeping sandbanks between Bangaram and Thinnakara at sunset",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Flights and mandatory entry permits must be locked in 60 to 90 days before travel; removing corals or disturbing sea turtles is strictly illegal; cellular network coverage is minimal (BSNL and Airtel work best)",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Island Discovery",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "lk-004-premium-family-island-vacation-itinerary",
+    "title": "Premium Family Island Vacation",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "TRAGUIN Premium Lakshadweep Family Tour Package • Agatti Island • Bangaram Island Coconut Lagoons Escape • 05 Nights / 06 Days",
+    "overview": "Embark on the ultimate tropical adventure with your loved ones. This exclusively styled Lakshadweep Family Tour meticulously crafted by TRAGUIN unrolls a paradise of pristine turquoise waters and white sandy shorelines perfect for creating unforgettable memories. Indulge in premium stays, curated experiences, and absolute comfort as you discover breathtaking landscapes. Our handpicked hotels offer top-tier safety and multi-generational conveniences, ensuring a spectacular, stress-free Luxury Lakshadweep Holiday for adults and children alike.\n\nVehicle / Transfer: Private Premium Chauffeur AC Vehicles on land & High-Speed Safety Speedboats over sea. Meal Plan: All-Inclusive Family Buffet Plan (Daily Breakfast, Lunch, High Tea, and Culinary Dinners). Route Plan: Agatti Airport Arrival → Private Speedboat to Bangaram Island → Agatti Local Sightseeing → Departure. This exclusive TRAGUIN Lakshadweep Package covers all required entry documentation and e-permit validation processing, complete with priority island tracking and family-friendly logistics assistance.\n\nThe pristine Lakshadweep archipelago stands out as India's finest tropical destination. Agatti Island is the breathtaking gateway lagoon featuring endless rows of coconut palms. Bangaram Island is a stunning, uninhabited coral island ringed by a colossal blue lagoon. Top Tourist Places in Lakshadweep are celebrated for flourishing shallow coral reefs, sandspits, and multi-colored marine biodiversity. The Best Time to Visit Lakshadweep is the beautiful warm weather window between October and May.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LK-004 | Premium Family Island Vacation | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Lakshadweep family package (LK-004 / TG-LK-FAM-004): Agatti, Bangaram, Thinnakara sandbank, bioluminescent evening, and 2-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Private high-speed boat charter from Agatti to Bangaram with family sunset gathering",
+        "sort_order": 1
+      },
+      {
+        "text": "Family reef snorkel safari at Bangaram Marine Sanctuary with certified life-guards and PADI instructors",
+        "sort_order": 2
+      },
+      {
+        "text": "Thinnakara Island escape with private island beach canopy and sandbank walkways",
+        "sort_order": 3
+      },
+      {
+        "text": "Lagoon kayaking adventure and bioluminescent evening magic on Bangaram",
+        "sort_order": 4
+      },
+      {
+        "text": "Agatti island tour with museum, coconut plantation trails, and special farewell family dinner",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Agatti – Speedboat Expedition to Bangaram Coral Island",
+        "description": "Fly into Agatti Airport, taking in the spectacular aerial views of emerald coral rings scattered over the deep blue ocean. Upon arrival, your dedicated TRAGUIN family tour concierge will welcome you and lead your transfer to the passenger jetty. Board your private high-speed boat charter across the shimmering coral waters straight to Bangaram Island Resort. Check into your premium beachfront interconnected villas, let the kids step right onto the soft powdery sand, and witness a magnificent sunset together.",
+        "activities": [
+          "Sightseeing Included: Agatti-Bangaram Scenic Lagoon Cruise",
+          "Evening Experience: A family sunset gathering on the beach with complimentary tropical welcome juices and fresh coconut treats.",
+          "Overnight Stay: Bangaram Island (Premium Beachfront Family Villas)",
+          "Meals Included: Lunch & Dinner Buffet"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Family Reef Encounters – Private Reef Snorkel Safari",
+        "description": "Wake up to clear blue horizons and indulge in a premium breakfast buffet. Today, embark on an immersive family boat cruise to the calmest outer coral reef points of Bangaram. Under the close watch of our certified life-guards and PADI instructors, the whole family can safely snorkel over shallow waters to see sea turtles, colorful clownfish, and magnificent coral shapes. Enjoy a relaxed afternoon playing beach volleyball or collecting shells on the shore.",
+        "activities": [
+          "Sightseeing Included: Bangaram Marine Sanctuary Coral Reef Points",
+          "Optional Activities: Glass-bottom boat rides for senior family members or children who wish to see the reef dry.",
+          "Overnight Stay: Bangaram Island",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Thinnakara Island Escape & Isolated Sandbank Retreat",
+        "description": "Savor a magnificent tropical breakfast before joining an exclusive day cruise to the nearby uninhabited island of Thinnakara. The island boasts spectacular scenic beauty and feels like a private world. Walk hand-in-hand along the endless white sand bars extending into the crystal-clear ocean. TRAGUIN Experts will set up a beautiful private island beach canopy for your family to relax under while enjoying refreshing tropical drinks.",
+        "activities": [
+          "Sightseeing Included: Thinnakara Island Lagoon, Sandbank Walkways",
+          "Photography Points: Capture incredible drone-style shots on the thin white sandbars stretching into the turquoise water.",
+          "Overnight Stay: Bangaram Island Resort",
+          "Meals Included: Breakfast, Picnic Lunch & Beach BBQ Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Lagoon Kayaking Adventure & Bioluminescent Evening Magic",
+        "description": "Enjoy a leisurely morning. Today is all about immersive water sports in the safe, shallow lagoons. Paddle together in premium tandem kayaks or try Stand-Up Paddleboarding over the transparent water. After dark, our island experts will lead a special night excursion to a unique beach cove to see bioluminescent plankton glowing like stars in the water—a truly magical experience for children and adults alike.",
+        "activities": [
+          "Sightseeing Included: Bangaram Lagoon Kayaking, Glowing Night Sea Safaris",
+          "Optional Activities: Scuba diving discovery programs for beginners or night beach treasure hunts for kids.",
+          "Overnight Stay: Bangaram Island",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Agatti Island Tour – Exclusive Village Insights & Handicrafts",
+        "description": "Board your private speedboat charter back to Agatti Island for a wonderful change of scenery. Take a family tour of the island in an open-air luxury cart. Discover traditional coir-weaving villages, visit the island museum, and wander through lush coconut groves. In the evening, enjoy a special farewell beachside dinner featuring authentic local delicacies and fresh catch prepared with traditional island spices.",
+        "activities": [
+          "Sightseeing Included: Agatti Museum, Coconut Plantation Trails, South Beach Point",
+          "Food Suggestion: Traditional grilled fish flavored with fresh coconut water and local lime spices.",
+          "Overnight Stay: Agatti Island (Luxury Beachfront Resort Suite)",
+          "Meals Included: Breakfast, Lunch & Special Farewell Family Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Farewell Isles – Departure with Forever Memories",
+        "description": "Indulge in a final tropical breakfast at your resort while watching the turquoise waves lap the shore. Pack your bags and collect your hand-picked coral souvenirs before your private chauffeur transfers you comfortably to the Agatti Airport terminal gates. Your spectacular Lakshadweep Family Tour and premium island holiday concludes here, leaving you with beautiful stories and unforgettable memories.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Assistance: Airport checking clearance and permit clearance support managed entirely by our local crew."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bangaram Island Resort",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – LUXURY (Highly Recommended): Bangaram Island Resort (Air-Conditioned Premium Beach Cottage Suite)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Air-Conditioned Premium Beach Cottage Suite",
+        "meal_plan": "All-Inclusive Family Buffet Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Agatti Island Beach Resort / Tented Premium Eco-Villas",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Agatti Island Beach Resort / Tented Premium Eco-Villas (Deluxe Beachfront Family Accommodation)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Beachfront Family Accommodation",
+        "meal_plan": "All-Inclusive Family Buffet Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium beachfront cottage accommodations with family layouts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All-inclusive gourmet buffet meal plans (Breakfast, Lunch, Dinner).",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Lakshadweep e-permits, document handling, and entry fees.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private speed-boat charter for inter-island transits.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary guided family snorkeling expedition with premium gear.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Full time 24/7 dedicated local operational and emergency TRAGUIN Support.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or flight ticket bookings to/from Agatti Airport.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Advanced professional scuba diving certifications or deep-sea trolling.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry costs, shopping bills, or guide gratuities.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any comprehensive travel insurance or health coverage cards.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

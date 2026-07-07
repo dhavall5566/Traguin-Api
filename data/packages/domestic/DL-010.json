@@ -1,0 +1,296 @@
+{
+  "destination_slug": "delhi",
+  "package": {
+    "slug": "dl-010-capital-explorer",
+    "serial_code": "DL-010",
+    "traguin_tour_code": "TRG-DEL-010",
+    "title": "Capital Explorer",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DL-010 | TRAGUIN tour code TRG-DEL-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Delhi / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Old Delhi • New Delhi • Lutyens' Zone • Qutub Complex • Akshardham",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Heritage Enthusiasts & Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Winter)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customized Custom Plan)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle & Meal Plan: Private Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Royal Reception → Old Delhi Heritage → Lutyens' & Humayun's Tomb → Qutub Minar & Lotus Temple → Akshardham & Dilli Haat → Final Shopping & Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family historical briefing by a cultural expert before visiting the Old Delhi monuments.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Optimized city routing designed to avoid heavy traffic zones, maximizing your leisure time.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Khan Market designer boutiques; Dilli Haat and Janpath for handloom textiles, pashmina shawls, silver jewelry.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs; woolens Oct-Mar; book 30–45 days ahead.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "dl-010-capital-explorer-itinerary",
+    "title": "Capital Explorer",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customized Custom Plan)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Capital Explorer • Imperial Heritage & Modern Splendour",
+    "overview": "Welcome to an unforgettable odyssey through time, exclusively curated and presented by TRAGUIN. Embark on the definitive Delhi Family Tour, engineered to showcase the grand history, architectural marvels, and dynamic lifestyle of India's eternal capital city. As your highly professional luxury travel consultants, TRAGUIN turns this exploration into an absolute premium luxury holiday. From the narrow, story-filled alleys of Chandni Chowk to the majestic, manicured avenues of Lutyens' Delhi and the towering grandeur of the Qutub Minar, you will experience the state's iconic attractions while enjoying premium stays, handpicked hotels, and exclusive experiences that promise unforgettable memories for your family.\n\nTOUR OVERVIEW\nThis bespoke 5 Nights / 06 Days family itinerary is thoughtfully balanced to bridge the historic soul of Old Delhi with the imperial grace of New Delhi. Guests will travel in a fully private, chauffeured premium luxury vehicle, eliminating the stress of city commutes. Enjoy an upscale meal plan (MAPAI) comprising rich gourmet breakfast buffets and specially arranged fine dining experiences in the evenings. Backed by a signature TRAGUIN curated experience note, this vacation includes VIP entry privileges at prominent sites, private guided historical briefings, and 24/7 dedicated guest relation assistance.\n\nWHY VISIT DELHI? THE BEST DELHI TOUR PACKAGE EXPERIENCE\nWhen arranging a Luxury Delhi Holiday, families seek an enriching dive into the heart of India's political, culinary, and architectural epicenter. Delhi holds an incredible collection of top tourist places in Delhi, combining pristine UNESCO World Heritage sites with modern design masterpieces. Choosing the right Delhi Tour Package ensures that you witness the striking contrasts of India's heritage comfortably and completely. For couples and modern families seeking a tailored Delhi Honeymoon Package or an multi-generational Delhi Family Tour, the capital opens up highly sought-after, popular Instagram locations such as the mesmerizing Humayun's Tomb, the architectural symmetry of the Lotus Temple, and the magnificent, vibrant avenues of Sunder Nursery. From high-end luxury boutique shopping at Khan Market to experiencing traditional street food and imperial Mughlai dining, our specialized TRAGUIN Delhi Packages bring together premium handpicked hotels and immersive experiences during the absolute best time to visit Delhi.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DL-010 | Capital Explorer Premium Family Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Delhi family package (DL-010 / TRG-DEL-010): Old Delhi, Lutyens' Delhi, Qutub Minar, Lotus Temple, Akshardham, Dilli Haat, and 4-tier luxury accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Connaught Place heritage circle & welcome dinner on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Red Fort, Chandni Chowk, Jama Masjid & Raj Ghat on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "India Gate, Humayun's Tomb & Sunder Nursery on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Qutub Minar, Lotus Temple & Hauz Khas Village on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Akshardham Temple, Dilli Haat & farewell dinner on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Final shopping & departure on Day 06",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family historical briefing before Old Delhi monuments",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Delhi | Royal Reception & Luxurious Urban Indulgence",
+        "description": "Your premium Delhi experience begins the moment you touch down. Meet your dedicated private chauffeur at New Delhi Airport (IGI) or Delhi Railway Station, who will assist with your baggage and escort you in a private luxury SUV. Drive to your handpicked premium luxury hotel for a smooth check-in. Spend the afternoon relaxing and rejuvenating with premium welcome amenities. In the evening, take a leisurely drive through the beautifully lit Connaught Place or choose a premium dinner at a renowned fine-dining venue.",
+        "activities": [
+          "Delhi Sightseeing Included: Connaught Place heritage circle drive, Central Park evening walk.",
+          "Evening Experience: Bespoke welcome dinner featuring a fusion of imperial North Indian flavors.",
+          "Overnight Stay: New Delhi (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Welcome Drink & Fine-Dining Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Old Delhi Heritage Exploration | Mughal Majesty, Rickshaw Rides & Historic Streets",
+        "description": "Savor a lavish buffet breakfast before stepping out to explore the ancient heartbeat of Old Delhi. Witness the colossal red sandstone walls of the iconic Red Fort. Embark on a specially curated, private premium rickshaw ride through the bustling lanes of Chandni Chowk, taking in the incredible sights and scents of Asia's largest spice market, Khari Baoli. Visit the grand Jama Masjid, one of India's largest mosques, before paying tribute at Raj Ghat, the peaceful memorial of Mahatma Gandhi.",
+        "activities": [
+          "Delhi Sightseeing Included: Red Fort (photo stop), Chandni Chowk, Khari Baoli, Jama Masjid, Raj Ghat.",
+          "Optional Activities: A guided culinary tasting tour of legendary Old Delhi multi-generational eateries.",
+          "Overnight Stay: New Delhi (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Luxury Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Imperial Lutyens' & Sunset at Tombs | The Grand Cold War Architecture & The Mughal Precursor",
+        "description": "Today, explore the imperial grace of New Delhi. Drive down the magnificent Rajpath to view the stately Rashtrapati Bhavan (President's House) and the Parliament House. Stop at the iconic India Gate, a proud war memorial surrounded by sprawling lush lawns. In the afternoon, enjoy an immersive experience at Humayun's Tomb—a gorgeous UNESCO World Heritage Site and a popular Instagram location whose architecture directly inspired the Taj Mahal. End your afternoon wandering through the tranquil paths of Sunder Nursery.",
+        "activities": [
+          "Delhi Sightseeing Included: India Gate, Rashtrapati Bhavan & Parliament Buildings (drive-by), Humayun's Tomb, Sunder Nursery.",
+          "Evening Experience: High tea experience at a luxury colonial-style café in Khan Market.",
+          "Overnight Stay: New Delhi (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Ancient South Delhi Minars & Spiritual Marvels | Towering Islamic Monuments & Contemporary Architecture",
+        "description": "Following breakfast, head south into the oldest residential settlements of Delhi. Explore the iconic Qutub Minar complex, marveling at the 73-meter-tall brick minaret and the ancient iron pillar that has defied rust for over 1,600 years. Later, experience the peaceful ambiance and breathtaking architectural design of the Lotus Temple, shaped like a blooming flower. Spend your evening exploring the upscale art galleries, boutique cafes, and lifestyle shopping complexes at the chic Hauz Khas Village.",
+        "activities": [
+          "Delhi Sightseeing Included: Qutub Minar complex, Mehrauli Archaeological Park, Lotus Temple, Hauz Khas Village.",
+          "Photography Points: The iconic arches of Qutub Minar and the sunset views overlooking Hauz Khas lake.",
+          "Overnight Stay: New Delhi (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Selected Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Akshardham Majesty & Craft Villages | Spiritual Odyssey & Cultural Immersion",
+        "description": "Dedicate your morning to the breathtaking landscapes and artistic genius of the Swaminarayan Akshardham Temple, one of the world's largest comprehensive Hindu temple complexes. Experience its immersive cultural boat ride, informative exhibitions, and massive carved stone pillars. In the afternoon, visit Dilli Haat, an open-air food and craft bazaar showcasing rural artisans from every state in India—perfect for authentic handicraft shopping and tasting varied regional foods.",
+        "activities": [
+          "Delhi Sightseeing Included: Swaminarayan Akshardham Temple, Cultural Exhibits, Dilli Haat INA.",
+          "Evening Experience: The magnificent musical water fountain show at Akshardham Temple.",
+          "Overnight Stay: New Delhi (Premium / Ultra Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Farewell Special Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Final Shopping & Departure | Cherishing Unforgettable Memories Beyond Destinations",
+        "description": "Indulge in a final, delicious breakfast at your luxury hotel. Depending on your flight time, your private vehicle is available for last-minute souvenir shopping at the upscale Khan Market or the historic Janpath boutique stands. Later, your private chauffeur will provide a smooth drop-off at New Delhi International Airport or Railway Station. Return home carrying a heart filled with beautiful family bonds and unforgettable memories curated flawlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door airport/station transfer.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Suryaa New Delhi / Radisson Blu / similar",
+        "location": "New Delhi",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: The Suryaa New Delhi / Radisson Blu / similar | Deluxe Executive Room | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit New Delhi / Eros Hotel / similar",
+        "location": "New Delhi",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: The Lalit New Delhi / Eros Hotel / similar | Premium Club Room | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Club Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Palace / The Leela Palace New Delhi",
+        "location": "New Delhi",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Palace / The Leela Palace New Delhi | Luxury Garden View Suite | MAPAI + Executive Lounge Access",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Garden View Suite",
+        "meal_plan": "MAPAI + Executive Lounge Access",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi New Delhi / The Imperial New Delhi",
+        "location": "New Delhi",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi New Delhi / The Imperial New Delhi | VVIP Royal Panoramic Suite | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Royal Panoramic Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights in chosen handpicked luxury properties in Delhi.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated SUV for all point-to-point sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily premium breakfast and specially selected dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 personalized guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family travel kit and refreshments on arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private rickshaw tour through old heritage routes.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight tickets, or long-distance train travel.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, and local guide fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, or tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional museum activities or extended excursions outside Delhi.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

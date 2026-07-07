@@ -1,0 +1,307 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-005-premium-mahabaleshwar-honeymoon-package",
+    "serial_code": "MH-005",
+    "traguin_tour_code": "TRAGUIN-MAHA-HON-005",
+    "title": "Premium Mahabaleshwar Honeymoon Package",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-005 | TRAGUIN tour code TRAGUIN-MAHA-HON-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Luxury Honeymoon Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mahabaleshwar • Panchgani • Pratapgad",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Honeymooners, Couples, Romance Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Plus Lush romantic Monsoons)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Honeymoon Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Chauffeur Sedan / Premium SUV (Crysta)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Breakfast & Special Romantic Dinners (MAPAI)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Pune/Mumbai ➔ Panchgani ➔ Mahabaleshwar (4N) ➔ Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Honeymoon Special Amenities: Complimentary floral bed decor, chocolate cake, and farm-fresh strawberries",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Kolhapuri leather footwear, organic honey, berry syrups at Mapro Garden; artisanal leather at Town Market",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Monsoon fog may reduce viewpoint visibility; book 45 days ahead in peak autumn/winter; check-in 14:00, check-out 11:00",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Honeymoon",
+      "Romance",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-005-premium-mahabaleshwar-honeymoon-package-itinerary",
+    "title": "Premium Mahabaleshwar Honeymoon Package",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "An Ultimate Romantic Escapade Amidst Cloud-Kissed Valleys • 4 Nights / 5 Days",
+    "overview": "Welcome to an unforgettable journey into romance, beautifully tailored by TRAGUIN. This exclusive Mahabaleshwar Honeymoon Package sweeps you away into the emerald heart of the Sahyadri Hills. Known for its mesmerizing breathtaking landscapes, mist-shrouded viewpoints, and sweet berry plantations, a Luxury Mahabaleshwar Holiday offers newlywed couples a perfect sanctuary of privacy and rejuvenation. Melding private premium transfers, highly romantic candle-lit dining, immersive natural trails, and handpicked hotels, we invite you to design memories that will look beautiful forever.\n\nYour romantic journey on this Best Mahabaleshwar Tour Package begins with a private premium pickup from Pune or Mumbai, sweeping upwards into the majestic evergreen ranges. Experience the finest elements of a Premium Mahabaleshwar Experience meticulously designed for modern couples. From private strawberry farm pickings to intimate sunset boat rides on Venna Lake and historic fort walks, every element of this itinerary reflects premium attention. Escape the frantic city rush and let your love blossom against the spectacular scenic beauty of cloud-filled valleys and waterfalls.\n\nWhy Choose a Mahabaleshwar Honeymoon? Crowned as the ultimate honeymoon capital of Western India, Mahabaleshwar seamlessly balances old-world colonial romance with dramatic natural topography. For couples seeking a premium mountain getaway, it provides cooler alpine breezes, beautiful rolling valleys, and iconic attractions that naturally inspire bonding and closeness.\n\nTop Tourist Places & Instagram Locations: Capture striking romantic memories at the dramatic Arthur's Seat (known as the Queen of Points), the majestic Elphinstone Point, the serene Venna Lake, Mapro Garden, and the spectacular, breeze-swept Table Land in Panchgani. This customized TRAGUIN Mahabaleshwar Packages setup ensures you explore these highly sought-after destinations during perfect daylight intervals with zero crowded rushing, prioritizing couple intimacy.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-005 | Premium Mahabaleshwar Honeymoon Package | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Mahabaleshwar honeymoon package (MH-005 / TRAGUIN-MAHA-HON-005): Panchgani Table Land, Arthur's Seat, Venna Lake, Pratapgad Fort, strawberry farms, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Table Land, Sydney Point & Parsi Point Panchgani",
+        "sort_order": 1
+      },
+      {
+        "text": "Old Mahabaleshwar Temple, Arthur's Seat, Eco Point & Venna Lake",
+        "sort_order": 2
+      },
+      {
+        "text": "Pratapgad Fort, Afzal Khan Tomb & Private Strawberry Farms",
+        "sort_order": 3
+      },
+      {
+        "text": "Bombay Point, Lodwick Point & Elephant's Head Rock",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private early morning strawberry picking trail with local farm owners",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Transit via Panchgani | Gateway to Alpine Serenity",
+        "description": "Your specialized Mahabaleshwar Family Tour & Honeymoon vehicle will receive you warmly at Pune Airport or Mumbai Airport. Enjoy a wonderfully scenic route winding uphill through rolling green ranges. Stop along the way at the picturesque town of Panchgani to walk hand-in-hand over Table Land, the second longest volcanic plateau in Asia, offering panoramic mountain views. Enjoy local fresh strawberry creams together before reaching your ultra-luxury resort in Mahabaleshwar. Receive a custom TRAGUIN welcome mocktail, check into your master honeymoon suite, and relax in absolute comfort.",
+        "activities": [
+          "Sightseeing Included: Table Land, Sydney Point, Parsi Point Panchgani",
+          "Optional Activities: Couple Tandem Paragliding at Panchgani hills",
+          "Evening Experience: Intimate welcome drink by the resort infinity pool",
+          "Overnight Stay: Mahabaleshwar Luxury Honeymoon Resort",
+          "Meals Included: Romantic Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mahabaleshwar Sightseeing | Iconic Viewpoints & Floating Romance",
+        "description": "Wake up to a golden morning mist rising over the valley. After a premium breakfast, begin your targeted Mahabaleshwar Sightseeing exploration. Visit the timeless Mahabaleshwar Temple to experience the cultural history of the Krishna River source. Then, head to the dramatic heights of Arthur's Seat, where lightweight objects float due to unique air currents. In the late afternoon, your driver will usher you to the iconic Venna Lake. Step into a privately decorated rowboat under a quiet canopy, watching the sun dip cleanly into the shimmering waters while creating unforgettable memories together.",
+        "activities": [
+          "Sightseeing Included: Old Mahabaleshwar Temple, Arthur's Seat, Eco Point, Venna Lake",
+          "Optional Activities: Horse-riding along the lakeside paths",
+          "Evening Experience: Private lakeside walk followed by local sweet treats",
+          "Overnight Stay: Mahabaleshwar Luxury Honeymoon Resort",
+          "Meals Included: Breakfast & Speciality Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Heritage Exploration at Pratapgad Fort | Love in a Historic Fortress",
+        "description": "Indulge in a rich breakfast before venturing onto a scenic forest drive to the legendary Pratapgad Fort, a majestic historical citadel positioned high among mountain ridges. Walk with your private historical guide down ancient stone corridors, learning tales of bravery while taking spectacular photographs against deep-cut green drop-offs. In the afternoon, return to town and stop at a handpicked organic strawberry plantation. Hand-pick sweet premium berries right off the vine together—an immersive experience curated specifically by TRAGUIN experts to capture pure joy.",
+        "activities": [
+          "Sightseeing Included: Pratapgad Fort, Afzal Khan Tomb, Private Strawberry Farms",
+          "Optional Activities: Trekking up the watchtowers for sweeping horizon views",
+          "Evening Experience: Honeymoon Special Candle-light dinner with complimentary cake",
+          "Overnight Stay: Mahabaleshwar Luxury Honeymoon Resort",
+          "Meals Included: Breakfast & Candle-Light Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Leisure, Deep Rejuvenation & Spectacular Sunsets",
+        "description": "Dedicate this day to ultimate relaxation and deep individual connection. Sleep in and relish breakfast served directly to your room balcony. In the afternoon, partake in an exclusive premium couple's spa ritual at your resort to completely de-stress. Around 4 PM, travel down shaded woodland paths toward Bombay Point (Sunset Point). This spot is globally loved for its wide panoramic vistas of the valley glowing gold. Sit quietly on manicured lawns, toast to your beautiful life ahead, and enjoy the magical, scenic beauty of the Sahyadris.",
+        "activities": [
+          "Sightseeing Included: Bombay Point, Lodwick Point, Elephant's Head Rock",
+          "Optional Activities: Premium Ayurvedic Wellness Spa Therapy for Couples",
+          "Evening Experience: Live music lounge visit or starlit poolside cocktail hour",
+          "Overnight Stay: Mahabaleshwar Luxury Honeymoon Resort",
+          "Meals Included: Breakfast & Chef's Special Fare"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Bidding Farewell | Taking Back Endless Romantic Memories",
+        "description": "Savor your final morning breakfast in this high-altitude haven. Take a slow stroll through the resort's beautifully manicured gardens for a few final souvenir photographs. Complete your seamless check-out, and join your private chauffeur for the smooth descent back down towards Pune or Mumbai. Stop briefly at the famous Mapro Gardens to buy fresh syrups, chocolates, and unique souvenirs for family back home. Your unmatched TRAGUIN Mahabaleshwar Package finishes as you arrive at the airport or train terminal, completely rejuvenated and deeply in love.",
+        "activities": [
+          "Sightseeing Included: Mapro Garden Retail Outlet, Return Hill Drive",
+          "Optional Activities: Buying artisanal leather footwear at the local town market",
+          "Evening Experience: Drop-off assistance at your homeward terminal",
+          "Overnight Stay: Departure / End of Luxury Services",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Brightland Resort & Spa / Evershine Resort",
+        "location": "Mahabaleshwar",
+        "nights_label": "04 Nights",
+        "description": "Deluxe tier with welcome drink included.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Valley View Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Le Méridien Mahabaleshwar Resort & Spa",
+        "location": "Mahabaleshwar",
+        "nights_label": "04 Nights",
+        "description": "Premium tier with 15% spa discount voucher.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Classic Forest King Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Courtyard by Marriott Mahabaleshwar / Ramsukh Resorts",
+        "location": "Mahabaleshwar",
+        "nights_label": "04 Nights",
+        "description": "Luxury tier with private farm access.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium Valley View Deck Room",
+        "meal_plan": "Breakfast & Special Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Le Méridien Luxury Valley View Suite / Ramsukh Private Pool Villa",
+        "location": "Mahabaleshwar",
+        "nights_label": "04 Nights",
+        "description": "Ultra-luxury with private butler, floral bed decor and cake.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Exclusive Couple Suite with Plunge Pool",
+        "meal_plan": "Gourmet MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Elite Accommodation: 04 Nights luxury stay in handpicked premium properties with great mountain views.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Bespoke Meal Plan: Daily elaborate breakfasts and custom multi-course dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: All long-distance touring, hill climbing, and private airport transits via a premium vehicle.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Honeymoon Welcoming: Complimentary floral bed arrangement, rich chocolate cake, and farm-fresh strawberries.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Boating Experience: Exclusive couple's rowboat hire on the serene Venna Lake.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP Access & Entry: Pre-booked entry tickets and private local guides for Pratapgad Fort.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Full Professional Coverage: All toll fees, mountain parking passes, driver allowances, and fuel charges are fully paid.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Continuous 24/7 dedicated remote concierge support from elite luxury travel planners.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International flight fares, train tickets, or major transit terminal expenses.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidental expenses such as laundry, mini-bar usage, phone calls, and optional room service meals.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any outdoor paragliding, heavy camera/drone licenses, or optional adventure sports fees.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any lunch meals, roadside snacks, or alcoholic beverage packages not specifically outlined above.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory peak holiday surcharges (applicable during long weekends, Diwali, Christmas, and New Year blocks).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage and medical expenses of any nature.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

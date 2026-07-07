@@ -1,0 +1,342 @@
+{
+  "destination_slug": "australia",
+  "package": {
+    "slug": "au-004-australia-family-explorer",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Australia Family Explorer",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 33,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sydney (4N) → Melbourne (3N) east-coast family circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Opera House, Blue Mountains & harbour sunset cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Melbourne laneways, Great Ocean Road & Twelve Apostles",
+        "sort_order": 3
+      },
+      {
+        "text": "Phillip Island Penguin Parade wildlife gala",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-AUS-FAM-2026 | Serial AU-004",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural",
+      "Wildlife",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "au-004-australia-family-explorer-itinerary",
+    "title": "Australia Family Explorer",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Australia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sydney • Melbourne • Great Ocean Road",
+    "overview": "Embark on an epic Southern Hemisphere journey blending Sydney's iconic harbour-front metropolis with Melbourne's bohemian art-filled coffee culture. This TRAGUIN curated family expedition includes full luxury ground transit in private vehicles, pre-booked skip-the-line admissions to world heritage monuments, and handpicked hotels guaranteeing absolute comfort and premium service for multi-generational families.",
+    "is_featured": true,
+    "featured_sort_order": 33,
+    "seo_title": "AU-004 | Australia Family Explorer Sydney & Melbourne | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Australia family tour (AU-004): Sydney Opera House, Blue Mountains, Melbourne laneways, Great Ocean Road, and Phillip Island Penguin Parade.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sydney Opera House Private Tour",
+        "sort_order": 1
+      },
+      {
+        "text": "Blue Mountains & Three Sisters",
+        "sort_order": 2
+      },
+      {
+        "text": "Melbourne Street-Art Laneways",
+        "sort_order": 3
+      },
+      {
+        "text": "Great Ocean Road & Twelve Apostles",
+        "sort_order": 4
+      },
+      {
+        "text": "Phillip Island Penguin Parade",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Sydney & Harbour Welcome",
+        "description": "Seamless airport reception and private transfer to harbour-view hotel. Evening Circular Quay walk with Opera House and Harbour Bridge views.",
+        "activities": [
+          "Sightseeing Included: Private luxury vehicle airport reception, Circular Quay & Opera House evening walk",
+          "Evening Experience: Family welcome dinner at upscale harbor-front restaurant",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: International Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sydney Icons & Wildlife Encounter",
+        "description": "Private Opera House tour and Taronga Zoo with koalas and kangaroos.",
+        "activities": [
+          "Sightseeing Included: Opera House guided tour, Taronga Zoo wildlife encounter passes",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: International Breakfast & Casual Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Blue Mountains Adventure",
+        "description": "Full-day Blue Mountains trip with Three Sisters viewpoint and Scenic World railway and cable car.",
+        "activities": [
+          "Sightseeing Included: Blue Mountains tour, Three Sisters viewpoint, Scenic World adventure passes",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: International Breakfast & Picnic Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Sydney Leisure & Harbour Cruise",
+        "description": "Relaxed morning at Bondi Beach. Afternoon private harbour cruise along dramatic coastline.",
+        "activities": [
+          "Sightseeing Included: Bondi beach leisure afternoon, private harbor sunset cruise",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: International Breakfast & Farewell Sydney Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Flight to Melbourne & Lanes Exploration",
+        "description": "Fly to Melbourne. Private guided walking tour of famous art-filled laneways and boutique cafes.",
+        "activities": [
+          "Sightseeing Included: Flight transit, Melbourne street-art laneways private guided tour",
+          "Overnight Stay: Melbourne CBD (Premium Family Hotel)",
+          "Meals Included: International Breakfast & City Centre Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Epic Great Ocean Road Expedition",
+        "description": "Full-day Great Ocean Road tour with Twelve Apostles and wild koalas in forest canopy.",
+        "activities": [
+          "Sightseeing Included: Great Ocean Road guided day trip, Twelve Apostles viewing",
+          "Overnight Stay: Melbourne CBD (Premium Family Hotel)",
+          "Meals Included: International Breakfast & Gourmet Roadside Lunch"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Phillip Island Wildlife Gala",
+        "description": "Phillip Island Nature Park and famous Penguin Parade at dusk. Grand farewell gala dinner in Melbourne.",
+        "activities": [
+          "Sightseeing Included: Phillip Island Nature Park, Penguin Parade evening ticket",
+          "Evening Experience: Grand farewell gala dinner at terrace restaurant in Melbourne",
+          "Overnight Stay: Melbourne CBD (Premium Family Hotel)",
+          "Meals Included: International Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Melbourne Departure",
+        "description": "Final luxury breakfast before private airport transfer.",
+        "activities": [
+          "Sightseeing Included: Private airport transit, luggage assistance",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pier One Sydney Harbour / similar",
+        "location": "Sydney",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Crowne Plaza Melbourne / similar",
+        "location": "Melbourne",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Shangri-La Sydney",
+        "location": "Sydney",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Crown Towers Melbourne",
+        "location": "Melbourne",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Crown Towers Sydney",
+        "location": "Sydney",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "W Melbourne",
+        "location": "Melbourne",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Park Hyatt Sydney",
+        "location": "Sydney",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Langham Melbourne",
+        "location": "Melbourne",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in handpicked premium family hotels in Sydney and Melbourne",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury chauffeur-driven ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flight coordination between Sydney and Melbourne",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Pre-booked skip-the-line admissions to Opera House, zoos, and nature parks",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Great Ocean Road guided day trip and Phillip Island Penguin Parade tickets",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private Sydney harbour sunset cruise on Day 4",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Australia entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

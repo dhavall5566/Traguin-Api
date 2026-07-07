@@ -1,0 +1,428 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-006-char-dham-yatra",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Char Dham Yatra • Absolute Spiritual Awakening",
+    "duration_label": "10 Nights / 11 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 25,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Haridwar/Rishikesh (2N) → Barkot/Uttarkashi (4N) → Guptkashi/Badrinath (4N)",
+        "sort_order": 1
+      },
+      {
+        "text": "Private high-clearance luxury vehicle with hill-experienced chauffeurs",
+        "sort_order": 2
+      },
+      {
+        "text": "Premium MAPAI pure vegetarian breakfasts and dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Exclusive reserved seating for Haridwar Ganga Aarti",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 round-the-clock ground assistance marshals",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-006 | Serial UK-006",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Spiritual",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-006-char-dham-itinerary",
+    "title": "Char Dham Yatra • Absolute Spiritual Awakening",
+    "duration_label": "10 Nights / 11 Days",
+    "duration_days": 11,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised Pilgrimage)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Haridwar • Barkot • Yamunotri • Gangotri • Kedarnath • Badrinath • Rishikesh",
+    "overview": "This elite 10 Nights / 11 Days itinerary offers a meticulously balanced journey through the four sacred abodes of Uttarakhand—Yamunotri, Gangotri, Kedarnath, and Badrinath. Traveling in a customized, private luxury transportation vehicle with highly skilled mountain marshals, your safety and absolute relaxation remain our highest priority. Featuring a specialized meal plan consisting of nourishing, freshly prepared pure vegetarian breakfasts and dinners, this journey represents the finest premium Uttarakhand experience available. Every step of your yatra includes signature TRAGUIN curated experiences, offering hassle-free registration, helicopter/palki coordination assistance, and around-the-clock bespoke ground support.",
+    "is_featured": true,
+    "featured_sort_order": 25,
+    "seo_title": "UK-006 | Char Dham Yatra Uttarakhand | TRAGUIN",
+    "seo_description": "Premium 10 Nights / 11 Days Char Dham yatra (UK-006): Yamunotri, Gangotri, Kedarnath, Badrinath with luxury stays, MAPAI vegetarian plan, and VIP Ganga Aarti seating.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Har Ki Pauri Ganga Aarti",
+        "sort_order": 1
+      },
+      {
+        "text": "Yamunotri Temple & Surya Kund",
+        "sort_order": 2
+      },
+      {
+        "text": "Gangotri Temple & Harsil Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Kedarnath Jyotirlinga Darshan",
+        "sort_order": 4
+      },
+      {
+        "text": "Badrinath Temple & Mana Village",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Haridwar | Gateway to the Gods",
+        "description": "Your premium Uttarakhand experience commences as you are received at New Delhi Airport or Dehradun Airport by your private luxury transport chauffeur. Enjoy a smooth drive to Haridwar, the historic gateway to Devbhoomi. Check into your handpicked premium hotel along the Ganges. After relaxing, step out for an exclusive evening experience at Har Ki Pauri to witness the world-renowned evening Ganga Aarti ceremony, where thousands of oil lamps reflect beautifully on the holy river.",
+        "activities": [
+          "Sightseeing Included: Har Ki Pauri, Mansa Devi Temple (via private cable car), evening spiritual walks",
+          "Evening Experience: Reserved seating for the grand Aarti ceremony managed by TRAGUIN experts",
+          "Overnight Stay: Haridwar (Premium Riverside Luxury Hotel)",
+          "Meals Included: Welcome Divine Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Haridwar to Barkot | Scenic Mountain Ascent to the Shivalik Foothills",
+        "description": "Awake to the chime of temple bells and enjoy a lavish breakfast. Board your premium luxury vehicle for a scenic drive toward Barkot via Dehradun and the queen of hills, Mussoorie. En route, pause at the majestic Kempty Falls for photography points and a refreshing break. As you ascend higher, notice the breathtaking landscapes change into dense pine forests and snow-tipped alpine views. Arrive at your cozy, handpicked luxury cottage resort in Barkot.",
+        "activities": [
+          "Sightseeing Included: Kempty Falls, Mussoorie bypass ridge, Yamuna River valley drive",
+          "Optional Activities: Short nature walk around the apple orchards surrounding your luxury cottages",
+          "Overnight Stay: Barkot / Janki Chatti outskirts (Premium Luxury Cottages)",
+          "Meals Included: Premium Breakfast & Organic Satvik Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Barkot to Yamunotri Excursion | The First Abode",
+        "description": "Depart before sunrise to Janki Chatti, the launchpad for your holy trek to Yamunotri (6 km). TRAGUIN can arrange a premium pony or palki service for an effortless journey. Arrive at the holy shrine of Yamunotri against a dramatic backdrop of rugged cliffs. Cook rice in the boiling waters of Surya Kund as a sacred offering, take a holy dip in Jamunabai Kund, and enjoy VIP Darshan of Goddess Yamuna. Return to Barkot late in the afternoon to rest your muscles.",
+        "activities": [
+          "Sightseeing Included: Yamunotri Temple, Surya Kund thermal spring, Divya Shila rock altar",
+          "Evening Experience: Foot reflexology massage service pre-arranged at your luxury cottage resort",
+          "Overnight Stay: Barkot / Janki Chatti outskirts (Premium Luxury Cottages)",
+          "Meals Included: Nourishing Breakfast & Hearty Himalayan Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Barkot to Uttarkashi | Journey Along the Bhagirathi",
+        "description": "Enjoy a relaxed breakfast before packing your bags for a gorgeous journey to Uttarkashi, situated on the banks of the pristine Bhagirathi River. The drive features scenic beauty, passing through tunnels and riverside paths. Upon arrival, check into your premium luxury riverfront hotel. In the evening, visit the historic Kashi Vishwanath Temple, famous for its massive, enigmatic copper trident embedded deep into the earth.",
+        "activities": [
+          "Sightseeing Included: Kashi Vishwanath Temple, Shakti Temple, Bhagirathi Riverfront ghats",
+          "Photography Points: The suspension bridge over Bhagirathi, stunning mountain reflections at sunset",
+          "Overnight Stay: Uttarkashi (Premium Valley View Luxury Resort)",
+          "Meals Included: Breakfast & Exquisite Vegetarian Buffet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Uttarkashi to Gangotri Excursion | The Second Abode",
+        "description": "Today, travel up the spectacular Bhagirathi Valley to Gangotri. Pass through Harsil, a hidden paradise famous for apple orchards and popular Instagram locations. Arrive at the iconic white granite Gangotri Temple, surrounded by towering deodar and cedar forests. Take part in the holy rituals on the banks of the Bhagirathi, explore the submerged rock lingam where Lord Shiva caught the river in his locks, and head back to Uttarkashi in your luxury transport.",
+        "activities": [
+          "Sightseeing Included: Gangotri Temple, Bhagirathi River stone bank, Harsil Valley apple estates",
+          "Optional Activities: Sampling freshly baked local Himachali apple turnover desserts in Harsil village",
+          "Overnight Stay: Uttarkashi (Premium Valley View Luxury Resort)",
+          "Meals Included: Early Breakfast & Warm Signature Comfort Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Uttarkashi to Guptkashi | Crossing the Sacred Valley Ridges",
+        "description": "Set off on a long, visually stunning transit day across the heart of the Garhwal hills toward Guptkashi. Your route winds around lush green terraced mountains with vistas of the Mandakini River. Pass through serene mountain towns and glimpse the historic Tehri Dam reservoir. Arrive at your luxury Swiss glamping tents or premium resort in Guptkashi, where a medical status check-up is organized to prepare your family for the upcoming Kedarnath journey.",
+        "activities": [
+          "Sightseeing Included: Tehri Dam overview points, Mandakini Valley convergence panoramas",
+          "Evening Experience: Visit the ancient Ardhanarishwar Temple in Guptkashi for private peaceful meditation",
+          "Overnight Stay: Guptkashi / Phata (Premium Luxury Resort / Premium Glamping)",
+          "Meals Included: Breakfast & Nutritious Multi-course Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Guptkashi to Kedarnath | The Third Abode",
+        "description": "Today marks the apex of your spiritual immersion. Transfer to Phata or Sirsi helipad for an elite helicopter flight directly to Kedarnath, skipping the arduous 18 km trek. Walk to the majestic 8th-century Kedarnath Temple, standing proud in front of the snow-clad Kedarnath peak. Feel the deep spiritual energy as you enter the temple for an intimate darshan. In the evening, witness the legendary night temple ritual when the mountain air echoes with ancient chants.",
+        "activities": [
+          "Sightseeing Included: Kedarnath Jyotirlinga, Bhairav Nath Temple trek path, Shankaracharya Samadhi",
+          "Immersive Experiences: Experiencing the majestic sunset glow casting gold over the snow peaks behind the shrine",
+          "Overnight Stay: Kedarnath (Premium Selected Guest House / Swiss Camps near the shrine)",
+          "Meals Included: Breakfast & Warm Freshly Prepared local Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Kedarnath to Guptkashi / Rudraprayag | Return Flyback & Comfort Resort Relaxation",
+        "description": "Wake up early for a rare morning darshan of the deity draped in fresh Himalayan snow-melt waters. Board your scheduled helicopter flight back to the base station. Your private luxury transportation vehicle will be waiting to take you down to a lower altitude resort in Rudraprayag. Unwind and relax after your high-altitude journey, enjoying the luxury amenities and pristine mountain views.",
+        "activities": [
+          "Sightseeing Included: Helicopter return flyback, Rudraprayag Sangam (Confluence of Alaknanda & Mandakini)",
+          "Evening Experience: Relaxing beside a private evening bonfire arranged on the resort lawn",
+          "Overnight Stay: Rudraprayag / Guptkashi (Premium Luxury Riverside Resort)",
+          "Meals Included: Breakfast & Premium Global Buffet Dinner"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Rudraprayag to Badrinath | The Fourth Abode",
+        "description": "Drive through Joshimath along the spectacular Alaknanda River to Badrinath, the final temple of your Char Dham journey. Check into your premium luxury hotel. After a short rest, take a refreshing dip in the hot sulfur waters of Tapt Kund before stepping into the colorfully painted Badrinath Temple for an exclusive VIP entry experience. Later, explore Mana Village, the last Indian village before the Tibetan border, to see the historic Vyas Cave where the Mahabharata was transcribed.",
+        "activities": [
+          "Sightseeing Included: Badrinath Temple, Tapt Kund, Mana Village, Vyas Cave, Saraswati River Origin bridge",
+          "Evening Experience: Reserved access to the special evening Kapoor Aarti inside the inner sanctum",
+          "Overnight Stay: Badrinath (Premium Selected Luxury Stay / Sarovar Portico style)",
+          "Meals Included: Breakfast & Royal Satvik Vegetarian Dinner"
+        ],
+        "sort_order": 9
+      },
+      {
+        "day_number": 10,
+        "title": "Badrinath to Rishikesh | Yoga Capital of the World",
+        "description": "After breakfast, enjoy a pleasant drive down the hills to Rishikesh, the world capital of Yoga and spiritual rejuvenation. Check into your luxury wellness spa resort along the riverbank. Spend your afternoon visiting the iconic attractions of Lakshman Jhula and Ram Jhula, followed by an elegant farewell walk along the serene white-sand beaches of the upper Ganges.",
+        "activities": [
+          "Sightseeing Included: Ram Jhula, Lakshman Jhula suspension points, Beatles Ashram architecture",
+          "Optional Activities: Private evening yoga and sound-healing meditation session at the wellness resort",
+          "Overnight Stay: Rishikesh (Premium Luxury Wellness Spa Resort)",
+          "Meals Included: Breakfast & Farewell Premium Gourmet Dinner"
+        ],
+        "sort_order": 10
+      },
+      {
+        "day_number": 11,
+        "title": "Rishikesh to Delhi / Departure | Return with Holy Blessings",
+        "description": "Indulge in a final morning breakfast overlooking the peaceful flowing waters of the Ganges. Your private luxury transportation vehicle will pick you up for a smooth highway drive back to New Delhi Airport or Railway Station. Return home carrying sacred blessings, deep peace, and unforgettable memories from your premium pilgrimage expertly organized by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private door-to-door luxury highway transfer back to Delhi",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 11
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Regenta Central / Lemon Tree",
+        "location": "Haridwar / Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Barkot Luxury Camps / Shivlinga",
+        "location": "Barkot / Uttarkashi",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chhangani Resort / New Snow Crest",
+        "location": "Guptkashi / Badrinath",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Pilibhit House / Aloha On Ganges",
+        "location": "Haridwar / Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Camp Nirvana / Himalayan Eco Lodges",
+        "location": "Barkot / Uttarkashi",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Villa Kedarnath / Sarovar Portico",
+        "location": "Guptkashi / Badrinath",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Rishikesh Resort & Spa",
+        "location": "Haridwar / Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Monal Resort Premium Deluxe Suites",
+        "location": "Barkot / Uttarkashi",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "The Kedar Camp Resort Luxury Cottages",
+        "location": "Guptkashi / Badrinath",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Ananda In The Himalayas (Palace Suite)",
+        "location": "Haridwar / Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "VVIP Custom Private Glamping Suites",
+        "location": "Barkot / Uttarkashi",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Bespoke Private Heli-Chalet Retainers",
+        "location": "Guptkashi / Badrinath",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Premium MAPAI (Pure Vegetarian)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 10 Nights in handpicked properties and premium cottages",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated high-clearance vehicle for mountain roads",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Nourishing, pure vegetarian daily breakfast and dinners",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 round-the-clock ground assistance marshals on-site",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family biometric card kit and medical check coordination",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Exclusive reserved seating tickets for Haridwar Ganga Aarti",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or long-distance trains to/from New Delhi",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Helicopter shuttle tickets or mule/palki rental fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, temple puja offerings, tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any insurance cover or extra medical hospitalization bills",
+        "sort_order": 10
+      }
+    ]
+  }
+}

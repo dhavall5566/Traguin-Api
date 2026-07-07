@@ -1,0 +1,325 @@
+{
+  "destination_slug": "manipur",
+  "package": {
+    "slug": "mn-003-manipur-explorer-luxury-expedition",
+    "serial_code": "MN-003",
+    "traguin_tour_code": "TRG-MAN-EXPLORER-003",
+    "title": "Manipur Explorer Luxury Expedition",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MN-003 | TRAGUIN tour code TRG-MAN-EXPLORER-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Manipur / India | Category: Luxury Adventure &",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Imphal • Loktak Lake • Moirang • Khangkhui Caves • Ukhrul",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Explorers, Adventure Seekers, Culture & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to April (Pleasant Mountain Weather)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Bespoke Package)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium 4x4 SUV & Full Board (All Meals)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private classical Jagoi dance and live Thang-Ta martial arts",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom cave exploration mapping with premium safety",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Dedicated destination managers handling all permissions, inner-line",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Stay in ultra-exclusive overwater cottages on Loktak Lake with",
+        "sort_order": 11
+      },
+      {
+        "text": "Travel Permissions: Internal security validations and local reporting are fully managed in",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Wildlife",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mn-003-manipur-explorer-luxury-expedition-itinerary",
+    "title": "Manipur Explorer Luxury Expedition",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Manipur Explorer Luxury Expedition",
+    "overview": "MANIPUR EXPLORER LUXURY EXPEDITION 05 Nights / 06 Days Premium Crafted Itinerary Welcome to the jewel of Northeast India with the exclusive Best Manipur Tour Package designed flawlessly by TRAGUIN. Manipur is a spellbinding tapestry of emerald hills, ancient TRAGUIN Premium Luxury Expeditions tribal lore, and floating worlds that defy imagination. This bespoke holiday is crafted meticulously as a premium Manipur Honeymoon Package and an enriching Manipur Family Tour, perfect for elite travelers seeking high-octane thrills and unparalleled comforts. Prepare to surrender your senses to breathtaking landscapes, delve deep into limestone caverns, and stand amazed before the world’s only floating national park. Let the legendary hospitality of the land and the elite curation of a Luxury Manipur Holiday elevate your travel story into an unforgettable memory.\n\nTOUR OVERVIEW\nThis elite, hand-tailored exploration charts the absolute pinnacle of cultural heritage and active adventure in Manipur. Operating as a private, high-end FIT expedition, your journey encompasses smooth valley routes and rugged mountain ascents handled entirely by our professional drivers in premium luxury 4x4 SUVs. Your fully managed meal plan ranges from gourmet fine-dining continental menus to curated traditional Meitei and Tangkhul tribal feasts. Every moment of this itinerary features a signature TRAGUIN curated experience note: you will bypass public crowds with private motorboat access on Loktak Lake, explore deep cavern networks accompanied by expert speleologists, and settle each evening into handpicked luxury hotels and premium eco-lodges offering ultimate privacy and warmth. DESTINATION SPOTLIGHT & HIGH-SEARCH EXPERIENCES\n\nWhy Visit Manipur? Known historically as the 'Jewel of India', Manipur remains one of Asia's most\nenigmatic frontier destinations. It offers an unfiltered look into ancient kingdoms, rare endemic species, and dramatic topography, presenting a pristine playground for a Premium Manipur Experience. Famous Attractions & Most Searched Experiences: This comprehensive journey brings you face-to- face with legendary highlights during your Manipur Sightseeing. Experience the incredible floating islands (Phumdis) of Loktak Lake, the historic Kangla Fort, the inspiring INA Memorial at Moirang, the unique women-led Ima Keithel market, and the dramatic pine-laden heights of Ukhrul. Best Honeymoon, Family, & Luxury Points: For couples, a private sunset cruise inside Loktak Lake while staying in a premium overwater cottage offers unmatched romantic intimacy. For families, the educational experience of seeing the endangered Sangai brow-antlered deer leaping across floating marshes provides incredible bonding moments. Popular Instagram Locations: Capture striking visual content at the panoramic viewpoints over Loktak Lake, inside the dark limestone chambers of Khangkhui Caves, and amidst the lush green slopes of Shirui Kashong Peak. Adventure, Shopping, & Culture Highlights: Trek through steep ridges home to the rare Shirui Lily, explore subterranean prehistoric cave systems, shop for elite handwoven Moirang Phee silks, and TRAGUIN Premium Luxury Expeditions witness exclusive private showcases of classical Manipuri Jagoi dancing and traditional martial arts (Thang-Ta).",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MN-003 | Manipur Explorer Luxury Expedition | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Manipur package (MN-003 / TRG-MAN-EXPLORER-003): Imphal • Loktak Lake • Moirang • Khangkhui Caves • Ukhrul with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN IMPHAL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: IMPHAL TO LOKTAK LAKE & MOIRANG",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: LOKTAK TO IMPHAL",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: IMPHAL TO UKHRUL",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: UKHRUL (SHIRUI PEAK & KHANGKHUI CAVES)",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: UKHRUL TO IMPHAL DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private classical Jagoi dance and live Thang-Ta martial arts",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom cave exploration mapping with premium safety",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: Dedicated destination managers handling all permissions, inner-line",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN IMPHAL",
+        "description": "THE ROYAL GATEWAY & MYTHICAL BEGINNINGS Your extraordinary luxury adventure begins as your flight descends into Imphal Airport. As you step into the arrival terminal, a senior TRAGUIN luxury travel concierge awaits to receive you with a traditional silk stole welcome and chilled native fruit mocktails. Transition seamlessly into your waiting premium private 4x4 SUV and transfer to your luxury hotel. After checking in and enjoying a curated lunch, set out to explore the historic capital city. Your afternoon features exclusive entry into the ancient Kangla Fort, the seat of the medieval Ningthouja dynasty. Walk past historical royal moats and traditional sacred shrines as our expert historian uncovers tales of old empires. Conclude your afternoon at the unique Ima Keithel (Mother’s Market), the world’s largest and oldest commercial market run exclusively by over 5,000 married women, offering a spectacular glimpse into Manipur's vibrant social structure.",
+        "activities": [
+          "Sightseeing Included: Kangla Fort, Kangla Museum, Ima Keithel, Govindajee Temple.",
+          "Optional Activities: Private consultation with a master silk-weaver.",
+          "Evening Experience: Private orientation by your Expedition Lead paired with an authentic Meitei fine-dining dinner.",
+          "Overnight Stay: Classic Luxury Hotel in Imphal.",
+          "Meals Included: Welcome Lunch & Curated Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "IMPHAL TO LOKTAK LAKE & MOIRANG",
+        "description": "THE FLOATING WORLD & THE SACRED SANGAI SANCTUARY Wake up to a crisp morning and enjoy a gourmet breakfast. Today, you embark on one of the most remarkable highlights of your TRAGUIN Manipur Packages—a scenic drive south to the ethereal Loktak Lake, the largest freshwater lake in Northeast India. Arriving at the lakeside, step aboard our private luxury motorboat and cruise through the vast expanse of water dotted with 'Phumdis'—unique circular formations of floating organic matter that look like emerald rings from above. Disembark directly at Keibul Lamjao National Park, the world’s only floating national park. Guided by an indigenous naturalist, look through high-end spotting scopes to witness the majestic Sangai (Brow-antlered Deer), affectionately called the dancing deer, leaping gracefully",
+        "activities": [
+          "Sightseeing Included: Loktak Lake Cruise, Keibul Lamjao Floating Park, INA Memorial Museum, Sendra Hill",
+          "Optional Activities: Traditional dugout canoe ride managed by local fishermen.",
+          "Evening Experience: Breathtaking sunset champagne toast at our exclusive overwater lake viewpoint.",
+          "Overnight Stay: Premium Overwater Eco-Resort Cottages at Loktak.",
+          "Meals Included: Breakfast, Fresh Lakefront Lunch, Private Curated Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "LOKTAK TO IMPHAL",
+        "description": "SERPENTINE ROADS, CASCADING WATERFALLS & CULTURAL SHOWCASES Savor a glorious overwater breakfast as the morning mist gently lifts from Loktak Lake. Check out and embark on an adventurous detour along the scenic foothill roads towards Khoupum valley extensions. This panoramic drive takes you through dramatic landscape formations, terraced hillsides, and pristine tribal hamlets. Stop at a secluded canyon viewpoint where a private gourmet picnic lunch has been set up exclusively for you by our trail team beside a cascading mountain waterfall. Return to Imphal by late afternoon. After refreshing at your luxury hotel, transfer to a private heritage amphitheater. Here, enjoy an exclusive private performance of the world-famous Manipuri Classical Dance (Jagoi) and the thrilling martial art of Thang-Ta (Spear and Sword play), celebrating the deep emotional spiritualism and physical agility of Manipuri culture.",
+        "activities": [
+          "Sightseeing Included: Foothill Panoramic Passages, Local Waterfalls, Private Performance Venue.",
+          "Optional Activities: Interactive basic drumming session with classical exponents.",
+          "Evening Experience: Royal classical performance showcase followed by an elegant multi-course dinner.",
+          "Overnight Stay: Classic Luxury Hotel in Imphal.",
+          "Meals Included: Breakfast, Luxury Waterfall Picnic Lunch, Fine Dining Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Imphal to Ukhrul",
+        "description": "Enjoy an early breakfast before commencing an exhilarating journey into the high-altitude mountain country of Ukhrul, the home of the colorful Tangkhul Naga tribe. As your premium 4x4 SUV negotiates the twisting mountain roads, look out at the deep gorges and dense pine forests that define the region. The air cools rapidly as you ascend to over 1,600 meters, entering a serene landscape wrapped in perpetual mountain mist. Upon reaching Ukhrul, check into your premium luxury eco-lodge. In the afternoon, take a relaxed walking tour through a traditional Tangkhul village. Admire the distinctive architecture of tribal homes adorned with buffalo horns, symbolizing wealth and bravery. Engage with elder artisans who continue to craft traditional black pottery using techniques passed down through generations.",
+        "activities": [
+          "Sightseeing Included: Mountain Pass Highways, Longpi Pottery Village, Ukhrul Tribal Market.",
+          "Optional Activities: Black clay pottery molding workshop with a national award artisan.",
+          "Evening Experience: Fireside tribal storytelling session with locally roasted wild coffee and organic snacks.",
+          "Overnight Stay: Premium Luxury Eco-Lodge in Ukhrul.",
+          "Meals Included: Breakfast, Mountain View Lunch, Curated Tribal Barbecue Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "UKHRUL (SHIRUI PEAK & KHANGKHUI CAVES)",
+        "description": "SUBTERRANEAN MYSTERIES & THE HIGH PEAK LILY TREK Today brings a thrilling mix of subterranean exploration and mountain trekking. Following a hearty breakfast, your SUV takes you to the prehistoric Khangkhui Mangsor Caves. Equipped with premium safety helmets and high-powered headlamps, enter these ancient limestone caverns with an expert speleologist. Marvel at the grand stalactite and stalagmite formations as you explore deep chambers that served as natural air-raid shelters during World War II. In the afternoon, head to the base of the sacred Shirui Kashong Peak. Embark on a moderately challenging, professionally supported trek through beautiful rhododendron forests to the summit. This pristine mountain is the exclusive global home of the rare Shirui Lily (Lilium mackliniae). Stand atop the windy crest, surrounded by sweeping 360-degree views of the Myanmar border hills, and soak in the raw, majestic beauty of this unique destination. music.",
+        "activities": [
+          "Sightseeing Included: Khangkhui Cave System, Shirui Kashong Peak, High-Altitude Viewpoints.",
+          "Optional Activities: High-altitude alpine meditation or professional landscape photography session.",
+          "Evening Experience: A grand celebratory farewell dinner featuring fine fusion cuisine and acoustic mountain",
+          "Overnight Stay: Premium Luxury Eco-Lodge in Ukhrul.",
+          "Meals Included: Breakfast, Trailhead Hot Lunch, Grand Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Ukhrul to Imphal Departure",
+        "description": "Savor your final mountain-view breakfast as the morning sun casts a golden glow over the pine forests of Ukhrul. Take a quiet moment to absorb the crisp mountain air before checking out. Your professional TRAGUIN chauffeur will carefully secure your luggage for the comfortable downhill drive back to Imphal. Reflect on the incredible floating worlds, deep caverns, mist-laden peaks, and warm smiles encountered on your journey. Arrive at Imphal Airport seamlessly timed with your departure flight, concluding your premium luxury exploration with a rejuvenated spirit and stories to last a lifetime.",
+        "activities": [
+          "Sightseeing Included: En-route mountain valley lookouts, Imphal Airport Handover.",
+          "Overnight Stay: Departure / Homeward Journey.",
+          "Meals Included: Rich Continental Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Classic Hotel / Hotel Imphal | Sendra Park Resort (Standard) | Shalom Eco Lodge (Standard)",
+        "location": "Imphal | Loktak | Ukhrul",
+        "nights_label": "2N Imphal|1N Loktak|2N Ukhrul",
+        "description": "OPTION 01 – DELUXE: Classic Hotel / Hotel Imphal | Sendra Park Resort (Standard) | Shalom Eco Lodge (Standard) | MAPAI (Breakfast + Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Classic Grande (Executive) | Loktak Floating Cottages (Premium) | Shirui Eco Lodge (Premium Cabin)",
+        "location": "Imphal | Loktak | Ukhrul",
+        "nights_label": "2N Imphal|1N Loktak|2N Ukhrul",
+        "description": "OPTION 02 – PREMIUM: The Classic Grande (Executive) | Loktak Floating Cottages (Premium) | Shirui Eco Lodge (Premium Cabin) | APAI (All Meals Included)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "APAI (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Classic Grande (Suite Tier) | TRAGUIN Private Luxury Floating Villa | Ukhrul Heritage Retreat (Luxury Villa)",
+        "location": "Imphal | Loktak | Ukhrul",
+        "nights_label": "2N Imphal|1N Loktak|2N Ukhrul",
+        "description": "OPTION 03 – LUXURY: The Classic Grande (Suite Tier) | TRAGUIN Private Luxury Floating Villa | Ukhrul Heritage Retreat (Luxury Villa) | All Inclusive Gourmet",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Suite Tier | Luxury Villa",
+        "meal_plan": "All Inclusive Gourmet",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Imphal / Elite Signature Suite | TRAGUIN Bespoke VIP Overwater Geodesic Dome | The Cloud Estate (Bespoke Private Ch",
+        "location": "Imphal | Loktak | Ukhrul",
+        "nights_label": "2N Imphal|1N Loktak|2N Ukhrul",
+        "description": "OPTION 04 – ULTRA LUXURY: Radisson Blu Imphal / Elite Signature Suite | TRAGUIN Bespoke VIP Overwater Geodesic Dome | The Cloud Estate (Bespoke Private Chalet) | Royal Custom Dining",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Signature Suite | Private Chalet",
+        "meal_plan": "Royal Custom Dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium handpicked luxury hotels and overwater chalets.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: All breakfasts, custom trail lunches, and curated gourmet dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Private Luxury 4x4 SUV (Innova Crysta / Fortuner) throughout.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: All park entries, special cave permits, and inner authorizations.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 dedicated TRAGUIN concierge support.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Premium welcome hampers and local organic amenities kit.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Experiences: Private Loktak lake cruise and exclusive classical dance showcase.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights: Domestic or International air tickets to/from Imphal.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone charges, premium hard beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Comprehensive medical and travel disruption insurance.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Extra activities not listed in the core itinerary.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera Fees: Professional cinematic drone or commercial video licenses.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips: Gratuities for drivers, local cave specialists, and hotel bellboys.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

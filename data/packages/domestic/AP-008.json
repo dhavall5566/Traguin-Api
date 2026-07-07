@@ -1,0 +1,259 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-008-luxury-vizag-coastal-symphony",
+    "serial_code": "AP-008",
+    "traguin_tour_code": "TG-AP-VIZ-008",
+    "title": "TRAGUIN Premium Luxury Vizag Tour Package",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-008 | TRAGUIN tour code TG-AP-VIZ-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Ultra-Luxury Coastal Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Visakhapatnam (Vizag)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers, Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury SUV (Innova Crysta / Luxury Coach) | Meal Plan: Premium Breakfast & Fine Dining Dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Visakhapatnam Arrival → Beachfront Luxury Resort (5 Nights) → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Private luxury yacht charter at sunset, sunrise breakfast setup on a secluded beach, and priority access to maritime heritage museums.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private luxury yacht charter on the Bay of Bengal at sunset.",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Coastal",
+      "Leisure",
+      "Romance"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-008-luxury-vizag-coastal-symphony-itinerary",
+    "title": "TRAGUIN Premium Luxury Vizag Tour Package",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Coastal Symphony: Iconic Luxury in Visakhapatnam • 05 Nights / 06 Days",
+    "overview": "Welcome to a realm of unparalleled coastal elegance. The Best Vizag Tour Package, meticulously handcrafted by TRAGUIN, invites you to experience the finest luxury escape along the Bay of Bengal.\n\nTOUR OVERVIEW\nThis customized Luxury Vizag Tour delivers a supreme experience of the coastal capital with private luxury transportation, premium beachfront suites, gourmet culinary experiences, and expert-led cultural tours.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-008 | Premium Luxury Vizag Tour Package | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days luxury Vizag package (AP-008 / TG-AP-VIZ-008): Private yacht charter, Yarada Beach, Kailasagiri, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Luxury beachfront resort arrival and sunset welcome reception",
+        "sort_order": 1
+      },
+      {
+        "text": "INS Kursura Submarine Museum, TU 142 Aircraft Museum, and Kailasagiri Ropeway",
+        "sort_order": 2
+      },
+      {
+        "text": "Yarada Beach, Dolphin's Nose cliffs, and private sunset yacht cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Thotlakonda Buddhist Complex, Rushikonda Beach drive, and luxury spa immersion",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private luxury yacht sunset cruise on the Bay of Bengal",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & COASTAL LUXURY INITIATION",
+        "description": "Your grand escape begins as you arrive at Visakhapatnam Airport. A dedicated TRAGUIN chauffeur greets you with premium hospitality and escorts you to your luxury beachfront resort. Check into your sea-facing ocean suite. Spend the evening unwinding with a welcome cocktail by the infinity pool.",
+        "activities": [
+          "Sightseeing Included: Luxury airport arrival, Beachfront Resort relaxation.",
+          "Evening Experience: Sunset welcome reception at the beach resort.",
+          "Meals Included: Welcome Signature Refreshments & Gourmet Fine Dining Dinner.",
+          "Overnight Stay: Premium Luxury Beachfront Resort, Vizag."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "VIZAG MARITIME LEGACY & SKYLINE VIEWS",
+        "description": "Begin your day with a gourmet breakfast overlooking the ocean. Explore the INS Kursura Submarine Museum, followed by a visit to the TU 142 Aircraft Museum. In the afternoon, ascend Kailasagiri Hill via private ropeway for panoramic views of the coastal skyline.",
+        "activities": [
+          "Sightseeing Included: Submarine Museum, Aircraft Museum, Kailasagiri Ropeway, RK Beach walk.",
+          "Meals Included: Gourmet Breakfast, Lunch, & Fine Dining Dinner.",
+          "Overnight Stay: Premium Luxury Beachfront Resort, Vizag."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SECLUDED SHORES & PRIVATE YACHTING",
+        "description": "Head to the secluded Yarada Beach. In the afternoon, enjoy a TRAGUIN Signature Experience: a private luxury yacht charter on the Bay of Bengal with gourmet canapes and premium beverages at sunset.",
+        "activities": [
+          "Sightseeing Included: Yarada Beach visit, Dolphin's Nose cliffs, Private Yacht Charter.",
+          "Evening Experience: Private Sunset Yacht Cruise with music and gourmet snacks.",
+          "Meals Included: Breakfast, Picnic Lunch, & Fine Dining Dinner.",
+          "Overnight Stay: Premium Luxury Beachfront Resort, Vizag."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "COASTAL HERITAGE & SPA IMMERSION",
+        "description": "Explore the historic Buddhist site of Thotlakonda. Return to your resort for a TRAGUIN curated luxury spa treatment with local aromatics.",
+        "activities": [
+          "Sightseeing Included: Thotlakonda Buddhist Complex, Rushikonda Beach drive.",
+          "Evening Experience: Rejuvenating luxury spa session and leisurely seaside lounge evening.",
+          "Meals Included: Gourmet Breakfast, Lunch, & Fine Dining Dinner.",
+          "Overnight Stay: Premium Luxury Beachfront Resort, Vizag."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LEISURE, SHOPPING & FAREWELL GALA",
+        "description": "Relax by the beach. Explore Vizag's premium markets for heritage textiles and local handicrafts. Join a grand TRAGUIN Farewell Gala Dinner at a boutique restaurant.",
+        "activities": [
+          "Sightseeing Included: Leisure beach time, Premium shopping tour.",
+          "Evening Experience: Grand Farewell Gala Dinner hosted by TRAGUIN team.",
+          "Meals Included: Gourmet Breakfast, Lunch, & Farewell Gala Dinner.",
+          "Overnight Stay: Premium Luxury Beachfront Resort, Vizag."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE WITH MEMORIES",
+        "description": "Enjoy one final breakfast with ocean views. Your private chauffeur will transfer you to the airport, concluding your Luxury Vizag Holiday, crafted perfectly by TRAGUIN.",
+        "activities": [
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Gateway Hotel (Standard)",
+        "location": "Visakhapatnam",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Gateway Hotel (Standard) (Visakhapatnam, 05 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Varun Beach (Superior)",
+        "location": "Visakhapatnam",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Varun Beach (Superior) (Visakhapatnam, 05 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Varun Beach (Executive Suite)",
+        "location": "Visakhapatnam",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Novotel Varun Beach (Executive Suite) (Visakhapatnam, 05 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Park Visakhapatnam (Ocean Suite)",
+        "location": "Visakhapatnam",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Park Visakhapatnam (Ocean Suite) (Visakhapatnam, 05 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ocean Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights luxury beachfront accommodation.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily breakfast and fine-dining dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transport: Private AC Luxury SUV throughout.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Experience: Private luxury yacht sunset cruise.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Concierge Support: 24/7 dedicated TRAGUIN specialist support.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, entry fees, and personal expenses.",
+        "sort_order": 6
+      }
+    ]
+  }
+}

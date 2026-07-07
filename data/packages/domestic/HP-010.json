@@ -1,0 +1,292 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-010-relaxed-shimla-escape",
+    "serial_code": "HP-010",
+    "traguin_tour_code": "TRG-HIM-010",
+    "title": "Relaxed Shimla Escape • Elegance & Leisure at a Gentle Pace",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-010 | TRAGUIN tour code TRG-HIM-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Senior Citizen",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Kufri • Mashobra • Chail",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens, Family Groups & Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June (Mild Weather) / September to November (Crisp Autumn)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customized Custom Plan)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: High-comfort roadside pacing with pre-mapped clean, modern",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Sightseeing schedules explicitly arranged between 10:00 AM and 4:00",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Chauffeur stays dedicated right at vehicle exit gates to guarantee seamless",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations thoroughly vetted for walk-in showers, operational",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Take a leisurely stroll near Lakkar Bazaar to pick up beautiful hand-carved wooden walking sticks, custom walnut-wood boxes, authentic Himachali woolen shawls, and pure local apple jams. Cafes & Food: Sit back and enjoy the colonial architecture from the glass windows of historic bakeries on Mall Road while trying warm cinnamon buns, fruit crumbles, and light aromatic herbal teas.",
+        "sort_order": 12
+      },
+      {
+        "text": "Hotel Policies: Standard check-in is at 14:00 hrs; early check-in requests are subject to room availability",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-010-relaxed-shimla-escape-itinerary",
+    "title": "Relaxed Shimla Escape • Elegance & Leisure at a Gentle Pace",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customized Custom Plan)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Relaxed Shimla Escape",
+    "overview": "RELAXED SHIMLA ESCAPE • ELEGANCE & LEISURE AT A GENTLE PACE Welcome to a beautifully paced, thoughtful retreat created exclusively by TRAGUIN. Embark on the finest \"Himachal Senior Citizen Holiday\" specially customized to reveal the sweeping, breathtaking landscapes and classic colonial heritage of Shimla without any rush or strenuous travel. As your elite travel consultants, TRAGUIN prioritizes your safety, comfort, and emotional well-being, presenting an itinerary featuring premium stays, easily accessible iconic attractions, and handpicked hotels that boast stunning mountain vistas. Let the timeless scenic beauty and crisp, rejuvenating mountain breeze of Shimla envelope you, shaping unforgettable memories with absolute peace of mind.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package is curated with zero-strain, slow-paced travel parameters perfect for senior citizens. Traveling in a dedicated private luxury vehicle with low-step ingress, smooth suspension, and an extremely courteous, background-verified chauffeur, your daily comfort is completely assured. Your stay includes an explicit meal plan featuring nutritious, freshly cooked breakfasts and custom-ordered mild dinners at premium handpicked hotels. Every minor detail is overseen by our operations center to provide the standard TRAGUIN curated experience note, meaning easy vehicle drop-offs close to sight venues, zero long walking intervals, and thoughtful personal assistance at every milestone.\n\nWHY CHOOSE THE BEST SHIMLA TOUR PACKAGE?\nWhen exploring choices for a Luxury Shimla Holiday or a dedicated Shimla Family Tour, elderly travelers require specialized pacing combined with flawless hospitality. Shimla, the historic summer capital of British India, offers the best blend of architectural legacy and scenic quietude. From strolling along the flat, pedestrian-only stretches of the famous Mall Road to viewing the top tourist places in Shimla like the Christ Church and the historic Viceregal Lodge, Shimla sightseeing remains completely timeless. For couples seeking a quiet nostalgic anniversary or parents traveling on a premium Shimla Honeymoon Package structure adapted for absolute relaxation, the evergreen pine slopes of Mashobra and the peaceful apple orchards of Kufri offer perfect serene escapes. These locations feature excellent wheelchair-accessible pathways, charming colonial architecture, and highly popular Instagram locations for grand family portraits. With the signature touch of our TRAGUIN Shimla Packages, you are guaranteed curated exclusive experiences, premium handpicked hotels, and a stress-free journey during the absolute best time to visit Shimla.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-010 | Relaxed Shimla Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Himachal Pradesh package (HP-010 / TRG-HIM-010): Shimla • Kufri • Mashobra • Chail with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SHIMLA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SHIMLA COLONIAL HERITAGE SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: EXCURSION TO MASHOBRA & CRAIGNANO GREENERY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: LEISURELY DAY AT KUFRI VALLEYS",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: SHIMLA TO CHANDIGARH / DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: High-comfort roadside pacing with pre-mapped clean, modern",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Sightseeing schedules explicitly arranged between 10:00 AM and 4:00",
+        "sort_order": 7
+      },
+      {
+        "text": "Personalized Assistance: Chauffeur stays dedicated right at vehicle exit gates to guarantee seamless",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SHIMLA",
+        "description": "ROYAL RECEPTION & TRANSIT THROUGH SCENIC PINE VALLEYS Your premium Shimla experience begins with a warm, personalized greeting by our courteous chauffeur at Chandigarh Airport or Kalka Railway Station. Board your comfortable luxury transport vehicle and embark on a smooth, scenic drive up the Himalayan foothills. The route features wide, beautifully paved highways with spectacular valley viewpoints and curated rest stops for tea and refreshments. Upon arriving in the Queen of Hills, check into your premium luxury hotel with priority hassle-free registration. Spend a relaxing evening admiring the mountain sunset from your private balcony.",
+        "activities": [
+          "Sightseeing Included: Scenic Himalayan foothills drive, Timber Trail panoramic valley views en-route.",
+          "Evening Experience: Hot herbal tea presentation and a personalized trip orientation by TRAGUIN experts.",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort with easy-access elevators)",
+          "Meals Included: Welcome Drink & Nourishing Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHIMLA COLONIAL HERITAGE SIGHTSEEING",
+        "description": "TIMELESS COLONIAL SPLENDOUR & EASY MALL ROAD STROLL Indulge in a relaxed, delicious breakfast before setting out for an elegant day of colonial exploration. Visit the majestic Viceregal Lodge (Rashtrapati Niwas), an architectural marvel surrounded by manicured lawns and flat, paved walkways that are highly accessible. In the afternoon, take the dedicated government elevator directly up to the pedestrian-only Ridge and Mall Road. Stroll at your own gentle pace along the flat, vehicle- free boulevard, taking in the historical facade of Christ Church and Gaiety Theatre. mountains.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge gardens, The Ridge, Christ Church, Scandal Point, Mall Road.",
+          "Optional Activities: An elegant sit-down high tea session at a legendary heritage cafe overlooking the",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium Breakfast & Custom Mild Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "EXCURSION TO MASHOBRA & CRAIGNANO GREENERY",
+        "description": "SERENE APPLE ORCHARDS & TRANGUIL MOUNTAIN MEDITATIONS Awake to the soothing sounds of birds and a crisp mountain breeze. Today we head to Mashobra, a peaceful, untouched haven of oak and pine forests away from all tourist bustle. Enjoy a quiet, gentle drive to Craignano Nature Park, featuring beautiful flat garden paths, historic wooden villas, and breathtaking landscapes that showcase the deep snow peaks. There are plenty of sitting benches and shade zones, allowing our senior guests to experience the healing power of pure nature comfortably. points.",
+        "activities": [
+          "Sightseeing Included: Mashobra apple orchard vistas, Craignano Italian-style villa lawns, beautiful photography",
+          "Evening Experience: Private cozy bonfire evening with soothing classic instrumental music back at the resort.",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium Breakfast & Traditional Himachali-Inspired Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "LEISURELY DAY AT KUFRI VALLEYS",
+        "description": "MAJESTIC CEDAR FOREST PANORAMAS & MILD NATURE VIEWS Enjoy another premium breakfast before embarking on a short, comfortable morning drive to the high hills of Kufri. We bypass the steep, muddy horse trails to focus on the serene, easily reachable viewpoints of the Kufri valley. Visit the Himalayan Nature Park, where well-leveled paths allow you to see beautiful flora and rare fauna like the snow leopard and musk deer up close. The rest of the afternoon is kept free for complete relaxation, reading, or taking advantage of the resort's premium spa facilities. points.",
+        "activities": [
+          "Sightseeing Included: Kufri pine valley vistas, Himalayan Nature Park, Green Valley panoramic photography",
+          "Optional Activities: A beautiful professional family portraiture session in traditional attire.",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium Breakfast & Luxury Farewell Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SHIMLA TO CHANDIGARH / DEPARTURE",
+        "description": "CHERISHING UNFORGETTABLE MEMORIES & A COMFORTABLE RETURN Relish a long, lazy breakfast at your premium hotel while capturing your last mountain valley photos. Your private luxury transport vehicle will be brought right to the main lobby portico for easy, comfortable boarding. Travel smoothly back down the national highway toward Chandigarh Airport or Kalka Station for your return home. Depart with a rested body, a joyful spirit, and unforgettable memories designed meticulously by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / Clarkes",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Willow Banks / Clarkes | Hotel / similar | Premium Premium",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Hotel / similar",
+        "meal_plan": "Premium Premium",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Hotel Shimla / | Welcomhotel Tavisha | Superior Valley",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Welcomhotel Tavisha",
+        "meal_plan": "Superior Valley",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil, Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: The Oberoi Cecil, Shimla / | similar | Luxury Heritage",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "similar",
+        "meal_plan": "Luxury Heritage",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Wildflower Hall, An Oberoi | Resort / similar | Premier Mountain",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Resort / similar",
+        "meal_plan": "Premier Mountain",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights in senior-friendly properties with easy accessibility.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Chauffeur-driven Innova Crysta with low steps and spacious seating.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Custom, nutritious breakfast and tailored dinner sets (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 proactive assistance and senior concierge on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized travel blanket, medical comfort kit, and mineral water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Dedicated elevator tickets for easy Mall Road transit.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or long-distance rail fares.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, professional guide fees, or inner camera fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone bills, alcoholic beverages, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any horse rides, adventure sports, or external porterage services. TRAGUIN Premium Luxury Itinerary — HP-010 5",
+        "sort_order": 10
+      }
+    ]
+  }
+}

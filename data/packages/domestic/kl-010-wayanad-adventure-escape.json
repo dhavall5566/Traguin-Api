@@ -1,0 +1,316 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-010-wayanad-adventure-escape",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Wayanad Adventure — Chembra, Edakkal & Kuruva Island",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 34,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Chembra Peak trek to the iconic heart-shaped Hridayasaras lake",
+        "sort_order": 1
+      },
+      {
+        "text": "Edakkal Caves Neolithic petroglyphs and Muthanga Wildlife 4x4 jeep safari",
+        "sort_order": 2
+      },
+      {
+        "text": "900 Kandi glass bridge canopy walk and Kuruva Island bamboo rafting",
+        "sort_order": 3
+      },
+      {
+        "text": "Banasura Sagar Dam speed boating — India's largest earth dam",
+        "sort_order": 4
+      },
+      {
+        "text": "Specialized adventure guides, skip-the-line trek passes, and campfire evenings",
+        "sort_order": 5
+      },
+      {
+        "text": "Private Innova Crysta SUV with TRAGUIN 24/7 adventure concierge",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-010-wayanad-adventure-escape-itinerary",
+    "title": "Wayanad Adventure — Chembra, Edakkal & Kuruva Island",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Wild Wayanad — Adventure Meets Premium Eco-Luxury",
+    "overview": "TRAGUIN's Wayanad Adventure Escape blends high-octane thrill with pristine nature — Chembra Peak trekking, prehistoric Edakkal Caves, Muthanga jeep safari, 900 Kandi glass bridge, and Kuruva bamboo rafting wrapped in handpicked premium eco-resort comfort.",
+    "is_featured": true,
+    "featured_sort_order": 34,
+    "seo_title": "KL-010 | Wayanad Adventure Kerala | TRAGUIN Chembra Edakkal Tour",
+    "seo_description": "Luxury 04 Nights / 05 Days Wayanad adventure package (KL-010) covering Chembra Peak, Edakkal Caves, Banasura Dam, 900 Kandi, and Kuruva Island with premium eco-resorts.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Chembra Peak & Heart Lake",
+        "sort_order": 1
+      },
+      {
+        "text": "Edakkal Caves Petroglyphs",
+        "sort_order": 2
+      },
+      {
+        "text": "Muthanga Jeep Safari",
+        "sort_order": 3
+      },
+      {
+        "text": "900 Kandi Glass Bridge",
+        "sort_order": 4
+      },
+      {
+        "text": "Kuruva Bamboo Rafting",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Calicut to Wayanad — Gateway to Misty Hills",
+        "description": "Arrive at Calicut Airport or Railway Station where your TRAGUIN chauffeured vehicle welcomes you. Wind upward through the legendary Lakkidi Ghat Pass with 9 hairpin curves, pause at Lakkidi View Point, and check into your luxury eco-resort in Vythiri nestled in dense rainforests.",
+        "activities": [
+          "Sightseeing Included: Lakkidi Ghat Pass, Lakkidi View Point, Ficus Tree (Chain Tree) Legend Site",
+          "Evening Experience: Private indoor candle-lit ambient tea tasting session",
+          "Optional Activities: Premium Ayurvedic spa rejuvenation therapy at the resort",
+          "Overnight Stay: Vythiri / Kalpetta (Handpicked Luxury Eco-Resort)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Chembra Peak & Banasura Dam — Heart-Shaped Lake",
+        "description": "Rise early for an exhilarating Chembra Peak trek with a certified local tracker through tea estates and shola forests to the heart-shaped Hridayasaras lake. After lunch, visit Banasura Sagar Dam — India's largest earth dam — with speed boating across the reservoir.",
+        "activities": [
+          "Sightseeing Included: Chembra Peak Trekking, Heart-Shaped Lake, Banasura Sagar Dam, Karlad Lake",
+          "Evening Experience: Zipline over water bodies catching golden sunset views",
+          "Optional Activities: High-speed zip-lining and rock climbing at Karlad Lake adventure hub",
+          "Overnight Stay: Vythiri / Kalpetta (Handpicked Luxury Eco-Resort)"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Edakkal Caves & Muthanga Jeep Safari",
+        "description": "Trek to Edakkal Caves on Ambukuthi Mala to see Neolithic petroglyphs dating back over 8,000 years. Explore Sulthan Bathery heritage, then embark on an exclusive 4x4 open jeep safari into Muthanga Wildlife Sanctuary.",
+        "activities": [
+          "Sightseeing Included: Edakkal Caves, Sulthan Bathery Jain Temple, Muthanga Wildlife Sanctuary Zone",
+          "Evening Experience: Traditional live multi-course dinner accompanied by a light campfire setting",
+          "Optional Activities: Tribal archery interaction and local bamboo crafts workshop",
+          "Overnight Stay: Sulthan Bathery (Premium Boutique Resort)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "900 Kandi & Kuruva Island — Canopy Walk & Bamboo Rafting",
+        "description": "Board a rugged off-road vehicle to 900 Kandi eco-park and walk the thrilling glass bridge suspended above the jungle canopy. Continue to Kuruvadweep for traditional hand-woven bamboo rafting on the Kabini River, with optional Soochipara Waterfalls.",
+        "activities": [
+          "Sightseeing Included: 900 Kandi Eco-Park, Glass Bridge Walkway, Kuruvadweep Bamboo Rafting, Soochipara Waterfalls",
+          "Evening Experience: Bespoke interactive session with a professional naturalist on Western Ghats biodiversity",
+          "Optional Activities: River trekking and wild stream bathing under expert safety supervision",
+          "Overnight Stay: Sulthan Bathery (Premium Boutique Resort)"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Wayanad to Calicut — Departure",
+        "description": "Relish an elite breakfast before check-out. Cruise back toward Calicut with stops at Pookode Lake and local spice plantations for organic cardamom, vanilla pods, chocolates, and Malabar tea leaves.",
+        "activities": [
+          "Sightseeing Included: Pookode Lake (en-route boating), Local Spice and Tea Plantations",
+          "Evening Experience: TRAGUIN farewell assistance at Calicut Airport or Railway Station",
+          "Overnight Stay: Not Applicable (Departure Day)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Vythiri Village Resort / Similar",
+        "location": "Vythiri / Kalpetta (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe hill-view eco-resort in Wayanad rainforest.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Hill View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Woods Resorts / After the Rains / Similar",
+        "location": "Vythiri / Kalpetta (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium cottage block amid mist-clad valleys.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Cottage",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Mountain Shadows Resort / Pepper Trail / Similar",
+        "location": "Vythiri / Kalpetta (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury lake-view villa with adventure concierge.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Lake View Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back Kabini / Vythiri Resort Treehouse / Similar",
+        "location": "Vythiri / Kalpetta (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury treehouse or private pool villa.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Villa / Luxury Treehouse",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Wayanad Silver Woods / Similar",
+        "location": "Sulthan Bathery (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe boutique resort near adventure circuit.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Vythiri Meadows / Similar",
+        "location": "Sulthan Bathery (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium boutique resort with forest views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Banasura Hill Resort / Similar",
+        "location": "Sulthan Bathery (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury earth-resort near Banasura Sagar Dam.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Cottage",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Vythiri Resort Premium Deck / Similar",
+        "location": "Sulthan Bathery (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury deck suite with rainforest panoramas.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ultra Premium Deck Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium accommodation at handpicked Kerala resorts, heritage hotels, and luxury houseboats",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and authentic Kerala multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers, hill stations, and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Personalized welcome kit with herbal tea, fresh fruits, mineral water, and houseboat transfers where applicable",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "04 nights premium eco-resort accommodation across Vythiri/Kalpetta and Sulthan Bathery",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary 4x4 jeep safari passes and Kuruva Island bamboo rafting entry vouchers",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Cochin, Trivandrum, or Calicut gateway",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, national park fees, camera fees, and optional guide gratuities",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities such as speed-boating, elephant safaris, adventure sports, and spa therapies beyond included tier",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, alcoholic beverages, and tipping",
+        "sort_order": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-007-darjeeling-mirik-quick-getaway",
+    "serial_code": "WB-007",
+    "traguin_tour_code": "TRAGUIN-WB-007",
+    "title": "Darjeeling • Mirik Quick Getaway",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-007 | TRAGUIN tour code TRAGUIN-WB-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Family Getaway / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Darjeeling • Mirik • Kurseong",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to May & October to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle Allocated: Private Air-Conditioned Luxury Innova Crysta / XUV",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Buffet Breakfast & Choice Gourmet Dinners)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Bagdogra (IXB) / NJP Arrival → Kurseong Valley → Darjeeling Hills → Mirik Lake → Bagdogra Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts — personalized assistance, seamless room allocations, and priority timing strategies for Tiger Hill.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Experiences: Chowrasta Mall Road woolen shawls and Tibetan jewelry. NathuMulls / Golden Tips first-flush tea. Glenary's Bakery chocolate eclairs.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs. Mountain weather changes quickly — carry woolens. Tiger Hill permits require advance booking.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Hills"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-007-darjeeling-mirik-quick-getaway-itinerary",
+    "title": "Darjeeling • Mirik Quick Getaway",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Darjeeling • Mirik Quick Getaway • 03 Nights / 04 Days",
+    "overview": "Welcome to the Queen of the Hills. This premium luxury travel itinerary, meticulously curated by TRAGUIN, offers a flawless mountain escape designed for discerning families. Witness the iconic sunbeams illuminating the snow-clad peak of Mt. Kanchenjunga, breathe in the fragrance of world-renowned tea fields, and cruise along the pristine banks of Sumendu Lake in Mirik.\n\nTOUR OVERVIEW\nVehicle Allocated: Private Air-Conditioned Luxury Innova Crysta / XUV. Meal Plan: Modified American Plan (Daily Buffet Breakfast & Choice Gourmet Dinners). Route Map: Bagdogra (IXB) / NJP Arrival → Kurseong Valley → Darjeeling Hills → Mirik Lake → Bagdogra Departure.\n\nTRAGUIN Curated Experience Note: This Darjeeling Family Tour seamlessly eliminates long transit fatigue by incorporating comfortable private luxury transportation, early morning fast-track access passes to Tiger Hill, and a private heritage Toy Train ride.\n\nPREMIUM DARJEELING EXPERIENCE: WHY VISIT WITH FAMILY?\nDarjeeling remains an iconic attraction for global travelers seeking breathtaking landscapes and rich colonial heritage. Celebrated widely as the ultimate destination for a Darjeeling Honeymoon Package or an enriching Darjeeling Family Tour, the region seamlessly blends mist-covered mountains with vibrant cultural experiences.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-007 | Darjeeling Mirik Quick Getaway | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days West Bengal package (WB-007 / TRAGUIN-WB-007): Tiger Hill sunrise, Mirik Sumendu Lake, Toy Train, and 4-tier Darjeeling accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tiger Hill sunrise with TRAGUIN priority passes, Batasia Loop, and Ghoom Monastery",
+        "sort_order": 1
+      },
+      {
+        "text": "Himalayan Mountaineering Institute, Zoo, Peace Pagoda, and ropeway ride",
+        "sort_order": 2
+      },
+      {
+        "text": "Mirik Sumendu Lake, Simana Viewpoint, and Pashupati Nagar Indo-Nepal border market",
+        "sort_order": 3
+      },
+      {
+        "text": "Private guided tea garden walk with traditional attire photography spots",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier handpicked Darjeeling accommodation (03 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "BAGDOGRA / NJP TO DARJEELING",
+        "description": "Arrive at Bagdogra International Airport or New Jalpaiguri Railway Station where your elite TRAGUIN chauffeur welcomes you. Board your private luxury vehicle and embark on a mesmerizing drive toward Darjeeling. Pass through the rolling tea estates of Kurseong and watch the mist playfully drift over the pines. Upon arriving at your handpicked hotel, enjoy a swift, contactless check-in. Sip on a hot cup of authentic Muscatel Darjeeling tea while looking over the mountain ridges.",
+        "activities": [
+          "Sightseeing Included: Panoramic Kurseong Viewpoints, Rohini Scenic Route.",
+          "Evening Experience: Explore Mall Road (The Chowrasta) for vintage local handicrafts and heritage cafes.",
+          "Overnight Stay: Premium Luxury Resort / Hotel, Darjeeling.",
+          "Meals Included: Welcome Drink & Chef's Special Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DARJEELING SIGHTSEEING",
+        "description": "Wake up at 3:45 AM for an exclusive, highly sought-after experience. Drive to Tiger Hill using TRAGUIN priority passes. Witness the sun slowly rise, painting the snows of Mt. Kanchenjunga in hues of gold and amber. On your way back, stop at the historical Batasia Loop to admire the engineering marvel of the Himalayan Toy Train track, and pay homage at the War Memorial. Return to your hotel for a lavish breakfast, then head out to explore the Padmaja Naidu Himalayan Zoological Park, the Himalayan Mountaineering Institute, and the serene Japanese Peace Pagoda.",
+        "activities": [
+          "Sightseeing Included: Tiger Hill Sunrise, Batasia Loop, Ghoom Monastery, Himalayan Mountaineering Institute, Zoo, Ropeway ride.",
+          "Immersive Experiences: A private, guided walk through a manicured tea garden with traditional attire photography spots.",
+          "Overnight Stay: Premium Luxury Resort / Hotel, Darjeeling.",
+          "Meals Included: Full Buffet Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DARJEELING TO MIRIK EXCURSION",
+        "description": "Following a delicious breakfast, enjoy a picturesque drive along the Indo-Nepal border toward the peaceful town of Mirik. The drive winds through the dense, tall trees of the Simana view-point forest. Arrive at the scenic Sumendu Lake, famous for its iconic footbridge and peaceful, reflective waters. Rent a private shikara-style boat or enjoy a calm horse ride around the lakeside tracks. On the return trip, stop for duty-free international shopping at the bustling Pashupati Nagar Market on the border.",
+        "activities": [
+          "Sightseeing Included: Sumendu Lake, Simana Viewpoint, Pashupati Nagar (Indo-Nepal Border Market), Orange Orchards route.",
+          "Optional Activities: Boating on Sumendu Lake, buying authentic local cardamom and spices.",
+          "Overnight Stay: Premium Luxury Resort / Hotel, Darjeeling.",
+          "Meals Included: Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DEPARTURE FROM DARJEELING",
+        "description": "Indulge in a final, relaxed breakfast while watching the clouds roll across the valley. Pack your bags and load your souvenirs into your luxury vehicle. Your chauffeur will provide a smooth ride back to Bagdogra Airport or NJP Station. Your premium TRAGUIN Darjeeling Package concludes seamlessly, leaving you with beautiful memories to cherish forever.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport / Station Drop-off.",
+          "Best Time to Visit: October to May provides the clearest skies for Kanchenjunga views.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Summit Hermon Resort & Spa",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Summit Hermon Resort & Spa (Darjeeling, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin, Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: The Elgin, Darjeeling (Darjeeling, 03 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Suite Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Mayfair Darjeeling (Darjeeling, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Heritage Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Windamere Hotel",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Windamere Hotel (Darjeeling, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Lord Kitchener Suite",
+        "meal_plan": "All Meals + English High Tea",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights stay at premium luxury handpicked hotels tailored for families.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 03 Lavish Buffet Breakfasts and 03 specially designed gourmet Dinners at the properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven luxury vehicle for all point-to-point sightseeing tours.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated on-call concierge and expert local route guidance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Taxes & Permits: Fuel costs, state highway taxes, parking charges, and driver allowances.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing welcome kits with traditional mountain stoles, premium hand sanitizers, and mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to/from Bagdogra or New Jalpaiguri.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to museums, parks, or boat rentals unless explicitly stated.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as telephone calls, laundry, hard drinks, or tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional excursions, adventure rides, or extended vehicle usage.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

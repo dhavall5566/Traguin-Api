@@ -1,0 +1,251 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-013-evolve-back-coorg-luxury-stay-experience",
+    "serial_code": "KA-013",
+    "traguin_tour_code": "TRAGUIN-KA-013",
+    "title": "Evolve Back Coorg Luxury Stay Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-013 | TRAGUIN tour code TRAGUIN-KA-013",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Luxury Experiential Stay",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Coorg (Chikkana Halli Estate)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Nature Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Ultra-Luxury Experiential Stay (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Toyota Innova Crysta / Premium Chauffeur Driven Sedan",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Gourmet Breakfast & Dinners at Specialty Dining Venues",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Bangalore / Bangalore Airport Arrival → Scenic Drive to Coorg Estate → Immersive Plantation Experience → Bangalore Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with elite local naturalists and premium handpicked villas with private plunge pools",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Estate Fresh Goods — Arabica and Robusta coffee, cardamom, pepper, organic honey; Tibetan Crafts at Bylakuppe markets",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; light layers recommended; book Evolve Back villas 45–60 days in advance",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Nature",
+      "Wellness"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-013-evolve-back-coorg-luxury-stay-experience-itinerary",
+    "title": "Evolve Back Coorg Luxury Stay Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Evolve Back Coorg Luxury Stay Experience • 03 Nights / 04 Days",
+    "overview": "Step into a realm where time slows to the rhythm of a bygone era. Curated with perfection by TRAGUIN, this ultra-luxury retreat invites you to experience the magnificent Luxury Karnataka Holiday format at Evolve Back, Coorg (formerly Orange County). Surrounded by a historic 300-acre working coffee and spice plantation, you will be cocooned in Kodava-styled architecture, treated to premium stays, and left with unforgettable memories of breathtaking landscapes and authentic heritage.\n\nCoorg, famously heralded as the Scotland of India, features rolling green ridges, spectacular misty canopies, and historic plantations, making it a stellar highlight for a premium Karnataka Family Tour or an intimate Karnataka Honeymoon Package. Our custom TRAGUIN Karnataka Packages focus deeply on immersive experiences rather than standard point-to-point transfers.\n\nTRAGUIN Curated Touch: This is an exclusive, zero-fatigue high-end getaway with private plantation trail walks, custom coffee-blending workshops, guided bird-watching sessions, and private plunge pool relaxation options.\n\nWhy Visit Evolve Back Coorg: From exploring Dubare Elephant Camp and the golden Namdroling Monastery to capturing popular Instagram locations within lush spice estates, this premium escape encapsulates the absolute finest of Karnataka Sightseeing between October and May.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-013 | Evolve Back Coorg Luxury Stay Experience | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Evolve Back Coorg package (KA-013 / TRAGUIN-KA-013): Plantation walk, coffee cupping, Namdroling Golden Temple, Dubare Eco-Zone, and 3-tier luxury villa accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Guided Estate Plantation Walk, Bird Watching & Cultural Pavilion",
+        "sort_order": 1
+      },
+      {
+        "text": "Namdroling Golden Temple, Dubare Eco-Zone & Local Souvenir Avenue",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Elite naturalists and premium villas with private plunge pools",
+        "sort_order": 3
+      },
+      {
+        "text": "Premium Handpicked Hotels: Evolve Back Coorg luxury villa options",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Bangalore to Coorg",
+        "description": "Arrive at Bangalore International Airport or your residence where a premium TRAGUIN private luxury vehicle awaits you. Leave the city traffic behind as you cruise along high-quality highways towards the lush hills of Western Ghats. Watch the landscape transform into dense woods and aromatic plantations. Arrive at the legendary Evolve Back, Coorg, where you are greeted with a personalized traditional welcome drink made from estate-fresh ingredients. Check into your ultra-luxury private villa and unwind amidst scenic beauty.",
+        "activities": [
+          "Arrival Experience: Seamless transfer, priority villa check-in, and welcome kit",
+          "Evening Experience: Sip on fine estate-brewed coffee while overlooking the infinity pool bordering the Cauvery river",
+          "Overnight Stay: Evolve Back Coorg (Private Pool Villa / Lily Pool Villa)",
+          "Meals Included: Welcome Amenity & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Immersive Plantation Experience",
+        "description": "Begin your day with a guided bird-watching walk around the plantation lake, spotting endemic avian species. After a sumptuous breakfast, join the expert naturalist for the Worker's Trail—an exclusive experience where you can walk through coffee and spice fields, learning the art of cultivating cardamom, pepper, and Arabica beans. In the afternoon, partake in a curated coffee-cupping session to blend your own souvenir package. Conclude your day with a traditional cultural performance inside the resort's open pavilion.",
+        "activities": [
+          "Sightseeing Included: Guided Estate Plantation Walk, Bird Watching, Cultural Pavilion",
+          "Photography Points: The tranquil lily pools, mist over the Cauvery river bank, and vibrant spice canopies",
+          "Overnight Stay: Evolve Back Coorg (Private Pool Villa / Lily Pool Villa)",
+          "Meals Included: Gourmet Breakfast & Plantation-Themed Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Coorg Iconic Attractions",
+        "description": "After breakfast, take a premium excursion to visit the magnificent Namdroling Monastery (Golden Temple) in Bylakuppe, one of the largest Tibetan settlements in India. Marvel at the majestic 40-foot gold-plated Buddha statues and soak in the meditative ambiance. Later, enjoy a short visit to the Dubare Elephant Camp ecosystem to learn about elephant conservation. Return to your resort by afternoon to enjoy your private plunge pool and indulge in a rejuvenating Ayurvedic spa therapy.",
+        "activities": [
+          "Sightseeing Included: Namdroling Golden Temple, Dubare Eco-Zone, Local Souvenir Avenue",
+          "Optional Activities: Book a private dining experience 'By the Lake' or an inside-villa fine culinary layout",
+          "Overnight Stay: Evolve Back Coorg (Private Pool Villa / Lily Pool Villa)",
+          "Meals Included: Full Buffet Breakfast & Farewell Specialty Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Coorg to Bangalore Departure",
+        "description": "Savor a final slow breakfast surrounded by nature. Take a casual stroll across the manicured lawns before completing check-out. Your private luxury vehicle will transport you comfortably back to Bangalore International Airport or your preferred destination, concluding your ultra-luxury escape with gorgeous memories.",
+        "activities": [
+          "Transfers Included: Private Chauffeur Drop-off to Bangalore",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Coorg",
+        "location": "Coorg",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Heritage Pool Villa",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Coorg",
+        "location": "Coorg",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Lily Pool Cottage",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Coorg",
+        "location": "Coorg",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Lily Pool Villa (Exclusive Plunge Pool)",
+        "meal_plan": "MAPAI + High Tea Included",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights stay at premium luxury villas at Evolve Back Coorg",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily gourmet breakfasts and dinners curated across fine dining venues",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven air-conditioned Luxury Innova Crysta for all transfers and tourist places",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated real-time holiday concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Guided Plantation walks, coffee cupping workshops, and resort-organized cultural events",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All applicable luxury resort service charges and local taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or rail connections to Bangalore",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual monument entry fees, camera tickets, or safari boat rides",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal premium expenses such as specialty laundry, boutique purchases, or liquor",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Premium Ayurvedic spa therapies or custom private dinner layouts",
+        "sort_order": 10
+      }
+    ]
+  }
+}

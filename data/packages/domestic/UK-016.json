@@ -1,0 +1,204 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-016-premium-lansdowne-weekend-escape",
+    "serial_code": "UK-016",
+    "traguin_tour_code": "TRG-UK-016",
+    "title": "Premium Lansdowne Weekend Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UK-016 | TRAGUIN tour code TRG-UK-016",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Uttarakhand, India | Category: Leisure Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Lansdowne Weekend Sanctuary",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Refined Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round Retreat",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle & Meals: Private Premium Sedan or Luxury SUV at disposal | Modified American Plan (Breakfast & Dinner Included)",
+        "sort_order": 6
+      },
+      {
+        "text": "Route: Delhi / Dehradun Departure → Scenic Kotdwar Route → Lansdowne Pine Retreat → Return Journey",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Seamless luxury transport from your home doorstep, handpicked premium pine-view resort stays, private evening fireplace access, and premium personalized touring paths.",
+        "sort_order": 8
+      },
+      {
+        "text": "Shopping & Local Experiences: Lansdowne colonial heritage markets and local Garhwali artisan crafts.",
+        "sort_order": 9
+      },
+      {
+        "text": "Important Notes: Best Time to Visit Lansdowne is practically year-round, offering refreshing summers and cozy, misty winters. TRAGUIN Lansdowne Packages present a genuinely Luxury Lansdowne Holiday tailored around exclusive handpicked hotels and flawless mountain transit options.",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Weekend",
+      "Leisure",
+      "Family",
+      "Couples"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-016-premium-lansdowne-weekend-escape-itinerary",
+    "title": "Premium Lansdowne Weekend Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Lansdowne Tour Package • Premium Lansdowne Experience Weekend Escape • 02 Nights / 03 Days",
+    "overview": "Escape the mundane and venture into the peaceful, pristine oak and pine forests of the Garhwal Himalayas. TRAGUIN presents a uniquely refreshing weekend escape crafted meticulously to offer deep relaxation, breathtaking landscapes, and premium stays. Our curated experiences guarantee immersive hill-station exploration, giving you unforgettable memories.\n\nTOUR OVERVIEW\nTravel Month: Weekend Getaways Available Weekly\nGroup / FIT: Private Luxury FIT Getaway\nVehicle: Private Premium Sedan or Luxury SUV at disposal\nMeal Plan: Modified American Plan (Breakfast & Dinner Included)\nRoute: Delhi / Dehradun Departure → Scenic Kotdwar Route → Lansdowne Pine Retreat → Return Journey\n\nTRAGUIN Curated Experience Note: Seamless luxury transport from your home doorstep, handpicked premium pine-view resort stays, private evening fireplace access, and premium personalized touring paths.\n\nIf you are charting a quick mountain vacation, choosing the Best Lansdowne Tour Package or a dedicated Lansdowne Honeymoon Package guarantees a pristine environment devoid of overwhelming commercial crowds. Lansdowne retains a grand colonial layout, deep pine canopies, and beautiful vistas. This Lansdowne Family Tour introduces you directly to the Top Tourist Places in Lansdowne including the mirror-like Bhulla Tal Lake, the historical St. John's Church, and the unmatched sunrise viewpoint at Tip-In-Top.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UK-016 | Premium Lansdowne Weekend Escape | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Uttarakhand package (UK-016 / TRG-UK-016): Lansdowne Bhulla Tal, Tip-In-Top, St. John's Church with Ultra Luxury and Premium accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Kotdwar ascent with Khoh River photography halts and valley overlooks",
+        "sort_order": 1
+      },
+      {
+        "text": "Bhulla Tal Lake rowboat ride, Tip-In-Top Viewpoint, St. John's Church, and Garhwali Military Heritage Museum",
+        "sort_order": 2
+      },
+      {
+        "text": "Private sunset observation tea session and exclusive cozy bonfire evening with artisan snacks",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Curated Experience: Seamless luxury transport and handpicked premium pine-view resort stays",
+        "sort_order": 4
+      },
+      {
+        "text": "2-tier handpicked accommodation: Ultra Luxury and Premium options in Lansdowne (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "SCENIC ASCENT TO LANSDOWNE SANCTUARY",
+        "description": "Your premium holiday starts with a comfortable private pickup. Drive out through scenic roads transitioning quickly from bustling highways into the breathtaking landscapes of the Shivalik foothills. Climb the winding mountain paths past old historic outposts, arriving at your premium hill resort overlooking deep mist-filled valleys.",
+        "activities": [
+          "Sightseeing Included: En-route photography halts along the Khoh River curves and valley overlooks.",
+          "Evening Experience: Private sunset observation tea session organized on your resort's expansive wooden deck.",
+          "Overnight Stay: Luxury Valley-View Resort in Lansdowne.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MISTY PINELANDS & COLONIAL HIGHLIGHTS",
+        "description": "Wake up to the gentle chirping of birds and a panoramic mountain landscape. Today, explore Lansdowne's timeless historical attractions. Enjoy a gentle rowboat ride on Bhulla Tal Lake, admire the grand architecture of St. John's Church, and walk through pristine forest paths up to the dramatic Tip-In-Top ridge.",
+        "activities": [
+          "Sightseeing Included: Bhulla Tal Lake, Tip-In-Top Viewpoint, St. John's Church, and the Garhwali Military Heritage Museum.",
+          "Evening Experience: An exclusive private cozy bonfire evening paired with artisan snacks arranged by TRAGUIN.",
+          "Overnight Stay: Handpicked Luxury Resort in Lansdowne.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MOUNTAIN SERENITY & DEPARTURE RETURNING HOME",
+        "description": "Gaze out over the glorious snow peaks one last time over a fresh breakfast. Enjoy a leisurely walk across the pine-sheltered paths around the resort property before joining your private chauffeur for a smooth, comfortable return drive back to your home station.",
+        "activities": [
+          "Optional Activities: Guided morning forest walk and specialized local bird-watching session with an expert tracker.",
+          "Meals Included: Artisan Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Vanaja Forest Resort / Blue Pine Resort",
+        "location": "Lansdowne",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – ULTRA LUXURY: Vanaja Forest Resort / Blue Pine Resort | Luxury Pine Cottage (02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Pine Cottage",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Lans Castle",
+        "location": "Lansdowne",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Hotel Lans Castle | Executive Valley View Room (02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Executive Valley View Room",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights stay in handpicked, high-end luxury resorts with valley views.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet buffet breakfasts and elegant themed dinners at the resort restaurant.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Complete private luxury transport and mountain sightseeing via dedicated premium sedan/SUV.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Pre-arranged entry passes and complimentary rowboat tickets at Bhulla Tal Lake.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated remote concierge support during the travel route.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight or railway train fares to the nearest base stations.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, telephone calls, or camera entry tokens.",
+        "sort_order": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-019-taj-chandigarh-premium-stay-experience",
+    "serial_code": "CH-019",
+    "traguin_tour_code": "TG-CH-019-TAJ",
+    "title": "Taj Chandigarh Premium Stay Experience",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-019 | TRAGUIN tour code TG-CH-019-TAJ",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Luxury Weekend",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh (Taj Stay)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Corporate & Discerning Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (October to March preferred)",
+        "sort_order": 5
+      },
+      {
+        "text": "02 Nights ultra-luxury accommodation at Taj Chandigarh",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private reserved sunset cruise across Sukhna Lake followed by gourmet high-tea",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Sector 17 Plaza, Phulkari handicrafts, gourmet dining at Dera and Black Lotus",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Romantic",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-019-taj-chandigarh-premium-stay-itinerary",
+    "title": "Taj Chandigarh Premium Stay Experience",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Taj Premium Stay)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Rock Garden • Rose Garden • Sukhna Lake Luxury Cruise",
+    "overview": "Welcome to the masterfully planned \"Beautiful City\" of India. This premium luxury proposal, artfully designed by TRAGUIN holiday planners, presents a flawless 2-Night getaway centered around the legendary hospitality of Taj Chandigarh. Perfect for discerning guests seeking immersive experiences, this holiday effortlessly blends the iconic attractions of Le Corbusier's architectural marvel with premium stays and scenic beauty.\n\nTravel Dates / Format: Fully Customized Luxury FIT Proposal. Vehicle: Chauffeur-driven Premium Luxury Sedan. Meal Plan: Modified American Plan (Gourmet Breakfast & Elaborate Dinner at Taj). TRAGUIN Curated Touch: Reserved sunset shikara/boat cruise at Sukhna Lake, private guided monument walk, and priority access check-ins.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-019 | Taj Chandigarh Premium Stay Experience | TRAGUIN",
+    "seo_description": "Luxury 02 Nights / 03 Days Taj stay package (CH-019 / TG-CH-019-TAJ): Sukhna Lake sunset cruise, Rock Garden, Rose Garden, Jiva Spa leisure, and 4-tier hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sukhna Lake Private Sunset Boat Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Nek Chand Rock Garden & Rose Garden Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Taj Chandigarh Premium Luxury Room Stay",
+        "sort_order": 3
+      },
+      {
+        "text": "Sector 17 Open-Air Plaza or Elante Mall Transit",
+        "sort_order": 4
+      },
+      {
+        "text": "Optional Jiva Spa Therapeutic Massage",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Sunset Sukhna Cruise",
+        "description": "Your ultimate luxury getaway begins the moment you step foot in the city. You will be greeted with a warm welcome at Chandigarh Airport or Chandigarh Railway Station by our professional chauffeur. Transfer immediately in your premium luxury sedan to the iconic Taj Chandigarh. Your private vehicle will chauffeur you to the scenic Sukhna Lake for an exclusive, private sunset boat ride arranged by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake Lakefront Walk, Private Boat Cruise",
+          "Evening Experience: Luxury lakeside high-tea and sunset photography",
+          "Overnight Stay: Taj Chandigarh (Premium Luxury Room)",
+          "Meals Included: Welcome Buffet Dinner at Black Lotus / Dera"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "The Magic of Rock Garden & Botanical Rose Garden Tour",
+        "description": "Awaken to a lavish, curated breakfast at Cafe 17. Our first destination is Nek Chand's world-renowned Rock Garden. Next, enjoy a brief drive to the beautiful Zakir Hussain Rose Garden, Asia's largest botanical rose sanctuary. In the evening, explore the upscale Sector 17 market plaza for exclusive premium shopping before returning to the Taj for a signature dining experience.",
+        "activities": [
+          "Sightseeing Included: Nek Chand's Rock Garden, Zakir Hussain Rose Garden",
+          "Optional Activities: Guided architectural walk at the Capitol Complex",
+          "Overnight Stay: Taj Chandigarh",
+          "Meals Included: Gourmet Breakfast & Chef's Special Farewell Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Luxury Spa Retreat & Departure with Memories",
+        "description": "Indulge in a luxurious late morning breakfast at the hotel. Today is yours to relax and experience the premium indoor amenities of Taj Chandigarh. We highly recommend treating yourself to an immersive therapeutic massage at the award-winning Jiva Spa. After checking out from your room at noon, your private vehicle will be ready for departure to the airport or station.",
+        "activities": [
+          "Sightseeing Included: Sector 17 open-air plaza or luxury mall transit",
+          "Assistance: Complete executive handling up to the departure lounge",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Standard King Room",
+        "meal_plan": "Breakfast Only",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premier Room",
+        "meal_plan": "Breakfast Only",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh (Primary Highlight)",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior Luxury City View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh / Sukhvilas Luxury Suites",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Executive Suite with Jacuzzi",
+        "meal_plan": "All Inclusive Premium Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights ultra-luxury accommodation at Taj Chandigarh",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Lavish daily breakfast spread and curated multi-course dinners at Taj signature restaurants",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private dedicated luxury sedan/SUV transfers throughout your stay",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All monumental entry tickets, priority parking passes, and private boat fees at Sukhna Lake",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary welcome amenities, fresh flowers, and fresh seasonal fruit basket upon arrival",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN customer support and on-ground travel concierge",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Full taxes, fuel charges, toll payments, and chauffeur allowances",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Inter-city airfare, flight charges, or train tickets to Chandigarh",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as telephone calls, laundry, or premium mini-bar items",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Spa therapies, salon treatments, or specialized dynamic body massages at Jiva Spa",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera or professional video fees at heritage sites",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and personal medical insurance plans",
+        "sort_order": 12
+      }
+    ]
+  }
+}

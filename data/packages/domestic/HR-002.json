@@ -1,0 +1,294 @@
+{
+  "destination_slug": "haryana",
+  "package": {
+    "slug": "hr-002-kurukshetra-spiritual-tour",
+    "serial_code": "HR-002",
+    "traguin_tour_code": "TRAGUIN-HR-002",
+    "title": "Kurukshetra Spiritual Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HR-002 | TRAGUIN tour code TRAGUIN-HR-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Haryana / India | Category: Pilgrimage / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kurukshetra & Jyotisar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Spiritual Seekers, Elders",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Scale)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Chauffeur-Driven Luxury SUV",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Delhi / Chandigarh → Kurukshetra → Jyotisar → Thanesar → Delhi / Chandigarh",
+        "sort_order": 8
+      },
+      {
+        "text": "Signature Experience: An exclusive scriptural storytelling session led by a local scholar, bringing the",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties are selected based on strict standards of luxury, hygiene, and",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Enjoy 24/7 dedicated support from our travel team to handle any on-the-",
+        "sort_order": 11
+      },
+      {
+        "text": "& INSIDER RECOMMENDATIONS Shopping Treasures: Take home authentic souvenirs from the local markets, such as beautiful brass artifacts, handcrafted icons of the Geeta Upadesh, and fine devotional scriptures printed in Thanesar. Top Instagram Spots: Capture the giant bronze chariot at Brahma Sarovar, the scenic hanging pathways at Jyotisar, and the beautiful symmetry of Sheikh Chilli's Tomb.",
+        "sort_order": 12
+      },
+      {
+        "text": "Dress Code Guidelines: Guests are kindly requested to dress modestly when visiting active places of worship. Shoes must",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Spiritual",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "hr-002-kurukshetra-spiritual-tour-itinerary",
+    "title": "Kurukshetra Spiritual Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Scale)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kurukshetra Spiritual Tour",
+    "overview": "THE DIVINE LAND OF BHAGAVAD GITA • JYOTISAR • BRAHMA SAROVAR • THANESAR Welcome to the holy land where history, mythology, and eternity converge. The Best Kurukshetra Tour Package designed by TRAGUIN invites you on a profound inner journey to the land of Mahabharata. Experience a uniquely customized Kurukshetra Family Tour rich with sacred rituals, premium handpicked accommodations, and expert storytelling that unlocks ancient epics. Let the timeless verses of the Bhagavad Gita elevate your consciousness on this definitive Luxury Kurukshetra Holiday.\n\nTOUR OVERVIEW\nThis meticulously planned itinerary offers a deep dive into the cultural and spiritual core of ancient India. Seamlessly managed from your arrival to your departure, this Premium Kurukshetra Experience guarantees TRA GUIN TRAGUIN Premium Itinerary - HR-002 a hassle-free exploration of the legendary battlefield, holy water tanks, and historic monuments. Enjoy absolute comfort with a dedicated private luxury transport infrastructure, tailored gourmet meal plans, and highly knowledgeable local guides curated specially for our discerning guests. ROUTE: Delhi / Chandigarh → Kurukshetra → Jyotisar → Thanesar → Delhi / Chandigarh VEHICLE ASSET: Chauffeur-driven Premium Toyota Innova Crysta / Luxury Sedan MEAL ARCHITECTURE: Modified American Plan (MAP) – Daily Premium Breakfast & Imperial Vegetarian Dinners TRAGUIN NOTE: Every element of this spiritual retreat includes a signature touch, featuring exclusive VIP access at major temples, priority seating for the divine sound & light shows, and specialized expert narration.\n\nWHY CHOOSE A PREMIUM KURUKSHETRA SPIRITUAL TOUR?\nKurukshetra is recognized globally as the cradle of Vedic civilization and the sacred site where Lord Krishna delivered the timeless message of the Bhagavad Gita to Arjuna. Booking a high-end Kurukshetra Sightseeing package ensures you witness the transition from grand mythical legends to modern historical discoveries. Explore the Top Tourist Places in Kurukshetra, including the massive Brahma Sarovar—believed to be created by Lord Brahma himself—and the legendary Jyotisar, the literal birthplace of the Gita. This tour balances deep cultural insights with peaceful moments, perfect for a deeply meaningful Kurukshetra Family Tour or a quiet, personalized spiritual retreat. Captured through your camera lens, the vibrant evening arti rituals and centuries-old banyan trees provide exceptional Instagram backdrops while fostering unforgettable personal moments.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HR-002 | Kurukshetra Spiritual Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Haryana package (HR-002 / TRAGUIN-HR-002): Kurukshetra & Jyotisar with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN THE SACRED REALM & THE GRAND BRAHMA SAROVAR EXPERIENCE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: JYOTISAR SPIRITUAL CRADLE & EPIC SOUND & LIGHT MASTERPIECE",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: ANTIQUITY OF THANESAR, MYSTICAL SHRINES & ARCHAEOLOGICAL MARVELS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SACRED WATER TANKS & HOMEWARD BOUND DEPARTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "Signature Experience: An exclusive scriptural storytelling session led by a local scholar, bringing the",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties are selected based on strict standards of luxury, hygiene, and",
+        "sort_order": 6
+      },
+      {
+        "text": "Personalized Assistance: Enjoy 24/7 dedicated support from our travel team to handle any on-the-",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN THE SACRED REALM & THE GRAND BRAHMA SAROVAR EXPERIENCE",
+        "description": "Your divine journey begins as our professional chauffeur welcomes you at Delhi or Chandigarh airport/railway station. Travel in style in a luxury private vehicle toward the land of the Mahabharata. Arrive and check into your handpicked premium hotel, where a warm traditional welcome awaits you. In the afternoon, begin your exploration with the magnificent Brahma Sarovar, one of the most iconic Top Tourist Places in Kurukshetra. Walk along its majestic ghats and take in the spiritual energy of this massive solar eclipse bathing destination. As dusk approaches, enjoy an exclusive, front-row view of the evening Maha Arti, followed by a peaceful visit to the nearby historical scriptural exhibits. sculpture. TRAGUIN Premium Itinerary - HR-002",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Brahma Sarovar, Birla Gita Mandir, Sri Hanuman Temple.",
+          "EVENING EXPERIENCE: Immersive grand evening oil-lamp Arti at the Brahma Sarovar banks with private seating.",
+          "PHOTOGRAPHY POINTS: Sunset reflection over the grand waters of Brahma Sarovar, the gigantic bronze chariot",
+          "OVERNIGHT STAY: Handpicked Luxury/Premium Hotel in Kurukshetra.",
+          "MEALS INCLUDED: Welcome Drink & Gourmet Vegetarian Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "JYOTISAR SPIRITUAL CRADLE & EPIC SOUND & LIGHT MASTERPIECE",
+        "description": "Start your morning with a rejuvenating meditation session. Today we visit Jyotisar, the most revered site on our Kurukshetra Spiritual Tour. Stand beneath the immortal holy Banyan Tree, a living witness to Lord Krishna delivering the sacred dialogue of the Bhagavad Gita to Arjuna. A specialized Vedic scholar will guide you through the history of this holy site. In the afternoon, explore the state-of-the-art Multimedia Mahabharata Gallery. Return to Jyotisar in the evening for an incredible, high-tech Sound and Light Show that brings the timeless ancient epic to life. TRAGUIN Premium Itinerary - HR-002",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Jyotisar Holy Birthplace, Krishna Museum, Kurukshetra Panorama & Science Centre.",
+          "OPTIONAL ACTIVITIES: Personalised Sankalpa Puja under the ancient holy Banyan tree.",
+          "EVENING EXPERIENCE: Premium tickets to the Light & Sound spectacular narration at Jyotisar.",
+          "OVERNIGHT STAY: Premium Heritage Hotel setup in Kurukshetra.",
+          "MEALS INCLUDED: Organic Breakfast & Royal Indian Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "ANTIQUITY OF THANESAR, MYSTICAL SHRINES & ARCHAEOLOGICAL MARVELS",
+        "description": "Following a premium breakfast, discover the fascinating layers of history at Thanesar. Visit the elegant Sheikh Chilli's Tomb, a architectural masterpiece that highlights the region's diverse past. Next, explore the ancient mounds of Harsh ka Tila, which reveal artifacts from the glorious reign of King Harshavardhana. In the afternoon, visit the sacred Sthaneshwar Mahadev Temple, where the Pandavas prayed to Lord Shiva for victory before the great war. Conclude your daytime sightseeing at the peaceful Bhadrakali Temple, one of the revered 51 Shakti Peethas, offering a quiet space for personal reflection and spiritual connection. Peetha. dining spots.",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Sheikh Chilli Tomb, Harsh ka Tila, Sthaneshwar Mahadev Shrine, Maa Bhadrakali Shakti",
+          "FOOD SUGGESTIONS: Savor premium authentic North Indian delicacies and traditional local lassi at selected clean",
+          "EVENING EXPERIENCE: A peaceful walk through the local brass craft markets and historical lanes of Thanesar.",
+          "OVERNIGHT STAY: Selected Premium Luxury Resort in Kurukshetra.",
+          "MEALS INCLUDED: Superb Breakfast Buffet & Curated Multi-cuisine Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SACRED WATER TANKS & HOMEWARD BOUND DEPARTURE",
+        "description": "On the final day of your Best Kurukshetra Tour Package, enjoy a relaxed breakfast at the resort. Visit the peaceful Sannihit Sarovar, believed to be the holy confluence of seven sacred Saraswati rivers. This quiet sanctuary offers the perfect place to gather your thoughts before your journey home. After checking out of your hotel, enjoy a comfortable drive back to Delhi or Chandigarh. Your premium luxury tour concludes as you are transferred to the airport or railway station, taking home a renewed sense of peace and unforgettable memories from this special spiritual journey.",
+        "activities": [
+          "SIGHTSEEING INCLUDED: Sannihit Sarovar, Kalpana Chawla Memorial Planetarium (Time Permitting).",
+          "MEALS INCLUDED: Extravagant Breakfast Buffet."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Divine Castle / Noormahal Palace Heritage variant",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – LUXURY: The Divine Castle / Noormahal Palace Heritage variant | Executive Suite / Club Room | Breakfast & Dinner (MAP)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Suite / Club Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Kimaya / Golden Tulip Essence",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – DELUXE: Hotel Kimaya / Golden Tulip Essence | Super Deluxe King Room | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Super Deluxe King Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Red Castle / Divine Clerks",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – PREMIUM: Hotel Red Castle / Divine Clerks | Super Deluxe Room | MAPAI",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Super Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Curated Heritage Boutique Farm & Wellness Villa",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Curated Heritage Boutique Farm & Wellness Villa | Royal Club Villa | All Inclusive Premium Meals",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Club Villa",
+        "meal_plan": "All Inclusive Premium Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury stays at premium, handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All transfers via private, chauffeur-driven luxury SUV.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium buffet breakfast and multi-cuisine dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "VIP priority access pass for the Jyotisar Light & Sound Show.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated spiritual tour guide for select major sites.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "All toll taxes, parking fees, fuel surcharges, and driver allowances.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 remote guest assistance and trip tracking.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train tickets, or interstate border permits.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera charges, special personal puja fees, or dakshina.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Laundry, telephone calls, and room service orders.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meals or snacks not listed in the itinerary.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance protections and medical coverages.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities or extended destination detours.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

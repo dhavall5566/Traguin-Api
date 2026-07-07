@@ -1,0 +1,308 @@
+{
+  "destination_slug": "manipur",
+  "package": {
+    "slug": "mn-007-manipur-educational-tour",
+    "serial_code": "MN-007",
+    "traguin_tour_code": "TG-MAN-EDU-007",
+    "title": "Manipur Educational Tour — Imphal • Loktak Lake • Moirang • Khongjom",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MN-007 | TRAGUIN tour code TG-MAN-EDU-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Manipur / India | Category: School / Educational",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Imphal • Moirang • Loktak Lake • Khongjom • Moreh Border",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Students, Educators, Institutions",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Group Pricing)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium Luxury Coaches (Fully Air-Conditioned with professional drivers)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Imphal Arrival • Kangla Fort • Loktak Lake • Moirang • Khongjom Battlefields • Imphal Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Specialized expert interactions with environmental activists",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety prioritized parameters with pre-scouted routes, emergency-",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Experiencing the famous traditional Manipuri Thang-Ta (martial arts)",
+        "sort_order": 11
+      },
+      {
+        "text": "TRAGUIN Premium Travel Experience",
+        "sort_order": 12
+      },
+      {
+        "text": "All student lists must be shared along with institutional authorization letters 30 days prior for smooth",
+        "sort_order": 13
+      },
+      {
+        "text": "security check alignments.",
+        "sort_order": 14
+      }
+    ],
+    "moods": [
+      "Educational",
+      "Culture",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "mn-007-manipur-educational-tour-itinerary",
+    "title": "Manipur Educational Tour — Imphal • Loktak Lake • Moirang • Khongjom",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Manipur Educational Tour",
+    "overview": "Imphal • Loktak Lake • Moirang • Khongjom • Keibul Lamjao Welcome to an unforgettable journey curated by TRAGUIN to the 'Jeweled Land' of Manipur. Designed specifically for young minds, our Luxury Manipur Holiday and experiential curriculum offer breathtaking TRAGUIN Premium Travel Experience 1 landscapes, immersive cultural exchanges, and deep historical context. This is the ultimate Manipur Educational Tour, combining pristine nature with key educational landmarks.\n\nTOUR OVERVIEW\nThis premium Manipur Family Tour and student group itinerary is perfectly crafted for comprehensive learning. As an industry-leading Premium Manipur Experience, we blend interactive sightseeing with safe, comfortable, and premium group logistics. Travel Dates: Flexible / Customizable as per institution requirements Group / FIT: Student Group Special (Accompanied by tour educators & professional guides) Vehicle: Premium Luxury Coaches (Fully Air-Conditioned with professional drivers) Meal Plan: All Meals Included (Breakfast, Lunch, and Dinner served fresh) Route: Imphal Arrival • Kangla Fort • Loktak Lake • Moirang • Khongjom Battlefields • Imphal Departure TRAGUIN Curated Experience Note: Every single destination features expert storytelling sessions covering WWII histories, unique ecological bio-diversities, and indigenous traditions.\n\nWHY CHOOSE A MANIPUR EDUCATIONAL TOUR?\nManipur is quickly emerging as one of the top searched destinations for experiential learning in Northeast India. Offering the Best Manipur Tour Package for academic groups, it presents a living classroom. Students explore the world's only floating national park, interact with weavers at Asia's largest all-women market, and walk the grounds of monumental World War II battlefields. From the popular Instagram locations like the floating phumdis of Loktak Lake to cultural heritage sites like Kangla Fort, this trip hits all the Top Tourist Places in Manipur. It provides an immersive look into indigenous governance, Commonwealth history, unique geographical phenomena, and ecological conservation strategies, making it the finest Manipur Sightseeing ecosystem for schools. DAY WISE DETAILED ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MN-007 | Manipur Educational Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Manipur package (MN-007 / TG-MAN-EDU-007): Imphal • Moirang • Loktak Lake • Khongjom • Moreh Border with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN IMPHAL — GATEWAY TO THE JEWELED LAND",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: THE LIVING ECOLOGY — LOKTAK LAKE & KEIBUL LAMJAO",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HERITAGE & PATRIOTISM — MOIRANG & INA MEMORIAL",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MILITARY HISTORY & EMPOWERMENT — KHONGJOM & IMA KEITHEL",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE WITH FOREVER MEMORIES — VALEDICTORY",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Specialized expert interactions with environmental activists",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety prioritized parameters with pre-scouted routes, emergency-",
+        "sort_order": 7
+      },
+      {
+        "text": "Exclusive Recommendations: Experiencing the famous traditional Manipuri Thang-Ta (martial arts)",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN IMPHAL — GATEWAY TO THE JEWELED LAND",
+        "description": "Arrive at Bir Tikendrajit International Airport in Imphal, where the premium TRAGUIN team welcomes your institution with traditional stoles. Transfer in luxury coaches to your premium handpicked hotel. After check-in and an orientation briefing, we begin our exploration at Kangla Fort, the ancient seat of power for the Kingdom of Manipur. Students will learn about pre-colonial archaeological ruins and traditional solar-aligned architecture.",
+        "activities": [
+          "Sightseeing Included: Kangla Fort, Archaeological Museum, Govindajee Temple.",
+          "Evening Experience: Interactive orientation and ice-breaking session on Manipuri heritage.",
+          "Overnight Stay: Imphal (Premium/Luxury Hotel Select).",
+          "Meals Included: Lunch & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "THE LIVING ECOLOGY — LOKTAK LAKE & KEIBUL LAMJAO",
+        "description": "An early morning drive leads us to the iconic Loktak Lake, the largest freshwater lake in Northeast India, famous for its unique floating islands called phumdis. We check into an immersive experience at the Keibul Lamjao National Park, the world's only floating wildlife sanctuary. Students will conduct field observations to spot the critically endangered Sangai (Brow-antlered deer), analyzing conservation methods and wetland ecosystems. point.",
+        "activities": [
+          "Sightseeing Included: Loktak Lake boat safari, Keibul Lamjao National Park tracking, Sendra Hills view",
+          "Optional Activities: Interaction with local fishermen regarding sustainable inland fishing technologies.",
+          "Evening Experience: Audio-visual presentation on the unique biodiversity of the Indo-Burma hotspot.",
+          "Overnight Stay: Imphal.",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HERITAGE & PATRIOTISM — MOIRANG & INA MEMORIAL",
+        "description": "Dive into national modern history by visiting Moirang. Here, the Indian National Army (INA) under Netaji Subhash Chandra Bose unfurled the tricolor flag on Indian soil for the first time in 1944. Students explore the INA Martyr's Complex, analyzing rare letters, uniform remnants, and historical battlefield documentation. This day covers core elements of the Best Time to Visit Manipur syllabus, matching high emotional patriotism with academic curriculum. introduction).",
+        "activities": [
+          "Sightseeing Included: INA Memorial Museum, Moirang Bazaar, historical battle mapping markers.",
+          "Evening Experience: Traditional Meitei cultural dance demonstration (Pung Cholom & Ras Leela",
+          "Overnight Stay: Imphal.",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MILITARY HISTORY & EMPOWERMENT — KHONGJOM & IMA KEITHEL",
+        "description": "Travel down the Indo-Myanmar highway to the Khongjom War Memorial Complex, dedicated to the Anglo- Manipur War of 1891. Students explore historical hillsides where soldiers fought alongside Major Paona Brajabashi. In the afternoon, we return to Imphal to study a unique socio-economic marvel: the Ima Keithel (Mother's Market), a 500-year-old market managed completely by over 5,000 married women, offering an incredible lesson in community finance and female leadership. Market.",
+        "activities": [
+          "Sightseeing Included: Khongjom Memorial, Imphal WWII Commonwealth War Cemetery, Ima Keithel",
+          "Evening Experience: Debating session and project brief completion. Souvenir collection and photography.",
+          "Overnight Stay: Imphal.",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE WITH FOREVER MEMORIES — VALEDICTORY",
+        "description": "Enjoy a relaxed breakfast at your premium stay. Complete a final reflection circle overseen by your travel consultants. Students are presented with specialized certificates of participation from TRAGUIN Packages. Board the luxury coach for a smooth airport transfer, taking home unforgettable memories and profound geographical insights.",
+        "activities": [
+          "Sightseeing Included: Local handloom visual center (brief visit).",
+          "Overnight Stay: Tour Concluded.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Classic Hotel / Hotel Imphal",
+        "location": "Imphal",
+        "nights_label": "4N Imphal",
+        "description": "OPTION 01 – DELUXE: Classic Hotel / Hotel Imphal | Breakfast & Dinner (MAPAI)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Twin Bed / Triple Bed Options",
+        "meal_plan": "Breakfast & Dinner (MAPAI)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Classic Grande (A Member of Radisson Individuals)",
+        "location": "Imphal",
+        "nights_label": "4N Imphal",
+        "description": "OPTION 02 – PREMIUM: The Classic Grande (A Member of Radisson Individuals) | All Meals Curated (APAI)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Superior Deluxe Twin Rooms",
+        "meal_plan": "All Meals Curated (APAI)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium Heritage Palace / Elite Suites",
+        "location": "Imphal",
+        "nights_label": "4N Imphal",
+        "description": "OPTION 03 – LUXURY: Premium Heritage Palace / Elite Suites | All Meals Curated + High Tea",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Rooms",
+        "meal_plan": "All Meals Curated + High Tea",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Exclusive Boutique Eco-Resorts / Royal Palace Wings",
+        "location": "Imphal",
+        "nights_label": "4N Imphal",
+        "description": "OPTION 04 – ULTRA LUXURY: Exclusive Boutique Eco-Resorts / Royal Palace Wings | Gourmet Customized Institutional Catering",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Signature Executive Suites",
+        "meal_plan": "Gourmet Customized Institutional Catering",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 Nights premium accommodation in select twin/triple occupancy.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Standard customized institutional meals (Breakfast, Lunch & Dinner).",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "All point-to-point transfers via fully sanitized Luxury AC Coaches.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Full academic entries to Kangla Fort, INA Complex, and Khongjom.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Special boat safari inside the core eco-zone of Loktak Lake.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive TRAGUIN Support with a dedicated Tour Manager 24/7.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All local state taxes, parking fees, and professional guiding charges.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Inbound/Outbound Domestic or International airfares.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenditures (laundry, optional shopping, telephone calls).",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra food ordering outside our pre-fixed curated school menus.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive travel insurance or early medical evacuations.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera fees, video recording special permits inside historic museums.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

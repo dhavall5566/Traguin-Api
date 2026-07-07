@@ -1,0 +1,294 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-003-ajanta-ellora-heritage-tour",
+    "serial_code": "MH-003",
+    "traguin_tour_code": "TRAGUIN-MHA-AJ-EL-003",
+    "title": "Premium Ajanta Ellora Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-003 | TRAGUIN tour code TRAGUIN-MHA-AJ-EL-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Luxury Heritage Journey",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chhatrapati Sambhajinagar (Aurangabad) • Ajanta • Ellora",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Heritage Connoisseurs, Families, Historians",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Ideal Weather)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Heritage Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Premium SUV (Innova Crysta / Luxury Sedan)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Breakfast & Curated Local Gourmet Dinners (MAPAI)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Sambhajinagar Arrival ➔ Ajanta Caves ➔ Ellora Caves & Fort ➔ Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Archeological guide encounters tracing ancient trade routes with 24/7 dedicated concierge support",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Himroo shawls and Paithani silk sarees at genuine artisan looms; Aurangabadi Naan Qalia heritage cuisine",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Ajanta closed Mondays, Ellora closed Tuesdays; eco-friendly shuttle required for final mile to Ajanta; book 30-45 days ahead",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Luxury",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-003-ajanta-ellora-itinerary",
+    "title": "Premium Ajanta Ellora Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Absolute Finest Heritage Discovery & Luxury Holiday • 3 Nights / 4 Days",
+    "overview": "Welcome to an unforgettable odyssey into antiquity, meticulously crafted by the destination experts at TRAGUIN. This exclusive luxury Ajanta Ellora tour package unfolds the majestic legacy of ancient India across the rocky heart of Maharashtra. Journey back through two millennia to unravel breathtaking landscapes, world-renowned rock-cut architecture, and fine spiritual art. Melding private, premium chauffeured comfort, signature handpicked hotels, and world-class archeological guidance, this premium experience promises to transform a deep cultural exploration into timeless family memories.\n\nYour bespoke TRAGUIN travel itinerary centers on Chhatrapati Sambhajinagar (formerly Aurangabad), the ultimate gateway to India's most celebrated UNESCO World Heritage architectural sites. On this luxury holiday, you will stand in awe before the majestic monoliths of Ellora, step into the fresco-adorned sanctuaries of the ancient Ajanta Caves, and trace the royal legacy of the Deccan at Bibi Ka Maqbara and Daulatabad Fort. Experience a perfectly paced, premium family tour complete with private luxury transfers, gourmet dining, and our signature hospitality amenities.\n\nWhy Visit Ajanta and Ellora? Considered the pinnacle of ancient architectural engineering, these twin temple networks present a profound artistic journey. The Ajanta Caves house masterfully preserved Buddhist frescoes dating back to the 2nd century BCE, positioned within a dramatic, horseshoe-shaped river ravine. Meanwhile, the Ellora Caves celebrate India's ancient pluralism with 34 stunning Buddhist, Hindu, and Jain sanctuaries carved side-by-side out of the basaltic Charanandri hills.\n\nTop Tourist Places & Famous Attractions: This definitive Ajanta Ellora package covers iconic sights such as the unbelievable Kailash Temple (Cave 16)—the world's largest single rock-cut monolithic structure. You will also photograph the dramatic heights of Daulatabad Fort, the spectacular Mughal artistry of Bibi Ka Maqbara (the Taj of the Deccan), and the sacred Panchakki water mill, guaranteeing timeless photographs at popular Instagram locations away from common crowds.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-003 | Premium Ajanta Ellora Heritage Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Ajanta Ellora heritage tour (MH-003 / TRAGUIN-MHA-AJ-EL-003): Ajanta Caves, Ellora Kailash Temple, Daulatabad Fort, Bibi Ka Maqbara, Aurangabad Caves, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Bibi Ka Maqbara, Panchakki & Himroo Weaving Center",
+        "sort_order": 1
+      },
+      {
+        "text": "Ajanta Cave Complex, Waghur Viewpoint & Archeological Museum",
+        "sort_order": 2
+      },
+      {
+        "text": "Ellora Caves, Kailash Monolith, Daulatabad Fort & Grishneshwar",
+        "sort_order": 3
+      },
+      {
+        "text": "Aurangabad Caves & Local Artisan Markets",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Archeological guide encounters tracing ancient trade routes",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chhatrapati Sambhajinagar | Gateway to Deccan Grandeur",
+        "description": "Arrive at Chhatrapati Sambhajinagar Airport or Railway Station, where a premium TRAGUIN representative awaits to extend a traditional royal welcome. Board your private chauffeured premium SUV and transfer to your handpicked luxury hotel. In the afternoon, embark on an immersive city sightseeing tour. Witness the architectural wonder of Panchakki, an ancient medieval water mill engineered to power a flour mill. Next, marvel at Bibi Ka Maqbara, a stunning monument of matrimonial devotion built by Prince Azam Shah, featuring intricate marble screens and manicured Mughal gardens. As the evening sets in, enjoy an intimate walk through the city's historic textile quarters before enjoying a curated multi-course dinner.",
+        "activities": [
+          "Sightseeing Included: Bibi Ka Maqbara, Panchakki, Himroo Weaving Center",
+          "Optional Activities: Traditional Deccani high-tea at a heritage courtyard",
+          "Evening Experience: Private guided walk through the ancient gates of the city",
+          "Overnight Stay: Chhatrapati Sambhajinagar Luxury Hotel",
+          "Meals Included: Gourmet Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "The Miracles of Ajanta | Exploring Ancient Frescoes & Hidden Ravines",
+        "description": "Indulge in a lavish breakfast before setting off on a scenic excursion to the world-renowned Ajanta Caves, a breathtaking UNESCO World Heritage site located approximately 100 km away. Encircled by lush forested cliffs, these 30 rock-cut caves served as secluded monsoon retreats for ancient Buddhist monks. Accompanied by a handpicked TRAGUIN archeological storyteller, marvel at the timeless masterpieces of ancient Indian art in Caves 1, 2, 16, and 17, including the iconic paintings of Padmapani and Vajrapani. Learn the emotional narratives behind the Jataka tales painted with natural minerals that have glowed silently through centuries. Return to the hotel in the late afternoon for a relaxing evening at the premium resort spa.",
+        "activities": [
+          "Sightseeing Included: Ajanta Cave Complex, Waghur Viewpoint, Archeological Museum",
+          "Optional Activities: Panoramic photography trek to the Ajanta horseshoe viewpoint",
+          "Evening Experience: Private screening of a documentary detailing the discovery of Ajanta",
+          "Overnight Stay: Chhatrapati Sambhajinagar Luxury Hotel",
+          "Meals Included: Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Monoliths of Ellora & Daulatabad Fort | Architectural Triumphs",
+        "description": "Following a premium breakfast, journey toward the jaw-dropping Ellora Caves. Your curated experience focuses first on Cave 16—the magnificent Kailash Temple. This architectural marvel was carved from the top down out of a single solid hill, removing over 200,000 tons of rock to reveal a structure double the size of the Parthenon. Continue onwards to explore the serene Buddhist viharas and the detailed Jain Indra Sabha temples. In the afternoon, visit the invincible Daulatabad Fort, an extraordinary medieval hilltop fortress featuring a complex system of defensive moats, subterranean mazes, and a soaring victory minaret. Conclude the day by paying respects at the historic Grishneshwar Jyotirlinga Temple.",
+        "activities": [
+          "Sightseeing Included: Ellora Caves, Kailash Monolith, Daulatabad Fort, Grishneshwar",
+          "Optional Activities: Private culinary workshop featuring authentic Naan Qalia dishes",
+          "Evening Experience: Sundowner drinks looking out over the majestic plains of Daulatabad",
+          "Overnight Stay: Chhatrapati Sambhajinagar Luxury Hotel",
+          "Meals Included: Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Aurangabad Caves & Departure | Preserving Timeless Heritage Memories",
+        "description": "Savor your final morning breakfast at the resort before checking out. Today, explore the hidden gem known as the Aurangabad Caves, twelve rock-cut Buddhist shrines carved into the hills during the 6th and 7th centuries AD, presenting exquisite sculptures of female deities and serene spiritual iconography. Following this, enjoy some light boutique shopping for authentic regional handicrafts. Your memorable TRAGUIN Ajanta Ellora experience draws to a close as your private chauffeur drops you off at the airport or railway station for your homeward journey, carrying exceptional stories and unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Aurangabad Caves, Local Artisan Markets",
+          "Optional Activities: Farewell lunch at an elite city garden restaurant",
+          "Evening Experience: Drop-off assistance directly at the departure terminal",
+          "Overnight Stay: Departure / End of Services",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC Hotels, Rama International",
+        "location": "Chhatrapati Sambhajinagar / Aurangabad",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ambassador Ajanta Hotel",
+        "location": "Chhatrapati Sambhajinagar / Aurangabad",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Club Room / Executive Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Aurangabad - Taj Hotels",
+        "location": "Chhatrapati Sambhajinagar / Aurangabad",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior Room / Deluxe Garden View Wing",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Aurangabad - Taj Hotels",
+        "location": "Chhatrapati Sambhajinagar / Aurangabad",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury heritage suite with private butler concierge.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Executive Heritage Suite with Private Butler Concierge",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Elite Stays: 3 Nights in handpicked premium hotels or luxury heritage resorts as selected.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Food: Lavish breakfast spreads and multi-course dinners featuring local and global cuisines.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Premium Vehicles: Private air-conditioned luxury SUV available for all transfers, excursions, and intercity sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Welcome Touch: Personalized traditional garland welcome, refreshing cold towels, and premium amenities on arrival.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Expert Storytelling: Private certified archeological guides for comprehensive tours of Ajanta and Ellora Caves.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP Convenience: Pre-booked VIP entry tickets for all major monuments, bypassing long tourist lines.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complete Coverage: Fuel charges, driver allowances, state permits, toll taxes, and parking fees are completely included.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated elite concierge assistance during the entire vacation.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international flights, train ticketing expenses, or terminal surcharges.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, phone bills, premium mini-bar items, and room service.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera, video, or commercial shooting licensing charges at any tourist places.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any mid-day meals, lunches, snacks, or alcoholic beverages not specified in the plan.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory high-season holiday surcharges during major festivals or New Year weeks.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal travel insurance and medical emergency provisions.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

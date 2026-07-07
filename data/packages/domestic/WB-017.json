@@ -1,0 +1,359 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-017-sandakphu-vintage-land-rover-adventure",
+    "serial_code": "WB-017",
+    "traguin_tour_code": "TRG-WB-017-ADVR",
+    "title": "Sandakphu Trek & Vintage Land Rover Premium Experience",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-017 | TRAGUIN tour code TRG-WB-017-ADVR",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal / India | Category: Adventure & Wildlife",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Manebhanjan • Tumling • Sandakphu • Phalut",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Seekers & Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle: Private Luxury SUV + Traditional Heritage Land Rover for the Ridge",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: MAPAI (Breakfast, Premium Dinner, and Evening High Tea)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Bagdogra → Manebhanjan → Tumling → Sandakphu → Phalut → Darjeeling",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private champagne or gourmet hot chocolate toast upon reaching the Sandakphu summit.",
+        "sort_order": 9
+      },
+      {
+        "text": "Important Notes: Sandakphu at 11,929 ft — stay hydrated. Carry heavy woolens and windcheaters. Ridge route restricted to certified heritage 4x4 vehicles.",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Wildlife",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-017-sandakphu-vintage-land-rover-adventure-itinerary",
+    "title": "Sandakphu Trek & Vintage Land Rover Premium Experience",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sandakphu Trek & Vintage Land Rover Premium Experience • 06 Nights / 07 Days",
+    "overview": "Welcome to an extraordinary escape crafted by TRAGUIN. Embark on the ultimate Luxury West Bengal Holiday that takes you along the legendary Singalila Ridge. Witness the majestic Sleeping Buddha mountain formation and enjoy a curated, premium journey through breathtaking landscapes, combining classic Himalayan trekking elements with the iconic vintage 1950s Land Rover experience.\n\nTOUR OVERVIEW\nRoute: Bagdogra • Manebhanjan • Tumling • Sandakphu • Phalut • Darjeeling. Vehicle: Private Luxury SUV for transfers & Traditional Heritage Land Rover for the Ridge. Meal Plan: MAPAI (Breakfast, Premium Dinner, and Evening High Tea). Vibe: Immersive, Luxurious, Scenic, and Emotionally Uplifting.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-017 | Sandakphu Vintage Land Rover Adventure | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days West Bengal package (WB-017 / TRG-WB-017-ADVR): Singalila Ridge, Sandakphu peak, Phalut, vintage Land Rover, Tiger Hill, and 4-tier mountain accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vintage 1950s Land Rover ascent through Chitrey and Lameydhura to Tumling meadows",
+        "sort_order": 1
+      },
+      {
+        "text": "Sandakphu Peak (11,929 ft) with 360-degree views of Everest, Kanchenjunga, Lhotse, and Makalu",
+        "sort_order": 2
+      },
+      {
+        "text": "Phalut day-excursion along the world's most scenic ridge trail",
+        "sort_order": 3
+      },
+      {
+        "text": "Darjeeling Tiger Hill sunrise, Toy Train, HMI, Zoo, and Glenary's pastries",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier accommodation: Manebhanjan/Tumling/Sandakphu ridge (04 Nights) + Darjeeling (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL AT BAGDOGRA TO MANEBHANJAN",
+        "description": "Your unforgettable journey begins with a warm welcome by a TRAGUIN representative at Bagdogra Airport. From here, enjoy a scenic drive winding through emerald green tea estates and misty pine forests up to Manebhanjan, the historic starting point of the Sandakphu trail. Breathe in the crisp, pure Himalayan air as you transition into a slower, deeply rejuvenating mountain rhythm.",
+        "activities": [
+          "Sightseeing Included: Mirik Lake (en-route), Simana Viewpoint, Pine Forest scenic drives.",
+          "Evening Experience: Private orientation session with your TRAGUIN mountain guide over artisan local tea.",
+          "Overnight Stay: Premium Handpicked Himalayan Eco-Lodge, Manebhanjan.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MANEBHANJAN TO TUMLING — VINTAGE LAND ROVER ASCENT",
+        "description": "Today, step into your exclusively reserved, beautifully maintained vintage 1950s Land Rover. Feel the thrill of a bygone era as the classic 4x4 negotiates the steep, rugged terrain through Chitrey and Lameydhura. Arrive at the peaceful village of Tumling. The evening presents a mesmerizing sunset over the Nepalese hills, filling your heart with unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Chitrey Monastery, Singalila National Park Entry Checkpoint, Tumling Meadows.",
+          "Photography Points: Spectacular views of the valleys shifting below the clouds.",
+          "Overnight Stay: Curated Premium Lodge / Shikhar Luxury Homestay, Tumling.",
+          "Meals Included: Organic Breakfast & Hot Traditional Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "TUMLING TO SANDAKPHU — THE ROOF OF WEST BENGAL",
+        "description": "Wake up early to catch a breathtaking sunrise. After breakfast, your Land Rover continues its dramatic ascent along the border ridge, driving through Kalapokhri—famous for its sacred black pond. Then, ascend the challenging hairpin curves to reach Sandakphu, the pinnacle of your Luxury West Bengal Holiday. The 360-degree theater of snow-capped giants will leave you speechless.",
+        "activities": [
+          "Sightseeing Included: Kalapokhri Lake, Sandakphu Peak Sightseeing, Sunset over the Sleeping Buddha.",
+          "Optional Activities: A short, guided alpine walk to a nearby viewpoint for unmatched solace.",
+          "Overnight Stay: Sandakphu Premium Alpine Suite (Best available heated comfort).",
+          "Meals Included: Power Breakfast, Local Cuisine Lunch, and Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SANDAKPHU EXCURSION TO PHALUT — PRISTINE WILDERNESS RIDGE",
+        "description": "A truly immersive experience awaits as we embark on a day-excursion towards Phalut. The road between Sandakphu and Phalut is one of the most scenic trails in the world, running along the ridge with continuous views of Everest and Kanchenjunga. The stark, pristine beauty of Phalut feels like touching the edge of the sky. Return to Sandakphu by evening to witness another dramatic celestial display.",
+        "activities": [
+          "Sightseeing Included: Phalut Viewpoint, Singalila Forest deep ridges, high-altitude grassland view.",
+          "Evening Experience: Cozy bonfire setup (weather permitting) with hot local rhododendron beverages.",
+          "Overnight Stay: Sandakphu Premium Alpine Suite.",
+          "Meals Included: Breakfast, Packed Ridge Lunch, and Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SANDAKPHU TO DARJEELING — DESCENT TO THE QUEEN OF HILLS",
+        "description": "Bid farewell to the high peaks as your Land Rover smoothly brings you down to Manebhanjan. Here, you will switch to your luxury private SUV and travel towards Darjeeling. Check into your premium colonial-style resort. Spend your evening strolling down the iconic Mall Road, enjoying a stark contrast of vibrant café culture after the silent mountains.",
+        "activities": [
+          "Sightseeing Included: Lepchajagat viewpoint, Darjeeling Chowrasta, Mahakal Temple.",
+          "Food Suggestions: Fresh pastries at Glenary's and authentic tea tasting at Nathmulls.",
+          "Overnight Stay: Luxury Heritage Resort (Mayfair Darjeeling / Elgin or similar).",
+          "Meals Included: Breakfast & Elegant Multi-cuisine Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DARJEELING ICONIC SIGHTSEEING — COLONIAL SPLENDOR",
+        "description": "Start before dawn with a luxury excursion to Tiger Hill to watch the sun turn Kanchenjunga into pure gold. Return for a lavish breakfast, then visit the Himalayan Mountaineering Institute and take a ride on the UNESCO World Heritage Darjeeling Himalayan Railway (Toy Train). This day beautifully balances historic culture with majestic natural viewpoints.",
+        "activities": [
+          "Sightseeing Included: Tiger Hill Sunrise, Ghoom Monastery, Batasia Loop, Padmaja Naidu Himalayan Zoological Park.",
+          "Shopping: Handwoven Tibetan carpets, fine Darjeeling tea, local handicrafts.",
+          "Overnight Stay: Luxury Heritage Resort, Darjeeling.",
+          "Meals Included: Elite Breakfast & Grand Farewell Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE FROM BAGDOGRA",
+        "description": "After a leisurely breakfast overlooking the tea valleys, enjoy a comfortable luxury transfer back to Bagdogra Airport. Your premium TRAGUIN West Bengal Package concludes here, leaving you with timeless stories, pristine mountain energy, and unforgettable memories to cherish forever.",
+        "activities": [
+          "Transfers: Private Chauffeur driven Luxury SUV to airport.",
+          "Meals Included: Lavish Buffet Breakfast."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Himalayan Retreat / Shikhar Lodge / Sunrise Alpine Lodge",
+        "location": "Manebhanjan / Tumling / Sandakphu",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Himalayan Retreat / Shikhar Lodge / Sunrise Alpine Lodge (Ridge, 04 Nights)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Alpine Lodge Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Dekeling Resort / Cedar Inn",
+        "location": "Darjeeling",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Dekeling Resort / Cedar Inn (Darjeeling, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Tumling Eco Resort / Sandakphu Chalet (Heated)",
+        "location": "Manebhanjan / Tumling / Sandakphu",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Tumling Eco Resort / Sandakphu Chalet (Ridge, 04 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin Heritage Resort",
+        "location": "Darjeeling",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: The Elgin Heritage Resort (Darjeeling, 02 Nights)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Heritage Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Elite Mountain Villa / Sandakphu Star Suite",
+        "location": "Manebhanjan / Tumling / Sandakphu",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Elite Mountain Villa / Sandakphu Star Suite (Ridge, 04 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Star Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Hill Resort Exclusive Mountain Cottage",
+        "location": "Darjeeling",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: Mayfair Hill Resort Exclusive Mountain Cottage (Darjeeling, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Mountain Cottage",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Horizon View Presidential",
+        "location": "Manebhanjan / Tumling / Sandakphu",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Horizon View Presidential (Ridge, 04 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Windamere Colonial Hotel",
+        "location": "Darjeeling",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Windamere Colonial Hotel (Darjeeling, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Colonial Heritage Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury accommodation in handpicked premium hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast, evening high-tea, and multi-cuisine gourmet dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Heritage Land Rover (4x4) rental for the entire ridge journey.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury SUV (Innova/XUV) for airport transfers and Darjeeling sightseeing.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Singalila National Park permits, eco-fees, and entry formalities.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated, professional local mountain guide and TRAGUIN support team.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Welcome premium amenities & localized mineral water supplies.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or Train tickets to/from Bagdogra.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, alcoholic beverages, phone calls.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monastery/Museum entry tickets or Toy Train joyride tickets.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and emergency high-altitude medical insurance.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips for drivers, guides, and hotel staff.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours or activities not mentioned in the itinerary.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

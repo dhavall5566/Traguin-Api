@@ -1,0 +1,307 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-001-mumbai-lonavala-luxury-family-tour",
+    "serial_code": "MH-001",
+    "traguin_tour_code": "TRAGUIN-MUM-LON-001",
+    "title": "Mumbai & Lonavala Luxury Family Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-001 | TRAGUIN tour code TRAGUIN-MUM-LON-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Premium Family Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mumbai • Lonavala • Khandala",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples, Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Plus Lush Monsoons)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Family Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Premium SUV (Innova Crysta / Luxury Sedan)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Breakfast & Handpicked Curated Dinners (MAPAI)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Mumbai (2N) ➔ Lonavala & Khandala (2N) ➔ Mumbai Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Bespoke amenities and 24/7 dedicated concierge support with private sunset yacht sailing in South Mumbai",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Colaba Causeway antiquities and Palladium designer malls; Maganlal Chikki and warm Bhutta at Tiger Point in Lonavala",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Standard check-in 14:00 hrs, check-out 11:00 hrs; monsoon may affect Elephanta ferry; book 45 days ahead in peak season",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Couples"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-001-mumbai-lonavala-luxury-family-tour-itinerary",
+    "title": "Mumbai & Lonavala Luxury Family Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Ultimate Mumbai & Lonavala Luxury Family Tour • 4 Nights / 5 Days",
+    "overview": "Welcome to an extraordinary journey meticulously crafted by TRAGUIN. This exclusive luxury Maharashtra holiday seamlessly bridges the high-octane energy, heritage romance, and glamorous allure of India's commercial capital, Mumbai, with the serene mist-kissed highlands, breathtaking landscapes, and emerald-green valleys of Lonavala and Khandala. Designed to deliver an unparalleled, deeply immersive family experience, this bespoke getaway effortlessly blends world-class luxury, private chauffeured transfers, signature handpicked accommodations, and deeply engaging historical explorations to construct memories that will be cherished for a lifetime.\n\nYour bespoke TRAGUIN travel itinerary begins in Mumbai, where the colonial-era architecture stands gracefully alongside shimmering modern skyscrapers. Experience the absolute finest elements of a premium Mumbai vacation package, spanning from private luxury yacht sailings against the Arabian Sea sunset to intimate, privately guided walks down historic lanes. You will then ascend to the Sahyadri mountains via a beautifully scenic route to immerse yourselves in a premium Lonavala experience. Surrounded by cascading seasonal waterfalls, dramatic cliffs, and absolute tranquility, your family will discover the pinnacle of luxury, rejuvenation, and comfort.\n\nWhy Visit Mumbai and Lonavala? This iconic pairing delivers the ultimate dual-world Indian holiday—combining an ultra-luxury urban experience with an exquisite mountain retreat. Mumbai, widely celebrated as the City of Dreams, captivates multi-generational families with its magnificent UNESCO World Heritage architectural sites, rich Bollywood culture, and phenomenal seaside promenades. Lonavala complements this high-energy vibe by providing a refreshing alpine sanctuary famous for its pristine natural eco-systems, majestic ancient rock-cut caves, and panoramic viewpoints.\n\nTop Tourist Places & Instagram Locations: Capture striking family photographs at the monumental Gateway of India, the iconic sea-skimming Marine Drive arc, the dramatic Taj Mahal Palace, the historic Chhatrapati Shivaji Maharaj Terminus, and the spectacular, misty cliffs of Tiger Point and Duke's Nose in Lonavala. This specialized TRAGUIN Maharashtra package guarantees that you experience these world-famous sightseeing marvels completely away from the crowds, utilizing expertly timed VIP access passes and private localized guidance.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-001 | Mumbai & Lonavala Luxury Family Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Mumbai & Lonavala luxury family tour (MH-001 / TRAGUIN-MUM-LON-001): Gateway of India, Elephanta Caves, Karla & Bhaja Caves, Tiger Point, private yacht cruise, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Gateway of India, Marine Drive, Colaba & Private Sunset Harbor Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Elephanta Caves UNESCO Heritage, Bandra, Juhu Beach, Mani Bhavan & Sea Link",
+        "sort_order": 2
+      },
+      {
+        "text": "Khandala Valley, Karla & Bhaja Caves, Bhushi Dam, Tiger Point & Duke's Nose",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family sunset sailing in South Mumbai with dedicated on-board hospitality",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: Rigorously inspected properties across Mumbai and Lonavala with elite service",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Mumbai | Welcome to the Glamorous City of Dreams",
+        "description": "Arrive at Mumbai's Chhatrapati Shivaji Maharaj International Airport or terminal, where a dedicated TRAGUIN luxury travel representative will warmly greet your family with premium welcome amenities and a private chauffeured luxury vehicle. Transfer smoothly to your iconic heritage luxury hotel overlooking the sea. After checking in and relaxing, embark on an enchanting afternoon exploration of South Mumbai's architectural treasures. Drive past the majestic Victoria Terminus and the regal Buildings of Fort, concluding with an evocative stroll at the Gateway of India. As evening falls, step onto a private luxury sailing boat arranged exclusively for you by TRAGUIN, enjoying the refreshing ocean breeze and a stunning golden hour view over the Arabian Sea skyline.",
+        "activities": [
+          "Sightseeing Included: Gateway of India, Marine Drive, Colaba, Private Sailing",
+          "Optional Activities: High-tea at The Taj Mahal Palace Sea Lounge",
+          "Evening Experience: Sunset private harbor cruise with customized mocktails",
+          "Overnight Stay: Mumbai Premium Luxury Hotel",
+          "Meals Included: Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Comprehensive Mumbai Sightseeing | Heritage, Culture & Coastal Glamour",
+        "description": "Savor a magnificent multi-cuisine breakfast before diving into the definitive Mumbai sightseeing experience. Begin your morning with a fascinating private ferry cruise to the legendary, ancient rock-cut Elephanta Caves, a beautifully preserved UNESCO World Heritage Site filled with mystical carvings. Returning to the mainland, enjoy a bespoke lunch at a celebrated fine-dining restaurant in Colaba. In the afternoon, take a highly scenic drive across the engineering marvel that is the Rajiv Gandhi Sea Link to explore the upscale neighborhoods of Bandra, driving past the luxurious private residences of Bollywood's most iconic superstars. Conclude your evening with an unwinding walk along the Queen's Necklace at Marine Drive as the entire city lights up.",
+        "activities": [
+          "Sightseeing Included: Elephanta Caves, Bandra, Juhu Beach, Mani Bhavan, Sea Link",
+          "Optional Activities: Private Bollywood studio tour with dance experience",
+          "Evening Experience: Coastal fine-dining and seaside sunset photography",
+          "Overnight Stay: Mumbai Premium Luxury Hotel",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Mumbai to Lonavala | Ascending to the Mystical Sahyadri Highlands",
+        "description": "Bid farewell to the coastal metropolis as your premium chauffeured SUV begins a highly scenic journey toward the mountains for your exclusive Lonavala family tour. Ascend into the beautiful western ghats via the expansive expressway, stopping along the way to witness the breathtaking landscapes and misty panoramas of Khandala. Check into your ultra-luxury mountain resort, a handpicked sanctuary featuring private temperature-controlled plunge pools and spectacular views of the valley. Spend your afternoon enjoying an immersive private nature trail curated by TRAGUIN experts to witness native flora and hidden streams, or unwind completely within the resort's premium luxury spa facility.",
+        "activities": [
+          "Sightseeing Included: Khandala Valley, Amrutanjan Point, Resort Eco-Trails",
+          "Optional Activities: Premium organic aroma-therapy spa treatment",
+          "Evening Experience: Private candle-lit patio dinner overlooking illuminated cliffs",
+          "Overnight Stay: Lonavala Ultra-Luxury Hill Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Lonavala Sightseeing | Ancient Caves, Waterfalls & Iconic Viewpoints",
+        "description": "Awaken to the soothing sounds of mountain birds and a refreshing alpine breeze. Today features the definitive Lonavala sightseeing journey. Visit the historical Karla and Bhaja Caves, extraordinary ancient Buddhist shrines carved intricately into rock faces dating back to the 2nd century BC. Next, visit the sparkling waters of Bhushi Dam, followed by an exclusive afternoon excursion to Lonavala Lake. As late afternoon approaches, your private guide will escort you to Tiger Point and Duke's Nose, where clouds literally drift past your feet. Indulge in hot local delicacies and tea while watching the sunset over deeply carved canyons, capturing unforgettable family memories.",
+        "activities": [
+          "Sightseeing Included: Karla Caves, Bhushi Dam, Tiger Point, Celebrity Wax Museum",
+          "Optional Activities: Hot-air balloon flight over the lush valley landscapes",
+          "Evening Experience: Local shopping trail for premium hand-crafted Chikki and crafts",
+          "Overnight Stay: Lonavala Ultra-Luxury Hill Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Lonavala to Mumbai | Cherishing Unforgettable Premium Memories",
+        "description": "Enjoy a leisurely breakfast on your private balcony, taking in the serene mountain scenery one final time. Spend your morning at absolute relaxation inside the resort, enjoying a family swim or purchasing artisanal local souvenirs. At the designated check-out time, your professional chauffeur will assist with luggage and drive you safely down the hills back to Mumbai. Your dedicated TRAGUIN holiday concludes as you are smoothly dropped off at the airport, railway terminal, or your residence, carrying a treasure trove of unforgettable luxury memories from your premium Maharashtra escape.",
+        "activities": [
+          "Sightseeing Included: Scenic return drive across the Western Ghats",
+          "Optional Activities: En-route gourmet lunch stop at a premium highway estate",
+          "Evening Experience: Warm farewell at the airport departure gate",
+          "Overnight Stay: Departure / End of Services",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Trident Nariman Point / Vivanta Cuffe Parade | Fariyas Resort Lonavala / Citrus Hotel",
+        "location": "Mumbai (2N) / Lonavala (2N)",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Sea-View Room (CP) / Deluxe Valley View Room (MAP)",
+        "meal_plan": "CP Mumbai & MAP Lonavala",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis Mumbai / InterContinental | Della Resorts Lonavala",
+        "location": "Mumbai (2N) / Lonavala (2N)",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium City / Sea Vista Room (CP) / Luxury Resort Room (MAP)",
+        "meal_plan": "CP Mumbai & MAP Lonavala",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Mahal Palace & Tower | The Machan / Hilton Shillim Estate Spa Retreat",
+        "location": "Mumbai (2N) / Lonavala (2N)",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Tower Sea View Wing (CP) / Canopy Machan or Valley Villa (MAP)",
+        "meal_plan": "CP Mumbai & MAP Lonavala",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Mahal Palace - Palace Wing | Hilton Shillim Estate Spa Retreat",
+        "location": "Mumbai (2N) / Lonavala (2N)",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Grand Heritage Suite with Private Butler (CP) / Private Pool Villa with Wellness Concierge (MAP)",
+        "meal_plan": "CP Mumbai & MAP Lonavala",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Elite Accommodation: 04 Nights stay in handpicked, premier luxury properties across Mumbai & Lonavala.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Bespoke Meal Plan: Daily lavish breakfast spreads and specialized multi-course culinary dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: All transfers, long-distance touring, and city sightseeing via an exclusive private premium SUV.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Welcoming: Traditional flower garland welcome, cold towels, and a premium curated fruit basket upon arrival.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Nautical Sailing: 1-Hour exclusive sunset luxury yacht cruise on the Arabian Sea in Mumbai.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP Access & Entry: Pre-booked entry tickets and private professional guides for Elephanta Caves and Karla Caves.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Full Professional Coverage: All toll fees, border taxes, driver allowances, fuel charges, and state permits are completely covered.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Continuous 24/7 real-time remote concierge support from senior travel specialists.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airfares, flight bookings, or main interstate train ticket expenses.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidental expenses such as laundry services, mini-bar consumption, telephone calls, and room service.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any specialized adventure activities, camera/video usage fees at monuments, or optional sightseeing detours.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meals, lunches, or beverage selections not specifically detailed in the official itinerary.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory peak festive season surcharges (applicable during Christmas, New Year, and major national holiday weeks).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage and medical expenses of any nature.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-005-romantic-honeymoon-munnar-alleppey",
+    "serial_code": "KL-005",
+    "traguin_tour_code": "TRG-KLR-2026-005",
+    "title": "Munnar • Alleppey Houseboat • Cochin Luxury Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-005 | TRAGUIN tour code TRG-KLR-2026-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Premium Haryana Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jharkhand",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, romantic, candlelight dinner arranged in a hidden",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by Experts: Fully customisable day-to-day pacing designed around your personal comfort",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties verified rigorously for top-tier hygiene, absolute safety, and",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Access to a hand-selected list of local artisan shops, authentic",
+        "sort_order": 11
+      },
+      {
+        "text": "Kerala is world-famous for its organic treasures. In Munnar, don't miss purchasing fresh CTC and green teas, premium quality spices (such as green cardamom, cinnamon, cloves, and black pepper), and homemade artisanal chocolates. When in Cochin, explore the antique markets of Jew Town for rare colonial-era souvenirs, handcrafted wooden artifacts, and elegant traditional Kerala Kasavu sarees characterized by their striking golden borders.",
+        "sort_order": 12
+      },
+      {
+        "text": "& GUIDELINES",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Honeymoon",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-005-romantic-honeymoon-munnar-alleppey-itinerary",
+    "title": "Munnar • Alleppey Houseboat • Cochin Luxury Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Munnar",
+    "overview": "aptivating journey designed exclusively for love. This bespoke Kerala Honeymoon Package weaves together the mist-kissed emerald hills of Munnar and the romantic, shimmering backwaters of Alleppey. Specially curated by TRAGUIN, this itinerary transforms your post-wedding getaway into an unforgettable premium experience of timeless intimacy, breathtaking landscapes, and immersive tropical luxury. SERIAL CODE: KL-005 TRAGUIN TOUR CODE: TRG-KLR-2026-005 STATE / COUNTRY: Kerala / India CATEGORY: Honeymoon / Luxury Romance DURATION: 04 Nights / 05 Days DESTINATIONS COVERED: Cochin • Munnar • Alleppey IDEAL FOR: Newlyweds, Couples, Luxury Travelers BEST SEASON: September to March (Pleasant & Lush) STARTING PRICE: On Request (Premium Luxury Tier) MEAL PLAN: CPAI (Munnar) & APAI (Houseboat)\n\nTOUR OVERVIEW\nWelcome to your meticulously designed Kerala Family Tour and romantic honeymoon itinerary. This signature voyage features private premium stays in handpicked boutique resorts, private transfers via a luxury air-conditioned vehicle, and dedicated elite hospitality managed continuously by your personal TRAGUIN vacation specialist. From the iconic attractions of Cochin to the scenic beauty of the Western Ghats, every singular detail has been refined to ensure seamless comfort and unparalleled romantic indulgence.\n\nWHY CHOOSE THE BEST KERALA TOUR PACKAGE?\nKnown universally as \"God's Own Country,\" Kerala stands as India’s ultimate flagship destination for an ultra- premium, intimate holiday. A Kerala Honeymoon Package provides couples with the perfect blend of dramatic geographical diversity and rich, soul-stirring cultural heritage. This curated route hits the absolute top tourist places in Kerala, effortlessly capturing the most sought-after Instagram locations, vibrant tea plantation walks, misty waterfalls, and authentic local culinary experiences. TRAGUIN • Premium Luxury Holidays Page 1 Most Searched Kerala Sightseeing & Experiences Included: Munnar Sightseeing: Eravikulam National Park (home to the rare Nilgiri Tahr), Mattupetty Dam, Echo Point, and pristine tea estates perfect for professional couples' photography. Alleppey Backwaters: Private luxury houseboat cruising across the tranquil Vembanad Lake with local Kuttanadan delicacies served onboard. Popular Romantic Highlights: Candlelight dining beneath a canopy of stars, premium aromatherapy couples' massages, and breathtaking sunset viewing points. YOUR BESPOKE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-005 | Munnar | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kerala package (KL-005 / TRG-KLR-2026-005): Jharkhand with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: COCHIN TO MUNNAR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MUNNAR SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MUNNAR TO ALLEPPEY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: ALLEPPEY TO COCHIN",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE FROM COCHIN",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, romantic, candlelight dinner arranged in a hidden",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by Experts: Fully customisable day-to-day pacing designed around your personal comfort",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties verified rigorously for top-tier hygiene, absolute safety, and",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN TO MUNNAR | WELCOME TO THE EMERALD HILLS",
+        "description": "Upon your arrival at Cochin International Airport, you will be warmly received by a dedicated TRAGUIN representative. Your luxury transport awaits to sweep you away on a stunningly scenic drive toward Munnar, the undisputed crown jewel of South Indian hill stations. As the urban landscape transitions seamlessly into steep winding roads, you will experience the cooling mountain air and spectacular vistas of the Western Ghats. Along the way, stop to admire the majestic Cheeyappara and Valara waterfalls cascading down rocky cliffs amidst dense tropical forests. Arrive at your handpicked luxury resort in Munnar, where a seamless check-in experience and special honeymoon welcome amenities await you. Karadipara View Point, Scenic Mountain Highway Drive. or Kalaripayattu cultural performance check-in. organic gardens followed by a tailored multi-course dinner. Munnar.",
+        "activities": [
+          "Sightseeing Included: Cheeyappara & Valara Waterfalls,",
+          "Optional Activities: Evening traditional Kathakali",
+          "Evening Experience: Private stroll through the resort's",
+          "Overnight Stay: Handpicked Premium Resort in",
+          "Meals Included: Welcome Drink & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MUNNAR SIGHTSEEING | MIST, MOUNTAINS & ROMANCE",
+        "description": "Awake to the crisp mountain breeze and a magnificent breakfast overlooking sun-kissed valleys. Today is dedicated to exploring the finest tourist places in Munnar. Your private chauffeur will escort you to Eravikulam National Park, where you can walk hand-in-hand along the misty pathways looking for the endangered Nilgiri Tahr. Next, visit the structural marvel of Mattupetty Dam and the serene Kundala Lake, where a private speed- boat or pedal-boat ride can be arranged. Share a playful whisper at the famous Echo Point, and capture incredible photographs amidst the perfectly manicured, endless green carpets of the Tata Tea Estates. Dam, Echo Point, Kundala Lake, Photo Point, Tea Museum. tasting session or a private couple's plantation trek. TRAGUIN • Premium Luxury Holidays Page 2 Experience: A romantic, candlelit dinner arranged in a private pavilion. in Munnar.",
+        "activities": [
+          "Sightseeing Included: Eravikulam National Park, Mattupetty",
+          "Optional Activities: Guided premium tea",
+          "Evening Experience: An exclusive TRAGUIN Signature",
+          "Overnight Stay: Handpicked Premium Resort",
+          "Meals Included: Breakfast & Candlelight Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MUNNAR TO ALLEPPEY | CRUISE OF ETERNAL TOGETHERNESS",
+        "description": "After a leisurely breakfast, bid farewell to the misty mountains as you descend toward the enchanting lowlands of Alleppey—the world-renowned \"Venice of the East.\" This afternoon, step aboard an exclusive, fully private luxury houseboat, an absolute pinnacle of any premium Luxury Kerala Holiday. As you gently glide through the labyrinth of palm-fringed canals, vast paddy fields, and traditional lakeside villages, the sheer tranquility provides a profound sense of romance. A dedicated onboard chef will prepare traditional, hyper-local delicacies tailored strictly to your preferences. Sip on fresh coconut water as the golden tropical sun sets dramatically over the endless backwaters. Alleppey narrow backwater canals, local rural life viewing. through the ultra-narrow canals for authentic photography. stars; overnight anchoring in the serene heart of the lake. (Air Conditioned).",
+        "activities": [
+          "Sightseeing Included: Vembanad Lake cruising,",
+          "Optional Activities: A traditional village canoe ride",
+          "Evening Experience: Relaxing on the open deck under",
+          "Overnight Stay: Premium Private Luxury Houseboat",
+          "Meals Included: Breakfast, Traditional Lunch, Evening Snacks, and Gourmet Dinner (Full Board / APAI)."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ALLEPPEY TO COCHIN | HERITAGE & COASTAL LUXURY",
+        "description": "Witness a breathtaking sunrise over the water as your houseboat slowly glides back to the jetty. After a comforting traditional breakfast, disembark and travel back to the historic port city of Cochin. Spend your afternoon discovering the layers of history embedded within Fort Cochin and Mattancherry. Walk alongside the iconic Chinese Fishing Nets standing tall against the Arabian Sea, explore the 400-year-old Paradesi Synagogue in Jew Town, and marvel at the exquisite mythological murals within the Mattancherry Dutch Palace. This evening offers the perfect opportunity to visit upscale boutiques for high-quality spices, traditional handloom sarees, and exquisite artifacts. St. Francis Church, Mattancherry Palace, Jew Town. or high-tea at a historical heritage waterfront hotel. seafood specialty restaurant in Cochin. TRAGUIN • Premium Luxury Holidays Page 3",
+        "activities": [
+          "Sightseeing Included: Fort Cochin, Chinese Fishing Nets,",
+          "Optional Activities: Premium harbor sunset cruise",
+          "Evening Experience: Gourmet dining at a renowned",
+          "Overnight Stay: Premium Luxury Hotel in Cochin.",
+          "Meals Included: Breakfast & Luxury Farewell Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE FROM COCHIN | CHERISHED FOREVER",
+        "description": "Savor your final morning breakfast in the beautiful coastal capital. Depending on your flight schedule, enjoy a relaxed morning at your luxury property or squeeze in some last-minute artisan souvenir shopping. At the designated hour, your private luxury vehicle will transfer you back to Cochin International Airport for your journey home. Your premium TRAGUIN Kerala Romance tour concludes here, leaving you with timeless bonds, breathtaking landscape photographs, and unforgettable memories of a love celebrated in paradise. optional brief stopovers for local spice purchases. before check-out if flight time permits.",
+        "activities": [
+          "Sightseeing Included: Airport transit route viewing,",
+          "Optional Activities: Morning premium spa session",
+          "Evening Experience: Flight departure back home.",
+          "Overnight Stay: None.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Leaf Munnar (Valley View Room) | Premium AC Houseboat (Private) | Trident Cochin (Superior Room)",
+        "location": "Munnar | Alleppey | Cochin",
+        "nights_label": "2N Munnar|1N Alleppey|1N Cochin",
+        "description": "OPTION 01 – DELUXE: The Leaf Munnar (Valley View Room) | Premium AC Houseboat (Private) | Trident Cochin (Superior Room) | CPAI (Munnar) & APAI (Houseboat)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CPAI (Munnar) & APAI (Houseboat)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel & Spa (Premier Room) | Luxury Glass Houseboat (Private) | Brunton Boatyard (Sea Facing Room)",
+        "location": "Munnar | Alleppey | Cochin",
+        "nights_label": "2N Munnar|1N Alleppey|1N Cochin",
+        "description": "OPTION 02 – PREMIUM: Blanket Hotel & Spa (Premier Room) | Luxury Glass Houseboat (Private) | Brunton Boatyard (Sea Facing Room) | CPAI (Munnar) & APAI (Houseboat)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CPAI (Munnar) & APAI (Houseboat)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandy's Windy Woods (Super Deluxe) | Super Luxury Cruise (Upper Deck) | Grand Hyatt Bolgatty (Club Room)",
+        "location": "Munnar | Alleppey | Cochin",
+        "nights_label": "2N Munnar|1N Alleppey|1N Cochin",
+        "description": "OPTION 03 – LUXURY: Chandy's Windy Woods (Super Deluxe) | Super Luxury Cruise (Upper Deck) | Grand Hyatt Bolgatty (Club Room) | CPAI (Munnar) & APAI (Houseboat)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CPAI (Munnar) & APAI (Houseboat)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Spice Tree Munnar (Classic Pool Villa) | TRAGUIN Signature Elite Houseboat | The Leela Kovalam / Cochin Elite",
+        "location": "Munnar | Alleppey | Cochin",
+        "nights_label": "2N Munnar|1N Alleppey|1N Cochin",
+        "description": "OPTION 04 – ULTRA LUXURY: Spice Tree Munnar (Classic Pool Villa) | TRAGUIN Signature Elite Houseboat | The Leela Kovalam / Cochin Elite | CPAI (Munnar) & APAI (Houseboat)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CPAI (Munnar) & APAI (Houseboat)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Handpicked properties on twin-sharing basis.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Curated Houseboat: Private cruise with all onboard meals.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Air-conditioned private luxury vehicle for all transits.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN • Premium Luxury Holidays Page 4",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Honeymoon cake, floral bed decoration, and sparkling juice.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Signature Dining: One exclusive candlelight dinner in Munnar.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Expert Support: 24/7 dedicated TRAGUIN guest assistance.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All applicable luxury resort and toll taxes.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare: Domestic or International flights to/from Cochin.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry Tickets: National park, museum fees, or activity charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, tips, and minibar.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Any activities not mentioned explicitly.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Travel or medical insurance policies.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Surcharges: Peak seasonal festival surcharges if applicable.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

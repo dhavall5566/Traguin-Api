@@ -1,0 +1,260 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-011-kolkata-city-of-joy-heritage-tour",
+    "serial_code": "WB-011",
+    "traguin_tour_code": "TQ-WB-011",
+    "title": "Kolkata City of Joy Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-011 | TRAGUIN tour code TQ-WB-011",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Heritage & Cultural Discovery",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kolkata (City of Joy Heritage)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Art Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: Premium Luxury On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium Mercedes-Benz / Crysta",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Kolkata Historic Center • Hooghly River • North Kolkata Heritage Blocks",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private entry access to exclusive classical zamindar heritage estates rarely open to the public.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping: Baluchari and Jamdani silk sarees, legendary sandesh delicacies, handcrafted terracotta pottery.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Advance table reservations at fine legacy restaurants handled by TRAGUIN concierges. Wear suitable clothing for temple visits.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Culture",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-011-kolkata-city-of-joy-heritage-tour-itinerary",
+    "title": "Kolkata City of Joy Heritage Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "Premium Luxury On Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kolkata City of Joy Heritage Tour • 03 Nights / 04 Days",
+    "overview": "Immerse yourself in the intellectual soul of India's cultural capital. This ultimate TRAGUIN vacation experience guides you through magnificent British colonial monuments, exclusive art galleries, vibrant old quarters, and delicious culinary traditions.\n\nTOUR OVERVIEW\nStep into the rich old-world elegance of Kolkata with a meticulously arranged, high-end travel sequence. This exclusive tour treats you to handpicked luxury boutique hotels, exceptional private transportation, and insightful culinary journeys designed by top travel consultants. Route: Kolkata Historic Center • Hooghly River • North Kolkata Heritage Blocks. Meal Plan: Royal Breakfasts & Celebrated Fine Dining Experiences (including authentic legacy lunches).\n\nTRAGUIN Premium Luxury Advantage: Front-row entry access passes, private museum curators, and handpicked artisanal encounters.\n\nDESTINATION HIGHLIGHTS\nTo enjoy the absolute finest experiences, booking the Best West Bengal Tour Package ensures unmatched cultural depth. A Luxury West Bengal Holiday uncovers the magnificent stories of ancient zamindar palaces, classic gothic revival structures, and thriving modern art forms. Kolkata remains the ultimate highlight for any culturally rich West Bengal Family Tour.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-011 | Kolkata City of Joy Heritage Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days West Bengal package (WB-011 / TQ-WB-011): Victoria Memorial, Jorasanko Thakurbari, Kumartuli, Hooghly sunset cruise, and 4-tier Kolkata hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Victoria Memorial, St. Paul's Cathedral, and Dalhousie Square heritage vista",
+        "sort_order": 1
+      },
+      {
+        "text": "Jorasanko Thakurbari, Marble Palace, College Street, and Coffee House",
+        "sort_order": 2
+      },
+      {
+        "text": "Kumartuli clay studios, Dakshineswar Kali Temple VIP entry, and Hooghly sunset cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Epicurean sweet shop tour with mishti treats and handloom saree boutiques",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier elite Kolkata accommodation (03 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COLONIAL MAJESTY & THE GRAND VICTORIA MEMORIAL",
+        "description": "Arrive in Kolkata, where you will be met by a premium TRAGUIN representative and escorted via luxury vehicle to your iconic heritage hotel. After lunch, take a relaxed private tour of the majestic Victoria Memorial, admiring its extensive collection of oil paintings, historic artifacts, and pristine manicured gardens. Conclude your evening with a pleasant, slow drive past the beautifully illuminated heritage structures of Dalhousie Square.",
+        "activities": [
+          "Sightseeing Included: Victoria Memorial, St. Paul's Cathedral, Dalhousie Square Heritage Vista.",
+          "Evening Experience: Private high-tea experience inside a beautifully restored 19th-century salon.",
+          "Overnight Stay: The Oberoi Grand / The Taj Bengal - Kolkata.",
+          "Meals Included: Welcome Lunch, Elite Fine Dining Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "INTELLECTUAL ROOTS & INTREPID NORTH KOLKATA HERITAGE",
+        "description": "Dive deep into the artistic soul of North Kolkata. Visit Jorasanko Thakurbari, the ancestral home of Nobel Laureate Rabindranath Tagore. Walk along beautiful corridors filled with classic literary history. Later, discover the incredible architecture of the Marble Palace, an elegant private mansion filled with valuable classical sculptures and European paintings. Spend your afternoon wandering through College Street's famous historic book stalls and iconic intellectual cafes.",
+        "activities": [
+          "Sightseeing Included: Jorasanko Thakurbari, Marble Palace, College Street, Coffee House.",
+          "Photography Points: The grand classical courtyards of the Marble Palace; vintage hand-pulled rickshaw backdrops.",
+          "Overnight Stay: The Oberoi Grand / The Taj Bengal - Kolkata.",
+          "Meals Included: Breakfast, Authentic Traditional Bengali Zamindari Lunch, Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KUMARTULI ARTISTRY & SUNSET HOOGHLY RIVER CRUISE",
+        "description": "In the morning, visit Kumartuli, the historic potters' enclave where master craftsmen skillfully sculpt magnificent clay idols. Observe the intricate techniques used to shape traditional art. In the late afternoon, step aboard an exclusive private luxury boat for a sunset cruise on the Hooghly River. Glide smoothly beneath the iconic Howrah Bridge and Vidyasagar Setu as the city lights begin to sparkle over the calm waters.",
+        "activities": [
+          "Sightseeing Included: Kumartuli Clay Studios, Dakshineswar Kali Temple (VIP Entry), River Hooghly Cruise.",
+          "Evening Experience: TRAGUIN Sunset Cruise accompanied by classical live music performances on board.",
+          "Overnight Stay: The Oberoi Grand / The Taj Bengal - Kolkata.",
+          "Meals Included: Breakfast, Contemporary Fusion Lunch, Grand Farewell Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "EPICUREAN DELIGHTS & HEARTFELT DEPARTURES",
+        "description": "Enjoy a relaxed breakfast at your hotel before embarking on a specialized culinary tour of historic sweet shops to sample legendary mishti treats. Visit the famous local artisan boutiques for fine handloom sarees and beautiful terracotta souvenirs. Transfer smoothly via premium luxury vehicle to Netaji Subhash Chandra Bose International Airport for your departure home, concluding your premium TRAGUIN holiday.",
+        "activities": [
+          "Meals Included: Breakfast Buffet, Sweet Tasting Tour.",
+          "Assistance: Dedicated airport check-in support and luggage assistance."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Peerless Inn Kolkata",
+        "location": "Kolkata",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Peerless Inn Kolkata (Kolkata, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior City View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Sonar, Luxury Collection",
+        "location": "Kolkata",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: ITC Sonar, Luxury Collection (Kolkata, 03 Nights)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Club Heritage Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Bengal, Kolkata",
+        "location": "Kolkata",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Taj Bengal, Kolkata (Kolkata, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room",
+        "meal_plan": "CPAI + Gourmet Dinner Lineup",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Grand, Kolkata",
+        "location": "Kolkata",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi Grand, Kolkata (Kolkata, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Balcony Premier Suite",
+        "meal_plan": "All-Inclusive Royal Boarding",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Elite luxury accommodations at premier properties like The Oberoi Grand / Taj.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium breakfast and special curated fine dining lunch/dinner experiences.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Premium private AC luxury transportation for all transfers and city sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private river boat charter and curated heritage walk specialists.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN signature on-ground support with VIP entrance privileges.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome amenities, artisan souvenir gift hampers, and travel safety care.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare tickets to/from Kolkata.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera or specialized media permissions at historic monuments.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal gratuities, laundry, and alcoholic beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance coverages or personal medical policies.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

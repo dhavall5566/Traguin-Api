@@ -1,0 +1,244 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-017-premium-jim-corbett-wild-wilderness-escape",
+    "serial_code": "UK-017",
+    "traguin_tour_code": "TRG-UK-017",
+    "title": "Premium Jim Corbett Wild Wilderness Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UK-017 | TRAGUIN tour code TRG-UK-017",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Uttarakhand, India | Category: Nature & Wildlife",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jim Corbett National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Wildlife Enthusiasts, Families & Couples",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle & Meals: Dedicated Luxury AC Chauffeur Sedan/SUV for transfers & Private 4x4 open Gypsy for Safaris | Modified American Plan (All Artisan Breakfasts & Dinners Included)",
+        "sort_order": 6
+      },
+      {
+        "text": "Route: Delhi / Dehradun Arrival → Scenic Ramnagar Drive → Corbett Wilderness Zone → Return Departure",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Pre-booked premium safari zones, personalized expert naturalist guidance, private riverside sundowner high-tea, and premium handpicked wilderness resort stays with deep comfort amenities.",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private riverside sundowner high-tea experience with a personalized luxury setup.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by Experts: Guaranteed core safari zone allocations pre-registered through our premium network.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: 24/7 dedicated remote guest relations desk to adjust scheduling dynamically.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Local Souvenirs: Hand-painted wildlife art plates, organic wild honey, and authentic wooden jungle crafts at the Ramnagar local markets. Instagram Spots: Suspension bridge over the Kosi River, Garjiya Temple rock backdrop, and morning sun hitting the Sal forest canopy.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Core jungle zone safari permits open strictly in advance; immediate booking is highly recommended to guarantee prime zones. Please carry valid government-issued photo identification copies matching safari booking documentation details. Muted or earth-toned clothing (khaki, olive green, brown) is highly recommended for core safari tracks.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Wildlife",
+      "Luxury",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-017-premium-jim-corbett-wild-wilderness-escape-itinerary",
+    "title": "Premium Jim Corbett Wild Wilderness Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Jim Corbett Tour Package • Premium Jim Corbett Experience & Wild Wilderness Escape • 02 Nights / 03 Days",
+    "overview": "Welcome to the majestic wilderness of Uttarakhand. TRAGUIN invites you to embark on a thrilling, ultra-luxury wildlife expedition to Jim Corbett National Park. Experience immersive wilderness encounters, breathtaking landscapes, and premium stays tucked away in deep riverine forests. This exclusive Luxury Jim Corbett Holiday blends the raw thrill of the jungle with handpicked hotels and sophisticated personal comfort, promising unforgettable memories.\n\nTOUR OVERVIEW\nTravel Month: Customized Flexi-Dates Available\nGroup / FIT: Private Luxury Customized FIT Escape\nVehicle: Dedicated Luxury AC Chauffeur Sedan/SUV for transfers & Private 4x4 open Gypsy for Safaris\nMeal Plan: Modified American Plan (All Artisan Breakfasts & Dinners Included)\nRoute: Delhi / Dehradun Arrival → Scenic Ramnagar Drive → Corbett Wilderness Zone → Return Departure\n\nTRAGUIN Curated Experience Note: Pre-booked premium safari zones, personalized expert naturalist guidance, private riverside sundowner high-tea, and premium handpicked wilderness resort stays with deep comfort amenities.\n\nWhen shortlisting the perfect Best Jim Corbett Tour Package or a memorable Jim Corbett Honeymoon Package, discerning travelers select exclusive options that balance adrenaline-pumping game drives with peaceful relaxation. As a signature Jim Corbett Family Tour, this journey introduces you flawlessly to the Top Tourist Places in Jim Corbett, including the core safari blocks (Bijrani/Dhikala/Jhirna), the iconic Garjiya Devi Temple, and the pristine Kosi River pathways.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UK-017 | Premium Jim Corbett Wild Wilderness Escape | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Uttarakhand package (UK-017 / TRG-UK-017): Jim Corbett core zone jeep safari, Garjiya Devi Temple, and 3-tier wilderness accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Garjiya Devi Temple on Kosi River boulder and private riverside sundowner high-tea",
+        "sort_order": 1
+      },
+      {
+        "text": "Core Zone Morning Jeep Safari with expert naturalist tracking Royal Bengal Tiger and wildlife",
+        "sort_order": 2
+      },
+      {
+        "text": "Corbett Waterfalls evening drive and curated open-air live barbecue dinner under starlit canopy",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private riverside sundowner high-tea with personalized luxury setup",
+        "sort_order": 4
+      },
+      {
+        "text": "3-tier handpicked wilderness accommodation in Jim Corbett (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & RIVERSIDE RESORT RETREAT",
+        "description": "Your luxury wilderness journey commences with a personalized private pickup from Delhi or Dehradun Airport/Railway Station. Enjoy a highly comfortable drive as the urban landscape gives way to the breathtaking landscapes of Uttarakhand, bordered by towering Sal trees and old mountain streams. Arrive at your premium handpicked luxury resort near Jim Corbett National Park, checking in seamlessly. After lunch, relax amidst nature's pristine quietude.",
+        "activities": [
+          "Sightseeing Included: En-route valley photography stops and a late afternoon visit to the scenic Garjiya Devi Temple perched on a massive boulder in the Kosi River.",
+          "Evening Experience: A private riverside sundowner high-tea organized exclusively by TRAGUIN with refreshing local herbal blends.",
+          "Overnight Stay: Handpicked Luxury Wildlife Resort in Jim Corbett.",
+          "Meals Included: Welcome Drink & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DEEP CORE SAFARI EXPEDITION & WILDLIFE IMMERSION",
+        "description": "Awake before dawn to the deep call of the wild. Sip freshly brewed coffee before boarding your private, specially chartered 4x4 open-top Jeep Gypsy. Enter the core zone of Jim Corbett National Park as the golden morning mist rises off the grasslands. With an expert TRAGUIN naturalist guiding your sights, track the grand Royal Bengal Tiger, Asian Elephants, Spotted Deer, and an array of rare exotic birds. Return to the resort for a sumptuous late breakfast and midday relaxation by the luxury pool.",
+        "activities": [
+          "Sightseeing Included: Core Zone Morning Jeep Safari Drive & evening drive to the beautiful Corbett Waterfalls.",
+          "Evening Experience: A curated open-air live barbecue dinner evening accompanied by live traditional acoustic music under a starlit canopy.",
+          "Overnight Stay: Handpicked Luxury Wildlife Resort in Jim Corbett.",
+          "Meals Included: Artisan Breakfast & Themed Barbecue Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SOULFUL JUNGLE PATHS & HOMEWARD JOURNEY",
+        "description": "Relish a peaceful breakfast on the resort terrace overlooking the whispering forest canopy. Take a final, gentle walking tour along the resort's private nature paths to absorb the calming mountain air. Pack your luxury travel gear and check out smoothly. Your dedicated premium chauffeur will drive you comfortably back to Delhi or Dehradun, completing your exclusive TRAGUIN holiday.",
+        "activities": [
+          "Optional Activities: Early morning guided bird-watching walk along the banks of the Kosi River.",
+          "Meals Included: Rich Buffet Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Taj Corbett Resort & Spa / Aahana The Corbett Wilderness",
+        "location": "Jim Corbett",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – ULTRA LUXURY: Taj Corbett Resort & Spa / Aahana The Corbett Wilderness | Luxury Canopy Villa (02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Canopy Villa",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Riverview Retreat / Namah Resort",
+        "location": "Jim Corbett",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – LUXURY: The Riverview Retreat / Namah Resort | Superior Creek-View Room (02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior Creek-View Room",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Corbett Leela Vilas",
+        "location": "Jim Corbett",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – PREMIUM: Corbett Leela Vilas | Luxury Cottage Suite (02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Cottage Suite",
+        "meal_plan": "Modified American Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights ultra-luxury accommodation in handpicked, premium wilderness properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily artisan breakfasts and multi-cuisine gourmet dinners at the luxury resorts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Complete private city transfers and local journeys in a dedicated luxury air-conditioned vehicle.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "01 Private Exclusive 4x4 Jeep Safari in the official core Tiger Reserve zone with mandatory permits included.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated professional English/Hindi speaking driver-cum-guide and expert tracker.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary TRAGUIN personalized riverside high-tea setup.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable resort luxury taxes, fuel charges, parking fees, and driver toll allocations.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight or interstate railway train bookings to the entry hub.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera equipment fees inside the national reserve boundaries.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenditures such as laundry, liquor, and premium spa treatments.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

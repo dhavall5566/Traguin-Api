@@ -1,0 +1,287 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-009-waterfalls-adventure-chitrakote-jagdalpur",
+    "serial_code": "CG-009",
+    "traguin_tour_code": "TG-CG-WFA-009",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Great Waterfalls Adventure • Chitrakote • Tirathgarh • Tamra Gumar",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-009 | TRAGUIN tour code TG-CG-WFA-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Premium Adventure & Nature Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Raipur • Chitrakote • Tirathgarh • Tamra Gumar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Seekers, Couples & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: July to March (Monsoons host spectacular roaring volumes)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury SUV (Innova Crysta / Fortuner 4x4) | Meal Plan: Premium MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Raipur Arrival ➔ Chitrakote Falls (2N) ➔ Jagdalpur / Kanger Valley (2N) ➔ Raipur Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Rapid basin boating into Chitrakote mist and Kutumsar cave navigation.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Private riverside tribal barbecue on Indravati River banks.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier riverside eco-lodges and heritage palace wings.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Dhonkra metal craft, Kosa silk, organic forest honey, Bastar wood craft.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Non-slip trekking shoes mandatory; valid photo ID for national park entry.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Waterfalls",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-009-waterfalls-adventure-chitrakote-jagdalpur-itinerary",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Great Waterfalls Adventure • Chitrakote • Tirathgarh • Tamra Gumar",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Great Waterfalls Adventure • Chitrakote • Tirathgarh • Kanger Valley • 05 Nights / 06 Days",
+    "overview": "Welcome to the untamed, pulsating wilderness of India's greenest eco-corridor. The definitive Best Chhattisgarh Tour Package by TRAGUIN invites adrenaline seekers to witness monumental liquid thunder across pristine river valleys and dense tribal woodlands.\n\nTOUR OVERVIEW\nThe Waterfalls of Chhattisgarh signature package is the ultimate Chhattisgarh Adventure trail. Track Chitrakote's colossal horseshoe, Tirathgarh's multi-tiered limestone steps, and hidden jungle gems like Tamra Gumar and Mendri Gumar. Private luxury SUV, riverside eco-lodges, and expert jungle escorts.\n\nWHY UNDERTAKE THE GREAT CHHATTISGARH WATERFALL ADVENTURE?\nIconic Attractions: 300-meter Chitrakote curtain, Tirathgarh tiers, Tamra Gumar ravines, Kutumsar Caves. Best Time: July to March when river volumes peak dramatically for spectacular Chhattisgarh Sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-009 | Waterfalls Adventure Chitrakote Jagdalpur | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days waterfalls adventure (CG-009 / TG-CG-WFA-009): Chitrakote rapid boating, Tamra Gumar, Tirathgarh, Kutumsar Caves, and 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Raipur arrival and expedition briefing at Sengatta Eco-Park on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Keshkal Ghats drive and Chitrakote illuminated cliff dinner on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Chitrakote rapid boating and Tamra Gumar gorge picnic on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Tirathgarh multi-tiered falls and Bastar Palace on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Kutumsar Caves and Kanger Valley wildlife safari on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Jagdalpur to Raipur departure on Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "RAIPUR ARRIVAL — GATEWAY TO THE WILDERNESS",
+        "description": "Land at Raipur with TRAGUIN adventure kits and thermal flasks. Transfer to handpicked resort. Light tour of Naya Raipur, Sengatta Eco-Park, and Swami Vivekanand Sarovar. Evening expedition briefing with specialty dinner mapping the Bastar plateau river networks.",
+        "activities": [
+          "Sightseeing Included: Naya Raipur drive, Swami Vivekanand Sarovar, Sengatta forest edge.",
+          "Overnight Stay: Premium Luxury Eco-Resort, Raipur.",
+          "Meals Included: Welcome Refreshments & Chef-Curated Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RAIPUR TO CHITRAKOTE — JOURNEY TO THE NIAGARA OF INDIA",
+        "description": "Drive south through Keshkal Ghats with twelve hairpin bends flanked by sal canopies. Arrive at Chitrakote Waterfalls and check into cliff-rim riverside eco-lodge. Watch 300-meter horseshoe falls as Indravati plunges 100 feet. Evening illuminated waterfall viewing with gourmet cliff dinner.",
+        "activities": [
+          "Sightseeing Included: Keshkal Ghats pass, Chitrakote cliff edge trail.",
+          "Overnight Stay: Premium Luxury Riverside Eco-Lodge, Chitrakote.",
+          "Meals Included: Buffet Breakfast & Riverside Cliff Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CHITRAKOTE BASIN — RAPID BOATING & THE HIDDEN GUMAR VALLEYS",
+        "description": "Golden sunrise over Chitrakote mist. TRAGUIN Signature trek to lower basin for private country boat into thunderous spray. Afternoon off-road to Tamra Gumar and Mendri Gumar hidden twin ravines. Premium picnic lunch on valley rim and private riverside barbecue dinner under stars.",
+        "activities": [
+          "Sightseeing Included: Chitrakote lower basin, Tamra Gumar gorge, Mendri Gumar falls.",
+          "Overnight Stay: Premium Luxury Riverside Eco-Lodge, Chitrakote.",
+          "Meals Included: Breakfast, Picnic Lunch & Grand Barbecue Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CHITRAKOTE TO JAGDALPUR — THE MULTI-TIERED TIRATHGARH CASCADE",
+        "description": "Depart Chitrakote for Jagdalpur heritage property. Enter Kanger Valley National Park for Tirathgarh Waterfalls — 300-foot multi-tiered white water sheets. Trek forest path to lower plunge pools. Afternoon visit to Bastar Palace and tribal craft bazaar high-tea walk.",
+        "activities": [
+          "Sightseeing Included: Kanger Valley drive, Tirathgarh falls, Bastar Royal Palace.",
+          "Overnight Stay: Handpicked Premium Luxury Hotel, Jagdalpur.",
+          "Meals Included: Premium Breakfast & Multi-cuisine Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KANGER VALLEY — SUBTERRANEAN CAVE EXPLORATION & JUNGLE SAFARIS",
+        "description": "Certified escorts lead Kutumsar Caves exploration through stalactite chambers and blind cave-fish pools. Afternoon open-top 4x4 safari scanning sal canopies for leopards, wild boars, and hill myna. Grand farewell theme dinner celebrating your wilderness expedition.",
+        "activities": [
+          "Sightseeing Included: Kutumsar Caves, Kanger Valley Wildlife Safari, Dandak Caves edge.",
+          "Overnight Stay: Handpicked Premium Luxury Hotel, Jagdalpur.",
+          "Meals Included: Gourmet Breakfast, Safari Packed Lunch & Grand Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "JAGDALPUR TO RAIPUR — DEPARTURE WITH LIFELONG MEMORIES",
+        "description": "Final hearty breakfast with morning forest views. Smooth return drive to Raipur with highway lunch before airport departure.",
+        "activities": [
+          "Sightseeing Included: Return highway transit, private airport transfer.",
+          "Meals Included: Premium Buffet Breakfast & Farewell Highway Lunch."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Babylon Inn / Hyatt Raipur | MPT Chitrakote Log Huts | MPT Naman Bastar Resort",
+        "location": "Raipur (1 Night) / Chitrakote (2 Nights) / Jagdalpur (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Babylon Inn / Hyatt Raipur (Raipur, 1 Night) | MPT Chitrakote Log Huts (Chitrakote, 2 Nights) | MPT Naman Bastar Resort (Jagdalpur, 2 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Courtyard by Marriott Raipur | Chitrakote Luxury River Huts | Asansol Heritage Resort",
+        "location": "Raipur (1 Night) / Chitrakote (2 Nights) / Jagdalpur (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Courtyard by Marriott Raipur (Raipur, 1 Night) | Chitrakote Luxury River Huts (Chitrakote, 2 Nights) | Asansol Heritage Resort (Jagdalpur, 2 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Sayaji Hotel Raipur | Dandami Luxury Bison Resort | Grand Bastar Heritage Estate",
+        "location": "Raipur (1 Night) / Chitrakote (2 Nights) / Jagdalpur (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Sayaji Hotel Raipur (Raipur, 1 Night) | Dandami Luxury Bison Resort (Chitrakote, 2 Nights) | Grand Bastar Heritage Estate (Jagdalpur, 2 Nights) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Lake Resort Raipur | Dandami Premium Presidential Villa | Bastar Palace Royal Suite",
+        "location": "Raipur (1 Night) / Chitrakote (2 Nights) / Jagdalpur (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Mayfair Lake Resort Raipur (Raipur, 1 Night) | Dandami Premium Presidential Villa (Chitrakote, 2 Nights) | Bastar Palace Royal Suite (Jagdalpur, 2 Nights) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Villa / Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights at handpicked luxury hotels and riverside eco-resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily buffet breakfast and adventurous resort dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private SUV/Fortuner 4x4 for all transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Elite Guiding: Certified naturalists, cave escorts, and wilderness guides.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Rapid basin boat ride and Tamra Gumar picnic lunch.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 concierge with covered tolls, fuel, and driver allowances.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial flights or train fares to and from Raipur.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Park entry fees, cave permits, camera charges, personal expenses.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports or optional items not specified.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

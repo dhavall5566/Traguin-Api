@@ -1,0 +1,270 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-008-gokarna-beach-murudeshwar-express",
+    "serial_code": "KA-008",
+    "traguin_tour_code": "TRAGUIN-KA-008",
+    "title": "Gokarna Beach • Murudeshwar Express",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-008 | TRAGUIN tour code TRAGUIN-KA-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Beach Leisure / Luxury Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Gokarna Beach • Murudeshwar • Netrani Island",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples, Beach Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Coastal FIT Getaway",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Luxury Chauffeur-Driven Air-Conditioned Sedan / SUV (Crysta)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Buffet Breakfasts & Curated Gourmet Dinners Included",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Mangalore/Goa Arrival → Murudeshwar → Gokarna Beach → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with guaranteed private sea-view accommodations, exclusive high-tea setups during beach sunsets, and seamless VIP lane access at major shrines",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Gokarna Markets — handmade brass items, natural incense sticks, organic spices, and classic bohemian apparel",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Standard check-in starts at 14:00 hrs; coastal belt best explored October to March",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Beach",
+      "Leisure",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-008-gokarna-beach-murudeshwar-express-itinerary",
+    "title": "Gokarna Beach • Murudeshwar Express",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Gokarna Beach • Murudeshwar Express • 04 Nights / 05 Days",
+    "overview": "Welcome to the mesmerizing coastline of Karnataka. This exclusive, high-end private escape curated carefully by TRAGUIN unrolls a perfect canvas of breathtaking landscapes, sacred wonders, and sun-kissed beaches. From the majestic sea-facing Shiva icon of Murudeshwar to the raw, pristine bohemian allure of Gokarna Beach, indulge in immersive experiences, premium stays, and unforgettable memories tailored precisely for you.\n\nThe coast of Karnataka stands out as one of India's top luxury getaway zones, boasting a perfect blend of rich heritage and tranquil shores. For those planning the Best Karnataka Tour Package or a relaxing Karnataka Family Tour, this tropical circuit offers iconic attractions like the world's second-tallest Shiva statue and untouched golden sands.\n\nTRAGUIN Curated Touch: This Luxury Karnataka Holiday includes handpicked premium beach resorts, a personalized expert itinerary guide, high-tea sunsets over iconic attractions, and zero-fatigue driving maps designed by travel consultants.\n\nWhy Visit Coastal Karnataka: From exploring the unique geological rock formations of Yana to relaxing on the pristine sands of Om Beach, a Luxury Karnataka Holiday promises scenic beauty and spiritual rejuvenation with exclusive beachside dining options.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-008 | Gokarna Beach • Murudeshwar Express | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days coastal Karnataka package (KA-008 / TRAGUIN-KA-008): Murudeshwar Temple, Mirjan Fort, Om Beach, Yana Rocks, and 4-tier beach resort accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Murudeshwar Temple, Tallest Shiva Statue & Raja Gopuram Viewpoint",
+        "sort_order": 1
+      },
+      {
+        "text": "Mirjan Fort Exploration & Gokarna Town Heritage Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Om Beach, Kudle Beach & Paradise Beach Vista",
+        "sort_order": 3
+      },
+      {
+        "text": "Yana Caves & Monolith Rock Formations, Vibhooti Waterfalls",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sea-view accommodations and VIP shrine access",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Transfer to Murudeshwar",
+        "description": "Arrive at the airport/station where your premium private vehicle awaits. Enjoy a smooth scenic drive through coastal paths to Murudeshwar. Check into your premium sea-facing resort. In the afternoon, visit the legendary Murudeshwar Temple complex and marvel at the colossal 123-foot Lord Shiva statue backdropped by the Arabian Sea. Witness a glorious oceanic sunset directly from the Raja Gopuram tower.",
+        "activities": [
+          "Sightseeing Included: Murudeshwar Temple, Tallest Shiva Statue, Raja Gopuram Viewpoint",
+          "Evening Experience: A relaxing evening walk along the pristine Murudeshwar beach promenade",
+          "Overnight Stay: Premium Sea-View Hotel, Murudeshwar",
+          "Meals Included: Gourmet Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Murudeshwar to Gokarna",
+        "description": "Savor a luxurious breakfast before traveling north along the coast towards the bohemian beach paradise of Gokarna. En route, experience a private heritage tour of the historical Mirjan Fort, a majestic structure reflecting old historical grandeur. Upon arrival in Gokarna, check into your ultra-luxury cliffside beach resort and unwind amidst lush tropical greenery.",
+        "activities": [
+          "Sightseeing Included: Mirjan Fort Exploration, Gokarna Town Heritage Tour",
+          "Photography Points: The moss-covered ancient stone walls of Mirjan Fort",
+          "Overnight Stay: Premium Luxury Beach Resort, Gokarna",
+          "Meals Included: Full Buffet Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Gokarna Beach Trek & Leisure",
+        "description": "Today is dedicated to the finest beach destinations in Karnataka. Embark on a highly comfortable, curated boat cruise or a gentle walk around the famous Om Beach, named after its natural spiritual shape. Explore the serene waters of Kudle Beach, Half Moon Beach, and Paradise Beach. Spend your afternoon soaking in the golden sun or enjoying an exclusive spa session at your resort.",
+        "activities": [
+          "Sightseeing Included: Om Beach, Kudle Beach, Paradise Beach Vista",
+          "Optional Activities: Premium speed boat cruise, ayurvedic body massage, or local café hopping",
+          "Overnight Stay: Premium Luxury Beach Resort, Gokarna",
+          "Meals Included: Breakfast & Seafood Special Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Excursion to Yana Rocks",
+        "description": "After a delicious morning breakfast, enjoy a scenic drive into the Western Ghats to witness the breathtaking landscape of Yana Rocks. Walk through deep tropical forests to discover two massive, awe-inspiring black crystalline limestone monoliths towering over the valley. Return to Gokarna for your final sunset experience over the cliffs.",
+        "activities": [
+          "Sightseeing Included: Yana Caves & Monolith Rock Formations, Vibhooti Waterfalls",
+          "Immersive Experiences: Dip your feet in the cool natural stream of Vibhooti water cascades",
+          "Overnight Stay: Premium Luxury Beach Resort, Gokarna",
+          "Meals Included: Breakfast & Candlelit Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure from Gokarna",
+        "description": "Savor a relaxed gourmet breakfast with oceanic panoramas. Enjoy free time for a last dip in the warm waters before boarding your private luxury vehicle. Transfer smoothly back to the airport or station for your return journey. Your unforgettable TRAGUIN Karnataka Package concludes perfectly.",
+        "activities": [
+          "Transfers Included: Private Airport/Station Drop-off",
+          "Meals Included: Full Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "RNS Residency (Sea View) / Gokarna Forest Resort",
+        "location": "Murudeshwar / Gokarna",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Sea View / Forest Room",
+        "meal_plan": "CP (Breakfast Only)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Naveen Beach Resort / Stone Wood Nature Resort",
+        "location": "Murudeshwar / Gokarna",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "RNS Highway Hotel (Luxury Suite) / Kahani Paradise (Luxury Villa)",
+        "location": "Murudeshwar / Gokarna",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite / Luxury Villa",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Ocean Bliss Premium / SwaSwara - CGH Earth (Wellness Suite)",
+        "location": "Murudeshwar / Gokarna",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Suite / Wellness Suite",
+        "meal_plan": "Gourmet Meal Plan Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium luxury stays at handpicked beachside resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily breakfasts and dinners as per the selected premium meal package",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All commutes in a private luxury air-conditioned Innova Crysta / Sedan",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel advisor assistance and certified local companion guides",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing tropical welcome drinks, mineral water, and premium snack kit inside the vehicle",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight tickets or railway passes to Mangalore/Goa/Hubli",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Guide tips, photography tickets, and personal laundry charges",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports activities like scuba diving or jet skiing at Netrani Island",
+        "sort_order": 8
+      }
+    ]
+  }
+}

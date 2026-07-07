@@ -1,0 +1,287 @@
+{
+  "destination_slug": "turkey",
+  "package": {
+    "slug": "tr-003-luxury-turkey-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury Turkey Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 74,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Istanbul (3N) → Cappadocia (3N) → Bodrum/Antalya (3N) ultra-luxury circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "VIP Istanbul heritage & private Bosphorus yacht sojourn",
+        "sort_order": 2
+      },
+      {
+        "text": "Cappadocia sunrise ballooning & private gourmet valley brunch",
+        "sort_order": 3
+      },
+      {
+        "text": "Artisan workshops, underground cities & coastal spa elegance",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 luxury travel concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-TUR-LUX-2026 | Serial TR-003",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Cultural",
+      "Beach",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "tr-003-luxury-turkey-itinerary",
+    "title": "Luxury Turkey Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury Turkey Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Istanbul Ultra-Luxury • Cappadocia Cave Suites • Mediterranean Coastal Elegance",
+    "overview": "Indulge in the absolute height of sophistication across Turkey with TRAGUIN's curated luxury expedition. From opulent five-star stays and boutique cave suites to exclusive private tours and elite culinary experiences, this journey is designed for the discerning traveler — ensuring unforgettable memories in ultimate luxury.",
+    "is_featured": true,
+    "featured_sort_order": 74,
+    "seo_title": "TR-003 | Luxury Turkey Tour | TRAGUIN",
+    "seo_description": "Ultra-luxury 08 Nights / 09 Days Turkey package (TR-003): Four Seasons Bosphorus, Museum Hotel Cappadocia, Mandarin Oriental Bodrum, private tours, and elite culinary experiences.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "VIP Arrival & Gourmet Bosphorus Welcome",
+        "sort_order": 1
+      },
+      {
+        "text": "Exclusive Private Istanbul Heritage Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Yacht Bosphorus Sojourn",
+        "sort_order": 3
+      },
+      {
+        "text": "Cappadocia Sunrise Balloon & Gourmet Valley Brunch",
+        "sort_order": 4
+      },
+      {
+        "text": "Coastal Spa Elegance & Farewell Gala",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VIP Arrival & Istanbul Luxury",
+        "description": "Arrive in Istanbul. VIP chauffeur transfer to your world-class hotel. Evening gourmet welcome dinner overlooking the Bosphorus.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private chauffeur transfer",
+          "Evening Experience: Gourmet welcome dinner overlooking the Bosphorus",
+          "Overnight Stay: Istanbul (Four Seasons Bosphorus)",
+          "Meals Included: Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Exclusive Istanbul Heritage",
+        "description": "Private guided tour of Istanbul's most prestigious historical landmarks, providing a rich exclusive experience of Ottoman culture.",
+        "activities": [
+          "Sightseeing Included: Private guided Istanbul heritage tour",
+          "Overnight Stay: Istanbul (Four Seasons Bosphorus)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Private Bosphorus Sojourn",
+        "description": "Experience the city from a private yacht on the Bosphorus. An exclusive experience with premium catering.",
+        "activities": [
+          "Sightseeing Included: Private yacht Bosphorus cruise with premium catering",
+          "Overnight Stay: Istanbul (Four Seasons Bosphorus)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Flight to Cappadocia",
+        "description": "VIP transfer to airport for your flight to Cappadocia. Check into an ultra-luxury boutique cave resort.",
+        "activities": [
+          "Sightseeing Included: Domestic flight to Cappadocia, VIP transfer to cave resort",
+          "Overnight Stay: Cappadocia (Museum Hotel / Argos in Cappadocia)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Cappadocia Sunrise Ballooning",
+        "description": "Sunrise hot air balloon flight over unique valleys. Followed by a private gourmet brunch in a secluded valley setting.",
+        "activities": [
+          "Sightseeing Included: Hot air balloon sunrise, private gourmet valley brunch",
+          "Overnight Stay: Cappadocia (Museum Hotel / Argos in Cappadocia)",
+          "Meals Included: Breakfast & Gourmet Brunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Artisan Discovery",
+        "description": "Private tour of local artisan workshops and underground cities, discovering the rich history and artistry of the region.",
+        "activities": [
+          "Sightseeing Included: Private artisan workshop and underground city tour",
+          "Overnight Stay: Cappadocia (Museum Hotel / Argos in Cappadocia)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Flight to Coastal Paradise",
+        "description": "Private transfer for your flight to Bodrum or Antalya. Check into an ultra-luxury coastal resort.",
+        "activities": [
+          "Sightseeing Included: Domestic flight to Bodrum/Antalya, VIP resort transfer",
+          "Overnight Stay: Bodrum/Antalya (Mandarin Oriental Bodrum)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Coastal Elegance & Farewell",
+        "description": "A day of private leisure and spa treatments on the Mediterranean coast. Evening farewell gala dinner, celebrating your luxury expedition.",
+        "activities": [
+          "Evening Experience: Farewell gala dinner",
+          "Overnight Stay: Bodrum/Antalya (Mandarin Oriental Bodrum)",
+          "Meals Included: Breakfast & Gala Dinner"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Departure",
+        "description": "Final luxury breakfast. VIP chauffeur transfer to the airport, concluding your premium Turkey luxury expedition.",
+        "activities": [
+          "Sightseeing Included: VIP chauffeur airport transfer",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Four Seasons Bosphorus",
+        "location": "Istanbul",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Museum Hotel / Argos in Cappadocia",
+        "location": "Cappadocia",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Mandarin Oriental Bodrum",
+        "location": "Bodrum / Antalya",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "08 Nights in ultra-luxury hotels across Istanbul, Cappadocia, and the Mediterranean coast",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flights Istanbul–Cappadocia and Cappadocia–Bodrum/Antalya",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private yacht Bosphorus sojourn with premium catering",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Cappadocia sunrise hot air balloon and private gourmet valley brunch",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private artisan workshop and underground city tour",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated luxury travel concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Turkey entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

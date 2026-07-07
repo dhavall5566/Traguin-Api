@@ -1,0 +1,270 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-014-premium-chandigarh-with-timber-trail-escape",
+    "serial_code": "CH-014",
+    "traguin_tour_code": "TG-CH-014-PREM",
+    "title": "Premium Chandigarh with Timber Trail Escape",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-014 | TRAGUIN tour code TG-CH-014-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh & HP / India | Category: Leisure & Escapes",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh • Parwanoo (Timber Trail)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Weekend Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Round the year (October to March ideal)",
+        "sort_order": 5
+      },
+      {
+        "text": "Round-trip cable car tickets at Timber Trail Parwanoo",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset boat cruise with prioritized boarding at Sukhna Lake",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Elante Mall, Phulkari embroidery, Sector 26 artisanal cafes",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-014-chandigarh-timber-trail-itinerary",
+    "title": "Premium Chandigarh with Timber Trail Escape",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Timber Trail Escape)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Urban Architectural Marvel Meets Breathtaking Shivalik Hills",
+    "overview": "Welcome to a flawlessly designed urban getaway curated by the destination specialists at TRAGUIN. This exclusive 3 Nights / 4 Days luxury package beautifully unifies the symmetrical, green grandeur of India's most organized city—Chandigarh—with the majestic, cliff-hanging serenity of Timber Trail, Parwanoo.\n\nTravel Format: Private Tailor-made Luxury Getaway (FIT). Vehicle: Chauffeur-driven Premium Segment Sedan / SUV (Innova Crysta). Meal Plan: Modified American Plan (Daily Luxury Buffet Breakfast & Dinner Included). TRAGUIN Curated Touch: Pre-booked private cable car transfers at Timber Trail, VIP seating arrangements during lake excursions, and handpicked premium hotels.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-014 | Premium Chandigarh with Timber Trail Escape | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days package (CH-014 / TG-CH-014-PREM): Sukhna Lake boat ride, Rock Garden, Rose Garden, Pinjore Gardens, Timber Trail cable car, and split-stay hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sukhna Lake Private Boat Ride & Sunset Photography",
+        "sort_order": 1
+      },
+      {
+        "text": "Rock Garden, Rose Garden & Pinjore Mughal Gardens",
+        "sort_order": 2
+      },
+      {
+        "text": "Timber Trail Cable Car Transfer",
+        "sort_order": 3
+      },
+      {
+        "text": "Shivalik Mountain Panoramas at Parwanoo",
+        "sort_order": 4
+      },
+      {
+        "text": "Morning Resort Mountain Trails",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Sunset Lake Cruise",
+        "description": "Arrive at Chandigarh Airport or Railway Station, where you will be greeted with a warm welcome by your dedicated TRAGUIN luxury representative. Step into your premium private vehicle and transfer to your handpicked luxury hotel in the heart of the city. We visit the iconic Sukhna Lake and enjoy a private boat ride on its calm waters as the golden sun dips below the horizon.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake & Promenade walk",
+          "Evening Experience: Private Boat Ride & sunset photography",
+          "Overnight Stay: Chandigarh (Premium Luxury Hotel)",
+          "Meals Included: Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Legendary Rock Garden, Rose Garden & Pinjore Gardens",
+        "description": "Indulge in a fine breakfast before plunging into the artistic brilliance of Chandigarh Sightseeing at the world-famous Rock Garden and Zakir Hussain Rose Garden. In the afternoon, take a comfortable short drive to the historical Pinjore Gardens (Yadavindra Gardens), built in the Mughal style with cascading terraces and grand fountains.",
+        "activities": [
+          "Sightseeing Included: Rock Garden, Rose Garden, Pinjore Mughal Gardens",
+          "Optional Activities: Shopping at Sector 17 Premium High-Street Market",
+          "Overnight Stay: Chandigarh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Ascent to Timber Trail Parwanoo via Cable Car",
+        "description": "Following a sumptuous breakfast, check out from your hotel as we embark on a Luxury Chandigarh Holiday extension towards Parwanoo, Himachal Pradesh. Arrive at the base station of Timber Trail, where a private cable car awaits you. Reach the exclusive mountain resort perched on top of the hill and check into your premium room offering magnificent views of the valley.",
+        "activities": [
+          "Sightseeing Included: Shivalik Mountain Panoramas, Timber Trail Cable Car Transfer",
+          "Evening Experience: Tea/Coffee over a spectacular valley sunset view",
+          "Overnight Stay: Parwanoo (Timber Trail Heights Resort)",
+          "Meals Included: Breakfast & Grand Valley-View Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Memories at the Peak & Farewell to the Hills",
+        "description": "Wake up to a crisp morning over the mountains and enjoy a delicious breakfast suspended in nature. Later, glide back down the valley via the cable car where your luxury vehicle is stationed. Enjoy a smooth drive back to Chandigarh as your chauffeur transfers you back to Chandigarh Airport or Railway Station.",
+        "activities": [
+          "Sightseeing Included: Morning resort mountain trails",
+          "Assistance: Departure luggage assistance by chauffeur",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Hotel / Classic City Stay | Timber Trail Resort (Base Wing)",
+        "location": "Chandigarh / Parwanoo",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room / Base Wing",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh / Radisson | Moksha Himalaya Spa Resort / Timber Trail Heights",
+        "location": "Chandigarh / Parwanoo",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Heights Wing",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Chandigarh / JW Marriott | Moksha Luxury Suite Wing",
+        "location": "Chandigarh / Parwanoo",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite Wing",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort | Moksha Royal Presidential Villa",
+        "location": "Chandigarh / Parwanoo",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Presidential Villa",
+        "meal_plan": "All Inclusive Premium",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights luxury stay across handpicked deluxe/premium hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium multi-cuisine buffet breakfast and curated dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Air-conditioned private Innova Crysta throughout the complete itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Professional, courteous, English/Hindi-speaking private driver",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Round-trip cable car tickets at Timber Trail Parwanoo",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Pre-arranged entry fees to Rock Garden, Rose Garden, and Pinjore Gardens",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary premium boat ride voucher at Sukhna Lake",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 TRAGUIN helpline & operational guest support",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "All applicable fuel charges, parking fees, tolls, and driver allowances",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Inter-state train tickets to Chandigarh",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as room service, laundry, phone calls, or tips",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any lunches or snacks unless specifically outlined",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional camera or video shooting licenses at monuments",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive personal or medical travel insurance",
+        "sort_order": 14
+      }
+    ]
+  }
+}

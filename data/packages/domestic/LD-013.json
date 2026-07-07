@@ -1,0 +1,293 @@
+{
+  "destination_slug": "lakshadweep",
+  "package": {
+    "slug": "ld-013-bangaram-romance-deep-sea-marine-exploration",
+    "serial_code": "LD-013",
+    "traguin_tour_code": "TRAGUIN-LD-013",
+    "title": "Bangaram Romance & Deep-Sea Marine Exploration",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LD-013 | TRAGUIN tour code TRAGUIN-LD-013",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Lakshadweep, India | Category: Adventure / Scuba Explorer",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Agatti • Bangaram Island • Lagoon Scuba Bases",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Enthusiasts, Divers, Luxury Thrill Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private FIT Scuba Explorer Itinerary",
+        "sort_order": 7
+      },
+      {
+        "text": "Transfers: High-speed sea craft journeys and airport pick-ups",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Daily dining menus as per chosen option matrix",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Agatti Arrival → Bangaram Diving Hub → Deep Reef Dives → Thinnakara Shipwreck → Agatti Transition → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Exclusive experiences with verified dive masters, premium handpicked hotels, luxury transportation, and exclusive recommendations for the finest underwater photography locations",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Agatti fish co-operatives — premium dried tuna snacks, handicraft decorative items carved entirely out of fallen coconut husks, and pristine shell souvenirs from verified sustainable vendors",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Pre-clearance health forms are mandatory before diving bookings can be finalized; government island entry permits are organized fully by TRAGUIN operations staff; a minimum 24-hour surface interval is strictly maintained before your departure flight",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Scuba",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ld-013-bangaram-romance-deep-sea-marine-exploration-itinerary",
+    "title": "Bangaram Romance & Deep-Sea Marine Exploration",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Lakshadweep Tour Package - Scuba Adventure • Bangaram Romance & Deep-Sea Marine Exploration • 05 Nights / 06 Days",
+    "overview": "Welcome to a thrilling marine expedition curated exclusively by TRAGUIN. Lakshadweep, a mesmerizing paradise of breathtaking landscapes, untouched coral reefs, and vast turquoise lagoons, presents the ultimate backdrop for a high-end Scuba Explorer vacation. Immerse yourself in the world-class dive sites surrounding Bangaram Island, enjoying curated experiences, scenic beauty, and handpicked hotels that guarantee unforgettable memories beneath and above the waves. Experience a Premium Lakshadweep Experience tailored perfectly to your thirst for adventure.\n\nThis bespoke Luxury Lakshadweep Holiday is specifically tailored for FIT travelers seeking deep-sea exploration combined with premium comfort. Your journey includes scheduled multi-tank dive excursions, professional dive master guidance, seamless private speed boat island connectivity, a full meal plan, and robust logistical coordination provided by TRAGUIN.\n\nWhy Visit Lakshadweep for Scuba Diving? Renowned for having some of the clearest water visibility in the Indian Ocean, Lakshadweep stands out as the ultimate destination for marine life exploration. Iconic attractions such as the shallow reef slopes of Bangaram Lagoon and the deeper walls around Thinnakara offer highly searched experiences for professional and amateur divers alike. Apart from thrill-seeking aquatic sports, the pristine islands serve as popular Instagram locations with dramatic sandbanks and unique coastal features. Choosing the best time to visit Lakshadweep allows you to fully engage in Lakshadweep Sightseeing while discovering the top tourist places in Lakshadweep through signature TRAGUIN Lakshadweep Packages.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LD-013 | Bangaram Romance & Deep-Sea Marine Exploration | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Lakshadweep scuba package (LD-013 / TRAGUIN-LD-013): lagoon check-dive, deep reef exploration, Thinnakara shipwreck dive, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Inter-island luxury speed boat transfer to Bangaram Island diving hub",
+        "sort_order": 1
+      },
+      {
+        "text": "Lagoon scuba check-dive with marine turtle observation in protected calm waters",
+        "sort_order": 2
+      },
+      {
+        "text": "Two open-water deep tank dive sessions around pristine drop-offs with barracudas, reef sharks, and manta rays",
+        "sort_order": 3
+      },
+      {
+        "text": "Thinnakara shipwreck dive with drift exploration and glassfish photography points",
+        "sort_order": 4
+      },
+      {
+        "text": "Watersports carnival with kayaking, windsurfing, and Agatti cultural highlights",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Agatti & Speedboat to Bangaram Island",
+        "description": "Your premium adventure begins as you arrive at the visually stunning Agatti Airport track. Witness a jaw-dropping panoramic view of the reef system. Meet our TRAGUIN island team member for an assisted transfer to the speed boat jetty, bound directly for the legendary diving hub of Bangaram Island.",
+        "activities": [
+          "Sightseeing Included: Inter-island luxury speed boat transfer, check-in at your beachfront bungalow.",
+          "Evening Experience: Sunset walk to the tip of Bangaram sandspit with standard welcome refreshments.",
+          "Overnight Stay: Bangaram Island Beach Resort (Premium Stay)",
+          "Meals Included: Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Lagoon Scuba Check-Dive & Coral Reef Survey",
+        "description": "Awake early to crisp ocean views. Head over to the premium dive facility for your gear-fitting session and safety presentation. Execute your initial check-dive in the protected calm waters of Bangaram Lagoon to adjust buoyancy and observe local stingrays.",
+        "activities": [
+          "Sightseeing Included: 1 Morning Dive session in the lagoon area, marine turtle observation.",
+          "Optional Activities: Evening night snorkeling session along the inner reef rim.",
+          "Evening Experience: Relaxed stargazing lounge setup right next to the dive operations desk.",
+          "Overnight Stay: Bangaram Island Beach Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Deep Reef Exploration & Open-Ocean Wall Dives",
+        "description": "Prepare for advanced open-ocean excursions. Board our specialized dive vessel to reach pristine drop-offs where underwater columns sink deep into the blue. Encounter large schools of barracudas, reef sharks, and magnificent manta rays in their natural habitat.",
+        "activities": [
+          "Sightseeing Included: 2 Open-water deep tank dive sessions around specific iconic attractions.",
+          "Optional Activities: Deep-sea catch-and-release sport fishing experience.",
+          "Evening Experience: Beach bonfire interaction with local marine biologists and dive pros.",
+          "Overnight Stay: Bangaram Island Beach Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Thinnakara Shipwreck Dive & Drift Exploration",
+        "description": "Embark on a unique boat journey toward Thinnakara Island to explore a historical shallow-water shipwreck site. The site is thriving with glassfish and massive brain coral formations, making it an epic highlight for photography points.",
+        "activities": [
+          "Sightseeing Included: 1 Shipwreck Dive, Thinnakara island pristine sandbank beach tour.",
+          "Photography Points: Clear-water shipwreck views and isolated sandbar horizons.",
+          "Overnight Stay: Bangaram Island Beach Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Watersports Carnival & Transition Back to Agatti",
+        "description": "Conclude your underwater logbook entry and shift to surface thrills. Enjoy high-speed kayaking or windsurfing across the lagoon before taking the afternoon boat back to Agatti Island to witness native villages and cultural highlights.",
+        "activities": [
+          "Sightseeing Included: Agatti museum trail, sunset viewpoint tour, village walking paths.",
+          "Evening Experience: Local seafood tasting menu organized by the TRAGUIN operational crew.",
+          "Overnight Stay: Premium Agatti Beach Villa",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Departure with Unforgettable Memories",
+        "description": "Enjoy your final island-style breakfast looking out over the clear blue lagoon. Gather your scuba certifications, media files, and unforgettable memories. Transfer directly to Agatti Airport for your homeward flight path.",
+        "activities": [
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Agatti Standard Lagoon Villa",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Agatti Standard Lagoon Villa | Breakfast & Dinner Plan",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Lagoon Villa",
+        "meal_plan": "Breakfast & Dinner Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Agatti Premium Beach Suite",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Agatti Premium Beach Suite | Breakfast & Dinner Plan",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Beach Suite",
+        "meal_plan": "Breakfast & Dinner Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Bangaram Island Beach Resort (Standard AC)",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Bangaram Island Beach Resort (Standard AC) | Full Island Meals Plan (All Included)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Beach Resort (Standard AC)",
+        "meal_plan": "Full Island Meals Plan (All Included)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Bangaram Premium Exec Beachfront Villa",
+        "location": "Lakshadweep Stay (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Bangaram Premium Exec Beachfront Villa | All Inclusive Premium Dining Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Exec Beachfront Villa",
+        "meal_plan": "All Inclusive Premium Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Stays: Handpicked hotels and beach resorts across islands.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily dining menus as per chosen option matrix.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: High-speed sea craft journeys and airport pick-ups.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Scuba Logistics: Pre-booked standard tank sets, weights, and dive boat slots.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Support: 24/7 dedicated TRAGUIN on-ground destination help.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Amenities: Premium water sports welcome kit and dry-bag kits.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight airline tickets to/from Agatti Airport.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal dive gear rentals (BCD, Regulators, Wetsuits).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips, laundry, telephone charges, and beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional PADI/SSI training upgrade courses.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

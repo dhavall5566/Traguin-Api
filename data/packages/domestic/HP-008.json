@@ -1,0 +1,308 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-008-luxury-manali-escape-romance-amidst-the-clouds",
+    "serial_code": "HP-008",
+    "traguin_tour_code": "TRG-HIM-008",
+    "title": "Luxury Manali Escape • Romance Amidst the Clouds",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-008 | TRAGUIN tour code TRG-HIM-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Luxury Honeymoon",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Manali • Solang Valley • Atal Tunnel • Sissu (Lahaul Value) • Kasol (Optional)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Newlyweds, Romance Seekers & Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June (Pleasant) / November to February (Snowfall)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Honeymoon Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Sedan / MAPAI with Honeymoon Inclusions",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private roadside picnic setup with hot mountain tea during your Lahaul",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked romantic routes that balance scenic drives with intimate,",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected strictly based on premium safety standards,",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Expert hill drivers ensuring elite comfort and safety across mountain passes.",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Explore the Mall Road to find authentic, hand-woven Kullu shawls, warm pashminas, pure wooden artifacts, and traditional Himachali caps as beautiful keepsakes of your trip. Cafes & Food: Old Manali features cozy, atmospheric wooden cafes offering authentic Italian wood-fired pizzas, trout fish delicacies, and freshly brewed mountain coffees with live acoustic music.",
+        "sort_order": 12
+      },
+      {
+        "text": "Weather Notes: Heavy winter months (Dec-Feb) bring thick snow; please carry heavy woolens. Summer",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-008-luxury-manali-escape-romance-amidst-the-clouds-itinerary",
+    "title": "Luxury Manali Escape • Romance Amidst the Clouds",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Honeymoon Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury Manali Escape",
+    "overview": "LUXURY MANALI ESCAPE • ROMANCE AMIDST THE CLOUDS Welcome to an ethereal romantic getaway curated exclusively by TRAGUIN. Embark on the ultimate Himachal Honeymoon Package, meticulously crafted to showcase the breathtaking landscapes, snow- capped peaks, and mist-laden pine forests of Manali. As your dedicated luxury travel consultants, TRAGUIN delivers a highly customized experience filled with handpicked hotels, intimate candlelight moments, and premium comfort. Let the scenic beauty of the Beas River and the dramatic mountain vistas form the backdrop of your romantic journey, creating sweet unforgettable memories that last a lifetime.\n\nTOUR OVERVIEW\nThis bespoke luxury holiday package is engineered specifically for couples who seek a romantic and immersive experience in the heart of the Himalayas. Travelling in a completely private premium AC vehicle with a highly professional, well-versed local chauffeur, your itinerary balances leisure with exploration. Enjoy a tailored meal plan featuring decadent daily breakfasts and personalized dinners, along with special honeymoon add-ons like flower bed decorations, a custom wedding cake, and candle-lit dining. Every aspect features the distinct TRAGUIN curated experience note, guaranteeing high-end hospitality and round-the- clock peace of mind.\n\nWHY CHOOSE THE BEST HIMACHAL TOUR PACKAGE?\nWhen planning a Luxury Himachal Holiday, couples look for a blend of high-altitude thrill, untouched nature, and quiet privacy. Manali stands out as the crown jewel of Northern India, making a Manali Honeymoon Package the absolute dream choice for newlyweds. From exploring iconic attractions like the historic Hadimba Temple and Vashisht Hot Springs to seeking high-octane adventure at Solang Valley, Manali sightseeing offers an unmatched experience. Our tailored Himachal Family Tour and romantic packages bring you closer to popular Instagram locations like the engineering marvel of the Atal Tunnel and the surreal snowscapes of Sissu in Lahaul Valley. Indulge in local handicraft shopping at the Mall Road, relish authentic Himachali delicacies, or experience the pure bliss of a riverside café in Old Manali. Our signature TRAGUIN Himachal Packages combine exclusive experiences with premium stays, offering you the absolute best time to visit Himachal with zero hassle.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-008 | Luxury Manali Escape | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Himachal Pradesh package (HP-008 / TRG-HIM-008): Manali • Solang Valley • Atal Tunnel • Sissu (Lahaul Value) • Kasol (Optional) with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN MANALI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: LOCAL MANALI SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SOLANG VALLEY ADVENTURE EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: ATAL TUNNEL & SISSU EXCURSION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCURSION TO NAGGAR CASTLE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: MANALI TO DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private roadside picnic setup with hot mountain tea during your Lahaul",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked romantic routes that balance scenic drives with intimate,",
+        "sort_order": 8
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected strictly based on premium safety standards,",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN MANALI",
+        "description": "WELCOME TO THE VALLEY OF GODS – ROMANTIC RIVERSIDE CHECK-IN Your premium Himachal experience begins with a warm greeting at Bhuntar Airport or Chandigarh station by your private luxury transport chauffeur. Embark on a breathtakingly scenic drive winding alongside the gushing Beas River. Upon arriving in Manali, check into your handpicked premium luxury resort. Enjoy a special welcome amenity kit. The evening is yours to relax or stroll hand-in-hand through the local pathways, enjoying the crisp mountain air.",
+        "activities": [
+          "Sightseeing Included: Scenic Beas River valley drive, Riverside resort relaxation.",
+          "Evening Experience: Honeymoon Special: Custom welcome cake and a beautifully decorated room.",
+          "Overnight Stay: Manali (Premium Mountain View Luxury Resort)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "LOCAL MANALI SIGHTSEEING",
+        "description": "CULTURE, HERITAGE & OLD WORLD ROMANCE After a leisurely lavish breakfast, step out for an enchanting local Manali sightseeing tour. Visit the iconic 16th- century Hadimba Temple, tucked away amidst giant deodar forests. Explore the mystical Vashisht Village, famous for its natural therapeutic sulfur hot springs. Later in the afternoon, wander through the quaint cafes and popular Instagram locations of Old Manali before concluding your evening with an upscale shopping experience at the Mall Road.",
+        "activities": [
+          "Sightseeing Included: Hadimba Temple, Ghatotkach Tree Temple, Vashisht Hot Springs, Club House, Mall Road.",
+          "Evening Experience: Bespoke intimate candle-lit dinner with a premium menu curated by TRAGUIN experts.",
+          "Overnight Stay: Manali (Premium Mountain View Luxury Resort)",
+          "Meals Included: Premium Breakfast & Romantic Candle-lit Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SOLANG VALLEY ADVENTURE EXCURSION",
+        "description": "THRILLING LANDSCAPES & HIGH-ALTITUDE ROMANCE Wake up to a pristine mountain sunrise and head towards Solang Valley, famed for its breathtaking landscapes and adrenaline-pumping activities. Take a romantic ropeway ride up to Mount Phatru to enjoy panoramic vistas of snow-covered peaks. Couples can opt for immersive experiences like paragliding together over the valley, quad biking, or zorbing down lush green slopes.",
+        "activities": [
+          "Sightseeing Included: Solang Valley viewpoints, Anjani Mahadev track path (seasonal).",
+          "Optional Activities: Tandem paragliding, snow skiing, open-air mountain photography session.",
+          "Overnight Stay: Manali (Premium Mountain View Luxury Resort)",
+          "Meals Included: Premium Breakfast & Multi-cuisine Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ATAL TUNNEL & SISSU EXCURSION",
+        "description": "CROSSING THE GREATER HIMALAYAS INTO LAHAUL VALLEY Today brings a true highlight of your luxury Himachal holiday. Drive through the world-famous Atal Tunnel, an engineering marvel spanning over 9 kilometers beneath the Rohtang Pass. As you exit into Lahaul Valley, marvel at the sudden transformation into a dramatic, rugged mountain wilderness. Arrive at Sissu village, featuring the majestic Sissu Waterfall and incredible snow-globe vistas. It is the perfect photography point for creating lifelong memories.",
+        "activities": [
+          "Sightseeing Included: Atal Tunnel, Sissu Village, Sissu Waterfall, Chandra River banks.",
+          "Evening Experience: Warm traditional Himachali hot beverage service overlooking the glaciers.",
+          "Overnight Stay: Manali (Premium Mountain View Luxury Resort)",
+          "Meals Included: Premium Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO NAGGAR CASTLE",
+        "description": "ROYAL HERITAGE & ARTISTIC SERENITY Embark on a quiet morning drive to the historic town of Naggar, the ancient capital of Kullu. Tour the beautiful Naggar Castle, a magnificent timber-and-stone palace showcasing traditional Kathkuni architecture. Walk through the Roerich Art Gallery to admire masterfully preserved Himalayan landscapes on canvas. Spend a relaxed afternoon inside an aesthetic wood-fired pizzeria overlooking terraced step orchards.",
+        "activities": [
+          "Sightseeing Included: Naggar Castle heritage walk, Nicholas Roerich Art Gallery, Tripura Sundari Temple.",
+          "Optional Activities: Traditional attire couple dress-up photography session inside the castle.",
+          "Overnight Stay: Manali (Premium Mountain View Luxury Resort)",
+          "Meals Included: Breakfast & Farewell Gala Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MANALI TO DEPARTURE",
+        "description": "FAREWELL TO THE HILLS – MEMORIES BEYOND DESTINATIONS Savor your last lavish breakfast overlooking the morning mist rising from the deodar forests. Pack your bags and board your private luxury vehicle as your chauffeur guides you smoothly back down the valley towards Bhuntar Airport or Chandigarh station for your return journey. Head home carrying a heart full of romance and unforgettable memories designed flawlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury station or airport drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Solang Valley Resort / Golden",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Solang Valley Resort / Golden | Tulip / similar | Deluxe Valley View Room",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Tulip / similar",
+        "meal_plan": "Deluxe Valley View Room",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Welcome / Manu",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: The Grand Welcome / Manu | Allaya / similar | Premium Balcony Room",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Allaya / similar",
+        "meal_plan": "Premium Balcony Room",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Span Resort & Spa / Baragarh",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Span Resort & Spa / Baragarh | Resort & Spa | Luxury River Facing Suite",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Resort & Spa",
+        "meal_plan": "Luxury River Facing Suite",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Khyber / Wildflower Hall",
+        "location": "Himachal Pradesh",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Khyber / Wildflower Hall | style luxury private chalet | VVIP Royal Panoramic",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "style luxury private chalet",
+        "meal_plan": "VVIP Royal Panoramic",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights in handpicked romantic luxury properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated sedan for all point-to-point sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily premium buffet breakfast and gourmet dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 personalized concierge and emergency travel assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Honeymoon Privileges: Candle-lit dining setup, floral bedding art, and custom cake.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: High-altitude tunnel access and guided village walks.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or long-distance train travel.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure sport fees (Paragliding, skiing, zorbing charges).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, professional guide fees, camera permits.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, or tips. TRAGUIN Premium Luxury Itinerary — HP-008 5",
+        "sort_order": 10
+      }
+    ]
+  }
+}

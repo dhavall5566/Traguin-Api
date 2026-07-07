@@ -1,0 +1,281 @@
+{
+  "destination_slug": "daman-and-diu",
+  "package": {
+    "slug": "dd-004-luxury-daman-escape",
+    "serial_code": "DD-004",
+    "traguin_tour_code": "TRG-DAM-004",
+    "title": "Luxury Daman Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DD-004 | TRAGUIN tour code TRG-DAM-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Daman and Diu / India | Category: Luxury Travel Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Moti Daman • Nani Daman • Jampore • Devka Beach",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Discerning Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Tropical Maritime Delight)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Bespoke Curated)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Sedan / Premium Half Board (MAPAI)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Daman Arrival & Devka Beach → Moti Daman Heritage → Nani Daman & Mirasol Lake → Jampore Beach → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset beachfront cabana setups with signature non-alcoholic fruit elixirs.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing avoiding common weekend entry queues for pure private relaxation.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Leather goods, seashell ornaments, bamboo baskets; fish peri-peri, butter-garlic prawns, and bebinca at heritage eateries.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Lightweight linen recommended; 30-day advance booking advised; extra midnight runs require pre-coordination.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Beach",
+      "Luxury",
+      "Family",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dd-004-luxury-daman-escape-itinerary",
+    "title": "Luxury Daman Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Bespoke Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury Daman Escape • Sun, Sand & Portuguese Splendour",
+    "overview": "Welcome to an ultra-premium coastal escape curated passionately by TRAGUIN. Embark on the definitive Luxury Daman Escape designed exclusively for travelers who appreciate the elegant synthesis of colonial history, majestic maritime forts, and golden tropical shorelines. As your trusted travel consultants, TRAGUIN elevates your vacation into a premium luxury holiday complete with handpicked hotels, breathtaking landscapes, and elite customized care. Let the tranquil whispers of the Arabian Sea and the grand legacy of Portuguese architecture create unforgettable memories for you and your loved ones.\n\nTOUR OVERVIEW\nThis meticulously planned Luxury Daman Escape provides a seamless, stress-free route through the most scenic beauty points of the historic enclave. Traveling in an elite, chauffeur-driven luxury private vehicle, you will navigate effortlessly between majestic stone fortresses, modern lifestyle boardwalks, and tranquil coastal sunset viewpoints. Your premium stays feature handpicked beachside resorts offering state-of-the-art hospitality, bespoke wellness facilities, and gourmet meal plans tailored to perfection. Experience the hallmark of a TRAGUIN curated experience, delivering private guided storytelling, personalized sunset setups, and meticulous attention to detail.\n\nWHY BOOK THE BEST DAMAN & DIU TOUR PACKAGE?\nFor travelers seeking an exclusive, sun-drenched coastal hideaway, a Luxury Daman & Diu Holiday offers an enchanting alternative to traditional crowded beach destinations. Daman & Diu is globally searched for its well-preserved 16th-century Portuguese heritage landmarks, massive sea-facing ramparts, and relaxed maritime rhythm. This itinerary takes you directly to the top tourist places in Daman, including the iconic Moti Daman Fort, the vibrant Nani Daman jetty, and the pristine sands of Jampore Beach—highly popular Instagram locations famed for their spectacular golden hour photography. Our TRAGUIN Daman Packages guarantee the absolute best time to visit Daman, matching immersive experiences with premium comfort.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DD-004 | Luxury Daman Escape Premium Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Daman luxury package (DD-004 / TRG-DAM-004): Moti Daman Fort, Mirasol Lake, Jampore Beach, Devka promenade, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Devka Beachfront, illuminated promenade & ocean-view welcome dinner on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Moti Daman Fort, Cathedral of Bom Jesus & Church of Our Lady of Remedios on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Nani Daman Fort, Mirasol Lake Park & handicraft emporiums on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Jampore Beach cabana access & farewell beachside gala dinner on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset beachfront cabana with non-alcoholic fruit elixirs",
+        "sort_order": 5
+      },
+      {
+        "text": "Complimentary Experience: Private Lake Mirasol boat ride passes for the family",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Daman & Devka Beach | Welcome to the Portuguese Maritime Heaven – Luxury Beginnings",
+        "description": "Your premium Daman experience begins with a VIP greeting by your private luxury chauffeur at Mumbai Airport or Vapi Railway Station. Enjoy a smooth, scenic drive to the coastal paradise of Daman. Check into your ultra-luxury handpicked resort overlooking the Arabian Sea. After settling into your premium stay, spend a relaxed evening exploring the newly transformed Devka Beachfront Promenade. Take a leisurely walk along the brilliantly illuminated walkways, capture the crashing waves at sunset photography points, and dine on premium culinary selections curated specially by our local experts.",
+        "activities": [
+          "Sightseeing Included: Devka Beachfront, Modern Illuminated Promenade, Luxury Beach Resort Leisure.",
+          "Evening Experience: Private ocean-view welcome dinner organized exclusively by TRAGUIN travel consultants.",
+          "Overnight Stay: Daman (Premium Beachfront Luxury Resort).",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Moti Daman Heritage Exploration | Colonial Architecture, Ancient Forts & Sacred Cathedrals",
+        "description": "Awake to the soothing sounds of the sea and enjoy a lavish buffet breakfast. Today, delve deep into history with an immersive exploration of Moti Daman (Greater Daman). Pass through massive stone gateways to enter the historic Moti Daman Fort, constructed in 1559. Wander through quiet, old-world streets to witness the architectural marvels of the Cathedral of Bom Jesus and the Church of Our Lady of Remedios, featuring breathtaking hand-carved gilded altars. Walk along the historic ramparts looking over the Damanganga river confluence before returning to your premium resort for an afternoon of wellness or private infinity pool relaxation.",
+        "activities": [
+          "Sightseeing Included: Moti Daman Fort, Cathedral of Bom Jesus, Church of Our Lady of Remedios, Lighthouse Point.",
+          "Optional Activities: Private heritage walking tour with an expert colonial historian.",
+          "Overnight Stay: Daman (Premium Beachfront Luxury Resort).",
+          "Meals Included: Premium Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Nani Daman & Recreational Escapes | Twin Fort Majesty & Sophisticated Lakeside Leisure",
+        "description": "Following breakfast, explore Nani Daman (Little Daman) to cross the twin fort connection. Tour the historic St. Jerome Fort, which houses a beautiful high-arched gateway and the quiet Church of Our Lady of the Sea. Next, escape into the lush interiors to visit the beautifully manicured Mirasol Lake Resort garden. Enjoy an exclusive experiences package featuring a serene private boat ride across the lake and family relaxation among musical fountains. Conclude your afternoon at the modern, premium shopping centers of the town for premium artifacts and duty-free souvenirs.",
+        "activities": [
+          "Sightseeing Included: Nani Daman Fort (St. Jerome), Mirasol Lake Park, Local Handicraft Emporiums.",
+          "Evening Experience: Elegant seaside cocktail trail and gourmet lounge dining overviewing the jetty lights.",
+          "Overnight Stay: Daman (Premium Beachfront Luxury Resort).",
+          "Meals Included: Premium Breakfast & Fusion Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jampore Beach Shoreline Luxury | Golden Sands, Thrilling Adventures & Sunset Shack Dining",
+        "description": "Dedicate your morning to Jampore Beach, highly searched as the most tranquil and pristine sandy shoreline in Daman. Famous for its firm, dark sands and calm waters, it is ideal for family swimming and coastal walks. For the adventurous, optional para-sailing, jet-skiing, and ATV beach rides are readily accessible. Relax in a premium reserved beach cabana while sipping fresh coconut water. As the sun dips below the horizon, casting deep orange hues over the sea—a truly popular Instagram location—indulge in a celebratory farewell meal at an elite shoreline establishment.",
+        "activities": [
+          "Sightseeing Included: Jampore Beach Casuarina Groves, Luxury Private Beach Cabana Access.",
+          "Optional Activities: Thrilling water sports, para-sailing, and high-speed ocean jet skiff riding.",
+          "Overnight Stay: Daman (Premium Beachfront Luxury Resort).",
+          "Meals Included: Premium Breakfast & Farewell Beachside Gala Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Daman to Departure | Farewell Coastal Escape – Cherishing Unforgettable Memories",
+        "description": "Savor a lazy, delicious breakfast at your luxury resort and capture your final family photographs against the backdrop of the majestic Arabian Sea. Check out and board your premium private vehicle for a comfortable return journey to Mumbai or Vapi. Your Luxury Daman Escape concludes seamlessly as you arrive at the airport or station for your onward transit. Return home with revitalized spirits, deep bonds, and unforgettable memories designed flawlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway transit return drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Miramar / The Gold Beach Resort (Deluxe Wing)",
+        "location": "Daman",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Sea View Room",
+        "meal_plan": "Breakfast & Dinner (MAPAI)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Gold Beach Resort / Silver Sands Beach Resort",
+        "location": "Daman",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Executive Ocean Suite",
+        "meal_plan": "Breakfast & Dinner (MAPAI)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Deltin Daman (5-Star Luxury Resort)",
+        "location": "Daman",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Grand Premium Resort Pool View Suite",
+        "meal_plan": "Luxury Club Meal Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Deltin Daman / Custom Private Luxury Beach Villa",
+        "location": "Daman",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Presidential Luxury Suite / Villa",
+        "meal_plan": "Ultra Bespoke Chef Curated Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: 04 Nights at handpicked premium resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Chauffeur-driven AC Sedan for all transits.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily premium buffet breakfasts and fine-dining dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local concierge manager track assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold towels, floral greetings, and custom luxury travel kits.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private Lake Mirasol boat ride passes for the family.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train tickets, or major multi-state interstate permit taxes.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "All monument, fort camera fees, and local expert guide tip allocations.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items, laundry, extra bar/liquor spend, and room service tabs.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure water sports on Jampore beach or optional speed boating.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

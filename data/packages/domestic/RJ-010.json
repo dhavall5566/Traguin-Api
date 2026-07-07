@@ -1,0 +1,400 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-010-premium-rajasthan-family-tour",
+    "serial_code": "RJ-010",
+    "traguin_tour_code": "TRAGUIN-RJ-010",
+    "title": "Premium Rajasthan Family Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial RJ-010 | Tour code TRAGUIN-RJ-010",
+        "sort_order": 1
+      },
+      {
+        "text": "Jaipur (2N) → Jodhpur (2N) → Udaipur (2N) Imperial Family Circuit",
+        "sort_order": 2
+      },
+      {
+        "text": "Spacious Innova Crysta MUV with family concierge support",
+        "sort_order": 3
+      },
+      {
+        "text": "Chokhi Dhani ethnic village fair and Lake Pichola family cruise",
+        "sort_order": 4
+      },
+      {
+        "text": "Bishnoi Village jeep safari and Ranakpur Jain Temple",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-010-premium-rajasthan-family-tour-itinerary",
+    "title": "Premium Rajasthan Family Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Custom)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Jaipur • Jodhpur • Udaipur — 06 Nights / 07 Days of Royal Grandeur",
+    "overview": "A spectacular royal adventure for multi-generational families. This meticulously planned Rajasthan Family Tour balances immersive cultural experiences with absolute comfort for children and grandparents alike. Spacious dedicated Innova Crysta MUV, handpicked family-friendly hotels, Chokhi Dhani cultural night, Bishnoi village safari, and private Lake Pichola family cruise. Route: Jaipur (2N) → Jodhpur (2N) → Udaipur (2N). Meal plan: CP (Premium Family Buffet Breakfast). Best season: October to March.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-010 | Premium Rajasthan Family Tour | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Rajasthan family tour (RJ-010): Jaipur Chokhi Dhani, Mehrangarh Fort, Bishnoi village safari, Ranakpur Jain Temple, and Lake Pichola family cruise.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Chokhi Dhani ethnic village fair & dinner",
+        "sort_order": 1
+      },
+      {
+        "text": "Amer Fort & City Palace Jaipur",
+        "sort_order": 2
+      },
+      {
+        "text": "Mehrangarh Fort & Bishnoi Village Safari",
+        "sort_order": 3
+      },
+      {
+        "text": "Ranakpur Jain Temple",
+        "sort_order": 4
+      },
+      {
+        "text": "Lake Pichola private family boat cruise",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Jaipur | Traditional Greetings & Cultural Night",
+        "description": "Traditional royal greeting at Jaipur Airport. Evening drive past Albert Hall Museum and Chokhi Dhani ethnic village resort with folk dances, puppet shows, camel rides, and authentic dinner.",
+        "activities": [
+          "Sightseeing Included: Albert Hall Museum Outer View, Chokhi Dhani Cultural Experience",
+          "Optional Activities: Pottery making and traditional family dress photography",
+          "Evening Experience: Immersive Rajasthani village fair and dinner",
+          "Overnight Stay: Jaipur (Handpicked Family Premium Hotel)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Jaipur Full-Day Sightseeing | Fortresses & Palace of Winds",
+        "description": "Amer Fort with Sheesh Mahal, Jal Mahal photo stop, City Palace, Jantar Mantar, and Hawa Mahal.",
+        "activities": [
+          "Sightseeing Included: Amer Fort, Jal Mahal View, City Palace, Jantar Mantar, Hawa Mahal",
+          "Optional Activities: Private block-printing workshop for the family",
+          "Evening Experience: Shopping walk through Johari and Bapu Bazaars",
+          "Overnight Stay: Jaipur"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Jaipur to Jodhpur | Majestic Blue City Arrival",
+        "description": "Scenic drive to Jodhpur with family-friendly refreshment stops. Evening relaxation with Mehrangarh Fort illuminated views from hotel.",
+        "activities": [
+          "Sightseeing Included: Countryside landscape drive, heritage hotel exploration",
+          "Optional Activities: Traditional high tea featuring classic Marwari sweets",
+          "Evening Experience: Relaxed sit-down dinner on a panoramic rooftop terrace",
+          "Overnight Stay: Jodhpur (Premium Palace Hotel)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jodhpur Heritage Sightseeing | Citadels of Power",
+        "description": "Mehrangarh Fort, Jaswant Thada, Umaid Bhawan outer view. Optional Bishnoi Village jeep safari.",
+        "activities": [
+          "Sightseeing Included: Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace Outer View",
+          "Optional Activities: Bishnoi Village Jeep Safari",
+          "Evening Experience: Walk past historic Clock Tower and Sadar Market",
+          "Overnight Stay: Jodhpur"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Jodhpur to Udaipur via Ranakpur | Sacred Architecture",
+        "description": "En-route Ranakpur Jain Temple with 1,444 uniquely carved marble pillars. Check into Udaipur lakeside resort.",
+        "activities": [
+          "Sightseeing Included: Ranakpur Jain Temple, Aravali Mountain Pass Drive",
+          "Optional Activities: Lunch stop featuring authentic local cuisine",
+          "Evening Experience: Relaxing lakeside walk at your resort",
+          "Overnight Stay: Udaipur (Premium Lakeside Resort)"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Udaipur Full-Day Sightseeing | Lakeside City Palace & Cruise",
+        "description": "City Palace, Jagdish Temple, Saheliyon-ki-Bari, and private family boat cruise on Lake Pichola at sunset.",
+        "activities": [
+          "Sightseeing Included: City Palace, Saheliyon-ki-Bari, Jagdish Temple, Lake Pichola Cruise",
+          "Optional Activities: Ropeway ride to Karni Mata Temple for panoramic views",
+          "Evening Experience: Folk dance show at historic Bagore Ki Haveli",
+          "Overnight Stay: Udaipur"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Udaipur Sightseeing & Departure | Royal Farewell",
+        "description": "Final breakfast, souvenir shopping for local artwork and block-printed textiles, transfer to Udaipur Airport.",
+        "activities": [
+          "Sightseeing Included: Souvenir stops and local market walks",
+          "Meals Included: Premium Family Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Jaipur",
+        "nights_label": "2N Jaipur",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Family Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Fern Residency",
+        "location": "Jodhpur",
+        "nights_label": "2N Jodhpur",
+        "description": "Option 02 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Udaipur",
+        "nights_label": "2N Udaipur",
+        "description": "Option 03 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Lake View Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Palace",
+        "location": "Jaipur",
+        "nights_label": "2N Jaipur",
+        "description": "Option 04 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC",
+        "location": "Jodhpur",
+        "nights_label": "2N Jodhpur",
+        "description": "Option 05 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Udaipur",
+        "location": "Udaipur",
+        "nights_label": "2N Udaipur",
+        "description": "Option 06 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Palace Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Rajputana",
+        "location": "Jaipur",
+        "nights_label": "2N Jaipur",
+        "description": "Option 07 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Hari Mahal",
+        "location": "Jodhpur",
+        "nights_label": "2N Jodhpur",
+        "description": "Option 08 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Garden Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace",
+        "location": "Udaipur",
+        "nights_label": "2N Udaipur",
+        "description": "Option 09 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Grand Heritage View",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Rambagh Palace (Luxury Suite)",
+        "location": "Jaipur",
+        "nights_label": "2N Jaipur",
+        "description": "Option 10 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "CP + Welcome Mix",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Umaid Bhawan Palace",
+        "location": "Jodhpur",
+        "nights_label": "2N Jodhpur",
+        "description": "Option 11 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Palace Room",
+        "meal_plan": "CP + Welcome Mix",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Oberoi Udaivilas (Lake View)",
+        "location": "Udaipur",
+        "nights_label": "2N Udaipur",
+        "description": "Option 12 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Lake View Room",
+        "meal_plan": "CP + Welcome Mix",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury family-friendly heritage palace/hotel stays",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily multi-cuisine buffet breakfasts with kids' options",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven executive Innova Crysta vehicle",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All road taxes, parking fees, tolls, and driver allowances",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary private boat cruise for the family on Lake Pichola",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Chokhi Dhani ethnic village fair passes and dinner",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN family concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international airfares/train bookings",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and local guide fees",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, telephone calls, or mini-bar charges",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities: Bishnoi village safari or ropeway rides",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Peak season surcharges for holiday gala dinners",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal travel and medical insurance",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Any items not explicitly listed under inclusions",
+        "sort_order": 14
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-012-mount-abu-hill-station-delight",
+    "serial_code": "RJ-012",
+    "traguin_tour_code": "TRAGUIN-RJ-012",
+    "title": "Mount Abu Hill Station Delight",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code RJ-012 | TRAGUIN tour code TRAGUIN-RJ-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Rajasthan, India | Category: Family Vacation / Hill Station",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mount Abu Hill Station",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples, and Leisure Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Year-Round)",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle: Private Chauffeur-driven Luxury SUV/Sedan",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Premium Breakfast & Dinners Included)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Abu Road Arrival → Mount Abu Exploration → Nakki Lake Cruise → Dilwara Temples → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Includes a private high-tea session overlooking the Nakki Lake, express passes to historic structures, luxury transportation, and 24/7 dedicated local concierge support.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Experiences: Local Markets: Nakki Lake Market and Rajasthan Government Emporium. Famous Items: Kota Doria sarees, hand-carved marble artifacts, traditional silver jewelry, and beautiful wooden toys. Food Recommendations: Authentic Rabdi (local sweet milk dessert) served hot near Nakki Lake.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Standard check-in is at 14:00 hrs and check-out is at 11:00 hrs. Weather Note: Mount Abu remains refreshingly cool at night. A light jacket is recommended. Advance Booking Suggestions: High-season dates require prompt bookings for guaranteed space at ultra-luxury resorts.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Hill Station",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-012-mount-abu-hill-station-delight-itinerary",
+    "title": "Mount Abu Hill Station Delight",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Mount Abu Hill Station Delight • 03 Nights / 04 Days",
+    "overview": "Escape into the serene mist-covered mountains of the Aravalli Range. Handcrafted perfectly by TRAGUIN experts, this exclusive Rajasthan Honeymoon Package and Rajasthan Family Tour showcases the gorgeous scenic beauty, unique culture, and iconic attractions of Rajasthan's only hill station. Enjoy absolute comfort, immersive experiences, and handpicked hotels tailored beautifully to generate unforgettable memories.\n\nTOUR OVERVIEW\nVehicle Allocated: Private Chauffeur-driven Luxury SUV/Sedan\nMeal Plan: Modified American Plan (Daily Premium Breakfast & Dinners Included)\nRoute Map: Abu Road Arrival → Mount Abu Exploration → Nakki Lake Cruise → Dilwara Temples → Departure\n\nTRAGUIN Curated Experience Note: Includes a private high-tea session overlooking the Nakki Lake, express passes to historic structures, luxury transportation, and 24/7 dedicated local concierge support.\n\nWHY VISIT MOUNT ABU? A PREMIUM RAJASTHAN EXPERIENCE\nMount Abu stands proudly as an oasis in the desert state, offering a unique blend of Rajasthan Sightseeing, spiritual architecture, and cool refreshing breezes. Known for holding some of the Top Tourist Places in Rajasthan, it is the perfect spot for travelers seeking a Luxury Rajasthan Holiday away from the usual heritage city crowds.\nFrom the intricate, jaw-dropping architectural marvels of Dilwara Jain Temples to popular Instagram locations like Sunset Point and Honeymoon Point, this hill station is a panoramic paradise. The Best Time to Visit Rajasthan's lush mountain resort is during the pleasant cooler months, where the breathtaking landscapes are draped in soft, romantic mist. With our TRAGUIN Rajasthan Packages, your family receives absolute VIP convenience.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-012 | Mount Abu Hill Station Delight | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Rajasthan package (RJ-012 / TRAGUIN-RJ-012): Dilwara Jain Temples, Nakki Lake Cruise, Guru Shikhar, Achalgarh Fort, and 4-tier handpicked accommodation in Mount Abu.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Dilwara Jain Temples, Nakki Lake Cruise, Toad Rock, Sunset Point, Guru Shikhar Peak",
+        "sort_order": 1
+      },
+      {
+        "text": "Achalgarh Fort, Achaleshwar Temple, Honeymoon Point sunset views",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated carefully by TRAGUIN experts",
+        "sort_order": 3
+      },
+      {
+        "text": "Personalized Assistance: Dedicated chauffeur guide for smooth ground logistics",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties selected based on premium hospitality scores",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Abu Road to Mount Abu",
+        "description": "Arrive at Abu Road Railway Station or Udaipur Airport where your professional TRAGUIN driver will receive you warmly. Embark on a breathtaking, winding uphill drive surrounded by thick forests and jagged rocks. Upon reaching the cool heights of Mount Abu, complete a smooth check-in at your handpicked luxury resort. Spend your afternoon relaxing. In the evening, visit the beautiful Honeymoon Point to watch a stunning sunset drop below the valley lines, presenting incredible photography points.",
+        "activities": [
+          "Sightseeing Included: Scenic Hill Drive, Honeymoon Point Sunset view.",
+          "Evening Experience: Leisurely walks along the mist-kissed promenade pathways.",
+          "Overnight Stay: Handpicked Luxury Resort, Mount Abu.",
+          "Meals Included: Welcome Amenity Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mount Abu Cultural & Nature Tour",
+        "description": "Start your morning with a refreshing breakfast. Head out to explore the world-famous Dilwara Jain Temples, globally searched for their stunning marble carvings that date back to the 11th century. Afterward, take a peaceful stroll down to the sacred Nakki Lake, a legendary waterbody said to have been scooped out by the gods using their fingernails. Enjoy an exclusive private boating cruise over its tranquil waters. Conclude your day with a magical sunset experience at the iconic Sunset Point.",
+        "activities": [
+          "Sightseeing Included: Dilwara Jain Temples, Nakki Lake Cruise, Toad Rock, Sunset Point.",
+          "Optional Activities: Fun traditional horse riding or local street food tasting around Nakki Lake.",
+          "Overnight Stay: Handpicked Luxury Resort, Mount Abu.",
+          "Meals Included: Full Buffet Breakfast & Plated Multi-cuisine Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Highest Peak Exploration",
+        "description": "Drive up to Guru Shikhar, the highest peak in the entire Aravalli Range standing at 1,722 meters above sea level. Feel the clouds pass by you as you look out at panoramic vistas of the surrounding plains. Visit the ancient Dattatreya temple nestled at the apex. Later, explore the ruins of the 14th-century Achalgarh Fort and its famous Achaleshwar Mahadev Temple, known for its mystical naturally occurring features.",
+        "activities": [
+          "Sightseeing Included: Guru Shikhar Peak Observatory, Achalgarh Fort, Achaleshwar Temple.",
+          "Evening Experience: A curated cozy bonfire night arranged at your premium resort terrace.",
+          "Overnight Stay: Handpicked Luxury Resort, Mount Abu.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure from Mount Abu",
+        "description": "Enjoy a final sunrise breakfast at the resort courtyard. Relish the peaceful mountain climate one last time. Pack your bags and check out. Your premium private vehicle will transport you comfortably back down to Abu Road Station or Udaipur Airport for your journey home. Your elite TRAGUIN experience concludes beautifully.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport / Station Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Hilltone",
+        "location": "Mount Abu",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Luxury Room",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Cama Rajputana Club Resort",
+        "location": "Mount Abu",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Garden View Room",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Hillock Resort",
+        "location": "Mount Abu",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium Terrace Suite",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "WelcomHeritage Connaught House",
+        "location": "Mount Abu",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Heritage Suite",
+        "meal_plan": "MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights stay at premium handpicked hotels matching your style.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine buffet breakfasts and dinners at the resort restaurant.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated air-conditioned luxury transportation for all points.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 priority professional assistance throughout the tour.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold towels, signature traditional sweet boxes, and complimentary bottled water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private boat cruise ticket at Nakki Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Train tickets or flight airfare bookings.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Direct entry tickets to temples/monuments unless specified.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, laundry, tips, and personal safari rides.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Goods & Services Tax (GST) and personal travel insurance.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "destination_slug": "madhya-pradesh",
+  "package": {
+    "slug": "mp-012-gwalior-orchha-khajuraho-royal-extravaganza",
+    "serial_code": "MP-012",
+    "traguin_tour_code": "TRAGUIN-MP-012",
+    "title": "Gwalior Orchha Khajuraho Royal Extravaganza",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MP-012 | TRAGUIN tour code TRAGUIN-MP-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Madhya Pradesh, India | Category: Royal Family Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Gwalior • Orchha • Khajuraho (The Royal Maratha & Chandel Trail)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, History Enthusiasts & Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Royal Signature)",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Chauffeured private luxury vehicle transfers, handpicked hotels & palace properties, guided heritage walking tours, private light & sound show access, and an unforgettable evening high-tea overlooking the Betwa River",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private historian guides and specialized family itineraries designed to keep all generations engaged",
+        "sort_order": 8
+      },
+      {
+        "text": "Shopping: Exquisite Chanderi and Maheshwari silk sarees from local weaving cooperatives, traditional metal-cast bell figurines, and handcrafted sandstone carvings",
+        "sort_order": 9
+      },
+      {
+        "text": "Local Cuisine Try-outs: Gwalior's famous crispy Bedai Sabzi breakfasts and sweet, saffron-infused Gajak desserts",
+        "sort_order": 10
+      },
+      {
+        "text": "Important: Heritage properties maintain classic layouts—notify TRAGUIN for ground-floor or accessibility needs; best time October to April; early reservations recommended for converted palace suites",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mp-012-gwalior-orchha-khajuraho-royal-extravaganza-itinerary",
+    "title": "Gwalior Orchha Khajuraho Royal Extravaganza",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Royal Signature)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Gwalior Orchha Khajuraho Royal Extravaganza • 05 Nights / 06 Days",
+    "overview": "Step back in time to an era of valiant dynasties, grand royal architecture, and poetic landscapes. This elite Best Madhya Pradesh Tour Package is intentionally designed for families who want to discover the true heart of Central India's heritage without compromising on high-end luxury. Meticulously structured by TRAGUIN, this legendary trail combines premium stays in converted heritage palaces, private luxury transportation, and highly curated experiences for unforgettable memories across generations.\n\nFrom the impenetrable hilltop fort of Gwalior to the romantic chhatris of Orchha and the intricate UNESCO stone carvings of Khajuraho, every segment is managed with dedicated 24/7 TRAGUIN personalized assistance. Let us turn an ordinary vacation into a majestic Madhya Pradesh Family Tour filled with immersive experiences.\n\nWhy pick this Luxury Madhya Pradesh Holiday? This region boasts the most iconic Top Tourist Places in Madhya Pradesh, offering a perfect mix of educational context for children and absolute relaxation for adults. It stands as a highly searched option for premium travel, romantic getaways, and luxury holidays. Explore iconic Instagram locations like the blue-tiled Man Singh Palace, or dive into culture with dynamic musical light displays. Discover the Best Time to Visit Madhya Pradesh's golden triangle with TRAGUIN Madhya Pradesh Packages.\n\nTRAGUIN Curated Experience Note: Your royal holiday includes chauffeured private luxury vehicle transfers, handpicked hotels & palace properties, guided heritage walking tours, private light & sound show access, and an unforgettable evening high-tea overlooking the Betwa River.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MP-012 | Gwalior Orchha Khajuraho Royal Extravaganza | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Madhya Pradesh royal tour (MP-012 / TRAGUIN-MP-012): Gwalior Fort, Jai Vilas Palace, Orchha, Betwa River high-tea, Khajuraho UNESCO temples, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Gwalior Fort, Man Mandir Palace, Teli Ka Mandir & VIP Gwalior Fort Light and Sound Show",
+        "sort_order": 1
+      },
+      {
+        "text": "Jai Vilas Palace Museum, Scindia Durbar Hall & scenic drive to Orchha",
+        "sort_order": 2
+      },
+      {
+        "text": "Jehangir Mahal, Raja Mahal, Ram Raja Temple, Royal Chhatris & private riverside sunset high-tea",
+        "sort_order": 3
+      },
+      {
+        "text": "Khajuraho Western & Eastern Group UNESCO temples with expert historian & Kandariya Art & Culture show",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private historian guides and specialized family itineraries",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Gwalior Arrival",
+        "description": "Your premium family getaway begins upon arriving in Gwalior. A TRAGUIN corporate host will welcome your family and drive you in a private luxury vehicle to your handpicked premium hotel. After a seamless check-in, head out to the majestic Gwalior Fort, towering over the city skyline. Walk through the stunning Man Mandir Palace, renowned for its turquoise tile mosaics. As darkness falls, enjoy VIP seats reserved by TRAGUIN for the iconic Light and Sound Show, where the rich history of Tomar and Scindia rulers comes alive through captivating narrations.",
+        "activities": [
+          "Sightseeing Included: Gwalior Fort, Man Mandir Palace, Teli Ka Mandir.",
+          "Meals Included: Welcome Buffet Dinner.",
+          "Evening Experience: VIP seating at the Gwalior Fort historical sound show.",
+          "Overnight Stay: Converted Heritage Palace Hotel in Gwalior."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Gwalior to Orchha",
+        "description": "After a leisurely morning breakfast, explore the magnificent Jai Vilas Palace, the current seat of the Scindia dynasty. Marvel at the Durbar Hall, which houses the world's heaviest pair of crystal chandeliers and the famous silver model train that served fine digestifs to royal guests. In the afternoon, enjoy a scenic drive in your luxury private transport to Orchha, a medieval town beautifully frozen in time. Check into a luxury riverside resort and spend a relaxed evening taking in the serene, unhurried local atmosphere.",
+        "activities": [
+          "Sightseeing Included: Jai Vilas Palace Museum, Scindia Durbar Hall.",
+          "Meals Included: Gourmet Breakfast & Palace Dinner.",
+          "Photography Points: Golden ceilings of Jai Vilas & pastoral landscapes en route.",
+          "Overnight Stay: Premium Riverside Resort in Orchha."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Orchha Exploration",
+        "description": "Savor a premium breakfast before heading out to the historic Orchha Fort complex. Tour the towering Jehangir Mahal, built as a grand gesture of royal welcome for the Mughal Emperor, and the beautiful multi-layered Raja Mahal. Next, visit the Ram Raja Temple, the only shrine in India where Lord Rama is legally revered and honored as a ruling king with regular police guards of honor. In the late afternoon, TRAGUIN has curated an exclusive experience: a private luxury high-tea set up on the banks of the pristine Betwa River, directly facing the majestic royal cenotaphs (Chhatris) as the sun sets over the water.",
+        "activities": [
+          "Sightseeing Included: Jehangir Mahal, Raja Mahal, Ram Raja Temple, Royal Chhatris.",
+          "Meals Included: Gourmet Breakfast & Regional Bundelkhandi Dinner.",
+          "Exclusive Highlight: Private riverside sunset catering by the Betwa riverbank.",
+          "Overnight Stay: Premium Riverside Resort in Orchha."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Orchha to Khajuraho",
+        "description": "Enjoy a relaxed morning breakfast overlooking the river before departing in your private luxury vehicle for Khajuraho, a world-famous UNESCO World Heritage site. Upon arrival, check into your ultra-luxury resort and unwind. In the evening, attend the vibrant Kandariya Art & Culture show, which showcases traditional Indian classical dances. This performance brings to life the stone expressions and legendary architectural history of the monuments you will explore the following day.",
+        "activities": [
+          "Sightseeing Included: Rural landscapes drive, Evening Cultural Show entry.",
+          "Meals Included: Gourmet Breakfast & Grand Buffet Dinner.",
+          "Optional Activities: Therapeutic Ayurvedic spa therapy session at the resort.",
+          "Overnight Stay: Ultra-Luxury Resort in Khajuraho."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Khajuraho Temples Tour",
+        "description": "Today is dedicated to exploring the incredible craftsmanship of the Khajuraho temples, carved from sandstone by Chandel architects over a thousand years ago. Accompanied by an expert historian approved by TRAGUIN, visit the majestic Kandariya Mahadeva Temple, the Lakshmana Temple, and the beautifully preserved Vishvanatha Temple. Admire the stunning geometric precision and expressive stone carvings depicting daily life, celestial alignments, and ancient mythologies. In the afternoon, tour the quiet Eastern Group of temples, which feature beautiful Jain monuments.",
+        "activities": [
+          "Sightseeing Included: Western Group & Eastern Group of UNESCO Temples.",
+          "Meals Included: Gourmet Breakfast & Farewell Gala Dinner.",
+          "Instagram Spots: The towering spires (Shikhara) of Kandariya Mahadeva.",
+          "Overnight Stay: Ultra-Luxury Resort in Khajuraho."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Khajuraho Departure",
+        "description": "Savor a final morning breakfast at your resort at your own leisure. Take a quiet stroll through the beautifully landscaped resort grounds or select some final local souvenirs. Your dedicated luxury vehicle will arrive on schedule to provide a comfortable transfer to Khajuraho Airport or the railway terminal for your onward journey. Return home with closer family bonds, an inspired appreciation for ancient architecture, and unforgettable memories from this Premium Madhya Pradesh Experience brought to life by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Premium airport/railway station drop-off.",
+          "Meals Included: Gourmet Breakfast Only."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Radisson Gwalior / Orchha Resort (Riverside)",
+        "location": "Gwalior / Orchha / Khajuraho",
+        "nights_label": "05 Nights",
+        "description": "Khajuraho: Ramada by Wyndham.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Usha Kiran Palace (Deluxe) / Amar Mahal Orchha",
+        "location": "Gwalior / Orchha / Khajuraho",
+        "nights_label": "05 Nights",
+        "description": "Khajuraho: Radisson Jass Khajuraho.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Usha Kiran Palace (Luxury) / Bundelkhand Riverside Palace",
+        "location": "Gwalior / Orchha / Khajuraho",
+        "nights_label": "05 Nights",
+        "description": "Khajuraho: The Lalit Temple View.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Royal Palace (Royal Suite) / Vilas Palace Private Wing",
+        "location": "Gwalior / Orchha / Khajuraho",
+        "nights_label": "05 Nights",
+        "description": "Khajuraho: The Lalit Temple View (Luxury Suite).",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights royal accommodation in handpicked heritage hotels and top resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet breakfasts and specialized multi-cuisine dinners included.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Chauffeured, private luxury AC vehicle for all transfers and sightseeing tours.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN personalized assistance and on-ground support.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private riverside sunset high-tea experience overlooking the Betwa River.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP fast-track entries, light & sound show tickets, and cultural event passes.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable fuel surcharges, driver allowances, toll fees, and resort taxes.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Inbound or outbound flight tickets or long-distance railway bookings.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal hotel charges such as mini-bar consumption, laundry, and spa therapies.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera tickets, professional videography passes, or monument entry charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional customized excursions or personal shopping costs.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive individual travel or medical insurance policies.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

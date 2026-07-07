@@ -1,0 +1,447 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-009-premium-heritage-senior-circuit",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Premium Heritage Rajasthan Senior Circuit",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 14,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Jaipur (2N) → Pushkar (1N) → Jodhpur (2N) → Udaipur (1N) comfort circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Senior-friendly pacing with Innova Crysta MUV and step-stool boarding",
+        "sort_order": 2
+      },
+      {
+        "text": "Elevator access at Mehrangarh Fort and golf-cart at City Palace",
+        "sort_order": 3
+      },
+      {
+        "text": "CP plan with relaxed buffet breakfasts",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated concierge assistance",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-RJ-009 | Serial RJ-009",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-009-premium-heritage-senior-itinerary",
+    "title": "Premium Heritage Rajasthan Senior Circuit",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Custom)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Jaipur • Pushkar • Jodhpur • Udaipur — 06 Nights / 07 Days Comfort Circuit",
+    "overview": "Welcome to a timeless journey crafted with exceptional care, patience, and warmth. This exclusive Rajasthan Family Tour and senior-focused circuit balances gentle pacing with royal grandeur, seamlessly connecting majestic forts, peaceful lakes, and sacred landscapes. Features a dedicated smooth-riding luxury Innova Crysta with professional chauffeur, handpicked hotels with elevator access and minimal walking, and curated experiences designed for absolute comfort. Route: Jaipur → Pushkar → Jodhpur → Udaipur. Best season: October to March.",
+    "is_featured": true,
+    "featured_sort_order": 14,
+    "seo_title": "RJ-009 | Premium Heritage Rajasthan Senior Circuit | TRAGUIN",
+    "seo_description": "Comfort-focused 06 Nights / 07 Days Rajasthan tour (RJ-009) for senior citizens: Jaipur, Pushkar, Jodhpur, Udaipur with accessible fort visits and private Lake Pichola cruise.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Amer Fort (Vehicle Access)",
+        "sort_order": 1
+      },
+      {
+        "text": "Pushkar Brahma Temple & Holy Lake",
+        "sort_order": 2
+      },
+      {
+        "text": "Mehrangarh Fort with Elevator",
+        "sort_order": 3
+      },
+      {
+        "text": "Ranakpur Jain Temple",
+        "sort_order": 4
+      },
+      {
+        "text": "Lake Pichola Private Cruise",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Jaipur | Royal Greetings & Relaxed Evening",
+        "description": "Warm traditional greeting, comfortable transfer to premium hotel, and gentle drive past illuminated Albert Hall Museum with welcome dinner.",
+        "activities": [
+          "Sightseeing Included: Albert Hall illuminated drive, local heritage walks",
+          "Optional Activities: Visit to the local handicraft emporium",
+          "Evening Experience: Relaxed sit-down traditional dinner",
+          "Overnight Stay: Jaipur (Handpicked Premium Hotel)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Jaipur Royal Exploration | Comfortable Fort Ascent",
+        "description": "Amer Fort with vehicle access to main courtyard, Hawa Mahal photo stop, and accessible golf-cart tour of City Palace.",
+        "activities": [
+          "Sightseeing Included: Amer Fort Courtyard, Hawa Mahal Photo Stop, City Palace via Golf-Cart",
+          "Optional Activities: Private block-printing demonstration",
+          "Evening Experience: Leisurely stroll through the accessible gardens of Kanak Vrindavan",
+          "Overnight Stay: Jaipur"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Jaipur to Pushkar | Holy Lake & Brahma Temple",
+        "description": "Short drive to Pushkar. Gentle walk to Pushkar Lake ghats and Brahma Temple. Evening prayer ceremonies by the lake.",
+        "activities": [
+          "Sightseeing Included: Brahma Temple, Pushkar Holy Lake Ghats, Rose Gardens",
+          "Optional Activities: Relaxing traditional foot massage at the resort spa",
+          "Evening Experience: Spiritually uplifting sunset chants by the lake",
+          "Overnight Stay: Pushkar (Premium Heritage Resort)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Pushkar to Jodhpur | Sunset Fort Views",
+        "description": "Leisurely drive to Jodhpur with comfort stops. Evening terrace views of illuminated Mehrangarh Fort.",
+        "activities": [
+          "Sightseeing Included: Highway landscape viewing, palace grounds exploration",
+          "Optional Activities: Tea tasting featuring classic Marwari blends",
+          "Evening Experience: Private family dinner under the stars",
+          "Overnight Stay: Jodhpur (Premium Palace Hotel)"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Jodhpur Sightseeing | Mehrangarh with Elevator Access",
+        "description": "Mehrangarh Fort with exclusive lift access, Jaswant Thada gardens, and Umaid Bhawan vintage car museum.",
+        "activities": [
+          "Sightseeing Included: Mehrangarh Fort with Elevator, Jaswant Thada Gardens, Umaid Bhawan Car Collection",
+          "Optional Activities: Soft handicraft shopping at Sadar bazaar with private pickup",
+          "Evening Experience: Fine-dining dinner featuring signature Rajasthani delicacies",
+          "Overnight Stay: Jodhpur"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Jodhpur to Udaipur | Ranakpur & Sunset Lakeside Cruise",
+        "description": "En-route Ranakpur Jain Temple. Private boat cruise on Lake Pichola at sunset with Jag Mandir views.",
+        "activities": [
+          "Sightseeing Included: Ranakpur Temple, Lake Pichola Private Cruise, Jag Mandir Views",
+          "Optional Activities: Photography session during sunset",
+          "Evening Experience: Lakeside fine-dining dinner organized by your concierge",
+          "Overnight Stay: Udaipur (Premium Lakeside Resort)"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Udaipur Sightseeing & Departure | Royal Gardens & Farewell",
+        "description": "Visit Saheliyon-ki-Bari gardens, final lunch, and transfer to Udaipur Airport.",
+        "activities": [
+          "Sightseeing Included: Saheliyon-ki-Bari, local arts emporium",
+          "Meals Included: Premium Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Palace",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Rajputana",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Rambagh Palace",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Pushkar Resort",
+        "location": "Pushkar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Bhanwar Singh Palace",
+        "location": "Pushkar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Ananta Spa & Resort",
+        "location": "Pushkar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Westin Pushkar",
+        "location": "Pushkar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Fern Residency",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Hari Mahal",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Umaid Bhawan Palace",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 12
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Udaipur",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 13
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Udaipur",
+        "location": "Udaipur",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 14
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace",
+        "location": "Udaipur",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 15
+      },
+      {
+        "hotel_id": null,
+        "name": "Oberoi Udaivilas",
+        "location": "Udaipur",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 16
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Comfort-driven premium hotel stays with accessible rooms",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily multi-cuisine buffet breakfasts with dietary preferences",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated executive chauffeur-driven Innova Crysta vehicle",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive elevator/lift access passes at Mehrangarh Fort",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary smooth private boat cruise on Lake Pichola",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "All road taxes, parking, toll fees, and driver allowances",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN concierge assistance",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international airfares/train bookings",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera costs, and local guide gratuities",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, telephone bills, or mini-bar usage",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities such as village safaris or special spa sessions",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Surcharges for peak festival dates or gala dinners",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal travel and medical insurance",
+        "sort_order": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "pb-001-golden-temple-darshan-spiritual-cultural-awakening",
+    "serial_code": "PB-001",
+    "traguin_tour_code": "TRG-PUN-001",
+    "title": "Golden Temple Darshan Spiritual Cultural Awakening",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PB-001 | TRAGUIN tour code TRG-PUN-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Punjab / India | Category: Premium Pilgrimage Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Amritsar (Golden Temple • Wagah Border • Jallianwala Bagh)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Pilgrimages, Spiritual Seekers & Cultural Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Extremely Pleasant)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Special coordination for senior citizens or families during the crowded evening Palki Sahib ceremony.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Perfect time management for the Wagah Border departure to secure excellent seating views.",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations chosen strictly based on world-class hospitality, central locations, and premium culinary standards.",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Polite, professional local chauffeurs well-versed in the city's unique historical layout.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Spiritual",
+      "Family",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "pb-001-golden-temple-darshan-spiritual-cultural-awakening-itinerary",
+    "title": "Golden Temple Darshan Spiritual Cultural Awakening",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Amritsar (Golden Temple • Wagah Border • Jallianwala Bagh)",
+    "overview": "GOLDEN TEMPLE DARSHAN • A SPIRITUAL & CULTURAL AWAKENING\n\nWelcome to a divine spiritual sanctuary curated exclusively by TRAGUIN. Embark on the most highly reviewed Punjab Family Tour, specifically engineered to guide you through the sacred spaces, patriotic landmarks, and culinary marvels of Amritsar. As your dedicated luxury travel consultants, TRAGUIN delivers a beautifully emotional, guest-facing experience complete with premium stays, VIP access parameters, and exquisite comfort. Allow the golden radiance of the Sri Harmandir Sahib and the legendary hospitality of Punjab to weave unforgettable memories for your family.\n\nTOUR OVERVIEW\nThis custom-designed luxury holiday package is curated specifically for families, couples, and seniors seeking a deeply meaningful and premium Punjab sightseeing experience. Traveling in the climate-controlled opulence of a private chauffeur-driven luxury vehicle, you will navigate the rich lanes of Amritsar with effortless grace. Featuring a highly selective meal plan that covers lavish breakfasts at your resort and specialized culinary journeys across legacy kitchens, this itinerary balances soulful meditation with vibrant patriotism. Every element includes the signature TRAGUIN curated experience note, ensuring priority assistance and flawless execution.\n\nWHY CHOOSE THE BEST PUNJAB TOUR PACKAGE?\nWhen exploring a Luxury Punjab Holiday, travelers seek a balanced harmony of absolute spiritual devotion, monumental history, and indulgent comforts. Amritsar stands proudly as the cultural heartland of the state, making a Punjab Honeymoon Package or spiritual family retreat an incredible life choice. From the breathtaking landscapes of lush mustard fields along the highway to iconic attractions like the divine Golden Temple—the absolute pinnacle of top tourist places in Punjab—this destination touches the soul. For travelers wishing to document their journey, Punjab presents highly popular Instagram locations such as the heritage streets of Amritsar, Sadda Pind cultural village, and the vibrant patriotic energy of the Wagah Border ceremony. Whether you are aiming for authentic boutique shopping of Phulkari textiles, desiring to experience the profound communal kitchen of Langar, or determining the best time to visit Punjab for regional festivals, our bespoke TRAGUIN Punjab Packages provide premium handpicked hotels and exclusive experiences that make your trip perfectly seamless.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PB-001 | Golden Temple Darshan Spiritual Cultural Awakening | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Punjab package (PB-001 / TRG-PUN-001): Amritsar (Golden Temple • Wagah Border • Jallianwala Bagh) with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AMRITSAR & NIGHT TOUR — WELCOME TO THE HOLY CITY – THE GLOW OF SPIRITUAL MAJESTY",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HOLY DARSHAN, JALLIANWALA BAGH & WAGAH BORDER — SACRED SERENITY TO VIBRANT PATRIOTIC THRILLS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HERITAGE SHOPPING & DEPARTURE — CHERISHING THE SPIRIT OF PUNJABI HOSPITALITY",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Special coordination for senior citizens or families during the crowded evening Palki Sahib ceremony.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Perfect time management for the Wagah Border departure to secure excellent seating views.",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations chosen strictly based on world-class hospitality, central locations, and premium culinary standards.",
+        "sort_order": 6
+      },
+      {
+        "text": "Luxury Transportation: Polite, professional local chauffeurs well-versed in the city's unique historical layout.",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AMRITSAR & NIGHT TOUR — WELCOME TO THE HOLY CITY – THE GLOW OF SPIRITUAL MAJESTY",
+        "description": "Your premium Punjab experience commences as you step out at Amritsar Airport or Railway Station. Your private luxury transportation vehicle awaits to transport you into the heart of this historic city. Check into your handpicked premium hotel and unwind. As evening descends, experience your first magical encounter with the Sri Harmandir Sahib. Witness the breathtaking Palki Sahib Ceremony, where the holy Sri Guru Granth Sahib is carried in a golden palanquin amidst soul-stirring hymns. The golden reflection on the Amrit Sarovar creates an exceptional photography point and a deeply emotional memory.",
+        "activities": [
+          "Sightseeing Included: Golden Temple Night Darshan, Palki Sahib Ceremony attendance.",
+          "Evening Experience: Walk along the beautiful Heritage Plaza; treat yourself to hot Amritsari Jalebis.",
+          "Overnight Stay: Amritsar (Premium Handpicked Luxury Hotel)",
+          "Meals Included: Welcome Drink & Gourmet Dinner at the Resort"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HOLY DARSHAN, JALLIANWALA BAGH & WAGAH BORDER — SACRED SERENITY TO VIBRANT PATRIOTIC THRILLS",
+        "description": "Begin your morning with a peaceful, soul-enriching Holy Darshan inside the Golden Temple during the serene early hours. Take part in the immersive experiences of community service (Sewa) at the Langar, the world's largest community kitchen. Next, take a short stroll to Jallianwala Bagh, a deeply moving memorial site holding an unforgettable place in India's independence movement. In the afternoon, embark on a scenic drive to the Wagah Border. Watch the legendary Beating Retreat Ceremony, where the synchronized military drill raises patriotic spirits to an unmatched high.",
+        "activities": [
+          "Sightseeing Included: Day Darshan at Golden Temple, Jallianwala Bagh Martyr's Well, Wagah Border Indo-Pak Post.",
+          "Optional Activities: Bespoke evening tour of Sadda Pind to witness traditional Punjabi folk dances and rural life.",
+          "Overnight Stay: Amritsar (Premium Handpicked Luxury Hotel)",
+          "Meals Included: Premium Breakfast & Traditional Amritsari Special Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HERITAGE SHOPPING & DEPARTURE — CHERISHING THE SPIRIT OF PUNJABI HOSPITALITY",
+        "description": "Indulge in a final lavish breakfast at your premium stay. Before concluding your tour, your private vehicle will guide you to local heritage markets including Katra Jaimal Singh and Hall Bazaar. Enjoy an upscale local shopping spree, gathering authentic souvenirs to take back home. Conclude your trip with a legendary traditional lunch featuring world-famous Amritsari Kulcha baked in traditional clay ovens. Afterward, receive a private luxury drop-off at the airport or railway station, concluding a spectacular journey filled with memories beyond destinations designed beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door transit to departure terminal.",
+          "Meals Included: Sumptuous Buffet Breakfast & Authentic Kulcha Lunch Experience"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Regenta Central / Fairfield by Marriott / similar",
+        "location": "Amritsar",
+        "nights_label": "2N Amritsar",
+        "description": "OPTION 01 – DELUXE: Regenta Central / Fairfield by Marriott / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu / Courtyard by Marriott / similar",
+        "location": "Amritsar",
+        "nights_label": "2N Amritsar",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu / Courtyard by Marriott / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Club Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Amritsar / Taj Swarna",
+        "location": "Amritsar",
+        "nights_label": "2N Amritsar",
+        "description": "OPTION 03 – LUXURY: Hyatt Regency Amritsar / Taj Swarna | MAPAI + VIP Welcome Kit",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Garden/Pool View Room",
+        "meal_plan": "MAPAI + VIP Welcome Kit",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Swarna (Luxury Executive Suite Lounge Access)",
+        "location": "Amritsar",
+        "nights_label": "2N Amritsar",
+        "description": "OPTION 04 – ULTRA LUXURY: Taj Swarna (Luxury Executive Suite Lounge Access) | Bespoke Signature Dine Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Heritage Suite",
+        "meal_plan": "Bespoke Signature Dine Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 02 Nights accommodation in selected high-end properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: All transfers & sightseeing in a private AC Innova Crysta.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily buffet breakfasts and dinners at your hotel.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest experience executive assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing traditional sweets, mineral water, and a destination guide pack.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Special traditional Amritsari Kulcha tasting meal on Day 3.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight bookings, or mainline train fares to Amritsar.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any local guide fees, monument camera permits, or donation offerings.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry service, international phone charges, or tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional cultural village excursions (Sadda Pind entry tickets).",
+        "sort_order": 10
+      }
+    ]
+  }
+}

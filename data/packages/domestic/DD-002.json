@@ -1,0 +1,281 @@
+{
+  "destination_slug": "daman-and-diu",
+  "package": {
+    "slug": "dd-002-romantic-diu-honeymoon",
+    "serial_code": "DD-002",
+    "traguin_tour_code": "TRG-DIU-002",
+    "title": "Romantic Diu Honeymoon",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DD-002 | TRAGUIN tour code TRG-DIU-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Daman and Diu / India | Category: Premium Honeymoon Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Romantic Diu • Daman Coastal Getaway",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Honeymooners & Luxury Beach Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Sea Breezes)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Luxury Honeymoon Edition)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Sedan / CP & Specially Curated Dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Diu Arrival → Jallandhar Beach → Diu Fort & Naida Caves → Nagoa Beach & Sunset Cruise → Daman Heritage → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private beachside floral setup and reserved evening seating overlooking the sea.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom pacing designed specifically for honeymooners to avoid rushed early mornings.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Sea-shell handicrafts, bamboo mats, ivory artifacts, premium cashew nuts; lobster, garlic prawns, and bebinca at coastal lounges.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Book 45 days ahead in peak season; valid photo IDs and marriage certificates if required; October to March ideal for beach activities.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Beach",
+      "Luxury",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "dd-002-romantic-diu-honeymoon-itinerary",
+    "title": "Romantic Diu Honeymoon",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Honeymoon Edition)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Romantic Diu Honeymoon • Sun, Sea & Portuguese Splendour",
+    "overview": "Welcome to an enchanting world of coastal romance curated exclusively by TRAGUIN. Escape into the timeless, golden shores of our custom-crafted Daman & Diu Honeymoon Package, specifically designed for couples who seek a mixture of historical grandeur, serene luxury, and private beachside bliss. As your premier travel consultants, TRAGUIN transforms your romantic getaway into a seamless premium Daman & Diu experience. Let the soft whispers of the Arabian Sea, the majestic silhouette of Portuguese fortresses, and handpicked premium hotels carve unforgettable memories into your new life together.\n\nTOUR OVERVIEW\nThis ultra-exclusive 04 Nights / 05 Days romantic escape offers an exquisite balance of relaxation and exploration across the iconic attractions of Daman & Diu. Travel in absolute comfort with a dedicated private chauffeured vehicle, fully customized to ensure continuous privacy and flexibility. Your tailored meal plan features lazy breakfasts overlooking the sea and romantic candlelit dinners arranged at premier seaside spots. Every element of this route includes exclusive experiences, from private sunset cruises to heritage walks guided by handpicked storytelling experts, delivering the ultimate luxury Daman & Diu holiday.\n\nWHY CHOOSE THE BEST DAMAN & DIU HONEYMOON PACKAGE?\nWhen planning a Luxury Daman & Diu Holiday, couples look for a tranquil, sophisticated alternative to crowded coastlines. Diu delivers an exquisite blend of Mediterranean charm, breathtaking landscapes, and pristine, golden-sand beaches. From the massive, historic ramparts of the Diu Fort to the unique cave architecture of Naida Caves—one of the most popular Instagram locations in India—every corner tells a romantic story of a vibrant Portuguese past. Our highly acclaimed Best Daman & Diu Tour Package provides seamless access to the top tourist places in Daman & Diu. Relax along the scalloped sands of Nagoa Beach, dive into thrilling water sports, or walk hand-in-hand along the sunset paths of Jallandhar Beach. With TRAGUIN Daman & Diu Packages, enjoy handpicked luxury stays, tailored heritage trails, and premium coastal lifestyle curation.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DD-002 | Romantic Diu Honeymoon Premium Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Daman & Diu honeymoon (DD-002 / TRG-DIU-002): Diu Fort, Naida Caves, Nagoa Beach, private sunset cruise, Daman heritage, and 4-tier accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Jallandhar Beach, St. Thomas Church Museum & sunset point on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Diu Fort, Naida Caves, St. Paul's Church & Panikotha viewpoint on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Nagoa Beach, Hoka Palm groves & private sunset boat cruise on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Moti Daman Fort, Fort St. Jerome & Devka Beach on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private beachside floral setup with reserved evening sea-view seating",
+        "sort_order": 5
+      },
+      {
+        "text": "Honeymoon Special: Welcome cake, floral bedroom decor, and non-alcoholic wine",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Romantic Diu | Coastal Welcome, Seaside Luxury & Jallandhar Sunset",
+        "description": "Your premium Daman & Diu experience begins as you land at Diu Airport or arrive via your private transfer from Rajkot/Veraval. Your dedicated private luxury transport will safely escort you to your handpicked premium beachfront resort. Receive a traditional welcome and check into your executive sea-view suite. In the late afternoon, step out to explore the serene Jallandhar Beach and visit the elegant Diu Museum. Bask in your first romantic sunset over the cliffs, accompanied by premium mocktails and fresh sea breezes.",
+        "activities": [
+          "Sightseeing Included: Jallandhar Beach Promenade, St. Thomas Church Museum, Sunset Point.",
+          "Evening Experience: Private beachside setup with fresh orchids and curated refreshments by TRAGUIN.",
+          "Overnight Stay: Diu (Premium / Luxury Beach Resort).",
+          "Meals Included: Welcome Amenities & Intimate Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Diu Fortress & Naida Caves Exploration | Portuguese Heritage, Mystical Caves & Inspired Photography",
+        "description": "Awake to the beautiful sound of waves and indulge in a lavish breakfast. Today, immerse yourself in the rich colonial heritage of Diu. Visit the monumental Diu Fort, a 16th-century Portuguese masterpiece boasting majestic stone walls, old iron cannons, and panoramic views of the ocean. Afterwards, explore the breathtaking landscapes of Naida Caves, a sun-drenched labyrinth of natural rock formations and a highly sought-after Instagram location. Spend your afternoon wandering through the tranquil streets of the old town, discovering quaint cafes and beautiful pastel-colored houses.",
+        "activities": [
+          "Sightseeing Included: Diu Fort, Naida Caves, St. Paul's Church, Panikotha (Fortim do Mar) viewpoint.",
+          "Optional Activities: A professional couple's photography session inside the historic Naida Caves.",
+          "Overnight Stay: Diu (Premium Beachfront Property).",
+          "Meals Included: Premium Breakfast & Authentic Indo-Portuguese Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Nagoa Beach and Thrilling Watersports | Golden Sands, Hoka Palms & Private Sunset Cruise",
+        "description": "Dedicate your morning to Nagoa Beach, famed for its distinct horseshoe shape and rare, beautiful African Hoka Palm trees. Take a dip in the calm, crystalline waters or opt for exciting activities like parasailing and jet-skiing. In the afternoon, return to your resort for a relaxing luxury spa session. As evening falls, step aboard an exclusive private boat cruise arranged by TRAGUIN, raising a toast to your love under a magnificent golden sky.",
+        "activities": [
+          "Sightseeing Included: Nagoa Beach, Hoka Palm groves, Shell Museum.",
+          "Evening Experience: Private sunset boat cruise with customized gourmet appetizers.",
+          "Overnight Stay: Diu (Luxury Resort Suite).",
+          "Meals Included: Breakfast & Romantic Candlelit Seafood Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Daman Coastal Balcony & Heritage Walk | Fort St. Jerome, Devka Beach & Casual Romance",
+        "description": "After breakfast, take a scenic drive or short flight connect to Daman, the sister district overflowing with coastal charm. Explore Moti Daman Fort and the historical Fort St. Jerome, featuring a beautiful gateway facing the river. Walk through the beautifully manicured gardens of Devka Beach and explore local markets. Spend the evening in a luxury beach lounge, reflecting on your unforgettable moments and enjoying the tranquil ocean waves.",
+        "activities": [
+          "Sightseeing Included: Moti Daman Fort, Fort St. Jerome, Devka Beach, Church of Bom Jesus.",
+          "Evening Experience: Gourmet dinner at a top-rated premium sea-lounge.",
+          "Overnight Stay: Daman / Diu Elite Resort Property.",
+          "Meals Included: Breakfast & Luxury Farewell Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure with Forever Memories | Farewell to the Sun-Kissed Shores",
+        "description": "Savor a lazy, late-morning breakfast overlooking the ocean. Pack your bags with handwoven souvenirs, local artifacts, and wonderful photographs. Your private luxury sedan will provide a comfortable transfer to the airport or station for your journey home. Return carrying a deep love and unforgettable memories meticulously shaped by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private door-to-door luxury airport drop-off.",
+          "Meals Included: Lavish Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Premium Inn / similar | The Gold Beach Resort (Deluxe)",
+        "location": "Diu (3 Nights) / Daman (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "CP Plan (Breakfast Included)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Kostamar Beach Resort (Premium) | Silver Sands Beach Resort",
+        "location": "Diu (3 Nights) / Daman (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Sea View Room",
+        "meal_plan": "MAPAI (Breakfast & Gourmet Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Resort Diu (Superior) | The Deltin Daman (Luxury Suite)",
+        "location": "Diu (3 Nights) / Daman (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior / Luxury Suite",
+        "meal_plan": "TRAGUIN Honeymoon Inclusion Special",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Seaside Resort (Ocean Suite) | The Deltin (Presidential Edition)",
+        "location": "Diu (3 Nights) / Daman (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ocean Suite / Presidential Edition",
+        "meal_plan": "VVIP Custom Luxury Inclusions",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Curated sea-facing suites as per chosen tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury sedan for seamless transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Curation: Daily multi-cuisine breakfast and custom romantic dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest relationship manager.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Honeymoon Special: Welcome cake, floral bedroom decor, and non-alcoholic wine.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Exclusive private sunset boat cruise tickets in Diu.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train tickets, or interstate flight connection costs.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance fees, camera permissions, or local activity tickets.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, premium beverages, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any water sports, scuba-diving, or parasailing fees at Nagoa Beach.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

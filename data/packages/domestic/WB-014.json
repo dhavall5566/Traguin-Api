@@ -1,0 +1,247 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-014-gangasagar-divine-spiritual-tour",
+    "serial_code": "WB-014",
+    "traguin_tour_code": "TR-WB-014-PREMIUM",
+    "title": "Gangasagar Divine Spiritual Tour",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-014 | TRAGUIN tour code TR-WB-014-PREMIUM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal / India | Category: Pilgrimage & Heritage",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kolkata • Gangasagar • Kolkata",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Seniors, Families & Spiritual Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, priority entry arrangements for senior citizens at major temples.",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless transit transitions perfectly paced for senior comfort.",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties chosen specifically for wheelchair access and high-end hospitality.",
+        "sort_order": 8
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 12:00 noon. Gangasagar transit relies on ferry timings and tidal conditions.",
+        "sort_order": 9
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Heritage",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-014-gangasagar-divine-spiritual-tour-itinerary",
+    "title": "Gangasagar Divine Spiritual Tour",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Gangasagar Divine Spiritual Tour • 02 Nights / 03 Days",
+    "overview": "Welcome to an extraordinary spiritual odyssey curated meticulously by TRAGUIN. Embark on the highly revered Best West Bengal Tour Package, designed specifically to blend sacred traditions with an unparalleled level of premium comfort. This exclusive West Bengal Family Tour takes you deep into the heart of India's spiritual heritage, guiding you effortlessly to the sacred confluence where the holy River Ganges meets the majestic Bay of Bengal.\n\nTOUR OVERVIEW\nThis meticulously structured Luxury West Bengal Holiday features seamless, end-to-end luxury private transfers via air-conditioned premium vehicles, exceptionally comfortable stays at handpicked hotels, and curated culinary experiences. Our custom route guarantees a relaxed pace ideal for a timeless pilgrimage, complete with a dedicated TRAGUIN companion to ensure flawless assistance throughout your divine journey.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-014 | Gangasagar Divine Spiritual Tour | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days West Bengal package (WB-014 / TR-WB-014-PREMIUM): Kalighat Temple, Gangasagar holy dip, Victoria Memorial, and 4-tier Kolkata hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Kalighat Temple private evening darshan and Vidyasagar Setu heritage drive",
+        "sort_order": 1
+      },
+      {
+        "text": "Exclusive speed-boat transit to Gangasagar with holy dip at sacred confluence and Kapil Muni Ashram",
+        "sort_order": 2
+      },
+      {
+        "text": "Victoria Memorial, Mother House, and iconic Howrah Bridge photo-op",
+        "sort_order": 3
+      },
+      {
+        "text": "Traditional mishti dahi, rosogollas, and premium Bengali lunch suggestions",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier premium Kolkata accommodation (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOLKATA ARRIVAL — WELCOME TO THE CITY OF JOY & SPIRITUAL AWAKENING",
+        "description": "Your magnificent journey commences with a warm welcome at Kolkata Airport or Railway Station, where a dedicated TRAGUIN luxury representative awaits you. Step into your premium private vehicle and transfer effortlessly to your luxury handpicked hotel. After a seamless check-in, enjoy a relaxed afternoon soaking in the cultural charm of Kolkata. In the evening, immerse yourself in a soulful visit to the iconic Kalighat Temple for a private, hassle-free evening darshan.",
+        "activities": [
+          "Sightseeing Included: Kalighat Temple Darshan, Vidyasagar Setu, Heritage Drive.",
+          "Evening Experience: Private Aarti viewing and traditional Bengali welcome dinner.",
+          "Overnight Stay: Kolkata (Premium Luxury Property).",
+          "Meals Included: Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KOLKATA TO GANGASAGAR EXCURSION — THE SACRED CONFLUENCE",
+        "description": "Awake early for the ultimate spiritual highlight of your Luxury West Bengal Holiday. Enjoy a nutritious, early breakfast before departing in premium comfort toward Lot No. 8. From here, experience an exclusive speed-boat transit across the Muriganga River to Kachuberia, where a private vehicle takes you directly to the sacred Kapil Muni Ashram. Participate in immersive experiences, take a holy dip at the tranquil confluence, and enjoy a peaceful afternoon absorbed in unforgettable memories of devotion.",
+        "activities": [
+          "Sightseeing Included: Holy Confluence, Kapil Muni Ashram, Kachuberia, Sagar Island.",
+          "Optional Activities: Personalized Vedic rituals and customized family prayers arranged upon request.",
+          "Evening Experience: Relaxing premium transit back with curated onboard refreshments.",
+          "Overnight Stay: Kolkata (Premium Luxury Property).",
+          "Meals Included: Breakfast, Lunch, Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KOLKATA SIGHTSEEING & DEPARTURE — COLONIAL HERITAGE & FAREWELL",
+        "description": "Savor a luxurious buffet breakfast at your hotel before embarking on a brief, curated tour of Kolkata's most magnificent landmarks. Marvel at the breathtaking landscapes surrounding the iconic Victoria Memorial, and pay your respects at the serene Mother House. Indulge in some fine boutique shopping at local markets for exclusive traditional sarees and handpicked authentic souvenirs. Conclude your tour with exceptional memories as TRAGUIN ensures a smooth, timely transfer to the airport or railway station.",
+        "activities": [
+          "Sightseeing Included: Victoria Memorial, Mother House, Iconic Howrah Bridge Photo-op.",
+          "Food Suggestions: Traditional mishti dahi, rosogollas, and premium standard Bengali lunch.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Peerless Inn / Pride Plaza Hotel",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: The Peerless Inn / Pride Plaza Hotel (Kolkata, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Room",
+        "meal_plan": "CP (Breakfast Only)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Hotel & Residences / ITC Fortune",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Hotel & Residences / ITC Fortune (Kolkata, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Grand / Taj Bengal",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: The Oberoi Grand / Taj Bengal (Kolkata, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Room",
+        "meal_plan": "Luxury Meal Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Sonar / ITC Royal Bengal",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: ITC Sonar / ITC Royal Bengal (Kolkata, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite with Butler Service",
+        "meal_plan": "All Inclusive Curated Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium accommodation at handpicked properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast and curated specialty dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury AC transportation for all sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive private speed boat tickets to Gangasagar.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 TRAGUIN local guest assistance.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "All applicable government taxes and parking fees.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to/from Kolkata.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets and camera fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, tips, and drinks.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional traditional ritual or pooja charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any mandatory holiday or festival peak surcharges.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

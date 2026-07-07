@@ -1,0 +1,292 @@
+{
+  "destination_slug": "kashmir",
+  "package": {
+    "slug": "jk-002-srinagar-gulmarg-premium-family",
+    "serial_code": "JK-002",
+    "traguin_tour_code": "TRG-KASH-002",
+    "title": "Srinagar • Gulmarg Premium Family Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JK-002 | TRAGUIN tour code TRG-KASH-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Jammu & Kashmir / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Srinagar • Gulmarg • Dal Lake Houseboat",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Luxury Explorers & Couples",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: April to October (Lush Green) / December to March (Snowfall)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and artisan paper-mâché craft demonstration.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing to avoid peak tourist congestion, maximizing your",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected strictly based on premium safety standards and",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: VIP access parameters to select lakeside evening dining spaces.",
+        "sort_order": 11
+      },
+      {
+        "text": "Traditional Souvenirs: Bring home beautiful, authentic hand-knotted Pashmina shawls, walnut wood carvings, and delicate papier-mâché artifacts from local Srinagar markets. Kashmir is also world-famous for its organic saffron, walnuts, and almonds. Gourmet & Cafes: Indulge your palate in rich traditional Kahwa tea, authentic multiple-course Wazwan feasts, and international artisanal pastries across Srinagar’s modern upscale lakeside cafes.",
+        "sort_order": 12
+      },
+      {
+        "text": "& TRAVEL INFORMATION",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "jk-002-srinagar-gulmarg-premium-family-itinerary",
+    "title": "Srinagar • Gulmarg Premium Family Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Srinagar",
+    "overview": "SRINAGAR • GULMARG PREMIUM FAMILY TOUR Welcome to paradise on earth, presented to you through an exquisite journey curated exclusively by TRAGUIN. Embark on the finest Kashmir Family Tour designed to reveal the breathtaking landscapes, misty pine valleys, and grand historic legacies of this magical region. As your premier travel consultants, TRAGUIN transforms your vacation into a seamless luxury holiday filled with handpicked hotels, iconic attractions, and deeply moving local stories. From the peaceful, floating world of a luxury Dal Lake houseboat in Srinagar to the dramatic alpine snow ridges of Gulmarg, every detail is engineered to create unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers an exquisite balance between peaceful floating lakes, Mughal-era architectural heritage, and alpine mountain thrill. Travelling in a dedicated premium AC vehicle with professional chauffeur-driven assistance, your family will enjoy absolute comfort and privacy. With a carefully curated meal plan featuring lavish breakfasts and traditional multi-cuisine dinners, this route represents the definitive premium Kashmir experience. Every step of your journey includes the signature touch of TRAGUIN curated experiences, ensuring VIP entry privileges, local storytelling insight, and around-the- clock bespoke support.\n\nWHY CHOOSE THE BEST KASHMIR TOUR PACKAGE?\nWhen considering a Luxury Kashmir Holiday, discerning travellers seek more than just standard sightseeing; they seek a deeply immersive dive into culture, heritage, and contemporary comfort. Kashmir boasts some of the most iconic attractions in Northern India. From the internationally acclaimed Mughal Gardens—a top tourist place in Kashmir for heritage walks and photography—to the legendary snow fields and Gondola rides of Gulmarg, the region offers unparalleled depth. For families and couples booking a bespoke Kashmir Honeymoon Package or Kashmir Family Tour, the state reveals highly popular Instagram locations like the Shikara-filled lakes, the classic old architecture, and the stunning mountain backdrops. Whether you are looking for local pashmina shopping, indulging in traditional Wazwan culinary delights, or seeking spiritual peace, our TRAGUIN Kashmir Packages guarantee premium comfort, handpicked luxury stays, and curated exclusive experiences that make it the best time to visit Kashmir.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JK-002 | Srinagar | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kashmir package (JK-002 / TRG-KASH-002): Srinagar • Gulmarg • Dal Lake Houseboat with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SRINAGAR & MUGHAL SIGHTSEEING",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SRINAGAR TO GULMARG EXCURSION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: GULMARG TO SRINAGAR RETREAT",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SRINAGAR LUXURY HOUSEBOAT EXPERIENCE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE FROM SRINAGAR",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and artisan paper-mâché craft demonstration.",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing to avoid peak tourist congestion, maximizing your",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected strictly based on premium safety standards and",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SRINAGAR & MUGHAL SIGHTSEEING",
+        "description": "WELCOME TO THE SUMMER CAPITAL – GEMS OF MUGHAL ARCHITECTURE Your premium Kashmir experience begins as you arrive at Srinagar Airport, where a dedicated private luxury transport vehicle waits to escort you. Check into your handpicked premium luxury hotel. After a refreshing afternoon, step out for an exclusive evening experience exploring the world-famous Shalimar Bagh and Nishat Bagh. These centuries-old terraced royal gardens boast majestic chinar trees and pristine fountains that create breathtaking landscapes perfect for family photography.",
+        "activities": [
+          "Sightseeing Included: Nishat Bagh (Garden of Pleasure), Shalimar Bagh (Abode of Love), Cheshma Shahi.",
+          "Evening Experience: Gourmet dinner at an upscale traditional restaurant curated by TRAGUIN experts.",
+          "Overnight Stay: Srinagar (Premium / Luxury Hotel)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SRINAGAR TO GULMARG EXCURSION",
+        "description": "MEADOW OF FLOWERS – HIGHEST CABLE CAR & ALPINE GLORY Awake early for a refreshing, crisp morning drive to Gulmarg, one of the top tourist places in Kashmir for alpine beauty. This pristine destination offers breathtaking landscapes and serves as a haven for snow sports and nature lovers. Board the world's second-highest operating cable car, the famous Gulmarg Gondola (Phase 1 & 2 included), taking you up into the clouds of Apharwat Peak. Enjoy spectacular panoramic mountain views and superb photography points.",
+        "activities": [
+          "Sightseeing Included: Gulmarg Gondola Ride, Strawberry Valley view, St. Mary’s Church, Golf Course.",
+          "Optional Activities: Snow skiing or ATV riding across the pristine mountain slopes.",
+          "Overnight Stay: Gulmarg (Premium Luxury Valley View Resort)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "GULMARG TO SRINAGAR RETREAT",
+        "description": "OLD TOWN LEGACY & ICONIC SHANKARACHARYA VIEWPOINTS Depart after a sumptuous breakfast back towards Srinagar. Revisit the city to scale the majestic Shankaracharya Temple hill, offering a breathtaking bird's-eye view of the entire valley and lake system. Spend your afternoon at leisure exploring local craft boutiques or enjoying the serene manicured gardens of the city. In the evening, unwind with a specialized luxury spa session back at your premium property.",
+        "activities": [
+          "Sightseeing Included: Shankaracharya Temple, Old City heritage walk, local saffron gardens.",
+          "Evening Experience: Private family interaction and local Kashmiri tea (Kahwa) briefing.",
+          "Overnight Stay: Srinagar (Premium Luxury Hotel)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SRINAGAR LUXURY HOUSEBOAT EXPERIENCE",
+        "description": "FLOATING PALACES & THE ROMANTIC SHIKARA CRUISE Today brings a true highlight of your luxury Kashmir holiday. Transfer to a beautifully hand-carved, ultra- premium luxury houseboat permanently anchored on Dal Lake. In the afternoon, embark on an immersive experiences private Shikara cruise, passing through the floating vegetable markets and historic wooden bridges. Witness a pristine sunset over the water—a highly popular Instagram location perfect for your family portraiture.",
+        "activities": [
+          "Sightseeing Included: Dal Lake, Floating Gardens, Nehru Park, Char Chinar island.",
+          "Evening Experience: Traditional Wazwan dinner served on board your premium luxury houseboat.",
+          "Overnight Stay: Srinagar (Premium Royal Houseboat)",
+          "Meals Included: Breakfast & Authentic Kashmiri Houseboat Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE FROM SRINAGAR",
+        "description": "CHERISHING UNFORGETTABLE MEMORIES BEYOND DESTINATIONS Indulge in a final lavish breakfast on the wooden deck of your houseboat. Your private luxury transport will safely drive you back to Srinagar International Airport for your onward journey. Return home carrying a heart filled with sweet family bonds and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door airport transfer drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Rose Petal / similar | Hotel Green Heights / similar | Deluxe Wooden Houseboat",
+        "location": "Srinagar | Gulmarg | Dal Lake Houseboat",
+        "nights_label": "2N Srinagar|1N Gulmarg|1N Houseboat",
+        "description": "OPTION 01 – DELUXE: Hotel Rose Petal / similar | Hotel Green Heights / similar | Deluxe Wooden Houseboat | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Fortune Resort Heevan / similar | The Vintage Gulmarg / similar | Premium Group of Houseboats",
+        "location": "Srinagar | Gulmarg | Dal Lake Houseboat",
+        "nights_label": "2N Srinagar|1N Gulmarg|1N Houseboat",
+        "description": "OPTION 02 – PREMIUM: Fortune Resort Heevan / similar | The Vintage Gulmarg / similar | Premium Group of Houseboats | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Dal View / Radisson Blu | The Khyber Himalayan Resort | Luxury Royal Palace Houseboat",
+        "location": "Srinagar | Gulmarg | Dal Lake Houseboat",
+        "nights_label": "2N Srinagar|1N Gulmarg|1N Houseboat",
+        "description": "OPTION 03 – LUXURY: Vivanta Dal View / Radisson Blu | The Khyber Himalayan Resort | Luxury Royal Palace Houseboat | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Grand Palace (Suite) | The Khyber (Luxury Suite) | Exclusive Ultra-Luxury Private Houseboat",
+        "location": "Srinagar | Gulmarg | Dal Lake Houseboat",
+        "nights_label": "2N Srinagar|1N Gulmarg|1N Houseboat",
+        "description": "OPTION 04 – ULTRA LUXURY: The Lalit Grand Palace (Suite) | The Khyber (Luxury Suite) | Exclusive Ultra-Luxury Private Houseboat | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked hotels as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all transfers & sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfast and gourmet dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family travel kit and refreshments upon arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private 1-Hour Shikara ride ticket on Dal Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to and from Srinagar.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and local guide charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, liquor, telephone calls, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Gondola ride tickets (unless specified extra in custom add-ons).",
+        "sort_order": 10
+      }
+    ]
+  }
+}

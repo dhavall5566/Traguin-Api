@@ -1,0 +1,296 @@
+{
+  "destination_slug": "ladakh",
+  "package": {
+    "slug": "la-007-senior-citizen-leisure-leh-vacation",
+    "serial_code": "LA-007",
+    "traguin_tour_code": "TRAGUIN-LA-007",
+    "title": "Senior Citizen Leisure Leh Vacation",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LA-007 | TRAGUIN tour code TRAGUIN-LA-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Ladakh, India | Category: Senior Citizen Leisure Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Leh • Sham Valley • Indus Valley • Nimmu Confluence",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens, Mature Travelers, Relaxed Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: May to September",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Senior-Friendly Leisure FIT Tour (Leh Base)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private luxury AC Innova/Crysta with customized soft suspension",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Light, nutritious, non-spicy multi-cuisine dishes daily",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Leh Arrival → Hall of Fame & Spituk → Sham Valley & Sangam → Indus Valley Heritage → Leh Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Daily health monitoring check-ins, medical oxygen backups, slower transit speeds, and verified ground-floor room assignments",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Leh Main Bazar — cloud-soft pashmina shawls, sweet organic dried apricots, traditional wooden prayer wheels, healing local herbal tea leaves",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Complete rest on Day 1 mandatory; drink plenty of warm water throughout; daily timings completely flexible to senior guests' rest preferences",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Senior Citizens",
+      "Leisure",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "la-007-senior-citizen-leisure-leh-vacation-itinerary",
+    "title": "Senior Citizen Leisure Leh Vacation",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Senior Citizen Leisure Leh Vacation • 05 Nights / 06 Days",
+    "overview": "Welcome to a peaceful, soul-stirring Himalayan retreat meticulously structured by TRAGUIN. Ladakh, renowned for its breathtaking landscapes, pristine fresh air, and deep spiritual heritage, is an extraordinary destination when explored at an unhurried, graceful pace. Designed specifically as a senior citizen family tour, this luxury Ladakh holiday replaces frantic travel loops with pure relaxation, curated experiences, and top-tier comfort. Stay in premium handpicked hotels, explore iconic attractions with step-free assistance, and cultivate unforgettable memories across the spectacular scenic beauty of Leh. \n\nThis custom Premium Ladakh Experience prioritizes absolute guest safety, steady acclimatization, and zero-stress pacing. Your journey features a dedicated luxury vehicle with smooth suspension, expert local guides versed in elder assistance, a healthy personalized meal plan, and round-the-clock oxygen monitoring. Every detail is curated by TRAGUIN experts to provide flat walking pathways and seamless transitions, ensuring an enchanting vacation for senior travelers. \n\nWhy choose a Leisure Ladakh Family Tour? Leh and its surrounding valleys offer incredible cultural immersion without the high-altitude strain of rugged cross-country passes. Top tourist places in Ladakh, including the peaceful Spituk Monastery, Hall of Fame, and the gentle scenic banks of the Indus River, are perfectly accessible. These historical sanctuaries provide popular Instagram locations and deep spiritual tranquility, making the best time to visit Ladakh a fulfilling cultural journey for seasoned travelers who cherish heritage, photography points, and localized culinary delights. ",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LA-007 | Senior Citizen Leisure Leh Vacation | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days senior citizen Ladakh tour (LA-007 / TRAGUIN-LA-007): Sham Valley, Indus Valley, Nimmu Confluence, step-free sightseeing, and 4-tier Leh-only accommodation. ",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Assisted arrival with in-room medical wellness check and gentle orientation",
+        "sort_order": 1
+      },
+      {
+        "text": "Leisure sightseeing to Hall of Fame Museum and Spituk Monastery lower grounds",
+        "sort_order": 2
+      },
+      {
+        "text": "Sham Valley exploration with Magnetic Hill and Nimmu River Confluence (Sangam)",
+        "sort_order": 3
+      },
+      {
+        "text": "Indus Valley heritage tour with Thiksey Monastery lower court and Shey Palace",
+        "sort_order": 4
+      },
+      {
+        "text": "Souvenir gathering at Leh Main Bazar with TRAGUIN Farewell Dinner and folk sitar performance",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Assisted Arrival in Leh - Complete Acclimatization & Rest",
+        "description": "Step off your flight at Kushok Bakula Rimpochee Airport, Leh, where a dedicated TRAGUIN local coordinator will welcome you with a gentle silk scarf greet. Transfer via private luxury vehicle to your handpicked premium resort. Today is strictly reserved for complete rest and oxygen-level synchronization to guarantee total physical comfort. ",
+        "activities": [
+          "Sightseeing Included: Complete physical rest within your luxury room premises.",
+          "Evening Experience: In-room medical wellness check and a gentle orientation talk by our travel consultant.",
+          "Overnight Stay: The Grand Dragon / Stone Hedge Luxury Hotel, Leh (Premium Stay)",
+          "Meals Included: Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Leisure Sightseeing - Hall of Fame & Spituk Monastery",
+        "description": "Awake to spectacular mountain views and enjoy a warm, wholesome breakfast. Today features a very gentle sightseeing route through the smooth, flat-terraced tourist places in Ladakh, minimizing steps or steep inclines. ",
+        "activities": [
+          "Sightseeing Included: The historic Hall of Fame Museum (fully assisted) and the scenic lower grounds of Spituk Monastery.",
+          "Photography Points: Beautiful flat lookouts across the snow-capped Stok Kangri range.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Sham Valley Exploration - Confluence & Magnetic Hill",
+        "description": "Embark on a beautiful drive along the smooth, wide tarmac of the Srinagar-Leh highway. Relax as your luxury vehicle glides past breathtaking landscapes toward Nimmu, where the Indus and Zanskar rivers elegantly meet. ",
+        "activities": [
+          "Sightseeing Included: The mysterious Magnetic Hill phenomenon and the Nimmu River Confluence (Sangam).",
+          "Local Experiences: A quiet, peaceful hot lunch at a curated garden resort along the highway.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Indus Valley Heritage - Thiksey Monastery Lower Court & Shey Palace",
+        "description": "Discover the spiritual heart of Ladakh with a relaxed excursion along the Indus Valley. Visit the lower, step-free court spaces of Thiksey Monastery, marveling at its architectural grandeur resembling the Potala Palace of Tibet. ",
+        "activities": [
+          "Sightseeing Included: Shey Palace photography grounds, Thiksey Monastery lower complex, and Sindhu Ghat.",
+          "Optional Activities: A mild, flat stroll around the peaceful lotus ponds near Shey.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Souvenir Gathering, Royal Palace Cafe & Farewell Gala",
+        "description": "Spend a delightful day entirely at your own leisure. Take an effortless, slow-paced stroll through the clean, vehicle-free lanes of Leh Main Bazar, interacting with warm local artisans and gathering traditional tokens of your journey. ",
+        "activities": [
+          "Shopping & Cafes: High-tea at a premium local cafe serving fresh local sea-buckthorn fruit juices.",
+          "Evening Experience: A celebratory TRAGUIN Farewell Dinner accompanied by a gentle Ladakhi folk sitar performance.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Departure from Leh",
+        "description": "Enjoy your final breakfast surrounded by clear blue Himalayan skies. Your dedicated luxury vehicle provides a smooth transfer back to Leh Airport for your comfortable journey home, leaving you with unforgettable memories. ",
+        "activities": [
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Singge Palace",
+        "location": "Leh (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Singge Palace (Leh, 5 Nights) | Deluxe Premium Room (Elevator Access) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Premium Room (Elevator Access)",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Zen Ladakh",
+        "location": "Leh (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Hotel Zen Ladakh (Leh, 5 Nights) | Luxury Ground Floor Suite | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Ground Floor Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Dragon Ladakh",
+        "location": "Leh (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: The Grand Dragon Ladakh (Leh, 5 Nights) | Executive Mountain View Suite | Full Meals (All Included)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Mountain View Suite",
+        "meal_plan": "Full Meals (All Included)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Elite Mountain Residency",
+        "location": "Leh (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Elite Mountain Residency (Leh, 5 Nights) | Signature Imperial Royal Wing | Curated Wellness Dine-Around",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Signature Imperial Royal Wing",
+        "meal_plan": "Curated Wellness Dine-Around",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Handpicked Hotels: Senior-friendly luxury stays with continuous heating & elevators.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meals: Light, nutritious, non-spicy multi-cuisine dishes daily.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Premium Transfers: Private luxury AC Innova/Crysta with customized soft suspension.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Medical Kit: On-board oxygen cylinder systems inside the vehicle at all times.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "VIP Sightseeing: Seamless, step-free access permits for all iconic attractions.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local concierge assistance line.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare flight tickets to and from Leh Airport.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal tips, porterage, and laundry services.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry fees for cameras or specialized historical museums.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical insurance or emergency air evacuation protocols.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Anything not explicitly outlined in the active inclusions catalog.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

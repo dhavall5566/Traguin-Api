@@ -1,0 +1,297 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-001-family-adventure-discovery-raipur-sirpur-chitrakote-bastar",
+    "serial_code": "CG-001",
+    "traguin_tour_code": "TG-CG-DISCOVERY",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Family Adventure Discovery • Raipur • Sirpur • Chitrakote • Bastar",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-001 | TRAGUIN tour code TG-CG-DISCOVERY",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Family Adventure",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Raipur • Sirpur • Chitrakote • Bastar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Culture Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury AC SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Raipur (2N) ➔ Sirpur (1N) ➔ Chitrakote (1N) ➔ Bastar (1N) ➔ Raipur Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private scholar-guided heritage walks through Sirpur's Gupta-period archaeological marvels.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing and premium hotels emphasizing family comfort, safety, and cultural immersion.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Riverside viewpoints at Chitrakote Falls and authentic Bastar tribal market experiences.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Bastar arts, Dhokra metal craft, exotic tribal jewelry, and regional delicacies.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Conservative attire at temples; light woolens Nov–Feb; advance booking recommended during peak winter season.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Adventure",
+      "Culture",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-001-family-adventure-discovery-raipur-sirpur-chitrakote-bastar-itinerary",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Family Adventure Discovery • Raipur • Sirpur • Chitrakote • Bastar",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Family Adventure Discovery • Raipur • Sirpur • Chitrakote • Bastar • 05 Nights / 06 Days",
+    "overview": "Embark on an ethereal journey through Chhattisgarh, the hidden gem of India. Curated by TRAGUIN, this Luxury Chhattisgarh Holiday reveals breathtaking landscapes, from the 'Niagara of India' (Chitrakote Falls) to ancient architectural marvels. Experience a Premium Chhattisgarh Experience that promises unforgettable memories for your entire family.\n\nTOUR OVERVIEW\nDiscover Chhattisgarh's raw, scenic beauty. TRAGUIN ensures your family enjoys seamless private transfers and handpicked hotels throughout this Best Chhattisgarh Tour Package. From Raipur's vibrant capital culture to Sirpur's archaeological wonders, the thundering horseshoe of Chitrakote, and the tribal heartland of Bastar, every day unfolds with curated experiences, expert local guidance, and premium comfort.\n\nWHY CHOOSE THE BEST CHHATTISGARH DISCOVERY TOUR?\nWhen planning a Luxury Chhattisgarh Holiday, discerning travellers seek more than standard sightseeing; they seek transformative connections to heritage, nature, and tribal culture. Chhattisgarh features iconic attractions including the internationally acclaimed Chitrakote Falls, the Gupta-period Laxman Temple at Sirpur, and vibrant Bastar artisan markets. Whether shopping for authentic Dhokra metal craft, indulging in local delicacies, or witnessing dramatic waterfall landscapes, our TRAGUIN Chhattisgarh Packages guarantee premium comfort, handpicked luxury stays, and curated exclusive experiences during the best time to visit Chhattisgarh.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-001 | Family Adventure Raipur Sirpur Chitrakote Bastar | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Chhattisgarh family adventure (CG-001 / TG-CG-DISCOVERY): Raipur, Sirpur, Chitrakote Falls, Bastar tribal markets, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Raipur arrival and city cultural orientation on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Sirpur Laxman Temple and Gupta-period heritage walks on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Chitrakote Falls horseshoe waterfall and riverside stay on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Bastar tribal markets and ancient arts immersion on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Return to Raipur with local shopping on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Raipur departure on Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "RAIPUR — ARRIVAL | WELCOME TO THE EMERALD HEART OF CENTRAL INDIA",
+        "description": "Your premium Chhattisgarh family adventure begins as you arrive at Raipur Airport or Railway Station, where your dedicated TRAGUIN private chauffeur and tour assistant greet you with refreshing welcome amenities. Transfer in absolute comfort to your handpicked luxury hotel. After a smooth check-in, explore the city's vibrant culture with a gentle panoramic drive across Naya Raipur and an evening visit to Swami Vivekanand Sarovar (Budha Talab). Return for a curated welcome dinner introducing regional flavours.",
+        "activities": [
+          "Sightseeing Included: Naya Raipur panoramic drive, Swami Vivekanand Sarovar lake park.",
+          "Evening Experience: Welcome dinner with regional culinary introductions.",
+          "Overnight Stay: Raipur (Premium Luxury Hotel).",
+          "Meals Included: Welcome Refreshments & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RAIPUR TO SIRPUR | ARCHAEOLOGICAL WONDERS & GUPTA-PERIOD MASTERPIECES",
+        "description": "After a lavish breakfast, drive to Sirpur, an internationally renowned archaeological wonder on the banks of the Mahanadi River. Visit the magnificent Laxman Temple, a classic example of Gupta-period architecture with intricate brick carvings. TRAGUIN curated experiences include private guided heritage walks through the excavated Buddhist monasteries and Anand Prabhu Kudi Vihar. Check into your heritage property in Sirpur for an evening of cultural storytelling.",
+        "activities": [
+          "Sightseeing Included: Laxman Temple, Sirpur Archaeological Complex, Buddhist monastic ruins.",
+          "TRAGUIN Signature: Private scholar-guided heritage walk through Sirpur excavations.",
+          "Overnight Stay: Sirpur (Heritage Boutique Property).",
+          "Meals Included: Premium Breakfast & Traditional Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SIRPUR TO CHITRAKOTE | THE NIAGARA OF INDIA",
+        "description": "Travel south toward the stunning Chitrakote Falls, where the mighty Indravati River cascades in a breathtaking horseshoe shape spanning nearly 300 meters. Witness the scenic beauty and tranquility of India's widest waterfall from curated cliff-edge viewpoints. Enjoy an immersive experience with optional private boat perspectives at the base. Check into your premium riverside resort curated by TRAGUIN experts overlooking the thundering white waters.",
+        "activities": [
+          "Sightseeing Included: Chitrakote Horseshoe Falls, Indravati River viewpoints.",
+          "Evening Experience: Illuminated waterfall viewing from resort decks.",
+          "Overnight Stay: Chitrakote (Premium Riverside Eco-Resort).",
+          "Meals Included: Breakfast & Riverside Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CHITRAKOTE & BASTAR | TRIBAL HEARTLAND & ANCIENT ARTS",
+        "description": "Explore the cultural heart of Bastar. Visit local tribal markets and iconic attractions showcasing ancient Dhokra metal art, terracotta crafts, and forest honey trading traditions. Immersive experiences await in the heart of tribal India as your guide introduces Gond, Maria, and Bhatra community customs. Visit artisan workshops in Kondagaon and experience a vibrant local haat before settling into your Bastar heritage stay.",
+        "activities": [
+          "Sightseeing Included: Bastar tribal markets, Dhokra artisan workshops, Kondagaon craft village.",
+          "Evening Experience: Tribal folk storytelling and craft demonstration.",
+          "Overnight Stay: Bastar / Jagdalpur (Premium Heritage Hotel).",
+          "Meals Included: Breakfast & Authentic Bastar Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "BASTAR TO RAIPUR | RELAXATION & LOCAL SHOPPING",
+        "description": "Return to Raipur along scenic forest highways. Enjoy premium stays and relax at your handpicked luxury hotel. TRAGUIN offers exclusive recommendations for local shopping — authentic Bastar bell-metal, Tussar silk, and tribal jewelry. Spend your evening at leisure with optional spa treatments or a farewell dinner celebrating your family's discoveries.",
+        "activities": [
+          "Sightseeing Included: Scenic return drive, Raipur handicraft shopping districts.",
+          "Evening Experience: Farewell dinner and souvenir shopping guidance.",
+          "Overnight Stay: Raipur (Premium Luxury Hotel).",
+          "Meals Included: Breakfast & Farewell Special Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "RAIPUR — DEPARTURE | CHERISHING UNFORGETTABLE MEMORIES",
+        "description": "Indulge in a final lavish breakfast at your premium hotel. Your private luxury transport will safely escort you to Raipur Airport or Railway Station for your onward journey, carrying home unforgettable memories of your Luxury Chhattisgarh Holiday meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door departure transfer.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Babylon Inn / Hyatt Raipur | Mahanadi Heritage Lodge Sirpur | MPT Chitrakote Log Huts | MPT Naman Bastar Resort",
+        "location": "Raipur (2 Nights) / Sirpur (1 Night) / Chitrakote (1 Night) / Bastar (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Babylon Inn / Hyatt Raipur (Raipur, 2 Nights) | Mahanadi Heritage Lodge Sirpur (Sirpur, 1 Night) | MPT Chitrakote Log Huts (Chitrakote, 1 Night) | MPT Naman Bastar Resort (Bastar, 1 Night) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Courtyard by Marriott Raipur | Sirpur Archaeological Retreat | Chitrakote River View Huts | Asansol Heritage Resort",
+        "location": "Raipur (2 Nights) / Sirpur (1 Night) / Chitrakote (1 Night) / Bastar (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Courtyard by Marriott Raipur (Raipur, 2 Nights) | Sirpur Archaeological Retreat (Sirpur, 1 Night) | Chitrakote River View Huts (Chitrakote, 1 Night) | Asansol Heritage Resort (Bastar, 1 Night) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Sayaji Hotel Raipur | Sirpur Boutique Heritage Lodge | Dandami Luxury Bison Resort | Grand Bastar Heritage Estate",
+        "location": "Raipur (2 Nights) / Sirpur (1 Night) / Chitrakote (1 Night) / Bastar (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Sayaji Hotel Raipur (Raipur, 2 Nights) | Sirpur Boutique Heritage Lodge (Sirpur, 1 Night) | Dandami Luxury Bison Resort (Chitrakote, 1 Night) | Grand Bastar Heritage Estate (Bastar, 1 Night) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Lake Resort Raipur | Sirpur Royal Residency | Dandami Premium Presidential Villa | Bastar Palace Royal Suite",
+        "location": "Raipur (2 Nights) / Sirpur (1 Night) / Chitrakote (1 Night) / Bastar (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Mayfair Lake Resort Raipur (Raipur, 2 Nights) | Sirpur Royal Residency (Sirpur, 1 Night) | Dandami Premium Presidential Villa (Chitrakote, 1 Night) | Bastar Palace Royal Suite (Bastar, 1 Night) | Elite Chef Curated Meals",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "Elite Chef Curated Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked hotels as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all transfers & sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfast and gourmet dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family travel kit and refreshments upon arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private guided heritage walk at Sirpur archaeological site.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to and from Raipur terminals.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, or optional boat ride charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, telephone calls, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional activities or extended tours not explicitly listed.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

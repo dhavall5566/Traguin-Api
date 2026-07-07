@@ -1,0 +1,270 @@
+{
+  "destination_slug": "switzerland",
+  "package": {
+    "slug": "ch-002-romantic-switzerland-honeymoon",
+    "serial_code": "SW-002",
+    "traguin_tour_code": null,
+    "title": "Romantic Switzerland Honeymoon",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 35,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Lucerne (2N) → Interlaken (3N) → Zermatt (2N) romantic circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Mt. Pilatus sunset excursion with alpine panorama",
+        "sort_order": 2
+      },
+      {
+        "text": "Jungfraujoch private photo session at Top of Europe",
+        "sort_order": 3
+      },
+      {
+        "text": "Lake Brienz boat excursion & Matterhorn-view Zermatt stay",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-SWI-ROM-2026 | Serial CH-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-002-romantic-switzerland-itinerary",
+    "title": "Romantic Switzerland Honeymoon",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Honeymoon Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Lucerne • Mt. Pilatus • Interlaken • Zermatt • Matterhorn",
+    "overview": "Begin your life together in one of the world's most breathtaking landscapes. This TRAGUIN curated Swiss honeymoon sanctuary is designed for intimacy, luxury, and awe-inspiring beauty — perfectly balancing cozy alpine retreats, scenic romantic excursions, and world-class hospitality across Lucerne, Interlaken, and Zermatt. Includes private chauffeur transfers, lakeside suites, and 24/7 honeymoon concierge support.",
+    "is_featured": true,
+    "featured_sort_order": 35,
+    "seo_title": "CH-002 | Romantic Switzerland Honeymoon | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Switzerland honeymoon package (CH-002): Lucerne, Mt. Pilatus, Jungfraujoch, Lake Brienz, and Zermatt with Matterhorn views.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Lakeside Welcome in Lucerne",
+        "sort_order": 1
+      },
+      {
+        "text": "Mt. Pilatus Sunset Experience",
+        "sort_order": 2
+      },
+      {
+        "text": "Jungfraujoch Top of Europe Romance",
+        "sort_order": 3
+      },
+      {
+        "text": "Private Lake Brienz Boat Excursion",
+        "sort_order": 4
+      },
+      {
+        "text": "Matterhorn-View Zermatt Celebration",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Intimate Lucerne Welcome",
+        "description": "Arrive in Zurich and private chauffeur transfer to Lucerne. Check into your romantic lakeside suite. Evening lakeside walk and intimate welcome dinner.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, lakeside orientation walk",
+          "Evening Experience: Intimate welcome dinner",
+          "Overnight Stay: Lucerne (Luxury Lakeside Suites)",
+          "Meals Included: Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mt. Pilatus Sunset Experience",
+        "description": "A gentle day in Lucerne, followed by a sunset excursion to Mt. Pilatus. Witness the spectacular alpine panorama — an exclusive romantic experience.",
+        "activities": [
+          "Sightseeing Included: Mt. Pilatus sunset excursion",
+          "Overnight Stay: Lucerne (Luxury Lakeside Suites)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Transfer to Interlaken",
+        "description": "Scenic train transfer to Interlaken. Check into your luxury alpine retreat with mountain views, perfect for couples.",
+        "activities": [
+          "Sightseeing Included: Scenic rail transfer to Interlaken",
+          "Overnight Stay: Interlaken (Ultra-Luxury Alpine Resort)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jungfraujoch Romance",
+        "description": "A spectacular journey to the Top of Europe. Enjoy a private photo session amidst the pristine snow — creating unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Jungfraujoch Top of Europe excursion, private photo session",
+          "Overnight Stay: Interlaken (Ultra-Luxury Alpine Resort)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Alpine Lakes & Leisure",
+        "description": "Leisure day in Interlaken. Enjoy a private boat excursion on Lake Brienz, soaking in the serene mountain beauty together.",
+        "activities": [
+          "Sightseeing Included: Private Lake Brienz boat excursion",
+          "Overnight Stay: Interlaken (Ultra-Luxury Alpine Resort)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Zermatt Luxury Escape",
+        "description": "Transfer to Zermatt. Check into your ultra-luxury boutique suite with iconic Matterhorn views.",
+        "activities": [
+          "Sightseeing Included: Scenic transfer to Zermatt",
+          "Overnight Stay: Zermatt (Luxury Matterhorn-View Suites)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Matterhorn Celebration",
+        "description": "Enjoy a day of private leisure and spa treatments in Zermatt, followed by a candlelit farewell dinner celebrating your romantic honeymoon.",
+        "activities": [
+          "Evening Experience: Candlelit farewell dinner",
+          "Overnight Stay: Zermatt (Luxury Matterhorn-View Suites)",
+          "Meals Included: Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Departure",
+        "description": "Final luxury breakfast before your TRAGUIN private chauffeur transfer to the airport, completing your premium Swiss honeymoon.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Luxury Lakeside Suites / similar",
+        "location": "Lucerne",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ultra-Luxury Alpine Resort / similar",
+        "location": "Interlaken",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Matterhorn-View Suites / similar",
+        "location": "Zermatt",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in handpicked romantic hotels across Lucerne, Interlaken, and Zermatt",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Scenic Swiss rail transfer to Interlaken",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Mt. Pilatus sunset excursion and Jungfraujoch Top of Europe visit",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Lake Brienz boat excursion for couples",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated honeymoon concierge support",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Switzerland entry visa processing fees",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 10
+      }
+    ]
+  }
+}

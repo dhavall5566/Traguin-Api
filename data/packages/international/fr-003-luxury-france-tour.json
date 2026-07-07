@@ -1,0 +1,250 @@
+{
+  "destination_slug": "france",
+  "package": {
+    "slug": "fr-003-luxury-france-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury France Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 39,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Paris (3N) → French Riviera (3N) ultra-luxury circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Louvre private tour & gourmet French cooking class",
+        "sort_order": 2
+      },
+      {
+        "text": "Versailles & Golden Triangle high-end shopping",
+        "sort_order": 3
+      },
+      {
+        "text": "Monaco, Monte Carlo & Provence lavender fields",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 luxury travel concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-FRA-LUX-2026 | Serial FR-003",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Cultural",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "fr-003-luxury-france-itinerary",
+    "title": "Luxury France Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury France Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Paris • Versailles • French Riviera • Monaco • Provence",
+    "overview": "Discover the height of sophistication and style with TRAGUIN's curated luxury French expedition. From the iconic streets of Paris to the shimmering azure coast of the French Riviera, experience an unmatched journey of culture, gastronomy, and breathtaking beauty across Paris, Nice, Monaco, and Provence.",
+    "is_featured": true,
+    "featured_sort_order": 39,
+    "seo_title": "FR-003 | Luxury France Tour | TRAGUIN",
+    "seo_description": "Ultra-luxury 06 Nights / 07 Days France package (FR-003): Paris, Versailles, French Riviera, Monaco, Monte Carlo, and Provence lavender fields.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Seine Champagne Sunset Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Louvre Private Tour & French Cooking Class",
+        "sort_order": 2
+      },
+      {
+        "text": "Palace of Versailles & Golden Triangle Shopping",
+        "sort_order": 3
+      },
+      {
+        "text": "Monaco & Monte Carlo Elite Day Trip",
+        "sort_order": 4
+      },
+      {
+        "text": "Provence Lavender Fields & Côte d'Azur Drive",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Paris & Seine Cruise",
+        "description": "Arrive in elegant Paris. Private transfer to your ultra-luxury hotel. Enjoy a private Seine River cruise with champagne at sunset.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private Seine champagne sunset cruise",
+          "Overnight Stay: Paris (Four Seasons George V / Ritz Paris)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Paris Art & Gastronomy",
+        "description": "Exclusive private tour of the Louvre followed by a gourmet French cooking class in a historic Parisian kitchen.",
+        "activities": [
+          "Sightseeing Included: Private Louvre tour, gourmet French cooking class",
+          "Overnight Stay: Paris (Four Seasons George V / Ritz Paris)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Palace of Versailles & Shopping",
+        "description": "Private excursion to Versailles. Afternoon dedicated to high-end shopping in the legendary boutiques of the Golden Triangle.",
+        "activities": [
+          "Sightseeing Included: Private Versailles excursion, Golden Triangle shopping",
+          "Overnight Stay: Paris (Four Seasons George V / Ritz Paris)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Fly to French Riviera",
+        "description": "Private flight to Nice. Check into a world-class seaside resort. Enjoy the vibrant colors and lifestyle of the French Riviera.",
+        "activities": [
+          "Sightseeing Included: Private flight to Nice, French Riviera resort check-in",
+          "Overnight Stay: French Riviera (Grand-Hôtel du Cap-Ferrat)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Monaco & Monte Carlo",
+        "description": "Day trip to Monaco and Monte Carlo. Explore the prince's palace and the famous casino, enjoying the exclusive experiences of the elite coast.",
+        "activities": [
+          "Sightseeing Included: Monaco & Monte Carlo day trip, Prince's Palace, famous casino",
+          "Overnight Stay: French Riviera (Grand-Hôtel du Cap-Ferrat)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Provence Lavender & Côte d'Azur",
+        "description": "Visit the lavender fields of Provence followed by a coastal drive along the stunning Côte d'Azur.",
+        "activities": [
+          "Sightseeing Included: Provence lavender fields, Côte d'Azur coastal drive",
+          "Overnight Stay: French Riviera (Grand-Hôtel du Cap-Ferrat)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Departure",
+        "description": "Final luxury breakfast. Private transfer to Nice airport for departure, completing your premium France experience.",
+        "activities": [
+          "Sightseeing Included: Private transfer to Nice airport",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Four Seasons George V / Ritz Paris",
+        "location": "Paris",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand-Hôtel du Cap-Ferrat",
+        "location": "French Riviera (Nice)",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 Nights in ultra-luxury hotels across Paris and the French Riviera",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private Seine champagne sunset cruise in Paris",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private Louvre tour and gourmet French cooking class",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private flight coordination from Paris to Nice",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Monaco & Monte Carlo day trip and Provence lavender excursion",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated luxury travel concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and France entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

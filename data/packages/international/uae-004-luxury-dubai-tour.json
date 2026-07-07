@@ -1,0 +1,252 @@
+{
+  "destination_slug": "uae",
+  "package": {
+    "slug": "uae-004-luxury-dubai-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury Dubai Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 78,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Dubai (6N) ultimate luxury discovery",
+        "sort_order": 1
+      },
+      {
+        "text": "Burj Khalifa & top-tier Dubai Mall luxury shopping",
+        "sort_order": 2
+      },
+      {
+        "text": "Private desert oasis with falconry & gourmet dinner",
+        "sort_order": 3
+      },
+      {
+        "text": "Private yacht cruise & Palm Jumeirah spa retreat",
+        "sort_order": 4
+      },
+      {
+        "text": "Old Dubai heritage & gold souks cultural immersion",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-DXB-LUX-2026 | Serial UAE-004",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Adventure",
+      "Cultural",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "uae-004-luxury-dubai-itinerary",
+    "title": "Luxury Dubai Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury Dubai Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dubai • Burj Khalifa • Desert Oasis • Private Yacht • Palm Jumeirah",
+    "overview": "Indulge in the zenith of opulence with TRAGUIN's curated luxury Dubai escape. Designed for the discerning traveler, this journey blends futuristic metropolitan glamour with serene coastal sanctuaries — with exclusive experiences, handpicked hotels, and unforgettable memories.",
+    "is_featured": true,
+    "featured_sort_order": 78,
+    "seo_title": "UAE-004 | Luxury Dubai Tour | TRAGUIN",
+    "seo_description": "Ultra-luxury 06 Nights / 07 Days Dubai package (UAE-004): Burj Al Arab, private desert oasis, yacht cruise, Palm Jumeirah spa, and Old Dubai heritage.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Burj Khalifa & Metropolitan Luxury",
+        "sort_order": 1
+      },
+      {
+        "text": "Private Desert Oasis & Falconry",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Luxury Yacht Cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Palm Jumeirah Spa Retreat",
+        "sort_order": 4
+      },
+      {
+        "text": "Old Dubai & Gold Souks Heritage",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Dubai",
+        "description": "Your TRAGUIN luxury escape begins with a VIP chauffeur service. Experience true opulence from the moment you land, followed by a private transfer to your handpicked hotel.",
+        "activities": [
+          "Sightseeing Included: VIP chauffeur airport reception, private hotel transfer",
+          "Overnight Stay: Dubai (Burj Al Arab / Armani Hotel)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Metropolitan Luxury",
+        "description": "Visit the iconic Burj Khalifa and experience top-tier luxury shopping at the Dubai Mall. A curated experience to admire the city's breathtaking landscapes.",
+        "activities": [
+          "Sightseeing Included: Burj Khalifa, Dubai Mall luxury shopping experience",
+          "Overnight Stay: Dubai (Burj Al Arab / Armani Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Desert Oasis Experience",
+        "description": "A private desert oasis experience. Indulge in exclusive experiences like a private falconry display and a gourmet dinner under the stars amidst breathtaking landscapes.",
+        "activities": [
+          "Sightseeing Included: Private desert oasis, falconry display, gourmet dinner",
+          "Overnight Stay: Dubai (Burj Al Arab / Armani Hotel)",
+          "Meals Included: Breakfast & Gourmet Desert Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Private Yacht Cruise",
+        "description": "Savor the scenic beauty of the Dubai skyline with a private luxury yacht cruise. An immersive experience that defines our premium stays in Dubai.",
+        "activities": [
+          "Sightseeing Included: Private luxury yacht cruise",
+          "Overnight Stay: Dubai (Burj Al Arab / Armani Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Palm Jumeirah Retreat",
+        "description": "Relax at an iconic attraction — the Palm Jumeirah. Enjoy a spa day and world-class dining, creating unforgettable memories in ultimate luxury.",
+        "activities": [
+          "Sightseeing Included: Palm Jumeirah spa day",
+          "Evening Experience: World-class dining",
+          "Overnight Stay: Dubai (Burj Al Arab / Armani Hotel)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Culture & Heritage",
+        "description": "Discover old Dubai and the gold souks. This immersive experience contrasts with the modern city, showcasing the rich history of a premium Dubai experience.",
+        "activities": [
+          "Sightseeing Included: Old Dubai heritage tour, gold souks visit",
+          "Overnight Stay: Dubai (Burj Al Arab / Armani Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Departure",
+        "description": "Final luxury breakfast before your TRAGUIN chauffeur transfer, concluding your luxury Dubai holiday.",
+        "activities": [
+          "Sightseeing Included: VIP chauffeur airport transfer",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Burj Al Arab",
+        "location": "Dubai",
+        "nights_label": "06 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Armani Hotel Dubai",
+        "location": "Dubai",
+        "nights_label": "06 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 Nights in ultra-luxury hotel in Dubai",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP chauffeur-driven luxury transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Burj Khalifa and Dubai Mall luxury experience",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private desert oasis with falconry display and gourmet dinner",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury yacht cruise",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Palm Jumeirah spa day and Old Dubai heritage tour",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated luxury travel concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and UAE entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

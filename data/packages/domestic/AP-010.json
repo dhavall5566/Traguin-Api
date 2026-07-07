@@ -1,0 +1,189 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-010-andhra-explorer-vizag-araku-rajahmundry",
+    "serial_code": "AP-010",
+    "traguin_tour_code": "TG-AP-EXP-010",
+    "title": "TRAGUIN Premium Andhra Explorer Package",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-010 | TRAGUIN tour code TG-AP-EXP-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Vizag • Araku • Rajahmundry",
+        "sort_order": 3
+      },
+      {
+        "text": "From Coastal Wonders to Spiritual Rivers",
+        "sort_order": 4
+      },
+      {
+        "text": "TOUR OVERVIEW: 06 Nights / 07 Days Andhra Pradesh Family Tour mixing adventure, culture, and coastal serenity.",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private river cruise in Rajahmundry.",
+        "sort_order": 6
+      },
+      {
+        "text": "Personalized Assistance: 24/7 dedicated travel support.",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Stay in the best beach and hill properties.",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Coastal",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-010-andhra-explorer-vizag-araku-rajahmundry-itinerary",
+    "title": "TRAGUIN Premium Andhra Explorer Package",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "From Coastal Wonders to Spiritual Rivers • Vizag • Araku • Rajahmundry • 06 Nights / 07 Days",
+    "overview": "Discover the rich heritage and breathtaking landscapes of Andhra Pradesh with TRAGUIN. This 06 Nights / 07 Days Andhra Pradesh Family Tour is meticulously crafted for those seeking a mix of adventure, culture, and coastal serenity.\n\nWHY VISIT ANDHRA PRADESH?\nFrom the pristine beaches of Visakhapatnam to the lush coffee estates of Araku Valley and the serene backwaters of the Godavari river in Rajahmundry, this journey is a perfect luxury Andhra Pradesh holiday.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-010 | Premium Andhra Explorer Package | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Andhra explorer package (AP-010 / TG-AP-EXP-010): Vizag, Araku Valley, Rajahmundry Godavari backwaters, and TRAGUIN curated experiences.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vizag arrival with RK Beach evening walk and coastal bliss",
+        "sort_order": 1
+      },
+      {
+        "text": "INS Kursura Submarine Museum, Kailasagiri Hill, and Bay of Bengal sunset",
+        "sort_order": 2
+      },
+      {
+        "text": "Vistadome train through tunnels and ghats to Araku Tribal Museum and coffee plantations",
+        "sort_order": 3
+      },
+      {
+        "text": "Borra Caves and Chaprai Waterfalls surrounded by nature",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private river cruise on the Godavari with Papikondalu range views",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VISAKHAPATNAM - ARRIVAL & COASTAL BLISS",
+        "description": "Arrive in Vizag, the City of Destiny. Experience a warm welcome by TRAGUIN and check into your beachfront resort. Evening walk at RK Beach.",
+        "activities": [
+          "Overnight Stay: Vizag Luxury Beachfront Resort.",
+          "Meals Included: Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "VISAKHAPATNAM - HERITAGE & HARBOR",
+        "description": "Visit the INS Kursura Submarine Museum and the serene Kailasagiri Hill. Enjoy a breathtaking sunset view over the Bay of Bengal.",
+        "activities": [
+          "Sightseeing Included: INS Kursura Submarine Museum, Kailasagiri Hill.",
+          "Overnight Stay: Vizag.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "VIZAG TO ARAKU - THE MOUNTAIN ESCAPE",
+        "description": "Board the Vistadome train through tunnels and ghats. Explore the Araku Tribal Museum and enjoy exclusive experiences in the coffee plantations.",
+        "activities": [
+          "Sightseeing Included: Vistadome train, Araku Tribal Museum, coffee plantations.",
+          "Overnight Stay: Araku Luxury Eco-Resort.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ARAKU VALLEY - CAVES & WATERFALLS",
+        "description": "Marvel at the Borra Caves and the scenic Chaprai Waterfalls. Enjoy premium stays surrounded by nature.",
+        "activities": [
+          "Sightseeing Included: Borra Caves, Chaprai Waterfalls.",
+          "Overnight Stay: Araku.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "ARAKU TO RAJAHMUNDRY - RIVER SERENITY",
+        "description": "Drive to Rajahmundry. Experience the spiritual vibe of the Godavari river. This is a must-visit Andhra Pradesh sightseeing spot.",
+        "activities": [
+          "Sightseeing Included: Godavari river, Rajahmundry spiritual landmarks.",
+          "Overnight Stay: Rajahmundry Riverside Resort.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "RAJAHMUNDRY - GODAVARI BACKWATERS",
+        "description": "Enjoy a private boat ride on the Godavari river. Experience the scenic beauty of the Papikondalu range.",
+        "activities": [
+          "Sightseeing Included: Private Godavari river boat ride, Papikondalu range views.",
+          "Overnight Stay: Rajahmundry.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE - UNFORGETTABLE MEMORIES",
+        "description": "Transfer to the airport/station. Depart with unforgettable memories curated by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Experience: Private river cruise in Rajahmundry.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Personalized Assistance: 24/7 dedicated travel support.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Premium Handpicked Hotels: Stay in the best beach and hill properties.",
+        "sort_order": 3
+      }
+    ]
+  }
+}

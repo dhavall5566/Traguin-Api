@@ -1,0 +1,302 @@
+{
+  "destination_slug": "mizoram",
+  "package": {
+    "slug": "mz-008-premium-romantic-mizoram-honeymoon",
+    "serial_code": "MZ-008",
+    "traguin_tour_code": "TRG-MIZ-ROM-2026",
+    "title": "Premium Romantic Mizoram Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MZ-008 | TRAGUIN tour code TRG-MIZ-ROM-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Mizoram / India | Category: Premium Romantic Honeymoon Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Aizawl Mountain Sanctuary • Sunset Vistas • Cultural Harmony • Serene Getaways",
+        "sort_order": 3
+      },
+      {
+        "text": "Duration: 05 Nights / 06 Days",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Romantic Mizoram Honeymoon with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Private transfers and dedicated Luxury SUV throughout the journey",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN 24/7 guest experience manager on call",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Romance",
+      "Honeymoon",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "mz-008-premium-romantic-mizoram-honeymoon-itinerary",
+    "title": "Premium Romantic Mizoram Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Aizawl Mountain Sanctuary • Sunset Vistas • Cultural Harmony • Serene Getaways",
+    "overview": "TRAGUIN PREMIUM ROMANTIC MIZORAM HONEYMOON — Aizawl Mountain Sanctuary • Sunset Vistas • Cultural Harmony • Serene Getaways. 05 Nights / 06 Days Romantic Mizoram Honeymoon Sanctuary.\n\nTOUR OVERVIEW\nBegin your life together in the quiet, mist-covered, and enchanting hills of Mizoram with our TRAGUIN curated honeymoon sanctuary. Designed for intimacy and calm, this Romantic Mizoram retreat combines private luxury accommodations, serene mountain vistas, and curated cultural experiences, guaranteeing unforgettable memories in Northeast India's most tranquil landscape.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MZ-008 | Premium Romantic Mizoram Honeymoon | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Mizoram package (MZ-008 / TRG-MIZ-ROM-2026): Aizawl Mountain Sanctuary • Sunset Vistas • Cultural Harmony • Serene Getaways with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AIZAWL & INTIMATE WELCOME",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SERENE CULTURAL EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MOUNTAIN VIEW SOJOURN",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: QUIET VALLEY RETREAT",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: FAREWELL CANDLELIGHT DINNER",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN curated Premium Romantic Mizoram Honeymoon with handpicked premium stays",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AIZAWL & INTIMATE WELCOME",
+        "description": "Arrive in Aizawl. Your private chauffeur transfers you to a handpicked, intimate boutique retreat. Enjoy a quiet, romantic welcome dinner overlooking the city valley.",
+        "activities": [
+          "Private chauffeur to intimate boutique retreat.",
+          "Romantic welcome dinner overlooking city valley.",
+          "Overnight Stay: Boutique Mountain Retreat",
+          "Meals Included: Romantic Welcome Dinner (MAPAI)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SERENE CULTURAL EXPLORATION",
+        "description": "Enjoy a slow-paced discovery of Aizawl's cultural treasures at a comfortable pace, ensuring quality time together in the tranquil mountain air.",
+        "activities": [
+          "Slow-paced cultural discovery.",
+          "Quality time together in tranquil mountain air.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MOUNTAIN VIEW SOJOURN",
+        "description": "A relaxing excursion to scenic viewpoints, surrounded by lush forests and fresh mountain mist. Perfect for capturing breathtaking landscapes as a couple.",
+        "activities": [
+          "Scenic viewpoint excursion.",
+          "Lush forests and mountain mist — couple photography.",
+          "Overnight Stay: Mountain View Retreat",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "QUIET VALLEY RETREAT",
+        "description": "Spend a peaceful day enjoying the scenic beauty of a secluded valley retreat, sharing quality time away from the bustle of city life.",
+        "activities": [
+          "Secluded valley retreat.",
+          "Peaceful quality time away from city bustle.",
+          "Overnight Stay: Valley Retreat",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "FAREWELL CANDLELIGHT DINNER",
+        "description": "A final day for relaxation, culminating in an intimate candlelight farewell dinner at a private garden terrace, creating unforgettable memories.",
+        "activities": [
+          "Relaxation day.",
+          "Intimate candlelight farewell dinner at private garden terrace.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Candlelight Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer to the airport, concluding your romantic Mizoram sojourn.",
+        "activities": [
+          "Private transfer to airport.",
+          "Meals Included: Farewell Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Ritz / Couples Comfort Inn",
+        "location": "Aizawl & Boutique Retreats",
+        "nights_label": "5N Aizawl & Boutique Retreats",
+        "description": "OPTION 01 – DELUXE: Hotel Ritz / Couples Comfort Inn | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Couples Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Boutique Mountain Resorts / Heritage Honeymoon Suites",
+        "location": "Aizawl & Boutique Retreats",
+        "nights_label": "5N Aizawl & Boutique Retreats",
+        "description": "OPTION 02 – PREMIUM: Boutique Mountain Resorts / Heritage Honeymoon Suites | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Honeymoon Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Valley View Boutique Retreat / Romantic Hill Chalets",
+        "location": "Aizawl & Boutique Retreats",
+        "nights_label": "5N Aizawl & Boutique Retreats",
+        "description": "OPTION 03 – LUXURY: Valley View Boutique Retreat / Romantic Hill Chalets | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Romantic Chalet",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Aizawl Candlelight Terrace Suites / Honeymoon Heritage Villas",
+        "location": "Aizawl & Boutique Retreats",
+        "nights_label": "5N Aizawl & Boutique Retreats",
+        "description": "OPTION 04 – ULTRA LUXURY: Aizawl Candlelight Terrace Suites / Honeymoon Heritage Villas | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Terrace Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 5 Nights in handpicked Mizoram properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Luxury SUV for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: MAPAI — daily breakfast and dinner at handpicked venues.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Airport/railway arrival and departure transfers in premium AC vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Stays: TRAGUIN-vetted accommodations matching your selected tier.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable taxes, driver allowances, tolls, and parking charges for the private vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Romantic experiences including candlelight dinner and private scenic viewpoint excursions for couples.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, or sanctuary entry fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical expenses, and any emergency evacuation costs.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "destination_slug": "delhi",
+  "package": {
+    "slug": "dl-006-delhi-heritage-leisure",
+    "serial_code": "DL-006",
+    "traguin_tour_code": "TRG-DEL-006",
+    "title": "Delhi Heritage Leisure",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DL-006 | TRAGUIN tour code TRG-DEL-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Delhi / India | Category: Senior Citizen Special",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Lutyens' Delhi • Old Delhi • Qutub Complex • Akshardham",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens, Families & Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Luxury Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Toyota Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Imperial Comfort → Old Delhi Rickshaw → Qutub & Akshardham → Shopping & Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and history briefing prior to monument tours.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom-paced, relaxed travel loops prioritizing safety and avoiding rush hours.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Central Cottage Industries Emporium for silk scarves, sandalwood carvings, Indian tea, and brass oil lamps.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs; woolens Nov-Jan; book wheelchair-accessible rooms 30 days ahead.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dl-006-delhi-heritage-leisure-itinerary",
+    "title": "Delhi Heritage Leisure",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Delhi Heritage Leisure • A Slow-Paced Regal Experience",
+    "overview": "Welcome to an expertly paced, majestic journey through India's capital city, curated exclusively by TRAGUIN. This bespoke Delhi Family Tour is specifically optimized as a serene, relaxed Delhi Heritage Leisure experience for senior citizens who wish to explore the magnificent history of the capital without physical strain. As your dedicated luxury travel consultants, TRAGUIN transforms your stay into an unforgettable memory featuring premium stays, wheelchair-accessible pathways, and a highly courteous chauffeur. Witness the iconic attractions and historic monuments of Delhi unfold before you in complete tranquility.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package focuses on premium comfort, slow-paced travel loops, and smooth point-to-point transitions. Travel in an ultra-luxurious, spacious AC sedan or MUV with a professional chauffeur specializing in senior-citizen assistance. Featuring a curated meal plan with nutritious breakfast and dinner layouts at handpicked hotels, this specific route minimizes walking and maximizes comfort. Every fine detail incorporates the signature touch of TRAGUIN curated experiences, including pre-booked monument entry passes, premium seating arrangements, and dedicated local travel assistant support.\n\nWHY CHOOSE THE BEST DELHI TOUR PACKAGE?\nWhen exploring a Luxury Delhi Holiday, travelers seek the fine line where majestic ancient architecture perfectly intertwines with modern Indian hospitality. This meticulously structured itinerary offers the ultimate Premium Delhi Experience. Delhi is a city of layers, boasting iconic attractions that range from the serene, beautifully manicured gardens of Lutyens' Delhi to the towering stone masonry of the Qutub Minar—a top tourist place in Delhi. For couples and generations looking for a balanced Delhi Honeymoon Package or an multi-generational Delhi Family Tour, the city presents beautiful Instagram locations such as the peaceful Lotus Temple and the grand architecture of Akshardham Temple. Whether you wish to enjoy cultural shopping at state emporiums, sample delicate rich heritage foods, or appreciate the historic spiritual tranquility of Bangla Sahib, booking our TRAGUIN Delhi Packages guarantees the best time to visit Delhi with unparalleled relaxation.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DL-006 | Delhi Heritage Leisure Senior Citizen Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days senior-friendly Delhi package (DL-006 / TRG-DEL-006): Lutyens' Delhi, Old Delhi rickshaw, Qutub Minar, Akshardham, and 4-tier accessible accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "India Gate, Rashtrapati Bhavan, National War Memorial & Lodi Gardens on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Red Fort, Chandni Chowk rickshaw, Gurudwara Bangla Sahib on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Qutub Complex, Humayun's Tomb & Akshardham fountain show on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Connaught Place shopping & departure on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family history briefing before monument tours",
+        "sort_order": 5
+      },
+      {
+        "text": "Luxury Transportation: Patient drivers trained in senior citizen assistance",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Delhi & Imperial Comfort | Welcome to the Imperial Capital – Lutyens' Rajpath Drive",
+        "description": "Your premium Delhi experience begins with a seamless VIP pickup from New Delhi Airport or Railway Station. Your dedicated luxury transportation vehicle will smoothly transfer you to your handpicked premium hotel. After a relaxed check-in and lunch, enjoy a comfortable, smooth drive past the architectural highlights of Lutyens' Delhi, including the spectacular India Gate, Rashtrapati Bhavan, and Parliament House. Beautifully paved walkways make this an iconic photography point for senior citizens.",
+        "activities": [
+          "Sightseeing Included: India Gate drive-through, Rashtrapati Bhavan lawns view, National War Memorial layout.",
+          "Evening Experience: A relaxed stroll or sitting at the lush, scenic beauty of Lodi Gardens, followed by gourmet dinner.",
+          "Overnight Stay: New Delhi (Premium / Ultra-Luxury Hotel).",
+          "Meals Included: Welcome High-Tea & Luxury Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Historic Old Delhi Exploration | Old World Charm – Traditional Comfortable Rickshaw Ride",
+        "description": "Indulge in a premium breakfast before heading to Old Delhi for a nostalgic look at the city's heritage. To ensure maximum comfort and completely avoid walking through crowds, TRAGUIN has arranged private, cushioned cycle rickshaws to take you past Chandni Chowk and the historic red sandstone walls of the Red Fort. Conclude the morning with a spiritually uplifting visit to the serene Gurudwara Bangla Sahib, where you can listen to peaceful hymns by the holy Sarovar lake.",
+        "activities": [
+          "Sightseeing Included: Red Fort (outer view), Raj Ghat, Chandni Chowk heritage loop, Gurudwara Bangla Sahib.",
+          "Optional Activities: A curated luxury lunchtime dining experience at a converted heritage haveli.",
+          "Overnight Stay: New Delhi (Premium / Ultra-Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Architectural Spectacles of South Delhi | Ancient Wonders & Spiritual Grandeur",
+        "description": "Following a leisurely breakfast, journey to South Delhi to admire the majestic Qutub Minar, featuring smooth, wheel-chair accessible walking ramps. Next, visit the architectural masterpiece of Humayun's Tomb, beautifully surrounded by symmetrical Mughal gardens and gentle water channels. In the afternoon, explore the grand Swaminarayan Akshardham Temple complex to witness its incredible stone carvings and enjoy a comfortable indoor exhibition cruise.",
+        "activities": [
+          "Sightseeing Included: Qutub Complex monument trails, Humayun's Tomb, Akshardham cultural complex.",
+          "Evening Experience: Musical fountain show at Akshardham Temple with special reserved seating.",
+          "Overnight Stay: New Delhi (Premium / Ultra-Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Festive Farewell Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Cultural Shopping & Departure | Souvenir Hunting – Cherishing Unforgettable Memories",
+        "description": "Savor your last morning breakfast at your premium hotel before checking out. Visit Connaught Place or Baba Kharak Singh Marg Emporiums for a quiet, comfortable shopping experience to pick up authentic Indian handicrafts and textiles. Your private luxury transport will then drive you comfortably to New Delhi Airport or Railway Station. Return home carrying beautiful stories and unforgettable memories tailored beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Suryaa New Delhi / Vivanta Dwarka",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: The Suryaa New Delhi / Vivanta Dwarka | Executive Premium Room | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Crowne Plaza Okhla / Eros Hotel Nehru Place",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Crowne Plaza Okhla / Eros Hotel Nehru Place | Luxury Club Room | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Club Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Mahal Hotel / The Leela Palace New Delhi",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Taj Mahal Hotel / The Leela Palace New Delhi | Grand Deluxe City View Room | MAPAI + Senior Care Welcome Kit",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Grand Deluxe City View Room",
+        "meal_plan": "MAPAI + Senior Care Welcome Kit",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi New Delhi / Imperial Hotel Lutyens'",
+        "location": "New Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi New Delhi / Imperial Hotel Lutyens' | VVIP Premier Heritage Luxury Suite | Signature Bespoke Gourmet MAPAI",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Premier Heritage Luxury Suite",
+        "meal_plan": "Signature Bespoke Gourmet MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights in top-rated hotels offering wheelchair and step-free access.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Chauffeur-driven AC Toyota Innova Crysta for all transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily breakfasts and specialized low-spice dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest manager with senior care briefing.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized travel kit containing healthy snacks and herbal drinks.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private, cushioned cycle rickshaw ride through Old Delhi.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight bookings, or mainline train ticket charges.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera passes, and local tour guide fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, phone calls, or tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any medical equipment rentals or specialized single-nurse assistance.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

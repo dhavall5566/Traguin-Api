@@ -1,0 +1,325 @@
+{
+  "destination_slug": "manipur",
+  "package": {
+    "slug": "mn-004-bespoke-loktak-floating-paradise-royal-tribal-heritage",
+    "serial_code": "MN-004",
+    "traguin_tour_code": "TRG-MAN-LUX-004",
+    "title": "Bespoke Loktak Floating Paradise & Royal Tribal Heritage",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MN-004 | TRAGUIN tour code TRG-MAN-LUX-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Manipur / India | Category: Luxury Heritage &",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Imphal • Loktak Lake • Moirang • Andro Cultural Outpost • Moreh Border",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Premium Couples, Luxury Honeymooners, Discerning Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to April (Pleasant Mountain Climate)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Fully Hosted Portfolio)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium All-Terrain SUV & All Gourmet Meals",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, front-row seating at an intimate, classical Manipuri",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom-tailored daily routes designed to avoid large tour groups,",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Enjoy premium, air-conditioned luxury transportation with dedicated",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Every property is chosen for its excellent service standards, rich",
+        "sort_order": 11
+      },
+      {
+        "text": "Inner Line Permits: Domestic travelers require an Inner Line Permit (ILP), which will be",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Heritage",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "mn-004-bespoke-loktak-floating-paradise-royal-tribal-heritage-itinerary",
+    "title": "Bespoke Loktak Floating Paradise & Royal Tribal Heritage",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bespoke Loktak Floating Paradise & Royal Tribal Heritage",
+    "overview": "Welcome to Northeast India's hidden jewel with the signature Best Manipur Tour Package curated exclusively by TRAGUIN. Known historically as the \"Jeweled Land,\" Manipur unfolds as a sanctuary of sweeping valley basins, misty blue hill horizons, and an ancient royal heritage that remains utterly untouched by commercialism. This completely tailored Manipur TRAGUIN Premium Luxury Proposals Honeymoon Package and premium Manipur Family Tour has been designed meticulously for sophisticated travelers seeking both raw ecological wonders and seamless, high-end hospitality. From private speedboats exploring mysterious floating lake ecosystems to grand multi-course feasts in royal compounds, every day is balanced to weave unforgettable memories into your soul. Embark on a definitive Luxury Manipur Holiday and find yourself enchanted by the timeless magic of the Orient.\n\nTOUR OVERVIEW\nThis elite, hand-tailored exploration traces an expansive private route through the historic heartlands, ecological wonders, and vibrant borderlands of beautiful Manipur. Your expedition begins upon arrival at Imphal, transitioning seamlessly into the royal strongholds of the ancient Meitei Kings, expanding to custom over-water stays at Loktak Lake, and detailing a private hosted crossing down to the Indo-Myanmar border town of Moreh. Every parameter of this elite itinerary reflects a signature TRAGUIN curated experience note: you will enjoy private premium stays at handpicked hotels, relax inside customized luxury 4x4 SUVs with dedicated local travel concierges, and partake in private culinary and classical dance showcase experiences curated exclusively for our distinguished guests. DESTINATION SPOTLIGHT & PREMIUM EXPERIENCES\n\nWhy Visit Manipur? Tucked quietly away on India's easternmost frontier, Manipur offers an escape\ninto a land where rolling grasslands blend with unique floating biotopes and rich royal traditions. Choosing a Premium Manipur Experience allows high-end travelers to discover a deeply preserved culture of martial arts, sophisticated classical dances, and beautiful handicraft arts that cannot be found anywhere else in the world. Famous Attractions & Most Searched Experiences: The absolute peak of Manipur Sightseeing is the world-famous Loktak Lake, the only floating lake on earth, and the Keibul Lamjao National Park, a completely floating wildlife sanctuary that is home to the rare Sangai \"Dancing Deer.\" Other iconic attractions include the historic brick redoubts of Kangla Fort, the ancient pottery center of Andro Cultural Village, and the sprawling international trade hubs of Moreh. Best Honeymoon, Family, & Luxury Points: For couples, watching a gold-tinted sunset from a private over-water cottage balcony over Loktak Lake is incredibly romantic and beautiful. Families will love the interactive history lessons, traditional sports demonstrations, and comfortable, private, chauffeured security that defines this curated travel format. Popular Instagram Locations: Capture striking, high-end photography at the majestic white dragon gateways of Kangla Fort, the bustling paths of the all-women-run Ima Keithel market, and the sweeping circular *phumdi* biomass rings on Loktak Lake. TRAGUIN Premium Luxury Proposals Adventure, Shopping, & Culture Highlights: Explore high-end textile craft shopping for rare Moirang Phee silks, enjoy fully hosted traditional Meitei multi-course meals served on gleaming bell- metal platters, and experience a private, intimate performance of the world-famous Manipuri Raas Leela classical dance.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MN-004 | Bespoke Loktak Floating Paradise & Royal Tribal Heritage | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Manipur package (MN-004 / TRG-MAN-LUX-004): Imphal • Loktak Lake • Moirang • Andro Cultural Outpost • Moreh Border with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: IMPHAL ARRIVAL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: IMPHAL TO LOKTAK LAKE & MOIRANG",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: KEIBUL LAMJAO FLOATING SAFARI TO ANDRO VILLAGE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: EXCURSION TO MOREH (INDO-MYANMAR BORDER)",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: IMPHAL DOWNTOWN & THE IMA KEITHEL HISTORIC EXPERIENCE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: IMPHAL DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, front-row seating at an intimate, classical Manipuri",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom-tailored daily routes designed to avoid large tour groups,",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: Enjoy premium, air-conditioned luxury transportation with dedicated",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "IMPHAL ARRIVAL",
+        "description": "THE ROYAL GATEWAY & ANCIENT SHRINES OF THE MEITEI KINGS Your ultimate luxury journey begins the moment you touch down at Bir Tikendrajit International Airport in Imphal. A senior travel coordinator from TRAGUIN will greet you warmly inside the arrival hall with a traditional royal shawl presentation and fresh seasonal mocktails. Step into your private, plush luxury SUV and transfer smoothly through the scenic tree-lined avenues of the capital to check into your handpicked luxury suite. After a relaxing lunch, begin your discovery of the finest Top Tourist Places in Manipur with a private guided walk through the expansive Kangla Fort, the ancient royal seat of power. Admire the reconstructed wood and brick fortresses, step inside the sacred temple of Lord Pakhangba, and view the imposing white stone Kangla Sha statues. Conclude your afternoon at the beautiful Shree Govindajee Temple, marveling at its twin gold-plated domes just as the evening prayer bells begin to chime.",
+        "activities": [
+          "Sightseeing Included: Kangla Fort Palace Complex, Royal Moats, Shree Govindajee Temple, Sha Shrines.",
+          "Optional Activities: A private introductory meeting with a Meitei royal family heritage archivist.",
+          "Evening Experience: Private orientation by your travel concierge accompanied by gourmet local snacks.",
+          "Overnight Stay: Premium Luxury Suite, Imphal.",
+          "Meals Included: Welcome Lunch & Curated Fine Dining Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "IMPHAL TO LOKTAK LAKE & MOIRANG",
+        "description": "CRUISING THE CELESTIAL FLOATING RINGS & PATRIOTIC FOOTSTEPS Indulge in a beautiful buffet breakfast before checking out for your scenic southern drive toward Moirang town. Today, your destination is the iconic Loktak Lake, a breathtaking landscape that forms the core of all TRAGUIN Manipur Packages. Upon arrival, step directly into a private, high-speed luxury motorboat arranged exclusively for you. Glide across the glass- like water to weave around the massive circular *phumdis*—floating mats of vegetation and soil that drift beautifully across the lake. TRAGUIN Premium Luxury Proposals Step onto a local floating fisherman's island to experience a warm cup of local tea and learn about their unique lifestyle on water. Later, return to the mainland at Moirang to explore the historic Indian National Army (INA) Memorial Complex. Stand inside the historic hall where the tricolor flag of free India was first raised on mainland soil by the forces of Netaji Subhash Chandra Bose. As the sun begins to set, check into your premium lakeside resort to enjoy panoramic water views.",
+        "activities": [
+          "Sightseeing Included: Private Speedboat Lake Cruise, Phumdi Floating Village, INA Memorial Museum.",
+          "Optional Activities: A traditional wooden canoe rowing experience alongside local lake guides.",
+          "Evening Experience: Private lakeside barbecue under the stars with traditional flute music.",
+          "Overnight Stay: Premium Luxury Over-Water / Lakeside Resort, Loktak.",
+          "Meals Included: Breakfast, Fresh Lakeside Lunch, and Private Grilled Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KEIBUL LAMJAO FLOATING SAFARI TO ANDRO VILLAGE",
+        "description": "THE DANCING DEER OF THE WILD & ANCIENT POTTERY FIRE SHRINES Wake up early to catch a pristine mountain sunrise as the morning mist gently rises off Loktak Lake. Board an early morning boat safari to enter the famous Keibul Lamjao National Park, the world's only floating wildlife park. Accompanied by a senior naturalist, use high- magnification spotting scopes to sight the rare and endangered Sangai Deer. Watch these beautiful animals move gracefully over the floating reeds, a sight that has made them famous as the \"dancing deer\" of the region. Return for a late breakfast, then enjoy a scenic country drive to the ancient heritage enclave of Andro Cultural Village. This beautifully preserved village functions as a living museum of tribal history. Walk through traditional thatched-roof houses and meet local women artisans who create beautiful black pottery using ancient coil techniques instead of a standard potter's wheel. Conclude your tour by viewing the ancient community fire shrine, which has been kept continuously burning by the villagers for hundreds of years.",
+        "activities": [
+          "Sightseeing Included: Keibul Lamjao National Park, Andro Living Museum, Santhei Natural Park.",
+          "Optional Activities: A hands-on pottery molding masterclass with an award-winning village artisan.",
+          "Evening Experience: Private transfer back to Imphal for a gourmet dinner.",
+          "Overnight Stay: Premium Luxury Suite, Imphal.",
+          "Meals Included: Breakfast, Traditional Tribal Lunch, and Multi-Cuisine Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "EXCURSION TO MOREH (INDO-MYANMAR BORDER)",
+        "description": "TRAGUIN Premium Luxury Proposals THE TRANS-ASIAN TRADE HIGHWAY & CROSSROADS OF SOUTHEAST ASIA Start your day early with a premium breakfast basket packed into your vehicle by our culinary team. Today, your private luxury SUV heads south along the Asian Highway down through the misty hills of Chandel to reach Moreh, India's strategic international border town trading directly with Myanmar. This route offers incredible views of steep mountain valleys and beautiful dense green forests. Your dedicated TRAGUIN logistics assistant will effortlessly manage all local border checkpoint formalities for you. Explore the vibrant international markets filled with unique Burmese teakwood carvings, rare gemstones, and beautiful imported silks. For lunch, step into a trusted local dining venue to enjoy an authentic, aromatic Burmese Khow Suey noodle meal. On your return drive, make a brief stop at the historic Khongjong War Memorial, located on the hills where the last Anglo-Manipur war was fought in 1891.",
+        "activities": [
+          "Sightseeing Included: Moreh International Border Post, Namphalong Asian Bazaar, Khongjong War Memorial Hill.",
+          "Optional Activities: A panoramic hilltop drive for a wide view over the rolling Kabaw Valley of Myanmar.",
+          "Evening Experience: Return to the capital for a relaxing evening and a light dinner at the hotel.",
+          "Overnight Stay: Premium Luxury Suite, Imphal.",
+          "Meals Included: Packed Luxury Breakfast, Burmese Fusion Lunch, and Elegant Suite Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "IMPHAL DOWNTOWN & THE IMA KEITHEL HISTORIC EXPERIENCE",
+        "description": "THE SPRAWLING MATRIARCHAL HERITAGE MARKETS & SACRED CLASSICAL ARTS Savor a relaxed gourmet breakfast before spending your day exploring the rich culture of downtown Imphal. Your first highlight is a guided immersion into the world-famous Ima Keithel (The Mothers' Market). This incredible 500-year-old commercial center is entirely owned and managed by over 5,000 married women traders, making it the largest all-women market in Asia. Walk through rows of brightly colored hand-woven shawls, aromatic organic spices, and delicate brass ornaments. In the afternoon, pay a thoughtful visit to the serene Imphal War Cemetery, a beautifully maintained Commonwealth heritage site that honors the brave soldiers who turned the tide of World War II during the intense battles of 1944. As the evening approaches, prepare for your grand farewell event—a private, front-row viewing of the classical Manipuri Raas Leela dance, followed by a magnificent traditional Meitei feast served on elegant bell-metal platters. TRAGUIN Premium Luxury Proposals",
+        "activities": [
+          "Sightseeing Included: Ima Keithel Mother's Market, Imphal WWII War Cemetery, State Craft Emporium.",
+          "Optional Activities: Private demonstration of Thang-Ta, the dramatic traditional martial art of Manipur.",
+          "Evening Experience: A spectacular traditional farewell dinner ceremony arranged by our team.",
+          "Overnight Stay: Premium Luxury Suite, Imphal.",
+          "Meals Included: Breakfast, Local Artisan Café Lunch, and Grand Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "IMPHAL DEPARTURE",
+        "description": "CHERISHING THE MAGIC OF THE JEWELED LAND & DEPARTURE Enjoy your final morning breakfast looking out over the misty hills of the Imphal valley. Spend a few quiet moments picking up any last-minute souvenirs or packing your bags with the beautiful gifts gathered during your journey. Your professional chauffeur will ensure your luggage is carefully loaded into your premium vehicle before transferring you smoothly to Bir Tikendrajit International Airport for your departure flight. You board your plane with a deep sense of peace, new friendships, and unforgettable memories from your elite journey with TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: En-route scenic valley views and airport departure drop-off.",
+          "Overnight Stay: Departure / Onward Journey Home.",
+          "Meals Included: Full International Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Classic Hotel, Imphal (Executive Room) | Sendra Park Resort by Classic (Standard Villa)",
+        "location": "Imphal | Loktak",
+        "nights_label": "4N Imphal|1N Loktak Lake",
+        "description": "OPTION 01 – DELUXE: The Classic Hotel, Imphal (Executive Room) | Sendra Park Resort by Classic (Standard Villa) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Classic Grande, Imphal (Club Elite Room) | Sendra Park Heritage Resort (Deluxe Water-View)",
+        "location": "Imphal | Loktak",
+        "nights_label": "4N Imphal|1N Loktak Lake",
+        "description": "OPTION 02 – PREMIUM: Classic Grande, Imphal (Club Elite Room) | Sendra Park Heritage Resort (Deluxe Water-View) | APAI (All Daily Meals Included)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "APAI (All Daily Meals Included)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Choice / Classic Grande (Luxury Suite) | Loktak Floating Luxury Over-Water Cottages",
+        "location": "Imphal | Loktak",
+        "nights_label": "4N Imphal|1N Loktak Lake",
+        "description": "OPTION 03 – LUXURY: Radisson Choice / Classic Grande (Luxury Suite) | Loktak Floating Luxury Over-Water Cottages | TRAGUIN Private Culinary Plan",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite | Over-Water Cottage",
+        "meal_plan": "TRAGUIN Private Culinary Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Royal Palace Suite Portfolio / Private Elite | TRAGUIN VIP Custom Floating Geodesic Eco-Dome",
+        "location": "Imphal | Loktak",
+        "nights_label": "4N Imphal|1N Loktak Lake",
+        "description": "OPTION 04 – ULTRA LUXURY: Royal Palace Suite Portfolio / Private Elite | TRAGUIN VIP Custom Floating Geodesic Eco-Dome | Bespoke Royal In-Dome Dining",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Palace Suite | Geodesic Eco-Dome",
+        "meal_plan": "Bespoke Royal In-Dome Dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium suites and over- water floating cottages.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily breakfasts, hosted artisan lunches, and fine farewell dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Dedicated luxury 4x4 SUVs with an experienced mountain chauffeur.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: All entry tickets, inner fort passes, and border crossing permits.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 real-time on-ground TRAGUIN support and local experts.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Exclusive arrival gift hampers featuring organic local products.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private high- speed speedboat rides on Loktak Lake.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights: Commercial domestic or international airfares to/from Imphal.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, premium hard drinks, and phone charges.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Comprehensive travel, baggage, and medical insurance coverage.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Any extra sightseeing detours not listed in the itinerary.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera Fees: Professional drone or special filming gear permits.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips: Voluntary gratuities for local drivers, guides, and hotel staff.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

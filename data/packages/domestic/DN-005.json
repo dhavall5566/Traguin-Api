@@ -1,0 +1,280 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-005-complete-silvassa-escapade",
+    "serial_code": "DN-005",
+    "traguin_tour_code": "TRG-DN-005",
+    "title": "Complete Silvassa Escapade",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-005 | TRAGUIN tour code TRG-DN-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Khanvel • Dudhani • Vasona • Luhari",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Premium Family Holidays, Couples & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customized Portfolio)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle & Meal Plan: Chauffeur-Driven Premium AC Sedan/SUV • MAPAI Base",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Silvassa Arrival → Vasona Safari & Nakshatra → Dudhani Speed Boat → Khanvel & Luhari → Swaminarayan Temple Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, slow-travel tribal interactions and curated village art walks.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Experiences: Hand-painted Warli artwork, organic wild honey, bamboo utility products, and handmade paper lampsheets.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Jungle safaris and lake villas require early confirmation; winter ideal for outdoor exploration; vehicle usage per specified custom schedule map.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-005-complete-silvassa-escapade-itinerary",
+    "title": "Complete Silvassa Escapade",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customized Portfolio)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Complete Silvassa Escapade • Forests, Lakes & Portuguese Elegance",
+    "overview": "Welcome to an unforgettable escape custom-tailored by TRAGUIN. Discover the ultimate Dadra and Nagar Haveli Family Tour, structured precisely to unlock the mesmerizing scenic beauty, indigenous tribal heritage, and Portuguese architectural marvels of this serene Union Territory. From the tranquil waters of Dudhani Lake to the thrilling wildlife tracks of Vasona Lion Safari, immerse yourself in premium luxury stays and natural brilliance.\n\nTOUR OVERVIEW\nThis bespoke travel program offers an exquisite balance between luxury relaxation, wildlife discovery, and deep-rooted cultural exploration. Your family will enjoy private executive door-to-door transit in a premium vehicle with round-the-clock professional assistance. Featuring a handpicked selection of top-tier jungle resorts and riverside boutique properties, our specialized meal plan provides an authentic taste of western regional and international culinary creations.\n\nWHY CHOOSE THE BEST SILVASSA TOUR PACKAGE?\nSilvassa boasts some of the most iconic attractions in Western India—from the legendary Swaminarayan Temple to the lush canopies of Nakshatra Garden and the mesmerizing expanse of the Madhuban Dam. Whether you look forward to authentic Warli painting workshops or artisanal woodcraft shopping, our TRAGUIN packages align premium stays and curated exclusive experiences perfectly.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-005 | Complete Silvassa Escapade Premium Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Complete Silvassa package (DN-005 / TRG-DN-005): Tribal Cultural Museum, Vasona Lion Safari, Dudhani speed boat, Khanvel & Luhari, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tribal Cultural Museum, Vanganga Lake Garden & musical fountain show on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Vasona Lion Safari, Satmali Deer Park & Nakshatra Garden on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Dudhani private speed boat charter & Warli tribal interactions on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Khanvel, Bindrabin Temple, Luhari forest paths & Our Lady of Piety Church on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Swaminarayan Temple visit & smooth departure transfer on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private slow-travel tribal interactions and village art walks",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing planned to avoid weekend crowds at major family spots",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa | Welcome to the Garden City – Tranquil Landscapes & Luxury Arrival",
+        "description": "Your premium Silvassa experience begins as you arrive at Vapi Railway Station or Mumbai Airport, where a private chauffeur-driven luxury vehicle greets your family. Enjoy a smooth drive into Silvassa and check into your premium riverside luxury resort. In the afternoon, visit the Tribal Cultural Museum showcasing ancient musical instruments, authentic Warli artifacts, and hunting tools. Later, visit the beautifully manicured Vanganga Lake Garden for a peaceful evening walk across its classic wooden bridges.",
+        "activities": [
+          "Sightseeing Included: Tribal Cultural Museum, Vanganga Lake Garden, local artisanal markets.",
+          "Evening Experience: Private family musical fountain show viewing with premium resort evening high-tea.",
+          "Overnight Stay: Silvassa (Premium Waterfront / Luxury Riverside Resort).",
+          "Meals Included: Welcome Mocktail & Gourmet Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Vasona Lion Safari & Satmali Deer Park | Wildlife Majesty & Immersive Eco-Adventures",
+        "description": "Enjoy a lavish morning breakfast before heading out for a thrilling day of wildlife encounters. Board a secured private safari vehicle at the Vasona Lion Safari Park to see majestic Asiatic lions roaming in their natural habitat. Continue through the deep green woods to the Satmali Deer Park to spot sambar, chital, and blackbucks. In the evening, visit the serene Nakshatra Garden, a beautifully designed astro-themed park filled with medicinal plants and stunning walkways.",
+        "activities": [
+          "Sightseeing Included: Vasona Lion Safari, Satmali Deer Park, Nakshatra Garden walking trails.",
+          "Photography Points: Exotic bird observation decks and panoramic woodland viewpoints.",
+          "Overnight Stay: Silvassa (Premium Resort Property).",
+          "Meals Included: Premium Breakfast & Luxury Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Excursion to Dudhani Lake | The Kashmir of the West – Private Waterfront Luxury",
+        "description": "Depart after a delicious breakfast on a scenic drive to Dudhani, a magnificent waterfront destination formed by the waters of the Madhuban Dam. TRAGUIN has arranged a private luxury speed boat charter across the shimmering waters. Spend a relaxed afternoon interacting with local Warli tribes, learning their historical painting techniques, and savoring local culinary specialties.",
+        "activities": [
+          "Sightseeing Included: Dudhani Waterfront, Madhuban Dam Panoramic Deck, Tribal Artisan Quarter.",
+          "Optional Activities: Jet-skiing, traditional wooden boat rides, or a customized premium lakeside picnic.",
+          "Overnight Stay: Silvassa / Dudhani Lakeside Luxury Resort.",
+          "Meals Included: Premium Breakfast & Authentic Organic Fusion Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Silvassa to Khanvel & Luhari | Serene Jungle Canopies & Historic Portuguese Memories",
+        "description": "Drive down the tree-lined avenues toward Khanvel, a beautiful pastoral landscape surrounded by lush green forests. Visit the beautiful Bindrabin Temple situated elegantly on the banks of the Sakartod River. Spend the afternoon wandering through the tranquil forest paths of Luhari, which offer a completely peaceful escape. In the evening, visit the grand Our Lady of Piety Church, built by the Portuguese in 1889, showcasing spectacular stone architecture.",
+        "activities": [
+          "Sightseeing Included: Khanvel Forest Zone, Bindrabin Temple, Our Lady of Piety Church, Luhari green hills.",
+          "Evening Experience: A relaxed candlelight poolside dinner at your luxury resort, organized by TRAGUIN experts.",
+          "Overnight Stay: Silvassa Luxury Cottage Villa.",
+          "Meals Included: Premium Breakfast & Gala Farewell Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure via Swaminarayan Temple | Carrying Home Unforgettable Memories",
+        "description": "Indulge in a final lavish breakfast at your resort before preparing for check-out. Visit the magnificent, intricately carved pink stone Swaminarayan Temple, renowned for its architectural beauty and peaceful spiritual atmosphere. Later, your private luxury transport vehicle will safely drive you back to Vapi Railway Station or Mumbai Airport.",
+        "activities": [
+          "Transfers Included: Private door-to-door transit drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pluz Resort / Wonderland Resort / similar",
+        "location": "Silvassa / Khanvel",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts Silvassa / Khanvel Resort / similar",
+        "location": "Silvassa / Khanvel",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Pool View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort Silvassa / similar",
+        "location": "Silvassa / Khanvel",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort (Elite Executive Royal Villa)",
+        "location": "Silvassa / Khanvel",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Luxury Villa",
+        "meal_plan": "Bespoke Gourmet Dine Inclusive",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked luxury stays as per chosen category portfolio.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private chauffeur-driven AC transit throughout the tour route.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily breakfast spread and customized table d'hôte dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Assistance: 24/7 dedicated remote ground operations coordinator.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold towels, specialized family travel kits, and mineral water supply.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private speed-boat ride experience voucher at Dudhani Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, interstate permits, or long-distance railway tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera charges, and personal local guide fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, premium beverages, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional watersports, specialized safari bookings, or extension travel routes.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-018-chittorgarh-bundi-historic-trail",
+    "serial_code": "RJ-018",
+    "traguin_tour_code": "TRAGUIN-RJ-018",
+    "title": "Chittorgarh & Bundi Historic Trail",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code RJ-018 | TRAGUIN tour code TRAGUIN-RJ-018",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Rajasthan / India | Category: Culture & Heritage Trail",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chittorgarh • Bundi Historic Trail",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Heritage Lovers, Families & Couples",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury) | Budget Category: Elite Luxury / Premium Stays",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Luxury Chauffeur-Driven Air-Conditioned Vehicle",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Breakfast & Gourmet Dinners)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Udaipur/Jaipur Arrival → Chittorgarh Fort → Bundi Palace → Stepwells Exploration → Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: This bespoke itinerary focuses on immersive experiences, handpicked hotels, and cultural storytelling. Enjoy VIP access to monumental forts, local artisan encounters, and luxury stays away from regular crowds.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Chittorgarh Markets: Famous for Akola printed textiles, traditional wooden toys, and leather handicrafts. Bundi Bazaars: Pick up genuine hand-painted miniatures, local Kota Doria silk sarees, and traditional silver jewelry. Food Recommendations: Do not miss out on authentic Dal Baati Churma, Mawa Kachori, and local organic ginger-mint teas at historical palace cafes.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Standard check-in begins at 14:00 hrs and check-out finishes by 11:00 hrs. Early check-ins are subject to room availability. Weather Notes: Daytimes are beautifully clear and sunny, while evenings can become quite cold. Carrying light jackets or pashminas is advised. Advance Booking Suggestions: Rajasthan packages sell out quickly during high season. Early reservations are recommended to secure premier properties.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Culture",
+      "Heritage",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-018-chittorgarh-bundi-historic-trail-itinerary",
+    "title": "Chittorgarh & Bundi Historic Trail",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Chittorgarh & Bundi Historic Trail • 04 Nights / 05 Days",
+    "overview": "Welcome to an unforgettable journey back in time. This exclusive Rajasthan Honeymoon Package and Rajasthan Family Tour, masterfully curated by TRAGUIN Experts, takes you deep into the heart of heroic legends, architectural wonders, and breathtaking landscapes. Experience a Premium Rajasthan Experience designed to leave you with unforgettable memories.\n\nTOUR OVERVIEW\nVehicle Allocated: Private Luxury Chauffeur-Driven Air-Conditioned Vehicle\nMeal Plan: Modified American Plan (Breakfast & Gourmet Dinners)\nRoute Map: Udaipur/Jaipur Arrival → Chittorgarh Fort → Bundi Palace → Stepwells Exploration → Departure\n\nTRAGUIN Curated Experience Note: This bespoke itinerary focuses on immersive experiences, handpicked hotels, and cultural storytelling. Enjoy VIP access to monumental forts, local artisan encounters, and luxury stays away from regular crowds.\n\nWHY VISIT CHITTORGARH & BUNDI? A LUXURY RAJASTHAN HOLIDAY\nRajasthan is a land of vibrant heritage, but the historic trail of Chittorgarh and Bundi offers an exclusive look into pure royalty, untouched by commercialization. Chittorgarh is home to India's largest fort complex, representing unparalleled valor and breathtaking landscapes. Meanwhile, Bundi boasts magnificent stepwells, frescoed palaces, and serene lakes that serve as popular Instagram locations for discerning luxury travelers.\nWhether you are planning a romantic couples' retreat or a rich educational family vacation, this Premium Rajasthan Experience showcases the absolute best of local culture, historic sightseeing, and traditional architecture. The Best Time to Visit Rajasthan is during the cooler months when the marble palaces shine and traditional evening festivals come to life. Let TRAGUIN Rajasthan Packages turn your travel dreams into reality.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "RJ-018 | Chittorgarh & Bundi Historic Trail | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Rajasthan heritage package (RJ-018 / TRAGUIN-RJ-018): Chittorgarh Fort, Bundi Palace, Taragarh Fort, Chitrashala, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Chittorgarh Fort, Vijay Stambha, Kirti Stambha, Padmini Palace, Rana Kumbha Palace",
+        "sort_order": 1
+      },
+      {
+        "text": "Raniji ki Baori, Nawal Sagar Lake, Bundi Palace, Taragarh Fort, Chitrashala, Sukh Mahal",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Handcrafted meticulously by destination experts for seamless heritage discovery",
+        "sort_order": 3
+      },
+      {
+        "text": "Private workshop meeting traditional artists specializing in authentic Bundi school of art paintings",
+        "sort_order": 4
+      },
+      {
+        "text": "Complimentary private artisan encounter and specialized miniature art demonstration in Bundi",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Transfer to Chittorgarh",
+        "description": "Arrive at the airport/railway station where your private luxury vehicle and professional chauffeur await. Enjoy a scenic, comfortable drive through the rural landscape as you head toward the historic fortress town of Chittorgarh. Check into your handpicked premium heritage stay and unwind with premium welcome amenities. In the evening, witness a magnificent sunset view over the Mewar plains.",
+        "activities": [
+          "Sightseeing Included: En-route scenic photo spots, evening leisure walk.",
+          "Evening Experience: A private welcome briefing and refreshing high-tea organized by your travel consultant.",
+          "Overnight Stay: Handpicked Luxury Heritage Hotel in Chittorgarh.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Chittorgarh Sightseeing",
+        "description": "Devote your day to an epic exploration of the iconic Chittorgarh Fort, a UNESCO World Heritage site standing as the epitome of Rajput courage. Walk through ancient palaces, marvel at the intricately carved 9-story Vijay Stambha (Tower of Victory), and view the serene Padmini Palace surrounded by water. Hear the emotional storytelling of royal legends from our certified expert guide before enjoying a local shopping walk for traditional textiles in the afternoon.",
+        "activities": [
+          "Sightseeing Included: Chittorgarh Fort, Vijay Stambha, Kirti Stambha, Padmini Palace, Rana Kumbha Palace.",
+          "Photography Points: Breathtaking panoramic shots from the fort ramparts and the reflective pools of Padmini Palace.",
+          "Overnight Stay: Premium Heritage Hotel in Chittorgarh.",
+          "Meals Included: Buffet Breakfast & Specialized Palace Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Chittorgarh to Bundi",
+        "description": "After a relaxed breakfast, check out and drive comfortably towards the charming town of Bundi, famous for its blue-painted houses, majestic palaces, and ornate stepwells. Upon arrival, check into your ultra-luxury palace hotel. In the afternoon, dive into history by visiting the pristine Raniji ki Baori (Queen's Stepwell), an architectural masterpiece showcasing intricate stone carvings that tell beautiful ancient stories.",
+        "activities": [
+          "Sightseeing Included: Raniji ki Baori, Nawal Sagar Lake.",
+          "Evening Experience: A tranquil lakeside walk watching the palace reflection illuminate the water at twilight.",
+          "Overnight Stay: Handpicked Premium Palace Resort in Bundi.",
+          "Meals Included: Elegant Breakfast & Chef's Special Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Bundi Palace & Taragarh Exploration",
+        "description": "Uncover the gems of Bundi by exploring the spectacular Garh Palace and the dramatic Taragarh Fort. Step inside the world-renowned Chitrashala (Picture Gallery) to marvel at the vibrant, centuries-old miniature paintings that remain exceptionally preserved. Walk down the narrow heritage lanes of the old town, interacting with local miniature artists and exploring traditional bazaars filled with unique souvenirs.",
+        "activities": [
+          "Sightseeing Included: Bundi Palace, Taragarh Fort, Chitrashala, Sukh Mahal.",
+          "Local Experiences: Private workshop meeting traditional artists specializing in authentic Bundi school of art paintings.",
+          "Overnight Stay: Premium Palace Resort in Bundi.",
+          "Meals Included: Royal Breakfast & Farewell Theme Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure",
+        "description": "Savor your final luxury breakfast overlooking the palace grounds. Enjoy a relaxed morning capturing your last photography points around the estate. Your private chauffeur will arrive punctually to transfer you comfortably to the airport or railway station for your onward flight home, concluding your premium holiday experience.",
+        "activities": [
+          "Transfers Included: Private Chauffeur-Driven Airport/Station Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bassie Fort Heritage Resort / Hadoti Palace, Bundi",
+        "location": "Chittorgarh / Bundi",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Heritage Room / Palace Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Fort Begu Heritage Palace / Classic Bundi Vilas",
+        "location": "Chittorgarh / Bundi",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Heritage Suite / Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Castle Bijaipur Heritage Hotel / Rajmahal Palace Resort",
+        "location": "Chittorgarh / Bundi",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Suite / Palace Suite",
+        "meal_plan": "MAP (Gourmet Buffet)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Jodhas Heritage Fort Stay / Brahm Niwas Luxury Palace",
+        "location": "Chittorgarh / Bundi",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Fort Suite / Luxury Palace Room",
+        "meal_plan": "MAP + Traditional High Tea",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 04 Nights premium stay at handpicked luxury heritage hotels and palace resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 04 Multi-cuisine Buffet Breakfasts and 04 specially curated gourmet dinners at the hotels.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated private air-conditioned luxury transportation with professional chauffeur for all sightseeings.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 on-ground concierge support and certified heritage companion guide assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized welcome kit on arrival including traditional dynamic stoles, sanitizers, and mineral water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: A private artisan encounter and specialized miniature art demonstration in Bundi.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to arrival city.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Standard monument entry tickets, camera permissions, or light show passes.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, premium beverages, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional tours or extensions outside the pre-planned itinerary map.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance or medical coverage for emergency services.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

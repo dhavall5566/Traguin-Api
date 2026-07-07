@@ -1,0 +1,280 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-004-tribal-nature-escape",
+    "serial_code": "DN-004",
+    "traguin_tour_code": "TRG-DNH-004",
+    "title": "Tribal Nature Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-004 | TRAGUIN tour code TRG-DNH-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Adventure & Tribal Nature Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Khanvel • Dudhni Lake • Satmaliya • Vasona",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Nature Lovers, Adventure Enthusiasts & Culture Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March (Lush Greenery in September/October)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Tailor-Made)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury AC Vehicle / Executive Breakfast & Dinner",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Silvassa Arrival → Khanvel Safari & Warli Workshop → Dudhni Water Sports → Silvassa Heritage Trail → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private Warli heritage art collective tour with interactive tribal community briefing.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Experiences: Hand-painted Warli artwork, bamboo handicrafts, organic forest honey, and traditional village cuisine.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs; government photo IDs required; book safari seats and lake pontoon experiences well in advance.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Nature",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-004-tribal-nature-escape-itinerary",
+    "title": "Tribal Nature Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Tailor-Made)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Tribal Nature Escape • Wilderness, Water Sports & Warli Culture",
+    "overview": "Welcome to an extraordinary ecosystem of wilderness, untamed water trails, and vivid folklore proudly crafted by TRAGUIN. This bespoke Dadra and Nagar Haveli Adventure tour has been passionately conceptualized for modern explorers craving authentic encounters. Immerse your senses into breathtaking landscapes, emerald-canopied woods, and age-old tribal legacies.\n\nTOUR OVERVIEW\nThis elite itinerary spans across the lush geography of Dadra and Nagar Haveli, unveiling a pristine world away from mainland commotion. From thrilling watersports on the vast waters of Dudhni Lake to intimate tribal Warli art meetups in local villages, every single day is an elevated journey blending rugged wilderness trail explorations with high-end culinary treats.\n\nWHY BOOK THE BEST DADRA AND NAGAR HAVELI TOUR PACKAGE?\nCelebrated for its unique historical blend, Dadra and Nagar Haveli presents some of the finest eco-tourism landscapes in the country. From the serene waters of Dudhni Lake to the roaring wildlife paths of Vasona Lion Safari, the territory promises iconic attractions for groups, families, and solo explorers alike.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-004 | Tribal Nature Escape Adventure Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days tribal nature package (DN-004 / TRG-DNH-004): Satmaliya Deer Park, Vasona Lion Safari, Dudhni jet-ski and sunset cruise, Nakshatra Garden, and 4-tier accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tribal Cultural Museum, Vanganga Lake Garden & torch-lit resort dinner on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Satmaliya Deer Park, Vasona Lion Safari & exclusive Warli workshop on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Dudhni Lake jet-ski, speed-boating & sunset pontoon cruise on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Swaminarayan Temple, Nakshatra Garden & Tarpa Dance farewell on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Smooth departure transfer from Silvassa on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private Warli heritage art collective tour",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Itineraries matched to best wildlife viewing and photography lighting",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa | Welcome to the Tribal Capital – Portuguese Echoes & Urban Escape",
+        "description": "Your premium Dadra and Nagar Haveli sightseeing experience begins with a warm welcome at Vapi Railway Station or Mumbai International Airport by a designated private luxury chauffeur. Enjoy a smooth drive into Silvassa and check into your premium handpicked luxury resort surrounded by pristine greenery. Spend your afternoon visiting the iconic Tribal Cultural Museum displaying ancient musical instruments, fishing gear, and legendary Warli artifacts. Later, take an atmospheric stroll through the carefully landscaped paths of Vanganga Lake Garden.",
+        "activities": [
+          "Sightseeing Included: Tribal Cultural Museum, Vanganga Lake Garden, Silvassa local cathedral.",
+          "Evening Experience: Private torch-lit dinner at the resort featuring premium local cuisine curated by TRAGUIN experts.",
+          "Overnight Stay: Silvassa (Premium Riverscape Resort).",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Silvassa to Khanvel & Satmaliya | Deep Forest Safari, Wildlife Encounters & Tribal Art Insights",
+        "description": "Relish a lavish breakfast before setting off into the dense woods of Khanvel. Your first adventure stop is the Satmaliya Deer Park, where a private open-top safari vehicle will take you to see Blackbucks, Chinkaras, and Spotted Deer roaming through breathtaking landscapes. Next, proceed to the Vasona Lion Safari to witness Asiatic Lions up close in their natural habitat. In the late afternoon, enjoy an exclusive tribal Warli workshop, interacting directly with indigenous master artists who preserve ancient folklore through geometric canvas paintings.",
+        "activities": [
+          "Sightseeing Included: Satmaliya Deer Park, Vasona Lion Safari, Khanvel Forest Range.",
+          "Optional Activities: Personalized Warli canvas painting masterclass with take-home souvenir kits.",
+          "Overnight Stay: Khanvel (Premium Luxury Nature Lodge).",
+          "Meals Included: Premium Breakfast & Organic Forest Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Excursion to Dudhni Lake | Adventure Water Sporting Olympus & Sunset Cruise",
+        "description": "Prepare for an action-packed day as you travel to Dudhni Lake, a massive waterfront formed by the dammed waters of the Madhuban Reservoir. Enjoy a thrilling premium jet-ski ride and speed-boating experience across the expansive lake. In the evening, step aboard a traditional decorated Shikara or private luxury pontoon boat for a peaceful sunset cruise, capturing spectacular panoramic views of the surrounding hills.",
+        "activities": [
+          "Sightseeing Included: Dudhni Lake Waterfront, Madhuban Dam outer panoramic vistas, Tribal Waterfront Hamlets.",
+          "Evening Experience: Premium lakeside high-tea and private acoustic musical session during sunset.",
+          "Overnight Stay: Khanvel / Dudhni Waterfront Cottages.",
+          "Meals Included: Breakfast & Exquisite Lakeside Barbecue Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Khanvel to Silvassa Heritage Trail | Meditative Gardens & Architectural Splendour",
+        "description": "Journey back toward Silvassa along winding roads framed by beautiful tall trees. Dedicate your afternoon to exploring the magnificent BAPS Swaminarayan Temple, celebrated for its intricate pink stone carving architecture. Next, visit the beautiful Nakshatra Garden, an astrological theme park featuring diverse therapeutic flora and popular Instagram locations. Conclude your day with a visit to the historic Church of Our Lady of Piety, a beautiful reminder of the region's colonial past.",
+        "activities": [
+          "Sightseeing Included: BAPS Swaminarayan Temple, Nakshatra Garden, Church of Our Lady of Piety.",
+          "Evening Experience: Farewell tribal dance presentation (Tarpa Dance) performed exclusively for TRAGUIN guests.",
+          "Overnight Stay: Silvassa (Premium Luxury Stay).",
+          "Meals Included: Breakfast & Premium Multi-cuisine Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure from Silvassa | Collecting Unforgettable Memories Beyond Destinations",
+        "description": "Enjoy a final luxurious breakfast at your resort while taking in the beautiful forest views. Pack your bags and load your premium transport vehicle with beautiful memories and souvenirs. Your private vehicle will drop you off at Vapi Railway Station or Mumbai International Airport for your return home.",
+        "activities": [
+          "Transfers Included: Private luxury highway drop-off to station/airport.",
+          "Meals Included: Lavish Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts / similar | Khanvel Resort / similar",
+        "location": "Silvassa (2 Nights) / Khanvel / Dudhni (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Ras Resorts / similar (Silvassa, 2 Nights) | Khanvel Resort / similar (Khanvel/Dudhni, 2 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Garden View",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort Silvassa / similar | Pluz Resort Khanvel / similar",
+        "location": "Silvassa (2 Nights) / Khanvel / Dudhni (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Treat Resort Silvassa / similar (Silvassa, 2 Nights) | Pluz Resort Khanvel / similar (Khanvel/Dudhni, 2 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Pool View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Wonderland Resort Luxury Wing | Dudhni Lakeside Luxury Cottages",
+        "location": "Silvassa (2 Nights) / Khanvel / Dudhni (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Wonderland Resort Luxury Wing (Silvassa, 2 Nights) | Dudhni Lakeside Luxury Cottages (Khanvel/Dudhni, 2 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury River Front Cottage",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "VVIP Private Villa Wing (Treat) | Bespoke Forest Glamping Villa",
+        "location": "Silvassa (2 Nights) / Khanvel / Dudhni (2 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: VVIP Private Villa Wing Treat (Silvassa, 2 Nights) | Bespoke Forest Glamping Villa (Khanvel/Dudhni, 2 Nights) | Elite Custom Curated Meals",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Plunge Pool Suite",
+        "meal_plan": "Elite Custom Curated Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Luxury resort stays as specified above.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private chauffeur-driven AC vehicle for transfers and trails.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily breakfasts and signature thematic dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local guest experience executive.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Native welcome drink, chilled towels, and a premium travel kit.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private sunset boat ride ticket at Dudhni Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight surcharges, and interstate rail travel tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Watersports equipment rental, jet-ski charges, and additional safari tickets.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, alcohol, minibar, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any insurance premium or costs arising from unpredictable natural occurrences.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

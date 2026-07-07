@@ -1,0 +1,350 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-024-grand-malabar-heritage-calicut",
+    "serial_code": "KL-024",
+    "traguin_tour_code": "TRAGUIN-KL-024",
+    "title": "Grand Malabar Heritage (Calicut)",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-024 | TRAGUIN tour code TRAGUIN-KL-024",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Culture & Heritage Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Calicut (Kozhikode) • Wayanad • Beypore • Kappad",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Culture Seekers, Families & Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Culture & Leisure FIT Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Sedan / Premium SUV",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Gourmet Breakfast & Specialized Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Calicut Arrival → Kappad → Beypore Heritage Village → Wayanad Hills → Calicut Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts introducing elite travelers to untold histories of Northern Kerala with private luxury transportation and master craftsmen access.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Malabari Kozhikodan Halwa, banana chips, and premium spices from S.M. Street; miniature wooden Uru ships from Beypore master carpenters",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; lightweight cotton for Calicut coast, soft jacket for Wayanad evenings; early confirmations recommended",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Culture",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-024-grand-malabar-heritage-calicut-itinerary",
+    "title": "Grand Malabar Heritage (Calicut)",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Malabar Heritage (Calicut) • 05 Nights / 06 Days",
+    "overview": "Wayanad Beypore Kappad IDEAL FOR: Culture Seekers, Families & Connoisseurs BEST SEASON: September to March TRAGUIN TOUR CODE: TRAGUIN-KL-024 TRAGUIN PREMIUM KERALA TOUR PACKAGE GRAND MALABAR HERITAGE (CALICUT) 05 NIGHTS / 06 DAYS Step into the cradle of spice trading history, coastal grandeur, and timeless royalty. This exclusive Grand Malabar Heritage Tour curated by TRAGUIN uncovers the magnificent cultural depth of North Kerala. From the legendary ports of Calicut where ancient global explorers dropped anchor to the misty tribal hills of Wayanad, embark on an emotional journey of immersive experiences, handpicked hotels, and breathtaking landscapes designed to stay in your heart forever. TRAGUIN Exclusive Malabar\n\nNorthern Kerala presents a starkly different, pristine alternative to the traditional tourist circuits. When planning the Best Kerala Tour Package or a sophisticated Kerala Family Tour, the Grand Malabar Heritage region stands out for its raw, unfiltered historical charm. Kozhikode, historically known as Calicut, is highly searched as the culinary capital of South India, rich in architectural marvels and sensory stories. From exploring the iconic attractions of Forts and ancient shipyards to setting foot on Kappad Beach where Vasco da Gama arrived, this Luxury Kerala Holiday blends history with breathtaking landscapes. Famous attractions include the\n\nTRAGUIN Curated Touch: Curated by TRAGUIN Experts introducing elite travelers to untold histories of Northern Kerala with private luxury transportation and master craftsmen access.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-024 | Grand Malabar Heritage (Calicut) | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Kerala package (KL-024 / TRAGUIN-KL-024): Calicut (Kozhikode) • Wayanad • Beypore • Kappad. Handpicked luxury stays and private transfers by TRAGUIN.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Kappad Beach Vasco da Gama landing monument",
+        "sort_order": 1
+      },
+      {
+        "text": "Beypore Uru shipyard and Sweet Meat Street halwa tasting",
+        "sort_order": 2
+      },
+      {
+        "text": "Wayanad Edakkal Caves and Thamarassery Ghat drive",
+        "sort_order": 3
+      },
+      {
+        "text": "Pookode Lake row-boat ride and organic spice farm",
+        "sort_order": 4
+      },
+      {
+        "text": "Exclusive private Kalaripayattu performance in Calicut",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "CALICUT",
+        "description": "Arrive at Calicut International Airport where your elite TRAGUIN chauffeur welcomes you. Transfer in comfort to your premium heritage stay overlooking the Arabian Sea. After a seamless check-in and refreshing afternoon rest, proceed to the historic Kappad Beach. Stand at the historic spot marked by a stone monument where global maritime history transformed forever with Vasco da Gama's arrival in 1498. Walk along the beach walkway as the golden sun sets into the horizon.",
+        "activities": [
+          "Sightseeing Included: Kappad Beach Discovery, Calicut Beach Pier Walkway.",
+          "Evening Experience: A sunset high-tea briefing at a seaside lounge discussing the upcoming heritage details.",
+          "Overnight Stay: Handpicked Luxury Resort, Calicut.",
+          "Meals Included: Welcome Drink & Traditional Malabari Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "BEYPORE & CALICUT",
+        "description": "After a premium breakfast, visit the historic port town of Beypore located at the mouth of the Chaliyar River. Beypore is world-famous for its ancient wooden shipbuilding yards where master artisans have designed massive seafaring vessels known as 'Urus' entirely by hand for over 1500 years. Witness these architectural marvels up close. Later, discover the rich alleys of Sweet Meat Street (Mithai Theruvu) to taste the famous Calicut Halwa and enjoy premium spice shopping at the bustling local bazaar.",
+        "activities": [
+          "Sightseeing Included: Beypore Uru Shipyard, Beypore Pulimuttu (Sea Bridge), Mithai Theruvu Shopping, Tali",
+          "Optional Activities: Sampling authentic Kozhikode Biryani at an iconic culinary heritage restaurant.",
+          "Photography Points: The towering skeletons of wooden ships at the shipyard and the unique 1-km long stone",
+          "Overnight Stay: Handpicked Luxury Resort, Calicut.",
+          "Meals Included: Breakfast & Specialized Regional Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CALICUT TO WAYANAD",
+        "description": "Today, your private luxury transport steers into the verdant mountains of Wayanad. Negotiate the famous Thamarassery Lakkidi Ghat pass featuring nine hairpin turns, with each curve revealing sweeping panoramas of lush valleys and breathtaking landscapes. Stop at the high-altitude Lakkidi Viewpoint for incredible photography. Upon arrival, check into a premium eco-luxury rainforest estate hotel tucked away inside rolling tea plantations.",
+        "activities": [
+          "Sightseeing Included: Thamarassery Ghat Drive, Lakkidi Viewpoint, Pookode Lake.",
+          "Evening Experience: A peaceful private row-boat ride across the natural freshwater mirror of Pookode Lake,",
+          "Overnight Stay: Premium Handpicked Wilderness Resort, Wayanad.",
+          "Meals Included: Breakfast & Gourmet Estate Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "WAYANAD",
+        "description": "Delve into prehistoric antiquity today. Journey to the magnificent Edakkal Caves, situated 1,200 meters up on Ambukuthi Mala. These are not geological caves but an extraordinary natural rock cleft housing petroglyphs dating back over 8,000 years to the Neolithic era. Spend time marveling at the ancient human and animal engravings. In the afternoon, explore a beautifully manicured organic spice farm to witness how pepper, cardamom, and vanilla are harvested.",
+        "activities": [
+          "Sightseeing Included: Edakkal Caves Heritage Exploration, Ambalavayal Museum, Organic Spice Farm.",
+          "Immersive Experiences: Guided plantation walk with an expert botanist detailing Malabar's historical spice",
+          "Overnight Stay: Premium Handpicked Wilderness Resort, Wayanad.",
+          "Meals Included: Full Buffet Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "WAYANAD TO CALICUT",
+        "description": "Descend the misty mountains back to the sunny shores of Calicut. Check back into your premium seaside luxury sanctuary. Spend your afternoon choosing exquisite souvenirs, high-grade spices, and local banana chips. In the evening, TRAGUIN presents an exclusive private performance of **Kalaripayattu**—the ancient mother of all martial arts, featuring gravity-defying moves and incredible traditional fire-sword play.",
+        "activities": [
+          "Sightseeing Included: Calicut Regional Crafts Village, S.M. Street Souvenirs.",
+          "Evening Experience: Exclusive private Kalaripayattu performance followed by an interaction with the master",
+          "Overnight Stay: Handpicked Luxury Resort, Calicut.",
+          "Meals Included: Breakfast & Grand Royal Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CALICUT DEPARTURE",
+        "description": "Savor a luxurious morning breakfast as the sea breeze rolls over your balcony. Take a last walk along the sandy beachfront before checking out. Your private vehicle will arrive to transfer you smoothly to Calicut International Airport for your flight home. Your elite TRAGUIN Kerala Package concludes with deep cultural insights and unforgettable memories.",
+        "activities": [
+          "Transfers Included: Private Airport Drop-off.",
+          "Meals Included: Full Gourmet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Raviz Calicut",
+        "location": "Calicut",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Sterling Wayanad",
+        "location": "Wayanad",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Gateway Hotel Beach Road",
+        "location": "Calicut",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vythiri Village Resort",
+        "location": "Wayanad",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Raviz Kadavu (Heritage Resort)",
+        "location": "Calicut",
+        "nights_label": "03 Nights",
+        "description": "Option 05 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Room",
+        "meal_plan": "MAP (Gourmet Dining)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Pepper Trail Luxury Plantation Resort",
+        "location": "Wayanad",
+        "nights_label": "02 Nights",
+        "description": "Option 06 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Plantation Villa",
+        "meal_plan": "MAP (Gourmet Dining)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Raviz Kadavu (Luxury Suite/Pool Villa)",
+        "location": "Calicut",
+        "nights_label": "03 Nights",
+        "description": "Option 07 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Pool Villa",
+        "meal_plan": "MAP + Immersive inclusions",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Kabini / Vythiri Resort Luxury Tree House",
+        "location": "Wayanad",
+        "nights_label": "02 Nights",
+        "description": "Option 08 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Tree House",
+        "meal_plan": "MAP + Immersive inclusions",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 05 Nights stay at handpicked premium deluxe/luxury hotels selected for superior comfort.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 05 Premium Buffet Breakfasts and 05 curated gourmet theme Dinners highlighting Malabar spices.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven air-conditioned private vehicle for entire duration as per itinerary.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 on-call concierge assistance and local guide companion at key historical zones.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private boat cruise at Pookode Lake and exclusive VIP entrance for live Kalaripayattu performance.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized welcome kit with premium Malabar spice samples, natural refreshments, and packaged mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or rail tickets to and from Calicut (Kozhikode).",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any monument entrance tickets, camera fees, or local porter charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone bills, alcoholic beverages, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities or vehicle usage outside of standard day requirements.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and medical insurance policies.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-005-premium-bali-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Premium Bali Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 42,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Ubud (3N) → Seminyak/Kuta (4N) with Nusa Penida day cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Bali Swing, Monkey Forest & Kintamani volcano views",
+        "sort_order": 2
+      },
+      {
+        "text": "Tanah Lot, Uluwatu Kecak Fire Dance & Jimbaran seafood feast",
+        "sort_order": 3
+      },
+      {
+        "text": "Private MPV with English-speaking guide throughout",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 premium concierge helpdesk",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-BALI-PREMIUM-005 | Serial ID-005",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Beach",
+      "Cultural",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-005-premium-bali-itinerary",
+    "title": "Premium Bali Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Custom)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ubud • Kuta • Seminyak • Nusa Penida",
+    "overview": "The ultimate Bali family tour — a majestic journey through mystical emerald rice terraces, iconic sea temples, and exclusive experiences designed for multi-generational families. Includes premium handpicked stays, Nusa Penida catamaran cruise, private MPV with professional guide, and TRAGUIN 24/7 concierge support. Best season: April to October.",
+    "is_featured": true,
+    "featured_sort_order": 42,
+    "seo_title": "ID-005 | Premium Bali Family Tour | TRAGUIN",
+    "seo_description": "Luxury 07 Nights / 08 Days Bali family package (ID-005): Ubud, Nusa Penida, Tanah Lot, Uluwatu, Kintamani, and Seminyak with private MPV and catamaran cruise.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Tegalalang Rice Terraces & Private Bali Swing",
+        "sort_order": 1
+      },
+      {
+        "text": "Kintamani Volcano & Tirta Empul Temple",
+        "sort_order": 2
+      },
+      {
+        "text": "Nusa Penida Catamaran Cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Uluwatu Kecak Fire Dance",
+        "sort_order": 4
+      },
+      {
+        "text": "Tanah Lot Sea Temple at Sunset",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Bali & Transfer to Ubud",
+        "description": "Arrive at Ngurah Rai International Airport with a warm Balinese welcome. Traditional cold towel and flower garlands before your scenic drive to Ubud. Check into your premium handpicked luxury resort villa.",
+        "activities": [
+          "Sightseeing Included: Airport meet & greet, Ubud scenic transfer",
+          "Overnight Stay: Ubud (Premium Handpicked Resort Villa)",
+          "Meals Included: Welcome drink & premium curated dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Ubud Cultural Immersion — Emerald Rice Terraces",
+        "description": "Visit the breathtaking Tegalalang Rice Terraces with private Bali Swing experience. Walk through the Sacred Monkey Forest and Ubud Royal Palace. Organic farm-to-table lunch overlooking the landscape.",
+        "activities": [
+          "Sightseeing Included: Tegalalang Rice Terraces, Bali Swing, Monkey Forest, Ubud Royal Palace",
+          "Overnight Stay: Ubud (Premium Handpicked Resort Villa)",
+          "Meals Included: Breakfast & gourmet lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Kintamani Volcano Majesty & Sacred Purification",
+        "description": "Journey to Kintamani for panoramic Mount Batur views. Visit Pura Tirta Empul holy water temple and local coffee and spice plantations.",
+        "activities": [
+          "Sightseeing Included: Kintamani volcano viewpoint, Tirta Empul Temple, coffee plantations",
+          "Overnight Stay: Ubud (Premium Handpicked Resort Villa)",
+          "Meals Included: Breakfast & lunch at volcano-view restaurant"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Tanah Lot & Transition to Coastal Luxury",
+        "description": "Visit the mystical Tanah Lot Temple en route to Seminyak/Kuta. Check into your ultra-luxury beachfront resort.",
+        "activities": [
+          "Sightseeing Included: Tanah Lot sea temple, southern coastal highlights",
+          "Evening Experience: Sunset at premium Seminyak beach club cabana",
+          "Overnight Stay: Seminyak / Kuta (Luxury Beachfront Resort)",
+          "Meals Included: Breakfast & premium seafood dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Nusa Penida Exclusive Cruise",
+        "description": "Premium high-speed catamaran day cruise to Nusa Penida. Visit Kelingking Beach, Angel's Billabong, and Broken Beach.",
+        "activities": [
+          "Sightseeing Included: Nusa Penida catamaran cruise, Kelingking Beach, Angel's Billabong, Broken Beach",
+          "Overnight Stay: Seminyak / Kuta (Luxury Beachfront Resort)",
+          "Meals Included: Breakfast & international buffet lunch on cruise"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Uluwatu Cliff Temple & Fire Dance",
+        "description": "Explore the majestic Uluwatu Temple perched on a 70-meter cliff. Premium reserved seats for the Kecak Fire Dance at sunset. Candlelit family dinner on Jimbaran Bay sand.",
+        "activities": [
+          "Sightseeing Included: Uluwatu cliff temple, premium Kecak Fire Dance, Jimbaran Bay",
+          "Evening Experience: Jimbaran Bay seafood feast on the sand",
+          "Overnight Stay: Seminyak / Kuta (Luxury Beachfront Resort)",
+          "Meals Included: Breakfast & Jimbaran seafood feast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Leisure, Spa & Luxury Shopping",
+        "description": "Complimentary Balinese massage at resort spa. Curated shopping tour of Seminyak luxury boutiques. Grand farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Seminyak luxury retail tour, beachfront leisure",
+          "Evening Experience: Grand farewell dinner at Indonesian heritage estate",
+          "Overnight Stay: Seminyak / Kuta (Luxury Beachfront Resort)",
+          "Meals Included: Breakfast & grand farewell dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Farewell Bali",
+        "description": "Final gourmet breakfast before private chauffeur transfer to Ngurah Rai International Airport.",
+        "activities": [
+          "Sightseeing Included: Private airport departure transfer",
+          "Meals Included: Gourmet buffet breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Alaya Resort Ubud / similar",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Bed & Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Haven Bali Seminyak / similar",
+        "location": "Seminyak",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Bed & Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Maya Ubud Resort & Spa / similar",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Bed & Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Courtyard by Marriott Seminyak / similar",
+        "location": "Seminyak",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Bed & Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Kayon Resort by Pramana",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Bed & Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "The Seminyak Beach Resort & Spa",
+        "location": "Seminyak",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast + Dynamic Dining",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Mandapa, a Ritz-Carlton Reserve",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Premium Ultra All-Inclusive",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Legian Seminyak, Bali",
+        "location": "Seminyak",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Premium Ultra All-Inclusive",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights accommodation at selected luxury handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private MPV with English-speaking professional guide",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium breakfasts, 3 specialty lunches, and 4 high-end dinners",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Nusa Penida high-speed catamaran cruise with premium island sightseeing",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Traditional Balinese flower garlands, welcome drinks, and aromatherapy towels",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "One complimentary 60-minute Balinese spa treatment per adult guest",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Private front-row reserved seating at Uluwatu Kecak Fire Dance",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated local emergency assistance and concierge",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "Local government tourism taxes, service charges, and fuel surcharges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare to/from Denpasar",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Indonesia Visa on Arrival fees",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, mini-bar, and optional water-sports",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Discretionary gratuities and travel insurance",
+        "sort_order": 13
+      }
+    ]
+  }
+}

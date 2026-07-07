@@ -1,0 +1,272 @@
+{
+  "destination_slug": "daman-and-diu",
+  "package": {
+    "slug": "dd-006-diu-quick-beach-escape",
+    "serial_code": "DD-006",
+    "traguin_tour_code": "TG-DIU-006-PREM",
+    "title": "Diu Quick Beach Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DD-006 | TRAGUIN tour code TG-DIU-006-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Daman and Diu / India | Category: Weekend Beach Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Diu Island Exploration",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Executives",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Independent Tour (FIT) / Luxury Weekend Corporate Escapade",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Premium Sedan / SUV at full disposal",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Premium Breakfast & Gourmet Dinner Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Diu Arrival → Nagoa Beach → Diu Fort & Sightseeing → Ghoghla Beach → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private ocean-facing sunset high-tea near INS Khukri cliffs",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Custom handcrafted sea shell souvenirs, Portuguese-inspired cafes",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Resort check-in 14:00 hrs, check-out 11:00 hrs; water sports subject to weather",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Beach",
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dd-006-diu-quick-beach-escape-itinerary",
+    "title": "Diu Quick Beach Escape",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Diu Quick Beach Escape • Premium Weekend Retreat",
+    "overview": "Escape into a coastal paradise where old-world Portuguese charm effortlessly meets modern beachfront luxury. Specially curated by travel experts at TRAGUIN, this customized luxury package takes you on an immersive journey across the sun-drenched sands, historic ramparts, and breathtaking landscapes of Diu. Designed for discerning travelers seeking a premium weekend getaway, this luxury proposal balances relaxed relaxation on pristine golden shores with rich heritage storytelling, providing unforgettable memories from the moment you step foot onto the island.\n\nIndulge in a meticulously crafted weekend itinerary planned for effortless execution. From luxury beachfront accommodation options to exclusive private transfers, your comfort remains our utmost priority. Experience the majestic scenic beauty of the Arabian Sea accompanied by the premium travel touch that TRAGUIN uniquely provides.\n\nTRAGUIN Curated Touch: Handpicked sea-facing luxury hotel rooms, guaranteed express check-in, premium curated twilight experiences, and personalized destination assistance.\n\nWhy Visit Diu: Exceptionally clean, uncrowded golden sand beaches, majestic Portuguese heritage sites, tax-free premium lounges, and an incredibly safe, peaceful island atmosphere. Top Tourist Places in Diu: The iconic Diu Fort, Naida Caves, St. Paul's Church, INS Khukri Memorial, Nagoa Beach, and Ghoghla Beach. Most Searched Experiences: Exploring illuminated fort ramparts during twilight, capturing beautiful surreal photography inside the golden Naida Caves, and enjoying thrilling water sports at Ghoghla Beach. Best Time to Visit Diu: November through March, when soft refreshing sea breezes pair perfectly with crisp sunny days for comfortable outdoor beach sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DD-006 | Diu Quick Beach Escape Premium Weekend Tour | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Diu beach package (DD-006 / TG-DIU-006-PREM): Nagoa Beach, Diu Fort, Naida Caves, Ghoghla Blue Flag Beach, and 4-tier handpicked luxury hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Nagoa Beach Relaxation & Hoka Groves",
+        "sort_order": 1
+      },
+      {
+        "text": "Diu Fort, Naida Caves, St. Paul's Church & INS Khukri Memorial",
+        "sort_order": 2
+      },
+      {
+        "text": "Blue Flag Ghoghla Beach Shoreline Walk",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private ocean-facing sunset high-tea near INS Khukri cliffs",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked sea-facing luxury stays with elite hospitality",
+        "sort_order": 5
+      },
+      {
+        "text": "Luxury Transportation: Reliable private vehicle setups ensuring flexible travel pace",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Diu & Sunset at Nagoa Beach",
+        "description": "Arrive at Diu Airport or the nearby railway terminal where your dedicated TRAGUIN luxury chauffeur welcomes you with customized amenities. Transfer smoothly to your chosen premium hotel resort. Enjoy a hassle-free check-in process into your sea-view room and take some time to unwind. In the afternoon, we head out to the famous horseshoe-shaped Nagoa Beach. Known for its distinct Hoka trees brought by Portuguese sailors from Africa, this beach features incredibly calm and clear waters. Walk along the soft sand or simply sit back at a premium beachside pavilion, watching the golden sun sink into the vast Arabian Sea. It's a wonderful beginning to your premium getaway.",
+        "activities": [
+          "Sightseeing Included: Nagoa Beach Relaxation & Hoka Groves",
+          "Optional Activities: Parasailing & Banana Boat Rides",
+          "Overnight Stay: Diu (Premium Beachfront Resort)",
+          "Meals Included: Luxury Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Diu Sightseeing: Colonial Colossus & Naida Caves",
+        "description": "Start your morning with an expansive multi-cuisine buffet breakfast. Today, enjoy a comprehensive guided exploration of Diu's iconic attractions. We begin at the colossal 16th-century Diu Fort, a historic Portuguese citadel surrounded by the sea on three sides. Stroll along its robust stone ramparts where iron cannons still look out over the ocean. Next, we visit the beautiful St. Paul's Church, famous for its intricate baroque wood carvings. By mid-day, enter the mystical Naida Caves, a spectacular network of natural rock formations lit by natural sunbeams cutting through the ceiling. It is easily one of the top Instagram locations in Diu. Conclude your evening at the poignant INS Khukri Memorial, honoring a brave Indian Navy ship, while taking in panoramic views of the coastal sunset.",
+        "activities": [
+          "Sightseeing Included: Diu Fort, Naida Caves, St. Paul's Church, INS Khukri Memorial",
+          "Evening Experience: Sunset photography & premium seafood lounge trail",
+          "Overnight Stay: Diu",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Blue Flag Ghoghla Beach & Seamless Departure",
+        "description": "Wake up to the gentle sound of crashing waves and enjoy breakfast overlooking the water. Check out from the resort and spend your morning at the pristine Ghoghla Beach, proudly holding the prestigious international 'Blue Flag' certification for its immaculate cleanliness, safety, and excellent eco-amenities. Take a peaceful walk along the expansive shoreline or capture your final photos of the island. Afterward, your chauffeur ensures a comfortable transfer back to Diu Airport or Veraval/Rajkot station for your journey home, concluding your premium holiday managed seamlessly by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Blue Flag Ghoghla Beach Shoreline Walk",
+          "Assistance: Complete premium baggage handling by chauffeur",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Kohinoor Diu or similar",
+        "location": "Diu",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Club Heritage Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Azzaro Resorts & Spa, Diu",
+        "location": "Diu",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Pool View Villa",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Resort Diu Vanakbara",
+        "location": "Diu",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior Sea View Balcony Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Curated Private Signature Beachfront Suites",
+        "location": "Diu",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Oceanfront Plunge Pool Suite",
+        "meal_plan": "All Inclusive Premium Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights accommodation in handpicked, top-rated premium resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish buffet breakfasts and curated multi-cuisine specialty dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "All transfers & city excursions in a private premium air-conditioned vehicle",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Professional chauffeur charges, state tolls, parking, and route fuel allowances",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Express check-in privileges and welcome amenities directly at the resort",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "All entry tickets to Diu Fort, museums, and historical heritage landmarks",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Continuous dedicated on-trip TRAGUIN support & customized assistance",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or long-distance train tickets connecting to Diu",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal expenses like laundry, alcoholic beverages, and minibar usage",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Voluntary tips or gratuities for local drivers and guides",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Cost for specialized water sports activities at Ghoghla Beach",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Anything not specifically detailed in the inclusions list",
+        "sort_order": 12
+      }
+    ]
+  }
+}

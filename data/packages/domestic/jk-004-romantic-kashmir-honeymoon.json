@@ -1,0 +1,344 @@
+{
+  "destination_slug": "kashmir",
+  "package": {
+    "slug": "jk-004-romantic-kashmir-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Romantic Kashmir Honeymoon — Love on Dal Lake",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 24,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private romantic shikara at sunset with floral décor and Kashmiri kahwa service",
+        "sort_order": 1
+      },
+      {
+        "text": "Luxury cedarwood houseboat suite with hand-carved interiors and lake views",
+        "sort_order": 2
+      },
+      {
+        "text": "Gulmarg snow meadow romance — couple walks beneath Pir Panjal peaks",
+        "sort_order": 3
+      },
+      {
+        "text": "Pahalgam riverside bonfire evenings and intimate candlelight terrace dinners",
+        "sort_order": 4
+      },
+      {
+        "text": "Pashmina atelier visit with expert guide for premium shawl selection",
+        "sort_order": 5
+      },
+      {
+        "text": "Honeymoon delights — floral bed setup, premium cake & private chauffeur",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "jk-004-romantic-kashmir-honeymoon-itinerary",
+    "title": "Romantic Kashmir Honeymoon — Love on Dal Lake",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Love Blooms in the Valley of Paradise",
+    "overview": "Embark on the ultimate Kashmir honeymoon crafted to blend romantic seclusion with unparalleled natural grandeur. TRAGUIN's bespoke journey takes couples from private sunset shikara glides across Dal Lake to snow-draped Gulmarg meadows and Pahalgam's riverside serenity — featuring handpicked luxury houseboats, candlelit terrace dinners, floral bed styling, and a dedicated private chauffeur throughout.",
+    "is_featured": true,
+    "featured_sort_order": 24,
+    "seo_title": "JK-004 | Romantic Kashmir Honeymoon | TRAGUIN Premium Kashmir Tour",
+    "seo_description": "Luxury 05 Nights / 06 Days Kashmir honeymoon package (JK-004) covering Dal Lake houseboat, Gulmarg snow meadows, Pahalgam riverside, and candlelight dinners with floral bed setup. Ideal for newlyweds and couples.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Sunset Shikara Romance",
+        "sort_order": 1
+      },
+      {
+        "text": "Luxury Cedarwood Houseboat Suite",
+        "sort_order": 2
+      },
+      {
+        "text": "Gulmarg Snow Meadow Walks",
+        "sort_order": 3
+      },
+      {
+        "text": "Pahalgam Riverside Bonfire",
+        "sort_order": 4
+      },
+      {
+        "text": "Candlelight Dinners & Floral Setup",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Srinagar — Luxury Houseboat Welcome",
+        "description": "Your romantic Kashmir escape begins with a VIP TRAGUIN reception at Srinagar Airport. Glide by private shikara to your hand-carved luxury houseboat where a floral welcome and chilled kahwa await. Spend the evening on the cedar deck as Dal Lake shimmers under starlight.",
+        "activities": [
+          "Sightseeing Included: VIP airport transfer, private shikara arrival, Dal Lake twilight cruise",
+          "Evening Experience: Intimate candlelight dinner with celebratory honeymoon cake aboard your houseboat",
+          "Overnight Stay: Srinagar (Luxury Heritage Houseboat on Dal Lake)",
+          "Meals Included: Welcome libation & curated honeymoon dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Srinagar — Romantic Shikara & Mughal Gardens",
+        "description": "Wake to mist rising off Dal Lake and enjoy a private sunrise shikara ride with floral décor. Explore the terraced beauty of Shalimar Bagh and Nishat Bagh hand-in-hand before an exclusive candlelit dinner arranged by TRAGUIN on a lakeside terrace.",
+        "activities": [
+          "Sightseeing Included: Private sunrise shikara, Shalimar Bagh, Nishat Bagh, Pari Mahal sunset viewpoint",
+          "Evening Experience: Exclusive candlelit terrace dinner with live santoor music",
+          "Overnight Stay: Srinagar (Luxury Heritage Houseboat)",
+          "Meals Included: Breakfast & special honeymoon dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Srinagar to Gulmarg — Snow Meadow Romance",
+        "description": "Drive to Gulmarg through fragrant orchards and ascend via the iconic Gondola to snow meadows where couples walk hand-in-hand beneath the Pir Panjal range. Capture timeless photographs against alpine peaks and return for a cozy evening at your luxury mountain resort.",
+        "activities": [
+          "Sightseeing Included: Gulmarg Gondola Phase I & II, Apharwat snow ridge, meadow photography",
+          "Optional Activities: Tandem skiing or pony ride through wildflower meadows (seasonal)",
+          "Overnight Stay: Gulmarg (Luxury Alpine Resort)",
+          "Meals Included: Premium breakfast & authentic Kashmiri-infused dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Gulmarg to Pahalgam — Riverside Serenity",
+        "description": "Descend to Pahalgam's Lidder Valley for a day of riverside romance. Stroll along crystal trout streams, explore Betaab Valley's emerald meadows, and end the evening with a private bonfire beneath the stars at your luxury riverside resort.",
+        "activities": [
+          "Sightseeing Included: Betaab Valley meadows, Lidder River walk, Aru Valley overlook (optional)",
+          "Evening Experience: Private riverside bonfire with Kashmiri kehwa and stargazing",
+          "Overnight Stay: Pahalgam (Luxury Riverside Resort)",
+          "Meals Included: Breakfast & romantic barbecue dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Pahalgam to Srinagar — Pashmina & Farewell",
+        "description": "Return to Srinagar via Pampore saffron fields. Visit a premium Pashmina atelier where master weavers demonstrate centuries-old handloom techniques. Enjoy a farewell Wazwan feast with private almond-milk and bedside floral presentation at your houseboat.",
+        "activities": [
+          "Sightseeing Included: Pampore saffron fields, Pashmina weaving atelier, old city heritage bazaar",
+          "Evening Experience: Private almond-milk and bedside floral presentation for newlyweds",
+          "Overnight Stay: Srinagar (Luxury Heritage Houseboat)",
+          "Meals Included: Breakfast & premium farewell Wazwan dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Srinagar Departure",
+        "description": "Conclude your dream honeymoon with a lavish lakeside breakfast. Your private luxury vehicle transfers you to Srinagar Airport carrying beautifully woven bonds and unforgettable memories custom crafted by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury airport drop-off",
+          "Meals Included: Gourmet buffet breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Peacock Houseboats / Similar",
+        "location": "Srinagar Dal Lake (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium hand-carved houseboat for honeymooners.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Houseboat Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner) — Welcome Cake & Floral Bed Styling",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Royal Group of Houseboats / Similar",
+        "location": "Srinagar Dal Lake (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium cedarwood houseboat with lake views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Houseboat Suite",
+        "meal_plan": "MAPAI (Premium Buffet Menu) — Candlelight Dinner + Fruit Basket",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Grand Palace / Similar",
+        "location": "Srinagar (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury heritage palace with royal chambers.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Grand Royal Chamber",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu) — Private Jacuzzi Access + Wine/Mocktails",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Dal View / Similar",
+        "location": "Srinagar (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury lake suite with butler service.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Lake Luxury Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining) — Personalized Butler + Couple Spa Therapy",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Pine Spring / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium alpine resort with meadow views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Balcony Suite",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "The Khyber Himalayan Resort & Spa / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury spa resort overlooking Apharwat peaks.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Khyber Premium Cottage / Similar",
+        "location": "Gulmarg (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra-luxury cottage with couple spa access.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Alpine Cottage",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Pine N Peak / Similar",
+        "location": "Pahalgam (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium riverside resort for couples.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Valley View Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel Pine N Peak / Similar",
+        "location": "Pahalgam (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury riverside suite with spa.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Riverside Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 9
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium accommodation at handpicked Kashmir resorts, heritage houseboats, and valley properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and authentic Kashmiri multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers, valleys, and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Personalized welcome kit with kahwa, dry fruits, mineral water, and shikara transfers where applicable",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "05 nights handpicked romantic accommodation in Srinagar houseboat, Gulmarg, and Pahalgam",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Honeymoon delights — 2x candlelit dinners, 1x premium cake, and floral bed setup",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "One private sunset shikara ride with floral décor for the couple",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Srinagar or Delhi gateway",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Gondola ride tickets, pony rides, and adventure activity fees beyond included tier",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and optional guide gratuities",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room heaters, and tipping",
+        "sort_order": 13
+      }
+    ]
+  }
+}

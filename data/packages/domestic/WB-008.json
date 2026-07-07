@@ -1,0 +1,249 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-008-shantiniketan-art-culture",
+    "serial_code": "WB-008",
+    "traguin_tour_code": "TRAGUIN-WB-008",
+    "title": "Shantiniketan Art & Rabindranath Culture Premium Holiday",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-008 | TRAGUIN tour code TRAGUIN-WB-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Family / Art & Culture",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kolkata • Shantiniketan • Bolpur",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Art Enthusiasts & Intellectuals",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Travel Style: Private Premium FIT Family Journey",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle Allocated: Luxury Private Air-Conditioned Sedan / SUV",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Continental Breakfast & Authentic Bengali Royal Dinners",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Private guided heritage walk inside Visva-Bharati, live Baul musical evening, and handpicked premium stays.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Art: Kantha stitch silk sarees, Dokra metal figurines, terracotta home decor. Instagram Spots: Sonajhuri red-soil woodlands and Visva-Bharati prayer halls.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs. Visva-Bharati entry limits subject to academic holidays. E-rickshaws arranged in heritage zones.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Art",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-008-shantiniketan-art-culture-itinerary",
+    "title": "Shantiniketan Art & Rabindranath Culture Premium Holiday",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Shantiniketan Art & Rabindranath Culture Premium Holiday • 02 Nights / 03 Days",
+    "overview": "Step into the soul-stirring world of literature, classical music, and fine arts. This exclusive, high-end West Bengal Honeymoon Package and West Bengal Family Tour layout designed by TRAGUIN takes you into the heart of Shantiniketan. Walk the pathway of Nobel Laureate Rabindranath Tagore, surrounded by majestic red soil, Baul music, and breathtaking landscapes of rural tranquility.\n\nTOUR OVERVIEW\nTravel Style: Private Premium FIT Family Journey. Vehicle Allocated: Luxury Private Air-Conditioned Sedan / SUV. Meal Plan: Continental Breakfast & Authentic Bengali Royal Dinners.\n\nTRAGUIN Curated Experience Note: Includes a private guided heritage walk inside the Visva-Bharati university campus, a soulful live private Baul musical evening, and accommodations at handpicked premium stays.\n\nPREMIUM WEST BENGAL EXPERIENCE: WHY VISIT SHANTINIKETAN?\nIf you are seeking a Luxury West Bengal Holiday, the cultural retreat of Shantiniketan stands as one of the Top Tourist Places in West Bengal. Known globally as the seat of Rabindranath Tagore's Visva-Bharati University, it offers immersive experiences that seamlessly blend heritage with nature.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-008 | Shantiniketan Art & Culture | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days West Bengal package (WB-008 / TRAGUIN-WB-008): Visva-Bharati, Sonajhuri Haat, Kopai River, and 4-tier heritage accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Visva-Bharati Campus including Uttarayan Complex, Kala Bhavan, and Sangeet Bhavan",
+        "sort_order": 1
+      },
+      {
+        "text": "Sonajhuri Haat weekly heritage marketplace with Santhali tribal dancers",
+        "sort_order": 2
+      },
+      {
+        "text": "Kopai River banks and Amar Kutir artisan centre for leather crafts and Kantha sarees",
+        "sort_order": 3
+      },
+      {
+        "text": "Private live Baul music concert under a banyan tree",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier handpicked Shantiniketan accommodation (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOLKATA TO SHANTINIKETAN",
+        "description": "Your premium cultural experience begins with a warm welcome by your dedicated Chauffeur at Kolkata. Board your private luxury vehicle for a smooth and scenic drive towards Bolpur, Shantiniketan. Marvel at the shifting breathtaking landscapes as city skylines turn into green expanses of rural West Bengal. Upon arrival, check in seamlessly to your premium heritage resort.",
+        "activities": [
+          "Arrival Experience: Chauffeured pickup, refreshing welcome drink, and quick check-in.",
+          "Evening Experience: A curated heritage talk regarding the historical significance of Bolpur over high-tea by TRAGUIN experts.",
+          "Overnight Stay: Handpicked Luxury Resort, Shantiniketan.",
+          "Meals Included: Welcome Amenities & Fine Traditional Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHANTINIKETAN HERITAGE SIGHTSEEING",
+        "description": "Enjoy a delicious gourmet breakfast before heading out for a comprehensive day of West Bengal Sightseeing. Accompanied by a certified university guide, visit the grand Visva-Bharati Campus, including the Uttarayan Complex, Rabindra Bhavan Museum, and Upasana Griha. Witness magnificent open-air classrooms under ancient trees. In the afternoon, explore the serene pathways near the Kopai River, followed by a visit to the vibrant Sonajhuri Haat.",
+        "activities": [
+          "Sightseeing Included: Uttarayan, Kala Bhavan, Sangeet Bhavan, Sonajhuri Forest, Kopai River banks.",
+          "Exclusive Experiences: Private seatings at a live Baul music concert under the shade of a banyan tree.",
+          "Overnight Stay: Handpicked Luxury Resort, Shantiniketan.",
+          "Meals Included: Buffet Breakfast & Special Festive Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "LOCAL HANDICRAFTS & RETURN TO KOLKATA",
+        "description": "Savor a final slow breakfast at your premium stay. Before heading back, visit Amar Kutir, a cooperative society showcasing the finest local leather crafts, Kantha-stitched silk sarees, and terracotta work of West Bengal. Conclude your tour with a relaxed drive back to Kolkata, leaving you with unforgettable memories of a deeply enriching holiday crafted perfectly by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Amar Kutir Artisan Centre, Local Shopping Outlets.",
+          "Transfers Included: Private Drop-off at Kolkata Airport / Railway Station.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Mark & Meadows, Shantiniketan",
+        "location": "Shantiniketan",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Mark & Meadows, Shantiniketan (02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe AC Room",
+        "meal_plan": "CP (Breakfast Only)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Royal Bengal Resort, Shantiniketan",
+        "location": "Shantiniketan",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Royal Bengal Resort, Shantiniketan (02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Luxury Cottage",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The ChasiKoti Heritage Retreat",
+        "location": "Shantiniketan",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: The ChasiKoti Heritage Retreat (02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite with Village View",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Prokriti Kantho Luxury Eco Resort",
+        "location": "Shantiniketan",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Prokriti Kantho Luxury Eco Resort (02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Presidential Villa",
+        "meal_plan": "MAP + High Tea Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights stay at premium handpicked hotels or boutique heritage resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily gourmet breakfasts and traditional multi-course Bengali dinners as specified.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All point-to-point journeys by an executive air-conditioned private vehicle.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: Personalized 24/7 TRAGUIN backend support and a dedicated chauffeur.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private local university authorized companion guide and a live folk music performance entry.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All current applicable hotel luxury taxes and toll fees included.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or Inter-state train tickets to Kolkata.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry tickets to monuments, museums, or cameras inside Uttarayan Complex.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, boutique cafe bills, tips, and additional room service orders.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any medical emergencies or travel insurance charges.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

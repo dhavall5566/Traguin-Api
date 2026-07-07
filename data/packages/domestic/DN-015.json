@@ -1,0 +1,272 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-015-family-getaway",
+    "serial_code": "DN-015",
+    "traguin_tour_code": "TG-DN-015-FAM",
+    "title": "Family Getaway",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-015 | TRAGUIN tour code TG-DN-015-FAM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Family Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Vanganga Lake • Khanvel",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Leisure Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Family Holiday (FIT) with Custom Concierge",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium, spacious Multi-Purpose Luxury Vehicle (Innova Crysta)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (All Breakfasts & Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi/Surat Arrival → Silvassa → Vanganga Lake → Khanvel → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A beautiful evening family photo session set against the picturesque bridges of Vanganga Lake",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli Tribal Art, Local Silvassa Bakeries Portuguese-inspired baked goods",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 13:00 hrs, check-out 10:00 hrs; winter months ideal for outdoor park strolls",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Leisure",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-015-family-getaway-itinerary",
+    "title": "Family Getaway",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Vanganga Lake & Garden Delight Family Escapade",
+    "overview": "Escape the rush of city life and immerse your family in the serene, verdant paradise of Silvassa with the Best Dadra and Nagar Haveli Tour Package curated exclusively by TRAGUIN. Known for its breathtaking landscapes, lush Portuguese-influenced heritage, and charming waterfront paths, this destination is a true sanctuary for relaxation.\n\nTreat your family to a Premium Dadra and Nagar Haveli Experience that seamlessly combines natural wonder with cultural exploration.\n\nTRAGUIN Curated Touch: Handpicked family-centric luxury resorts with pool access, customized kids' activity kits, and specialized evening garden picnics.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-015 | Family Getaway | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Dadra and Nagar Haveli package (DN-015 / TG-DN-015-FAM): Vanganga Lake paddle boating, Tribal Museum, Nakshatra Garden, Madhuban Dam, Church of Our Lady of Piety",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vanganga Lake Garden & Family Paddle Boating",
+        "sort_order": 1
+      },
+      {
+        "text": "Tribal Museum, Nakshatra Garden & Madhuban Dam Viewpoint",
+        "sort_order": 2
+      },
+      {
+        "text": "Church of Our Lady of Piety & Local Souvenir Market",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Evening family photo session at Vanganga Lake bridges",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Relaxed, kid-friendly and senior-friendly schedules",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Resorts with world-class child facilities and expansive lawns",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa & Immersive Vanganga Lake Cruise",
+        "description": "Your wonderful Dadra and Nagar Haveli Sightseeing journey begins with a smooth pickup by your private TRAGUIN luxury chauffeur at Vapi railway station or Surat airport. Enjoy a scenic, relaxing drive into Silvassa, the capital of Dadra and Nagar Haveli, passing by large canopy trees and quaint local houses. Arrive at your premium handpicked resort and check in. In the afternoon, we head towards the stunning Vanganga Lake Garden, a premier highlight among the Top Tourist Places in Dadra and Nagar Haveli. This Japanese-style manicured park features charming thatched cottages, wooden bridges, and clear water channels. We arrange a private paddle-boating ride for your family to enjoy the scenic beauty together. As dusk settles, watch the garden illuminate beautifully, capturing gorgeous family photographs at the signature suspension bridge.",
+        "activities": [
+          "Sightseeing Included: Vanganga Lake Garden & Family Paddle Boating",
+          "Evening Experience: Lakeside photography and illuminated fountain strolls",
+          "Overnight Stay: Silvassa Luxury Resort",
+          "Meals Included: Welcome Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Tribal Heritage Exploration & Nakshatra Garden Delight",
+        "description": "After a delicious breakfast, set off to discover the cultural soul of the region. We visit the Silvassa Tribal Cultural Museum, an extraordinary venue showing wedding attire, ancient hunting tools, and exquisite Warli clay art. Our guide shares emotional local stories that connect you to the region's history. Afterward, explore the famous Nakshatra Garden, an astrological park designed around celestial constellations. Walk along smooth walkways flanked by rare medicinal plants and vibrant flowerbeds. In the afternoon, take a relaxing drive to the grand Madhuban Dam on the Damanganga River, where breathtaking landscapes stretch out before your eyes. In the evening, return to your resort for a curated culinary dinner.",
+        "activities": [
+          "Sightseeing Included: Tribal Museum, Nakshatra Garden, Madhuban Dam Viewpoint",
+          "Optional Activities: Interactive Warli canvas painting workshop for kids",
+          "Overnight Stay: Silvassa Luxury Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Colonial Portuguese Memories & Departure",
+        "description": "On the final morning of your TRAGUIN Dadra and Nagar Haveli Packages, visit the beautiful Church of Our Lady of Piety, a reminder of the region's historical Portuguese connection built in the late 19th century. Walk through its quiet, structural arches before stopping by the local handicraft outlets to purchase authentic tribal souvenirs. Return to your resort to pack your bags and check out. Your premium vehicle will then transfer you comfortably back to Vapi or Surat for your onward journey, concluding an unforgettable family vacation.",
+        "activities": [
+          "Sightseeing Included: Church of Our Lady of Piety, Local Souvenir Market",
+          "Assistance: Complete luggage management up to the station/airport",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Treat Resort Silvassa or similar",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Family Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts, Silvassa",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Garden View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Pluz Resort, Silvassa",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Signature Forest Villas",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Premium Villa",
+        "meal_plan": "All Inclusive Custom",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights premium stay at handpicked hotels and resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily multi-cuisine breakfast and custom-tailored dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private, dedicated luxury Innova Crysta for all transfers and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary paddle-boating tickets at Vanganga Lake Garden",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "All entry fees and parking charges covered seamlessly",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome drinks and specialized kids' amenity basket upon arrival",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive 24/7 TRAGUIN on-ground customer support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Train tickets or flights to Vapi / Surat",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, and tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any alcoholic drinks and meals not mentioned above",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera or drone photography fees inside gardens",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional specialized tribal art workshops",
+        "sort_order": 12
+      }
+    ]
+  }
+}

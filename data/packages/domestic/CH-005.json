@@ -1,0 +1,248 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-005-chandigarh-corporate-mice-package",
+    "serial_code": "CH-005",
+    "traguin_tour_code": "TRG-CHD-MICE-005",
+    "title": "Corporate Chandigarh • Strategic Excellence & Premium Leisure MICE Package",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-005 | TRAGUIN tour code TRG-CHD-MICE-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Corporate MICE & Elite Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh City Centre • Sukhna Lake • IT Park Hub",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Conferences, Team Building & Executive Retreats",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (Best from October to March)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Corporate Commercials)",
+        "sort_order": 6
+      },
+      {
+        "text": "Premium AC luxury coaches / Corporate MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: flawlessly structured corporate ice-breaker challenges custom-designed for your brand",
+        "sort_order": 8
+      },
+      {
+        "text": "Corporate souvenirs: Phulkari corporate gift sets, open-hand desktop sculptures",
+        "sort_order": 9
+      },
+      {
+        "text": "Travel note: conference room setups must be confirmed 14 days before arrival",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "Luxury",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-005-chandigarh-corporate-mice-itinerary",
+    "title": "Corporate Chandigarh • Strategic Excellence & Premium Leisure MICE Package",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Corporate Commercials)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Corporate Chandigarh • Strategic Excellence & Premium Leisure",
+    "overview": "Welcome to a highly sophisticated corporate program engineered by TRAGUIN. This exclusive Chandigarh Corporate MICE itinerary is flawlessly tailored for premium executive retreats, strategic annual meetings, and team-building summits. Set against the architectural brilliance of India's first planned city, this premium Chandigarh experience blends modern corporate amenities with beautiful local landscapes. As your dedicated corporate travel partners, TRAGUIN transforms normal corporate outings into immersive experiences that drive alignment, foster unforgettable memories, and elevate your brand's executive standard.\n\nDesigned exclusively for corporate high-performers and leadership teams, this 3-day itinerary optimizes professional conference schedules alongside premium leisure and networking. Traveling in private luxury executive coaches with dedicated logistics coordinators, your group will experience unparalleled comfort. Featuring seamless state-of-the-art boardrooms, tech-enabled conference venues, and curated gala evenings, this route is the definitive template for a Luxury Chandigarh Holiday.\n\nWhy choose corporate Chandigarh for your next MICE event? Chandigarh is uniquely optimized for high-profile business delegations. Its broad avenues, clean infrastructure, and major premium corporate hotels make it an outstanding choice for professional events, award galas, and executive board presentations. Teams can explore the Rock Garden for team-building photo challenges or enjoy a private evening cruise along Sukhna Lake.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-005 | Chandigarh Corporate MICE Package | TRAGUIN",
+    "seo_description": "Corporate 02 Nights / 03 Days MICE package (CH-005 / TRG-CHD-MICE-005): conference boardrooms, Rock Garden team building, Sukhna Lake networking cruise, Elante shopping, and executive hotel options up to 500 delegates.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Executive welcome, strategy sessions & networking cocktails",
+        "sort_order": 1
+      },
+      {
+        "text": "Rock Garden strategic rally team-building exercise",
+        "sort_order": 2
+      },
+      {
+        "text": "Sukhna Lake private chartered group boat cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Capitol Complex UNESCO Site visit",
+        "sort_order": 4
+      },
+      {
+        "text": "Elante Mall premium shopping & farewell drop-off",
+        "sort_order": 5
+      },
+      {
+        "text": "Fast-track check-ins with pre-sorted room key distributions",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival, Check-In & Conferences — Executive Welcome & Networking Cocktails",
+        "description": "Your corporate delegation arrives at Chandigarh Airport/Railway Station, received by our dedicated TRAGUIN logistics team with private executive signage and premium refreshments. Board your luxury AC coach for a smooth transfer to your handpicked business hotel. Enjoy a seamless group check-in followed by a fine corporate buffet lunch. The afternoon is dedicated to your first strategy session or corporate orientation in a premium high-tech boardroom. As the sun sets, transition to a sophisticated poolside terrace for networking drinks and curated local snacks.",
+        "activities": [
+          "Sightseeing Included: City Centre orientation, modern architectural corridors",
+          "Evening Experience: Exclusive corporate networking mixer with curated thematic entertainment",
+          "Overnight Stay: Chandigarh Business Center (Premium / Luxury Category Hotel)",
+          "Meals Included: Welcome Drink, Corporate Buffet Lunch & Gala Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Team Building & Sukhna Networking Cruise — Rock Garden Rally & Evening Gala",
+        "description": "Fuel your mind with an early morning lavish buffet breakfast. Day two begins with an active team-building exercise at the iconic Rock Garden, an ideal tourist playground for leadership photo rallies. After completing your morning activities, return to the hotel for mid-day seminars and presentations. In the late afternoon, enjoy the scenic beauty of Sukhna Lake with a private chartered group boat cruise. Conclude this high-impact day with a grand corporate awards dinner featuring fine live music inside a beautifully decorated luxury banquet ballroom.",
+        "activities": [
+          "Sightseeing Included: Nek Chand's Rock Garden, Capitol Complex (UNESCO Site), Sukhna Lake Promenade",
+          "Optional Activities: Executive stress-relief luxury spa treatments or private golf simulator sessions",
+          "Overnight Stay: Chandigarh Corporate Zone (Premium / Luxury Stay)",
+          "Meals Included: Lavish Breakfast, Working Lunch & Elite Gala Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Wrap-Up & Executive Departure — Closing Remarks, Shopping & Farewell",
+        "description": "Conclude your final business goals with a brief morning wrap-up meeting, followed by an early checkout. Before departure, your luxury coach will take the team to the Elante Mall sector for some premium shopping, café lounging, and souvenir collections. Collect authentic local Phulkari textiles and gifts for clients. Finally, your premium coach will drop your delegation back at the airport or station for their onward flights.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door coordinated airport group drop-off",
+          "Meals Included: Sumptuous Buffet Breakfast & Departure Packed Refreshments"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Premier / Zone by The Park",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Up to 120 delegates conference capacity.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "Corporate MAPAI (B/F + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Chandigarh / Radisson Hotel",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Up to 250 delegates conference capacity.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Business Room",
+        "meal_plan": "Corporate MAPAI (B/F + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh / Hyatt Regency",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Up to 500 delegates conference capacity.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room",
+        "meal_plan": "Premium MAPAI / Customized Corporate",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Exclusive executive boardrooms.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Room / Executive Suite",
+        "meal_plan": "Bespoke Fine Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Coordinated group rooms with twin/single configurations",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary access to standard conference halls with AV setups",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private corporate AC coaches for all transfers and group outings",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "On-ground corporate travel desk coordinator throughout the event",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private chartered group boat rides on Sukhna Lake",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Group welcome kits, mineral water, and writing pads",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airline/train ticketing costs",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Alcoholic beverages during general gala dinners (available on billing)",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra high-end conference equipment (e.g., customized LED backdrops)",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, tipping, and hotel room service orders",
+        "sort_order": 10
+      }
+    ]
+  }
+}

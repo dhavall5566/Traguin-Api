@@ -1,0 +1,331 @@
+{
+  "destination_slug": "ladakh",
+  "package": {
+    "slug": "la-003-ultimate-ladakh-road-trip-experience",
+    "serial_code": "LA-003",
+    "traguin_tour_code": "TRAGUIN-LA-003",
+    "title": "Ultimate Ladakh Road Trip Experience",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LA-003 | TRAGUIN tour code TRAGUIN-LA-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Ladakh, India | Category: Adventure / Luxury Road Trip",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Leh • Sham Valley • Nubra Valley • Turtuk • Pangong Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Enthusiasts, Honeymooners, Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: May to October",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Premium Custom FIT Road Trip",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private 4x4 Scorpio/Innova for all mountain-road transfers",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Nourishing breakfasts and dinners included across all camps",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Leh Arrival → Sham Valley → Khardung La → Nubra → Turtuk → Pangong → Chang La → Tso Moriri → Leh Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private bonfire nights at high-altitude lakeshores, pre-arranged VIP entry passes at restricted borders, and fully certified mechanics checking luxury transportation vehicles continuously daily",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Leh markets — authentic Pashmina shawls, handcrafted Tibetan prayer wheels, intricate silver jewelry, organic dried apricots; premium mountain-view cafes for sea-buckthorn juice and fresh yak-cheese pizzas",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Minimum 24 to 36 hours total physical rest mandatory upon landing; only postpaid SIM cards (BSNL, Airtel, Jio) operate efficiently; book 45-60 days ahead due to limited high-end property availability",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Luxury",
+      "Road Trip"
+    ]
+  },
+  "itinerary": {
+    "slug": "la-003-ultimate-ladakh-road-trip-experience-itinerary",
+    "title": "Ultimate Ladakh Road Trip Experience",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ultimate Ladakh Road Trip Experience • 08 Nights / 09 Days",
+    "overview": "Welcome to a high-octane luxury adventure across the roof of the world, masterfully curated by TRAGUIN. A Ladakh Road Trip is not just a holiday; it's an emotional pilgrimage through breathtaking landscapes, high-altitude mountain passes, and soul-stirring cultural bastions. Witness the raw scenic beauty of Ladakh as you traverse dramatic valleys, pristine deep-blue lakes, and historical monasteries. This Premium Ladakh Experience blends adrenaline-pumping discovery with premium stays and handpicked hotels, creating unforgettable memories that linger for a lifetime. Choose the best time to visit Ladakh and step into an extraordinary world with TRAGUIN Ladakh Packages. \n\nThis meticulously mapped Luxury Ladakh Holiday is designed as a premium custom FIT (Free Independent Traveler) roadmap. Your elite experience includes luxury transportation using specialized 4x4 vehicles suitable for rugged terrains, a highly supportive premium meal plan, and curated experiences monitored by our on-ground expert mechanics and local travel consultants. TRAGUIN ensures strict acclimatization protocols combined with premium mountain-facing cottages to deliver maximum luxury, flexibility, and absolute peace of mind. \n\nWhy Visit Ladakh? Known as the land of high passes, Ladakh features globally celebrated iconic attractions and top tourist places in Ladakh like the mesmerizing Pangong Lake, Khardung La Pass (one of the highest motorable roads globally), and the sand dunes of Hunder. It represents the ultimate adrenaline territory for a Ladakh Honeymoon Package or an active Ladakh Family Tour. Our itinerary takes you to the most searched experiences such as tracing the optical illusion at Magnetic Hill, discovering the hidden border village of Turtuk, and photographing popular Instagram locations including the reflection zones of high-altitude lakes and dramatic cliffside monasteries. Immerse your senses in local Ladakhi culture, traditional cuisine highlights, and exclusive high-altitude stargazing. ",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LA-003 | Ultimate Ladakh Road Trip Experience | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days Ladakh road trip (LA-003 / TRAGUIN-LA-003): Sham Valley, Nubra Valley, Turtuk, Pangong Lake, Tso Moriri, and 4-tier handpicked accommodation. ",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sham Valley tour with Magnetic Hill, Sangam, Hall of Fame, and Gurudwara Pathar Sahib",
+        "sort_order": 1
+      },
+      {
+        "text": "Khardung La Pass crossing and Nubra Valley with Bactrian camel safari at Hunder Sand Dunes",
+        "sort_order": 2
+      },
+      {
+        "text": "Exclusive Turtuk border village discovery along the Shyok River",
+        "sort_order": 3
+      },
+      {
+        "text": "Pangong Lake via scenic Shyok route with luxury bonfire under starlit Himalayan sky",
+        "sort_order": 4
+      },
+      {
+        "text": "Optional Tso Moriri exploration with Chumathang Hot Springs and wildlife spotting",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Leh & Acclimatization Leisure",
+        "description": "Fly into Kushok Bakula Rimpochee Airport, Leh—one of the most scenic high-altitude airports globally. Experience a grand, personalized premium welcome by our TRAGUIN tour representative. Enjoy a direct luxury transfer to your handpicked premium hotel. The remainder of the day is strictly reserved for absolute resting to seamlessly adjust to the high altitudes (11,500 feet). ",
+        "activities": [
+          "Sightseeing Included: Relaxed airport transfer, mountain-view room positioning.",
+          "Evening Experience: A gentle walk to the local Leh Market for a warm welcome note session and standard briefing.",
+          "Overnight Stay: Handpicked Premium Luxury Hotel in Leh",
+          "Meals Included: Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sham Valley Tour & Iconic Sightseeing",
+        "description": "After a premium breakfast, start your luxury road trip along the pristine Indus River. Today you discover legendary spots that define Ladakh Sightseeing. Witness the mysterious phenomenon at Magnetic Hill and observe the holy serenity of Gurudwara Pathar Sahib before admiring the majestic confluence of two massive rivers. ",
+        "activities": [
+          "Sightseeing Included: Magnetic Hill, Confluence of Indus and Zanskar Rivers (Sangam), Hall of Fame Museum, Sangam photography points.",
+          "Local Food Suggestions: Traditional hot butter tea and gourmet steam-dumplings at a curated countryside luxury rest-stop.",
+          "Overnight Stay: Handpicked Premium Luxury Hotel in Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Leh to Nubra Valley via the Iconic Khardung La Pass",
+        "description": "Prepare for a thrill of a lifetime as your premium 4x4 scales the mighty Khardung La Pass, standing proudly at an elevation of 17,582 feet. Descend into the spectacular desert plains of Nubra Valley. Capture breathtaking landscapes and marvel at the giant 106-foot Maitreya Buddha statue at Diskit Monastery. ",
+        "activities": [
+          "Sightseeing Included: Khardung La Pass crossing, Diskit Monastery, Hunder Sand Dunes.",
+          "Immersive Experiences: A unique safari across cold sand dunes riding the rare double-humped Bactrian Camels.",
+          "Overnight Stay: Premium Luxury Tents / Cottages in Nubra Valley",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Exclusive Turtuk Border Village Discovery",
+        "description": "Drive deeper towards the northernmost border of India to unlock Turtuk, a hidden Baltic village opened to tourism recently. Walk through scenic apricot orchards and stone-carved heritage pathways, contrasting dramatically with the harsh high-mountain passes around it. ",
+        "activities": [
+          "Sightseeing Included: Turtuk heritage bridge, Baltic museum courtyard, panoramic views of the Karakoram range.",
+          "Optional Activities: Interaction with village elders to understand the fascinating border history.",
+          "Overnight Stay: Premium Luxury Tents / Cottages in Nubra Valley",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Nubra to Pangong Lake via Scenic Shyok Route",
+        "description": "Set out early on an adventurous mountain route tracing the rugged Shyok River bed. Your destination is the crown jewel of your trip: the majestic Pangong Lake. Watch in absolute awe as this high-altitude saltwater lake changes its shades from deep turquoise to brilliant indigo right before your eyes. ",
+        "activities": [
+          "Sightseeing Included: Shyok valley route, Pangong Lake shores, popular movie shooting locations.",
+          "Evening Experience: Luxury bonfire setup by the lakeshore under an exceptionally clear, starlit Himalayan sky.",
+          "Overnight Stay: Exclusive Premium Eco-Resort Camps right next to Pangong Lake",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Pangong Lake to Leh via Chang La Pass",
+        "description": "Wake up early to catch a breathtaking sunrise reflection bouncing off the calm waters of Pangong Lake. Begin your return road trip back towards Leh, navigating across the third highest motorable pass in the world—Chang La Pass (17,586 feet). ",
+        "activities": [
+          "Sightseeing Included: Chang La Pass, Thiksey Monastery (resembling the Potala Palace of Tibet).",
+          "Photography Points: Golden hour mountain panoramic backdrops from the rooftop of Thiksey.",
+          "Overnight Stay: Premium Luxury Hotel in Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Tso Moriri Exploration (Optional / Highlight Road Trip)",
+        "description": "For true adventurers, a smooth journey into the high-altitude wetlands of Tso Moriri Lake is organized. This pristine sanctuary offers total isolation and untouched natural scenery, far away from regular tourist rushes. ",
+        "activities": [
+          "Sightseeing Included: Chumathang Hot Springs, Tso Moriri lake boundaries, wildlife spotting (Kiangs/Tibetan Wild Ass).",
+          "Overnight Stay: Handpicked Deluxe Lakeview Cottage / Leh Luxury Base",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Souvenir Excursions & Cultural Farewell Dinner",
+        "description": "A relaxing day tailored for personalized leisure and local retail therapy. Take your time visiting fine local craft markets or exploring independent cafes celebrating the colorful lifestyle of modern Leh town. ",
+        "activities": [
+          "Sightseeing Included: Shanti Stupa evening sunset views, Leh Palace tour.",
+          "Evening Experience: A celebratory TRAGUIN Farewell Dinner highlighting authentic multi-course Himalayan signature dishes.",
+          "Overnight Stay: Premium Luxury Hotel in Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Departure with Unforgettable Memories",
+        "description": "Savor your final luxury breakfast amidst crisp mountain air. Complete your check-out and boarding assistance. Board your private luxury airport vehicle transfer to catch your flight home, concluding your premium adventure. ",
+        "activities": [
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Singge Palace / Similar | Hunder Resort Camps | Pangong Inn Cottages",
+        "location": "Leh (5 Nights) / Nubra Valley (2 Nights) / Pangong Lake (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Singge Palace / Similar (Leh, 5 Nights) | Hunder Resort Camps (Nubra Valley, 2 Nights) | Pangong Inn Cottages (Pangong Lake, 1 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Dragon Ladakh | Nubra Organic Retreat | Pangong Eco Traveler Tents",
+        "location": "Leh (5 Nights) / Nubra Valley (2 Nights) / Pangong Lake (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 02 – PREMIUM: The Grand Dragon Ladakh (Leh, 5 Nights) | Nubra Organic Retreat (Nubra Valley, 2 Nights) | Pangong Eco Traveler Tents (Pangong Lake, 1 Night)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premier Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Zen Ladakh Resort | Stone Hedge Luxury Hotel | Martsemik Camping Resort",
+        "location": "Leh (5 Nights) / Nubra Valley (2 Nights) / Pangong Lake (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 03 – LUXURY: The Zen Ladakh Resort (Leh, 5 Nights) | Stone Hedge Luxury Hotel (Nubra Valley, 2 Nights) | Martsemik Camping Resort (Pangong Lake, 1 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Chamba Camp Thiksey | Lumiere Luxury Cottages | Pangong Luxury Wilderness Camp",
+        "location": "Leh (5 Nights) / Nubra Valley (2 Nights) / Pangong Lake (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Chamba Camp Thiksey (Leh, 5 Nights) | Lumiere Luxury Cottages (Nubra Valley, 2 Nights) | Pangong Luxury Wilderness Camp (Pangong Lake, 1 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Glamping Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Handpicked Hotels: Premium luxury stays with proper heating & mountain views.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Nourishing breakfasts and dinners included across all camps.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private 4x4 Scorpio/Innova for all mountain-road transfers.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Inner Line Permits: Seamlessly managed environment fees and wildlife passes.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Oxygen Assistance: Oxygen cylinders equipped inside vehicles for safety protocols.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local on-ground assistance desk.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare flight tickets to and from Leh.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenditures like telephone bills, laundry, or premium bar orders.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Camel rides, quad biking fees, or extreme river rafting entry tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping fees, monument camera passes, or guide fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Expenses resulting from roadblocks, landslides, or flight disruptions.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

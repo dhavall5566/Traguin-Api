@@ -1,0 +1,252 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-007-snow-romance-manali-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Snow Romance Manali Honeymoon Special",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 9,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Ultra-luxury Manali river-view resort with styled honeymoon welcome",
+        "sort_order": 1
+      },
+      {
+        "text": "Hadimba Temple, Old Manali cafes & Vashisht therapeutic springs",
+        "sort_order": 2
+      },
+      {
+        "text": "Solang Valley & Rohtang Pass glacial wonderland snow romance",
+        "sort_order": 3
+      },
+      {
+        "text": "Kullu Valley excursion — shawl weaving, meadows & river rafting",
+        "sort_order": 4
+      },
+      {
+        "text": "Private candlelight dinner, celebratory cake & floral bedroom styling",
+        "sort_order": 5
+      },
+      {
+        "text": "Private luxury sedan/SUV with TRAGUIN VIP concierge on-call",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-007-snow-romance-manali-itinerary",
+    "title": "Snow Romance Manali Honeymoon Special",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Snow Romance in the Heart of Manali",
+    "overview": "This bespoke Himachal honeymoon package guides couples into the heart of breathtaking landscapes, majestic snow-clad summits, and cozy Manali valleys. Travel in absolute style with a private luxury vehicle, rest in handpicked romantic resorts, and enjoy candlelight dinners, floral bedroom styling, and curated experiences from Solang Valley snow slopes to Kullu Valley handicraft heritage.",
+    "is_featured": true,
+    "featured_sort_order": 9,
+    "seo_title": "HP-007 | Snow Romance Manali Honeymoon | TRAGUIN Premium Himachal Tour",
+    "seo_description": "Luxury 04 Nights / 05 Days Manali honeymoon package (HP-007) covering Solang Valley, Rohtang Pass, Kullu Valley, and Old Manali with premium romantic stays, candlelight dinners, and floral bed setup. Ideal for newlyweds and luxury romantics.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Manali River-View Luxury Arrival",
+        "sort_order": 1
+      },
+      {
+        "text": "Heritage Temples & Old Manali Cafes",
+        "sort_order": 2
+      },
+      {
+        "text": "Solang Valley & Rohtang Snow Adventure",
+        "sort_order": 3
+      },
+      {
+        "text": "Kullu Valley Handloom & Rafting",
+        "sort_order": 4
+      },
+      {
+        "text": "Honeymoon Privileges & Bonfire Evenings",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Manali",
+        "description": "Your premium Himachal experience blooms the moment you land at Bhuntar Airport or reach the Chandigarh gateway. Your dedicated private luxury transport escorts you along the scenic Beas River highway. Check into your ultra-luxury handpicked resort with a beautifully styled bedroom welcome and spend the afternoon on cedar-scented Van Vihar trails.",
+        "activities": [
+          "Sightseeing Included: Van Vihar Forest Trail, private riverside boardwalk stroll",
+          "Evening Experience: Private intimate candlelight dinner with a custom celebratory cake curated by TRAGUIN experts",
+          "Overnight Stay: Manali (Premium Luxury River View Resort)",
+          "Meals Included: Welcome libation & curated honeymoon dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Manali Local Sightseeing",
+        "description": "Savor a lazy, late breakfast before exploring Manali's finest landmarks — the 450-year-old wooden Hadimba Devi Temple in deodar forests, therapeutic Vashisht Hot Springs, and the cobblestone streets of Old Manali with bohemian cafes and artisanal shopping alleys.",
+        "activities": [
+          "Sightseeing Included: Hadimba Temple, Vashisht Springs, Club House, Old Manali Cafes",
+          "Optional Activities: Artisanal cafe hopper trail with local live acoustic Himachali music performances",
+          "Overnight Stay: Manali (Premium Luxury Resort)",
+          "Meals Included: Premium breakfast & multi-cuisine dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Solang Valley & Rohtang Pass Excursion",
+        "description": "Prepare for an exhilarating day witnessing the scenic beauty of Solang Valley and mighty Rohtang Pass (subject to weather and permit parameters). Marvel at the unending blanket of snow with optional tandem paragliding, snow-scooter safaris, and skiing. Hold hands and take in panoramic vistas of the Pir Panjal range.",
+        "activities": [
+          "Sightseeing Included: Solang Valley snowy slopes, Atal Tunnel approach, Rohtang high altitude viewpoints",
+          "Evening Experience: Cozy evening lounge session at the resort with a warming private bonfire setting",
+          "Overnight Stay: Manali (Premium Luxury Resort)",
+          "Meals Included: Glacial buffet breakfast & evening dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Manali to Kullu Valley Excursion",
+        "description": "Embark on a beautiful day trip to Kullu, renowned for wide river meadows and rich handicraft heritage. Tour authentic handloom cooperatives where iconic Kullu shawls are masterfully woven. Adventure-loving couples can enjoy optional white-water rafting on the Beas River.",
+        "activities": [
+          "Sightseeing Included: Kullu Valley meadows, Angora shawl weaving industry, Kasol/Manikaran overlook option",
+          "Optional Activities: White water rafting (Grade II/III rapids) with professional safety crews",
+          "Overnight Stay: Manali (Premium Luxury Resort)",
+          "Meals Included: Breakfast & festive farewell dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Manali to Departure Gateway",
+        "description": "Relish your final lavish breakfast overlooking morning mist rising off valley pine trees. Your private luxury transport drives you safely back to your departure airport or railway terminus with joy, newfound promises, and unforgettable memories custom crafted by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury highway transit drop-off to station / airport",
+          "Meals Included: Gourmet buffet breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Solang Valley Resort / Hotel River Crescent / Similar",
+        "location": "Manali (4N)",
+        "nights_label": "04 Nights",
+        "description": "Deluxe valley-view romantic resort in Manali.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Valley View",
+        "meal_plan": "MAPAI (Breakfast & Dinner) — Welcome Cake & Floral Bed Styling",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "ManuAllaya Resort & Spa / Golden Tulip / Similar",
+        "location": "Manali (4N)",
+        "nights_label": "04 Nights",
+        "description": "Premium balcony suite with alpine views.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Balcony Suite",
+        "meal_plan": "MAPAI (Premium Buffet Menu) — Candlelight Dinner + Fruit Basket",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Himalayan (Castle Resort) / Bookmark Resort / Similar",
+        "location": "Manali (4N)",
+        "nights_label": "04 Nights",
+        "description": "Luxury castle resort with royal chambers.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Grand Royal Chamber",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu) — Private Jacuzzi Access + Wine/Mocktails",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Span Resort & Spa / Similar",
+        "location": "Manali (4N)",
+        "nights_label": "04 Nights",
+        "description": "Ultra-luxury riverside suite with butler service.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Riverside Luxury Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining) — Personalized Butler + Couple Spa Therapy",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 nights accommodation in handpicked romantic luxury properties in Manali",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Lavish daily breakfast arrays and customized five-course dinners (MAPAI)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Chauffeur-driven private elite sedan/SUV for seamless sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated travel consultant VIP assistance on-call",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Honeymoon privileges — premium almond milk nightly, floral room layout, and celebratory cake",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive toll fees, parking permits, and driver allowances",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Air tickets or train ticket fees to the state gateway destinations",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Rohtang Pass special NGT green permit costs or local shuttle transit fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, phone bills, premium alcohol, and gratuities",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional high-adventure sport booking charges (paragliding, river rafting, zorbing)",
+        "sort_order": 10
+      }
+    ]
+  }
+}

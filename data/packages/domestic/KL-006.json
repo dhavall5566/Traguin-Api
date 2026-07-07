@@ -1,0 +1,337 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-006-honeymoon-romance-munnar-kovalam",
+    "serial_code": "KL-006",
+    "traguin_tour_code": "TRAGUIN-KL-ROMANCE-06",
+    "title": "Munnar • Thekkady • Alleppey • Kovalam",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-006 | TRAGUIN tour code TRAGUIN-KL-ROMANCE-06",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Honeymoon / Luxury Holidays",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Munnar (2N) • Thekkady (1N) • Alleppey Houseboat (1N) • Kovalam (1N)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Honeymooners, Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Weather)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Handpicked Selection)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Chauffeur-Driven Premium Sedan / Luxury SUV Meal Plan: CP / MAPAI (Breakfast & Dinner Included)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Cochin → Munnar → Thekkady → Alleppey → Kovalam → Trivandrum DESTINATION SEO INSIGHT & HIGHLIGHTS Kerala is globally ranked among the top iconic attractions for experiential luxury travel. This customized Luxury Kerala Holiday highlights the very best of South India's scenic beauty. Whether you are seeking the most popular Instagram locations amidst the tea gardens of Munnar, looking to sample authentic Malabar cuisine at fine-dining beachside retreats, or hoping to uncover the historic spice trade routes in Thekkady, this tour captures every dimension. It stands as the quintessential luxury package for honeymooners, offering secluded privacy, candlelit dinners, sunset backwater cruises, and rejuvenating traditional Ayurvedic wellness therapies.",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private candlelight dining arrangements overlooking the mist-filled",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked properties selected strictly for outstanding hospitality,",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Seamless coordination with zero waiting times for hotel check-ins and smooth",
+        "sort_order": 11
+      },
+      {
+        "text": "Luxury Transportation: Professional, polite, and English/Hindi-speaking tourist drivers with clean",
+        "sort_order": 12
+      },
+      {
+        "text": "& BOOKING POLICIES",
+        "sort_order": 13
+      },
+      {
+        "text": "Hotel Policies: Standard check-in time is 14:00 hrs and check-out is 11:00 hrs. Early check-ins are",
+        "sort_order": 14
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Honeymoon",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-006-honeymoon-romance-munnar-kovalam-itinerary",
+    "title": "Munnar • Thekkady • Alleppey • Kovalam",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Handpicked Selection)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Munnar",
+    "overview": "Welcome to an enchanting world crafted exclusively for love. The Best Kerala Tour Package presented by TRAGUIN invites you to immerse yourselves in a sanctuary of emerald landscapes, pristine misty mountains, and timeless aquatic highways. Designed as the ultimate Kerala Honeymoon Package, this itinerary weaves together the aromatic romance of Munnar's high-altitude tea plantations, the exotic wildlife mysteries of Thekkady, the sublime solitude of an exclusive Alleppey backwater cruise, and the dramatic clifftop coastlines of Kovalam. Let TRAGUIN orchestrate your magical journey through God’s Own Country, where premium hospitality meets breathtaking landscapes to forge unforgettable memories. TRAGUIN Premium Travel Experience\n\nTOUR OVERVIEW\nThis strictly curated Kerala Family Tour and honeymoon plan is seamlessly orchestrated to eliminate travel stress while maximizing immersive experiences. Your package includes private premium transportation across all destinations, handpicked ultra-luxury resort accommodations, sensory-rich meals, and specialized local interactions curated by TRAGUIN destination experts. Group / FIT: Private FIT (Fully Customized Private Tour) Vehicle: Chauffeur-Driven Premium Sedan / Luxury SUV Meal Plan: CP / MAPAI (Breakfast & Dinner Included) Route: Cochin → Munnar → Thekkady → Alleppey → Kovalam → Trivandrum",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-006 | Munnar | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Kerala package (KL-006 / TRAGUIN-KL-ROMANCE-06): Munnar (2N) • Thekkady (1N) • Alleppey Houseboat (1N) • Kovalam (1N) with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: COCHIN ARRIVAL TO MUNNAR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MUNNAR SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MUNNAR TO THEKKADY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: THEKKADY TO ALLEPPEY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: ALLEPPEY TO KOVALAM",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: KOVALAM TO TRIVANDRUM",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private candlelight dining arrangements overlooking the mist-filled",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked properties selected strictly for outstanding hospitality,",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: Seamless coordination with zero waiting times for hotel check-ins and smooth",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN ARRIVAL TO MUNNAR | MISTY HILLS & CASCADE WELCOME",
+        "description": "Arrive at Cochin International Airport or railway station, where a professional TRAGUIN travel representative warmly welcomes you with fresh traditional garlands and private premium transport. Begin your scenic drive toward Munnar, a premium hill station renowned for its rolling carpets of green. As the road ascends, feel the crisp mountain air replace the coastal warmth. Traverse winding roads passing through the spectacular Cheeyappara and Valara Waterfalls—perfect photography points to capture your initial steps into paradise. Arrive at your ultra-luxury handpicked resort in Munnar, complete your seamless private check-in, and unwind in your private balcony overlooking the clouds. TRAGUIN Premium Travel Experience",
+        "activities": [
+          "Sightseeing Included: Cheeyappara & Valara Waterfalls, Adimali Spice Markets, Scenic Mountain Drive.",
+          "Optional Activities: Traditional Kerala Ayurvedic Welcome Massage at the resort.",
+          "Evening Experience: Private candlelight dining orientation over looking the mist-clad valley.",
+          "Overnight Stay: Premium Resort in Munnar.",
+          "Meals Included: Welcome Drink & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MUNNAR SIGHTSEEING | PRIVATE TEA ESTATE TRAILS & ICONIC",
+        "description": "PEAKS Wake up to a glorious mountain sunrise and indulge in a lavish buffet breakfast. Today, enjoy an immersive Munnar Sightseeing tour curated for deeper exploration. Visit the beautiful Mattupetty Dam and Lake, where an optional speed-boat ride offers thrilling panoramic views. Whisper your vows at the iconic Echo Point, and stroll through the manicured greenery of Kundala Lake. Later, experience an exclusive walk through private Tata Tea Plantations with a local naturalist, learning the delicate art of tea leaf plucking, followed by a gourmet tea-tasting session. Conclude your day with a visit to Eravikulam National Park (Rajamalai), the natural habitat of the endangered Nilgiri Tahr. handmade chocolates.",
+        "activities": [
+          "Sightseeing Included: Eravikulam National Park, Mattupetty Dam, Echo Point, Kundala Lake, Tea Museum.",
+          "Optional Activities: Speed boating at Mattupetty, Private Couples' Photo Session in tea gardens.",
+          "Evening Experience: Leisurely walk down the local colonial-era Munnar town market for rare spices and",
+          "Overnight Stay: Premium Resort in Munnar.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MUNNAR TO THEKKADY | WILDLIFE ENCOUNTERS & SPICE ODYSSEY",
+        "description": "Following a delicious breakfast, check out and drive through the Western Ghats to Thekkady, India's premier spice destination. The route is an absolute visual treat, lined with rubber plantations, open valleys, and dense tropical forests. Check in to your luxury boutique wilderness resort. In the afternoon, enjoy an immersive spice plantation tour, where you will smell, taste, and learn about fresh cardamom, black pepper, vanilla, and cinnamon. Later, proceed for a tranquil boating experience on Periyar Lake inside the Periyar Tiger Reserve, keeping a sharp eye out for wild elephants, gaur, and rare birds drinking along the water's edge. TRAGUIN Premium Travel Experience",
+        "activities": [
+          "Sightseeing Included: Periyar Lake Boating, Spice Plantation Tour, Periyar Tiger Reserve.",
+          "Optional Activities: Elephant Interaction Program, Guided Jungle Night Patrol Walk.",
+          "Evening Experience: VIP seating at the local theatre for Kalaripayattu (Martial Arts) and Kathakali cultural shows.",
+          "Overnight Stay: Luxury Spice Resort in Thekkady.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "THEKKADY TO ALLEPPEY | THE ULTIMATE PRIVATE BACKWATER",
+        "description": "CRUISE After breakfast, depart for Alleppey, the crown jewel of your Premium Kerala Experience. At noon, step onto your exclusive, private luxury traditional Houseboat (Kettuvallam) waiting at the jetty. Your dedicated onboard crew—comprising a private captain, chef, and butler—welcomes you with fresh coconut water. As your boat glides effortlessly along the tranquil Vembanad Lake and narrow palm- fringed canals, admire the quintessential sights of rural Kerala lifestyle. Enjoy an exquisite multi-course lunch featuring traditional pearl spot fish (Karimeen Pollichathu) cooked fresh onboard. This is the centerpiece of your Kerala Honeymoon Package, offering unrivaled intimate luxury and peace. dinner.",
+        "activities": [
+          "Sightseeing Included: Vembanad Lake, Alleppey Backwater Canals, Paddy Field Views.",
+          "Optional Activities: Traditional village canoe cruise to explore narrow water alleys.",
+          "Evening Experience: Watch the breathtaking sunset from the houseboat deck, followed by a romantic candlelit",
+          "Overnight Stay: Private Luxury Houseboat (Anchored in the serene backwaters).",
+          "Meals Included: Breakfast, Traditional Lunch, Evening Snacks, & Candlelight Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "ALLEPPEY TO KOVALAM | SUN-KISSED CLIFFS & ARABIAN SEA",
+        "description": "LUXURY Enjoy breakfast while cruising smoothly back to the jetty. Disembark and drive south toward Kovalam, the world-famous pristine beach destination of Kerala. Upon arrival, check in to a spectacular premium clifftop resort that offers endless views of the Arabian Sea. Spend your afternoon relaxing on the golden sands of Lighthouse Beach, Hawa Beach, or Samudra Beach. The dramatic black rocks against the blue sea create one of the most popular Instagram locations in India. Unwind under palm trees, enjoy the cool sea breeze, and let the soothing rhythm of the waves enhance your romantic getaway. TRAGUIN Premium Travel Experience",
+        "activities": [
+          "Sightseeing Included: Kovalam Beach Circuit, Vizhinjam Lighthouse, Marine Aquarium.",
+          "Optional Activities: Authentic full-body Ayurvedic rejuvenation therapy at a beachside spa.",
+          "Evening Experience: Private seaside sundowner cocktail session followed by a gourmet seafood dinner.",
+          "Overnight Stay: Luxury Beach Resort in Kovalam.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "KOVALAM TO TRIVANDRUM | DEPARTURE WITH FOREVER MEMORIES",
+        "description": "Conclude your remarkable luxury holiday with a relaxed breakfast by the ocean. Depending on your flight or train schedule, check out of your resort and enjoy a brief city tour of Trivandrum. Visit the breathtaking, historic Sree Padmanabhaswamy Temple, known for its grand architecture and spiritual heritage. Afterwards, your private chauffeur transfers you to Trivandrum International Airport or the railway station for your onward journey. Your majestic itinerary with TRAGUIN ends here, leaving you with beautifully curated experiences and unforgettable memories to cherish for a lifetime. Museum.",
+        "activities": [
+          "Sightseeing Included: Sree Padmanabhaswamy Temple (Outer View / Entry subject to dress code), Napier",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fog Munnar / Leaf Resort | Greenwoods Resort / Poetree | Premium Private Houseboat | Soma Palmshore / Travancore",
+        "location": "Munnar | Thekkady | Alleppey | Kovalam",
+        "nights_label": "2N Munnar|1N Thekkady|1N Alleppey|1N Kovalam",
+        "description": "OPTION 01 – DELUXE: The Fog Munnar / Leaf Resort | Greenwoods Resort / Poetree | Premium Private Houseboat | Soma Palmshore / Travancore | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Valley View / Deluxe Room / Deluxe AC Cabin / Standard Sea View",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel / Amber Dale | Elephant Court / Spice Village | Luxury Private Houseboat | Turtle on the Beach / Isola Di Cocco",
+        "location": "Munnar | Thekkady | Alleppey | Kovalam",
+        "nights_label": "2N Munnar|1N Thekkady|1N Alleppey|1N Kovalam",
+        "description": "OPTION 02 – PREMIUM: Blanket Hotel / Amber Dale | Elephant Court / Spice Village | Luxury Private Houseboat | Turtle on the Beach / Isola Di Cocco | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premier Valley View / Patio Room / Luxury Glass AC Cabin / Premium Sea View",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Fragrant Nature / Chandy's Windy Woods | Cardamom County / Niraamaya Wilderness | Ultra Luxury Houseboat | The Leela Kovalam / T",
+        "location": "Munnar | Thekkady | Alleppey | Kovalam",
+        "nights_label": "2N Munnar|1N Thekkady|1N Alleppey|1N Kovalam",
+        "description": "OPTION 03 – LUXURY: Fragrant Nature / Chandy's Windy Woods | Cardamom County / Niraamaya Wilderness | Ultra Luxury Houseboat | The Leela Kovalam / Taj Green Cove | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Suite / Garden Cottage / Suite AC Cruise Cabin / Garden View Pavilion",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Elixir Hills / Windermere Estate | Spice Village - CGH Earth | Xandari Riverscapes Houseboat | The Leela Kovalam / Taj Green Cov",
+        "location": "Munnar | Thekkady | Alleppey | Kovalam",
+        "nights_label": "2N Munnar|1N Thekkady|1N Alleppey|1N Kovalam",
+        "description": "OPTION 04 – ULTRA LUXURY: Elixir Hills / Windermere Estate | Spice Village - CGH Earth | Xandari Riverscapes Houseboat | The Leela Kovalam / Taj Green Cove | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Suite / Private Spice Garden Villa / Ultra Premium Premium Deck / Club Premium Sea View Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Double sharing in premium handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private Houseboat: Fully exclusive luxury cruise in Alleppey.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Meal Plan: Daily breakfast and dinners at resorts; all meals onboard houseboat.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC premium vehicle for all transfers and tours.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Honeymoon cake, floral bed decoration, and candlelit setup.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Curated Experiences: Guided spice plantation walk and tea estate trail.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated local concierge assistance.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All current fuel, toll, parking, and luxury hospitality taxes.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights / Train: Domestic or international airfares.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry Tickets: Historic monument fees, national park tickets.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Activities: Kathakali shows, boat rides, adventure sports.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, alcoholic beverages, tipping.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Surge Charges: Peak festive season surcharges (if applicable).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Travel, medical, or baggage loss insurance.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

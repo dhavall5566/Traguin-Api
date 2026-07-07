@@ -1,0 +1,271 @@
+{
+  "destination_slug": "goa",
+  "package": {
+    "slug": "ga-022-south-goa-portuguese-heritage",
+    "serial_code": "GA-022",
+    "traguin_tour_code": "TRG-GA-022",
+    "title": "TRAGUIN Premium Goa Tour Package — South Goa Portuguese Heritage",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GA-022 | TRAGUIN tour code TRG-GA-022",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Goa / India | Category: South Goa",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Panaji •",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Heritage Lovers & Connoisseurs of Luxury",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Bespoke Package)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private curator-led walk inside the family archives of the Braganza",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing planned to optimize travel time, avoiding busy paths for",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for their rich architectural heritage and child-",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Direct access to local coordinators who know the best local hidden gems and",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Take home authentic hand-painted Azulejos (Portuguese ceramic tiles), premium local cashew nuts, Goan chorizo sausage mixes, and high-end organic feni infusions. Cafes & Instagram Spots: Visit the vibrant cafes of Panaji and Margao for fresh pastéis de nata (egg tarts) paired with artisanal coffees, surrounded by beautiful tropical courtyards.",
+        "sort_order": 12
+      },
+      {
+        "text": "& TRAVEL GUIDELINES",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "ga-022-south-goa-portuguese-heritage-itinerary",
+    "title": "TRAGUIN Premium Goa Tour Package — South Goa Portuguese Heritage",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Bespoke Package)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "South Goa Portuguese Heritage",
+    "overview": "Welcome to an extraordinary immersion into history, culture, and coastal luxury designed by TRAGUIN. Discover the timeless charm of our exclusive Goa Family Tour, meticulously tailored to unlock the architectural secrets, Latin quarters, and majestic heritage estates of South Goa. As your high-end travel partner, TRAGUIN transforms your vacation into a Luxury Goa Holiday filled with handpicked hotels, breathtaking landscapes, and elite privileges. Let the scenic beauty of colonial mansions, historic cathedrals, and sun-kissed sands serve as the setting for unforgettable memories with your loved ones.\n\nTOUR OVERVIEW\nThis bespoke luxury itinerary offers families a sophisticated escape far beyond standard beach resort travel. Journeying across Goa in a spacious private premium AC SUV accompanied by an experienced local expert chauffeur, your family will enjoy uncompromising privacy. Enjoy a curated meal plan featuring indulgent daily buffet breakfasts and fine regional dinners. Your route represents the ultimate premium Goa experience, integrating private curator-guided architecture walks, authentic culinary tastings, and the legendary TRAGUIN curated experience note ensuring priority entry and exclusive local experiences at every checkpoint.\n\nWHY CHOOSE THE BEST GOA TOUR PACKAGE?\nWhen planning a Luxury Goa Holiday, travelers looking for authenticity seek the rich cultural identity of South Goa. Our signature Goa Family Tour presents a side of the coastal state steeped in Indo-Portuguese heritage, featuring iconic attractions that tell a story of bygone eras. From the legendary Latin Quarter of Fontainhas—a highly popular Instagram location with candy-colored houses—to the UNESCO World Heritage sites of Old Goa, Goa sightseeing offers deep cultural value. Whether you are looking for a romantic Goa Honeymoon Package or an elegant family getaway, this route brings you to top tourist places in Goa, including grand mansions like the Braganza House in Chandor and the tranquil golden shores of Varca and Cavelossim. Indulge in unique boutique shopping, savor fine fusion dining, and explore lush spice plantations. Booking our specialized TRAGUIN Goa Packages ensures your family experiences the best time to visit Goa in absolute comfort with premium stays and flawless coordination.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GA-022 | Goa | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Goa package (GA-022 / TRG-GA-022): Panaji •.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GOA – CHONGM OR PANAJI ARRIVAL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: REVEALING OLD GOA’S COLONIAL SPLENDOR",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SOUTH GOA PORTUGUESE MANSIONS EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: COASTAL LEISURE & PRIVATE SUNSET SAILING",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE FROM GOA",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GOA – CHONGM OR PANAJI ARRIVAL",
+        "description": "WELCOME TO THE LATIN QUARTERS – PRIVATE HERITAGE EMBARKATION Your premium Goa experience starts the moment you land at Mopa or Dabolim Airport. A dedicated private luxury transport SUV waits to drive you smoothly to your handpicked premium hotel in Panaji or South Goa. After settling into your spacious room, head out for an afternoon walking tour of Fontainhas, the stunning Latin Quarter of Goa. Capture the scenic beauty of the pastel-hued Portuguese villas, ornate wrought-iron balconies, and narrow winding alleys. Conception. TRAGUIN experts.",
+        "activities": [
+          "Sightseeing Included: Fontainhas Latin Quarter walking tour, Panaji Church of Our Lady of the Immaculate",
+          "Evening Experience: An intimate family dinner at a restored heritage Portuguese restaurant curated by",
+          "Overnight Stay: Panaji Heritage Boutique Luxury Hotel / South Goa Resort",
+          "Meals Included: Welcome Drink & Fine-Dining Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "REVEALING OLD GOA’S COLONIAL SPLENDOR",
+        "description": "THE ARCHITECTURAL MARVELS OF A BYGONE EMPIRE Indulge in a premium breakfast before heading to Old Goa, the former capital under Portuguese rule and home to some of the most iconic attractions in India. Explore the awe-inspiring Basilica of Bom Jesus, which holds the sacred relics of St. Francis Xavier, and the grand Se Cathedral. Your private guide will share stories of historical events that shaped the region. In the afternoon, escape the heat with a private tour of a tropical spice plantation, featuring a traditional Goan family buffet lunch.",
+        "activities": [
+          "Sightseeing Included: Basilica of Bom Jesus, Se Cathedral, Church of St. Cajetan, Ponda Spice Plantation.",
+          "Optional Activities: Feni tasting session and organic spice shopping directly from the plantation estate.",
+          "Overnight Stay: South Goa Luxury Beach Resort",
+          "Meals Included: Premium Breakfast, Plantation Lunch & Luxury Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SOUTH GOA PORTUGUESE MANSIONS EXCURSION",
+        "description": "THE GRANDEUR OF CHANDOR & MARGAO HERITAGE Dedicate today to exploring the luxurious country life of the pre-liberation Goan elite. Drive deep into the historic village of Chandor to explore the majestic Braganza House, a grand 350-year-old estate filled with priceless antiques, rare porcelain, and family relics. Next, visit the structural wonders of Palacio do Deao in Quepem, an architectural marvel nestled by the Kushavati River. Enjoy a personalized lunch on its beautiful veranda. square.",
+        "activities": [
+          "Sightseeing Included: Menezes Braganza House (Chandor), Palacio do Deao (Quepem), Holy Spirit Church",
+          "Evening Experience: Relaxed stroll on the white sands of Colva Beach at sunset for a scenic family photo.",
+          "Overnight Stay: South Goa Luxury Beach Resort",
+          "Meals Included: Premium Breakfast, Indo-Portuguese Veranda Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "COASTAL LEISURE & PRIVATE SUNSET SAILING",
+        "description": "GOLDEN SANDS & EXCLUSIVE MARINE ROMANCE Spend a slow morning enjoying the elite amenities of your premium beach resort. Walk along the uncrowded beaches of South Goa, go for a swim, or book a therapeutic spa treatment. Late in the afternoon, arrive at the jetty for a private luxury yacht charter or premium catamaran catamaran sail. Take in breathtaking views as the sun dips below the Arabian Sea horizon—a truly unforgettable memory for the entire family.",
+        "activities": [
+          "Sightseeing Included: Varca / Cavelossim pristine beach coastline, Luxury marine cruise lines.",
+          "Optional Activities: Beachside watersports or high-end seafood dining at iconic beach shacks.",
+          "Evening Experience: A special farewell family dinner alongside a beach bonfire, arranged by TRAGUIN support.",
+          "Overnight Stay: South Goa Luxury Beach Resort",
+          "Meals Included: Premium Breakfast & Beachfront Farewell Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE FROM GOA",
+        "description": "CHERISHING MEMORIES BEYOND DESTINATIONS Savor a final lavish buffet breakfast at your resort. Enjoy a few last moments by the pool before checking out. Your private premium vehicle will pick you up for a smooth transfer back to the airport or railway station. Return home with your hearts full of warm sunshine, deep cultural insights, and unforgettable memories carefully designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private door-to-door luxury airport drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Panjim Inn Heritage / Fairfield by Marriott Benaulim",
+        "location": "Panaji / South Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Panjim Inn Heritage / Fairfield by Marriott Benaulim (Panaji / South Goa (4 Nights)) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Heritage / Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Cidade de Goa (IHCL SeleQtions) / Heritage Village Resort",
+        "location": "Panaji / South Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Cidade de Goa (IHCL SeleQtions) / Heritage Village Resort (Panaji / South Goa (4 Nights)) | MAPAI Plan",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Sea Facing Room",
+        "meal_plan": "MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Goa / Taj Exotica Resort & Spa",
+        "location": "Panaji / South Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: The Leela Goa / Taj Exotica Resort & Spa (Panaji / South Goa (4 Nights)) | Bespoke MAPAI Package",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Lagoon Suite / Garden Villa",
+        "meal_plan": "Bespoke MAPAI Package",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Grand Goa Resort & Spa / Alila Diwa (The Club)",
+        "location": "Panaji / South Goa (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: ITC Grand Goa Resort & Spa / Alila Diwa (The Club) (Panaji / South Goa (4 Nights)) | Elite Custom Culinary Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Private Pool Villa Stay",
+        "meal_plan": "Elite Custom Culinary Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight costs, or interstate rail",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "ticketing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to individual historical estates or",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "camera passes.",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as boutique bar use,",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "laundry, and guide tips.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional luxury yacht charter pricing or dynamic",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "watersport packages.",
+        "sort_order": 8
+      }
+    ]
+  }
+}

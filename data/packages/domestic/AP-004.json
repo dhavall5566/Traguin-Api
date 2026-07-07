@@ -1,0 +1,352 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-004-coastal-hills-symphony-vizag-araku",
+    "serial_code": "AP-004",
+    "traguin_tour_code": "TG-AP-AVF-004",
+    "title": "TRAGUIN Premium Araku Valley Tour Package",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-004 | TRAGUIN tour code TG-AP-AVF-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Premium Family Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Visakhapatnam (Vizag) • Araku Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Nature Lovers & Leisure Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant and misty)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury SUV (Innova Crysta / Equivalent) | Meal Plan: Premium Breakfast & Dinner (MAPAI)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Visakhapatnam (2N) → Araku Valley (2N) → Visakhapatnam Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Private panoramic Vistadome train ride ascending through tunnels and valleys, aromatic coffee tasting tour within organic estates, and private Dhimsa tribal dance demonstration designed exclusively for your family circle.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family Vistadome train experience across the majestic Eastern Ghats mountains.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every resort cottage, transport route, and driver is rigorously vetted to guarantee premium safety and luxury for families.",
+        "sort_order": 11
+      },
+      {
+        "text": "Personalized Assistance: Dedicated 24/7 holiday consultant assigned specifically to your family from booking until your return flight.",
+        "sort_order": 12
+      },
+      {
+        "text": "Premium Handpicked Hotels: Stay at incredible properties, ranging from sea-facing Novotel rooms to tranquil green valley resorts.",
+        "sort_order": 13
+      },
+      {
+        "text": "Exclusive Recommendations: Handselected list of culinary recommendations, local markets, and sunset viewpoints carefully curated by destination experts.",
+        "sort_order": 14
+      },
+      {
+        "text": "Shopping & Local Experiences: Araku Coffee & Chocolates, Famous Bamboo Chicken, Etikoppaka Toys, Vizag Silk Bazaars (Pochampally, Dharmavaram, Gadwal sarees).",
+        "sort_order": 15
+      },
+      {
+        "text": "Important Notes: Hotel Check-in/out 14:00 / 11:00 hrs. Vistadome Bookings open 60 days in advance. Borra Caves: wear comfortable walking shoes. Advance Booking Suggestions: 45–60 days ahead for peak winter holidays.",
+        "sort_order": 16
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Coastal",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-004-coastal-hills-symphony-vizag-araku-itinerary",
+    "title": "TRAGUIN Premium Araku Valley Tour Package",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Coastal & Hills Symphony: Visakhapatnam • Araku Valley • 04 Nights / 05 Days",
+    "overview": "Welcome to a breathtaking world where the azure waters of the Bay of Bengal embrace the misty coffee-scented heights of the Eastern Ghats. The Best Andhra Pradesh Tour Package, conceptualized exclusively by TRAGUIN, invites your family to unwind amidst scenic beauty and cultural rich landmarks.\n\nTOUR OVERVIEW\nThis premium Araku Valley Family Tour delivers a magnificent experience of two diverse landscapes: the energetic, clean coastal vibes of Visakhapatnam (Vizag) and the pristine, soothing hill stations of Araku Valley.\n\nWHY CHOOSE THE PREMIUM ARAKU VALLEY EXPERIENCE?\nIconic Attractions include RK Beach, Rushikonda, INS Kursura Submarine Museum, Borra Caves, and Padmapuram Gardens. Best Time to Visit Araku Valley: October to March offers refreshing hill breezes and misty mornings.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-004 | Premium Araku Valley Tour Package | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Vizag-Araku package (AP-004 / TG-AP-AVF-004): Vistadome train, Borra Caves, Rushikonda speedboating, Dhimsa dance, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "RK Beach, INS Kursura Submarine Museum, TU 142 Aircraft Museum, and Kailasagiri Ropeway",
+        "sort_order": 1
+      },
+      {
+        "text": "Rushikonda Beach private speedboating, Thotlakonda, and Yarada Secluded Beach",
+        "sort_order": 2
+      },
+      {
+        "text": "Vistadome Train Route, Araku Tribal Museum, and private Dhimsa Tribal Dance performance",
+        "sort_order": 3
+      },
+      {
+        "text": "Borra Caves, Coffee Estates, Padmapuram Gardens, Chaprai Waterfalls, and Galikonda View Point",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family Vistadome train across the Eastern Ghats",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VISAKHAPATNAM — ARRIVAL & EXPLORING THE COASTAL QUEEN",
+        "description": "Your premium family getaway begins as you arrive at Visakhapatnam Airport or Railway Station. You are warmly received by your dedicated TRAGUIN chauffeur and tour manager with premium welcoming kits. Transfer comfortably to your handpicked luxury beachfront hotel. After a seamless check-in and an absolute fresh lunch, begin your Visakhapatnam Sightseeing exploration. Visit the iconic INS Kursura Submarine Museum, a real decommissioned Soviet-built submarine standing proudly on the sands of Ramakrishna Beach. Next, explore the adjacent TU 142 Aircraft Museum. In the evening, take a leisurely stroll down the beautifully illuminated RK Beach road or experience a breathtaking panoramic view of the harbor city from the summit of Kailasagiri Hill, accessed via an exciting ropeway ride. Return to the resort for an exquisite sea-facing gourmet dinner.",
+        "activities": [
+          "Sightseeing Included: RK Beach, INS Kursura Submarine Museum, TU 142 Aircraft Museum, Kailasagiri Ropeway.",
+          "Evening Experience: Breathtaking sunset from Kailasagiri Hill overlooking the coastal expanse.",
+          "Meals Included: Welcome Signature Drink & Gourmet Multi-cuisine Dinner.",
+          "Overnight Stay: Premium Beachfront Resort, Visakhapatnam."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "VISAKHAPATNAM — COASTAL MARVELS & GOLDEN BEACH EXPERIENCES",
+        "description": "Wake up early to witness a glorious, unforgettable sunrise directly over the Bay of Bengal. After a sumptuous breakfast, continue your premium Andhra Pradesh Sightseeing trail. Drive along the spectacular marine road to the pristine Rushikonda Beach, renowned for its clean sand and gentle surf. Enjoy a TRAGUIN Signature Experience: a private speed-boating excursion across the blue waters under professional guidance. In the afternoon, discover the ancient historical heritage at Thotlakonda, a serene Buddhist monastic complex perched high on a hill overlooking the sea, dating back over 2,000 years. Later, find tranquility inside the Yarada Beach, a secluded pristine beach bordered by high green cliffs on three sides. Capture beautiful family photographs before returning to your hotel for a relaxed evening.",
+        "activities": [
+          "Sightseeing Included: Rushikonda Beach, Thotlakonda Buddhist Complex, Yarada Secluded Beach, Dolphin's Nose Lighthouse.",
+          "Optional Activities: Adventurous jet-skiing or surfing lessons at Rushikonda Beach.",
+          "Evening Experience: Relaxed high-tea experience at a cliffside cafe overlooking the ocean.",
+          "Meals Included: Buffet Breakfast & Specially Prepared Seafood Theme Dinner.",
+          "Overnight Stay: Premium Beachfront Resort, Visakhapatnam."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "VISAKHAPATNAM TO ARAKU VALLEY — THE ENCHANTING VISTADOME RAIL JOURNEY",
+        "description": "An extraordinary morning awaits your family. After a light early breakfast, your chauffeur transfers you to the Visakhapatnam Railway Station to board the prestigious Vistadome Train to Araku. Recline inside an ultra-modern coach featuring massive glass ceilings and 360-degree rotating seats. Journey across the breathtaking landscapes of the Eastern Ghats, passing through more than 80 tunnels, soaring bridges, and deep green valleys. Your private luxury vehicle will meet you seamlessly as you step out at Araku Station. Check into your premium valley-view eco-resort. In the afternoon, explore the Araku Tribal Museum, showcasing the colorful heritage, lifestyle, and traditional arts of the local indigenous tribes. Conclude your day with an exclusive experience: a private performance of the traditional Dhimsa Dance organized by TRAGUIN within your resort lawns.",
+        "activities": [
+          "Sightseeing Included: Vistadome Train Route, Araku Tribal Museum, Local Artisans Market.",
+          "Evening Experience: Private Dhimsa Tribal Dance performance with campfire setup.",
+          "Meals Included: Breakfast, Light Train Snacks, & Curated Authentic Mountain Dinner.",
+          "Overnight Stay: Luxury Valley Eco-Resort, Araku Valley."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ARAKU VALLEY — SUBTERRANEAN CAVES & COFFEE PLANTATIONS",
+        "description": "Relish a fresh breakfast enveloped by mountain mist. Your day is filled with incredible Araku Valley Sightseeing wonders. Head first toward the remarkable Borra Caves, millions-of-years-old limestone formations buried deep inside the Ananthagiri Hills. Next, take a private stroll through the aromatic Araku Coffee Plantations and enjoy an exclusive coffee-tasting session. In the afternoon, wander among the wooden treehouses and rare botanical species inside Padmapuram Gardens, followed by a refreshing stop at the cascading Chaprai Waterfalls. Return to your resort for a special family farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Borra Caves, Coffee Estates, Padmapuram Gardens, Chaprai Waterfalls, Galikonda View Point.",
+          "Optional Activities: A light trekking trail along the Ananthagiri forest hills.",
+          "Evening Experience: Spectacular mountain sunset views from the high Galikonda View Point.",
+          "Meals Included: Gourmet Breakfast, Local Culinary Lunch, & Grand Farewell Dinner.",
+          "Overnight Stay: Luxury Valley Eco-Resort, Araku Valley."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "ARAKU VALLEY TO VISAKHAPATNAM — DEPARTURE WITH PRECIOUS MEMORIES",
+        "description": "Indulge in a final hearty breakfast on your resort balcony as the morning clouds roll across the valley. Complete your check-out and board your luxury private vehicle for a scenic drive descending down the winding ghat roads back toward the coast. On the way, stop at the beautiful Tatipudi Reservoir, a peaceful oasis of blue water bordered by hills, ideal for a quiet break. Depending on your schedule, your private chauffeur will drop you comfortably at the Visakhapatnam Airport or Railway Station for your return home.",
+        "activities": [
+          "Sightseeing Included: Winding Ghat Road Drive, Tatipudi Reservoir stop, Private Departure Transfer.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Gateway Hotel RK Beach (Standard)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: The Gateway Hotel RK Beach (Visakhapatnam, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "MPT Haritha Hill Resort",
+        "location": "Araku Valley",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: MPT Haritha Hill Resort (Araku Valley, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Visakhapatnam Varun Beach (Superior)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Visakhapatnam Varun Beach (Visakhapatnam, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "MPT Haritha Valley Resort (Luxury AC)",
+        "location": "Araku Valley",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: MPT Haritha Valley Resort (Araku Valley, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury AC Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Varun Beach (Ocean View Executive)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: Novotel Varun Beach Ocean View Executive (Visakhapatnam, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Ocean View Executive",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Araku Valley Eco Lodges / Private Cottages",
+        "location": "Araku Valley",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: Araku Valley Eco Lodges / Private Cottages (Araku Valley, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Private Cottage",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Park Visakhapatnam (Luxury Ocean Suite)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Park Visakhapatnam (Visakhapatnam, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Ocean Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Exclusive Luxury Wilderness Villa Retreat",
+        "location": "Araku Valley",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Exclusive Luxury Wilderness Villa Retreat (Araku Valley, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Wilderness Villa",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights luxury accommodation at our handpicked premium hotels and eco-resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily buffet breakfasts and curated multi-cuisine dinners at all hotels.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury vehicle (Toyota Innova Crysta) for all transfers, drives, and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Train Access: Pre-booked Vistadome Premium Train tickets from Visakhapatnam to Araku Valley.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Royal traditional welcomes at resorts, fresh fruit baskets, and premium mineral water provided daily inside your car.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private Speedboating at Rushikonda Beach and an exclusive Dhimsa Tribal Dance performance.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated concierge assistance from our expert team, with all toll taxes, fuel, parking, and driver allowances fully covered.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Main Airfare / Rail: Intercity flight or train tickets to and from Visakhapatnam.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument Entry Tickets: Individual entrance fees at museums, gardens, and caves unless stated otherwise.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry services, telephone calls, alcoholic drinks, spa sessions, and optional tipping.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Activities: Water sports at beaches or extra items not specified inside inclusions.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

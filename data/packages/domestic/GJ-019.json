@@ -1,0 +1,275 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-019-polo-forest-weekend-exploration",
+    "serial_code": "GJ-019",
+    "traguin_tour_code": "TRAGUIN-GJ-019",
+    "title": "Polo Forest Weekend Exploration",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-019 | TRAGUIN tour code TRAGUIN-GJ-019",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Offbeat / Nature Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ahmedabad • Polo Forest • Vijaynagar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March (Monsoon & Winter)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Nature Escape (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Executive Luxury SUV (Innova Crysta)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: All Meals Included (Breakfast, Traditional Lunch, & Gourmet Dinner)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Ahmedabad Arrival → Polo Forest (Vijaynagar) → Heritage Exploration → Ahmedabad Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated meticulously by TRAGUIN experts to bring forward a perfect balance of heritage and relaxation. Our handpicked premium hotels guarantee absolute luxury, while our specialized routes minimize driving fatigue, making this weekend getaway completely blissful.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Shop for traditional pottery, tribal bamboo artworks, and exquisite handwoven garments from nearby Idar and Vijaynagar markets. • • • • • • • • • • • • • •",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Standard eco-resort check-in is at 14:00 hrs and check-out is at 11:00 hrs. Weather & Clothing: Light breathable cotton clothing is recommended for daytime exploration; carrying good walking or hiking shoes is necessary for forest trails. Network Advisory: Mobile network inside dense parts of Polo Forest can be limited, helping you enjoy an uninterrupted digital detox experience.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Heritage",
+      "Weekend"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-019-polo-forest-weekend-exploration-itinerary",
+    "title": "Polo Forest Weekend Exploration",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Polo Forest Weekend Exploration • Hidden Jungle Sanctuary",
+    "overview": "Tucked away near Vijaynagar, Polo Forest is one of the most stunning hidden gems in Western India, perfect for a rejuvenating Gujarat Family Tour or an offbeat Gujarat Honeymoon Package. Known for its historical significance and breathtaking landscapes, this sanctuary hosts ancient Hindu and Jain temple architectures seamlessly entwined with wild jungle vines and the gentle flow of the Harnav River. As one of the highly searched Top Tourist Places in Gujarat, visitors are drawn to its unique ecosystem, scenic beauty, and rich bio-diversity. The Best Time to Visit Gujarat's Polo Forest is right after the monsoon rains when the waterfalls are cascading and the foliage turns completely emerald green. Choosing our tailored TRAGUIN Gujarat Packages ensures premium stays, exclusive access to historical secrets, and unforgettable memories for your loved ones.\n\nTRAGUIN Curated Touch: Enjoy an immersive nature trail led by certified naturalists, exclusive campfire storytelling sessions under the stars, premium handpicked eco-resort accommodations, and priority travel assistance.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-019 | Polo Forest Weekend Exploration | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Gujarat package (GJ-019 / TRAGUIN-GJ-019): Sharaneshwar Temple, Lakhena ruins, Vanaj Dam, Harnav River trails, eco-resort stays, and 4-tier accommodation",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Riverside Walking Trails, Eco-Resort orientation.",
+        "sort_order": 1
+      },
+      {
+        "text": "Sharaneshwar Temple, Lakhena Temple Ruins, Vanaj Dam, Harnav River Walk.",
+        "sort_order": 2
+      },
+      {
+        "text": "En-route photography points, Ahmedabad Departure Transfer.",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated meticulously by TRAGUIN experts to bring forward a perfect balance of heritage and relaxation. Our handpicked premium hotels guarantee absolute luxury, while our specialized routes minimize driving fatigue, making this weekend getaway completely blissful.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury hotels and seamless ground logistics",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL AHMEDABAD TO POLO FOREST",
+        "description": "Arrive at Ahmedabad Airport/Railway Station where your private chauffeur welcomes you. Board your luxury sedan/SUV and embark on a scenic drive toward the pristine wilderness of Vijaynagar. Upon arrival at Polo Forest, check in seamlessly to your premium handpicked eco-luxury resort. After refreshing yourself, enjoy a peaceful guided orientation walk around the Harnav River bank, soaking in the serene evening breeze.",
+        "activities": [
+          "Sightseeing Included: Riverside Walking Trails, Eco-Resort orientation.",
+          "Evening Experience: A warm welcome high-tea followed by an introductory presentation about Polo Forest's biodiversity.",
+          "Overnight Stay: Handpicked Luxury Eco-Resort, Polo Forest.",
+          "Meals Included: Traditional Lunch & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "POLO FOREST SIGHTSEEING",
+        "description": "Awake to the peaceful chirping of exotic birds. Today features a complete day of deep, immersive exploration. Visit the iconic 15th-century Sharaneshwar Shiva Temple, featuring gorgeous stone carvings without a roof. Explore the ancient Jain temples hidden deep within the foliage, followed by a visit to the historic Lakhena Jain Temple ruins. In the afternoon, visit the massive Vanaj Dam, an incredible photography point offering panoramic views of the water reservoir nestled among mountains.",
+        "activities": [
+          "Sightseeing Included: Sharaneshwar Temple, Lakhena Temple Ruins, Vanaj Dam, Harnav River Walk.",
+          "Local Experiences: A curated nature walk with an expert naturalist identifying medicinal flora and bird species.",
+          "Overnight Stay: Premium Eco-Resort, Polo Forest.",
+          "Meals Included: Full Breakfast, Picnic Lunch & Campfire Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "POLO FOREST TO AHMEDABAD DEPARTURE",
+        "description": "Indulge in a luxurious early morning breakfast amidst nature. Take a final stroll around the manicured paths of your forest property or capture the early morning sun filtering through the dense canopy at popular Instagram locations. Check out from your resort and drive comfortably back to Ahmedabad. If time permits, enjoy brief historical Gujarat Sightseeing options in Ahmedabad before dropping off at the airport/station for your onward journey.",
+        "activities": [
+          "Sightseeing Included: En-route photography points, Ahmedabad Departure Transfer.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Polo Retreat Resort",
+        "location": "Polo Forest",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Forest Room",
+        "meal_plan": "API (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Polo Tent City & Resort",
+        "location": "Polo Forest",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Luxury Cottage",
+        "meal_plan": "API (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Forest Resort, Polo Forest",
+        "location": "Polo Forest",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Winter Green Room",
+        "meal_plan": "API Premium Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Forest Resort (Premium Villa Wing)",
+        "location": "Polo Forest",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Fern Club Studio Villa with Deck",
+        "meal_plan": "API Premium Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights stay at handpicked luxury forest resorts / tent properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Complete plan covering all breakfasts, traditional lunches, and dinners as per itinerary.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Chauffeur-driven executive luxury private vehicle (AC on hills turned off for safety).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: Personalized 24/7 remote operations support and expert trip curation.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All applicable luxury resort taxes, state highway toll permits, and parking.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Handcrafted welcome refresher drinks and custom forest exploration guide kit.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Guided nature exploration walk with a professional local naturalist.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Priority support desk access throughout the short holiday.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets arriving into Ahmedabad.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry tickets for archaeological ruins, camera permits, or local activities.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, intercom orders, extra snacks, and premium beverages.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance premiums or emergency medical support protocols.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extended site tours or extra driver night running.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

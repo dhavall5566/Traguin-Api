@@ -1,0 +1,273 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-010-ahmedabad-heritage-science-city-explorer",
+    "serial_code": "GJ-010",
+    "traguin_tour_code": "TRAGUIN-GJ-010",
+    "title": "Ahmedabad Heritage & Science City Explorer",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-010 | TRAGUIN tour code TRAGUIN-GJ-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Family Vacation / Leisure",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ahmedabad Heritage • Science City",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Kids & Seniors",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Family Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury AC Sedan / SUV (Innova Crysta)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Premium Daily Breakfast & Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Ahmedabad Arrival → Sabarmati → Heritage City Walk → Science City → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts, this package guarantees priority check-ins, top-tier luxury vehicle deployments, handpicked family-centric hotels, and pre-arranged, hassle-free admission passes to all iconic attractions to minimize wait times for children and seniors alike.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Law Garden & Sindhu Bhavan Road — hand-embroidered Chaniya Cholis, traditional Bandhani sarees, Patola silks, and upscale boutique cafes; hand-carved wooden artifacts, terracotta designs, and traditional silver jewelry",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Standard check-in begins at 14:00 hrs and check-out finishes by 11:00 hrs. Early check-in requests are subject to availability. Science City Rule: The Science City complex remains completely closed to visitors every Monday for routine upkeep. Itinerary timing may adjust accordingly. Dress Guidelines: Modest clothing is recommended when exploring spiritual locations like Sabarmati Ashram and Sarkhej Roza.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Family",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-010-ahmedabad-heritage-science-city-explorer-itinerary",
+    "title": "Ahmedabad Heritage & Science City Explorer",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ahmedabad Heritage & Science City Explorer • Old Quarters to Future Tech",
+    "overview": "Step into India's first UNESCO World Heritage City coupled with futuristic human marvels. Crafted expertly by TRAGUIN, this premium itinerary offers families a perfect balance of deep historical narrative, scenic beauty, and fascinating technological exhibits. Your loved ones will collect unforgettable memories through curated experiences that guarantee absolute comfort, premium stays, and smooth luxury transportation.\n\nAhmedabad is the vibrant heart of the region, housing some of the top tourist places in Gujarat. For discerning travelers looking for a Gujarat Honeymoon Package or an enriching Gujarat Family Tour, the combination of old-world architecture and modern development offers an unparalleled travel landscape. From the peaceful, spiritual riverbanks of the Sabarmati Ashram to the highly interactive and educational zones of Ahmedabad Science City, this Premium Gujarat Experience satisfies all age groups.\n\nTRAGUIN Curated Touch: Includes an expert-led private heritage walking tour, premium entry passes to Science City's Aquatic and Robotic Galleries, a traditional Gujarati fine-dining feast, and full concierge support.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-010 | Ahmedabad Heritage & Science City Explorer | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Gujarat package (GJ-010 / TRAGUIN-GJ-010): Sabarmati Ashram, Heritage Walk, Science City Aquatic Gallery, Robotics Gallery, Sarkhej Roza, and 4-tier hotels",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sabarmati Ashram, Adalaj Stepwell, Sabarmati Riverfront Walk.",
+        "sort_order": 1
+      },
+      {
+        "text": "Heritage Old City Walk, Siddi Saiyyed Mosque, Ahmedabad Science City.",
+        "sort_order": 2
+      },
+      {
+        "text": "Sarkhej Roza, Law Garden Crafts Market (Leisure Visit).",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts, this package guarantees priority check-ins, top-tier luxury vehicle deployments, handpicked family-centric hotels, and pre-arranged, hassle-free admission passes to all iconic attractions to minimize wait times for children and seniors alike.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury hotels and seamless ground logistics",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AHMEDABAD",
+        "description": "Arrive at Ahmedabad Airport / Railway Station where your elite TRAGUIN driver will welcome you warmly. Board your private luxury vehicle and transfer smoothly to your premium hotel. After checking in and relaxing, begin your Gujarat Sightseeing journey with a visit to the historic Sabarmati Ashram, the serene home of Mahatma Gandhi. Experience emotional storytelling as you walk along the peaceful banks of the Sabarmati Riverfront, followed by a mesmerizing view of the architectural marvel, Adalaj Stepwell.",
+        "activities": [
+          "Sightseeing Included: Sabarmati Ashram, Adalaj Stepwell, Sabarmati Riverfront Walk.",
+          "Evening Experience: A relaxing evening walk down the riverfront promenade as the city lights up.",
+          "Photography Points: Symmetrical stone carvings of Adalaj Stepwell and the scenic river sunset.",
+          "Overnight Stay: Premium Luxury Hotel, Ahmedabad.",
+          "Meals Included: Welcome Drink & Premium Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AHMEDABAD HERITAGE TO FUTURE",
+        "description": "Start your day early with an immersive, guided Heritage Walk through the old quarters of Ahmedabad, exploring beautiful traditional 'Pols' and unique wooden architecture. Return to the hotel for a lavish breakfast, then head over to the state-of-the- art Ahmedabad Science City. Your premium entry tickets give your family front-row access to the world-class Aquatic Gallery (India's largest walk-through underwater tunnel aquarium) and the fascinating Robotics Gallery, where interactive humanoids greet you warmly.",
+        "activities": [
+          "Sightseeing Included: Heritage Old City Walk, Siddi Saiyyed Mosque, Ahmedabad Science City.",
+          "Optional Activities: Experiencing the thrill of the 5D Theatre or space exploration ride inside Science City.",
+          "Food Suggestions: Enjoy a luxurious, authentic Gujarati Thali lunch at a renowned heritage restaurant.",
+          "Overnight Stay: Premium Luxury Hotel, Ahmedabad.",
+          "Meals Included: Full Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CULTURAL EXPERIENCE & DEPARTURE",
+        "description": "Savor a final relaxed breakfast at the hotel. Visit the architectural masterpiece, Sarkhej Roza, often referred to as the 'Acropolis of Ahmedabad' due to its elegant Islamic design blending gracefully with Hindu elements. Spend your afternoon exploring high-end traditional boutiques or local markets for famous regional souvenirs. Later, your private vehicle will drop you off safely at the airport or station as your signature TRAGUIN Gujarat Holiday concludes.",
+        "activities": [
+          "Sightseeing Included: Sarkhej Roza, Law Garden Crafts Market (Leisure Visit).",
+          "Local Experiences: Witnessing local artisans demonstrate traditional block-printing or Bandhani textile arts.",
+          "Meals Included: Full Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Premier, Ahmedabad",
+        "location": "Ahmedabad",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Pride Plaza Hotel, Ahmedabad",
+        "location": "Ahmedabad",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Superior Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency, Ashram Road",
+        "location": "Ahmedabad",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Club King Room with River View",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Narmada, a Luxury Collection Hotel",
+        "location": "Ahmedabad",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Club Room / Premium Suite",
+        "meal_plan": "MAP Premium Dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights stay at handpicked premium hotels based on your preferred choice.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 02 Premium Buffet Breakfasts and 02 curated gourmet Dinners at the hotel restaurants.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All commutes via an private, air-conditioned luxury vehicle with an experienced professional driver.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated concierge assistance and digital travel companion guides.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: VIP Entry Passes to the Aquatic and Robotics Galleries at Science City.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized family travel welcome pack with mineral water bottles and refreshing wet wipes.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All applicable luxury lodging taxes, toll fees, parking tickets, and fuel charges included.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train ticketing to and from Ahmedabad.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera or video equipment licensing fees at individual historical sites.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal discretionary items such as laundry, phone calls, room service, or tips.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extra vehicle usage or specialized excursions outside the pre-planned route.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual medical or travel interruption insurance covers.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

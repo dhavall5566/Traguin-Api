@@ -1,0 +1,245 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-004-chandigarh-educational-school-tour",
+    "serial_code": "CH-004",
+    "traguin_tour_code": "TRG-CH-004",
+    "title": "Chandigarh Learning Expedition • Architecture, Innovation & Eco-Discovery",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-004 | TRAGUIN tour code TRG-CH-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Educational School Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Rock Garden • Science City • Sukhna Lake • Capitol Complex",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: School Students, Educators & Academic Groups",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: July to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: Group Pricing / Institutional Rate",
+        "sort_order": 6
+      },
+      {
+        "text": "Premium deluxe multi-axle coaches / Full Board (All Meals)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: specialized academic worksheets and analytical tour diaries for students",
+        "sort_order": 8
+      },
+      {
+        "text": "Educational keepsakes: Open Hand Monument miniatures, scientific DIY kits, regional architecture books",
+        "sort_order": 9
+      }
+    ],
+    "moods": [
+      "Educational",
+      "Culture",
+      "Group"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-004-chandigarh-educational-itinerary",
+    "title": "Chandigarh Learning Expedition • Architecture, Innovation & Eco-Discovery",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "Group Pricing / Institutional Rate",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Chandigarh Learning Expedition • Architecture, Innovation & Eco-Discovery",
+    "overview": "Welcome to a uniquely enriching educational experience designed and managed meticulously by TRAGUIN. This bespoke Chandigarh Educational Tour offers student groups a perfect blend of high-impact learning, iconic attractions, and pristine scenic beauty. As premium travel consultants, TRAGUIN elevates student group travel beyond traditional excursions by blending interactive science exploration, world-class sustainable architecture, and handpicked hotels into immersive experiences.\n\nThis custom institutional itinerary offers an immaculate learning pathway through the geometric design principles of Le Corbusier, cutting-edge environmental conservation models, and comprehensive botanical sciences. Travelling in premium high-capacity luxury coaches with dedicated tour managers and professional student-welfare guides, safety and academic enrichment are fully guaranteed.\n\nWhy book the best Chandigarh tour package for schools? Chandigarh stands tall as a premier hub for educational exposure. From the globally celebrated Nek Chand Rock Garden—a brilliant case study in urban waste management—to the UNESCO World Heritage Capitol Complex, it represents the pinnacle of civic administration and modern architectural studies. Pushpa Gujral Science City and Sukhna Lake offer immersive experiences in sustainable engineering, space technology, and bio-diversity.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-004 | Chandigarh Educational School Tour | TRAGUIN",
+    "seo_description": "Educational 02 Nights / 03 Days Chandigarh school package (CH-004 / TRG-CH-004): Rock Garden, Rose Garden, Pushpa Gujral Science City, UNESCO Capitol Complex, Sukhna Lake, and student-friendly hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Nek Chand Rock Garden — urban waste recycling marvel",
+        "sort_order": 1
+      },
+      {
+        "text": "Zakir Hussain Rose Garden — botanical science",
+        "sort_order": 2
+      },
+      {
+        "text": "Pushpa Gujral Science City — space theater, robotics & laser show",
+        "sort_order": 3
+      },
+      {
+        "text": "UNESCO Capitol Complex & Open Hand Monument",
+        "sort_order": 4
+      },
+      {
+        "text": "Sukhna Lake nature walk — wetland engineering case study",
+        "sort_order": 5
+      },
+      {
+        "text": "Pre-booked student slots at Science City to bypass public queues",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Exploration of Urban Engineering — Rock Garden & Botanical Science",
+        "description": "Welcome to the beautiful city of Chandigarh! Upon arrival at the transport terminal, your school group will be received by your dedicated TRAGUIN student welfare managers and escorted to your premium handpicked hotel in modern luxury coaches. After structured group check-in and lunch, visit the world-famous Rock Garden. Students will gain first-hand architectural insights into how domestic and industrial waste can be transformed into magnificent sculptures. Later, visit the spectacular Zakir Hussain Rose Garden to observe thousands of distinct botanical varieties. Conclude the day with an engaging interactive group briefing on urban ecology.",
+        "activities": [
+          "Sightseeing Included: Nek Chand Rock Garden, Zakir Hussain Rose Garden, Sector-17 Civic Plaza",
+          "Evening Experience: Academic interactive recap and ice-breaking quiz session",
+          "Overnight Stay: Chandigarh Student-Friendly Premium Hotel",
+          "Meals Included: Nutritious Lunch & Special Student Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Pushpa Gujral Science City Expedition — Innovation, Space & Robotics",
+        "description": "Enjoy an early wholesome breakfast before boarding your luxury coaches for an immersive day-trip to the renowned Pushpa Gujral Science City. This state-of-the-art interactive facility offers deep educational insights across physical, life, and space sciences. Students will experience mind-expanding interactive exhibits, live physics experiments, space-theater presentations, a real flight-simulator experience, and a high-tech dinosaur park. This curated learning layout serves as an exemplary academic environment, showing how classroom textbook models function beautifully in the real world.",
+        "activities": [
+          "Sightseeing Included: Science City Experiential Galleries, Space Theater, Laser Show, Robotics Pavilion",
+          "Optional Activities: Interactive project-building workshop with certification for students",
+          "Overnight Stay: Chandigarh Student-Friendly Premium Hotel",
+          "Meals Included: Packed/Hot Institutional Lunch, Full Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Heritage Architecture & Departure — UNESCO Capitol Complex & Sukhna Lake",
+        "description": "After a healthy breakfast, check out of your hotel and visit the prestigious UNESCO World Heritage Capitol Complex. Here, students will study the historic architectural layout, the Open Hand Monument, and the state assembly designs created by Le Corbusier. Next, arrive at Sukhna Lake for a case study on artificial wetland engineering and conservation biology. Following a special farewell lunch, your coaches will safely transport the student cohort back to the railway station or airport.",
+        "activities": [
+          "Sightseeing Included: UNESCO Capitol Complex, Open Hand Monument, Sukhna Lake Nature Walk",
+          "Transfers Included: Terminal drop-off via private luxury school coaches",
+          "Meals Included: Buffet Breakfast & Institutional Farewell Lunch"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel KC Cross Road / Velvet Clerks Exotica / similar",
+        "location": "Chandigarh / Zirakpur",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Triple/Quad Sharing Student Rooms",
+        "meal_plan": "Full Board (APAID)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Park Plaza Zirakpur / Golden Tulip / similar",
+        "location": "Chandigarh / Zirakpur",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Triple Sharing Premium Student Rooms",
+        "meal_plan": "Full Board (APAID)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Chandigarh / Novotel / similar",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Twin/Triple Sharing Luxury Rooms",
+        "meal_plan": "Gourmet Full Board",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh / Taj Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Twin Sharing Executive Club Rooms",
+        "meal_plan": "Bespoke Curated Institutional Menu",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Verified secure hotels with dedicated student floor wings",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Top-tier GPS-tracked buses with professional student-friendly chauffeurs",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Daily nutritious breakfast, lunch, and dinner plans",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "24/7 on-ground tour directors and emergency response support",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Special analytical teaching guides, maps, and premium logistics support for faculty",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Pre-booked student slots at Science City to bypass long public queues",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Interstate airline or commercial railway logistics bookings",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, room service billing, and soft drink orders",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual shopping expenses or individual entry ride tickets inside Science City",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical insurance protocols (available upon special institutional request)",
+        "sort_order": 10
+      }
+    ]
+  }
+}

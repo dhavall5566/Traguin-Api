@@ -1,0 +1,252 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-017-dharamshala-escape",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Dharamshala Escape — Serenity, Spirituality & Peaks",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 17,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Four-night Dharamshala base — Dhauladhar peaks, deodar forests & spiritual serenity",
+        "sort_order": 1
+      },
+      {
+        "text": "McLeodganj Little Lhasa — Dalai Lama Temple, Tibetan markets & momo culture",
+        "sort_order": 2
+      },
+      {
+        "text": "Naddi View Point sunset panoramas over the Dhauladhar range",
+        "sort_order": 3
+      },
+      {
+        "text": "Bhagsunag Waterfall forest trail & St. John in the Wilderness Church",
+        "sort_order": 4
+      },
+      {
+        "text": "Palampur tea estate walk with artisanal tea tasting in Kangra Valley",
+        "sort_order": 5
+      },
+      {
+        "text": "Private Innova Crysta with TRAGUIN 24/7 elite concierge throughout",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-017-dharamshala-itinerary",
+    "title": "Dharamshala Escape — Serenity, Spirituality & Peaks",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Serenity, Spirituality & Peaks",
+    "overview": "TRAGUIN's Dharamshala Escape is a four-night immersion in the spiritual heart of the Kangra Valley. From the Tibetan monasteries and bustling markets of McLeodganj to Naddi's Dhauladhar sunset panoramas, Bhagsunag's forest waterfall, and Palampur's lush tea terraces — this bespoke journey offers premium valley resorts, curated cultural experiences, and the tranquil pace of Himalayan village life.",
+    "is_featured": true,
+    "featured_sort_order": 17,
+    "seo_title": "HP-017 | Dharamshala Escape | TRAGUIN Premium Kangra Valley Tour",
+    "seo_description": "Luxury 04 Nights / 05 Days Dharamshala package (HP-017) covering McLeodganj, Naddi, Bhagsunag, Dal Lake, HPCA Stadium, and Palampur tea estates with premium stays and private transfers. Ideal for families, culture seekers, and nature lovers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "McLeodganj & Dalai Lama Temple",
+        "sort_order": 1
+      },
+      {
+        "text": "Naddi Dhauladhar Sunset Views",
+        "sort_order": 2
+      },
+      {
+        "text": "Bhagsunag Waterfall Trail",
+        "sort_order": 3
+      },
+      {
+        "text": "Palampur Tea Estate Walk",
+        "sort_order": 4
+      },
+      {
+        "text": "HPCA Cricket Stadium Panorama",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh to Dharamshala",
+        "description": "Your Dharamshala escape begins with a warm TRAGUIN welcome at Chandigarh Airport or Railway Station. Drive through Kangra Valley's terraced farms and tea gardens to Dharamshala, checking into your premium luxury valley resort beneath the Dhauladhar range.",
+        "activities": [
+          "Sightseeing Included: Kangra Valley scenic drive, terraced farm vistas, Dharamshala town orientation",
+          "Evening Experience: Welcome dinner with Dhauladhar mountain sunset views from your resort terrace",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Welcome refreshment & luxury dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "McLeodganj & Tibetan Culture Day",
+        "description": "Explore McLeodganj — Little Lhasa — home of His Holiness the Dalai Lama. Visit the serene Tsuglagkhang Complex, browse Tibetan markets for thangka paintings and singing bowls, and savor authentic momos at a curated local eatery.",
+        "activities": [
+          "Sightseeing Included: Dalai Lama Temple (Tsuglagkhang), Tibetan market, Bhagsunag Temple, Dal Lake, St. John Church",
+          "Evening Experience: Curated Tibetan momo tasting and thangka painting gallery visit",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Premium breakfast & authentic mountain dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Naddi View Point & Bhagsunag Waterfall",
+        "description": "Drive to Naddi View Point for sweeping Dhauladhar panoramas at sunset. Walk the forest trail to Bhagsunag Waterfall and explore Dharamkot village's peaceful wellness cafes above McLeodganj.",
+        "activities": [
+          "Sightseeing Included: Naddi View Point, Bhagsunag Waterfall forest trail, Dharamkot village, HPCA Cricket Stadium view",
+          "Evening Experience: Sunset photography session at Naddi with premium hot beverage service",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Breakfast & multi-cuisine dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Palampur Tea Estate Excursion",
+        "description": "A curated day in Palampur — the tea capital of Kangra Valley. Walk through lush green tea terraces, enjoy an artisanal tea tasting session at a heritage estate, and visit Baijnath Shiva Temple before a farewell dinner at your resort.",
+        "activities": [
+          "Sightseeing Included: Palampur tea plantation walk, artisanal tea tasting, Baijnath Shiva Temple, Andretta Artist Village (optional)",
+          "Evening Experience: Farewell dinner with live mountain music at your luxury resort",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Breakfast, estate lunch & premium farewell dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Dharamshala to Chandigarh / Departure",
+        "description": "Enjoy your final mountain breakfast before your private luxury vehicle transfers you to Chandigarh Airport or Railway Station with serene memories of the Kangra Valley.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pride Elite Dharamshala / Similar",
+        "location": "Dharamshala (4N)",
+        "nights_label": "04 Nights",
+        "description": "Deluxe valley resort in Dharamshala.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Fortune Park Moksha / Similar",
+        "location": "Dharamshala (4N)",
+        "nights_label": "04 Nights",
+        "description": "Premium resort with Dhauladhar valley views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Pavilion by HPCA / Hyatt Regency / Similar",
+        "location": "Dharamshala (4N)",
+        "nights_label": "04 Nights",
+        "description": "Luxury resort overlooking the Kangra Valley.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Resort Dharamshala / Similar",
+        "location": "Dharamshala (4N)",
+        "nights_label": "04 Nights",
+        "description": "Ultra-luxury resort beneath the Dhauladhar range.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 nights premium accommodation at handpicked Dharamshala valley resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Palampur tea estate walk with artisanal tea tasting session",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Chandigarh",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, monastery donations, and local guide fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, and tipping",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Tibetan handicraft purchases and optional wellness spa treatments",
+        "sort_order": 10
+      }
+    ]
+  }
+}

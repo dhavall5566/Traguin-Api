@@ -1,0 +1,285 @@
+{
+  "destination_slug": "puducherry",
+  "package": {
+    "slug": "py-006-premium-puducherry-lifestyle-escape",
+    "serial_code": "PY-006",
+    "traguin_tour_code": "TG-PY-GIRLS-006",
+    "title": "Premium Puducherry Lifestyle Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PY-006 | TRAGUIN tour code TG-PY-GIRLS-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Puducherry (Pondicherry), India | Category: Exclusive Female-Only Girls Trip Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: White Town • Auroville • Paradise Beach • Serenity Beach",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Girlfriends, Solo Female Groups, Luxury Chasers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium Air-Conditioned Multi-Utility Luxury Car (Dedicated Professional Chauffeur)",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Breakfast & Curated Coastal Bistro Dinners (MAPAI Lifestyle Plan)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Chennai International Airport → White Town Puducherry → Auroville → Paradise Coast → Chennai Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private local shopping and styling expert to guide you through hidden linen, clay, and leather ateliers.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Strict destination safety screening and elite vehicle allocations ensuring peace of mind for female travel groups.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Local Markets & Ateliers: Famous for Kalki boutique shopping (perfumes, silk clothing), Auroshikha incense, leather accessories on Mission Street, and local handmade paper. Top Instagram Spots: The pastel pink facade of Cluny Embroidery Centre, the seaside rocks of Promenade Beach, and the quaint cafes along Rue Dumas.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Café Reservations: Famous bistros inside White Town get crowded during weekends; dinner reservations are handled in advance by your travel advisor. Attire Courtesy: Modest clothing covering shoulders and knees is recommended inside Sri Aurobindo Ashram and the core inner zones of Auroville. Advance Booking Suggestion: Heritage villas have limited inventory; booking 45 days ahead ensures choice accommodations.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Girls Trip",
+      "Lifestyle",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "py-006-premium-puducherry-lifestyle-escape-itinerary",
+    "title": "Premium Puducherry Lifestyle Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium Puducherry Lifestyle Escape • 04 Nights / 05 Days",
+    "overview": "Escape into a pastel-tinted world where bohemian French heritage marries coastal chic relaxation. This premium female-only Luxury Puducherry Holiday crafted seamlessly by TRAGUIN is expertly designed for discerning women looking for top-tier security, artistic independence, and immersive lifestyle experiences. Wander along sun-drenched colonial boulevards, stay at iconic premium stays and handpicked hotels, and frame unforgettable memories with your favorite circle against breathtaking landscapes.\n\nTOUR OVERVIEW\nVehicle Type: Premium Air-Conditioned Multi-Utility Luxury Car (Dedicated Professional Chauffeur)\nMeal Plan: Breakfast & Curated Coastal Bistro Dinners (MAPAI Lifestyle Plan)\nRoute Plan: Chennai International Airport → White Town Puducherry → Auroville → Paradise Coast → Chennai Departure\n\nCurated Note:\nThis exclusive TRAGUIN Puducherry Package features comprehensive female-centric safety verification protocols, pre-booked café lounge slots, and a specialized local shopping escort for high-end boutique explorations.\n\nPuducherry continues to reign as India's ultimate chic coastal enclave, serving as a highly targeted pick for a Best Puducherry Tour Package or an elegant Puducherry Honeymoon Package / Family Tour. Famed for its mustard-yellow French facades and azure shorelines, it promises unrivaled culinary journeys and artsy retreats.\n**White Town (French Quarter):** A dreamscape of bougainvillea draped over pastel walls—widely celebrated as a popular Instagram location for high-fashion photoshoots.\n**Auroville Matrimandir:** A marvelous soul sanctuary symbolizing global peace, perfect for deep mindfulness and quiet internal connection.\n**Most Searched Experiences:** Indulging in freshly baked artisanal croissants at traditional French bakeries, pottery crafting, and ocean sunrise strolls.\n**Best Time to Visit Puducherry:** The pleasant tropical winter breeze between October and March offers a magical climate for active Puducherry Sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PY-006 | Premium Puducherry Lifestyle Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Puducherry girls trip package (PY-006 / TG-PY-GIRLS-006): White Town, Auroville, Paradise Beach, Serenity Beach, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "East Coast Road coastal route, Promenade Beach Waterfront, and welcome high-tea in White Town",
+        "sort_order": 1
+      },
+      {
+        "text": "French Quarter architectural trails, organic candle-making or pottery experience at local design studio",
+        "sort_order": 2
+      },
+      {
+        "text": "Auroville Matrimandir Point, boutique café crawl, and yacht excursion to Paradise Beach",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private local shopping and styling expert for hidden ateliers",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium female-travel security protocols and 24/7 on-call TRAGUIN Support",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Coastal Arrival & Welcome High-Tea in White Town",
+        "description": "Arrive at Chennai Airport where a private luxury premium vehicle from TRAGUIN awaits you. Enjoy a scenic, refreshing drive along the famous East Coast Road (ECR) with beautiful ocean views. Arrive in Puducherry and check into your handpicked heritage luxury boutique hotel nestled deep inside the historic French Quarter. Unwind with an exclusive welcome high-tea served in a private colonial courtyard, before taking a relaxed evening stroll along the iconic Promenade Beach.",
+        "activities": [
+          "Sightseeing Included: ECR Coastal Route, Promenade Beach Waterfront, French War Memorial",
+          "Evening Experience: A premium high-tea featuring artisanal French pastries, macaroons, and organic local fruit infusions.",
+          "Overnight Stay: White Town Puducherry (Handpicked Elite Luxury Boutique Hotel)",
+          "Meals Included: Welcome High-Tea & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Architectural White Town Detours & Aesthetic Instagram Trails",
+        "description": "Awake to a pleasant morning breeze and relish an exquisite gourmet breakfast. Today, enjoy a highly curated walking architectural trail through the vibrant French Quarter. Wander past iconic pastel structures, historic archways, and boutique design houses. In the afternoon, discover the elegant Notre Dame des Anges Church and the old spiritual sanctuary of Sri Aurobindo Ashram. Cap off the day with a fun, hands-on organic candle-making or pottery experience at a local design studio.",
+        "activities": [
+          "Sightseeing Included: French Quarter Lanes, Sri Aurobindo Ashram, Goubert Avenue Waterfront",
+          "Photography Points: Bougainvillea-laden mustard gateways on Rue Romain Rolland.",
+          "Overnight Stay: White Town Puducherry",
+          "Meals Included: Breakfast & Gourmet Bistro Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Soul Essence at Auroville & Bohemian Cafe Crawls",
+        "description": "Enjoy a wholesome organic breakfast before driving out to the international township of Auroville. Take a scenic, shaded forest walk to the majestic Matrimandir viewing point, marveling at the giant golden sphere. Spend your afternoon enjoying a boutique café crawl through Auroville's hidden eateries, sampling fine wood-fired pizzas and vegan culinary treats. Browse the local markets for sustainably made garments and natural aromatherapy oils.",
+        "activities": [
+          "Sightseeing Included: Auroville Matrimandir Point, Auroville Beach, Sustainable Craft Centers",
+          "Food Suggestion: Fresh sourdough treats, kombuchas, and locally harvested single-origin cold brews.",
+          "Overnight Stay: White Town Puducherry",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Yacht Excursion to Paradise Beach & Sunset Cocktails",
+        "description": "Savor a lazy tropical breakfast at your villa. Head to Chunnambar boat house to board a private luxury speedboat or yacht charter to the secluded shores of Paradise Beach. Spend your morning relaxing on soft white sands, enjoying private beach lounge chairs, or taking a dip in the gentle ocean waters. Return to the city for a pre-booked premium rooftop dining experience, sharing unforgettable memories as you toast to your friendship.",
+        "activities": [
+          "Sightseeing Included: Chunnambar Backwaters, Paradise Beach Private Cruise",
+          "Exclusive Experience: Private beach picnic canopy setup with premium cold-pressed juices and fresh finger foods.",
+          "Overnight Stay: White Town Puducherry",
+          "Meals Included: Breakfast & Farewell Rooftop Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Souvenir Collecting & Departure with Unforgettable Stories",
+        "description": "Indulge in a final delicious breakfast at your hotel's terrace. Spend your morning checking out local fashion boutiques for unique apparel, handmade paper notebooks, and signature French-style home décor pieces. Your private premium vehicle will pick you up for a smooth transfer back to Chennai International Airport. Your fabulous Puducherry Girls Trip concludes here, leaving your group with beautiful blessings, closer bonds, and memories crafted exclusively by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Assistance: Airport gate check-in assistance and baggage handling support by your dedicated chauffeur."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Atithi / Ocean Spray Residency",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Atithi / Ocean Spray Residency (Standard Comfort Room)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Comfort Room",
+        "meal_plan": "MAPAI Lifestyle Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Maison Perumal - CGH Earth / Gratitude Heritage",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Maison Perumal - CGH Earth / Gratitude Heritage (Premium Heritage Room)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Heritage Room",
+        "meal_plan": "MAPAI Lifestyle Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "La Villa Puducherry / Le Dupleix Heritage Property",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: La Villa Puducherry / Le Dupleix Heritage Property (Executive Club Rooms)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Club Rooms",
+        "meal_plan": "MAPAI Lifestyle Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Palais de Mahe - CGH Earth / Villa Shanti White Town",
+        "location": "Puducherry",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Palais de Mahe - CGH Earth / Villa Shanti White Town (Luxury Suite Resort)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite Resort",
+        "meal_plan": "MAPAI Lifestyle Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium luxury heritage suite accommodations in White Town.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfasts and multi-course curated café-style dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury AC vehicle for all transfers, routes, and touring.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive welcome high-tea reception in a heritage courtyard.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private speedboat/yacht charter tickets to Paradise Beach.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary entry passes for Auroville Matrimandir access zones.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 on-call female-travel security and TRAGUIN Support.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or national train booking tickets to Chennai.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal boutique café lunch expenditures or alcoholic drinks.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument camera entry slips or specialized activity fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any individual travel insurance or medical coverage plans.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

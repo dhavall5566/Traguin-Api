@@ -1,0 +1,288 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-010-nature-trail-barnawapara-chitrakote-kanger",
+    "serial_code": "CG-010",
+    "traguin_tour_code": "TG-CG-NAT-010",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Pristine Nature Trail • Wildlife, Waterfalls & Ancient Canyons",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-010 | TRAGUIN tour code TG-CG-NAT-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Premium Family Nature Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Raipur • Barnawapara • Chitrakote • Kanger Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Eco-Tourists & Wildlife Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Lush and vibrant post-monsoon)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury SUV (Innova Crysta) | Meal Plan: Premium MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Raipur (1N) ➔ Barnawapara (1N) ➔ Chitrakote (2N) ➔ Jagdalpur (1N) ➔ Raipur Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Night-spotting nature walk and Chitrakote sunrise boat excursion.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Certified naturalists for Barnawapara safari and Kotumsar cave tours.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier eco-lodges from Hyatt to Bastar Palace Royal Suite.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Organic forest honey, Dhonkra art, woodcraft artifacts, Tussar silk.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Good-grip shoes for Kotumsar Caves; secure safari permits 45–60 days ahead.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Wildlife",
+      "Family",
+      "Eco",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-010-nature-trail-barnawapara-chitrakote-kanger-itinerary",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Pristine Nature Trail • Wildlife, Waterfalls & Ancient Canyons",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Pristine Nature Trail • Barnawapara • Chitrakote • Kanger Valley • 05 Nights / 06 Days",
+    "overview": "Welcome to India's ultimate eco-tourism frontier. The Best Chhattisgarh Tour Package by TRAGUIN invites your family to explore untouched sal canopies, thundering waterfalls, and ancient underground cave formations across the greenest corners of Central India.\n\nTOUR OVERVIEW\nThis premium Chhattisgarh Family Tour crosses Barnawapara Sanctuary bird forests, Chitrakote's colossal curtain, and Kanger Valley wooded trails. Private executive SUV, boutique eco-lodges, expert jungle trackers, and curated meals matching dietary requirements.\n\nWHY CHOOSE THE PREMIUM CHHATTISGARH NATURE TRAIL?\nIconic Attractions: Chitrakote Falls, Kotumsar Caves, Tirathgarh Falls, Barnawapara wildlife. Family Highlights: Eco-resort river views, low-impact jungle walks, private riverside picnics. Best Time: October to March for vibrant post-monsoon forests.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-010 | Nature Trail Barnawapara Chitrakote Kanger Valley | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days nature trail (CG-010 / TG-CG-NAT-010): Barnawapara safari, Chitrakote sunrise boat, Kotumsar Caves, and 4-tier eco-lodges.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Raipur arrival and Swami Vivekanand Sarovar sunset on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Barnawapara safari and night-spotting nature walk on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Drive to Chitrakote illuminated waterfall dinner on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Chitrakote sunrise boat cruise and Dhonkra craft village on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Kotumsar Caves and Tirathgarh Falls on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Jagdalpur to Raipur departure on Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "RAIPUR — ARRIVAL & STEP INTO PREMIUM COMFORT",
+        "description": "Arrive at Raipur with TRAGUIN welcome amenities. Transfer to handpicked premium resort. Relaxed afternoon at property. Late afternoon scenic drive to Swami Vivekanand Sarovar for casual sunset walk along paved trails followed by elegant welcome dinner.",
+        "activities": [
+          "Sightseeing Included: Swami Vivekanand Sarovar, Raipur panoramic drive.",
+          "Overnight Stay: Premium Luxury Lake Resort, Raipur.",
+          "Meals Included: Welcome Refreshments & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "BARNAWAPARA WILDLIFE SANCTUARY — FOREST CANOPIES & WILDLIFE ENCOUNTERS",
+        "description": "Drive east into Barnawapara Wildlife Sanctuary teak and sal forests. Check into premium wilderness eco-lodge. Afternoon open-top 4x4 safari tracking Indian Gaurs, wild boars, sambar deer, and exotic birds. TRAGUIN Signature evening guided night-spotting walk with senior naturalist along lodge buffer zone.",
+        "activities": [
+          "Sightseeing Included: Barnawapara Core Safari, Teak forest corridors.",
+          "Overnight Stay: Luxury Jungle Lodge, Barnawapara.",
+          "Meals Included: Buffet Breakfast, Jungle Lunch & Campfire Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "BARNAWAPARA TO CHITRAKOTE — APPROACHING THE NIAGARA OF INDIA",
+        "description": "Morning bird chorus before scenic drive south to Chitrakote Waterfalls. Check into luxury riverside eco-resort with cottage deck overlooking rushing white waters. Evening illuminated waterfall viewing from premium terrace decks during exquisite dinner.",
+        "activities": [
+          "Sightseeing Included: Scenic cross-country drive, Chitrakote Riverfront viewpoints.",
+          "Overnight Stay: Premium Luxury Riverside Eco-Resort, Chitrakote.",
+          "Meals Included: Premium Breakfast & Multi-cuisine Riverside Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CHITRAKOTE FALLS — SUNRISE WATER CRUISE & TRIBAL CRAFT IMMERSIONS",
+        "description": "Board private boat excursion at sunrise for misty base views and vibrant rainbows across water spray. Return for fresh breakfast. Afternoon visit Kondagaon craft hamlets watching Dhonkra bell-metal masters. Evening private family sunset photography along Indravati river cliffs.",
+        "activities": [
+          "Sightseeing Included: Sunrise Mist Boat Tour, Dhonkra Craft Village, Bastar Village Walk.",
+          "Overnight Stay: Premium Luxury Riverside Eco-Resort, Chitrakote.",
+          "Meals Included: Buffet Breakfast, Local Organic Lunch & Specialty Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KANGER VALLEY NATIONAL PARK — SUBTERRANEAN CAVES & TIERED FALLS",
+        "description": "Explore Kanger Valley National Park entering Kotumsar Caves with breathtaking stalactite formations and rare blind cave-fish. Visit Tirathgarh Waterfalls dropping through multiple rocky steps. Transfer to Jagdalpur for grand farewell celebration dinner inside historic heritage estate.",
+        "activities": [
+          "Sightseeing Included: Kotumsar Caves, Tirathgarh Tiered Waterfalls, Kanger Valley Park road.",
+          "Overnight Stay: Handpicked Premium Heritage Hotel, Jagdalpur.",
+          "Meals Included: Gourmet Breakfast, Forest Picnic Lunch & Grand Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "JAGDALPUR TO RAIPUR — DEPARTURE WITH LASTING BONDS",
+        "description": "Final relaxing breakfast at heritage hotel. Smooth comfortable drive north to Raipur with elegant highway lunch before airport or railway departure.",
+        "activities": [
+          "Sightseeing Included: Return highway drive, private departure transfer.",
+          "Meals Included: Premium Buffet Breakfast & Farewell Highway Lunch."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Raipur | MPT Hareli Eco Resort | MPT Chitrakote Log Huts | MPT Naman Bastar Resort",
+        "location": "Raipur (1 Night) / Barnawapara (1 Night) / Chitrakote (2 Nights) / Jagdalpur (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hyatt Raipur (Raipur, 1 Night) | MPT Hareli Eco Resort (Barnawapara, 1 Night) | MPT Chitrakote Log Huts (Chitrakote, 2 Nights) | MPT Naman Bastar Resort (Jagdalpur, 1 Night) | MAPAI",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Courtyard by Marriott | MPT Muba's Jungle Lodge | Chitrakote River View Huts | Asansol Heritage Resort",
+        "location": "Raipur (1 Night) / Barnawapara (1 Night) / Chitrakote (2 Nights) / Jagdalpur (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Courtyard by Marriott (Raipur, 1 Night) | MPT Muba's Jungle Lodge (Barnawapara, 1 Night) | Chitrakote River View Huts (Chitrakote, 2 Nights) | Asansol Heritage Resort (Jagdalpur, 1 Night) | MAPAI",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Sayaji Hotel Raipur | Bastar Jungle Wellness Lodge | Dandami Luxury Bison Resort | Grand Bastar Heritage Estate",
+        "location": "Raipur (1 Night) / Barnawapara (1 Night) / Chitrakote (2 Nights) / Jagdalpur (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Sayaji Hotel Raipur (Raipur, 1 Night) | Bastar Jungle Wellness Lodge (Barnawapara, 1 Night) | Dandami Luxury Bison Resort (Chitrakote, 2 Nights) | Grand Bastar Heritage Estate (Jagdalpur, 1 Night) | MAPAI",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Lake Resort (Suite) | Elite Private Wilderness Villa | Dandami Resort Premium Suite | Bastar Palace Royal Suite",
+        "location": "Raipur (1 Night) / Barnawapara (1 Night) / Chitrakote (2 Nights) / Jagdalpur (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Mayfair Lake Resort Suite (Raipur, 1 Night) | Elite Private Wilderness Villa (Barnawapara, 1 Night) | Dandami Resort Premium Suite (Chitrakote, 2 Nights) | Bastar Palace Royal Suite (Jagdalpur, 1 Night) | MAPAI",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights across lake resorts, jungle lodges, and riverside eco-cottages.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily buffet breakfast and chef-curated dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Innova Crysta for all transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Elite Guiding: Certified naturalists and jungle trackers during wildlife excursions.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signatures: Chitrakote sunrise boat tour and guided night-spotting forest walk.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 virtual concierge with covered tolls, fuel, and driver allowances.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial flights or railway tickets to and from Raipur.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Park entry permits, cave guiding fees, camera tickets, personal expenses.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Water sports or items not listed in inclusions.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

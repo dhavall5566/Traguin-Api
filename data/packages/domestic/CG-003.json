@@ -1,0 +1,255 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-003-kanger-valley-wildlife-jagdalpur",
+    "serial_code": "CG-003",
+    "traguin_tour_code": "TG-CG-KANGER-003",
+    "title": "TRAGUIN Premium Kanger Valley Wildlife Tour — Wildlife & Nature Exploration • Kanger Valley National Park • Jagdalpur",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-003 | TRAGUIN tour code TG-CG-KANGER-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Wildlife & Nature Exploration",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kanger Valley National Park • Jagdalpur",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Nature Lovers & Wildlife Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Wildlife Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Transport / Meal plan per hotel tier",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Jagdalpur Arrival (4N) ➔ Kanger Valley ➔ Kutumsar Caves ➔ Tribal Heritage ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Subterranean Kutumsar Cave exploration with certified escorts.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Three-tier handpicked Jagdalpur wildlife lodges and heritage stays.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Tirathgarh multi-tiered falls and Bastar Anthropological Museum.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Dhokra art, forest honey, and tribal handicrafts.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Valid photo ID required for national park entry; comfortable trekking shoes mandatory.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Wildlife",
+      "Nature",
+      "Adventure",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-003-kanger-valley-wildlife-jagdalpur-itinerary",
+    "title": "TRAGUIN Premium Kanger Valley Wildlife Tour — Wildlife & Nature Exploration • Kanger Valley National Park • Jagdalpur",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Wildlife Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kanger Valley Wildlife • Jagdalpur • Kutumsar Caves • 04 Nights / 05 Days",
+    "overview": "Discover the hidden jewel of Central India with TRAGUIN. Our Best Kanger Valley Tour Package offers an immersion into a landscape of breathtaking landscapes and rich biodiversity. From the subterranean wonders of Kutumsar Caves to the roaring Tirathgarh Falls, this Luxury Chhattisgarh Holiday is designed for those who seek curated experiences in the lap of nature.\n\nTOUR OVERVIEW\nThis 4N/5D itinerary covers the wild heart of Chhattisgarh, featuring private luxury transport and handpicked hotels. Enjoy seamless TRAGUIN support throughout your journey into the wild — from Bastar Palace heritage to Kanger Valley National Park corridors, underground limestone galleries, and authentic tribal craft markets.\n\nWHY CHOOSE THE KANGER VALLEY WILDLIFE TOUR?\nFor nature lovers and wildlife enthusiasts, Kanger Valley presents unparalleled ecological marvels. Iconic attractions include Tirathgarh's multi-tiered cascades, Kutumsar's blind-fish caves, and Bastar's rich tribal heritage. TRAGUIN guarantees premium lodge stays, expert naturalist guidance, and immersive forest experiences across India's greenest eco-corridor.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-003 | Kanger Valley Wildlife Jagdalpur | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Kanger Valley wildlife tour (CG-003): Kutumsar Caves, Tirathgarh Falls, tribal heritage, and 3-tier Jagdalpur accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Jagdalpur arrival, Bastar Palace and Anthropological Museum on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Kanger Valley National Park and Tirathgarh Falls on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Kutumsar Caves subterranean exploration on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Tribal culture, craft heritage, and local markets on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Jagdalpur departure on Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN JAGDALPUR & LOCAL HERITAGE",
+        "description": "Arrive in Jagdalpur, the gateway to the wild. Your TRAGUIN representative welcomes you and transfers you to your handpicked resort. Explore the Bastar Palace and its historic grounds, then visit the Anthropological Museum showcasing rare tribal clothing, weaponry, and cultural artifacts. Enjoy an evening orientation on Kanger Valley ecology and wildlife spotting protocols.",
+        "activities": [
+          "Sightseeing Included: Bastar Palace, Anthropological Museum.",
+          "Overnight Stay: Jagdalpur (Handpicked Wildlife Resort).",
+          "Meals Included: Welcome Refreshments & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KANGER VALLEY EXPLORATION",
+        "description": "Enter Kanger Valley National Park with your certified naturalist guide. Witness the surreal Tirathgarh Falls, a multi-tiered marvel of scenic beauty where the Mugabahar River cascades through limestone steps amid dense sal canopies. Trek along maintained forest paths, observe local birdlife including the hill myna, and capture panoramic photography of the verdant valley corridors before returning to your resort.",
+        "activities": [
+          "Sightseeing Included: Kanger Valley National Park, Tirathgarh Waterfalls.",
+          "Overnight Stay: Jagdalpur (Handpicked Wildlife Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SUBTERRANEAN WONDERS OF KUTUMSAR",
+        "description": "Venture deep into Kutumsar Caves with certified cave tracking escorts and headlamps. These limestone formations offer exclusive experiences that define Kanger Valley Sightseeing — colossal stalactites, underground pools, and rare blind cave-fish species inhabiting isolated subterranean ecosystems. Return for a relaxed evening at your lodge with a wildlife documentary briefing curated by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Kutumsar Caves, Dandak Caves edge viewpoints.",
+          "TRAGUIN Signature: Expert-led subterranean cave navigation.",
+          "Overnight Stay: Jagdalpur (Handpicked Wildlife Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "TRIBAL CULTURE & CRAFT HERITAGE",
+        "description": "Immerse in the rich tribal heritage of Bastar. Visit local markets for authentic Dhokra art, terracotta pottery, and organic forest honey. Enjoy an interactive session with tribal artisans demonstrating lost-wax metal casting. Visit a vibrant weekly haat to witness barter traditions and colorful indigenous attire before a farewell dinner celebrating your wilderness journey.",
+        "activities": [
+          "Sightseeing Included: Tribal haat, Dhokra artisan workshops, craft cooperatives.",
+          "Overnight Stay: Jagdalpur (Handpicked Wildlife Resort).",
+          "Meals Included: Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Enjoy a final breakfast before your transfer to Jagdalpur Airport or onward connection, taking with you unforgettable memories curated by TRAGUIN of caves, waterfalls, and tribal wilderness.",
+        "activities": [
+          "Transfers Included: Private departure transfer.",
+          "Meals Included: Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Forest Resort Jagdalpur",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Forest Resort Jagdalpur (Jagdalpur, 4 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Bastariya Heritage Stay",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Bastariya Heritage Stay (Jagdalpur, 4 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Tented Luxury Eco-Lodge",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Tented Luxury Eco-Lodge (Jagdalpur, 4 Nights) | Full Board",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Tent",
+        "meal_plan": "Full Board",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation in handpicked hotels as per chosen tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily meals as per hotel meal plan.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury transportation for all transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN support with certified naturalist and cave escorts.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Guided Kutumsar Cave exploration.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights & personal expenses.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "National park entry fees, cave permits, and camera charges.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance and optional activities.",
+        "sort_order": 8
+      }
+    ]
+  }
+}

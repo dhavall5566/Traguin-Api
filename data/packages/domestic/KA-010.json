@@ -1,0 +1,252 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-010-bandipur-tiger-reserve-safari-experience",
+    "serial_code": "KA-010",
+    "traguin_tour_code": "TRAGUIN-KA-010",
+    "title": "Bandipur Tiger Reserve Safari Experience",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-010 | TRAGUIN tour code TRAGUIN-KA-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Nature / Wildlife Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Bandipur Tiger Reserve",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Nature Enthusiasts, Families & Couples",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Wildlife Safari (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Luxury Air-Conditioned SUV for transfers; Specialized Open 4x4 Safari Jeeps for forest exploration",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Jungle Full Board Plan (All Gourmet Meals Included - Breakfast, Lunch, and Dinner)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Details: Bangalore/Mysore Arrival → Bandipur National Park Forest Wilderness → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts to optimize core safari timing loops with priority chalet allocation and custom natural history kits",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Pure Forest Honey and Sandalwood Products from local tribal cooperatives",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Safari allocations strictly controlled; wear earth tones; Bandipur is a strict no-plastic zone",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Wildlife",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-010-bandipur-tiger-reserve-safari-experience-itinerary",
+    "title": "Bandipur Tiger Reserve Safari Experience",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bandipur Tiger Reserve Safari Experience • 02 Nights / 03 Days",
+    "overview": "Step into the untamed heart of the Nilgiri Biosphere Reserve. This ultra-exclusive, deeply immersive Premium Karnataka Experience meticulously curated by TRAGUIN structural experts transports you into a world of breathtaking landscapes, dense deciduous canopies, and thrilling apex predator encounters. Prepare yourself for premium stays at handpicked hotels, exceptional personalized assistance, and unforgettable memories etched forever into your family's travel story.\n\nBandipur National Park stands proudly as one of the premier eco-tourism hubs of South India, highly sought after by travelers searching for a flawless Karnataka Family Tour or a magical Karnataka Honeymoon Package. Nestled under the shadow of the stunning Western Ghats, this reserve forms a crucial wildlife corridor alongside Mudumalai and Nagarhole.\n\nTRAGUIN Curated Touch: This Luxury Karnataka Holiday includes prioritized custom slots for government-regulated core zone jungle safaris, expert local naturalists, deep birdwatching trails, and premium hospitality tracking.\n\nWhy Visit Bandipur: From incredible Instagram-ready sunset points over the Gopalaswamy Betta peak to specialized cultural tribal interactions, this jungle getaway offers a perfect balance of high-octane adventure and restorative luxury.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-010 | Bandipur Tiger Reserve Safari Experience | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Bandipur safari package (KA-010 / TRAGUIN-KA-010): Core forest deep safari, Himavad Gopalaswamy Peak, and 4-tier jungle lodge accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Forest Route & Resort Nature Trail",
+        "sort_order": 1
+      },
+      {
+        "text": "Core Forest Deep Safari & Himavad Gopalaswamy Peak",
+        "sort_order": 2
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Priority chalet allocation and custom natural history kits",
+        "sort_order": 3
+      },
+      {
+        "text": "Premium Handpicked Hotels: Finest handpicked jungle resorts",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Bangalore / Mysore to Bandipur",
+        "description": "Arrive at the designated airport or railway station where your private chauffeur-driven luxury SUV awaits you. Begin a highly scenic, refreshing drive towards the Bandipur Tiger Reserve. As you cross the forest gates, look out for curious Langurs and elegant Spotted Deer greeting you along the roadside. Arrive at your ultra-luxury wilderness resort for a seamless priority check-in. Savor a refreshing traditional welcome beverage, settle into your premium cottage, and enjoy a curated high-tea presentation by wild country specialists.",
+        "activities": [
+          "Sightseeing Included: Scenic Forest Route, Resort Nature Trail",
+          "Evening Experience: A heartwarming wildlife documentary screening followed by a cozy campfire under a star-lit sky",
+          "Overnight Stay: Elite Jungle Lodge / Handpicked Luxury Resort, Bandipur",
+          "Meals Included: Gourmet Buffet Lunch & Elegant Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Bandipur Tiger Reserve",
+        "description": "Wake up early to the soothing chorus of exotic birds. Sip freshly brewed local coffee before boarding an exclusive open 4x4 safari vehicle. Led by a highly trained local naturalist, venture deep into the misty core zones of the forest. Train your cameras on fresh pugmarks as you track the elusive leopard or majestic Bengal tiger. Return to your resort for a lavish breakfast and mid-day relaxation by the infinity pool. In the afternoon, embark on an excursion to Himavad Gopalaswamy Betta, the highest peak in the park, featuring an ancient temple and a permanent blanket of rolling clouds offering spectacular photography points.",
+        "activities": [
+          "Sightseeing Included: Core Forest Deep Safari, Himavad Gopalaswamy Peak",
+          "Optional Activities: An instructive afternoon birdwatching walk around the resort perimeter",
+          "Overnight Stay: Elite Jungle Lodge / Handpicked Luxury Resort, Bandipur",
+          "Meals Included: Jungle Breakfast, Institutional Lunch & Farewell Bush Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Bandipur to Bangalore / Mysore Departure",
+        "description": "Enjoy a relaxed morning breakfast overlooking the pristine forest canopy. Take a slow walk through the resort's organic gardens or capture final photographs of the breathtaking landscapes. Complete your checkout and board your luxury private vehicle for a smooth transfer back to Mysore or Bangalore for your onward journey home. Your signature Karnataka Sightseeing vacation concludes with timeless stories and unforgettable memories.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport / Station Drop-off",
+          "Meals Included: Full Buffet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bandipur Safari Lodge (Jungle Lodges)",
+        "location": "Bandipur",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Forest Cottage",
+        "meal_plan": "Jungle Full Board (All Meals)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Serai Bandipur",
+        "location": "Bandipur",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Mountain View Cabin",
+        "meal_plan": "Jungle Full Board (All Meals)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Windflower Tusker Trails",
+        "location": "Bandipur",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Jungle Suite",
+        "meal_plan": "Jungle Full Board (All Meals)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Kabbi / Premium Bandipur Enclave",
+        "location": "Bandipur",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Wilderness Villa",
+        "meal_plan": "Ultra All-Inclusive Luxury Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights premium stay at the finest handpicked jungle resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Complete Full Board plan including 02 Breakfasts, 02 Lunches, and 02 multi-cuisine Dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All intercity transfers in a dedicated, premium air-conditioned luxury vehicle",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Curated deep-woods core zone safari with professional naturalists",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 dedicated remote concierge tracking and operational security backup",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Taxes & Amenities: All internal state road taxes, parking permits, resort service charges, and welcome amenities kit",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial domestic flights or express train ticketing to departure hubs",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual camera permissions, specialized video gear tags, or park entrance fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal discretionary items such as laundry, phone tabs, premium alcoholic beverages, and staff tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical or evacuation coverage premiums",
+        "sort_order": 10
+      }
+    ]
+  }
+}

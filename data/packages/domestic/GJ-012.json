@@ -1,0 +1,348 @@
+{
+  "destination_slug": "gujarat",
+  "package": {
+    "slug": "gj-012-complete-vibrant-gujarat-mega-tour",
+    "serial_code": "GJ-012",
+    "traguin_tour_code": "TRAGUIN-GJ-012",
+    "title": "Complete Vibrant Gujarat Mega Tour",
+    "duration_label": "09 Nights / 10 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GJ-012 | TRAGUIN tour code TRAGUIN-GJ-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Gujarat / India | Category: Family Vacation / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ahmedabad • Dasada • Bhuj • Rann of Kutch • Dwarka • Somnath • Sasan Gir",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Grand Circuit (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Air-Conditioned Luxury Innova Crysta / Luxury Coach",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Premium Breakfast & Authentic Gourmet Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Ahmedabad → Dasada (Little Rann) → Bhuj & Great Rann of Kutch → Dwarka → Somnath → Sasan Gir → Ahmedabad Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts to offer an optimal balance of adventure and luxury. Benefit from priority hotel check-ins, VIP fast-track coordination at primary shrines, handpicked family-friendly stays, and reliable transportation networks throughout the vast state.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Purchase gorgeous bandhani textiles and mirror-work attire at Law Garden market. Kutch Handicrafts: Pick up genuine Ajrakh block prints, rogue pottery craft work, and leather bags directly from rural artisans.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Standard check-in time is 14:00 hrs and check-out is 11:00 hrs. Early check-in requests are subject to availability. Weather Notes: Winter months offer lovely weather. Light woolens are recommended for desert nights in Kutch and morning jungle safaris in Gir. Booking Suggestions: Advance booking for Sasan Gir safaris is strongly advised as permits are limited and controlled strictly by the forest department.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Spiritual",
+      "Wildlife"
+    ]
+  },
+  "itinerary": {
+    "slug": "gj-012-complete-vibrant-gujarat-mega-tour-itinerary",
+    "title": "Complete Vibrant Gujarat Mega Tour",
+    "duration_label": "09 Nights / 10 Days",
+    "duration_days": 10,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Complete Vibrant Gujarat Mega Tour • Rann, Coast & Gir Wilderness",
+    "overview": "Are you planning a highly immersive Luxury Gujarat Holiday? As one of India's most diverse territories, a comprehensive Gujarat Sightseeing expedition opens doors to incredible landmarks and deeply rooted history. Visitors flock from around the globe to observe the top tourist places in Gujarat, including India’s first UNESCO World Heritage City (Ahmedabad), the historic stepwells of Patan, and the ancient seaside temples. Our meticulously organized TRAGUIN Gujarat Packages are optimized perfectly to cover every major Instagram-famous location, local shopping hotspot, and cultural milestone. Whether you seek the spiritual bliss of the Gujarat Honeymoon Package or an expansive family exploration, the best time to visit Gujarat is during the crisp winter months when the salt plains glow under the full moon and wildlife sightings are at their peak.\n\nTRAGUIN Curated Touch: This Premium Gujarat Experience incorporates private guided heritage walks, elite tented comfort in the salt deserts, VIP temple darshan management, and exclusive open-jeep safaris designed flawlessly for your family's extreme relaxation.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GJ-012 | Complete Vibrant Gujarat Mega Tour | TRAGUIN",
+    "seo_description": "Premium 09 Nights / 10 Days Gujarat package (GJ-012 / TRAGUIN-GJ-012): Little Rann, White Rann, Aina Mahal, Dwarka, Somnath, Sasan Gir safari, and 4-tier premium hotels",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sabarmati Ashram, Adalaj Stepwell, Riverfront Promenade.",
+        "sort_order": 1
+      },
+      {
+        "text": "Little Rann Salt-Flats, Wild Ass Sanctuary Safari.",
+        "sort_order": 2
+      },
+      {
+        "text": "Ajrakhpur Craft Village, Bhuj Local Heritage Avenues.",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts to offer an optimal balance of adventure and luxury. Benefit from priority hotel check-ins, VIP fast-track coordination at primary shrines, handpicked family-friendly stays, and reliable transportation networks throughout the vast state.",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury hotels and seamless ground logistics",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Properties certified for elite hospitality and safety standards",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AHMEDABAD",
+        "description": "Arrive at Ahmedabad Airport where your dedicated premium private vehicle and TRAGUIN holiday manager await your family. Enjoy a smooth transfer to your handpicked hotel. In the afternoon, explore the tranquil pathways of Sabarmati Ashram, the historic residence of Mahatma Gandhi. As twilight falls, witness the magnificent architecture of Adalaj Stepwell, a breathtaking showcase of ancient underground masonry.",
+        "activities": [
+          "Sightseeing Included: Sabarmati Ashram, Adalaj Stepwell, Riverfront Promenade.",
+          "Evening Experience: Savor an exclusive welcome feast featuring an authentic heritage Gujarati Thali.",
+          "Overnight Stay: Handpicked Luxury Hotel, Ahmedabad.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AHMEDABAD TO DASADA",
+        "description": "After a luxurious breakfast, enjoy a comfortable drive to Dasada, situated right beside the Little Rann of Kutch. Check into your premium desert eco-resort. In the afternoon, board an exclusive open-top safari vehicle to explore the Wild Ass Sanctuary. This unique salt-marsh landscape houses the last remaining population of the elegant Asiatic Wild Ass, alongside desert foxes and beautiful migratory birds.",
+        "activities": [
+          "Sightseeing Included: Little Rann Salt-Flats, Wild Ass Sanctuary Safari.",
+          "Photography Points: Crimson sunset over the flat expanses of the sun-baked salt marsh.",
+          "Overnight Stay: Premium Luxury Safari Resort, Dasada.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DASADA TO BHUJ VIA AJRAKHPUR",
+        "description": "Journey deeper into Kutch today as your premium vehicle drives smoothly toward Bhuj. Along this highly scenic route, halt at the famous artisan village of Ajrakhpur. Witness an immersive live demonstration of traditional block-printing techniques handed down through centuries. Arrive in Bhuj by evening and check into your handpicked premium stay.",
+        "activities": [
+          "Sightseeing Included: Ajrakhpur Craft Village, Bhuj Local Heritage Avenues.",
+          "Optional Activities: Evening interaction with national award-winning master craftsmen.",
+          "Overnight Stay: Premium Luxury Resort, Bhuj.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "BHUJ TO GREAT RANN OF KUTCH",
+        "description": "Transfer to an ultra-luxury tented camp located directly on the fringes of the Great Rann of Kutch. After checking in, prepare to be completely spellbound. Walk along the legendary salt plains as they glisten brilliantly like diamonds. This breathtaking landscape offers an emotional, once-in-a-lifetime sunset experience that defines the peak of your family trip.",
+        "activities": [
+          "Sightseeing Included: White Salt Desert Vista, Tented Village Celebrations.",
+          "Evening Experience: Live folk music performances under the starry desert sky.",
+          "Overnight Stay: Ultra-Luxury Tented Resort, Rann of Kutch.",
+          "Meals Included: Breakfast, Lunch & Festive Desert Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "RANN OF KUTCH TO BHUJ SIGHTSEEING",
+        "description": "Bid farewell to the salt desert after breakfast and drive back to Bhuj for an intensive exploration of its royal landmarks. Tour the famous Aina Mahal (Palace of Mirrors) and the European-gothic styled Prag Mahal. Ascend Bhujia Hill for spectacular aerial views of the entire valley before returning to your luxury resort.",
+        "activities": [
+          "Sightseeing Included: Aina Mahal, Prag Mahal, Kutch Museum, Swaminarayan Temple.",
+          "Instagram Spots: The intricate marble mirror pools inside Aina Mahal.",
+          "Overnight Stay: Premium Luxury Resort, Bhuj.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "BHUJ TO DWARKA",
+        "description": "Embark on a scenic spiritual drive as you trace the western coastline down towards the holy city of Dwarka. Check into your luxury seaside hotel. In the evening, step inside the ancient and breathtaking Dwarkadhish Temple (Jagat Mandir), standing majestically on the banks of the Gomti River, and take part in the moving evening Aarti ceremony.",
+        "activities": [
+          "Sightseeing Included: Dwarkadhish Temple, Gomti Ghat Walkway.",
+          "Optional Activities: A relaxing evening holy dip or boat ride at the meeting point of the river and ocean.",
+          "Overnight Stay: Premium Handpicked Luxury Hotel, Dwarka.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DWARKA EXCURSION TO BEYT DWARKA",
+        "description": "Board an exclusive private ferry to reach Beyt Dwarka island, believed to be the original residential palace of Lord Krishna. On your return route, visit the sacred Nageshwar Jyotirlinga temple, housing one of the 12 primary divine shrines of Lord Shiva. Pause at Rukmini Devi Temple to hear fascinating local folklore told by specialized destination guides.",
+        "activities": [
+          "Sightseeing Included: Beyt Dwarka, Nageshwar Jyotirlinga, Rukmini Temple, Gopi Talav.",
+          "Immersive Experiences: Private fast-track VIP darshan access managed expertly by TRAGUIN support.",
+          "Overnight Stay: Premium Handpicked Luxury Hotel, Dwarka.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "DWARKA TO SOMNATH VIA PORBANDAR",
+        "description": "Drive along a beautiful coastal highway towards Porbandar to explore Kirti Mandir, the historic birthplace of Mahatma Gandhi. Continue onward to the legendary Somnath Temple. Standing proud right on the edge of the Arabian Sea, this iconic attraction has been rebuilt beautifully across history. In the evening, watch a spectacular Sound and Light show projected directly onto the temple facade.",
+        "activities": [
+          "Sightseeing Included: Kirti Mandir, Somnath Temple, Light & Sound Show, Triveni Sangam.",
+          "Overnight Stay: Premium Luxury Hotel, Somnath.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "SOMNATH TO SASAN GIR NATIONAL PARK",
+        "description": "Drive to the lush, deciduous woods of Sasan Gir, the last remaining bastion of the majestic wild Asiatic Lions. Check into your ultra-luxury wilderness resort. In the afternoon, set out on an exclusive open-jeep jungle safari through the core national park zone, tracking apex predators and diverse wildlife under the guidance of certified naturalists.",
+        "activities": [
+          "Sightseeing Included: Sasan Gir Jungle Safari, Crocodile Breeding Centre.",
+          "Food Suggestions: Relish organic forest-to-table cuisine prepared by premium resort chefs.",
+          "Overnight Stay: Ultra-Luxury Wilderness Resort, Sasan Gir.",
+          "Meals Included: Breakfast, Lunch & Farewell Dinner."
+        ],
+        "sort_order": 9
+      },
+      {
+        "day_number": 10,
+        "title": "SASAN GIR TO AHMEDABAD DEPARTURE",
+        "description": "Enjoy a final leisurely breakfast amidst the bird calls of Sasan Gir. Embark on a comfortable drive back to Ahmedabad. Your luxury private vehicle transfers you smoothly to the airport or railway station for your onward transit. Your exceptional TRAGUIN Gujarat Package concludes here, leaving your family with memories that will stay with you forever.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 10
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Regenta Central / Seven Sky Resort / Rann Resort / Gir Birding Lodge",
+        "location": "Ahmedabad / Bhuj / Rann / Gir",
+        "nights_label": "09 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room / Standard Tent",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency / Grand 3D Bhuj / White Rann Resort / Asiatic Lion Lodge",
+        "location": "Ahmedabad / Bhuj / Rann / Gir",
+        "nights_label": "09 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Executive Tent",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Skyline / Regenta Resort Bhuj / The Gateway Resort / Woods at Sasan",
+        "location": "Ahmedabad / Bhuj / Rann / Gir",
+        "nights_label": "09 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Room / Luxury Pavilion",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Narmada / Amã Stays & Trails Kutch / Rann Utsav Tent City (Premium AC) / The Fern Gir Forest Resort",
+        "location": "Ahmedabad / Bhuj / Rann / Gir",
+        "nights_label": "09 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Suite / Premium AC Tent / Kothi",
+        "meal_plan": "Gourmet MAPAI + High Tea",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 09 Nights stay at premium handpicked luxury hotels, safari lodges, and desert resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 09 Premium Buffet Breakfasts and 09 curated regional dinners at the properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Chauffeur-driven air-conditioned Luxury Innova Crysta throughout the complete itinerary.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel consultant assistance and on-ground hospitality managers.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private ferry crossings to Beyt Dwarka and curated textile village walk in Kutch.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Taxes & Welcome Amenities: All parking, state toll fees, hotel luxury taxes, and a customized family welcoming pack.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to and from Ahmedabad.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "National Park permit fees and camera entry tickets at Sasan Gir.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, premium beverages, and tipping.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional city excursions or extra vehicle usage beyond scheduled route hours.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance premium policies.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

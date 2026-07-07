@@ -1,0 +1,303 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-008-complete-chhattisgarh-raipur-sirpur-mainpat",
+    "serial_code": "CG-008",
+    "traguin_tour_code": "TG-CG-CMP-008",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Complete Expedition • Temples, Tribes & Waterfalls",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-008 | TRAGUIN tour code TG-CG-CMP-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Complete Luxury Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Raipur • Sirpur • Jagdalpur • Chitrakote • Mainpat",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Culture Seekers & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Delightfully cool)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury SUV (Innova Crysta) | Meal Plan: Premium MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Raipur (1N) ➔ Sirpur ➔ Jagdalpur (2N) ➔ Chitrakote (1N) ➔ Mainpat (2N) ➔ Raipur Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Sunset boat cruise at Chitrakote and Mehta Point family high tea.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Dhonkra artisan interaction and Mainpat Tibetan monastery visit.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier properties from Hyatt to Mainpat Highlands Luxury Resort.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Dhonkra art, Tussar silk, Tibetan handicrafts, highland organic honey.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Carry light woolens for Mainpat; book Chitrakote and Mainpat 45–60 days ahead.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Nature",
+      "Luxury",
+      "Complete"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-008-complete-chhattisgarh-raipur-sirpur-mainpat-itinerary",
+    "title": "TRAGUIN Premium Chhattisgarh Tour Package — Complete Expedition • Temples, Tribes & Waterfalls",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Complete Chhattisgarh • Raipur • Sirpur • Jagdalpur • Chitrakote • Mainpat • 06 Nights / 07 Days",
+    "overview": "Welcome to the raw, magical, and undiscovered heart of India. The definitive Best Chhattisgarh Tour Package by TRAGUIN invites your loved ones to dive deep into prehistoric heritage, pristine river valleys, and spectacular tribal folklore across a complete grand loop.\n\nTOUR OVERVIEW\nThe Complete Chhattisgarh itinerary encapsulates Sirpur's architectural legacy, Chitrakote's majestic thunders, Jagdalpur's indigenous art worlds, and Mainpat's mist-laden green plateaus — the Shimla of Chhattisgarh. Private luxury SUV, elite local chroniclers, and impeccable concierge attention throughout.\n\nWHY CHOOSE THE PREMIUM COMPLETE CHHATTISGARH FAMILY TOUR?\nFamous Attractions: Laxman Temple Sirpur, Chitrakote Waterfalls, Danteshwari Temple, Mainpat hills. Popular Instagram Locations: Sirpur red-brick ruins, Chitrakote horseshoe edge, Tiger Point Mainpat. Best Time: October to March for extensive Chhattisgarh Sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-008 | Complete Chhattisgarh Raipur Sirpur Mainpat | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days complete Chhattisgarh tour (CG-008 / TG-CG-CMP-008): Sirpur, Chitrakote, Kanger Valley, Mainpat Zaljali, and 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Raipur arrival, Purkhouti Muktangan, and Budha Talab on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Sirpur Laxman Temple and drive to Jagdalpur via Kondagaon on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Kanger Valley, Tirathgarh Falls, and tribal haat on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Chitrakote Falls private boat ride on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Mainpat plateau and Dhammapada Tibetan Monastery on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Zaljali Shaking Earth, Tiger Point, and Mehta Point high tea on Day 06",
+        "sort_order": 6
+      },
+      {
+        "text": "Mainpat to Raipur departure on Day 07",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "RAIPUR — ARRIVAL & ENTRY INTO THE MODERN CAPITAL GATEWAY",
+        "description": "Land at Raipur and receive welcome kits from your TRAGUIN chauffeur. Transfer to premium hotel. Explore Naya Raipur, visit Swami Vivekanand Sarovar for sunset walk, and tour Purkhauti Muktangan open-air museum detailing tribal architecture and art forms. Return for gourmet welcome dinner.",
+        "activities": [
+          "Sightseeing Included: Naya Raipur drive, Swami Vivekanand Sarovar, Purkhauti Muktangan.",
+          "Overnight Stay: Premium Luxury Hotel, Raipur.",
+          "Meals Included: Welcome Signature Drinks & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SIRPUR ARCHAEOLOGICAL SITE TO JAGDALPUR — THE TRIBAL HEARTLAND",
+        "description": "Drive to Sirpur's iconic Laxman Temple and Anand Prabhu Kudi Vihar Buddhist monastery. Continue south through Keshkal Ghats to Kondagaon for TRAGUIN Signature Dhonkra bell-metal workshop visit. Arrive Jagdalpur evening and check into premium heritage hotel.",
+        "activities": [
+          "Sightseeing Included: Laxman Temple, Buddhist Monasteries, Kondagaon craft village.",
+          "Overnight Stay: Handpicked Premium Heritage Hotel, Jagdalpur.",
+          "Meals Included: Buffet Breakfast & Authentic Bastar Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "JAGDALPUR — DEEP FOREST CANYONS & INDIGENOUS LOCAL MARKETS",
+        "description": "Enter Kanger Valley National Park for Tirathgarh Waterfalls splitting into silver streams. Visit Anthropological Museum and vibrant local village Haat trading forest honey and handmade crafts.",
+        "activities": [
+          "Sightseeing Included: Kanger Valley, Tirathgarh Falls, Anthropological Museum, Tribal Market.",
+          "Overnight Stay: Handpicked Premium Heritage Hotel, Jagdalpur.",
+          "Meals Included: Premium Breakfast & Multi-cuisine Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "JAGDALPUR TO CHITRAKOTE — THE MAJESTIC HORSESHOE FALLS",
+        "description": "Drive to spectacular Chitrakote Waterfalls — the Niagara of India. Check into luxury riverside eco-resort. Enjoy TRAGUIN Signature private boat ride on calm lower river pool. Watch illuminated waterfalls during grand festive dinner.",
+        "activities": [
+          "Sightseeing Included: Chitrakote Horseshoe Falls, Indravati Riverfront viewpoints.",
+          "Overnight Stay: Premium Luxury Riverside Eco-Resort, Chitrakote.",
+          "Meals Included: Gourmet Breakfast, Riverside Lunch & Grand Theme Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "CHITRAKOTE TO MAINPAT — ASCENDING THE MISTY GREEN PLATEAU",
+        "description": "Morning rainbow over Chitrakote mist before heading north to Mainpat plateau at 3,500 feet. Check into luxury mountain resort. Visit serene Dhammapada Tibetan Monastery with colorful prayer flags. Enjoy cozy campfire dinner.",
+        "activities": [
+          "Sightseeing Included: Highlands drive, Dhammapada Tibetan Monastery.",
+          "Overnight Stay: Luxury Mountain View Resort, Mainpat.",
+          "Meals Included: Breakfast & Curated Highlands Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MAINPAT — SHAKING EARTH, TIGER POINTS & SCENIC VALLEYS",
+        "description": "Explore Zaljali bouncing meadow where mossy earth shakes beneath your feet. Visit Tiger Point and Fish Point waterfalls with hanging bridge views. TRAGUIN Highlight: premium family high tea at Mehta Point with panoramic hill views and grand farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Zaljali Shaking Earth, Tiger Point, Fish Point, Mehta Point.",
+          "Overnight Stay: Luxury Mountain View Resort, Mainpat.",
+          "Meals Included: Gourmet Breakfast, Picnic High Tea & Grand Farewell Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "MAINPAT TO RAIPUR — DEPARTURE WITH LIFELONG FAMILY MEMORIES",
+        "description": "Final breakfast on resort balcony overlooking valley hills. Smooth descent drive to Raipur with highway lunch before airport or railway departure.",
+        "activities": [
+          "Sightseeing Included: Return mountain descent, private transfer.",
+          "Meals Included: Premium Buffet Breakfast & Farewell Highway Lunch."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Raipur | MPT Naman Bastar | MPT Chitrakote Log Huts | MPT Mercury Resort",
+        "location": "Raipur (1 Night) / Jagdalpur (2 Nights) / Chitrakote (1 Night) / Mainpat (2 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 01 – DELUXE: Hyatt Raipur (Raipur, 1 Night) | MPT Naman Bastar (Jagdalpur, 2 Nights) | MPT Chitrakote Log Huts (Chitrakote, 1 Night) | MPT Mercury Resort (Mainpat, 2 Nights) | MAPAI",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Courtyard by Marriott | Asansol Heritage Resort | Chitrakote Luxury Huts | Mainpat Eco Resort",
+        "location": "Raipur (1 Night) / Jagdalpur (2 Nights) / Chitrakote (1 Night) / Mainpat (2 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 02 – PREMIUM: Courtyard by Marriott (Raipur, 1 Night) | Asansol Heritage Resort (Jagdalpur, 2 Nights) | Chitrakote Luxury Huts (Chitrakote, 1 Night) | Mainpat Eco Resort (Mainpat, 2 Nights) | MAPAI",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Sayaji Hotel Raipur | Grand Bastar Heritage | Dandami Luxury Resort | Shailly Valley Resort",
+        "location": "Raipur (1 Night) / Jagdalpur (2 Nights) / Chitrakote (1 Night) / Mainpat (2 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 03 – LUXURY: Sayaji Hotel Raipur (Raipur, 1 Night) | Grand Bastar Heritage (Jagdalpur, 2 Nights) | Dandami Luxury Resort (Chitrakote, 1 Night) | Shailly Valley Resort (Mainpat, 2 Nights) | MAPAI",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Lake Resort | Bastar Palace Suite | Dandami Presidential Suite | The Mainpat Highlands Luxury Resort",
+        "location": "Raipur (1 Night) / Jagdalpur (2 Nights) / Chitrakote (1 Night) / Mainpat (2 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Mayfair Lake Resort (Raipur, 1 Night) | Bastar Palace Suite (Jagdalpur, 2 Nights) | Dandami Presidential Suite (Chitrakote, 1 Night) | The Mainpat Highlands Luxury Resort (Mainpat, 2 Nights) | MAPAI",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 06 Nights at handpicked hotels, eco-resorts, and mountain lodges.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily breakfast and executive dinners across all properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Innova Crysta for all transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Elite Guiding: Government-approved historians at archaeological and tribal sites.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signatures: Chitrakote boat excursion and Mehta Point family high tea.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated holiday specialists with covered tolls and fuel.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial flights or train fares to and from Raipur.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, personal expenses.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities not explicitly stated.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

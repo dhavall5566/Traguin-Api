@@ -1,0 +1,284 @@
+{
+  "destination_slug": "ladakh",
+  "package": {
+    "slug": "la-001-leh-discovery-luxury-family-tour",
+    "serial_code": "LA-001",
+    "traguin_tour_code": "TRAGUIN-LA-001",
+    "title": "Leh Discovery Luxury Family Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LA-001 | TRAGUIN tour code TRAGUIN-LA-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Ladakh, India | Category: Family Tour / Premium Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Leh • Sham Valley • Pangong Tso Lake • Khardung La",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Adventure Seekers, Luxury Vacationers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: May to September (Best Time to Visit Ladakh)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury FIT Family Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private dedicated AC-XUV / Innova Crysta for all mountain segments",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Premium breakfasts and dinners included across all stays",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Leh Arrival → Sham Valley → Pangong Tso Lake → Khardung La → Leh Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Carefully paced high-altitude acclimatization schedule, priority check-ins at elite handpicked hotels, executive luxury transportation, and direct access to off-beat local experiences",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Leh Main Market — hand-woven Pashmina shawls, traditional Tibetan prayer wheels, fine turquoise jewelry, pure organic apricot oils, and hand-hammered brass kitchenware",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Avoid physical exertion on Day 1 for AMS prevention; book 45-60 days in advance; only postpaid connections (BSNL, Airtel, Jio) work reliably across Ladakh",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Adventure",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "la-001-leh-discovery-luxury-family-tour-itinerary",
+    "title": "Leh Discovery Luxury Family Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Leh Discovery Luxury Family Tour • 04 Nights / 05 Days",
+    "overview": "Welcome to a land beyond the clouds, beautifully brought to life through a Premium Ladakh Experience curated exclusively by TRAGUIN. Ladakh, a pristine realm of high-altitude deserts, breathtaking landscapes, deep azure skies, and ancient monasteries, offers an incomparable escape for your next Luxury Ladakh Holiday. Journey across towering mountain passes, rest beside the mesmerizing shimmer of Pangong Tso Lake, and build unforgettable memories with your loved ones. Our completely handpicked hotels, seamless premium stays, and exclusive experiences ensure a flawless, majestic retreat crafted just for your family.\n\nThis meticulously planned Ladakh Family Tour is engineered as a highly optimized Private FIT itinerary to assure the utmost physical comfort, deep acclimatization, and premium pacing. Your alpine journey encompasses a premium meal plan, private luxury transportation managed by experienced mountain drivers, and high-tier personalized assistance from our localized expert squad. Every component has been refined to capture the vast scenic beauty and iconic attractions of the trans-Himalayas under the trusted guidance of TRAGUIN.\n\nWhy Visit Ladakh for your next Premium Vacation? Ladakh remains an unmatched bucket-list frontier, capturing the hearts of global travelers with its raw geology and deep spiritual Buddhist heritage. This custom package highlights the absolute finest Ladakh Sightseeing landmarks, ensuring your family avoids common logistical hurdles. Our itinerary takes you directly to the most searched experiences—from witnessing the gravity-defying marvel at Magnetic Hill to photographing the rare blue shades of Pangong Tso. Whether your family seeks cultural immersion inside centuries-old prayer halls or mild Himalayan thrills, our custom TRAGUIN Ladakh Packages fuse absolute safety with uncompromising luxury.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LA-001 | Leh Discovery Luxury Family Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Ladakh package (LA-001 / TRAGUIN-LA-001): Sham Valley, Pangong Tso Lake, Khardung La, Magnetic Hill, Sangam, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sham Valley sightseeing: Magnetic Hill, Sangam, Hall of Fame, Gurudwara Pathar Sahib",
+        "sort_order": 1
+      },
+      {
+        "text": "Pangong Tso Lake via Chang La Pass with ultra-luxury glamping domes",
+        "sort_order": 2
+      },
+      {
+        "text": "Khardung La Pass crossing — one of the highest motorable roads on Earth",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with 24/7 emergency medical support and in-vehicle oxygen backup",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier luxury accommodation options across Leh and Pangong Tso",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Leh & Rest for Acclimatization",
+        "description": "Your extraordinary mountain vacation begins with a dramatic flight over the snow-capped Zanskar range into Kushok Bakula Rimpochee Airport in Leh. Upon arrival, experience an assisted premium greeting by our localized TRAGUIN travel representative. Transfer smoothly in your private vehicle to your luxury hotel. Today is strictly reserved for absolute rest and gentle hydration to smoothly adapt to Ladakh's high altitude (11,500 feet).",
+        "activities": [
+          "Sightseeing Included: Scenic arrival flight view, private airport transfer, and complete hotel leisure.",
+          "Evening Experience: A relaxed in-hotel welcome briefing over specialized local herbal tea blends.",
+          "Overnight Stay: Handpicked Luxury Resort in Leh (Premium Stay)",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sham Valley Sightseeing & Monastery Journey",
+        "description": "After a refreshing breakfast, set off on a gentle, senior-and-child-friendly road excursion along the pristine Indus River highway. Explore the legendary Sham Valley, packed with fascinating geological formations and historical structures. Witness the unique optical illusion at Magnetic Hill, experience spiritual tranquility at Gurudwara Pathar Sahib, and admire the majestic confluence of the Indus and Zanskar rivers at Sangam.",
+        "activities": [
+          "Sightseeing Included: Magnetic Hill, Confluence at Sangam, Hall of Fame Museum, Gurudwara Pathar Sahib.",
+          "Photography Points: Phenomenal multi-colored contrast shots of the river confluence from elevated custom viewpoints.",
+          "Overnight Stay: Luxury Hotel Wing in Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Leh to High-Altitude Pangong Tso Lake Cruise",
+        "description": "Depart early in the morning via a thrilling mountain route cutting through Chang La Pass (17,590 feet) to arrive at the world-renowned Pangong Tso Lake, stretching across the international border. As you arrive, the incredible expanse of changing turquoise, green, and deep blue hues will unfold before your eyes. Walk along the legendary lakeside banks, enjoy the crisp alpine air, and relax inside highly comfortable, fully heated premium luxury glamping structures right near the shore.",
+        "activities": [
+          "Sightseeing Included: Chang La Pass crossing, Pangong Lake shores exploration, iconic movie shooting spots.",
+          "Evening Experience: A premium hot lakeside dinner paired with an exceptional stargazing session under the unpolluted night sky.",
+          "Overnight Stay: Ultra-Luxury Boutique Glamping Domes at Pangong Tso",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Pangong to Leh via the Mighty Khardung La Pass",
+        "description": "Awake to a mesmerizing sunrise over the tranquil waters of Pangong Tso. Drive back to Leh via the world-famous Khardung La Pass—standing at an immense 17,582 feet, long celebrated as one of the highest motorable roads on Earth. Celebrate the achievement with a family photo session at the top. Arrive back in Leh by afternoon and spend your evening exploring the historic town center at your own comfortable pace.",
+        "activities": [
+          "Sightseeing Included: Khardung La Pass summit, Leh Palace outer views, and Leh Main Market walks.",
+          "Optional Activities: Curated cafe hoppings or private shopping for precious local stones and shawls.",
+          "Overnight Stay: Handpicked Luxury Resort in Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Farewell Departure from Leh",
+        "description": "Savor your final premium breakfast while gazing out at the beautiful Stok Kangri mountain peaks. Our luxury vehicle will pick you up for an assisted transfer back to Leh Airport for your return flight home, concluding your magnificent family holiday filled with unforgettable memories.",
+        "activities": [
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Singge Palace / Hotel Shangrila | Pangong Inn Luxury Cottage",
+        "location": "Leh (3 Nights) / Pangong Tso (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Singge Palace / Hotel Shangrila (Leh, 3 Nights) | Pangong Inn Luxury Cottage (Pangong Tso, 1 Night) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Dragon Ladakh (Premier Room) | Nature's Nest Luxury Camp",
+        "location": "Leh (3 Nights) / Pangong Tso (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: The Grand Dragon Ladakh (Premier Room) (Leh, 3 Nights) | Nature's Nest Luxury Camp (Pangong Tso, 1 Night) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premier Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Stok Palace Heritage Hotel / Zen Resort | Pangong Hermitage Luxury Domes",
+        "location": "Leh (3 Nights) / Pangong Tso (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Stok Palace Heritage Hotel / Zen Resort (Leh, 3 Nights) | Pangong Hermitage Luxury Domes (Pangong Tso, 1 Night) | JAI (All Meals Included)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage / Luxury Room",
+        "meal_plan": "JAI (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Private Signature Estate Wing | The Ultimate Travelling Camp (TUTC)",
+        "location": "Leh (3 Nights) / Pangong Tso (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Private Signature Estate Wing (Leh, 3 Nights) | The Ultimate Travelling Camp (TUTC) (Pangong Tso, 1 Night) | Chef Curated Bespoke Menu",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Signature Estate Wing / Luxury Glamping Suite",
+        "meal_plan": "Chef Curated Bespoke Menu",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury Accommodations: Double sharing rooms in handpicked premium hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Premium Meals: Nourishing breakfasts and dinners included across all stays.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated AC-XUV / Innova Crysta for all mountain segments.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing Permits: Outer Line Permits (ILP) and environmental fees managed by TRAGUIN.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance & Oxygen: 24/7 on-call emergency medical support and in-vehicle oxygen backup.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Perks: Traditional Ladakhi welcome stoles and fresh fruit hampers upon check-in.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare flight tickets to and from Leh.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips, porterage fees, and general driver gratuities.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, alcoholic drinks, and phone bills.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional guide service fees unless explicitly requested ahead.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any additional costs arising from unexpected landslides or flight cancellations.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

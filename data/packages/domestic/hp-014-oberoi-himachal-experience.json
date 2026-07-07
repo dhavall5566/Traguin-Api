@@ -1,0 +1,316 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-014-oberoi-himachal-experience",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "The Oberoi Himachal Experience — Royalty Reimagined",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 15,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Two nights at The Oberoi Cecil, Shimla — colonial grandeur on the historic Mall Road",
+        "sort_order": 1
+      },
+      {
+        "text": "Three nights at Wildflower Hall, Mashobra — cedar forest sanctuary & infinity pool bliss",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Kufri excursion with curated picnic amid Himalayan panoramas",
+        "sort_order": 3
+      },
+      {
+        "text": "Naldehra golf course heritage walk & Mashobra forest sanctuary trails",
+        "sort_order": 4
+      },
+      {
+        "text": "Oberoi spa rituals, forest picnics & bespoke fine dining experiences",
+        "sort_order": 5
+      },
+      {
+        "text": "Private luxury chauffeur with TRAGUIN 24/7 Oberoi concierge coordination",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Romantic",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-014-oberoi-himachal-itinerary",
+    "title": "The Oberoi Himachal Experience — Royalty Reimagined",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Royalty Reimagined in the Himalayas",
+    "overview": "Experience Himachal Pradesh through the lens of Oberoi hospitality — where colonial heritage meets cedar-forest sanctuary luxury. Two nights at The Oberoi Cecil in Shimla reveal Mall Road elegance, Viceregal Lodge grandeur, and Kufri alpine excursions. Three nights at Wildflower Hall in Mashobra offer infinity pool serenity, Naldehra golf heritage, forest sanctuary walks, and bespoke Oberoi spa rituals curated exclusively by TRAGUIN.",
+    "is_featured": true,
+    "featured_sort_order": 15,
+    "seo_title": "HP-014 | Oberoi Himachal Experience | TRAGUIN Ultra-Luxury Tour",
+    "seo_description": "Ultra-luxury 05 Nights / 06 Days Himachal package (HP-014) at The Oberoi Cecil Shimla and Wildflower Hall Mashobra with Kufri, Naldehra, and Mashobra experiences. Ideal for luxury, romantic, and cultural travelers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "The Oberoi Cecil Colonial Heritage",
+        "sort_order": 1
+      },
+      {
+        "text": "Kufri Alpine Picnic Excursion",
+        "sort_order": 2
+      },
+      {
+        "text": "Wildflower Hall Cedar Sanctuary",
+        "sort_order": 3
+      },
+      {
+        "text": "Naldehra Golf Heritage Walk",
+        "sort_order": 4
+      },
+      {
+        "text": "Oberoi Spa & Forest Picnic",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival at The Oberoi Cecil, Shimla",
+        "description": "Your Oberoi Himachal experience begins with a VIP TRAGUIN welcome at Chandigarh Airport or Kalka Railway Station. Ascend to Shimla and check into The Oberoi Cecil — a landmark of colonial elegance on the historic Mall Road with panoramic valley views.",
+        "activities": [
+          "Sightseeing Included: Scenic Shivalik foothills drive, Timber Trail valley views en-route",
+          "Evening Experience: Oberoi welcome champagne and curated heritage orientation on Mall Road",
+          "Overnight Stay: Shimla — The Oberoi Cecil (Luxury Heritage Suite)",
+          "Meals Included: Oberoi welcome refreshment & fine dining dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Shimla Heritage & Kufri Excursion",
+        "description": "After an Oberoi grand breakfast, explore Shimla's colonial legacy at the Viceregal Lodge, Christ Church, and The Ridge. Drive to Kufri for a private curated picnic amid alpine panoramas and pine forest trails.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge, The Ridge, Christ Church, Mall Road, Kufri Green Valley",
+          "Evening Experience: Private gourmet picnic setup at Kufri with Himalayan panorama views",
+          "Overnight Stay: Shimla — The Oberoi Cecil (Luxury Heritage Suite)",
+          "Meals Included: Oberoi breakfast, picnic lunch & fine dining dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Shimla to Wildflower Hall, Mashobra",
+        "description": "Transfer to Wildflower Hall, An Oberoi Resort — a cedar-forest sanctuary perched above Mashobra with sweeping Himalayan views. Settle into your luxury suite and enjoy an afternoon at the infinity pool overlooking snow-capped peaks.",
+        "activities": [
+          "Sightseeing Included: Mashobra cedar forest drive, Craignano Nature Park (optional)",
+          "Evening Experience: Oberoi infinity pool session and sunset aperitif on the terrace",
+          "Overnight Stay: Mashobra — Wildflower Hall, An Oberoi Resort (Luxury Forest Suite)",
+          "Meals Included: Oberoi breakfast & bespoke fine dining dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Naldehra Golf & Mashobra Forest Sanctuary",
+        "description": "Walk the historic Naldehra golf course — one of the oldest in India — lined with towering cedar trees. Explore Mashobra forest sanctuary trails on a guided nature walk before an Oberoi spa ritual and forest picnic lunch in a secluded cedar glade.",
+        "activities": [
+          "Sightseeing Included: Naldehra golf course heritage walk, Mashobra forest sanctuary trails",
+          "Evening Experience: Oberoi signature spa ritual and private forest gourmet picnic",
+          "Overnight Stay: Mashobra — Wildflower Hall, An Oberoi Resort (Luxury Forest Suite)",
+          "Meals Included: Oberoi breakfast, forest picnic lunch & fine dining dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Wildflower Hall Leisure & Wellness Day",
+        "description": "A day of unhurried Oberoi luxury. Enjoy a morning yoga session on the terrace, explore the resort's private forest trails, indulge in a couples spa treatment, and savor a bespoke chef's tasting menu for your farewell evening.",
+        "activities": [
+          "Sightseeing Included: Private forest trail walk, Mashobra apple orchard visit (seasonal)",
+          "Evening Experience: Oberoi farewell chef's tasting menu with wine pairing on the terrace",
+          "Overnight Stay: Mashobra — Wildflower Hall, An Oberoi Resort (Luxury Forest Suite)",
+          "Meals Included: Oberoi breakfast & farewell tasting menu dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Wildflower Hall to Chandigarh / Departure",
+        "description": "Enjoy a final Oberoi breakfast amid cedar forests before your private luxury vehicle transfers you to Chandigarh Airport or Kalka Railway Station with memories of Himalayan royalty reimagined.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off",
+          "Meals Included: Oberoi grand buffet breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe mountain resort alternative in Shimla.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium hill resort with valley views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil, Shimla / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury colonial heritage hotel on Mall Road.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil — Presidential Suite / Similar",
+        "location": "Shimla (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury presidential suite with Mall Road panoramas.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Heritage Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Marigold Sarovar Portico Mashobra / Similar",
+        "location": "Mashobra (3N)",
+        "nights_label": "03 Nights",
+        "description": "Deluxe cedar-forest resort near Mashobra.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Forest View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Royal Tulip Shimla / Similar",
+        "location": "Mashobra (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium hill resort with cedar forest access.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Forest Suite",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi Resort / Similar",
+        "location": "Mashobra (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury cedar-forest sanctuary with infinity pool.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Forest Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall — Oberoi Luxury Villa / Similar",
+        "location": "Mashobra (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury private villa with butler service and spa access.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Luxury Villa",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 nights at Oberoi-calibre luxury properties in Shimla and Mashobra",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily Oberoi breakfasts and bespoke fine dining dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven luxury sedan for all transfers and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager with Oberoi coordination",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Kufri gourmet picnic setup and Mashobra forest picnic experience",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Chandigarh / Kalka",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Oberoi spa treatments, golf green fees, and premium wine pairings",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets and Viceregal Lodge camera permits",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, and tipping",
+        "sort_order": 10
+      }
+    ]
+  }
+}

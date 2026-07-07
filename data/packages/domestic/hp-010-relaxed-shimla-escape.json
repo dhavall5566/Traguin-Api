@@ -1,0 +1,252 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-010-relaxed-shimla-escape",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Relaxed Shimla Escape — Elegance & Leisure at a Gentle Pace",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 11,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Gentle-paced senior-friendly itinerary with zero-strain travel parameters",
+        "sort_order": 1
+      },
+      {
+        "text": "Viceregal Lodge, Ridge, Christ Church & accessible Mall Road stroll",
+        "sort_order": 2
+      },
+      {
+        "text": "Mashobra apple orchards & Craignano Nature Park flat garden paths",
+        "sort_order": 3
+      },
+      {
+        "text": "Kufri Himalayan Nature Park with leveled wildlife viewing paths",
+        "sort_order": 4
+      },
+      {
+        "text": "Low-step Innova Crysta with background-verified courteous chauffeur",
+        "sort_order": 5
+      },
+      {
+        "text": "Senior-friendly hotels with elevators, grab bars & walk-in showers",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-010-relaxed-shimla-itinerary",
+    "title": "Relaxed Shimla Escape — Elegance & Leisure at a Gentle Pace",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Elegance & Leisure at a Gentle Pace",
+    "overview": "Embark on the finest Himachal senior citizen holiday specially customized to reveal the sweeping landscapes and classic colonial heritage of Shimla without any rush or strenuous travel. This TRAGUIN bespoke journey prioritizes safety, comfort, and emotional well-being with premium stays, easily accessible iconic attractions, low-step luxury transport, and thoughtfully paced sightseeing between 10 AM and 4 PM.",
+    "is_featured": true,
+    "featured_sort_order": 11,
+    "seo_title": "HP-010 | Relaxed Shimla Escape | TRAGUIN Premium Himachal Tour",
+    "seo_description": "Luxury 04 Nights / 05 Days senior-friendly Shimla package (HP-010) covering Viceregal Lodge, Mall Road, Mashobra, Craignano, and Kufri with accessible premium stays and gentle-paced sightseeing. Ideal for senior citizens, family groups, and leisure travelers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Colonial Heritage & Mall Road",
+        "sort_order": 1
+      },
+      {
+        "text": "Mashobra & Craignano Greenery",
+        "sort_order": 2
+      },
+      {
+        "text": "Kufri Nature Park Panoramas",
+        "sort_order": 3
+      },
+      {
+        "text": "Senior-Friendly Premium Stays",
+        "sort_order": 4
+      },
+      {
+        "text": "Gentle-Paced TRAGUIN Concierge",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Shimla",
+        "description": "Your premium Shimla experience begins with a warm, personalized greeting by our courteous chauffeur at Chandigarh Airport or Kalka Railway Station. Board your comfortable luxury transport for a smooth scenic drive up the Himalayan foothills with curated rest stops. Check into your premium luxury hotel and spend a relaxing evening admiring the mountain sunset from your private balcony.",
+        "activities": [
+          "Sightseeing Included: Scenic Himalayan foothills drive, Timber Trail panoramic valley views en-route",
+          "Evening Experience: Hot herbal tea presentation and a personalized trip orientation by TRAGUIN experts",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort with easy-access elevators)",
+          "Meals Included: Welcome drink & nourishing gourmet dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Shimla Colonial Heritage Sightseeing",
+        "description": "Indulge in a relaxed, delicious breakfast before an elegant day of colonial exploration. Visit the majestic Viceregal Lodge (Rashtrapati Niwas) with manicured lawns and flat, paved walkways. Take the dedicated government elevator to the pedestrian-only Ridge and Mall Road for Christ Church and Gaiety Theatre at your own gentle pace.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge gardens, The Ridge, Christ Church, Scandal Point, Mall Road",
+          "Optional Activities: An elegant sit-down high tea session at a legendary heritage cafe overlooking the mountains",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium breakfast & custom mild dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Excursion to Mashobra & Craignano Greenery",
+        "description": "Awake to the soothing sounds of birds and a crisp mountain breeze. Head to Mashobra, a peaceful haven of oak and pine forests, for a quiet drive to Craignano Nature Park with beautiful flat garden paths, historic wooden villas, and breathtaking snow peak landscapes with plenty of sitting benches and shade zones.",
+        "activities": [
+          "Sightseeing Included: Mashobra apple orchard vistas, Craignano Italian-style villa lawns, beautiful photography points",
+          "Evening Experience: Private cozy bonfire evening with soothing classic instrumental music back at the resort",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium breakfast & traditional Himachali-inspired dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Leisurely Day at Kufri Valleys",
+        "description": "Enjoy another premium breakfast before a short, comfortable morning drive to Kufri. Bypass steep horse trails to focus on serene, easily reachable viewpoints and the Himalayan Nature Park with well-leveled paths for beautiful flora and rare fauna. The afternoon is kept free for complete relaxation or resort spa facilities.",
+        "activities": [
+          "Sightseeing Included: Kufri pine valley vistas, Himalayan Nature Park, Green Valley panoramic photography points",
+          "Optional Activities: A beautiful professional family portraiture session in traditional attire",
+          "Overnight Stay: Shimla (Premium Luxury Heritage Resort)",
+          "Meals Included: Premium breakfast & luxury farewell dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Shimla to Chandigarh / Departure",
+        "description": "Relish a long, lazy breakfast at your premium hotel while capturing your last mountain valley photos. Your private luxury transport will be brought right to the main lobby portico for easy, comfortable boarding back to Chandigarh Airport or Kalka Station with a rested body and joyful spirit.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway drop-off",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / Clarkes Hotel / Similar",
+        "location": "Shimla (4N)",
+        "nights_label": "04 Nights",
+        "description": "Deluxe heritage hotel with central Mall location and step-free access.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla / Welcomhotel Tavisha / Similar",
+        "location": "Shimla (4N)",
+        "nights_label": "04 Nights",
+        "description": "Premium valley-view room with elevators on all floors.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Superior Valley View Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil, Shimla / Similar",
+        "location": "Shimla (4N)",
+        "nights_label": "04 Nights",
+        "description": "Luxury heritage valley room with flawless white-glove service.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Valley Room",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi Resort / Similar",
+        "location": "Shimla (4N)",
+        "nights_label": "04 Nights",
+        "description": "Ultra-luxury premier mountain view suite with heated indoor pools.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Mountain View Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 nights in senior-friendly properties with easy accessibility in Shimla",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Custom nutritious breakfasts and tailored mild dinner sets (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Chauffeur-driven Innova Crysta with low steps and spacious seating",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 proactive assistance and senior concierge on call",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome amenities — personalized travel blanket, medical comfort kit, and mineral water",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary dedicated elevator tickets for easy Mall Road transit",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or long-distance rail fares",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, professional guide fees, or inner camera fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone bills, alcoholic beverages, and tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any horse rides, adventure sports, or external porterage services",
+        "sort_order": 10
+      }
+    ]
+  }
+}

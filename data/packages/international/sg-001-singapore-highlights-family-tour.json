@@ -1,0 +1,186 @@
+{
+  "destination_slug": "singapore",
+  "package": {
+    "slug": "sg-001-singapore-highlights-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Singapore Highlights Family Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 57,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Singapore (3N) classic family discovery",
+        "sort_order": 1
+      },
+      {
+        "text": "Marina Bay light show & Gardens by the Bay",
+        "sort_order": 2
+      },
+      {
+        "text": "Night Safari exclusive evening experience",
+        "sort_order": 3
+      },
+      {
+        "text": "Sentosa Island & Universal Studios fun",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-SIN-HIG-2026 | Serial SG-001",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural",
+      "Wildlife",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "sg-001-singapore-highlights-itinerary",
+    "title": "Singapore Highlights Family Tour",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Singapore Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Marina Bay Sands • Gardens by the Bay • Sentosa • Night Safari",
+    "overview": "Dive into the vibrant, futuristic city-state of Singapore with TRAGUIN's curated family holiday. A flawless balance of high-energy exploration and iconic sightseeing — Marina Bay, Gardens by the Bay, Night Safari, and Sentosa Island — creating unforgettable memories in Southeast Asia's most spectacular destination.",
+    "is_featured": true,
+    "featured_sort_order": 57,
+    "seo_title": "SG-001 | Singapore Highlights Family Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Singapore family package (SG-001): Marina Bay, Gardens by the Bay, Night Safari, and Sentosa Island.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Marina Bay Light & Water Show",
+        "sort_order": 1
+      },
+      {
+        "text": "Gardens by the Bay Cloud Forest",
+        "sort_order": 2
+      },
+      {
+        "text": "Night Safari Exclusive Experience",
+        "sort_order": 3
+      },
+      {
+        "text": "Sentosa Island Family Fun",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Singapore & Marina Bay",
+        "description": "Arrive in Singapore. Private transfer to handpicked premium hotel. Evening exploring Marina Bay with spectacular light and water show.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, Marina Bay evening exploration",
+          "Overnight Stay: Singapore (Premium Family Hotel)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Gardens by the Bay & Night Safari",
+        "description": "Full day at futuristic Gardens by the Bay including Cloud Forest. Evening exclusive Night Safari experience.",
+        "activities": [
+          "Sightseeing Included: Gardens by the Bay, Cloud Forest, Night Safari",
+          "Overnight Stay: Singapore (Premium Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Sentosa Island Fun",
+        "description": "Full day of excitement at Sentosa Island. Universal Studios Singapore or vibrant sandy beaches — perfect for family fun.",
+        "activities": [
+          "Sightseeing Included: Sentosa Island, Universal Studios or beach leisure",
+          "Overnight Stay: Singapore (Premium Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Departure",
+        "description": "Final breakfast before TRAGUIN private transfer to the airport, completing your premium Singapore experience.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Marina Bay Sands / Shangri-La Singapore",
+        "location": "Singapore",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights in handpicked premium family hotel in Singapore",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Marina Bay, Gardens by the Bay, Night Safari, and Sentosa sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Singapore entry visa processing fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

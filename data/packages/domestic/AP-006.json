@@ -1,0 +1,166 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-006-vizag-araku-family-tour",
+    "serial_code": "AP-006",
+    "traguin_tour_code": "TG-AP-VIZ-006",
+    "title": "TRAGUIN Premium Vizag-Araku Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-006 | TRAGUIN tour code TG-AP-VIZ-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Visakhapatnam (Vizag) • Araku Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "The Coastal & Hills Symphony: Visakhapatnam • Araku Valley",
+        "sort_order": 4
+      },
+      {
+        "text": "TOUR OVERVIEW: Discover the perfect blend of coastal charm and hill station tranquility with curated experiences from Vistadome train journeys to beachfront relaxation.",
+        "sort_order": 5
+      },
+      {
+        "text": "WHY VISIT: Visakhapatnam offers urban beaches and naval history; Araku Valley provides coffee plantations and limestone wonders.",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Coastal",
+      "Nature",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-006-vizag-araku-family-tour-itinerary",
+    "title": "TRAGUIN Premium Vizag-Araku Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Coastal & Hills Symphony: Visakhapatnam • Araku Valley • 05 Nights / 06 Days",
+    "overview": "Discover the perfect blend of coastal charm and hill station tranquility with this Best Andhra Pradesh Tour Package. Curated by TRAGUIN, this 5-night family odyssey ensures unforgettable memories, offering curated experiences that range from Vistadome train journeys to beachfront relaxation.\n\nWHY VISIT VISAKHAPATNAM & ARAKU VALLEY?\nAs one of the most sought-after Top Tourist Places in Andhra Pradesh, Visakhapatnam offers a unique mix of urban beaches and naval history, while Araku Valley provides breathtaking landscapes of coffee plantations and limestone wonders. This is the Best Time to Visit Araku Valley for families seeking a Premium Araku Valley Experience.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-006 | Premium Vizag-Araku Family Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Vizag-Araku family package (AP-006 / TG-AP-VIZ-006): RK Beach, Vistadome train, Borra Caves, Chaprai Waterfalls, and TRAGUIN curated experiences.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "RK Beach and Submarine Museum on arrival evening in Vizag",
+        "sort_order": 1
+      },
+      {
+        "text": "Rushikonda Beach, Thotlakonda, and Kailasagiri Hill scenic beauty",
+        "sort_order": 2
+      },
+      {
+        "text": "Iconic Vistadome train with breathtaking Eastern Ghats landscapes",
+        "sort_order": 3
+      },
+      {
+        "text": "Borra Caves, coffee estates, Chaprai Waterfalls, and local tribal culture",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN curated Vistadome train experience and smooth departure support",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN VIZAG",
+        "description": "Arrive in Visakhapatnam. Transfer to a handpicked hotel by TRAGUIN. Evening visit to RK Beach and the Submarine Museum.",
+        "activities": [
+          "Sightseeing Included: RK Beach, Submarine Museum.",
+          "Overnight Stay: Vizag."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "VIZAG COASTAL BEAUTY",
+        "description": "Visit Rushikonda Beach, Thotlakonda, and the Kailasagiri Hill for scenic beauty.",
+        "activities": [
+          "Sightseeing Included: Rushikonda Beach, Thotlakonda, Kailasagiri Hill.",
+          "Overnight Stay: Vizag."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "VISTADOME TRAIN TO ARAKU",
+        "description": "Board the iconic Vistadome train. Enjoy breathtaking landscapes. Check into an Araku Valley luxury hotel.",
+        "activities": [
+          "Sightseeing Included: Vistadome train journey, scenic ghat landscapes.",
+          "Overnight Stay: Araku."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ARAKU VALLEY EXPLORATION",
+        "description": "Visit Borra Caves, coffee estates, and Chaprai Waterfalls. Enjoy immersive experiences with local tribal culture.",
+        "activities": [
+          "Sightseeing Included: Borra Caves, coffee estates, Chaprai Waterfalls, local tribal culture.",
+          "Overnight Stay: Araku."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "RETURN TO VIZAG",
+        "description": "Drive back to Vizag via scenic mountain roads. Enjoy an exclusive experience at a beachside cafe.",
+        "activities": [
+          "Sightseeing Included: Scenic mountain road drive, beachside cafe experience.",
+          "Overnight Stay: Vizag."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE",
+        "description": "Final breakfast before departure. TRAGUIN support ensures a smooth exit.",
+        "activities": [
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium stays for 05 nights.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily meals, transfers, and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN curated Vistadome train experience.",
+        "sort_order": 3
+      }
+    ]
+  }
+}

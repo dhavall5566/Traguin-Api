@@ -1,0 +1,308 @@
+{
+  "destination_slug": "haryana",
+  "package": {
+    "slug": "hr-010-complete-haryana-premium-family-tour",
+    "serial_code": "HR-010",
+    "traguin_tour_code": "TRG-HAR-010",
+    "title": "Complete Haryana Premium Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HR-010 | TRAGUIN tour code TRG-HAR-010",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Haryana / India | Category: Complete",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Gurugram • Sultanpur • Kurukshetra • Pinjore • Chandigarh • Hisar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Multi-Generation Families, Culture Buffs & Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant and Cool Winter Months)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Bespoke Customization)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Chauffeur- driven Innova Crysta / MAPAI Plan",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, reserved seating at the grand Brahma Sarovar Maha Aarti with",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smooth highway routing with optimized break stops, ensuring a",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for their exceptional hospitality, cleanliness,",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Uniformed, background-verified professional chauffeurs with extensive route",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Souvenirs: Shop for beautiful Phulkari embroidered textiles, hand-loomed fabrics, traditional brassware handicrafts from Rewari, and authentic handcrafted footwear (jutti) at popular local market bazaars. Food & Cafes: Enjoy rich milk-based traditional sweets, authentic paranthas with fresh butter at landmark highway stops, and global artisan coffee and multi-cuisine delicacies across Gurugram and Chandigarh's high-end dining districts.",
+        "sort_order": 12
+      },
+      {
+        "text": "& BOOKING INFORMATION",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "hr-010-complete-haryana-premium-family-tour-itinerary",
+    "title": "Complete Haryana Premium Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Bespoke Customization)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Complete Haryana Premium Family Tour",
+    "overview": "COMPLETE HARYANA • GRAND HERITAGE, ECO-LUXURY & URBAN SPLENDOUR Welcome to an extraordinary exploration of legacy, culture, and absolute comfort meticulously designed by TRAGUIN. This exclusive Complete Haryana Family Tour is a masterfully balanced luxury travel experience curated for multi-generational families. Our premium travel itinerary spans across the state's historical epics, modern cosmopolitan landmarks, and breathtaking landscapes. As your dedicated travel consultants, TRAGUIN transforms each day into an immersive luxury holiday featuring handpicked hotels, executive logistics, and highly engaging local narratives. From the dazzling cityscape of Gurugram to the sacred waters of Kurukshetra, the royal gardens of Pinjore, and the historical forts of Hisar, prepare to build unforgettable memories with your loved ones.\n\nTOUR OVERVIEW\nThis elite 5 Nights / 6 Days fully-guided route offers a comprehensive panoramic overview of Haryana’s finest treasures. Travelling in an executive-class, fully sanitized, premium air-conditioned vehicle with highly experienced uniformed chauffeurs, your family will enjoy absolute safety, privacy, and curated priority access. Our high-end meal plan encompasses generous daily buffet breakfasts alongside themed gourmet dinners featuring regional and global cuisines. Every detail of this premium travel proposal carries the distinct hallmark of TRAGUIN curated experiences—guaranteeing premium handpicked accommodations, VIP entrances, and 24/7 dedicated travel support.\n\nWHY CHOOSE THE BEST COMPLETE HARYANA TOUR PACKAGE?\nA true Luxury Haryana Holiday reveals the diverse soul of Northern India. Travelers who book the definitive Best Haryana Tour Package get to experience a spectacular combination of highly historic battlegrounds, royal architecture, world-class wildlife reserves, and luxurious contemporary lifestyle centers. From the internationally celebrated Sultanpur National Park—a top tourist place in Haryana for bird watching—to the profound spiritual heritage sites of Kurukshetra, the destination delivers endless deep experiences. For couples and families organizing a memorable Haryana Honeymoon Package or Haryana Family Tour, the state offers beautiful contrast and popular Instagram locations such as the multi-tiered Pinjore Gardens, the chic CyberHub complex, and the heritage stepwells. Travelers can indulge in authentic handicraft shopping, discover the historical remains of ancient forts, and enjoy the true culinary excellence of fine-dining venues. Choosing our signature TRAGUIN Haryana Packages promises a beautifully structured, elegant, and highly polished itinerary during the absolute best time to visit Haryana.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HR-010 | Complete Haryana Premium Family Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Haryana package (HR-010 / TRG-HAR-010): Gurugram • Sultanpur • Kurukshetra • Pinjore • Chandigarh • Hisar with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GURUGRAM",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SULTANPUR NATIONAL PARK & HISAR HERITAGE",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HISAR TO SACRED KURUKSHETRA",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: KURUKSHETRA TO PINJORE & CHANDIGARH",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: CHANDIGARH FULL-DAY SIGHTSEEING",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: CHANDIGARH TO DELHI / DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, reserved seating at the grand Brahma Sarovar Maha Aarti with",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smooth highway routing with optimized break stops, ensuring a",
+        "sort_order": 8
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for their exceptional hospitality, cleanliness,",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GURUGRAM",
+        "description": "WELCOME TO THE COSMOPOLITAN HEARTLAND & ELITE URBAN LIVING Your premium Complete Haryana experience begins with a warm VIP greeting as you arrive at New Delhi Airport or Railway Station. Your private luxury vehicle will seamlessly transfer your family to an elite handpicked hotel in Gurugram. After checking in and enjoying a smooth afternoon of relaxation, step out to experience the vibrant energy of CyberHub—the crown jewel of urban entertainment in the National Capital Region. This premium boulevard offers phenomenal fine dining, luxury boutique retail shopping, and fantastic lifestyle photography points.",
+        "activities": [
+          "Sightseeing Included: CyberHub Promenade, Luxury Galleria retail exploration, High-street culinary districts.",
+          "Evening Experience: A curated multi-course gourmet dinner at an award-winning premium restaurant.",
+          "Overnight Stay: Gurugram (Premium / Luxury 5-Star Hotel)",
+          "Meals Included: Welcome Amenities & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SULTANPUR NATIONAL PARK & HISAR HERITAGE",
+        "description": "NATURAL AVIAN SANCTUARIES & STEPPING INTO THE ANCIENT KINGDOMS Embrace the day with a crisp, refreshing morning excursion to Sultanpur National Park, universally rated among the top tourist places in Haryana. Marvel at the breathtaking landscapes as thousands of rare migratory and resident birds gather across the natural wetland lakes. Following an expert naturalist-led bird watching tour, enjoy a scenic drive towards the historic city of Hisar. In the afternoon, explore the magnificent Asigarh Fort (Hansi) and the iconic Firoz Shah Palace complex, featuring ancient underground structures and superb architectural photography opportunities.",
+        "activities": [
+          "Sightseeing Included: Sultanpur Bird Sanctuary Trails, Firoz Shah Palace, Lat ki Masjid, Hansi Fort Ruins.",
+          "Evening Experience: Private heritage presentation over traditional high-tea at your premium hotel.",
+          "Overnight Stay: Hisar (Premium Selected Executive Luxury Property)",
+          "Meals Included: Premium Breakfast & Elaborate Buffet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HISAR TO SACRED KURUKSHETRA",
+        "description": "THE EPIC BATTLEFIELDS OF MAHABHARATA & SACRED REFLECTIONS Following a premium breakfast, your luxury tour advances to the historic and spiritually significant city of Kurukshetra. Arrive and explore the breathtaking Brahma Sarovar, an architectural marvel and one of Asia’s largest man-made sacred water tanks. Walk the hallowed grounds of Jyotisar, the emotionally moving birthplace of the holy Bhagavad Gita, where Lord Krishna delivered his timeless spiritual discourse under a legendary 5,000-year-old banyan tree. Conclude your evening by witnessing a spectacular multimedia light and sound show. Science Center.",
+        "activities": [
+          "Sightseeing Included: Brahma Sarovar, Jyotisar Gita Birthplace, Sri Krishna Heritage Museum, Panorama",
+          "Evening Experience: Reserved front-row private seating for the magnificent Brahma Sarovar Evening Aarti.",
+          "Overnight Stay: Kurukshetra (Premium Selected Heritage Boutique Hotel)",
+          "Meals Included: Breakfast & Special Traditional Royal Vegetarian Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KURUKSHETRA TO PINJORE & CHANDIGARH",
+        "description": "ROYAL MUGHAL SYMMETRY & SECLUDED FOOTHILL ESCAPES Bid farewell to Kurukshetra and travel north towards the scenic Shivalik foothills to explore Pinjore Gardens, also known as Yadavindra Gardens. This historic 17th-century estate features grand terraced levels, active fountains, pristine channels, and classical Mughal architecture, making it an incredibly popular Instagram location. Next, explore the adjacent Bhima Devi Temple complex, celebrated as the 'Khajuraho of North India' due to its detailed historical stone carvings. Afterward, take a smooth drive to check into your ultra-luxury hotel in Chandigarh.",
+        "activities": [
+          "Sightseeing Included: Pinjore Terraced Gardens, Shivalik Foothill Views, Bhima Devi Archaeological Site.",
+          "Optional Activities: Private heritage walk guided by an expert art historian.",
+          "Overnight Stay: Chandigarh / Panchkula (Luxury 5-Star Hotel)",
+          "Meals Included: Breakfast & Exquisite Continental-Indian Fusion Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "CHANDIGARH FULL-DAY SIGHTSEEING",
+        "description": "MODERN URBAN DESIGN, URBAN ARTISTRY & SCENIC LAKE CRUISING Dedicate a glorious day to experiencing the beautiful planning, clean infrastructure, and scenic beauty of Chandigarh. Begin with an exclusive private tour of the world-renowned Rock Garden, a spectacular maze of outdoor art created entirely from recycled industrial and domestic materials by Nek Chand. Visit the fragrant Rose Garden before enjoying a relaxing afternoon along the banks of Sukhna Lake. To top off the experience, a private sunset boat cruise has been arranged exclusively for your family to enjoy the serene lake views. (Outer view).",
+        "activities": [
+          "Sightseeing Included: Nek Chand's Rock Garden, Rose Garden, Sukhna Lake Promenade, Capitol Complex",
+          "Evening Experience: Private sunset boat cruise followed by an elite family farewell dinner curated by TRAGUIN.",
+          "Overnight Stay: Chandigarh (Luxury 5-Star Hotel)",
+          "Meals Included: Breakfast & Premium Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CHANDIGARH TO DELHI / DEPARTURE",
+        "description": "FORWARDING JOURNEYS WITH CHERISHED FAMILY MEMORIES Indulge in a final lavish breakfast at your premium hotel's cafe. Your dedicated private vehicle will then pick you up for a smooth highway drive back to New Delhi. Your driver will safely drop you off at New Delhi Airport or the Railway Station for your onward journey. Return home carrying a heart filled with beautiful family moments and unforgettable memories, knowing your holiday was impeccably managed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private chauffeur-driven door-to-door highway drop-off at Delhi.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree",
+        "location": "Kurukshetra",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Lemon Tree | Premier / similar | Hotel Midtown",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premier / similar",
+        "meal_plan": "Hotel Midtown",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Crowne Plaza /",
+        "location": "Kurukshetra",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Crowne Plaza / | Hyatt Regency | Besta Fiesta",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Hyatt Regency",
+        "meal_plan": "Besta Fiesta",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela",
+        "location": "Kurukshetra",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: The Leela | Ambience / Trident | Suncity Hotel",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Ambience / Trident",
+        "meal_plan": "Suncity Hotel",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi",
+        "location": "Kurukshetra",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi | Gurugram (Suite) | Elite Private",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Gurugram (Suite)",
+        "meal_plan": "Elite Private",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations across handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Innova Crysta for all transfers and sightseeing routes.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meals: Daily five-star buffet breakfasts and specialty dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated elite guest relations manager on active standby.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family welcome kit, snacks, and mineral water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private sunset boat cruise charter tickets at Sukhna Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Premium Luxury Itinerary — HR-010 5",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train ticketing expenses to reach New Delhi.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual monument entry tickets, specialized camera permissions, and local guides.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidentals such as room service, laundry, premium beverages, and tips.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

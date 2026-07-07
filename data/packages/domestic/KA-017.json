@@ -1,0 +1,269 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-017-chikmagalur-coffee-plantation-getaway",
+    "serial_code": "KA-017",
+    "traguin_tour_code": "TRAGUIN-KA-017",
+    "title": "Chikmagalur Coffee Plantation Getaway",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-017 | TRAGUIN tour code TRAGUIN-KA-017",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Family Vacation / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chikmagalur Coffee Plantations",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private FIT Custom Family Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury AC Innova Crysta / Chauffeur-Driven Sedan",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Breakfast & Multi-Cuisine Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Details: Bangalore Arrival → Chikmagalur Hills → Plantation Estate Sightseeing → Mullayanagiri Peak → Bangalore Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with secured premium vehicle handovers, elite entry privileges, and custom culinary requests",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Artisanal Single-Origin Coffee and Pure Mountain Spices — cardamom, cinnamon, organic honey, and black pepper",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; light sweater for misty evenings; book peak season villas early",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Leisure",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-017-chikmagalur-coffee-plantation-getaway-itinerary",
+    "title": "Chikmagalur Coffee Plantation Getaway",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Chikmagalur Coffee Plantation Getaway • 03 Nights / 04 Days",
+    "overview": "Escape into the mist-shrouded hills and endless emerald slopes of India's premier coffee country. This meticulously designed luxury itinerary by TRAGUIN invites you and your family to slow down, breathe the crisp mountain air, and settle into a world of sensory luxury. Surrounded by the gentle whispers of the Western Ghats, experience highly curated experiences, gourmet dining, and premier stays where unforgettable memories are waiting to unfold.\n\nChikmagalur, nested securely in the rugged heart of southwestern Karnataka, is the birthplace of coffee in India and stands out as one of the most sought-after spots for a Luxury Karnataka Holiday. Boasting breathtaking landscapes, cascading waterfalls, and sprawling colonial-style estates, it is universally acknowledged as the definitive destination for an upscale Karnataka Family Tour or an intimate Karnataka Honeymoon Package.\n\nTRAGUIN Curated Note: Includes private bean-to-cup coffee estate walk, candlelight family dinner, and premium handpicked boutique resort stays.\n\nWhy Visit Chikmagalur: Famous for Mullayanagiri Peak, Baba Budangiri hills, and the historic temples of Belur and Halebidu, it offers an immersive blend of eco-adventure, ancient culture, and pure relaxation with mist-covered valley viewpoints perfect for your Instagram feed.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-017 | Chikmagalur Coffee Plantation Getaway | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Chikmagalur package (KA-017 / TRAGUIN-KA-017): Coffee plantation trail, Jhari/Hebbe Waterfalls, Mullayanagiri Peak, Belur Chennakeshava Temple, and 4-tier boutique resort accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Western Ghats Drive & Resort Leisure Walk",
+        "sort_order": 1
+      },
+      {
+        "text": "Private Coffee Plantation Trail & Jhari/Hebbe Waterfalls",
+        "sort_order": 2
+      },
+      {
+        "text": "Mullayanagiri Peak, Seethalayanagiri & Belur Chennakeshava Temple",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Elite entry privileges and custom culinary requests",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Bangalore to Chikmagalur",
+        "description": "Arrive at Bangalore International Airport or your residence where your professional luxury vehicle and dedicated chauffeur await. Embark on a beautifully scenic drive as you transition away from the urban expanse toward the rolling green vistas of Western Karnataka. En route, stop for a premium traditional South Indian breakfast. Arrive in Chikmagalur by afternoon, passing through roads flanked by dense coffee bushes and tall silver oak trees. Complete a seamless, private check-in at your handpicked luxury estate resort, receiving a signature welcome drink infused with local spices. Spend your evening relaxing on your private deck overlooking the mist-filled valley.",
+        "activities": [
+          "Sightseeing Included: Scenic Western Ghats Drive, Resort Leisure Walk",
+          "Evening Experience: High tea served at a private viewpoint on the estate grounds",
+          "Overnight Stay: Ultra-Luxury Boutique Resort, Chikmagalur",
+          "Meals Included: Welcome Drink, High Tea & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Chikmagalur Estate Exploration",
+        "description": "Awake to the invigorating aroma of fresh coffee beans drifting through the mountain mist. After an exquisite buffet breakfast, participate in an exclusive experience: a privately guided plantation walk led by an expert estate naturalist. Trace the historical journey of coffee from its legendary introduction by Baba Budan to modern-day cultivation techniques. Witness the harvesting of berries and learn the art of professional roasting and blending, followed by a personalized coffee tasting session. In the afternoon, take a comfortable short drive to visit the stunning Hebbe Falls or Jhari Waterfalls, nestled deep within pristine forest clearings—an incredible spot for family photography.",
+        "activities": [
+          "Sightseeing Included: Private Coffee Plantation Trail, Jhari/Hebbe Waterfalls",
+          "Optional Activities: Therapeutic wellness treatment or Ayurvedic spa session at the resort",
+          "Overnight Stay: Ultra-Luxury Boutique Resort, Chikmagalur",
+          "Meals Included: Full Buffet Breakfast & Traditional Estate Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Highest Peaks & Hoysala Heritage",
+        "description": "Today features the pinnacle of Karnataka Sightseeing. Depart early in your luxury vehicle to visit Mullayanagiri Peak, the highest summit in Karnataka. As you ascend, witness breathtaking landscapes and sweeping panoramas of the valley unfolding below. A short, highly accessible walk brings you to the crown of the peak, where the clouds literally drift through your hands. Following this refreshing morning, travel down to explore the historical architectural marvels of the Hoysala dynasty at Belur and Halebidu. Marvel at the intricate stone carvings and soapstone temples that have stood for centuries, capturing a glimpse of southern India's golden heritage.",
+        "activities": [
+          "Sightseeing Included: Mullayanagiri Peak, Seethalayanagiri, Belur Chennakeshava Temple",
+          "Evening Experience: A special curated family barbecue dinner under a starlit mountain sky",
+          "Overnight Stay: Ultra-Luxury Boutique Resort, Chikmagalur",
+          "Meals Included: Breakfast & Signature Curated Farewell Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Chikmagalur to Bangalore",
+        "description": "Enjoy a relaxed morning breakfast out on the sun-dappled lawns. Take one last walk through the aromatic garden pathways or purchase premium single-origin coffee selections from the estate boutique. Pack your bags and check out comfortably as your private vehicle arrives. Your chauffeur will drive you smoothly back to Bangalore, dropping you off directly at the International Airport or your doorstep. Your premium TRAGUIN Karnataka Package concludes, leaving you with rejuvenated spirits and unforgettable memories of the coffee hills.",
+        "activities": [
+          "Transfers Included: Private Luxury Return Drop-off to Bangalore",
+          "Meals Included: Full Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Serai Chikmagalur",
+        "location": "Chikmagalur",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Estate Villa with Private Deck",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Java Rain Resorts",
+        "location": "Chikmagalur",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Kaffe Room / Luxury Villa",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Trivik Hotels & Resorts",
+        "location": "Chikmagalur",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Oak Suite with Panoramic Mountain View",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Chikkamagaluru",
+        "location": "Chikmagalur",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Villa / Plantation Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights stay at handpicked premium plantation resorts with top-tier luxury amenities",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 03 Gourmet Breakfasts and 03 specially curated multi-cuisine dinners at the resort",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All commutes and sightseeing via a private, dedicated luxury Innova Crysta",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated digital concierge and local destination support",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private naturalist-led coffee walk, coffee-tasting workshop, and high-tea",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Premium arrival gift box containing artisanal chocolates and fresh-pressed organic estate samples",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate train tickets to Bangalore",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entrance tickets to historical monuments, camera permits, or local forest department jeep fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as premium beverages, laundry, minibar, and tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional off-road vehicle transfers or sightseeing extensions outside the itinerary layout",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical charges, and porterage fees",
+        "sort_order": 11
+      }
+    ]
+  }
+}

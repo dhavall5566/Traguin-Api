@@ -1,0 +1,265 @@
+{
+  "destination_slug": "bihar",
+  "package": {
+    "slug": "br-001-bodhgaya-darshan-patna-nalanda-rajgir-bodhgaya",
+    "serial_code": "BR-001",
+    "traguin_tour_code": "TRG-BIH-001",
+    "title": "TRAGUIN Premium Bihar Tour Package — Bodhgaya Darshan • Path to Enlightenment & Divine Heritage: Patna • Nalanda • Rajgir • Bodhgaya",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code BR-001 | TRAGUIN tour code TRG-BIH-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Bihar / India | Category: Pilgrimage / Spiritual Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Patna • Nalanda • Rajgir • Bodhgaya",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Spiritual Seekers & History Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury AC Innova Crysta / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Patna Arrival ➔ Rajgir (1N) ➔ Nalanda & Bodhgaya (2N) ➔ Patna Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private scholar-guided tour through the Nalanda Ruins to unravel hidden historical secrets.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing and premium hotels that emphasize extreme safety, calmness, and absolute privacy.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Access to quiet, hidden spots around Bodhgaya perfect for undistracted meditation.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Authentic Madhubani paintings, stone carvings, tussar silk; Tilkut, Litti Chokha, international cuisines near monasteries.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Conservative clothing inside temples; light woolens Nov–Feb; advance booking 45 days ahead during peak meditation season.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Spiritual",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "br-001-bodhgaya-darshan-patna-nalanda-rajgir-bodhgaya-itinerary",
+    "title": "TRAGUIN Premium Bihar Tour Package — Bodhgaya Darshan • Path to Enlightenment & Divine Heritage: Patna • Nalanda • Rajgir • Bodhgaya",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bodhgaya Darshan • Patna • Nalanda • Rajgir • Bodhgaya • 03 Nights / 04 Days",
+    "overview": "Welcome to a soul-stirring spiritual odyssey meticulously crafted by TRAGUIN. Embark on the definitive Bihar Pilgrimage experience, specifically designed to introduce your family to the timeless tranquility where Prince Siddhartha achieved ultimate enlightenment.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package provides an elite balance between sacred traditional pilgrimage routes and contemporary high-end luxury. Travelling in a dedicated private luxury transport sedan with a professional chauffeur-driven assistant, your family will enjoy absolute comfort and privacy across the ancient landscapes of Bihar. With a carefully curated meal plan featuring lavish breakfasts and specialized dinners, this route represents the definitive premium Bihar experience. Every step of your journey includes the signature touch of TRAGUIN curated experiences, ensuring VIP darshan access, expert historical narrative insights, and around-the-clock bespoke support.\n\nWHY CHOOSE THE BEST BIHAR TOUR PACKAGE?\nWhen planning a Luxury Bihar Holiday, discerning travellers seek more than just standard sightseeing; they seek a transformative connection to heritage and spiritual peace. Bihar features some of the most iconic attractions in the world of spiritual tourism. From the internationally acclaimed Mahabodhi Temple in Bodhgaya—a top tourist place in Bihar and a UNESCO World Heritage Site—to the majestic ruins of the world's oldest university in Nalanda, this region holds spectacular historical depth. For families and spiritual seekers, the land reveals highly popular Instagram locations like the architecturally marveling Vishwa Shanti Stupa in Rajgir and the serene glass bridge paths. Whether you are looking to purchase authentic Madhubani paintings while shopping, indulge in traditional local food like Litti Chokha, or experience profound meditation under the sacred Bodhi Tree, our TRAGUIN Bihar Packages guarantee premium comfort, handpicked luxury stays, and curated exclusive experiences during the best time to visit Bihar.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "BR-001 | Bodhgaya Darshan Patna Nalanda Rajgir | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Bihar pilgrimage (BR-001 / TRG-BIH-001): Rajgir, Nalanda, Mahabodhi Temple, Vishwa Shanti Stupa, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Patna arrival and scenic drive to Rajgir with hot springs on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Rajgir ropeway, Vishwa Shanti Stupa, Nalanda ruins en route to Bodhgaya on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Mahabodhi Temple, Bodhi Tree, Great Buddha Statue, monasteries on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Bodhgaya to Patna departure with handicraft stops on Day 04",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PATNA TO RAJGIR | WELCOME TO PALIPUTRA – JOURNEY TO THE IMPERIAL VALLEY",
+        "description": "Your premium Bihar experience begins as you arrive at Patna Airport/Railway Station, where a dedicated private luxury transport vehicle waits to escort you. Embark on a highly scenic drive toward Rajgir, the ancient capital of the Magadha Empire. On arrival, check into your handpicked premium luxury resort. After refreshing, experience a majestic evening walk along the nearby hot springs, renowned for their therapeutic values.",
+        "activities": [
+          "Sightseeing Included: Scenic drive across Bihar plains, Rajgir hot springs, and ancient city walls.",
+          "Evening Experience: An intimate, tranquil welcome dinner at the resort curated by TRAGUIN experts.",
+          "Overnight Stay: Rajgir (Premium / Luxury Wellness Resort).",
+          "Meals Included: Welcome Drink & Luxury Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RAJGIR & NALANDA SIGHTSEEING TO BODHGAYA | ANCIENT WISDOM, ROPEWAYS & SPIRITUAL LANDSCAPES",
+        "description": "Awake to a peaceful mountain sunrise. Ride the scenic aerial ropeway to the peak of Ratnagiri Hill to witness the magnificent Vishwa Shanti Stupa, a breathtaking landscape of peace. Next, visit Griddhakuta (Vulture's Peak) where Lord Buddha preached. In the afternoon, drive to Nalanda to explore the spectacular archaeological ruins of the ancient Nalanda University. Walk through the museum before driving through iconic attractions toward the holy town of Bodhgaya for your premium stay.",
+        "activities": [
+          "Sightseeing Included: Vishwa Shanti Stupa, Griddhakuta Hills, Nalanda University Ruins, Nalanda Archaeological Museum.",
+          "Optional Activities: A private guided meditation briefing with an ordained scholar at Rajgir.",
+          "Overnight Stay: Bodhgaya (Premium Luxury Hotel).",
+          "Meals Included: Premium Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HOLY BODHGAYA DARSHAN | THE EPIDOME OF ENLIGHTENMENT – MAHABODHI DARSHAN",
+        "description": "Today is dedicated to your deeply emotional and spiritual Bodhgaya Darshan. Visit the awe-inspiring Mahabodhi Temple, standing beneath the very Bodhi Tree where Siddhartha Gautama attained enlightenment over 2,500 years ago. Sit in silent reflection in the manicured meditation gardens. Later, capture beautiful photography points at the Great Buddha Statue (80 ft), the Royal Bhutan Monastery, and the stunning Thai Monastery, each showcasing immersive experiences of distinct Asian architecture.",
+        "activities": [
+          "Sightseeing Included: Mahabodhi Temple Complex, Sacred Bodhi Tree, 80-feet Great Buddha Statue, International Monasteries.",
+          "Evening Experience: VIP assisted evening butter-lamp lighting ceremony inside the sacred complex.",
+          "Overnight Stay: Bodhgaya (Premium Luxury Hotel).",
+          "Meals Included: Breakfast & Traditional Elite Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "BODHGAYA TO PATNA / DEPARTURE | CHERISHING UNFORGETTABLE MEMORIES BEYOND DESTINATIONS",
+        "description": "Indulge in a final lavish breakfast at your premium hotel. Your private luxury transport will safely drive you back along the smooth national highway to Patna. En route, enjoy short photo stops and shopping for authentic handicrafts. Arrive at Patna Airport or Railway Station for your onward journey, carrying home a deeply rejuvenated spirit and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door drop-off back to Patna terminal.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Royal Residency / similar | The Bodhi Palace Resort / similar",
+        "location": "Rajgir (1 Night) / Bodhgaya (2 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Royal Residency / similar (Rajgir, 1 Night) | The Bodhi Palace Resort / similar (Bodhgaya, 2 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Indo Hokke Hotel / similar | Mantra Bodhgaya / similar",
+        "location": "Rajgir (1 Night) / Bodhgaya (2 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Indo Hokke Hotel / similar (Rajgir, 1 Night) | Mantra Bodhgaya / similar (Bodhgaya, 2 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Gargee Gautam Vihar Resort | Marasa Sarovar Premiere / Maha Bodhi Hotel",
+        "location": "Rajgir (1 Night) / Bodhgaya (2 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Gargee Gautam Vihar Resort (Rajgir, 1 Night) | Marasa Sarovar Premiere / Maha Bodhi Hotel (Bodhgaya, 2 Nights) | Premium Custom MAPAI",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Premium Custom MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "VVIP Private Luxury Wellness Suite | The Zen Resort Bodhgaya (Luxury Villa)",
+        "location": "Rajgir (1 Night) / Bodhgaya (2 Nights)",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: VVIP Private Luxury Wellness Suite (Rajgir, 1 Night) | The Zen Resort Bodhgaya Luxury Villa (Bodhgaya, 2 Nights) | Elite Chef Curated Meals",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Villa / Suite",
+        "meal_plan": "Elite Chef Curated Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked hotels as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all transfers & sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfast and gourmet dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized spiritual travel kit and refreshments upon arrival.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved aerial ropeway tickets for Vishwa Shanti Stupa.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to and from Patna terminals.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, or local monastery donation offerings.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, telephone calls, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional meditation sessions or extended tours not explicitly listed.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

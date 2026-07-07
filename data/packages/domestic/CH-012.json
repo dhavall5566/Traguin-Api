@@ -1,0 +1,253 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-012-chandigarh-executive-corporate-mice-tour",
+    "serial_code": "CH-012",
+    "traguin_tour_code": "TG-CH-012-MICE",
+    "title": "Chandigarh Executive Corporate MICE Tour",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-012 | TRAGUIN tour code TG-CH-012-MICE",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Corporate MICE",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh Corporate Hub",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Executive Conferences & Retreats",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (Oct to Mar preferred)",
+        "sort_order": 5
+      },
+      {
+        "text": "Full-day ballroom rental with specialized high-tech AV",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private closed-door evening cruise at Sukhna Lake",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Sector 17 Shopping Plaza, Elante Luxury Mall, Phulkari apparel",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "Luxury",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-012-corporate-mice-itinerary",
+    "title": "Chandigarh Executive Corporate MICE Tour",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Corporate MICE Program)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium Conference • Elite Network Sessions • Curated Team Building",
+    "overview": "Welcome to Chandigarh, India's most brilliantly planned urban marvel and an elite destination for corporate leadership programs. This high-impact corporate itinerary, engineered by the specialist team at TRAGUIN, perfectly merges high-tech corporate conference features with luxurious leisure breaks.\n\nTravel Format: Corporate MICE / Executive Team Retreat. Vehicle Fleet: Luxury Executive Sedans and Premium Coaches for delegates. Meal Plan: All-Inclusive Corporate Plan (Breakfast, Mid-Session High Teas, Business Luncheons, Grand Gala Dinner). TRAGUIN Curated Touch: Pre-registered fast-track hotel check-ins, custom branded delegate kits, dedicated on-ground event managers.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-012 | Chandigarh Executive Corporate MICE Tour | TRAGUIN",
+    "seo_description": "Corporate 02 Nights / 03 Days MICE package (CH-012 / TG-CH-012-MICE): conference ballroom, Sukhna Lake networking cruise, Rock Garden sightseeing, and executive hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sukhna Lake Corporate Networking Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Grand Executive Gala Night",
+        "sort_order": 2
+      },
+      {
+        "text": "Rock Garden by Nek Chand Team Visit",
+        "sort_order": 3
+      },
+      {
+        "text": "Zakir Hussain Rose Garden Stroll",
+        "sort_order": 4
+      },
+      {
+        "text": "Full-Day Strategy Conference Sessions",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Delegate Arrival, Check-In & Evening Networking Cruise",
+        "description": "Land at Chandigarh International Airport where our dedicated corporate greeting staff welcomes your team with custom delegate badge kits. Board your luxury business coach or private sedan for a smooth transfer to your handpicked hotel. Enjoy an expedited, private group check-in at a dedicated hospitality desk managed entirely by TRAGUIN experts. At 17:00 hrs, gather for a relaxing evening experience at the scenic Sukhna Lake with an exclusive private pontoon boat cruise for your leadership team.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake Corporate Promenade",
+          "Evening Experience: Sunset Networking Cruise & Welcome Cocktails",
+          "Overnight Stay: Chandigarh (Ultra Luxury Corporate Suite)",
+          "Meals Included: Premium Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Power Conferences, Keynotes & Executive Gala Night",
+        "description": "Begin your morning with an energized breakfast buffet at the hotel's premium dining hall. At 09:00 hrs, the main business session commences in the grand ballroom with seamless audio-visual integration. Take a midday break for a gourmet corporate lunch. The afternoon session continues with targeted workshops or team-building exercises. At 20:00 hrs, step into the outdoor lawns for the Grand Executive Gala Night.",
+        "activities": [
+          "Sightseeing Included: None (Full-day Strategy Sessions)",
+          "Evening Experience: Executive Awards Night & Live Gala Dinner",
+          "Overnight Stay: Chandigarh",
+          "Meals Included: Breakfast, Mid-session High Teas, Business Lunch, Gala Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Iconic Sightseeing, Architectural Tours & Departure",
+        "description": "Savor a relaxed breakfast before packing up and checking out of your premium stays. Today blends local lifestyle exploration with corporate inspiration as we embark on a premium Chandigarh sightseeing excursion to the Rock Garden and Rose Garden. Following a corporate luncheon at a high-end city club, enjoy a brief shopping stop at Sector 17 Plaza or Elante Mall before coordinated airport transfers.",
+        "activities": [
+          "Sightseeing Included: Rock Garden by Nek Chand, Zakir Hussain Rose Garden",
+          "Shopping Spots: Sector 17 Corporate Boulevard / Elante Elite Hub",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Breakfast & Premium Farewell Luncheon"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Regency King Room + Ballroom Access",
+        "meal_plan": "Corporate Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Superior Room + Boardroom Space",
+        "meal_plan": "Corporate Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Suite + Integrated AV Banquet",
+        "meal_plan": "All-Inclusive Executive",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Luxury Villa + Bespoke Corporate Pavilions",
+        "meal_plan": "Ultra Luxury Corporate Elite",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights luxury stay at your choice of handpicked premier business hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All-inclusive corporate dining: Breakfast, Lunches, Gala Dinners, and High Teas",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Full-day ballroom rental with specialized high-tech AV, dual projectors, microphones, and staging",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated corporate airport pick-up and drop-off using executive vehicles",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private sunset networking cruise on Sukhna Lake with curated appetizers",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Premium Chandigarh sightseeing entries with skip-the-line group access",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Customized delegate branding kits (Notepads, Executive Pens, Branded Eco-bottles)",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 on-site event coordination and logistical support from TRAGUIN experts",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International flights to and from Chandigarh Airport",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional emcee, external celebrity keynotes, or specific live band charges",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal hotel charges (Mini-bar access, premium spa therapies, laundry services)",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual travel insurance plans or medical incident coverage",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "GST and government taxes beyond standard included hospitality quotas",
+        "sort_order": 13
+      }
+    ]
+  }
+}

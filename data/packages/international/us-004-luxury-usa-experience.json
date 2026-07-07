@@ -1,0 +1,355 @@
+{
+  "destination_slug": "usa",
+  "package": {
+    "slug": "us-004-luxury-usa-experience",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury USA Experience",
+    "duration_label": "10 Nights / 11 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 81,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "New York (3N) → Las Vegas (3N) → San Francisco (4N) ultra-luxury circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Private guided NYC tours — Statue of Liberty, MoMA & VIP Broadway",
+        "sort_order": 2
+      },
+      {
+        "text": "Strip-front Las Vegas luxury & exclusive Grand Canyon helicopter",
+        "sort_order": 3
+      },
+      {
+        "text": "Private yacht Golden Gate tour & Napa Valley vineyard visits",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 luxury travel concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Serial US-004 | Ultimate Luxury USA Experience",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Cultural",
+      "Adventure",
+      "Nature",
+      "Romantic"
+    ]
+  },
+  "itinerary": {
+    "slug": "us-004-luxury-usa-itinerary",
+    "title": "Luxury USA Experience",
+    "duration_label": "10 Nights / 11 Days",
+    "duration_days": 11,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury USA Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "New York • Las Vegas • Grand Canyon • San Francisco • Napa Valley",
+    "overview": "Experience the epitome of opulence with a TRAGUIN curated journey across the United States. From the bustling energy of Manhattan to the neon lights of Las Vegas and the scenic beauty of San Francisco, this luxury USA holiday offers unforgettable memories with premium handpicked hotels and private luxury transportation.",
+    "is_featured": true,
+    "featured_sort_order": 81,
+    "seo_title": "US-004 | Luxury USA Experience | TRAGUIN",
+    "seo_description": "Ultra-luxury 10 Nights / 11 Days USA package (US-004): New York City, Las Vegas, Grand Canyon helicopter, San Francisco yacht tour, and Napa Valley.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "VIP Manhattan Sanctuary & Skyline Dining",
+        "sort_order": 1
+      },
+      {
+        "text": "Statue of Liberty, MoMA & VIP Broadway Access",
+        "sort_order": 2
+      },
+      {
+        "text": "Grand Canyon Helicopter Signature Experience",
+        "sort_order": 3
+      },
+      {
+        "text": "Private Yacht & Napa Valley Vineyards",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "New York City — Arrival",
+        "description": "Private chauffeur welcome at JFK. Check into a five-star Manhattan sanctuary. Evening dining experience overlooking the skyline.",
+        "activities": [
+          "Sightseeing Included: VIP chauffeur airport welcome, private hotel transfer",
+          "Evening Experience: Skyline dining experience",
+          "Overnight Stay: New York City (Ultra-Luxury Hotel)",
+          "Meals Included: Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "New York City — Iconic Attractions",
+        "description": "Private guided tours of the Statue of Liberty and MoMA. VIP access to a Broadway show — immersive experiences across the Big Apple.",
+        "activities": [
+          "Sightseeing Included: Private Statue of Liberty tour, MoMA visit, VIP Broadway access",
+          "Overnight Stay: New York City (Ultra-Luxury Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "New York City — Cultural Immersion",
+        "description": "Continue exploring Manhattan's iconic attractions with private guiding. Premium shopping and curated dining in the world's greatest city.",
+        "activities": [
+          "Sightseeing Included: Private guided Manhattan cultural tour",
+          "Overnight Stay: New York City (Ultra-Luxury Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Las Vegas — Desert Luxury Arrival",
+        "description": "First-class flight to Las Vegas. Check into a Strip-front luxury resort. Explore world-class dining and exclusive nightlife.",
+        "activities": [
+          "Sightseeing Included: First-class flight to Las Vegas, private resort transfer",
+          "Overnight Stay: Las Vegas (Strip-Front Ultra-Luxury Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Las Vegas — Premium Leisure",
+        "description": "A day of exclusive leisure on the Strip — premium shopping, world-class dining, and curated entertainment experiences.",
+        "activities": [
+          "Sightseeing Included: Premium Strip leisure and dining experiences",
+          "Overnight Stay: Las Vegas (Strip-Front Ultra-Luxury Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Grand Canyon — Breathtaking Landscapes",
+        "description": "Exclusive helicopter tour over the Grand Canyon. Witness breathtaking landscapes from the sky — a true TRAGUIN Signature Experience.",
+        "activities": [
+          "Sightseeing Included: Exclusive Grand Canyon helicopter tour",
+          "Overnight Stay: Las Vegas (Strip-Front Ultra-Luxury Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "San Francisco — Scenic Arrival",
+        "description": "Arrival in the Bay Area. Private transfer to your luxury hotel. Evening orientation along the waterfront.",
+        "activities": [
+          "Sightseeing Included: Flight to San Francisco, private hotel transfer",
+          "Overnight Stay: San Francisco (Ultra-Luxury Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "San Francisco — Yacht & Napa Valley",
+        "description": "Private yacht tour of the Golden Gate Bridge. Intimate visits to Napa Valley's finest vineyards.",
+        "activities": [
+          "Sightseeing Included: Private yacht Golden Gate tour, Napa Valley vineyard visits",
+          "Overnight Stay: San Francisco (Ultra-Luxury Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "San Francisco — Cultural Delights",
+        "description": "Explore local markets, historic neighborhoods, and high-end shopping on Union Square.",
+        "activities": [
+          "Sightseeing Included: Union Square shopping, historic neighborhood tour",
+          "Overnight Stay: San Francisco (Ultra-Luxury Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 9
+      },
+      {
+        "day_number": 10,
+        "title": "San Francisco — Pacific Leisure",
+        "description": "Relax in a handpicked luxury hotel overlooking the Pacific. Final evening celebration of your American journey.",
+        "activities": [
+          "Evening Experience: Farewell luxury dining",
+          "Overnight Stay: San Francisco (Ultra-Luxury Hotel)",
+          "Meals Included: Premium Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 10
+      },
+      {
+        "day_number": 11,
+        "title": "Departure",
+        "description": "Private transfer to SFO for your journey home, leaving with memories curated by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 11
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Four Seasons / Ritz-Carlton / Waldorf Astoria",
+        "location": "New York City",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Four Seasons / Ritz-Carlton / Waldorf Astoria",
+        "location": "Las Vegas",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Four Seasons / Ritz-Carlton / Waldorf Astoria",
+        "location": "San Francisco",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis New York",
+        "location": "New York City",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Wynn Las Vegas (Tower Suites)",
+        "location": "Las Vegas",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Fairmont San Francisco (Presidential Suites)",
+        "location": "San Francisco",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "10 Nights in ultra-luxury hotels across New York City, Las Vegas, and San Francisco",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven VIP airport and ground transfers",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "First-class / premium domestic flights between cities",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private guided Statue of Liberty, MoMA, and VIP Broadway access in New York",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Grand Canyon helicopter tour — TRAGUIN Signature Experience",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private yacht Golden Gate tour and Napa Valley vineyard visits",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Welcome amenities and TRAGUIN 24/7 luxury concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International and internal domestic airfares unless stated",
+        "sort_order": 100
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, Broadway show entries, and specialized evening activities",
+        "sort_order": 101
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, telephone calls, and boutique purchases",
+        "sort_order": 102
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional helicopter rides or private boat charters",
+        "sort_order": 103
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive international travel and health insurance",
+        "sort_order": 104
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and newly introduced government surcharges",
+        "sort_order": 105
+      }
+    ]
+  }
+}

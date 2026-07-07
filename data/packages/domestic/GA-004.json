@@ -1,0 +1,366 @@
+{
+  "destination_slug": "goa",
+  "package": {
+    "slug": "ga-004-luxury-south-goa-private-sanctuary",
+    "serial_code": "GA-004",
+    "traguin_tour_code": "TRAGUIN-GA-004",
+    "title": "TRAGUIN Premium Goa Tour Package — Luxury South Goa Private Sanctuary",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code GA-004 | TRAGUIN tour code TRAGUIN-GA-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Goa / India | Category: Luxury Holiday",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Luxury South Goa (5N) - Elite Coastal Escape",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families, Connoisseurs",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to February",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Ultra Luxury Custom)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Goa Airport Arrival → Luxury South Goa Beachfront Resort Sanctuary → Curated",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A private, luxury chartered yacht cruise complete with champagne",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked five-star beachfront resorts chosen for their exceptional",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Round-the-clock contact with our luxury travel coordinators to handle any",
+        "sort_order": 11
+      },
+      {
+        "text": "Luxury Transportation: Premium, private SUVs driven by professional, courteous chauffeurs who",
+        "sort_order": 12
+      },
+      {
+        "text": "South Goa Boutiques: Explore high-end lifestyle boutiques in Margao and Panaji for customized linen resort- wear, organic coconut-oil beauty products, and handmade azulejos tiles. Food & Cafes: We recommend visiting fine-dining restaurants like Cavatina in Benaulim for a modern take on classic Goan food, or stopping by artisanal bakeries in Fontainhas for traditional treats.",
+        "sort_order": 13
+      },
+      {
+        "text": "Standard check-in begins at 15:00 hrs, and check-out is at 11:00 hrs across all major luxury beach resorts.",
+        "sort_order": 14
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Beach",
+      "Romantic",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "ga-004-luxury-south-goa-private-sanctuary-itinerary",
+    "title": "TRAGUIN Premium Goa Tour Package — Luxury South Goa Private Sanctuary",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra Luxury Custom)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury South Goa Private Sanctuary",
+    "overview": "Welcome to a masterfully designed tropical retreat where pristine white sands, swaying palms, and endless azure ocean views unite. The Best Goa Tour Package invites you to step away from the everyday and immerse yourself in the tranquil, exclusive luxury of South Goa. Perfect as a high-end Goa Honeymoon Package or an elegant Goa Family Tour, this journey balances peaceful relaxation with curated cultural discoveries. Experience a true Luxury Goa Holiday where world-class beach resorts and refined coastal living create a spectacular canvas for your vacation.\n\nTOUR OVERVIEW\nThis elite coastal holiday is curated as an independent FIT tour, designed for travelers who value complete privacy, flexibility, and unmatched elegance. Your escape features a dedicated, professional chauffeur-driven luxury vehicle for all transfers and evening excursions. Every element is brought together by the signature hospitality of TRAGUIN, guaranteeing bespoke comfort, stays at finest handpicked hotels, and unique immersive experiences that create unforgettable memories.\n\nTHE ESSENCE OF A PREMIUM GOA EXPERIENCE\nWhy choose South Goa for your luxury holiday? While the north pulses with high-energy crowds, South Goa is celebrated for its breathtaking landscapes, clean shores, and peaceful, old-world charm. It features the most sought-after Top Tourist Places in Goa, including majestic heritage mansions and quiet spice plantations. From finding beautiful, popular Instagram locations along the cliffs of Cabo de Rama to tasting fresh seafood at private, upscale beachfront shacks, our tailored TRAGUIN Goa Packages offer a wonderful blend of relaxation, adventure, and culture. It is simply the Best Time to Visit Goa to enjoy a sophisticated beach retreat.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "GA-004 | Goa | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Goa package (GA-004 / TRAGUIN-GA-004): Luxury South Goa (5N) - Elite Coastal Escape.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GOA – WELCOME TO PARADISE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SOUTH GOA CULTURE & HERITAGE EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: COASTAL CASTLES & HIDDEN HORIZONS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PRIVATE LUXURY YACHT CRUISE EXPERIENCE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: OLD GOA SPIRITUAL SPLENDOR & FONTAINHAS ART WALKS",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: LEISURELY DEPARTURE FROM GOA",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GOA – WELCOME TO PARADISE",
+        "description": "ELITE TROPICAL RECEPTION & PRIVATE BEACHFRONT SUNSET REST Your ultimate luxury getaway begins the moment you touch down. Upon arrival at Goa Airport, receive a warm, private welcome arranged under exclusive TRAGUIN guest protocols. Your professional chauffeur will escort you to a luxury private vehicle, refreshing you with chilled towels and artisanal beverages en route to your five-star beach resort in South Goa. After a seamless check-in to your premium ocean-view suite, spend the afternoon relaxing amidst the resort's lush tropical gardens or grand infinity pools. In the late afternoon, take a peaceful stroll along the soft sands of Varca or Cavelossim Beach. As the sun dips below the horizon, enjoy your first sunset with a complimentary glass of fine wine at a private beachfront pavilion. resort luxury facilities. massage. table arrangement. Resort).",
+        "activities": [
+          "Sightseeing Included: Private beachfront access,",
+          "Optional Activities: In-room therapeutic couple's",
+          "Evening Experience: Fine-dining beachside candlelit",
+          "Overnight Stay: South Goa (Handpicked Ultra-Luxury"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SOUTH GOA CULTURE & HERITAGE EXPLORATION",
+        "description": "PORTUGUESE NOBILITY – COLONIAL MANSIONS & RAINFOREST SPICE IMMERSION Savor a magnificent breakfast before embarking on a curated day of Goa Sightseeing. Your morning features a private guided visit to the spectacular Palacio do Deao in Quepem, a 213-year-old historic mansion blending Portuguese and Indian architecture. Walk through its lush, formal pleasure gardens and enjoy heritage tea on a terrace overlooking the Kushavati River. Next, head deep into the green hills for an immersive experience at a premium, organic spice plantation. Take a gentle, private walking tour to learn about local flora, vanilla pods, and fresh cardamoms. Conclude your tour with an authentic, traditional Goan buffet lunch served in earthen pots, creating a beautiful blend of local flavors. Organic Spice Plantation, Quepem Heritage Valley. (subject to availability). lounge listening to live jazz performance.",
+        "activities": [
+          "Sightseeing Included: Palacio do Deao, Premium",
+          "Optional Activities: Elephant bathing experience",
+          "Evening Experience: Relaxed evening by the resort",
+          "Overnight Stay: South Goa."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "COASTAL CASTLES & HIDDEN HORIZONS",
+        "description": "THE CLIFFS OF CABO DE RAMA – SECLUDED VISTAS & INSTAGRAM SPOTLIGHTS Enjoy a leisurely morning by the ocean before driving south to Cabo de Rama Fort. Perched dramatically over steep sea cliffs, this historic fortress offers sweeping, panoramic views of the Arabian Sea. It is a fantastic photography point and one of the most celebrated popular Instagram locations in the region. After taking in the stunning views, descend to a boutique cliffside beach club for a relaxed gourmet lunch. Spend the afternoon resting on private sun loungers, listening to the waves crash below, and soaking in the majestic coastal beauty. Panoramic Viewpoints. overlooking the sea cliffs.",
+        "activities": [
+          "Sightseeing Included: Cabo de Rama Fort, Cliffside",
+          "Optional Activities: Guided sea-kayaking near the bay.",
+          "Evening Experience: Premium sunset cocktails",
+          "Overnight Stay: South Goa."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PRIVATE LUXURY YACHT CRUISE EXPERIENCE",
+        "description": "SAILING THE AZURE WATERWAYS – PRIVATE CHARTER & DOLPHIN WATCHING Today offers a truly unforgettable highlight of your Premium Goa Experience. Late in the morning, travel to a private jetty to board an exclusive, luxury chartered yacht. Cruise along the calm river backwaters and out into the open sea, enjoying absolute privacy and attentive service. Sip on fine champagne and enjoy delicious canapés as you spot dolphins playing in the water. Drop anchor near a quiet, secluded cove for a private swim or a gourmet lunch prepared onboard by your personal chef. Return to land just after sunset, having experienced the coast from a beautiful new perspective. habitats, Mandovi/Zuari river mouths. the yacht deck. winning resort restaurant.",
+        "activities": [
+          "Sightseeing Included: Secluded coastal coves, dolphin",
+          "Optional Activities: Deep-sea fishing or jet-skiing from",
+          "Evening Experience: Gourmet dinner at an award-",
+          "Overnight Stay: South Goa."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "OLD GOA SPIRITUAL SPLENDOR & FONTAINHAS ART WALKS",
+        "description": "HISTORIC BASILICAS & LATIN QUARTER VIBRANCY – ARCHITECTURE & ART Venture out to discover the timeless architecture of Old Goa. Visit the world-famous Basilica of Bom Jesus, a UNESCO World Heritage Site that showcases fine Baroque architecture. Next, explore the grand Se Cathedral, taking in its peaceful atmosphere and historic chapels. In the afternoon, enjoy a private guided walking tour through Fontainhas, the old Latin Quarter of Panaji. Stroll past brightly colored Portuguese-style houses with elegant overhanging balconies. Stop to visit a local contemporary art gallery and relax at a boutique café for classic Portuguese egg tarts and freshly brewed local coffee. Cathedral, Fontainhas Latin Quarter. Goan curator. highlighting modern Goan food.",
+        "activities": [
+          "Sightseeing Included: Basilica of Bom Jesus, Se",
+          "Optional Activities: Private art buying session with a",
+          "Evening Experience: A curated, upscale tasting dinner",
+          "Overnight Stay: South Goa."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "LEISURELY DEPARTURE FROM GOA",
+        "description": "FINAL OCEAN DIP & FOND FAREWELLS TO THE COAST Enjoy a relaxed morning at your own pace. Take a final swim in the warm ocean, walk along the pristine beach, or enjoy a long breakfast on the sun terrace. Check out of your room by mid-day. Depending on your flight time, your private vehicle is available for a visit to a luxury lifestyle boutique for fine resort-wear, artisanal feni, or local organic crafts. Your memorable journey concludes as you are transferred smoothly to Goa Airport, taking with you beautiful, lifelong memories curated by TRAGUIN. premium boutiques.",
+        "activities": [
+          "Sightseeing Included: Resort beach access, local",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Caravela Beach Resort / ITC Grand Goa (Garden view)",
+        "location": "South Goa (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Caravela Beach Resort / ITC Grand Goa (Garden view) (South Goa (5 Nights)) | CP (Breakfast)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Garden Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Goa / Alila Diwa Goa",
+        "location": "South Goa (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: The Leela Goa / Alila Diwa Goa (South Goa (5 Nights)) | CP (Breakfast)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premier Garden View Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Exotica Resort & Spa, Goa",
+        "location": "South Goa (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Exotica Resort & Spa, Goa (South Goa (5 Nights)) | CP (Breakfast)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Ocean View Room",
+        "meal_plan": "CP (Breakfast)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Goa (The Club Sanctuaries) / Taj Exotica (Plunge Pool Villa)",
+        "location": "South Goa (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Leela Goa (The Club Sanctuaries) / Taj Exotica (Plunge Pool Villa) (South Goa (5 Nights)) | CP + Private Butler",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Exclusive Club Suite / Luxury Villa",
+        "meal_plan": "CP + Private Butler",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "excluded",
+        "text": "Five-star ultra-luxury beachfront resort",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "accommodations.",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "Daily premium multi-cuisine buffet breakfasts.",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "Dedicated private luxury SUV with a professional",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "chauffeur.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Complimentary 4-hour private chartered luxury yacht",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "cruise.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "All airport transfers, parking fees, tolls, and driver",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "allowances.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Traditional Goan welcome drink and premium",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "seasonal fruit platters.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "24/7 dedicated TRAGUIN concierge support.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airfares to/from Goa.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance tickets, heritage guide fees, and",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "camera permits.",
+        "sort_order": 15
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses (such as laundry, long-distance",
+        "sort_order": 16
+      },
+      {
+        "kind": "excluded",
+        "text": "phone calls, mini-bar items).",
+        "sort_order": 17
+      },
+      {
+        "kind": "excluded",
+        "text": "Meals and drinks not explicitly listed in the inclusions.",
+        "sort_order": 18
+      },
+      {
+        "kind": "excluded",
+        "text": "Surcharges for peak holiday dates, Christmas, or New",
+        "sort_order": 19
+      },
+      {
+        "kind": "excluded",
+        "text": "Year gala dinners.",
+        "sort_order": 20
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and comprehensive medical insurance",
+        "sort_order": 21
+      },
+      {
+        "kind": "excluded",
+        "text": "coverage.",
+        "sort_order": 22
+      },
+      {
+        "kind": "excluded",
+        "text": "Any extra activities not detailed in the itinerary.",
+        "sort_order": 23
+      }
+    ]
+  }
+}

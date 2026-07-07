@@ -1,0 +1,277 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-009-silvassa-wellness-spa",
+    "serial_code": "DN-009",
+    "traguin_tour_code": "TG-DN-009-WEL",
+    "title": "Silvassa Wellness & Spa",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-009 | TRAGUIN tour code TG-DN-009-WEL",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Luxury Wellness & Spa",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Khanvel • Dudhni",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Corporate Retreats & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury FIT Itinerary with On-Demand Concierge Services",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium, ultra-comfortable Luxury Sedan or SUV (with professional chauffeur)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Gourmet Breakfast & Curated Wellness Dinner Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi/Surat Arrival → Silvassa Wellness Resort → Vanganga Garden → Dudhni Lake → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A private sunset cruise on Dudhni Lake combined with customized wellness menus curated by in-house nutritionists",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli Paintings, Handcrafted Bamboo Wares, Organic Local Honey & Herbs",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; book spa resorts 45 days in advance",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Wellness",
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-009-silvassa-wellness-spa-itinerary",
+    "title": "Silvassa Wellness & Spa",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Silvassa Wellness & Spa Retreat • Vanganga Lake • Dudhni Waterfront • Khanvel",
+    "overview": "Escape the frantic pace of daily life and enter a sanctuary of absolute calm in the hidden green paradise of Western India. This bespoke itinerary, beautifully orchestrated by TRAGUIN travel specialists, offers a refined blend of world-class spa rejuvenation, high-end hospitality, and gentle exploration of Portuguese heritage footprints.\n\nThis exclusive Silvassa Premium Wellness & Spa Tour Package is carefully structured for travelers seeking full mind-body rejuvenation without sacrificing top-tier luxury.\n\nTRAGUIN Curated Touch: A complimentary 60-minute signature Swedish or Ayurvedic massage per guest, priority spa suite reservations, and healthy herbal welcome amenities.\n\nWhy Visit Silvassa: Celebrated for its expansive forest canopies, historical churches, pristine waterfronts, and close proximity to major corporate hubs like Mumbai and Surat.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-009 | Silvassa Wellness & Spa | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Dadra and Nagar Haveli package (DN-009 / TG-DN-009-WEL): Tribal Museum, Vanganga Lake, Dudhni sunset cruise, spa treatment, Our Lady of Piety Church",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tribal Cultural Museum & Resort Wellness Estate",
+        "sort_order": 1
+      },
+      {
+        "text": "Vanganga Lake Garden & Dudhni Waterfront with private speed-boat cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Our Lady of Piety Church en-route departure",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset cruise on Dudhni Lake with customized wellness menus",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Expertly spaced itinerary maximizing time in award-winning spa zones",
+        "sort_order": 5
+      },
+      {
+        "text": "Personalized Assistance: Dedicated 24/7 travel concierge connection",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa & Immersive Spa Indulgence",
+        "description": "Your luxury escape begins as our professional private chauffeur greets you warmly at Vapi Railway Station or Surat Airport. Lean back and enjoy a smooth, highly scenic drive through winding country roads as you arrive at Silvassa. Step past the threshold of your handpicked ultra-luxury resort and enjoy a refreshing tribal herbal welcome drink. After an effortless check-in, unpack and relax in your sprawling premium villa or suite. In the afternoon, visit the Tribal Cultural Museum for a brief, fascinating journey into native history and local lifestyles. Later, surrender to relaxation at the resort's premium spa, where a pre-booked 60-minute signature aromatherapy treatment awaits you to release any residual travel tension, carving out unforgettable memories from day one.",
+        "activities": [
+          "Sightseeing Included: Tribal Cultural Museum, Resort Wellness Estate",
+          "Evening Experience: Complimentary TRAGUIN Signature Spa Treatment",
+          "Overnight Stay: Silvassa (Ultra-Luxury Wellness Resort)",
+          "Meals Included: Specially Crafted Wellness Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Scenic Vanganga Lake & Waterfront Cruise at Dudhni",
+        "description": "Wake up to the sounds of nature and participate in an optional, gentle morning yoga and meditation session led by a certified yoga master on the resort's manicured lawns. Following a sumptuous organic breakfast, we set out to explore the scenic beauty of Vanganga Lake Island Garden, a beautiful Japanese-style park featuring cute wooden bridges, thatched huts, and easily accessible paddle boat pathways. After lunch, we take a smooth drive out to the majestic Dudhni Waterfront, a massive expanse of water formed by the Madhuban Dam. Here, TRAGUIN has curated an exclusive experience: a private, luxury speed-boat cruise across the deep blue waters as the sun begins to dip beneath the horizon. This provides spectacular photography options and a truly magical sunset view.",
+        "activities": [
+          "Sightseeing Included: Vanganga Lake Garden, Dudhni Waterfront Viewpoint",
+          "Exclusive Experience: Private Luxury Speed-Boat Cruise at Sunset",
+          "Overnight Stay: Silvassa",
+          "Meals Included: Premium Breakfast & Candlelight Lakeside Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Retreat Closure & Seamless Departure",
+        "description": "Greet your final morning with a refreshing swim in the resort's infinity pool or enjoy an artisan foot-reflexology path. Indulge in an exquisite, healthy gourmet breakfast spread highlighting locally sourced organic produce. Take some time to stroll around the resort grounds for final photographs or pick up some local handicrafts before checking out. Your private chauffeur will expertly manage your luggage and provide a highly comfortable transfer back to Vapi or Surat for your journey home. You will depart with a deeply rejuvenated spirit, revitalized physical energy, and exceptional stories from your bespoke Premium Silvassa Experience.",
+        "activities": [
+          "Sightseeing Included: Our Lady of Piety Church (En-route)",
+          "Assistance: Full luggage handling & railway/airport transfer",
+          "Overnight Stay: Vacation Concludes",
+          "Meals Included: Floating Breakfast / Luxury Morning Buffet"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Treat Resort, Silvassa or similar",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Executive Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts, Silvassa",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Riverview Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Pluz Resort / Khanvel Resort",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Villa Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Boutique Wellness Sanctuary",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Plunge Pool Garden Villa",
+        "meal_plan": "All Inclusive Premium Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights premium stay at pre-vetted luxury wellness resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Curated organic breakfasts and specialty multi-cuisine dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated premium air-conditioned luxury sedan or SUV throughout",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "1 Complimentary 60-Minute Signature Massage session per adult",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury speed-boat cruise tickets at Dudhni Waterfront",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Unlimited access to resort wellness facilities (steam, sauna, gym, pools)",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complete on-ground assistance and professional TRAGUIN support",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All toll fees, driver allowances, state permits, and fuel taxes",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or train tickets to and from arrival stations",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal expenditures like laundry, mini-bar, and long-distance calls",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional salon or wellness therapies outside the inclusion offer",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional camera or drone videography permissions",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual personal medical and vacation cancellation insurance",
+        "sort_order": 13
+      }
+    ]
+  }
+}

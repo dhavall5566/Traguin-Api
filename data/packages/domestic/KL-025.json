@@ -1,0 +1,317 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-025-kumarakom-luxury-corporate-meet",
+    "serial_code": "KL-025",
+    "traguin_tour_code": "TRAGUIN-KL-025",
+    "title": "Kumarakom Luxury Corporate Meet",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-025 | TRAGUIN tour code TRAGUIN-KL-025",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Corporate MICE / Luxury Meet",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Cochin • Kumarakom Luxury Backwaters",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Delegations & Executives",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Quote)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Corporate Delegation MICE Program",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private AC Luxury Coach & Premium Sedans",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: All Inclusive Corporate Gala Plan (APAI)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Cochin Airport → Kumarakom Backwaters → Cochin Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN corporate MICE specialists with dedicated airport help desks, express group hotel check-ins, and VIP luxury transportation channels.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Premium ginger-infused cafes and antique shops in Jew Town Fort Cochin; export spices, coconut shell curiosities, aromatic oils, and Kasavu sarees",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Group check-in 14:00 hrs, check-out 11:00 hrs; submit AV and stage specifications 14 days prior; breathable business-casual apparel recommended",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "Luxury",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-025-kumarakom-luxury-corporate-meet-itinerary",
+    "title": "Kumarakom Luxury Corporate Meet",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Quote)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kumarakom Luxury Corporate Meet • 03 Nights / 04 Days",
+    "overview": "Welcome to an elite corporate environment set against the emerald backwaters of God's Own Country. This highly professional, premium Kerala Corporate Package by TRAGUIN merges Exclusive Corporate Proposal Page\n\nFamily Tour framework or a dedicated corporate outbound meeting space, Kumarakom provides world-class convention resorts and scenic beauty. From high-tech presentations overlooking Vembanad Lake to customized team-building activities along legendary waterways, our TRAGUIN Kerala Packages ensure zero logistics friction. Discover iconic attractions, luxury houseboat networking lunches, and the absolute Best Time to Visit Kerala with customized hospitality setups curated beautifully to maximize productivity and relaxation.\n\nTRAGUIN Curated Touch: Curated by TRAGUIN corporate MICE specialists with dedicated airport help desks, express group hotel check-ins, and VIP luxury transportation channels.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-025 | Kumarakom Luxury Corporate Meet | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Kerala package (KL-025 / TRAGUIN-KL-025): Cochin • Kumarakom Luxury Backwaters. Handpicked luxury stays and private transfers by TRAGUIN.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vembanad Lake sunset corporate networking cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "State-of-the-art conference hall with AV equipment",
+        "sort_order": 2
+      },
+      {
+        "text": "Chartered premium houseboat networking lunch",
+        "sort_order": 3
+      },
+      {
+        "text": "Fort Cochin Chinese Fishing Nets heritage tour",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN dedicated MICE manager and gala arrangements",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN TO KUMARAKOM",
+        "description": "Arrive at Cochin International Airport where dedicated TRAGUIN representatives orchestrate an exclusive premium welcome process for your team. Board the private air-conditioned luxury coach and embark on a scenic route toward the quiet backwater paradise of Kumarakom. Check in smoothly at your ultra-luxury waterfront convention resort with dedicated corporate hospitality desks. In the late afternoon, enjoy an immersive experience onboard a luxury traditional cruise across Vembanad Lake for spectacular photography points and corporate networking as the sun sets over breathtaking landscapes.",
+        "activities": [
+          "Sightseeing Included: Scenic Backwater Drive, Vembanad Lake Sunset Cruise.",
+          "Evening Experience: Ice-breaking corporate cocktail dinner accompanied by classical live instrumental fusion",
+          "Overnight Stay: Ultra-Luxury Waterfront Resort, Kumarakom.",
+          "Meals Included: Welcome Drink, Buffet Lunch & Gala Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KUMARAKOM LUXURY MEET",
+        "description": "Begin with an early morning wellness or yoga session overlooking the tranquil lagoons. Following a lavish international buffet breakfast, convene at the state-of-the-art conference hall for your primary corporate meet. The resort's convention spaces provide premium audio-visual equipment and tailored high-tea breaks managed by TRAGUIN consultants. After a productive afternoon session, transition into an evening of cultural storytelling with a live, mesmerizing Kathakali performance, concluding with an expansive awards night and gala dinner.",
+        "activities": [
+          "Sightseeing Included: In-house Luxury Retreat Spaces, Evening Cultural Theater.",
+          "Optional Activities: Dedicated Ayurvedic wellness spa treatments or organic village walks during breaks.",
+          "Evening Experience: Corporate Excellence Awards Night with themed gourmet culinary counters.",
+          "Overnight Stay: Ultra-Luxury Waterfront Resort, Kumarakom.",
+          "Meals Included: Full Breakfast, Executive Conference Lunch & Gala Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KUMARAKOM TO COCHIN",
+        "description": "Following breakfast, check out and step directly onto an exclusive chartered premium luxury houseboat. Embark on a spectacular networking cruise through the deep interconnected backwater canals of Alleppey and Kumarakom, enjoying traditional Malabari seafood delicacies prepared by an onboard private chef. In the afternoon, transfer comfortably back to Cochin to explore top tourist places including the historic Fort Cochin lanes, iconic Chinese Fishing Nets, and heritage colonial architecture.",
+        "activities": [
+          "Sightseeing Included: Houseboat Backwater Cruise, Chinese Fishing Nets, St. Francis Church Fort Cochin.",
+          "Evening Experience: Elegant farewell dinner at a premium luxury boutique venue in Cochin harbor.",
+          "Overnight Stay: Handpicked Luxury Hotel, Cochin.",
+          "Meals Included: Breakfast, Houseboat Seafood Lunch & Farewell Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "COCHIN DEPARTURE",
+        "description": "Savor a final relaxed breakfast at the premium hotel. Depending on your flight departure schedules, enjoy a light shopping tour to pick up premium local spices, high-quality organic tea blends, and traditional Kerala handloom souvenirs. Your luxury private coach will arrive punctually to transfer your delegation to Cochin International Airport, concluding an elite, high-performance corporate event with unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Luxury Spice Market Visit, Guided Shopping Experience.",
+          "Transfers Included: Private Airport Group Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lake Song Resort Kumarakom",
+        "location": "Kumarakom",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "APAI (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Trident Hotel Cochin",
+        "location": "Cochin",
+        "nights_label": "01 Night",
+        "description": "Option 02 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "APAI (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Zuri Kumarakom Resort & Spa",
+        "location": "Kumarakom",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "APAI (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Casino Hotel Kochi",
+        "location": "Cochin",
+        "nights_label": "01 Night",
+        "description": "Option 04 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "APAI (All Meals Included)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Kumarakom Lake Resort",
+        "location": "Kumarakom",
+        "nights_label": "02 Nights",
+        "description": "Option 05 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Villa",
+        "meal_plan": "APAI (Luxury Meal Plan)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Brunton Boatyard Kochi",
+        "location": "Cochin",
+        "nights_label": "01 Night",
+        "description": "Option 06 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Room",
+        "meal_plan": "APAI (Luxury Meal Plan)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Green Cove / Niraamaya Retreats",
+        "location": "Kumarakom",
+        "nights_label": "02 Nights",
+        "description": "Option 07 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Villa",
+        "meal_plan": "Custom Elite Corporate VIP Plan",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand Hyatt Kochi Bolgatty",
+        "location": "Cochin",
+        "nights_label": "01 Night",
+        "description": "Option 08 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Suite",
+        "meal_plan": "Custom Elite Corporate VIP Plan",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium luxury stays across handpicked properties with dedicated executive corporate setups.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Corporate Venue: Complimentary access to conference infrastructure, AV systems, podiums, and dual high-tea pairings daily.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Logistics: Premium air-conditioned large luxury coaches for all continuous transfers and local sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Gala Arrangements: Private chartered lake cruise, tailored regional floral welcome amenities, and dedicated TRAGUIN manager support on-site.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All current applicable tourism and hospitality service taxes are included.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial domestic or international airfares, airport terminal taxes, or visa processing documentation fees.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual liquor licenses or specific vintage premium bar packages during gala nights unless pre-purchased.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry bills, micro-bar expenses inside premium resort suites, and independent tips.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extended vehicle tracking hours or additional excursions outside the itinerary scope.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

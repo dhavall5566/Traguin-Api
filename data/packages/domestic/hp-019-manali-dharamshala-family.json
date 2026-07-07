@@ -1,0 +1,328 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-019-manali-dharamshala-family",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Manali & Dharamshala Family Explorer",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 19,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Three-night Manali riverside base — Hadimba Temple, Solang Valley & Old Manali cafes",
+        "sort_order": 1
+      },
+      {
+        "text": "Solang Valley cable car, paragliding & snow meadow family adventures",
+        "sort_order": 2
+      },
+      {
+        "text": "Three-night Dharamshala valley retreat — McLeodganj, Naddi & Bhagsunag",
+        "sort_order": 3
+      },
+      {
+        "text": "Ancient Kangra Fort heritage walk overlooking the Kangra Valley",
+        "sort_order": 4
+      },
+      {
+        "text": "Palampur tea tasting & Tibetan market shopping in McLeodganj",
+        "sort_order": 5
+      },
+      {
+        "text": "Private Innova Crysta with TRAGUIN 24/7 family concierge throughout",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-019-manali-dharamshala-itinerary",
+    "title": "Manali & Dharamshala Family Explorer",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Alpine Adventure Meets Spiritual Serenity",
+    "overview": "TRAGUIN's Manali & Dharamshala Family Explorer combines alpine adventure with spiritual serenity across two of Himachal's most beloved destinations. Three nights in Manali offer Solang Valley thrills, Hadimba Temple heritage, and riverside leisure. Three nights in Dharamshala reveal McLeodganj's Tibetan culture, Naddi's Dhauladhar panoramas, Kangra Fort's ancient grandeur, and Palampur tea estates — all with premium family-friendly resorts and private chauffeur transfers.",
+    "is_featured": true,
+    "featured_sort_order": 19,
+    "seo_title": "HP-019 | Manali Dharamshala Family Explorer | TRAGUIN Premium Family Tour",
+    "seo_description": "Luxury 06 Nights / 07 Days family package (HP-019) covering Manali, Solang Valley, Dharamshala, McLeodganj, Kangra Fort, and Palampur with premium stays and private transfers. Ideal for multi-generational families and luxury nature lovers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Manali Heritage & Solang Adventure",
+        "sort_order": 1
+      },
+      {
+        "text": "Kullu Valley Scenic Transfer",
+        "sort_order": 2
+      },
+      {
+        "text": "McLeodganj & Dalai Lama Temple",
+        "sort_order": 3
+      },
+      {
+        "text": "Kangra Fort Heritage Walk",
+        "sort_order": 4
+      },
+      {
+        "text": "Palampur Tea Estate Tasting",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh to Manali",
+        "description": "Your family Himalayan adventure begins with a warm TRAGUIN welcome at Chandigarh Airport or Railway Station. Drive through the spectacular Kullu Valley along the Beas River to Manali and check into your premium riverside luxury resort.",
+        "activities": [
+          "Sightseeing Included: Kullu Valley drive, Pandoh Dam, Sundernagar Lake, Beas River panoramas",
+          "Evening Experience: Private family welcome dinner and riverside bonfire at your resort",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Welcome refreshment & luxury dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Manali Local Sightseeing",
+        "description": "Immerse the family in Manali's cultural tapestry. Visit the ancient Hadimba Devi Temple in a deodar forest, explore Vashisht's therapeutic hot sulphur springs, and spend the evening shopping and cafe hopping on Manali Mall Road.",
+        "activities": [
+          "Sightseeing Included: Hadimba Temple, Club House, Vashisht Hot Springs, Tibetan Monastery, Manali Mall Road",
+          "Evening Experience: Family trout dining and Old Manali cafe recommendations",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Premium breakfast & buffet dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Solang Valley Family Adventure",
+        "description": "An exhilarating family day at Solang Valley. Ride the open gondola cable car to Mount Phatru for glacier panoramas and enjoy age-appropriate adventures like zorbing, quad biking, or snow play in the meadows.",
+        "activities": [
+          "Sightseeing Included: Solang Valley meadows, cable car ride, snow line views, Palchan Village",
+          "Optional Activities: Family paragliding, zorbing, quad biking, or ski hire (seasonal)",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Breakfast & multi-cuisine chef's special dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Manali to Dharamshala via Kangra Fort",
+        "description": "After breakfast, drive toward Dharamshala through the Kangra Valley. Stop at the ancient Kangra Fort — one of India's oldest hill forts — for a family heritage walk with sweeping valley views before checking into your premium Dharamshala resort.",
+        "activities": [
+          "Sightseeing Included: Kangra Fort heritage walk, Kangra Valley panoramas, Dharamshala town orientation",
+          "Evening Experience: Welcome dinner with Dhauladhar sunset views from your resort terrace",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Breakfast & luxury dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "McLeodganj & Tibetan Culture Day",
+        "description": "Explore McLeodganj — Little Lhasa — with the family. Visit the Dalai Lama Temple complex, walk to Bhagsunag Waterfall, see St. John in the Wilderness Church, and browse Tibetan markets for singing bowls, thangka paintings, and momos.",
+        "activities": [
+          "Sightseeing Included: Dalai Lama Temple, Bhagsunag Waterfall, Dal Lake, St. John Church, Tibetan market",
+          "Evening Experience: Family momo tasting and thangka painting gallery visit in McLeodganj",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Breakfast & authentic mountain dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Palampur Tea Estate & Naddi Views",
+        "description": "A curated family day in Palampur's tea country with an estate walk and artisanal tea tasting. Return via Naddi View Point for Dhauladhar sunset panoramas and a farewell family dinner at your resort.",
+        "activities": [
+          "Sightseeing Included: Palampur tea plantation walk, artisanal tea tasting, Naddi View Point, HPCA Cricket Stadium view",
+          "Evening Experience: Farewell family dinner with live mountain music at your luxury resort",
+          "Overnight Stay: Dharamshala (Premium Luxury Valley Resort)",
+          "Meals Included: Breakfast, estate lunch & premium farewell dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Dharamshala to Chandigarh / Departure",
+        "description": "Enjoy your final mountain breakfast before your private luxury vehicle transfers the family to Chandigarh Airport or Railway Station with unforgettable Himalayan memories.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Solang Valley Resort / Similar",
+        "location": "Manali (3N)",
+        "nights_label": "03 Nights",
+        "description": "Deluxe riverside resort in Manali.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "ManuAllaya Resort & Spa / Similar",
+        "location": "Manali (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium riverside resort with alpine views.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Himalayan (Castle Resort) / Similar",
+        "location": "Manali (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury castle resort on the Beas riverside.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Span Resort & Spa (Elite Presidential) / Similar",
+        "location": "Manali (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury spa resort on the Beas riverside.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Presidential Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Pride Elite Dharamshala / Similar",
+        "location": "Dharamshala (3N)",
+        "nights_label": "03 Nights",
+        "description": "Deluxe valley resort in Dharamshala.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Fortune Park Moksha / Similar",
+        "location": "Dharamshala (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium resort with Dhauladhar valley views.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Pavilion by HPCA / Hyatt Regency / Similar",
+        "location": "Dharamshala (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury resort overlooking the Kangra Valley.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Resort Dharamshala / Similar",
+        "location": "Dharamshala (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury resort beneath the Dhauladhar range.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 nights premium family accommodation at handpicked Manali and Dharamshala resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers, valleys & sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Palampur tea estate walk with family artisanal tea tasting session",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Chandigarh",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, adventure gear hire, and local ski/paragliding fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room heaters, and tipping",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Kangra Fort guide fees and optional toy train or pony ride charges",
+        "sort_order": 10
+      }
+    ]
+  }
+}

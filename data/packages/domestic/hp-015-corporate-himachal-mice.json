@@ -1,0 +1,240 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-015-corporate-himachal-mice",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Corporate Himachal — Elevation, Leadership & Synergy",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 16,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "State-of-the-art conference facilities with mountain-view presentation halls in Shimla",
+        "sort_order": 1
+      },
+      {
+        "text": "Curated team-building challenges at Kufri meadows & Mashobra forest ropes course",
+        "sort_order": 2
+      },
+      {
+        "text": "Executive networking cocktail terrace with sunset Himalayan panoramas",
+        "sort_order": 3
+      },
+      {
+        "text": "Gala dinner ballroom with live entertainment and bespoke corporate branding",
+        "sort_order": 4
+      },
+      {
+        "text": "Leadership workshop modules amid cedar forests — elevation meets inspiration",
+        "sort_order": 5
+      },
+      {
+        "text": "Dedicated MICE event manager with TRAGUIN 24/7 corporate concierge support",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "Luxury",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-015-corporate-himachal-itinerary",
+    "title": "Corporate Himachal — Elevation, Leadership & Synergy",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Elevation, Leadership & Synergy",
+    "overview": "TRAGUIN's Corporate Himachal MICE retreat transforms Shimla's mountain grandeur into a catalyst for leadership, team synergy, and strategic alignment. Three nights at a premium convention resort feature state-of-the-art conference halls, curated team-building at Kufri and Mashobra, executive networking cocktails, and a gala dinner ballroom — all with dedicated MICE event management and 24/7 corporate concierge support.",
+    "is_featured": true,
+    "featured_sort_order": 16,
+    "seo_title": "HP-015 | Corporate Himachal MICE Retreat | TRAGUIN Premium Events",
+    "seo_description": "Premium 03 Nights / 04 Days corporate MICE package (HP-015) in Shimla with conference facilities, team-building at Kufri and Mashobra, gala dinner, and executive networking. Ideal for corporate retreats, leadership offsites, and incentive travel.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Mountain-View Conference Hall",
+        "sort_order": 1
+      },
+      {
+        "text": "Kufri Team-Building Challenge",
+        "sort_order": 2
+      },
+      {
+        "text": "Mashobra Leadership Workshop",
+        "sort_order": 3
+      },
+      {
+        "text": "Executive Networking Cocktail",
+        "sort_order": 4
+      },
+      {
+        "text": "Gala Dinner Ballroom Event",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Conference Kickoff, Shimla",
+        "description": "Your corporate retreat begins with a professional TRAGUIN welcome at Chandigarh Airport or Railway Station. Transfer to your premium convention resort in Shimla, check in, and commence the opening conference session in a state-of-the-art mountain-view presentation hall.",
+        "activities": [
+          "Conference Included: Welcome address, opening keynote session, and breakout room allocation",
+          "Evening Experience: Executive networking cocktail on the terrace with Himalayan sunset views",
+          "Overnight Stay: Shimla (Premium Convention Resort)",
+          "Meals Included: Working lunch, coffee breaks & welcome dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Team Building at Kufri & Mashobra",
+        "description": "A full day of curated outdoor team-building activities. Morning challenges at Kufri meadows include group adventure races and collaborative problem-solving. Afternoon leadership workshop modules amid Mashobra's cedar forests with ropes course elements.",
+        "activities": [
+          "Team Building Included: Kufri group adventure challenge, Mashobra forest ropes course, leadership workshop modules",
+          "Evening Experience: Debrief session and team celebration dinner with live mountain music",
+          "Overnight Stay: Shimla (Premium Convention Resort)",
+          "Meals Included: Breakfast, outdoor BBQ lunch & celebration dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Strategy Sessions & Gala Dinner",
+        "description": "Morning strategy and alignment sessions in the conference hall with dedicated AV support and breakout rooms. Afternoon free time for Mall Road networking walks. Evening gala dinner in the resort ballroom with bespoke corporate branding and live entertainment.",
+        "activities": [
+          "Conference Included: Strategy alignment sessions, breakout workshops, closing presentations",
+          "Evening Experience: Gala dinner ballroom event with live entertainment and awards ceremony",
+          "Overnight Stay: Shimla (Premium Convention Resort)",
+          "Meals Included: Breakfast, working lunch & gala dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Shimla to Chandigarh / Departure",
+        "description": "Enjoy a final breakfast and closing remarks before your private luxury coaches transfer the team to Chandigarh Airport or Railway Station with renewed synergy and leadership clarity.",
+        "activities": [
+          "Transfers Included: Private luxury coach or sedan fleet to Chandigarh Airport / Railway Station",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Combermere / Similar",
+        "location": "Shimla (3N)",
+        "nights_label": "03 Nights",
+        "description": "Deluxe convention hotel with meeting rooms in Shimla.",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla / Similar",
+        "location": "Shimla (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium hill resort with conference facilities.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Cecil — Oberoi / Similar",
+        "location": "Shimla (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury heritage hotel with ballroom event space.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi Resort / Similar",
+        "location": "Shimla (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury resort with private conference pavilion.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 nights premium convention resort accommodation in Shimla for all delegates",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfasts, working lunches, coffee breaks, and gala dinner (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "State-of-the-art conference hall with AV equipment, breakout rooms, and Wi-Fi",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated TRAGUIN MICE event manager and 24/7 corporate concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Curated Kufri team-building and Mashobra leadership workshop with professional facilitators",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury coach or sedan fleet transfers from Chandigarh and all local sightseeing",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Chandigarh for delegates",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Gala dinner premium branding, custom staging, and live entertainment upgrades",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Alcoholic beverages beyond welcome cocktail reception",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, and individual tipping",
+        "sort_order": 10
+      }
+    ]
+  }
+}

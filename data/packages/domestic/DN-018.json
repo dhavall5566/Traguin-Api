@@ -1,0 +1,301 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-018-family-leisure",
+    "serial_code": "DN-018",
+    "traguin_tour_code": "TG-DN-018-FAM",
+    "title": "Family Leisure",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-018 | TRAGUIN tour code TG-DN-018-FAM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli & Daman / India | Category: Family Leisure Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Daman Beaches • Khanvel",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Multi-Generational Groups",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Family FIT Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium, spacious AC Innova Crysta throughout the journey",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (All Breakfasts & Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi/Surat Arrival → Silvassa (2N) → Khanvel Excursion → Daman Beaches (2N) → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A beautiful private sunset high-tea lounge experience custom set up right on the sands of Daman for your family",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli Tribal Art pieces, Colonial Leather Crafts, Sea-Shell Souvenirs",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 13:00 or 14:00 hrs, check-out 11:00 AM; beach sports subject to tide and weather conditions",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Beach",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-018-family-leisure-itinerary",
+    "title": "Family Leisure",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Silvassa Wildlife • Khanvel Gardens • Devka & Jampore Beaches",
+    "overview": "Discover a wonderful mixture of lush greenery, Portuguese history, and serene coastlines. This customized signature itinerary by TRAGUIN is carefully designed for families seeking a premium escape from city life. From the dense green forests, deer parks, and tribal heritage museums of Silvassa to the grand, golden sands and historical forts of Daman, we ensure your family experiences premium stays, curated experiences, and absolute comfort.\n\nOur Dadra and Nagar Haveli Family Tour brings you the absolute best of two diverse worlds—the tranquil nature of Silvassa and the scenic beaches of Daman.\n\nTRAGUIN Curated Touch: Private beach-side family high-tea setup, VIP entries to lion safaris, and handpicked rooms featuring private balconies.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-018 | Family Leisure | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Dadra and Nagar Haveli package (DN-018 / TG-DN-018-FAM): Vanganga Lake, Vasona Lion Safari, Satmaliya Deer Park, Nakshatra Garden, Jampore Beach, Moti Daman Fort, Devka Beach",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vanganga Lake Garden & Boating Experience",
+        "sort_order": 1
+      },
+      {
+        "text": "Vasona Lion Safari, Satmaliya Deer Park, Tribal Museum & Swaminarayan Temple",
+        "sort_order": 2
+      },
+      {
+        "text": "Khanvel Nakshatra Garden & Jampore Beach with TRAGUIN beach-side high-tea",
+        "sort_order": 3
+      },
+      {
+        "text": "Moti Daman Fort, Church of Bom Jesus, Nani Daman Fort & Devka Beach Promenade",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset high-tea lounge on Daman sands",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Timed itineraries ideal for multi-generational families",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Welcome to Silvassa – The Green Heart",
+        "description": "Your luxury family holiday begins with a warm welcome by your dedicated TRAGUIN chauffeur at Vapi Railway Station or Surat Airport. Board your premium private vehicle and enjoy a smooth, scenic drive to Silvassa, the green capital of Dadra and Nagar Haveli. Arrive at your luxury riverside resort, check in, and unpack at leisure. In the afternoon, we visit the beautiful Vanganga Lake Garden. This Japanese-style manicured park features charming wooden bridges, floating paddle-boats, and lush lawns perfect for a relaxed family walk. As night falls, return to the resort for an exclusive multi-cuisine dinner.",
+        "activities": [
+          "Sightseeing Included: Vanganga Lake Garden & Boating Experience",
+          "Evening Experience: Traditional welcome non-alcoholic cocktails & resort leisure",
+          "Overnight Stay: Silvassa (Premium Luxury Resort)",
+          "Meals Included: Welcome Family Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Wildlife Safari & Tribal Culture Trails in Silvassa",
+        "description": "Treat your family to an exciting morning after breakfast as we explore the Top Tourist Places in Dadra and Nagar Haveli. Our first stop is the Vasona Lion Safari, where you board a secured park vehicle to spot Asiatic lions roaming in their natural habitat. Next, we head to the Satmaliya Deer Park to see beautiful herds of sambar, chital, and blackbucks. After lunch, visit the Silvassa Tribal Museum to view authentic tribal ornaments, ancient hunting gear, and stunning Warli paintings. Wrap up your afternoon at the grand, intricately carved Swaminarayan Temple, renowned for its peaceful spiritual ambiance and magnificent architecture.",
+        "activities": [
+          "Sightseeing Included: Vasona Lion Safari, Satmaliya Deer Park, Tribal Museum, Swaminarayan Temple",
+          "Photography Points: Lion spotting zones, temple marble facades, Warli wall murals",
+          "Overnight Stay: Silvassa",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Scenic Drive to Daman via Khanvel Lush Valley",
+        "description": "Check out from your resort after breakfast and drive through the beautiful valleys of Khanvel. Stop to visit the Nakshatra Garden, a well-planned astrological park featuring therapeutic medicinal herbs and gorgeous seasonal blooms. Continue your journey to the historic coastal city of Daman. Upon arrival, check in to your premium beachfront resort. The late afternoon is dedicated to exploring Jampore Beach, famous for its firm, dark sands and calm waters. Your family can indulge in optional exciting activities like parasailing, ATV rides, and jet skiing, followed by a complimentary, curated beach-side high-tea experience provided exclusively by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Khanvel Nakshatra Garden, Jampore Beach Sunset Walk",
+          "Evening Experience: Exclusive TRAGUIN Beach-side Family High-Tea setup",
+          "Overnight Stay: Daman (Beachfront Premium Stay)",
+          "Meals Included: Breakfast & Seafood Special Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Portuguese Fort Heritage & Devka Beach Promenade",
+        "description": "Immerse yourself in history today as we explore the ancient architectural wonders of Daman. We visit Moti Daman Fort, an imposing 16th-century Portuguese fortress housing the breathtaking Church of Bom Jesus, famous for its magnificent golden altarpieces and intricate woodwork. Next, explore Nani Daman Fort, which looks over the bustling harbor where traditional fishing boats anchor. Spend your evening at the newly renovated Devka Beach Promenade. Walk along the beautifully illuminated coastal path, let the children play in the amusement parks, and enjoy delicious local street food while listening to the relaxing ocean waves.",
+        "activities": [
+          "Sightseeing Included: Moti Daman Fort, Church of Bom Jesus, Nani Daman Fort, Devka Beach Promenade",
+          "Optional Activities: Duty-free shopping for global premium brands in local markets",
+          "Overnight Stay: Daman",
+          "Meals Included: Breakfast & Farewell Grand Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Farewell Family Memories & Departure",
+        "description": "Enjoy a luxurious beachside breakfast with panoramic ocean views. Spend your morning relaxing by the resort's swimming pool or taking a final stroll along the shore. Check out from your resort by noon, where your professional TRAGUIN chauffeur will assist you with all luggage. Transfer comfortably back to Vapi Railway Station or Surat Airport for your onward journey home, carrying a treasure trove of unforgettable memories from this perfect family combo vacation.",
+        "activities": [
+          "Sightseeing Included: None (Airport/Station transfer only)",
+          "Assistance: Complete baggage handling and exit drop service",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts Silvassa or similar / Hotel Silver Sands Beach Resort",
+        "location": "Silvassa / Daman",
+        "nights_label": "02N Silvassa + 02N Daman",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort Silvassa (Deluxe Wing) / The Deltin Daman (Superior Room)",
+        "location": "Silvassa / Daman",
+        "nights_label": "02N Silvassa + 02N Daman",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Pluz Resort / Khanvel Resort (Suites) / The Gold Beach Resort (Ocean View)",
+        "location": "Silvassa / Daman",
+        "nights_label": "02N Silvassa + 02N Daman",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite / Ocean View",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Luxury Signature Villas / The Deltin (Luxury Presidential Suite)",
+        "location": "Silvassa / Daman",
+        "nights_label": "02N Silvassa + 02N Daman",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Suite",
+        "meal_plan": "All Inclusive Premium",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 Nights luxury accommodation in handpicked family resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium buffet breakfast and lavish dinner menus",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private AC Innova Crysta for all transfers and sightseeing tours",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentarty private family High-Tea experience at Jampore Beach",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Entry passes for Vasona Lion Safari & Vanganga Lake Garden boating",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowance, fuel fees, toll charges, and private parking expenses",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 on-ground TRAGUIN support concierge",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary welcome amenities and refreshing packed juices inside the car",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights / Train tickets to Surat or Vapi",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Beach water sports (parasailing, jet-skiing, ATV rides)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, phone calls, and tips",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Custom alcohol or beverage orders during lunches",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and medical insurance coverages",
+        "sort_order": 13
+      }
+    ]
+  }
+}

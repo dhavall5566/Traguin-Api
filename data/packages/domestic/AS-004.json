@@ -1,0 +1,297 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-004-assam-meghalaya-family-luxury-guwahati-shillong-cherrapunjee",
+    "serial_code": "AS-004",
+    "traguin_tour_code": "TG-ASSAM-SHILLONG-AS004",
+    "title": "TRAGUIN Premium Assam & Meghalaya Tour Package — Family Luxury Combo: Guwahati • Shillong • Cherrapunjee",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-004 | TRAGUIN tour code TG-ASSAM-SHILLONG-AS004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam & Meghalaya, India | Category: Premium Family Luxury Combo",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Shillong • Cherrapunjee",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Family Tour & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Quotation)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Premium Luxury AC SUV (Toyota Innova Crysta) | Meal Plan: MAPAI — Premium Buffet Breakfasts & Gourmet Dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati Arrival ➔ Shillong (3N) ➔ Cherrapunjee Day Excursion ➔ Guwahati (2N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family cruise along the Brahmaputra River with live folk musical performances.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked boutique accommodations verified directly for family safety and high-end comfort.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Dedicated on-ground coordinators to manage ticketing and scheduling fluidly.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Gastronomy: Police Bazar Shillong, Fancy Bazar Guwahati — Muga Silk, bamboo furniture, Khasi spices, Assamese Thali.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Shillong/Cherrapunjee sudden temperature drops; boating subject to weather; book Ri Kynjai 45-60 days ahead.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-004-assam-meghalaya-family-luxury-guwahati-shillong-cherrapunjee-itinerary",
+    "title": "TRAGUIN Premium Assam & Meghalaya Tour Package — Family Luxury Combo: Guwahati • Shillong • Cherrapunjee",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Quotation)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Assam & Meghalaya Family Luxury • Guwahati • Shillong • Cherrapunjee • 05 Nights / 06 Days",
+    "overview": "Experience an extraordinary luxury journey through Northeast India with the signature TRAGUIN Assam & Meghalaya Packages. Meticulously mapped for families seeking high-end convenience alongside raw wilderness, this travel itinerary seamlessly combines the cultural heritage of a Guwahati Family Tour with the majestic, mist-veiled cloudscapes of a Luxury Meghalaya Holiday.\n\nTOUR OVERVIEW\nWelcome to a personalized luxury holiday expertly designed by TRAGUIN. Crafted to serve multi-generational travelers, this premium Guwahati Shillong Combo combines elite private logistics, handpicked hotels, and unique regional discoveries. Proposed Route: Guwahati Arrival ➔ Panoramic Drive to Shillong (3 Nights) ➔ Day Exploration to Cherrapunjee ➔ Return to Guwahati Valley (2 Nights) ➔ Departure Hub. Vehicle Class: Private Premium Luxury Air-Conditioned SUV (Toyota Innova Crysta). Meal Plan: Modified American Plan (MAPAI).\n\nDESTINATION CONTENT & SEO HIGHLIGHTS\nA Guwahati Shillong Family Tour opens the doors to an emerald paradise. Iconic Attractions: Kamakhya Temple, Umananda river island, Nohkalikai Falls, living root structures, Umngot River Dawki, Umiam Lake. Best Time to Visit Assam & Meghalaya: Post-monsoon autumn months introduce crystalline skies and active waterfalls.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-004 | Assam Meghalaya Family Luxury Guwahati Shillong | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Assam & Meghalaya family package (AS-004 / TG-ASSAM-SHILLONG-AS004): Guwahati, Shillong, Cherrapunjee, Brahmaputra cruise, Kamakhya VIP, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Guwahati arrival and scenic ascent to Shillong via Umiam Lake on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Shillong Peak, Elephant Falls, Don Bosco Museum, and Ward's Lake on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Cherrapunjee excursion: Nohkalikai Falls, Mawsmai Cave, Seven Sisters Falls, Eco Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Return to Guwahati with private Brahmaputra sunset cruise on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "VIP Kamakhya Temple, Umananda Island, Srimanta Sankardev Kalakshetra on Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI | SCENIC ASCENT TO THE HILL CAPITAL SHILLONG",
+        "description": "Your family vacation unfolds as you touch down at Lokpriya Gopinath Bordoloi International Airport in Guwahati. A designated TRAGUIN concierge will welcome you warmly at the arrival lounge, presenting traditional silk stoles and chilled refreshments. Step into your premium air-conditioned SUV and begin the smooth, winding drive up toward Shillong. En route, stop by the majestic Umiam Lake, a vast expanse of calm blue water surrounded by hills of pine trees. Take a quiet break at a panoramic view point for specialty teas and family photos. Later, arrive at your premium handpicked hotel in Shillong to settle in for a relaxing evening.",
+        "activities": [
+          "Sightseeing Included: Umiam Lake Panoramic Viewpoint, Pine Valley Drive.",
+          "Optional Activities: Speedboat ride at Umiam Lake (weather permitting).",
+          "Overnight Stay: Handpicked Luxury Resort in Shillong.",
+          "Meals Included: Welcome Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHILLONG SIGHTSEEING | HIGHLAND LAKES, ARCHITECTURE & WATERFALLS",
+        "description": "Wake up to a crisp mountain breeze and a fresh, lavish breakfast spread. Start your day with a drive to Shillong Peak, the highest point in the state, which provides sweeping views of the entire valley below. Next, visit the distinct Elephant Falls, where mountain streams cascade over three tiers of dark rock formations. During the afternoon, explore the renowned Don Bosco Museum to discover the vibrant tribal heritage of Northeast India. Conclude your day with a family walk through the manicured pathways of Ward's Lake, a tranquil oasis in the heart of the town.",
+        "activities": [
+          "Sightseeing Included: Shillong Peak, Elephant Falls, Don Bosco Museum, Ward's Lake.",
+          "Evening Experience: Café hopping and exploring local live music spots.",
+          "Overnight Stay: Handpicked Luxury Resort in Shillong.",
+          "Meals Included: Breakfast & Premium Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "EXCURSION TO CHERRAPUNJEE | LAND OF MEGALITHS & THUNDERING PLUNGE FALLS",
+        "description": "Embark on a day excursion to Cherrapunjee (Sohra), traveling along a scenic highway flanked by deep canyons and mist-shrouded valleys. Witness the remarkable Nohkalikai Falls, India's tallest single-tier plunge waterfall, and capture the deep emerald pool formed at its base. Explore the unique limestone paths inside the well-lit Mawsmai Caves, mapping out a subterranean adventure suitable for all ages. Stand at the edge of Eco Park for views extending out to the floodplains of Bangladesh, before returning to Shillong for the night.",
+        "activities": [
+          "Sightseeing Included: Nohkalikai Falls, Mawsmai Cave, Seven Sisters Falls, Eco Park.",
+          "Photography Points: Duwan Sing Syiem bridge gorge viewpoint.",
+          "Overnight Stay: Handpicked Luxury Resort in Shillong.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SHILLONG TO GUWAHATI | PRIVATE SUNSET RETREAT ON THE BRAHMAPUTRA",
+        "description": "Savor breakfast overlooking the pine forests before beginning your comfortable return drive to the plains of Assam. Upon arrival in Guwahati, check into your high-end urban resort and take some time to unwind. In the late afternoon, enjoy an exclusive experience managed by TRAGUIN: a private sunset cruise along the Brahmaputra River. Relax on the deck as the sun dips below the horizon, while listening to traditional folk instruments and sampling local Assamese delicacies.",
+        "activities": [
+          "Sightseeing Included: Downhill mountain highway drive, Brahmaputra River Cruise.",
+          "Evening Experience: Dinner and live cultural performances onboard.",
+          "Overnight Stay: Premium Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Cruise Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "GUWAHATI CITADEL | SPIRITUAL BLISS & EXQUISITE GOLDEN SILK",
+        "description": "Begin your morning with a premium spiritual experience. TRAGUIN experts will guide your family through a fast-tracked, hassle-free VIP visit to the revered Kamakhya Temple atop Nilachal Hills. Take in the rich heritage and architectural layout of this ancient destination. Later, step aboard a speed ferry to visit the Umananda Temple, located on the smallest inhabited river island in the world. Spend your afternoon visiting regional craft markets to learn about Assam's prized Muga and Assam Orthodox tea varieties.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple (VIP Access), Umananda Island, Srimanta Sankardev Kalakshetra.",
+          "Local Experience: High tea featuring curated local Assam orthodox leaf blends.",
+          "Overnight Stay: Premium Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Grand Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE FROM GUWAHATI | CHERISHED FAMILY MEMORIES",
+        "description": "Enjoy your final breakfast at the hotel restaurant. Take a few moments for any last-minute souvenir shopping or to pack your regional keepsakes. At the scheduled hour, your private chauffeur will drive you comfortably to Guwahati International Airport for your flight home, concluding an exceptional holiday managed end-to-end by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Airport Transit Route.",
+          "Meals Included: International Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Polo Towers / Landmark Hills | Kiranshree Grand / Grand Majesty",
+        "location": "Shillong (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Polo Towers / Landmark Hills (Shillong, 3 Nights) | Kiranshree Grand / Grand Majesty (Guwahati, 2 Nights) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Moolchand Resorts / Pinewood Hotel | Novotel Guwahati GS Road",
+        "location": "Shillong (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Moolchand Resorts / Pinewood Hotel (Shillong, 3 Nights) | Novotel Guwahati GS Road (Guwahati, 2 Nights) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Ri Kynjai - Serenity By The Lake | Radisson Blu Hotel Guwahati",
+        "location": "Shillong (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Ri Kynjai - Serenity By The Lake (Shillong, 3 Nights) | Radisson Blu Hotel Guwahati (Guwahati, 2 Nights) | Gourmet MAP Plan",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Gourmet MAP Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Ri Kynjai (Luxury Cottages) | Vivanta Guwahati (Taj Group)",
+        "location": "Shillong (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Ri Kynjai Luxury Cottages (Shillong, 3 Nights) | Vivanta Guwahati Taj Group (Guwahati, 2 Nights) | Bespoke Dining Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Cottage / Suite",
+        "meal_plan": "Bespoke Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Curated twin/triple sharing options across verified luxury hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Fleet Transport: Entire itinerary managed via a private, air-conditioned Toyota Innova Crysta.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Meal Package: 5 premium breakfasts and 5 chef-curated specialty dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized welcome setup including local silk stoles and signature refreshments.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private sunset cruise along the Brahmaputra River and fast-tracked VIP temple access.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest support and localized coordination throughout your stay.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights / Rail: Airfare or train tickets to and from Guwahati Hub.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry Tickets: Camera permits or personal local guide allocations at monuments.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry service, room service orders, or specialty beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Activities: Water sports at Umiam Lake or zip-lining excursions in Cherrapunjee.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Travel or health insurance coverage.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

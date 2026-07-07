@@ -1,0 +1,351 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-009-senior-citizen-kumarakom-relaxed",
+    "serial_code": "KL-009",
+    "traguin_tour_code": "TRAGUIN-KL-SR-009",
+    "title": "Cochin • Munnar • Kumarakom • Alleppey — Relax Kerala Passage",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-009 | TRAGUIN tour code TRAGUIN-KL-SR-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Senior Citizen Relaxed",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Cochin • Munnar • Kumarakom • Alleppey",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Seniors, Elders & Relaxed Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Breeze)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: Premium Luxury Tier (On Request)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Ultra-Comfortable Full- Sized Luxury Captain- Seat Van",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN experts.",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A thoroughly personalized, stress-free travel plan designed",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked properties featuring elevators, flat walkways, excellent",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Luxury Proposals | Senior Citizens Special",
+        "sort_order": 11
+      },
+      {
+        "text": "& RESORT POLICIES",
+        "sort_order": 12
+      },
+      {
+        "text": "Check-In/Check-Out: Standard check-in is at 14:00 hrs and check-out is at 11:00 hrs. Early access can be requested",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Wellness"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-009-senior-citizen-kumarakom-relaxed-itinerary",
+    "title": "Cochin • Munnar • Kumarakom • Alleppey — Relax Kerala Passage",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "Premium Luxury Tier (On Request)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Cochin",
+    "overview": "Welcome to a gracefully paced, ultra-comfortable journey through God’s Own Country, uniquely designed and masterfully curated by TRAGUIN. This \"Relax Kerala\" passage is purposefully designed for senior citizens and discerning travelers who appreciate premium stays, majestic vistas, and immersive experiences without any rushed schedules. From slow-paced walks among the tea gardens of Munnar to the therapeutic breeze over the backwaters of Kumarakom and Alleppey, every aspect focuses on ease, accessibility, and luxury. Let TRAGUIN take care of all details while you make unforgettable memories in complete comfort.\n\nTOUR OVERVIEW\nThis elite itinerary operates as a private, high-end FIT tour designed specifically to ensure zero fatigue, minimal walking stress, and maximum luxury for our senior guests. Traveling via a premium, extra-cushioned vehicle with an experienced, highly courteous personal chauffeur, your route bypasses difficult terrains in favor of smooth, scenic beauty. Route Map: Cochin Arrival ➔ Munnar (2 Nights) ➔ Kumarakom Backwater Resort (2 Nights) ➔ Alleppey Day Cruise ➔ Cochin (1 Night & Departure) Meal Plan: Premium MAPAI (Sumptuous Breakfast & Custom Low-Spice Gourmet Dinners included; Full Board on Cruise) TRAGUIN Luxury Proposals | Senior Citizens Special TRAGUIN Curated Experience Note: Features step-free or ground-floor luxury room assignments, light traditional Ayurvedic oil treatments, highly flexible departure timings, wheel-chair accessibility options at major sights, and round-the- clock remote concierge care.\n\nWhy Choose the Best Kerala Tour Package for Seniors? Kerala is highly searched as a safe, peaceful, and\nclean haven for elderly travelers. A tailored Kerala Family Tour or a dedicated Premium Kerala Experience guarantees a perfect blend of slow exploration and absolute physical comfort. While a Kerala Honeymoon Package captures romance, our custom senior-citizen layout provides deep relaxation, clean traditional food, and accessible paths. Top Tourist Places in Kerala & Iconic Attractions: This custom package features access to world-famous sites such as the beautiful Mattupetty Lake, the historical Fort Cochin colonial quarters, the relaxing bird sanctuaries of Kumarakom, and the smooth, historic Chinese Fishing Nets. Most Searched Experiences & Popular Instagram Locations: Take stunning family and couple portraits against the majestic backdrop of tea plantations without steep climbing, enjoy a relaxing afternoon tea on a classic luxury houseboat cruise, or witness a private, seated Kathakali cultural show. This Luxury Kerala Holiday focuses heavily on serene lakeside properties, mild aromatic spice garden walks, handloom shopping, and fresh, easily digestible local dishes. Best Time to Visit Kerala: For senior travelers, the ideal months are from mid-October to early March when humidity levels drop and a gentle, pleasant breeze blows across the backwater lagoons. TRAGUIN Luxury Proposals | Senior Citizens Special DAY WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-009 | Cochin | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Kerala package (KL-009 / TRAGUIN-KL-SR-009): Cochin • Munnar • Kumarakom • Alleppey with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: COCHIN TO MUNNAR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MUNNAR HILLS EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MUNNAR TO KUMARAKOM",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: KUMARAKOM LAKESIDE SERENITY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: ALLEPPEY CRUISE TO COCHIN",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: COCHIN DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN experts.",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A thoroughly personalized, stress-free travel plan designed",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked properties featuring elevators, flat walkways, excellent",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN TO MUNNAR",
+        "description": "WARM WELCOME AT COCHIN & SMOOTH DRIVE TO THE MIST-KISSED HILLS OF MUNNAR Your wonderful journey begins with a smooth arrival at Cochin International Airport, where a dedicated TRAGUIN guest relations officer will welcome you with fresh flower garlands. Step into a spacious, premium luxury vehicle featuring wide doors, step-stools, and captain-style seats. As you begin your smooth road trip toward Munnar, enjoy the changing scenery of rubber plantations and rolling hills. The drive features pre-mapped stops at scenic spots. Pause by the roadside to admire the beautiful Cheeyappara Waterfalls without needing to walk far. Arrive at your luxury mountain resort, check into your easily accessible room, and enjoy a warm cup of herbal tea while taking in the fresh mountain air.",
+        "activities": [
+          "Sightseeing Included: Roadside views of Cheeyappara & Valara Falls, Western Ghats Scenic Drive.",
+          "Evening Experience: A relaxed evening at the resort garden terrace with light classical flute music.",
+          "Overnight Stay: Handpicked Senior-Friendly Luxury Resort in Munnar.",
+          "Meals Included: Custom Gourmet Dinner (Mild Spices)."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MUNNAR HILLS EXPLORATION",
+        "description": "TEA GARDEN PANORAMAS, GENTLE LAKES & REFRESHING MOUNTAIN BREEZE Enjoy a relaxed morning breakfast overlooking the mist-filled valley. Today’s gentle Munnar Sightseeing tour avoids steep walking paths. Relax in your premium vehicle as you drive past expansive emerald tea estates. Stop at the calm Mattupetty Dam, where you can admire the lakeside view right from the promenade. Later, visit a historical tea museum featuring flat entry walkways, and watch an interesting film on how Munnar became a premier hill destination. In the afternoon, enjoy a flat, curated walk through a beautifully maintained organic spice and tea nursery, perfect for capturing memorable photos. methods. TRAGUIN Luxury Proposals | Senior Citizens Special",
+        "activities": [
+          "Sightseeing Included: Mattupetty Dam viewpoint, Echo Point flat trail, Tea Museum, Lockhart Garden Gallery.",
+          "Optional Activities: A mild, refreshing Ayurvedic foot reflexology treatment at the resort wellness center.",
+          "Evening Experience: A private interactive session with a local tea master demonstrating artisanal brewing",
+          "Overnight Stay: Handpicked Senior-Friendly Luxury Resort in Munnar.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MUNNAR TO KUMARAKOM",
+        "description": "DESCENT TO THE TRANQUIL LAKES AND PRESTIGIOUS RESORTS OF KUMARAKOM After a leisurely breakfast, check out of your resort. Your professional chauffeur will carefully guide the luxury vehicle down the smooth slopes toward Kumarakom, a peaceful destination located on the banks of Vembanad Lake. Arrive by afternoon at your luxury waterfront resort, famous for its senior-friendly layouts and flat walking paths. Check into your premium room or cottage. Spend the afternoon relaxing under shady coconut palms, listening to the gentle lapping of the lake waters, or watching local houseboats glide across the horizon. relaxation. onboard.",
+        "activities": [
+          "Sightseeing Included: Scenic downhill drive, Kumarakom Lake Vistas.",
+          "Optional Activities: A gentle, authentic Ayurvedic full-body rejuvenation massage focusing on joint comfort and",
+          "Evening Experience: Relaxing sunset boat cruise directly from the resort jetty with traditional light snacks",
+          "Overnight Stay: Premium Waterfront Luxury Resort in Kumarakom.",
+          "Meals Included: Breakfast & Lakeside Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KUMARAKOM LAKESIDE SERENITY",
+        "description": "DAY OF ABSOLUTE REST, EXQUISITE BIRD SIGHTINGS & LAKESIDE MINDFULNESS A completely relaxed day designed to ensure you feel refreshed and rejuvenated. Wake up early for an optional, gentle chair-yoga or breathing session guided by an expert instructor. Enjoy a long breakfast featuring fresh tropical fruits and customized local specialties. In the afternoon, enjoy a short, electric-golf-cart tour of your expansive resort property, stopping to admire beautiful lotus ponds. Spend time relaxing with a book by the water, or take a gentle stroll around the resort's private walkways. TRAGUIN Luxury Proposals | Senior Citizens Special",
+        "activities": [
+          "Sightseeing Included: Kumarakom Bird Sanctuary entry (accessible flat paths or golf-cart views where available).",
+          "Optional Activities: Pottery making, traditional indoor games, or a consultation with a traditional wellness expert.",
+          "Evening Experience: Watch a classic Kathakali dance performance from comfortable, reserved front-row seats.",
+          "Overnight Stay: Premium Waterfront Luxury Resort in Kumarakom.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "ALLEPPEY CRUISE TO COCHIN",
+        "description": "PREMIUM LUXURY ALLEPPEY HOUSEBOAT DAY CRUISE & HISTORIC COCHIN RETREAT After breakfast, take a short, comfortable drive to the nearby Alleppey boarding point. Step onto an exclusive, ultra-luxury private houseboat for a premium day cruise along the famous backwaters. The houseboat features single-level flat decks, wide seating areas, and fully air-conditioned interiors. Relax in comfort as the boat glides smoothly past peaceful water villages, historic churches, and vast paddy fields. Enjoy a freshly prepared, mild lunch curated by your onboard chef. In the afternoon, disembark and drive to your heritage hotel in Fort Cochin for a relaxed final evening. beach promenade.",
+        "activities": [
+          "Sightseeing Included: 4-Hour Exclusive Backwater Cruise, Alleppey Lagoons, Fort Cochin Heritage Drive.",
+          "Evening Experience: A relaxed stroll to see the historic Chinese Fishing Nets at sunset, directly from the paved",
+          "Overnight Stay: Premium Heritage Luxury Hotel in Cochin.",
+          "Meals Included: Breakfast, Traditional Houseboat Lunch & Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "COCHIN DEPARTURE",
+        "description": "FOND MEMORIES & A COMFORTABLE FAREWELL JOURNEY HOME Enjoy a relaxed breakfast at your heritage hotel. Depending on your flight schedule, take a smooth drive through Cochin’s old quarters. Stop at a luxury boutique center to purchase high-quality souvenirs such as premium handwoven shawls, local tea blends, or pure aromatic spices. Your dedicated TRAGUIN chauffeur will ensure a comfortable transfer to Cochin International Airport, assisting with your luggage to guarantee a smooth and stress-free journey home.",
+        "activities": [
+          "Sightseeing Included: Flexible morning drive through Fort Cochin or localized boutique shopping.",
+          "Meals Included: Premium Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fog Munnar (Ground Floor Valley) | Abad Whispering Palms (Garden Room) | Trident Cochin (Accessible Superior)",
+        "location": "Munnar | Kumarakom | Cochin",
+        "nights_label": "2N Munnar|2N Kumarakom|1N Cochin",
+        "description": "OPTION 01 – DELUXE: The Fog Munnar (Ground Floor Valley) | Abad Whispering Palms (Garden Room) | Trident Cochin (Accessible Superior) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel & Spa (Executive Suite) | Kumarakom Lake Resort (Luxury Pavilion) | Fragrant Nature Cochin (Executive Room)",
+        "location": "Munnar | Kumarakom | Cochin",
+        "nights_label": "2N Munnar|2N Kumarakom|1N Cochin",
+        "description": "OPTION 02 – PREMIUM: Blanket Hotel & Spa (Executive Suite) | Kumarakom Lake Resort (Luxury Pavilion) | Fragrant Nature Cochin (Executive Room) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandy's Windy Woods (Premium Suite) | The Zuri Kumarakom (Waterfront Villa) | Brunton Boatyard (Heritage Room)",
+        "location": "Munnar | Kumarakom | Cochin",
+        "nights_label": "2N Munnar|2N Kumarakom|1N Cochin",
+        "description": "OPTION 03 – LUXURY: Chandy's Windy Woods (Premium Suite) | The Zuri Kumarakom (Waterfront Villa) | Brunton Boatyard (Heritage Room) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Panoramic Getaway (Elite Suite) | Niraamaya Retreats Backwaters & Beyond | The Malabar House (Grand Premium Suite)",
+        "location": "Munnar | Kumarakom | Cochin",
+        "nights_label": "2N Munnar|2N Kumarakom|1N Cochin",
+        "description": "OPTION 04 – ULTRA LUXURY: The Panoramic Getaway (Elite Suite) | Niraamaya Retreats Backwaters & Beyond | The Malabar House (Grand Premium Suite) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Daily breakfasts and custom low-spice dinners at all resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "A private 4-hour luxury Alleppey Houseboat day cruise with a custom lunch.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "A premium, extra-comfortable luxury vehicle with captain seating for all transport.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "An experienced, highly patient personal chauffeur trained for senior guest care.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary traditional welcome amenities and healthy wellness drinks.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "A complimentary relaxing sunset cruise on Vembanad Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All fuel costs, road tolls, parking fees, and driver allowances.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated remote concierge support from TRAGUIN experts.",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "Airfares, airport taxes, and train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Luxury hotel stays with step-free or easily accessible ground-floor rooms.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets for monuments, historical palaces, or national parks.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, and mineral water.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional specialized medical, travel, or luggage insurance.",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional heavy treks or extra intensive spa therapies.",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "Any camera or professional video equipment entry fees.",
+        "sort_order": 15
+      },
+      {
+        "kind": "excluded",
+        "text": "GST, TCS, or any additional government regulatory taxes.",
+        "sort_order": 16
+      },
+      {
+        "kind": "excluded",
+        "text": "TRAGUIN Signature Experience: A thoroughly personalized, stress-free travel plan designed specifically for senior citizens and elderly couples.",
+        "sort_order": 17
+      },
+      {
+        "kind": "excluded",
+        "text": "✦ Curated by TRAGUIN Experts: Handpicked properties featuring elevators, flat walkways, excellent medical access, and exceptional hospitality standards.",
+        "sort_order": 18
+      }
+    ]
+  }
+}

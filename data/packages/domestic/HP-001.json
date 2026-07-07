@@ -1,0 +1,281 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-001-shimla-delight-family-getaway",
+    "serial_code": "HP-001",
+    "traguin_tour_code": "TRAGUIN-HP-SHIMLA-001",
+    "title": "Shimla Delight Family Getaway",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-001 | TRAGUIN tour code TRAGUIN-HP-SHIMLA-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Family Vacation / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Kufri • Mashobra",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family, Honeymoon & Leisure Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & October to February",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier) TOUR CODE: TRAGUIN-HP-SHIMLA-001 Welcome to an enchanting escape into the majestic Himalayas with the premier TRAGUIN Himachal Pradesh Tour Package. Specially curated for discerning travelers, this bespoke itinerary invites your family to rediscover the timeless charm of Shimla, the legendary 'Queen of Hills'. Immerse yourselves in breathtaking landscapes, mist-laden valleys, and a premium travel lifestyle meticulously engineered by the holiday architects at TRAGUIN. Every detail is crafted to evoke emotional bliss and forge unforgettable memories amidst pristine alpine nature.",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Chandigarh → Shimla → Kufri → Chail → Chandigarh",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private bonfire night under the stars with customized regional live",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by Experts: Perfectly timed routes designed to bypass crowded tourist choke points.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Every property is thoroughly checked for hygiene, security, and world-",
+        "sort_order": 11
+      },
+      {
+        "text": "Luxury Transportation: Elite fleet of perfectly maintained vehicles driven by certified professional",
+        "sort_order": 12
+      },
+      {
+        "text": "HOTSPOTS Take home the distinct spirit of the hills by purchasing gorgeous hand-woven Himachali shawls, beautiful wooden toys from Lakkar Bazar, and local pure saffron. For food enthusiasts, we highly recommend trying the traditional slow-cooked feast called Siddu served with rich clarified butter, or stopping at the historic Café Sol on Mall Road for authentic global flavors paired with breathtaking valley views.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-001-shimla-delight-family-getaway-itinerary",
+    "title": "Shimla Delight Family Getaway",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier) TOUR CODE: TRAGUIN-HP-SHIMLA-001 Welcome to an enchanting escape into the majestic Himalayas with the premier TRAGUIN Himachal Pradesh Tour Package. Specially curated for discerning travelers, this bespoke itinerary invites your family to rediscover the timeless charm of Shimla, the legendary 'Queen of Hills'. Immerse yourselves in breathtaking landscapes, mist-laden valleys, and a premium travel lifestyle meticulously engineered by the holiday architects at TRAGUIN. Every detail is crafted to evoke emotional bliss and forge unforgettable memories amidst pristine alpine nature.",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Shimla Delight Family Getaway",
+    "overview": "TOUR OVERVIEW\nTravel Mode: Free Independent Traveler (FIT) / Private Family Tour Vehicle Assigned: Premium Luxury Sedan / SUV (Innova Crysta) Meal Plan: Modified American Plan (MAPAI - Breakfast & Dinner) Route Plan: Chandigarh → Shimla → Kufri → Chail → Chandigarh TRAGUIN Curated Experience Note: This premium tour includes handpicked boutique luxury resorts, exclusive personalized local assistance, a professional uniform-wearing chauffeur experienced in mountain terrains, and surprise value-added family amenities seamlessly coordinated by your dedicated TRAGUIN concierge support specialist.\n\nWHY CHOOSE A LUXURY SHIMLA FAMILY TOUR?\nShimla remains India's ultimate holiday sanctuary, widely searched as the Best Himachal Pradesh Tour Package for generations. It boasts a beautiful synthesis of colonial architecture, spiritual heritage, and untouched ecological wonders. Famous attractions like the Ridge, Mall Road, Jakhoo Temple, and the serene slopes of Kufri represent the most searched experiences in the region. Whether you are looking for the quintessential Himachal Pradesh Honeymoon Package or a wholesome Himachal Family Tour, this region delivers unmatched scenic beauty, vibrant shopping at local bazaars, and countless popular Instagram locations perfect for capturing timeless family moments.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-001 | Shimla Delight Family Getaway | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Himachal Pradesh package (HP-001 / TRAGUIN-HP-SHIMLA-001): Shimla • Kufri • Mashobra with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL & SCENIC FOOTHILL DRIVE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: ALPINE ADVENTURES & WILDLIFE WONDERS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: COLONIAL ROMANCE & HERITAGE TRAILS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: FAREWELL TO THE MOUNTAINS",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private bonfire night under the stars with customized regional live",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by Experts: Perfectly timed routes designed to bypass crowded tourist choke points.",
+        "sort_order": 6
+      },
+      {
+        "text": "Premium Handpicked Hotels: Every property is thoroughly checked for hygiene, security, and world-",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & SCENIC FOOTHILL DRIVE",
+        "description": "CHANDIGARH TO SHIMLA – GATEWAY TO THE QUEEN OF HILLS Your extraordinary mountain vacation begins with a warm royal welcome upon your arrival at Chandigarh Airport or Railway Station. Meet your dedicated luxury chauffeur who will escort your family to a plush, temperature-controlled private vehicle. Embark on a spectacular, highly photogenic uphill drive toward Shimla. As the plains transition into rolling lush green hills, notice the crisp pine-scented air revitalizing your senses. Along the way, we pause for an immersive experience at the Timber Trail Parwanoo, where a thrilling optional cable car ride treats your family to majestic panoramic views of deep valleys. Capture beautiful photographs against a backdrop of mist-shrouded orchards. Arrive in Shimla by late afternoon and check into your handpicked premium luxury resort, where a refreshing welcome drink awaits you. Spend a relaxing evening adapting to the pleasant mountain climate. peaks.",
+        "activities": [
+          "Sightseeing Included: Scenic drive via Pinjore & Parwanoo valleys, Timber Trail viewpoints, Sunset",
+          "photography points: .",
+          "Optional Activities: Cable car ride at Parwanoo, traditional Himachali tea tasting session en-route.",
+          "Evening Experience: Leisurely exploration of premium resort amenities, high tea overlooking snow-capped",
+          "Overnight Stay: Premium Luxury Resort / Hotel in Shimla",
+          "Meals Included: Gourmet Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "ALPINE ADVENTURES & WILDLIFE WONDERS",
+        "description": "EXCURSION TO KUFRI & MASHOBRA – BREATHLESS LANDSCAPES & PEAKS Wake up to a gorgeous sunrise framing the snow-laden Himalayan ranges. After a sumptuous multi-cuisine breakfast, proceed for a highly engaging excursion to Kufri, globally celebrated as one of the Top Tourist Places in Himachal Pradesh. Travel through beautiful, winding trails enveloped by dense cedar forests. Arrive at the Kufri Fun World and Adventure Park, where your family can indulge in safe, thrilling alpine sports. Embark on a traditional horse-back ride up to the Mahasu Peak, navigating scenic forest paths to witness an uninterrupted view of the mighty Himalayan ranges. Next, visit the Himalayan Nature Park to spot rare species like the elusive Snow Leopard, Musk Deer, and Monal pheasants—a phenomenal highlight for children. On your return, explore the serene valley of Mashobra, a premium Instagram location renowned for its untouched pine wilderness and pristine quietude, offering unparalleled opportunities for family portraits. glades. photography. baskets.",
+        "activities": [
+          "Sightseeing Included: Kufri Valley Viewpoint, Mahasu Peak, Himalayan Nature Park, Mashobra green",
+          "Optional Activities: Yak riding, dynamic zip-lining, ski-simulator rides, and professional mountain",
+          "Evening Experience: Relaxing evening walk through evergreen cedar groves with customized luxury picnic",
+          "Overnight Stay: Premium Luxury Resort / Hotel in Shimla",
+          "Meals Included: International Breakfast & Gourmet Buffet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "COLONIAL ROMANCE & HERITAGE TRAILS",
+        "description": "SHIMLA SIGHTSEEING – HISTORIC MALL ROAD, THE RIDGE & JAKHOO HILL Dedicate this day to exploring the legendary soul of the capital town. Following an exquisite breakfast, your Shimla Sightseeing journey starts at the grand Viceregal Lodge (Rashtrapati Niwas), an architectural masterwork of British heritage featuring sprawling manicured English gardens. Next, enjoy a short, scenic trek or a premium ropeway cabin ride up to the iconic Jakhoo Temple, perched atop Shimla's highest peak at 8,050 feet. Be greeted by the majestic 108-foot Hanuman statue guarding the valley. In the afternoon, descend to the pedestrian-only paradise of The Ridge and Mall Road. Stroll past landmark structures including the neo-Gothic Christ Church, Gaiety Theatre, and the bustling Scandal Point. Enjoy premium family shopping for authentic wooden crafts, warm Pashmina shawls, and locally produced Himachali fruit preserves. Conclude your day with a memorable family dinner at a classic heritage café overlooking the glittering lights of the hill town. Point. sessions.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge, Jakhoo Temple, Christ Church, The Ridge, Mall Road, Scandal",
+          "Optional Activities: Private guided heritage walk, old-town street food tasting, colonial attire photo",
+          "Evening Experience: Sunset strolling at the Ridge followed by luxury café hopping along the Mall Road.",
+          "Overnight Stay: Premium Luxury Resort / Hotel in Shimla",
+          "Meals Included: International Breakfast & Gourmet Buffet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "FAREWELL TO THE MOUNTAINS",
+        "description": "SHIMLA TO CHANDIGARH – DEPARTURE WITH FOREVER MEMORIES Savor your final gourmet breakfast overlooking the peaceful valleys of Shimla. Relish the peaceful mountain atmosphere one last time before completing your smooth resort checkout. Your private luxury chauffeur will safely drive your family back down the picturesque foothills to Chandigarh. If time permits, enjoy a brief stopover at the beautifully sculpted Rock Garden or take a calming boat ride at Sukhna Lake in Chandigarh. Conclude your premium holiday as you are chauffeured to Chandigarh Airport or Railway Station for your journey home. Your signature TRAGUIN curated experience draws to a close, leaving your family with beautifully enriched hearts, renewed bonds, and unforgettable memories of a magical Himalayan retreat. Lake if time permits).",
+        "activities": [
+          "Sightseeing Included: Scenic downhill mountain drive, Chandigarh city highlights (Rock Garden/Sukhna",
+          "Optional Activities: Souvenir shopping at local cooperative emporiums during transit.",
+          "Meals Included: International Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / Similar",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Willow Banks / Similar | Deluxe Valley View Room | MAPAI",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Valley View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla / Similar",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Hotel Shimla / Similar | Premium Balcony Room | MAPAI",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Balcony Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil / Similar",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Oberoi Cecil / Similar | Luxury Suite | MAPAI",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall, An Oberoi Resort",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Wildflower Hall, An Oberoi Resort | Premier Mountain View Suite | Bespoke MAPAI",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Mountain View Suite",
+        "meal_plan": "Bespoke Signature MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Airfare / Train Tickets: Main commercial flights or interstate train connections to/from Chandigarh. Page 6 of 8",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Entry Tickets & Monuments: Entry fees to historical sites, Jakhoo ropeway, and local amusement parks.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Personal Expenses: Laundry services, telephone calls, alcoholic beverages, and traditional porter tips.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Adventure Activities: Horse riding, skiing gear rentals, and optional professional tour guides.",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Luxury Accommodation: 03 Nights stay at premium handpicked hotels based on your selected tier selection.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Premium Meal Plan: Daily lavish breakfasts and chef-crafted buffet dinners at the resorts.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Private Chauffeur: AC Innova Crysta / Luxury Sedan for all transfers, excursions, and intercity travel.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Welcome Amenities: Personalized mocktails and signature Himachali fruit basket upon arrival.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "TRAGUIN Support: 24/7 dedicated digital concierge support and professional roadside assistance.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance & Taxes: Comprehensive travel health insurance policies and incremental personal items.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "destination_slug": "lakshadweep",
+  "package": {
+    "slug": "lk-005-scuba-ultra-adventure-package",
+    "serial_code": "LK-005",
+    "traguin_tour_code": "TG-LK-ADV-005",
+    "title": "Scuba Ultra Adventure Package",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LK-005 | TRAGUIN tour code TG-LK-ADV-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Lakshadweep, India | Category: Premium Adventure & Deep Sea Scuba",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Agatti Island • Bangaram Coral Reefs • Pitti Bird Sanctuary",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Seekers, Divers, Couples, Photographers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to mid-May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Dedicated High-Powered Speedboat & Premium Scuba Dive Boats",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: All-Inclusive Energizing Meal Layouts (High Protein & Fresh Local Catch)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Agatti Airport Arrival → Bangaram Reef Wall → Pitti Island Waters → Agatti Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Elite underwater photography and 4K video logs included complimentary with every deep marine wall dive",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: Agatti Local Coir Stalls — premium sea-salt cures, virgin coconut items, handcrafted marine woodwork ornaments; Instagram Spots — hanging off the dive platform at Bangaram Wall and standing alone on the extreme tip of the Pitti sandspit during noon",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Strict 24-hour surface interval integrated into Day 04; PADI medical declaration required; TRAGUIN adheres to a 'no touch, no take' marine protection policy",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Scuba",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "lk-005-scuba-ultra-adventure-package-itinerary",
+    "title": "Scuba Ultra Adventure Package",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "TRAGUIN Scuba Lakshadweep Ultra Adventure Package • Agatti Island Exploration • Bangaram Marine Wall • PADI Diving Experience • 04 Nights / 05 Days",
+    "overview": "Plunge into an untamed water wilderness featuring dramatic ocean drop-offs, vibrant coral pinnacles, and crystal-clear visibility. This ultimate Luxury Lakshadweep Holiday organized explicitly by TRAGUIN targets true thrill-seekers and luxury enthusiasts. Discover the breathtaking landscapes of isolated marine atolls, undergo exclusive world-class scuba expeditions, and log unforgettable memories within handpicked hotels that serve elite oceanfront comforts and high-adrenaline memories.\n\nTravel Logistics: Private Dedicated High-Powered Speedboat & Premium Scuba Dive Boats. Meal Plan: All-Inclusive Energizing Meal Layouts (High Protein & Fresh Local Catch). Route Plan: Agatti Airport Arrival → Bangaram Reef Wall → Pitti Island Waters → Agatti Departure. This action-packed TRAGUIN Lakshadweep Package includes pre-cleared island e-permits, comprehensive PADI dive-master support, premium high-end equipment rental, and full insurance clearance.\n\nLakshadweep stands unchallenged as India's premier marine exploration zone. Bangaram Marine Wall is a staggering underwater vertical drop-off covered with soft gorgonian corals and home to cruising reef sharks. Pitti Bird Sanctuary Waters is an isolated rocky outcrop surrounded by heavy schools of pelagic fish. Top Tourist Places in Lakshadweep include the coral pathways of Agatti, Bangaram's shipwreck zone, and the lagoon reef centers. The Best Time to Visit Lakshadweep is the clear, sunny months from October to mid-May.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LK-005 | Scuba Ultra Adventure Package | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Lakshadweep scuba package (LK-005 / TG-LK-ADV-005): Bangaram Marine Wall, Princess Royal Shipwreck, Pitti pelagic drift, and 2-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Premium speedboat transit to Bangaram with PADI lagoon acclimatization check-dive",
+        "sort_order": 1
+      },
+      {
+        "text": "Deep marine wall exploration and Princess Royal Shipwreck encounter with two tank dives",
+        "sort_order": 2
+      },
+      {
+        "text": "Pitti Island pelagic drift cruise and uninhabited sandspit trek with island picnic lunch",
+        "sort_order": 3
+      },
+      {
+        "text": "Deep sea kayak safari and Agatti high-speed watersports on barrier reef edges",
+        "sort_order": 4
+      },
+      {
+        "text": "Logbook certification sign-off with custom TRAGUIN exploration stamps before departure",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Agatti – Deep Blue Transit & Reef Check Dive",
+        "description": "Your ultimate adventure launches with an iconic low-altitude flight across the spectacular blue lagoons into Agatti Airport. Your specialized TRAGUIN dive concierge greets you and coordinates immediate transfer to the pier. Board a custom premium speedboat to cross the sapphire waters to Bangaram Island. Check into your luxury beachfront villa and meet your PADI dive-master for equipment sizing followed by an afternoon shallow lagoon acclimatization check-dive.",
+        "activities": [
+          "Sightseeing Included: Agatti Lagoon Route, Bangaram Lagoon Coral Patches",
+          "Evening Experience: Sundowner technical briefing over fresh tropical juices detailing underwater signals and marine paths.",
+          "Overnight Stay: Bangaram Island (Premium Beachfront Villa)",
+          "Meals Included: Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Deep Marine Wall Exploration & Shipwreck Encounter",
+        "description": "Fuel up with an early premium high-energy breakfast. Board the private dive boat for an immersive experience at the legendary Bangaram Marine Wall. Drop down to 20 meters along a vertical canyon to spot sea turtles, moray eels, and sleeping white-tip reef sharks. Following an oceanfront surface interval, execute your second dive exploring a forgotten coastal shipwreck, now transformed into a busy artificial reef complex teeming with thousands of colorful damselfish.",
+        "activities": [
+          "Sightseeing Included: Bangaram Drop-off Wall, Princess Royal Shipwreck Site",
+          "Optional Activities: Night scuba diving session using specialty underwater torch tracking bioluminescent organisms.",
+          "Overnight Stay: Bangaram Island",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Pitti Island Pelagic Drift Cruise & Uninhabited Sandspit Trek",
+        "description": "Enjoy an early breakfast before crossing deep ocean channels on a fast-paced expedition toward the protected waters of Pitti Island. Witness thousands of pelagic terns circling overhead this isolated wildlife outpost. Experience an open-ocean boat drift dive to watch large pelagics, including eagle rays and tuna schools. Spend your afternoon relaxing on a fully deserted sandbank, dining on a specialized grilled picnic layout prepared exclusively for you.",
+        "activities": [
+          "Sightseeing Included: Pitti Bird Sanctuary Waters, Deserted Sandbank Trails",
+          "Photography Points: Striking aerial drone-style perspectives over the pristine, thin sandbars during low tide.",
+          "Overnight Stay: Bangaram Island Resort Base",
+          "Meals Included: Breakfast, Island Picnic Lunch & Beachside BBQ"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Deep Sea Kayak Safari & Agatti High-Speed Watersports",
+        "description": "Following breakfast, board your private speed charter back to Agatti Island. Today is dedicated to surface high-adventure water sports. Power across the lagoon on high-speed jet skis, try deep-sea windsurfing, or lead a long-distance sea kayak safari along the outer barrier reef edges. In the evening, unwind at a premium seaside dining setup, listening to the roar of waves crashing onto the outer coral reef walls.",
+        "activities": [
+          "Sightseeing Included: Agatti Barrier Reef, Lagoon Water Sports Zone",
+          "Exclusive Experiences: High-definition action camera footage of your dives compiled and presented by our underwater media team.",
+          "Overnight Stay: Agatti Island (Luxury Beachfront Resort Suite)",
+          "Meals Included: Breakfast, Lunch & Specialty Island Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Logbook Certification & Return Flight with Extraordinary Memories",
+        "description": "Savor a final tropical breakfast on your open deck. Review your ocean milestones with your instructor as you sign off your official dive logbooks with custom TRAGUIN exploration stamps. Your private chauffeur will transport you comfortably to the Agatti Airport gates. Your epic Lakshadweep Family Tour and ultimate scuba holiday concludes here, leaving you with eternal stories and fearless memories.",
+        "activities": [
+          "Meals Included: Breakfast",
+          "Assistance: Airport executive escort for smooth customs, baggage check, and permit closure updates."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bangaram Island Resort",
+        "location": "Lakshadweep Stay (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – LUXURY ADVENTURE: Bangaram Island Resort (Premium AC Beach Villa - Direct Ocean Access)",
+        "stars": 5,
+        "category_label": "Luxury Adventure",
+        "room_type": "Premium AC Beach Villa - Direct Ocean Access",
+        "meal_plan": "All-Inclusive Energizing Meal Layouts",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Agatti Island Beach Resort",
+        "location": "Lakshadweep Stay (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM ESCAPE: Agatti Island Beach Resort (Executive Lagoon View Suite)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Lagoon View Suite",
+        "meal_plan": "All-Inclusive Energizing Meal Layouts",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium beachfront accommodation steps away from active dive boats.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All daily meals customized for intense physical ocean excursions.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "3 Fully guided boat scuba dives including PADI divemasters.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All-inclusive entry permits, local heritage fees, and clearance papers.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private speedboat and high-powered vessel charters.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Full technical equipment rental including dive computers and tanks.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 on-call localized operational TRAGUIN Support.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Commercial flight ticketing to/from Agatti Airport terminal.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Advanced specialized PADI certification course upgrades.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, shopping, or tips for the boat crew.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any decompression chamber medical treatments or evacuation insurance.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

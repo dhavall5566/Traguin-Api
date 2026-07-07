@@ -1,0 +1,369 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-003-auli-adventure-family-escape",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Auli Adventure Family Escape • Peaks, Meadows & Rivers",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 22,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Rishikesh (1N) → Joshimath/Auli (3N) → Haridwar (1N)",
+        "sort_order": 1
+      },
+      {
+        "text": "Private luxury Innova Crysta with mountain-certified chauffeur",
+        "sort_order": 2
+      },
+      {
+        "text": "MAPAI — daily breakfast and gourmet dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Complimentary Joshimath-Auli ropeway return tickets",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 real-time operations coordination",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-003 | Serial UK-003",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Adventure",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-003-auli-adventure-itinerary",
+    "title": "Auli Adventure Family Escape • Peaks, Meadows & Rivers",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dehradun • Rishikesh • Joshimath • Auli • Haridwar",
+    "overview": "This custom-designed holiday itinerary caters perfectly to families seeking crisp alpine air, luxury accommodation, and private, unhurried transit across the mountains. Navigating the majestic Alaknanda and Ganga valleys in your private luxury SUV with an experienced mountain chauffeur, your journey ensures total tranquility. Featuring a premium meal plan with daily rich breakfast spreads and curated fine dinners at top local eateries, this route delivers a Premium Uttarakhand Experience. Every moment is accompanied by the signature touch of TRAGUIN curated experiences, including reserved VIP sightseeing, cable-car tickets, and dedicated ground support.",
+    "is_featured": true,
+    "featured_sort_order": 22,
+    "seo_title": "UK-003 | Auli Adventure Family Escape | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Auli family adventure (UK-003): Rishikesh, Joshimath, Auli ropeway, Gorson Bugyal, and Haridwar with luxury stays and MAPAI plan.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Ganga Aarti at Triveni Ghat",
+        "sort_order": 1
+      },
+      {
+        "text": "Devprayag & Rudraprayag Confluences",
+        "sort_order": 2
+      },
+      {
+        "text": "Auli Gondola Ropeway Ride",
+        "sort_order": 3
+      },
+      {
+        "text": "Gorson Bugyal Alpine Meadows",
+        "sort_order": 4
+      },
+      {
+        "text": "Har Ki Pauri Evening Aarti",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Dehradun & Drive to Rishikesh | Welcome to the Land of the Holy Ganges",
+        "description": "Your luxury itinerary begins as your private transport chauffeur greets you at Dehradun Airport or Haridwar Station. Relax inside your premium vehicle as you drive into Rishikesh, the global capital of yoga and spiritual adventure. Check into your premium luxury river resort nestled inside the lush foothills. In the evening, witness the emotionally moving Ganga Aarti at Triveni Ghat with reserved family seating, capturing spectacular sunset views over the rushing holy waters.",
+        "activities": [
+          "Sightseeing Included: Ram Jhula, Laxman Jhula pedestrian walk, Triveni Ghat spiritual ceremony",
+          "Evening Experience: Traditional riverbank dinner with organic, locally sourced delicacies under the stars",
+          "Overnight Stay: Rishikesh (Premium Riverside Luxury Resort)",
+          "Meals Included: Welcome Mountain Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Rishikesh to Joshimath via Scenic Prayags | Journey Along the Sacred Confluences",
+        "description": "Awake to the sound of flowing water and enjoy a nutritious breakfast. Begin your ascent towards Joshimath. This scenic route features breathtaking landscapes as you follow the twisting mountain roads parallel to the emerald Alaknanda River. Pause your journey to photograph the iconic river confluences at Devprayag and Rudraprayag, where different rivers merge into a singular, powerful current. Arrive at Joshimath in the evening and relax at your luxury alpine hotel.",
+        "activities": [
+          "Sightseeing Included: Devprayag (Sangam point of Alaknanda & Bhagirathi), Rudraprayag, Narsingh Temple in Joshimath",
+          "Optional Activities: Short guided walk through the old local village bazaars of Joshimath",
+          "Overnight Stay: Joshimath (Premium High-Altitude Resort)",
+          "Meals Included: Premium Breakfast & Mountain Buffet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Joshimath to Auli | Ascending to the Alpine Paradise",
+        "description": "Take an unforgettable Asia's longest bi-cable ropeway from Joshimath directly into Auli. As your cabin glides gracefully above magnificent oak forests, witness majestic views of the Nanda Devi peak. Arrive at the high-altitude ski resort and check into your premium luxury chalet. Spend the afternoon strolling along the glistening perimeter of the Auli Artificial Lake—a highly popular Instagram location that mirrors the snowy mountain peaks perfectly.",
+        "activities": [
+          "Sightseeing Included: Auli Gondola Ropeway Ride, Auli Artificial Lake, Snow-capped Panoramic Viewpoints",
+          "Evening Experience: Private cozy bonfire evening with hot beverages arranged by TRAGUIN experts",
+          "Overnight Stay: Auli (Premium Luxury Ski Resort / Wooden Chalet)",
+          "Meals Included: Breakfast & Special Barbecue Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Gorson Bugyal Trek & Winter Adventure | Trekking Across the Alpine Meadows",
+        "description": "Indulge in a beautiful breakfast with panoramic views. Today, your family can participate in an easy, scenic trek to Gorson Bugyal, a vast expanse of lush alpine meadows surrounded by majestic peaks. During winter, these slopes are blanketed in pure, thick snow, providing fine opportunities for amateur skiing and snowboarding. Capture unforgettable memories and professional family photos with the mighty Himalayas framing your background.",
+        "activities": [
+          "Sightseeing Included: Gorson Bugyal trails, Chattrakund sweet-water lake, Skiing training area",
+          "Optional Activities: Professional ski lesson with a certified instructor or premium snow-mobile ride",
+          "Overnight Stay: Auli (Premium Luxury Ski Resort / Wooden Chalet)",
+          "Meals Included: Premium Breakfast & Authentic Garhwali Buffet Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Auli to Haridwar Vista Drive | Returning from the Clouds",
+        "description": "Descend from the high ski slopes via ropeway or private drive and settle back into your premium Innova Crysta. Travel smoothly back down the scenic valleys towards Haridwar. Watch the mountain ranges turn back into beautiful plains. Check into your ultra-luxury heritage haveli along the riverbank. Spend your evening witnessing the glowing lamps floating down the sacred waters at Har Ki Pauri during the grand evening Aarti.",
+        "activities": [
+          "Sightseeing Included: Har Ki Pauri Ghat, Local old market street walk, Heritage riverbank temples",
+          "Evening Experience: Bespoke VIP seating at Har Ki Pauri for a hassle-free evening ceremony",
+          "Overnight Stay: Haridwar / Rishikesh (Premium Luxury Heritage Haveli)",
+          "Meals Included: Breakfast & Farewell Premium Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Departure from Dehradun / Delhi | Cherishing Memories Beyond Destinations",
+        "description": "Enjoy your last breakfast at the luxury heritage hotel. Your private chauffeur will drive you safely back to Dehradun Airport or Haridwar station to board your journey home. Say goodbye to the grand peaks of Uttarakhand, carrying home a heart full of joy, family closeness, and unforgettable memories designed expertly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Aloha On The Ganges / similar",
+        "location": "Rishikesh",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Tattva Joshimath / similar",
+        "location": "Joshimath / Auli",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Regenta Central Haridwar",
+        "location": "Haridwar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Divine Resort / Lemon Tree",
+        "location": "Rishikesh",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Clifftop Club Auli / similar",
+        "location": "Joshimath / Auli",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Haveli Hari Ganga / similar",
+        "location": "Haridwar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Rishikesh Resort & Spa",
+        "location": "Rishikesh",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Himalayan High Auli",
+        "location": "Joshimath / Auli",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Pilibhit House - IHCL SeleQtions",
+        "location": "Haridwar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Ananda In The Himalayas",
+        "location": "Rishikesh",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "VVIP Custom Luxury Private Ski Chalet",
+        "location": "Joshimath / Auli",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Pilibhit House Luxury Royal Suite",
+        "location": "Haridwar",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations across chosen handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Chauffeur-driven AC Innova Crysta for all mountain segments",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily hot breakfast and gourmet custom dinners (MAPAI)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 real-time operations coordination and ground desk",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold-climate care kit, traditional stoles, and water bottles",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Return cable-car ticket for the Joshimath-Auli ropeway",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flights, or railway tickets to Uttarakhand",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Ski equipment rentals or hiring charges for personal trainers",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, or tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any medical, accidental insurance, or unexpected landslide costs",
+        "sort_order": 10
+      }
+    ]
+  }
+}

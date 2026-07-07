@@ -1,0 +1,292 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-006-assam-honeymoon-kaziranga-guwahati",
+    "serial_code": "AS-006",
+    "traguin_tour_code": "TG-AS-HM-006",
+    "title": "TRAGUIN Premium Assam Honeymoon Package — Romantic Wilderness: Guwahati • Kaziranga National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-006 | TRAGUIN tour code TG-AS-HM-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Honeymoon & Romantic Escapes",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Kaziranga National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Newlyweds, Couples Seeking Serenity",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: INR 39,500/- Per Person",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium Luxury AC Sedan / Executive Cruiser | Meal Plan: Royal CP/MAP with private dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati ➔ Romantic Cruise ➔ Kaziranga (3N) ➔ Guwahati (1N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private twilight boat excursions and candlelight dinners in isolated nature locations.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every resort selected for privacy and exceptional hospitality.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Dedicated 24/7 coordinator for dinner reservations and safari adjustments.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Muga and Eri silks, single-estate orthodox teas, Diphlu River couple photography spots.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Safari subject to weather; book lodges 45-60 days ahead; respectful dress at Kamakhya.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-006-assam-honeymoon-kaziranga-guwahati-itinerary",
+    "title": "TRAGUIN Premium Assam Honeymoon Package — Romantic Wilderness: Guwahati • Kaziranga National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "INR 39,500/- Per Person",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Assam Honeymoon • Guwahati • Kaziranga • 04 Nights / 05 Days",
+    "overview": "Surrender to misty morning horizons, gold-tinted tea estates, and the gentle whisper of the Brahmaputra in this signature romantic escape.\n\nTOUR OVERVIEW\\nCouples-only retreat curated by TRAGUIN: Guwahati ➔ Romantic Cruise ➔ Kaziranga (3 Nights) ➔ Guwahati (1 Night) ➔ Departure with sparkling wine welcome.\n\nTHE ALLURE OF ASSAM\\nKaziranga UNESCO backdrop, Kamakhya spiritual bond, tea estate couple photos, and private candlelight dinners in colonial bungalows.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-006 | Assam Honeymoon Kaziranga Guwahati | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Assam honeymoon (AS-006 / TG-AS-HM-006): Brahmaputra cruise, Kaziranga safaris, Kamakhya VIP, 4-tier luxury lodges.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Brahmaputra sunset cruise on romantic arrival Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Scenic drive to Kaziranga with tea garden trails Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Dawn and afternoon safaris plus Orchid Conservatory Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Kamakhya VIP and Umananda Island on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Departure with everlasting romantic memories Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "GUWAHATI ARRIVAL | ROMANTIC CRUISE ON THE MIGHTY BRAHMAPUTRA",
+        "description": "Premium red-carpet welcome at Guwahati airport. Late afternoon exclusive sunset cruise with fine wine and live traditional music as the sun paints the sky gold and magenta.",
+        "activities": [
+          "Sightseeing Included: Brahmaputra Sunset Cruise, Riverside Promenade.",
+          "Evening Experience: Candlelit dinner reservation over the water.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Welcome Drinks & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "GUWAHATI TO KAZIRANGA | JOURNEY INTO THE WILD EMERALD HEARTLAND",
+        "description": "Scenic drive through paddy fields and tea gardens to premium wilderness resort. Afternoon tea plantation walk and evening private bonfire beneath the stars.",
+        "activities": [
+          "Sightseeing Included: Scenic Highway Vista, Tea Garden Trails.",
+          "Local Experiences: Private tea leaves plucking experience & local estate walk.",
+          "Overnight Stay: Premium Wilderness Resort, Kaziranga.",
+          "Meals Included: Breakfast & Traditional Assamese Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KAZIRANGA NATIONAL PARK | DAWN SAFARI & INTIMATE ORCHID CONSERVATORY VISIT",
+        "description": "Early morning Central Range safari spotting One-Horned Rhinoceros. Orchid and Cultural Park visit and Western Range sunset jeep safari.",
+        "activities": [
+          "Sightseeing Included: Morning & Afternoon Safaris, Orchid Conservatory.",
+          "Photography Points: Kohora Range panoramic sunset deck.",
+          "Overnight Stay: Premium Wilderness Resort, Kaziranga.",
+          "Meals Included: Full Board (Breakfast, Lunch & Dinner)."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KAZIRANGA TO GUWAHATI | SACRED BLESSINGS & SIGHTSEEING",
+        "description": "Return to Guwahati for VIP Kamakhya Temple, Umananda river island boat ride, and silk souvenir browsing with farewell romantic dinner.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple, Umananda River Island, Fancy Bazar.",
+          "Evening Experience: Farewell romantic culinary dinner setup.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Multi-course Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE | EVERLASTING MEMORIES OF ROMANTIC ASSAM",
+        "description": "Peaceful breakfast in bed and executive airport transfer concluding your TRAGUIN romantic escape.",
+        "activities": [
+          "Sightseeing Included: Airport Transit Route.",
+          "Optional Activities: Packing premium tea samplers at local boutiques.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Grand Majesty / Kiranshree | Kaziranga Resort / Infinity Resort",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Grand Majesty / Kiranshree (Guwahati, 1N+1N) | Kaziranga Resort / Infinity Resort (Kaziranga, 2N) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Executive Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Guwahati GS Road | Borgos Resort / Landmark Woods",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Guwahati GS Road (Guwahati, 1N+1N) | Borgos Resort / Landmark Woods (Kaziranga, 2N) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Luxury View Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Hotel Guwahati | Diphlu River Lodge (Luxury Cabins)",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Radisson Blu Hotel Guwahati (Guwahati, 1N+1N) | Diphlu River Lodge Luxury Cabins (Kaziranga, 2N) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "River-Facing Luxury Suite",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta Guwahati (Taj Group) | The Iora - The Retreat / Private Villas",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Guwahati (1 Night)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Vivanta Guwahati Taj Group (Guwahati, 1N+1N) | The Iora Private Villas (Kaziranga, 2N) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Luxury Villa Pool",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodations: 04 Nights at elite handpicked hotels and luxury wilderness lodges.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transfers: Private air-conditioned premium vehicle throughout, including toll fees and driver allowances.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Meal Plan: Daily elaborate breakfasts and dynamic multi-course dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private romantic sunset cruise on the Brahmaputra River and fast-track VIP entry at Kamakhya Temple.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Jungle Adventures: Authorized open-jeep safari permits and park entry passes for Kaziranga National Park.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Complementary honeymoon cake, traditional welcoming stoles, and daily premium mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support & Assistance: Continuous on-ground support and specialized local coordinators.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Air / Rail Fare: Domestic or international flight tickets to and from Guwahati.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry services, direct dial telephone calls, or premium alcoholic beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera & Guide Fees: Professional video camera permits or individual local monument guide fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Any extra leisure excursions or activities not specified in the day-by-day itinerary.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance Cover: Medical or comprehensive travel insurance plans.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

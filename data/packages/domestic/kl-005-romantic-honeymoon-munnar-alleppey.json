@@ -1,0 +1,368 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-005-romantic-honeymoon-munnar-alleppey",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Romantic Honeymoon — Munnar & Alleppey Houseboat",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 31,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Intimate Munnar hill retreat with TRAGUIN Signature candlelit dinner in a private pavilion",
+        "sort_order": 1
+      },
+      {
+        "text": "Eravikulam National Park, Echo Point, and endless tea estate couple photography",
+        "sort_order": 2
+      },
+      {
+        "text": "Private luxury Alleppey houseboat full-board cruise on Vembanad Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Fort Kochi heritage walk — Chinese Fishing Nets, Jew Town & Dutch Palace",
+        "sort_order": 4
+      },
+      {
+        "text": "Honeymoon welcome amenities — floral bed decoration and sparkling juice",
+        "sort_order": 5
+      },
+      {
+        "text": "Private chauffeur-driven luxury vehicle with TRAGUIN 24/7 romance concierge",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-005-romantic-honeymoon-munnar-alleppey-itinerary",
+    "title": "Romantic Honeymoon — Munnar & Alleppey Houseboat",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Love in God's Own Country — Munnar Hills & Alleppey Backwaters",
+    "overview": "A captivating Kerala honeymoon weaving mist-kissed Munnar emerald hills with romantic Alleppey backwaters — private premium stays, TRAGUIN Signature candlelit dining, and seamless luxury transfers curated exclusively for newlyweds.",
+    "is_featured": true,
+    "featured_sort_order": 31,
+    "seo_title": "KL-005 | Romantic Honeymoon Kerala | TRAGUIN Munnar Alleppey Tour",
+    "seo_description": "Luxury 04 Nights / 05 Days Kerala honeymoon package (KL-005) covering Munnar tea estates, private Alleppey houseboat, and Fort Kochi with premium romance experiences.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Munnar Romantic Tea Estates",
+        "sort_order": 1
+      },
+      {
+        "text": "TRAGUIN Candlelit Dinner",
+        "sort_order": 2
+      },
+      {
+        "text": "Private Alleppey Houseboat",
+        "sort_order": 3
+      },
+      {
+        "text": "Fort Kochi Heritage",
+        "sort_order": 4
+      },
+      {
+        "text": "Vembanad Sunset Cruise",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Cochin to Munnar — Welcome to the Emerald Hills",
+        "description": "Upon arrival at Cochin International Airport, your luxury transport sweeps you toward Munnar through the Western Ghats. Stop at Cheeyappara and Valara waterfalls before arriving at your handpicked luxury resort with special honeymoon welcome amenities.",
+        "activities": [
+          "Sightseeing Included: Cheeyappara & Valara Waterfalls, Karadipara View Point, Scenic Mountain Highway Drive",
+          "Evening Experience: Private stroll through resort organic gardens followed by tailored multi-course dinner",
+          "Optional Activities: Evening traditional Kathakali or Kalaripayattu cultural performance",
+          "Overnight Stay: Munnar (Handpicked Premium Resort)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Munnar Sightseeing — Mist, Mountains & Romance",
+        "description": "Explore Eravikulam National Park hand-in-hand, visit Mattupetty Dam and Kundala Lake, share a whisper at Echo Point, and capture photographs amidst endless green Tata Tea Estates.",
+        "activities": [
+          "Sightseeing Included: Eravikulam National Park, Mattupetty Dam, Echo Point, Kundala Lake, Photo Point, Tea Museum",
+          "Evening Experience: TRAGUIN Signature romantic candlelit dinner arranged in a private pavilion",
+          "Optional Activities: Guided premium tea tasting session or private couple's plantation trek",
+          "Overnight Stay: Munnar (Handpicked Premium Resort)"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Munnar to Alleppey — Cruise of Eternal Togetherness",
+        "description": "Descend toward Alleppey and step aboard an exclusive private luxury houseboat. Glide through palm-fringed canals and paddy fields as your onboard chef prepares hyper-local delicacies. Watch the golden sunset over the backwaters.",
+        "activities": [
+          "Sightseeing Included: Vembanad Lake cruising, Alleppey narrow backwater canals, local rural life viewing",
+          "Evening Experience: Relaxing on the open deck under stars; overnight anchoring in the serene heart of the lake",
+          "Optional Activities: Traditional village canoe ride through ultra-narrow canals for authentic photography",
+          "Overnight Stay: Alleppey (Premium Private Luxury Houseboat — Air Conditioned)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Alleppey to Cochin — Heritage & Coastal Luxury",
+        "description": "Witness sunrise over the water as your houseboat glides back to the jetty. Discover Fort Cochin and Mattancherry — Chinese Fishing Nets, Paradesi Synagogue, and Mattancherry Dutch Palace before gourmet seafood dining.",
+        "activities": [
+          "Sightseeing Included: Fort Cochin, Chinese Fishing Nets, St. Francis Church, Mattancherry Palace, Jew Town",
+          "Evening Experience: Gourmet dining at a renowned seafood specialty restaurant in Cochin",
+          "Optional Activities: Premium harbor sunset cruise or high-tea at a historical heritage waterfront hotel",
+          "Overnight Stay: Cochin (Premium Luxury Hotel)"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure from Cochin",
+        "description": "Savor your final coastal breakfast. Enjoy relaxed leisure or last-minute artisan souvenir shopping before your private transfer to Cochin International Airport.",
+        "activities": [
+          "Sightseeing Included: Airport transit route viewing, optional brief stopovers for local spice purchases",
+          "Evening Experience: TRAGUIN farewell assistance and seamless airport check-in coordination",
+          "Overnight Stay: Not Applicable (Departure Day)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Leaf Munnar / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe stay in Munnar.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel & Spa / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium stay in Munnar.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandy's Windy Woods / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury stay in Munnar.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Spice Tree Munnar / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra Luxury stay in Munnar.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium AC Houseboat / Similar",
+        "location": "Alleppey Houseboat (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe stay in Alleppey Houseboat.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Glass Houseboat / Similar",
+        "location": "Alleppey Houseboat (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium stay in Alleppey Houseboat.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Super Luxury Cruise Houseboat / Similar",
+        "location": "Alleppey Houseboat (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury stay in Alleppey Houseboat.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Signature Elite Houseboat / Similar",
+        "location": "Alleppey Houseboat (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra Luxury stay in Alleppey Houseboat.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Trident Cochin / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe stay in Cochin.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Brunton Boatyard / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium stay in Cochin.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand Hyatt Bolgatty / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury stay in Cochin.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela / Cochin Elite / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra Luxury stay in Cochin.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium accommodation at handpicked Kerala resorts, heritage hotels, and luxury houseboats",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and authentic Kerala multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven AC Innova Crysta for all transfers, hill stations, and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager assistance",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Personalized welcome kit with herbal tea, fresh fruits, mineral water, and houseboat transfers where applicable",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "04 nights premium accommodation across Munnar, Alleppey houseboat, and Cochin",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Honeymoon cake, floral bed decoration, and one exclusive candlelight dinner in Munnar",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Cochin, Trivandrum, or Calicut gateway",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, national park fees, camera fees, and optional guide gratuities",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities such as speed-boating, elephant safaris, adventure sports, and spa therapies beyond included tier",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, alcoholic beverages, and tipping",
+        "sort_order": 12
+      }
+    ]
+  }
+}

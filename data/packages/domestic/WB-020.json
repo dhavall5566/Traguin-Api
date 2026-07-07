@@ -1,0 +1,241 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-020-kolkata-luxury-executive-mice-meet",
+    "serial_code": "WB-020",
+    "traguin_tour_code": "TRAGUIN-WB-020",
+    "title": "Kolkata Luxury Executive MICE Meet",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-020 | TRAGUIN tour code TRAGUIN-WB-020",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Corporate MICE & Elite Meet",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kolkata (City of Joy Corporate Hub) • Hooghly Luxury Cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Executives, Board Members & MICE",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (Best Oct to Mar)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: Corporate Rates on Request",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN MICE Setup: Conference hall, corporate Wi-Fi, executive dining, luxury group coach, Hooghly cruise, multi-lingual coordinators",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Corporate Touch: Seamless custom branding, dedicated check-in desks, and premium welcome packages.",
+        "sort_order": 8
+      },
+      {
+        "text": "Important Notes: Conference dates require 4-6 weeks confirmation. Share AV requirements 10 days before event.",
+        "sort_order": 9
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "MICE",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-020-kolkata-luxury-executive-mice-meet-itinerary",
+    "title": "Kolkata Luxury Executive MICE Meet",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "Corporate Rates on Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Kolkata Luxury Executive MICE Meet • 02 Nights / 03 Days",
+    "overview": "Accelerate your corporate growth and inspire your core leadership with this ultra-exclusive Luxury Kolkata Holiday tailored for selective enterprise meets. Masterfully crafted by TRAGUIN, this high-end MICE itinerary delivers top-tier corporate presentation environments alongside rich, relaxed team networking. Experience high-end business infrastructure paired with the historical charm of the City of Joy.\n\nCORPORATE OVERVIEW\nEvery logistics detail—from private luxury airport transfers to premium audio-visual conference layouts—is meticulously managed with dedicated 24/7 TRAGUIN support. TRAGUIN MICE Setup Inclusions: Full-day premium conference hall access, high-speed corporate Wi-Fi, tailored executive gourmet dining, dedicated luxury group coach, private networking cruise on the Hooghly River, and local multi-lingual coordinators.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-020 | Kolkata Luxury Executive MICE Meet | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days West Bengal corporate package (WB-020 / TRAGUIN-WB-020): Executive summit, Hooghly chartered cruise, Victoria Memorial, and 4-tier 5-star business hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "VIP airport welcome and private chartered Hooghly networking cruise beneath Howrah Bridge",
+        "sort_order": 1
+      },
+      {
+        "text": "Annual strategy summit in grand ballroom with Victoria Memorial sightseeing",
+        "sort_order": 2
+      },
+      {
+        "text": "Themed corporate gala dinner with authentic Bengali gourmet and global cuisines",
+        "sort_order": 3
+      },
+      {
+        "text": "Park Street heritage drive, Quest Mall boutique shopping, and Eden Gardens drive-past",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier elite 5-star Kolkata business hotels (02 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & ELITE RECEPTION — HOOGHLY CHARTERED NETWORKING CRUISE",
+        "description": "Your executives arrive at Kolkata International Airport, greeted by private TRAGUIN corporate hosts. Board our premium luxury coaches for a comfortable transfer to your 5-star luxury hotel. Following a priority express check-in, host an ice-breaking corporate presentation or mid-afternoon briefing in the reserved boardroom. As dusk falls, head to the jetty to board a private, fully chartered luxury river cruise on the historical Hooghly River. Network seamlessly beneath the illuminated masterpiece of the Howrah Bridge while enjoying fine drinks, premium live music, and exquisite global appetizers.",
+        "activities": [
+          "Event: VIP Welcome, Private Hooghly Chartered Cruise.",
+          "Meals: Welcome High-Tea & Elite Gala Dinner.",
+          "Networking Point: Under the spectacular illuminated Howrah Bridge.",
+          "Stay: Kolkata Elite 5-Star Hotel."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "EXECUTIVES SUMMIT & GLOBAL GALA — STRATEGIC BOARD MEET",
+        "description": "Savor an early morning breakfast before commencing your corporate summit inside the grand ballroom. Enjoy impeccable 5-star catering during mid-session high-tea breaks and a lavish executive networking lunch buffet. After wrapping up your strategic sessions by mid-afternoon, embark on an immersive, curated tour of the Top Tourist Places in Kolkata. Tour the stunning Victoria Memorial and the iconic structures of colonial Dalhousie Square. End this highly successful day with a grand themed corporate gala dinner featuring authentic, premium Bengali gourmet delicacies and global cuisines.",
+        "activities": [
+          "Event: Annual Strategy Summit, Victoria Memorial Sightseeing.",
+          "Meals: Breakfast, Business Lunch & Premium Gala Dinner.",
+          "Premium Add-on: Tailored audio-visual technical setups & corporate branding accents.",
+          "Stay: Kolkata Elite 5-Star Hotel."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HERITAGE INSPIRED NETWORKING & DEPARTURE",
+        "description": "The final morning is structured for seamless team bonding and local cultural discovery. Take an easy, premium drive past the sprawling Eden Gardens stadium and visit the historic Mother House for a truly peaceful, reflective morning. Afterward, enjoy exclusive entry to high-end boutique stores at Quest Mall or Park Street to pick up premium local souvenirs. Following an early executive lunch, your private premium coach arranged by TRAGUIN will provide effortless airport drops, bringing a successful, highly productive executive corporate event to a magnificent close.",
+        "activities": [
+          "Sightseeing: Park Street Heritage Drive, High-End Boutique Shopping.",
+          "Meals: Breakfast & Premium Farewell Lunch.",
+          "Transfers: Airport drops managed via private premium group coaches."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Kolkata / Novotel Business Tower",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "DELUXE: Hyatt Regency Kolkata / Novotel Business Tower (Kolkata, 02 Nights)",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "Luxury King Room",
+        "meal_plan": "All Inclusive Corporate Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Hotel Kolkata",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "PREMIUM: JW Marriott Hotel Kolkata (Kolkata, 02 Nights)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Club Room",
+        "meal_plan": "All Inclusive Corporate Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Grand, Kolkata",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "LUXURY: The Oberoi Grand, Kolkata (Kolkata, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premier Heritage Balcony Room",
+        "meal_plan": "Elite Handpicked Gourmet Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Bengal Kolkata (Presidential Access)",
+        "location": "Kolkata",
+        "nights_label": "02 Nights",
+        "description": "ULTRA LUXURY: The Taj Bengal Kolkata (Kolkata, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Premium Suite Tier",
+        "meal_plan": "Bespoke Customized Menu Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights elite 5-star accommodation in prime business hubs.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Full-day conference space with premium audio-visual equipment.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "All premium meals, gala dinners, and continuous high-tea breaks.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private chartered luxury boat cruise on the Hooghly River.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Luxury AC group coaches for smooth transfers & local tours.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated TRAGUIN on-site corporate desk coordination.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International flight tickets to Kolkata.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal hotel charges such as mini-bar, laundry, and spa.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra alcoholic beverage packages not predefined for gala.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual billing extensions or early/late check-out penalties.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

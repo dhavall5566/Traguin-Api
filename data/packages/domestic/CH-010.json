@@ -1,0 +1,248 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-010-premium-chandigarh-urban-architecture-break",
+    "serial_code": "CH-010",
+    "traguin_tour_code": "TG-CH-010-PREM",
+    "title": "Premium Chandigarh Urban Architecture Break",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-010 | TRAGUIN tour code TG-CH-010-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Leisure Break",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh Urban Oasis",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Architects & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Private solar boat cruise at Sukhna Lake",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private architecture walks led by design experts",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Sector 17 Market, Phulkari embroidery, Open Hand miniature emblems",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Cultural",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-010-chandigarh-urban-architecture-itinerary",
+    "title": "Premium Chandigarh Urban Architecture Break",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Architecture Break)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sukhna Lake • Rock Garden • Rose Garden • Capitol Complex",
+    "overview": "Welcome to Chandigarh, the iconic \"City Beautiful\" masterminded by the legendary modernist architect Le Corbusier. This ultra-premium weekend getaway, crafted meticulously by TRAGUIN holiday planners, is designed for discerning travelers who wish to experience elite modernist design blended seamlessly with serene natural settings.\n\nTravel Format: Private Independent Travel (FIT) with Elite Concierge Support. Vehicle: Premium Private Chauffeur-Driven Luxury Sedan / SUV. Meal Plan: Modified American Plan (Gourmet Breakfast & Elaborate Dinner Included). TRAGUIN Curated Touch: Pre-arranged fast-track entry permits to the restricted Capitol Complex, curated tables at city-favorite culinary stops, and customized scheduling.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-010 | Premium Chandigarh Urban Architecture Break | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Chandigarh architecture package (CH-010 / TG-CH-010-PREM): Sukhna Lake solar boat cruise, Rock Garden, Rose Garden, UNESCO Capitol Complex, and 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Sukhna Lake Private Solar Boat Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Nek Chand Rock Garden",
+        "sort_order": 2
+      },
+      {
+        "text": "Zakir Hussain Rose Garden",
+        "sort_order": 3
+      },
+      {
+        "text": "UNESCO Capitol Complex Architectural Walk",
+        "sort_order": 4
+      },
+      {
+        "text": "Sector 17 Piazza Shopping",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Sukhna Lake Sunset Experience",
+        "description": "Arrive in the beautifully planned grid city of Chandigarh via airport or railway station, where your dedicated private luxury vehicle and executive chauffeur await your presence. Benefit from a seamless transfer to your handpicked premium hotel. After checking in and enjoying a relaxing welcome refreshment, get ready for an elegant late afternoon excursion. We take you directly to Sukhna Lake, a magnificent, pristine water body located at the foothills of the Shivalik range. Enjoy an exclusive, private solar boat ride across the calm waters as the golden sun dips below the horizon. Conclude your evening with a pleasant walk along the tree-lined promenade before heading back to the hotel for a beautifully curated welcome dinner.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake Promenade Access, Private Boat Cruise",
+          "Evening Experience: Golden Hour photography & premium lakeside tea service",
+          "Overnight Stay: Chandigarh (Premium Luxury Hotel)",
+          "Meals Included: Welcome Fine Dining Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "The Legendary Rock Garden, Rose Garden & Capitol Complex",
+        "description": "Start your morning with a lavish buffet breakfast. Today, you will explore the world-renowned masterpiece of raw art—the Nek Chand Rock Garden. Be captivated by the emotional storytelling behind this surreal kingdom, sculpted entirely out of discarded urban and industrial materials. Following this immersive experience, a short, smooth drive brings you to the Zakir Hussain Rose Garden, Asia's largest botanical garden dedicated entirely to roses. In the afternoon, explore the majestic UNESCO World Heritage-listed Capitol Complex, featuring the iconic Open Hand Monument, Secretariat, and High Court.",
+        "activities": [
+          "Sightseeing Included: Nek Chand Rock Garden, Zakir Hussain Rose Garden, Capitol Complex Architectural Walk",
+          "Optional Activities: Exploring sector-specific luxury European cafes",
+          "Overnight Stay: Chandigarh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Boutique Cafe Culture & Fluid Farewell Transits",
+        "description": "Enjoy your final gourmet breakfast at the hotel, checking out by mid-morning. Your luxury vehicle will guide you on an exclusive shopping safari through Sector 17's historic piazza or Elante Mall's high-end flagship stores. Afterward, your chauffeur ensures a seamless transfer to Chandigarh Airport or Railway Station for your departure.",
+        "activities": [
+          "Sightseeing Included: Leisure Drive through Open-Space Boulevards & Sector 17 Piazza",
+          "Food Suggestion: Try artisanal bakeries or premium local Punjabi culinary spots",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Lavish Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh or similar",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "King Bed Club View",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Superior Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Suite Panorama",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Mud Villa / Luxury Tent",
+        "meal_plan": "All Inclusive Premium Curated",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights luxury stay in premium, handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet breakfast spreads and custom fine-dining dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated premium air-conditioned luxury sedan for all transits",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Pre-registered VIP entry entry permits for the UNESCO Capitol Complex",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentarty Private Solar Boat experience tickets at Sukhna Lake",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Chauffeur allowances, parking fees, road taxes, and toll clearances",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Specialized 24/7 TRAGUIN on-ground destination assistance",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Inbound/Outbound flights or train travel to Chandigarh",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, bar tabs, premium spirits, and telephone bills",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Guide services unless explicitly requested in advance",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips, gratuities, and optional camera permits",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any travel insurance protection policies",
+        "sort_order": 12
+      }
+    ]
+  }
+}

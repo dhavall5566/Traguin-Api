@@ -1,0 +1,268 @@
+{
+  "destination_slug": "delhi",
+  "package": {
+    "slug": "dl-007-corporate-delhi-mice",
+    "serial_code": "DL-007",
+    "traguin_tour_code": "TRG-DEL-MICE-007",
+    "title": "Corporate Delhi MICE",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DL-007 | TRAGUIN tour code TRG-DEL-MICE-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Delhi / India | Category: MICE / Corporate Presentation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: New Delhi • Lutyens' Zone • Aerocity • Connaught Place • Old Delhi",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Conferences, Team Building & Leadership Retreats",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Ideal Corporate Event Windows)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Corporate B2B Rates)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Multi-Axle Coaches / MAPAI (With Gala Dinner Extravaganza)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Aerocity Check-in → Power Conference & Lutyens' → Heritage & Gala Night → Corporate Shopping & Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private corporate branding integrated throughout the luxury fleet and banquet venues.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Tailored timing schedules to ensure absolute corporate productivity without fatigue.",
+        "sort_order": 10
+      },
+      {
+        "text": "Shopping & Local Experiences: State Emporiums at Connaught Place for hand-loomed textiles, brass items, and blue pottery corporate gifts.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Corporate authorization letters required; finalize contracts 60 days ahead; coaches follow Lutyens' traffic timelines.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "MICE",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "dl-007-corporate-delhi-mice-itinerary",
+    "title": "Corporate Delhi MICE",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Corporate B2B Rates)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Corporate Delhi MICE • Legacy, Innovation & Networking",
+    "overview": "Welcome to an elite corporate experience curated exclusively by TRAGUIN. Presenting the ultimate Corporate Delhi MICE itinerary, engineered precisely to combine strategic business objectives with top-tier luxury. As your premier business travel consultants, TRAGUIN elevates your company retreat into a world-class luxury holiday featuring premium stays, seamless convention spaces, and high-energy team building sessions. Witness the perfect harmony of historic power centers and cutting-edge corporate infrastructure, creating unforgettable memories and deeper professional bonds for your entire team.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday proposal is designed for high-performing corporate teams, dealers, and executive boards. Moving fluidly through the nation's capital in dedicated premium luxury transportation with around-the-clock concierge assistance, your group will experience unparalleled logistical efficiency. Featuring a highly selective premium meal plan including expansive business breakfasts, formal working lunches, and customized gala themed dinners, this journey sets the gold standard for a premium Delhi experience. Every detail includes the signature touch of TRAGUIN curated experiences, assuring flawless presentation, high-end production integration, and seamless VIP management.\n\nWHY CHOOSE THE BEST DELHI TOUR PACKAGE FOR MICE?\nWhen evaluating the Best Delhi Tour Package for upscale corporate events, corporate planners require far more than standard itineraries. They require a balanced blend of professional convention space, historical prestige, and fine dining. New Delhi serves as the geopolitical heart of the country, making a Luxury Delhi Holiday the definitive choice for executive retreats, global assemblies, and rewards programs. From iconic attractions like India Gate and Rashtrapati Bhavan to contemporary business hubs like Aerocity, Delhi sightseeing delivers an inspiring sense of scale. For organizations searching for an impactful Delhi Family Tour extension or an elegant Delhi Honeymoon Package style reward for top executives, the capital provides access to famous Instagram locations like Sunder Nursery and Lodhi Art District. Whether participating in private heritage walks through Old Delhi, indulging in corporate gifting shopping at Connaught Place, or hosting high-profile banquets, our TRAGUIN Delhi Packages offer handpicked hotels, meticulous scheduling, and curated exclusive experiences during the best time to visit Delhi.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DL-007 | Corporate Delhi MICE Premium Retreat | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days corporate Delhi MICE package (DL-007 / TRG-DEL-MICE-007): Aerocity conferences, Lutyens' sightseeing, Old Delhi heritage, gala night, and 4-tier MICE hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Aerocity check-in, ice-breaking session & networking dinner on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Corporate conference, India Gate & National War Memorial on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Old Delhi heritage rickshaw tour & TRAGUIN Gala Extravaganza on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Corporate gifting shopping & departure on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Corporate branding across luxury fleet and banquet venues",
+        "sort_order": 5
+      },
+      {
+        "text": "Premium Handpicked Hotels: Superior Wi-Fi and high-capacity ballrooms",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Delhi & Aerocity Check-in | Welcome to the Seat of Power – The Ultimate Corporate Convergence",
+        "description": "Your premium Delhi experience commences with a warm VIP reception at Indira Gandhi International Airport by the TRAGUIN corporate logistics squad. Board your dedicated luxury transportation coaches and transfer to your handpicked ultra-luxury hotel in Aerocity. After a smooth corporate group check-in, host an elite afternoon ice-breaking session in a premium state-of-the-art boardroom. Wrap up the day with a high-end networking reception at an exclusive open-air lounge.",
+        "activities": [
+          "Sightseeing Included: Aerocity upscale commercial promenade, curated executive lounge access.",
+          "Evening Experience: High-level corporate ice-breaker cocktail dinner with professional sound & lighting infrastructure.",
+          "Overnight Stay: New Delhi Aerocity (Ultra-Luxury Hotel Category).",
+          "Meals Included: Welcome Amenities, High Tea & Corporate Networking Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Power Conference & Lutyens' Sightseeing | Strategic Symposiums & Iconic Architectural Landmarks",
+        "description": "Begin your morning with a grand buffet breakfast, followed by your main annual corporate conference inside a magnificent pillarless ballroom. TRAGUIN experts provide comprehensive audio-visual assistance and seamless registration desks. In the afternoon, transition into an immersive experience across Lutyens' Delhi. Enjoy private, chauffeur-driven transfers around the iconic attractions of India Gate, Parliament House, and Rashtrapati Bhavan, offering excellent photography points for corporate group portraits.",
+        "activities": [
+          "Sightseeing Included: Drive-past of Rashtrapati Bhavan & Parliament, stopping at India Gate and National War Memorial.",
+          "Optional Activities: Interactive leadership team building exercises on manicured lawns or indoor experiential simulations.",
+          "Overnight Stay: New Delhi Aerocity / Central Delhi Luxury Property.",
+          "Meals Included: Premium Working Breakfast, Business Lunch & Formal Table Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Heritage Inspiration & Gala Night | Emotional Storytelling in Old Delhi & A Celebrity Gala Retreat",
+        "description": "Indulge in a premium breakfast before heading to Old Delhi for an enriching heritage experience. Experience a safely managed, private rickshaw tour through the historic streets of Chandni Chowk and view the majestic Red Fort. This historic journey serves as an inspiring lesson in resilience and legacy. In the evening, get ready for the grand TRAGUIN Signature Gala Night, featuring award distributions, live entertainment, and an unforgettable gourmet experience.",
+        "activities": [
+          "Sightseeing Included: Red Fort (outer view), Chandni Chowk, Khari Baoli, Connaught Place shopping blocks.",
+          "Evening Experience: TRAGUIN Gala Extravaganza: Custom branding backdrops, award ceremonies, and live musical entertainment.",
+          "Overnight Stay: New Delhi Luxury Property.",
+          "Meals Included: Premium Breakfast, Traditional Local Lunch & Luxury Gala Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Shopping Excursion & Corporate Departure | Cherishing Team Milestones & Rewarding Journeys",
+        "description": "Savor a final lavish breakfast at your premium stay. Utilize your morning for upscale corporate gifting shopping at the famous state emporiums on Baba Kharak Singh Marg or visit top tourist places in Delhi like Qutub Minar for premium photography points. In the afternoon, board your private luxury transportation for a smooth transfer to the airport or railway station. Return home carrying shared team triumphs and unforgettable memories beautifully organized by TRAGUIN.",
+        "activities": [
+          "Transfers Included: End-to-end luxury coach drop-offs with airport luggage assistance.",
+          "Meals Included: Lavish International Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Novotel Aerocity / Pride Plaza Delhi / similar",
+        "location": "Aerocity & Central Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Novotel Aerocity / Pride Plaza Delhi / similar | Superior Business Room | Standard Conference Hall Setup",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Business Room",
+        "meal_plan": "MAPAI | Standard Conference Hall Setup",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pullman Aerocity / Andaz Delhi / similar",
+        "location": "Aerocity & Central Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Pullman Aerocity / Andaz Delhi / similar | Premium Runway View Room | Pillarless Ballroom Access",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Runway View Room",
+        "meal_plan": "MAPAI | Pillarless Ballroom Access",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Aerocity / Leela Palace New Delhi",
+        "location": "Aerocity & Central Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: JW Marriott Aerocity / Leela Palace New Delhi | Deluxe Executive Suite | VIP Lounge & Custom Dining Areas",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Executive Suite",
+        "meal_plan": "MAPAI | VIP Lounge & Custom Dining Areas",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Roseate New Delhi / The Taj Mahal Hotel Mansingh",
+        "location": "Aerocity & Central Delhi",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Roseate New Delhi / The Taj Mahal Hotel Mansingh | VVIP Ultra-Luxury Villa / Presidential Suite | Bespoke Corporate Event Production",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Ultra-Luxury Villa / Presidential Suite",
+        "meal_plan": "MAPAI | Bespoke Corporate Event Production",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights in top-tier luxury hotels with business amenities.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: High-end air-conditioned multi-axle corporate coaches.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily lavish breakfasts, lunches, and high-end gala dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: On-site event managers and dedicated corporate help desk.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized corporate welcome kits and branding materials.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private heritage rickshaw tour and curated cultural evening.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airfares and ticketing taxes.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra alcoholic beverages or customized premium bar menus during dinners.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal resort expenses such as laundry, spa therapies, or room service.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Professional artist bookings or external motivational speaker honorariums.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

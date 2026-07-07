@@ -1,0 +1,267 @@
+{
+  "destination_slug": "vietnam",
+  "package": {
+    "slug": "vn-002-vietnam-highlights-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Vietnam Highlights Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 83,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Hanoi (2N) → Halong Bay (2N) → Da Nang/Hoi An (3N) highlights circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Hanoi city highlights & historic Old Quarter",
+        "sort_order": 2
+      },
+      {
+        "text": "Halong Bay ultra-luxury cruise through limestone karsts",
+        "sort_order": 3
+      },
+      {
+        "text": "Hoi An lantern-lit streets & beachfront farewell gala",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-VNM-HIG-2026 | Serial VN-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Cultural",
+      "Adventure",
+      "Nature",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "vn-002-vietnam-highlights-itinerary",
+    "title": "Vietnam Highlights Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Vietnam Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Hanoi • Halong Bay Cruise • Hoi An Ancient Town • Da Nang Beaches",
+    "overview": "Discover the absolute highlights of Vietnam with TRAGUIN's curated family expedition. This comprehensive 8-day journey takes your family through the vibrant capital of Hanoi, the serene majesty of Halong Bay, and the cultural charm of Hoi An and Da Nang — creating unforgettable memories across Vietnam's iconic landscapes.",
+    "is_featured": true,
+    "featured_sort_order": 83,
+    "seo_title": "VN-002 | Vietnam Highlights Family Tour | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Vietnam family highlights package (VN-002): Hanoi, Halong Bay, Hoi An Ancient Town, and Da Nang beaches.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Hanoi Highlights City Tour",
+        "sort_order": 1
+      },
+      {
+        "text": "Halong Bay Limestone Karst Cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Hoi An Ancient Town Lantern Streets",
+        "sort_order": 3
+      },
+      {
+        "text": "Beachfront Farewell Dinner Gala",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Hanoi",
+        "description": "Arrive in Hanoi. Private transfer to your handpicked premium hotel. Evening at leisure in the historic Old Quarter.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private hotel transfer",
+          "Overnight Stay: Hanoi (Premium Heritage Hotel)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Hanoi Highlights",
+        "description": "A comprehensive city tour covering Hanoi's most famous landmarks, providing a rich educational experience for your family.",
+        "activities": [
+          "Sightseeing Included: Guided Hanoi city tour",
+          "Overnight Stay: Hanoi (Premium Heritage Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Halong Bay Cruise",
+        "description": "Travel to Halong Bay. Board your ultra-luxury cruise vessel for an extraordinary journey through the limestone islands with gourmet dining.",
+        "activities": [
+          "Sightseeing Included: Transfer to Halong Bay, ultra-luxury cruise boarding",
+          "Overnight Stay: Halong Bay (Ultra-Luxury Cruise)",
+          "Meals Included: Premium Breakfast & Gourmet Cruise Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Halong Bay Adventure",
+        "description": "Explore hidden caves and enjoy guided activities on the water. A day filled with unforgettable memories and stunning views.",
+        "activities": [
+          "Sightseeing Included: Cave exploration, water activities, sunset deck views",
+          "Overnight Stay: Halong Bay (Ultra-Luxury Cruise)",
+          "Meals Included: Premium Breakfast & Gourmet Cruise Dining"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Flight to Da Nang & Hoi An",
+        "description": "Morning cruise brunch. Transfer to the airport for your flight to Da Nang. Check into your luxury coastal family resort in Hoi An.",
+        "activities": [
+          "Sightseeing Included: Cruise brunch, domestic flight to Da Nang, resort transfer",
+          "Overnight Stay: Hoi An/Da Nang (Luxury Coastal Resort)",
+          "Meals Included: Premium Breakfast & Cruise Brunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Hoi An Ancient Town",
+        "description": "A guided tour of Hoi An's Ancient Town, a UNESCO World Heritage site known for its charming architecture, night markets, and traditional lanterns.",
+        "activities": [
+          "Sightseeing Included: Hoi An Ancient Town guided tour",
+          "Overnight Stay: Hoi An/Da Nang (Luxury Coastal Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Coastal Leisure & Celebration",
+        "description": "A relaxing day at the resort, followed by a grand farewell dinner gala at a beachfront restaurant — an exclusive experience for the family.",
+        "activities": [
+          "Evening Experience: Grand farewell dinner gala",
+          "Overnight Stay: Hoi An/Da Nang (Luxury Coastal Resort)",
+          "Meals Included: Premium Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Departure",
+        "description": "Final breakfast before your TRAGUIN private transfer to the airport, completing your premium Vietnam journey.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Heritage City Hotels / similar",
+        "location": "Hanoi",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ultra-Luxury Cruise / similar",
+        "location": "Halong Bay",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Full Board",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Beachfront Resort / similar",
+        "location": "Hoi An/Da Nang",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in handpicked premium family stays across Hanoi, Halong Bay, and Hoi An/Da Nang (highlights route)",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flight Da Nang sector and Halong Bay ultra-luxury cruise",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Guided Hanoi city tour and Hoi An Ancient Town visit",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Halong Bay cave exploration and onboard activities",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Vietnam entry visa processing fees",
+        "sort_order": 100
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 101
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 102
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 103
+      }
+    ]
+  }
+}

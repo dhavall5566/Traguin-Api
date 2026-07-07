@@ -1,0 +1,331 @@
+{
+  "destination_slug": "ladakh",
+  "package": {
+    "slug": "la-008-women-riders-ladakh-expedition",
+    "serial_code": "LA-008",
+    "traguin_tour_code": "TRAGUIN-LA-008",
+    "title": "Women Riders Ladakh Expedition",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LA-008 | TRAGUIN tour code TRAGUIN-LA-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Ladakh, India | Category: Female Only / Women Riders",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Leh • Sham Valley • Nubra Valley • Hunder • Pangong Lake • Chang La",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Solo Female Travelers, Women Biking Groups, Adventurers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: June to September",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Premium All-Women Guided Motorcycle Expedition",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Royal Enfield Himalayan / Scram models with 4x4 support utility vehicle",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Premium meals with curated organic menu alternatives across all stays",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Leh → Sham Valley → Khardung La → Nubra → Turtuk → Pangong → Chang La → Leh Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Comprehensive satellite tracking links for family members, curated organic menu alternatives, and exclusive access to certified female wellness doctors stationed on-ground in Leh",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Leh Tibetan Market — hand-carved silver jewelry, pure turquoise stones, authentic Pashmina stoles, aromatic organic dried apricots; local women's weaving collectives for handmade woolen socks and beanies",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Strict rest on Day 1 mandatory — no riding until medical clearance; valid permanent Indian two-wheeler driving license with gear endorsement required; final route access at sole discretion of road captain",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Women Riders",
+      "Adventure",
+      "Biking"
+    ]
+  },
+  "itinerary": {
+    "slug": "la-008-women-riders-ladakh-expedition-itinerary",
+    "title": "Women Riders Ladakh Expedition",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Women Riders Ladakh Expedition • 08 Nights / 09 Days",
+    "overview": "Welcome to an empowering journey across the roof of the world, proudly curated by TRAGUIN. Ladakh, with its dramatic mountain passes, pristine azure lakes, and deep spiritual legacy, forms the canvas for your ultimate sisterhood adventure. Designed exclusively for fearless women riders, this Luxury Ladakh Holiday blends pure high-altitude thrill with the absolute safety, luxury, and warmth of our premium stays. Reclaim the open highways, capture unforgettable memories, and let the sheer scenic beauty of Ladakh ignite your spirit. Backed by handpicked hotels and comprehensive expert escorts, this is the Premium Ladakh Experience you have been waiting for. \n\nThis elite Ladakh Honeymoon & Women Expedition is structured specifically to provide a perfect harmony of adventurous grit and premium hospitality. Navigating through rugged high passes demands absolute security; hence, our package features specialized all-women mechanical and logistical backups, premium medical kits, and an expert female tour leader. Unwind inside handpicked hotels, experience curated wellness evenings, and travel with absolute peace of mind. \n\nWhy choose a Luxury Ladakh Holiday for Women Riders? Ladakh represents the global standard for high-altitude achievement. Conquering iconic attractions like Khardung La and tracking the hypnotic shifts of Pangong Tso Lake rank among the most searched experiences in contemporary exploration. The endless sand vistas of Hunder and the dramatic high gorges provide popular Instagram locations that are perfect for capturing your milestone achievements. From exploring quiet prayer halls in ancient cliffside monasteries to immersive shopping for local silver crafts, our custom TRAGUIN Ladakh Packages deliver deep cultural connection paired with absolute premium execution. ",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LA-008 | Women Riders Ladakh Expedition | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days women riders Ladakh expedition (LA-008 / TRAGUIN-LA-008): Sham Valley, Nubra, Hunder, Pangong, Chang La, Royal Enfield bikes, female road captain. ",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Welcome circle, bike fitment check, and comprehensive safety mapping with TRAGUIN Experts",
+        "sort_order": 1
+      },
+      {
+        "text": "Sham Valley cruise with Magnetic Hill, Sangam, and Gurudwara Pathar Sahib",
+        "sort_order": 2
+      },
+      {
+        "text": "Khardung La conquest to Nubra Valley with golden sunset camel ride at Hunder",
+        "sort_order": 3
+      },
+      {
+        "text": "Turtuk Balti sisterhood village walk with local handloom setups",
+        "sort_order": 4
+      },
+      {
+        "text": "Off-road Shyok route to Pangong with private bonfire, music, and hot chocolate",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Leh - Stepping into the Highlands & Acclimatization",
+        "description": "Land at Kushok Bakula Rimpochee Airport, Leh. Receive a warm premium welcome by the specialized TRAGUIN liaison team and transfer via private luxury coach to your handpicked premium stay. The entire day is dedicated to vital oxygen acclimatization to ensure a flawless and safe expedition ahead. ",
+        "activities": [
+          "Sightseeing Included: Rest and leisure within hotel premises.",
+          "Evening Experience: Welcome circle, bike fitment check, and comprehensive safety mapping with TRAGUIN Experts.",
+          "Overnight Stay: The Grand Dragon / Zen Ladakh, Leh (Premium Luxury Stay)",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sham Valley Cruise - Trail Testing & Spiritual Landmarks",
+        "description": "Rev up your allotted premium motorcycles for an exhilarating acclimatization cruise down the smooth tarmac of the Srinagar-Leh highway. Test your riding gears, feel the bike's weight distribution, and explore the mystical Sham Valley landscape. ",
+        "activities": [
+          "Sightseeing Included: Magnetic Hill, Sangam (Indus & Zanskar River confluence), and Gurudwara Pathar Sahib.",
+          "Photography Points: Incredible contrast views of mountain rivers meeting sandstone canyons.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Climbing the Mighty Khardung La to Nubra Valley",
+        "description": "A milestone day! Ride up the steep, winding mountain switchbacks to conquer the legendary Khardung La Pass at 17,582 feet. Celebrate your success at the top before descending into the warm, dramatic desert basin of the Nubra Valley. ",
+        "activities": [
+          "Sightseeing Included: Khardung La peak stop, Diskit Monastery and its majestic open-air Maitreya Buddha statue.",
+          "Evening Experience: Double-humped camel desert ride across Hunder sand dunes during a magnificent golden sunset.",
+          "Overnight Stay: Luxury Organic Glamping Retreat, Nubra",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Historic Turtuk Village - Exploring the Balti Sisterhood",
+        "description": "Ride deep along the flowing Shyok River to explore Turtuk, a picturesque village nestled right near the Line of Control. Walk through lush apricot orchards, interact with the local Balti women, and understand their rich cultural history. ",
+        "activities": [
+          "Sightseeing Included: Turtuk Balti Museum, traditional stone villages, and local handloom setups.",
+          "Food Suggestions: Freshly harvested local apricot desserts and herbal mountain tea at a village cafe.",
+          "Overnight Stay: Luxury Glamping Retreat, Nubra",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Off-Road Adventure: Nubra to Turquoise Pangong Lake",
+        "description": "Conquer challenging riverbeds and off-road tracks along the rugged Shyok route. Arrive at the breathtaking Pangong Tso Lake, an expansive saltwater jewel that reflects vivid shades of sapphire blue right against the backdrop of massive Tibetan peaks. ",
+        "activities": [
+          "Sightseeing Included: Shyok valley landscapes, Pangong Lake panoramic shore trail.",
+          "Evening Experience: Private bonfire setup right by the lakeside with music, hot chocolate, and endless starlit skies.",
+          "Overnight Stay: Ultra Luxury Geodesic Domes, Pangong Lake",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Pangong Lake to Leh via the Majestic Chang La Pass",
+        "description": "Wake up early to capture the beautiful sunrise reflecting off the glassy lake surface. Mount your bikes to scale Chang La Pass, the third-highest motorable highway pass in the world, before descending smoothly back into Leh. ",
+        "activities": [
+          "Sightseeing Included: Chang La Pass crossing, Thiksey Monastery (resembling Tibet's Potala Palace).",
+          "Shopping: Stop at a local Cooperative Society for authentic high-quality winter fabrics.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Discovering the Spirit of Leh & Souvenir Tracks",
+        "description": "Give your bikes a rest today. This day is specially curated for slow exploration. Stroll through old town streets, photograph historic architecture, and reward yourself after the long ride with relaxing premium wellness therapies. ",
+        "activities": [
+          "Sightseeing Included: Leh Palace, Shanti Stupa sunset viewpoint, and local organic gardens.",
+          "Evening Experience: Traditional Ladakhi dress styling and group portrait photography session.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Leisure Day & The TRAGUIN Farewell Gala",
+        "description": "A completely flexible day to unwind, journal, or visit cozy mountain cafes. In the evening, gather for a grand celebration dinner to mark the successful completion of your high-altitude motorcycle expedition. ",
+        "activities": [
+          "Evening Experience: Signature TRAGUIN Farewell Gala Dinner with certificates of achievement and local live acoustic folk music.",
+          "Overnight Stay: Premium Luxury Hotel, Leh",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Bidding Farewell to the Land of High Passes",
+        "description": "Savor your final breakfast with stunning views of the snow-capped Stok range. Pack your bags full of empowering memories and lifelong bonds. Enjoy an assisted luxury transfer to Leh Airport for your return flight home. ",
+        "activities": [
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Singge Palace | Hunder Desert Camp | Pangong Wooden Cottages",
+        "location": "Leh (5 Nights) / Nubra Valley Glamping (2 Nights) / Pangong Luxury Domes (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Singge Palace (Leh, 5 Nights) | Hunder Desert Camp (Nubra Valley, 2 Nights) | Pangong Wooden Cottages (Pangong, 1 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Zen Ladakh Resort | Nubra Organic Retreat vills | Pangong Inn Premium Wing",
+        "location": "Leh (5 Nights) / Nubra Valley Glamping (2 Nights) / Pangong Luxury Domes (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 02 – PREMIUM: The Zen Ladakh Resort (Leh, 5 Nights) | Nubra Organic Retreat vills (Nubra Valley, 2 Nights) | Pangong Inn Premium Wing (Pangong, 1 Night)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premier Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Dragon Ladakh | Stone Hedge Luxury Hotel | Martsemik Luxury Domes",
+        "location": "Leh (5 Nights) / Nubra Valley Glamping (2 Nights) / Pangong Luxury Domes (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 03 – LUXURY: The Grand Dragon Ladakh (Leh, 5 Nights) | Stone Hedge Luxury Hotel (Nubra Valley, 2 Nights) | Martsemik Luxury Domes (Pangong, 1 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Exclusive Residency | Lchang Nang Eco Retreat | Pangong Eco Luxury Glamping Domes",
+        "location": "Leh (5 Nights) / Nubra Valley Glamping (2 Nights) / Pangong Luxury Domes (1 Night)",
+        "nights_label": "08 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Exclusive Residency (Leh, 5 Nights) | Lchang Nang Eco Retreat (Nubra Valley, 2 Nights) | Pangong Eco Luxury Glamping Domes (Pangong, 1 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Exclusive Residency / Glamping Dome",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Bikes: Royal Enfield Himalayan / Scram models with fuel included.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Hotels: Elite, highly rated safety-certified properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Technical Escort: 4x4 Support utility vehicle with mechanic, spares, and tools.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Expert Captain: Professional female road captain leading the trail.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Medical Safety: Oxygen cylinders, oximeters, and trauma kits on board.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 localized on-ground concierge assistance.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal domestic or international airline tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal riding gear (helmets with Bluetooth, armored jackets, knee guards).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Motorcycle security deposits or damage costs for major parts.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical emergencies or remote helicopter evacuation charges.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Standard laundry, phone bills, or premium mini-bar utilization.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

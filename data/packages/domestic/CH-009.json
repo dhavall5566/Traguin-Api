@@ -1,0 +1,246 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-009-rock-garden-rose-garden-quick-premium-escape",
+    "serial_code": "CH-009",
+    "traguin_tour_code": "TG-CH-009-PREM",
+    "title": "Rock Garden & Rose Garden Quick Premium Escape",
+    "duration_label": "01 Night / 02 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-009 | TRAGUIN tour code TG-CH-009-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Weekend Getaway",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Rock Garden • Rose Garden • Sukhna Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Families & Solo Elite Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-round (Best from Oct to Mar)",
+        "sort_order": 5
+      },
+      {
+        "text": "Travel Format: Private Independent Travel (FIT Portfolio)",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private curated sunset boat cruise and personalized local architectural map presentation",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Sector 17 Shopping Plaza, Phulkari embroidery, Punjabi Juttis",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-009-rock-garden-rose-garden-itinerary",
+    "title": "Rock Garden & Rose Garden Quick Premium Escape",
+    "duration_label": "01 Night / 02 Days",
+    "duration_days": 2,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Weekend Escape)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Discover the elegant architectural precision and natural mastery of India's most beautifully planned urban oasis",
+    "overview": "Escape the mundane with our finely tailored Premium Chandigarh Experience. This high-end weekend tour is perfectly organized for guests who demand seamless logistics, professional local insights, and relaxed exploration. From your choice of elite luxury accommodations to an entirely private sightseeing rhythm, TRAGUIN handles every operational detail so you can indulge in the true spirit of the City of Joy.\n\nTravel Format: Private Independent Travel (FIT Portfolio). Vehicle: Private Premium Sedan / SUV with professional uniformed chauffeur. Meal Plan: Modified American Plan (Continental Breakfast & Gourmet Dinner Included). Route Map: Chandigarh Arrival → Rock Garden Exploration → Sukhna Lake Cruise → Rose Garden Walk → Elite Departure.\n\nTRAGUIN Curated Touch: Pre-booked skip-the-line VIP entry passes, luxury vehicle refreshments, and highly personalized timing mapping.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-009 | Rock Garden & Rose Garden Quick Premium Escape | TRAGUIN",
+    "seo_description": "Premium 01 Night / 02 Days Chandigarh weekend package (CH-009 / TG-CH-009-PREM): Rock Garden, Sukhna Lake sunset boating, Rose Garden, and handpicked 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Nek Chand Rock Garden VIP Visit",
+        "sort_order": 1
+      },
+      {
+        "text": "Private Sunset Boating at Sukhna Lake",
+        "sort_order": 2
+      },
+      {
+        "text": "Zakir Hussain Rose Garden Botanical Walk",
+        "sort_order": 3
+      },
+      {
+        "text": "Open Hand Monument Drive",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts with seamless crowd-free pacing",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Chandigarh Arrival • Artistic Marvels & Sunset Lakeside Cruise",
+        "description": "Your premium weekend escape begins with a warm welcome as your dedicated TRAGUIN chauffeur meets you at Chandigarh Airport, Railway Station, or your preferred nearby location. Relax inside your private luxury vehicle as you transfer smoothly to your handpicked premium hotel for an effortless check-in. In the afternoon, dive into the creative genius of Chandigarh Sightseeing with a VIP visit to the world-renowned Rock Garden. Marvel at the visionary work of Nek Chand, who transformed discarded industrial and domestic waste into a striking labyrinth of majestic ceramic courts, waterfalls, and stone sculptures. Following this artistic immersion, take a short drive to the peaceful Sukhna Lake just as the sun begins to set. Enjoy a private, curated boating experience on the calm waters, capturing breathtaking landscapes against the Shivalik hills. Wrap up your evening with a gourmet dinner at your premium hotel.",
+        "activities": [
+          "Sightseeing Included: Nek Chand's Rock Garden, Sukhna Lake Waterfront",
+          "Evening Experience: Private Sunset Boating & Lakefront Promenade Walk",
+          "Overnight Stay: Chandigarh (Premium / Luxury Selected Hotel)",
+          "Meals Included: Gourmet Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Botanical Majesty, Architectural Iconics & Departure",
+        "description": "Awaken to a delicious, multi-cuisine continental breakfast at your hotel before embarking on a beautiful morning excursion. Today we explore the stunning Zakir Hussain Rose Garden, Asia's largest botanical garden dedicated entirely to roses. Stroll along manicured paths lined with over 1,600 distinct varieties of roses, capturing exceptional photography points where vibrant petals stretch as far as the eye can see. Next, enjoy a brief driving tour of the famous Capitol Complex and the iconic Open Hand Monument. In the afternoon, indulge in premium boutique shopping or explore fine cafes around the upscale Sector 17 or Elante luxury arcades. Later, your chauffeur will provide a smooth, comfortable transfer back to the airport or railway station as your memorable weekend journey concludes.",
+        "activities": [
+          "Sightseeing Included: Zakir Hussain Rose Garden, Open Hand Monument Drive",
+          "Optional Activities: Premium high-street shopping & cafe exploration",
+          "Overnight Stay: Tour Concludes / Departure Transfer",
+          "Meals Included: Full Buffet Breakfast"
+        ],
+        "sort_order": 2
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lemon Tree Hotel / Hyatt Centric",
+        "location": "Chandigarh",
+        "nights_label": "01 Night",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Chandigarh Tribune Chowk / Radisson",
+        "location": "Chandigarh",
+        "nights_label": "01 Night",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh / Taj Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "01 Night",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Club Luxury Heritage Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort, New Chandigarh",
+        "location": "New Chandigarh",
+        "nights_label": "01 Night",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Luxury Valley Tent / Villa",
+        "meal_plan": "All-Inclusive Curated Map",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "01 Night luxury accommodation in premium handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast and custom gourmet dinners at the hotel restaurant",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury transportation with a professional uniformed chauffeur",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Pre-booked VIP skip-the-line entrance tickets to the Rock Garden",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private sunset boating experience vouchers on Sukhna Lake",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Chilled mineral water, wet tissues, and premium travel snacks inside the vehicle",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive TRAGUIN support throughout the entire weekend trip",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All applicable fuel charges, parking fees, driver allowances, and state toll taxes",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights, rail bookings, or interstate long-distance tickets",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, or spa sessions",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Lunch meals, local alcohol, or specialized private cafe orders",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera, video recording, or professional drone photography fees",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal travel or medical insurance tracking policies",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips for your driver or local monument guides",
+        "sort_order": 14
+      }
+    ]
+  }
+}

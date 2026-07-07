@@ -1,0 +1,277 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-009-eastern-ghats-adventure-trail",
+    "serial_code": "AP-009",
+    "traguin_tour_code": "TG-AP-ADV-009",
+    "title": "TRAGUIN Premium Eastern Ghats Adventure Trail",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-009 | TRAGUIN tour code TG-AP-ADV-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Premium Adventure Trail",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Visakhapatnam • Araku Valley • Lambasingi",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Enthusiasts, Active Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Adventure Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: High-Clearance 4x4 Luxury SUVs | Meal Plan: Premium MAPAI (Adventure-Fueled Menus)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Vizag (1N) → Lambasingi (1N) → Araku Valley (3N) → Vizag Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset canyon trek and expert-led mountain navigation.",
+        "sort_order": 9
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Nature",
+      "Family",
+      "Trekking"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-009-eastern-ghats-adventure-trail-itinerary",
+    "title": "TRAGUIN Premium Eastern Ghats Adventure Trail",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Adventure Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Rugged Mountains • Pristine Canyons • Coastal Heights • 05 Nights / 06 Days",
+    "overview": "Awaken your inner explorer. The Best Andhra Pradesh Adventure Tour Package, curated by TRAGUIN, invites you to conquer the dramatic Eastern Ghats.\n\nTOUR OVERVIEW\nThis adrenaline-focused Eastern Ghats Adventure Trail spans Visakhapatnam, Lambasingi, and Araku Valley with bespoke luxury transportation in high-ground-clearance vehicles and expert-led trekking routes.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-009 | Premium Eastern Ghats Adventure Trail | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Eastern Ghats adventure package (AP-009 / TG-AP-ADV-009): Lambasingi, Borra Caves, canyon treks, Katiki Waterfalls, and 4-tier adventure stays.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Dolphin's Nose Lighthouse trek and coastal cliff exploration in Vizag",
+        "sort_order": 1
+      },
+      {
+        "text": "Lambasingi fog-covered mountain woods trek and luxury tented bonfire camp",
+        "sort_order": 2
+      },
+      {
+        "text": "Borra Caves rigorous descent and mountain eco-resort basecamp",
+        "sort_order": 3
+      },
+      {
+        "text": "Chaprai Waterfalls canyon gorge trek and Galikonda high-peak summit climb",
+        "sort_order": 4
+      },
+      {
+        "text": "Katiki Waterfalls multi-level forest trek and farewell bonfire at basecamp",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & COASTAL EXPLORATION",
+        "description": "Arrive in Visakhapatnam to a warm TRAGUIN welcome. Head out to the rugged coastal cliffs at Dolphin's Nose for a high-intensity trek up to the lighthouse point. Spend your evening by the beach preparing for the mountain climb ahead.",
+        "activities": [
+          "Sightseeing Included: Dolphin's Nose Lighthouse trek, coastal cliff exploration.",
+          "Evening Experience: Beachfront strategy briefing for the mountain trail.",
+          "Meals Included: Welcome Lunch, Dinner.",
+          "Overnight Stay: Premium Coastal Resort, Visakhapatnam."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "TO THE FOGGY HEIGHTS OF LAMBASINGI",
+        "description": "Drive into the mountains to Lambasingi, often called the Kashmir of Andhra. Your TRAGUIN guides lead an exploratory trek into the thick mountain woods. Experience a luxury-tented camp with an open bonfire under the clear mountain sky.",
+        "activities": [
+          "Sightseeing Included: Mountain ghat drive, forest trekking, valley view exploration.",
+          "Evening Experience: Bonfire camping in high-altitude forest surroundings.",
+          "Meals Included: Breakfast, Lunch, Dinner.",
+          "Overnight Stay: Luxury Tented Camp, Lambasingi."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CROSSING TO THE ARAKU VALLEY DEEP-WOODS",
+        "description": "Trek through local tea and strawberry estates before descending into Araku Valley. Prepare for a rigorous descent into the Borra Caves before settling into your mountain basecamp.",
+        "activities": [
+          "Sightseeing Included: Borra Caves exploration, mountain driving trail.",
+          "Evening Experience: Relaxing in mountain eco-resort after a full day of trekking.",
+          "Meals Included: Breakfast, Packed Adventure Lunch, Dinner.",
+          "Overnight Stay: Luxury Mountain Eco-Resort, Araku."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "THE CANYONS & HIGH PEAKS ADVENTURE",
+        "description": "Expert-led canyon trek to Chaprai Waterfalls along the river gorge. In the afternoon, conquer the Galikonda View Point trek for breathtaking 360-degree mountain vistas.",
+        "activities": [
+          "Sightseeing Included: Canyon gorge trek, Galikonda high-peak summit climb.",
+          "Evening Experience: Tribal cultural interaction and adventure storytelling.",
+          "Meals Included: Breakfast, Adventure Lunch, Dinner.",
+          "Overnight Stay: Luxury Mountain Eco-Resort, Araku."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "WATERFALL TRAILS & THE DESCENT",
+        "description": "Focus on the Katiki Waterfalls multi-level climb through forest thickets. Post-hike, enjoy a high-protein tribal meal cooked by local experts. Begin your return journey to the lowlands.",
+        "activities": [
+          "Sightseeing Included: Katiki waterfall trekking, forest navigation.",
+          "Evening Experience: Farewell bonfire at your basecamp.",
+          "Meals Included: Breakfast, Adventure Lunch, Dinner.",
+          "Overnight Stay: Luxury Mountain Eco-Resort, Araku."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "RETURN TO VIZAG & DEPARTURE",
+        "description": "After a final breakfast overlooking the valley, descend back to the coast for your smooth final drive to the airport or station.",
+        "activities": [
+          "Sightseeing Included: Mountain-to-coast descent transfer.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Standard Resort / Forest Rest House",
+        "location": "Visakhapatnam / Lambasingi / Araku Valley",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Standard Resort / Forest Rest House (Standard Mountain View)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Mountain View",
+        "meal_plan": "Premium MAPAI",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Haritha Resorts / Boutique Mountain Stay",
+        "location": "Visakhapatnam / Lambasingi / Araku Valley",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Haritha Resorts / Boutique Mountain Stay (Premium Valley View)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Valley View",
+        "meal_plan": "Premium MAPAI",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Private Mountain Eco-Lodges",
+        "location": "Visakhapatnam / Lambasingi / Araku Valley",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Private Mountain Eco-Lodges (Luxury Cottage / Tented Suite)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Cottage / Tented Suite",
+        "meal_plan": "Premium MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Elite Forest Retreats / Adventure Resorts",
+        "location": "Visakhapatnam / Lambasingi / Araku Valley",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Elite Forest Retreats / Adventure Resorts (Private Adventure Villa)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Adventure Villa",
+        "meal_plan": "Premium MAPAI",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights luxury mountain and coastal accommodations.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Adventure Dining: Daily breakfast, high-protein adventure lunches, and gourmet dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private 4x4 high-clearance SUV throughout the journey.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Elite Adventure Team: Local expert trackers, mountain guides, and naturalist navigators.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Experience: Private sunset canyon trek and expert-led mountain navigation.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Dedicated concierge assistance, gear support, toll taxes, and driver allowance.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel Tickets: Intercity flight or rail tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry Tickets: Forest permits, cave entry fees, and lighthouse tickets.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Items: Laundry, premium drinks, spa services, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Personal travel adventure insurance (Highly Recommended).",
+        "sort_order": 10
+      }
+    ]
+  }
+}

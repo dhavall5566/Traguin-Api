@@ -1,0 +1,311 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-001-mysore-coorg-luxury-escape",
+    "serial_code": "KA-001",
+    "traguin_tour_code": "TRAGUIN-MYS-CRG-001",
+    "title": "Mysore Coorg Luxury Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-001 | TRAGUIN tour code TRAGUIN-MYS-CRG-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Premium Family Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mysore • Coorg",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples, Nature & Heritage Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Plus Lush Monsoons)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Scale)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private Premium SUV (Innova Crysta / Luxury Sedan)",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Breakfast & Handpicked Curated Dinners (MAPAI)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Plan: Bangalore → Mysore (1N) → Coorg (3N) → Bangalore Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Amenities & 24/7 Dedicated Concierge Support",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family bean-to-cup coffee brewing masterclass with an estate connoisseur",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Mysore Silk saris, sandalwood oils, Mysore Pak; Coorg coffee, cardamom, pepper, organic honey",
+        "sort_order": 12
+      },
+      {
+        "text": "Instagram Spots: Mysore Palace illumination, Abbey Falls, Raja's Seat sunset, Tibetan Golden Temple at Bylakuppe",
+        "sort_order": 13
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; book ultra-luxury rooms 45 days ahead during peak season",
+        "sort_order": 14
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Family",
+      "Luxury",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-001-mysore-coorg-luxury-escape-itinerary",
+    "title": "Mysore Coorg Luxury Escape",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Scale)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Mysore • Coorg Luxury Escape • 04 Nights / 05 Days",
+    "overview": "Welcome to an extraordinary journey meticulously crafted by TRAGUIN. This exclusive luxury Karnataka holiday seamlessly bridges the royal opulence, heritage charm, and cultural grandiosity of Mysore with the serene mist-kissed highlands, sprawling coffee estates, and breathtaking landscapes of Coorg. Perfectly engineered to deliver an unparalleled, deeply immersive family experience, this bespoke getaway effortlessly blends world-class luxury, private chauffeured transfers, signature handpicked hotels, and deeply engaging wildlife and historical explorations.\n\nYour bespoke TRAGUIN travel itinerary begins in the heritage-rich city of Mysore, where palatial elegance stands gracefully alongside vibrant traditional markets. Experience private guided palace walk-throughs and intimate musical fountain viewings before ascending to Coorg via a beautifully scenic route. Surrounded by cascading seasonal waterfalls, spice plantations, and absolute tranquility, your family will discover the pinnacle of luxury, rejuvenation, and comfort on the Best Karnataka Tour Package available.\n\nWhy Visit Karnataka? This iconic pairing delivers the ultimate dual-world Indian holiday—combining ultra-luxury heritage immersion with an exquisite mountain retreat. Mysore captivates multi-generational families with magnificent architectural sites, rich silk weaving heritage, and sandalwood fragrances. Coorg, the Scotland of India, provides a refreshing alpine sanctuary famous for pristine natural ecosystems, sprawling organic coffee estates, and panoramic viewpoints.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-001 | Mysore Coorg Luxury Escape | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Mysore & Coorg package (KA-001 / TRAGUIN-MYS-CRG-001): Mysore Palace, Chamundi Hills, Brindavan Gardens, Dubare Elephant Camp, Abbey Falls, coffee plantation trail, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Seringapatam Fortress, Brindavan Gardens Musical Show & Mysore Palace",
+        "sort_order": 1
+      },
+      {
+        "text": "Chamundi Hills, Tibetan Golden Temple at Bylakuppe & Coorg plantation immersion",
+        "sort_order": 2
+      },
+      {
+        "text": "Dubare Elephant Camp, Abbey Falls, Madikeri Fort & Raja's Seat sunset",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family bean-to-cup coffee brewing masterclass",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Hotels: 4-tier luxury properties across Mysore & Coorg",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Bangalore & Drive to Mysore | Welcome to Royal Grandeur",
+        "description": "Arrive at Bangalore's Kempegowda International Airport, where a dedicated TRAGUIN luxury travel representative will warmly greet your family with premium welcome amenities and a private chauffeured luxury vehicle. Smoothly begin your journey toward Mysore, stopping en route to appreciate the historical fortress of Seringapatam. Upon arrival in Mysore, check in to your heritage luxury hotel. After a short period of relaxation, embark on a curated evening exploration of the world-famous Brindavan Gardens. Experience a spectacular, symphonic musical fountain show that brings light, water, and sound together in perfect alignment.",
+        "activities": [
+          "Sightseeing Included: Seringapatam Fortress, Brindavan Gardens Musical Show",
+          "Optional Activities: Artisanal sandalwood oil shopping excursion",
+          "Evening Experience: Illumination walk through pristine palace-side gardens",
+          "Overnight Stay: Mysore Premium Luxury Hotel",
+          "Meals Included: Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mysore Sightseeing & Transfer to Coorg | Journey to the Coffee Kingdom",
+        "description": "Savor a magnificent multi-cuisine breakfast before diving into the definitive Mysore sightseeing experience. Visit the legendary, breathtaking Mysore Palace, an extraordinary blend of Indo-Saracenic architecture filled with grand mahogany ceilings, stained glass windows, and solid silver doors. Next, drive up the historic Chamundi Hills to visit the ancient Sri Chamundeshwari Temple and view the monolithic Nandi Bull structure. In the afternoon, embark on a scenic drive toward the mist-clad hills for your exclusive Coorg family tour. En route, stop at Bylakuppe to witness the Namdroling Monastery, the majestic Golden Temple of the Tibetan community. Check into your ultra-luxury hill resort tucked neatly within a private coffee estate.",
+        "activities": [
+          "Sightseeing Included: Mysore Palace, Chamundi Hills, Tibetan Golden Temple",
+          "Optional Activities: Premium silk sari weaving workshop visit",
+          "Evening Experience: Traditional Kodava welcome drink and cultural bonfire night",
+          "Overnight Stay: Coorg Premium Luxury Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Coorg Plantation Immersive Experience | Coffee Trails & Eco-Adventures",
+        "description": "Awaken to the soothing sounds of mountain birds and a refreshing alpine breeze. Today features a deeply immersive private bean-to-cup coffee plantation trail curated by TRAGUIN experts. Walk alongside expert botanists through shade-grown Arabica and Robusta plantations, learning the secrets behind harvesting world-class coffee and exotic spices like cardamom and black pepper. Enjoy a premium coffee tasting session right in the heart of the estate. Spend your afternoon at absolute leisure, enjoying the resort's premium luxury infinity pool overlooking the canopy, or unwinding completely within the resort's premium luxury spa facility.",
+        "activities": [
+          "Sightseeing Included: Private Coffee Estate Walk, Spice Plantation Trail",
+          "Optional Activities: Organic aroma-therapy wellness spa treatment",
+          "Evening Experience: Private family candle-lit patio dinner under a canopy of stars",
+          "Overnight Stay: Coorg Premium Luxury Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Coorg Sightseeing | Waterfalls, Fortresses & Sunset Panoramas",
+        "description": "Indulge in a rich breakfast spread before heading out for a comprehensive day of Coorg sightseeing. Visit the Dubare Elephant Camp along the banks of the Kaveri River, where your family can experience an interactive session watching elephants bathe and learn about conservation efforts. Next, visit the sparkling, cascading waters of Abbey Falls nestled beautifully within spice gardens. Explore the historic Madikeri Fort, which reflects a unique combination of European and Asian architecture. As late afternoon approaches, your private guide will escort you to Raja's Seat (The Seat of Kings), where rolling hills and mist-covered valleys create a phenomenal panorama. Watch a spectacular sunset while capturing unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Dubare Elephant Camp, Abbey Falls, Madikeri Fort, Raja's Seat",
+          "Optional Activities: Still-water river rafting or plantation zip-lining",
+          "Evening Experience: Fine dining featuring signature traditional Kodava cuisine options",
+          "Overnight Stay: Coorg Premium Luxury Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Coorg to Bangalore | Cherishing Unforgettable Premium Memories",
+        "description": "Enjoy a leisurely breakfast on your private balcony, taking in the serene mountain scenery one final time. Spend your morning at absolute relaxation inside the resort, enjoying a family swim or purchasing artisanal local souvenirs. At the designated check-out time, your professional chauffeur will assist with luggage and drive you safely down the hills back to Bangalore. Your dedicated TRAGUIN holiday concludes as you are smoothly dropped off at Bangalore Airport or your preferred railway terminal, carrying a treasure trove of unforgettable luxury memories from your premium Karnataka escape.",
+        "activities": [
+          "Sightseeing Included: Scenic return drive across the Western Ghats landscape",
+          "Optional Activities: En-route gourmet lunch stop at a premium highway estate",
+          "Evening Experience: Warm farewell at the airport departure gate",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Plaza Hotel Mysore / Club Mahindra Madikeri / Amanvana Spa Resort",
+        "location": "Mysore / Coorg",
+        "nights_label": "04 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Room / 1-Bedroom Suite / Private Bungalow (CP/MAP)",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand Mercure Mysore / The Tamara Coorg",
+        "location": "Mysore / Coorg",
+        "nights_label": "04 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Premium Room / Luxury Cabin (CP/MAP)",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Royal Orchid Metropole / Heritage Inn / Evolve Back, Coorg (Orange County)",
+        "location": "Mysore / Coorg",
+        "nights_label": "04 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Royal Suite / Heritage Pool Villa (CP/MAP)",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Palace Hotel / Lalitha Mahal / Taj Madikeri Resort & Spa, Coorg",
+        "location": "Mysore / Coorg",
+        "nights_label": "04 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Maharaja Heritage Suite / Luxury Pool Villa with Valley Panoramic Views (CP/MAP)",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Elite Accommodation: 04 Nights stay in handpicked, premier luxury properties across Mysore & Coorg",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Bespoke Meal Plan: Daily lavish breakfast spreads and specialized multi-course culinary dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: All transfers, long-distance touring, and city sightseeing via an exclusive private premium SUV",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Welcoming: Traditional flower garland welcome, cold towels, and a premium curated fruit basket upon arrival",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Interactive Elephant Experience: Exclusive access tickets for family interaction at Dubare Elephant Camp",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP Access & Entry: Pre-booked entry tickets and private professional guides for Mysore Palace and ancient caves/monasteries",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Full Professional Coverage: All toll fees, border taxes, driver allowances, fuel charges, and state permits",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Continuous 24/7 real-time remote concierge support from senior travel specialists",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airfares, flight bookings, or main interstate train ticket expenses",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidental expenses such as laundry services, mini-bar consumption, telephone calls, and room service",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any specialized adventure activities, camera/video usage fees at monuments, or optional sightseeing detours",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meals, lunches, or beverage selections not specifically detailed in the official itinerary",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory peak festive season surcharges (Christmas, New Year, and major national holiday weeks)",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage and medical expenses of any nature",
+        "sort_order": 14
+      }
+    ]
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-009-grand-west-bengal-hills-sunderbans-mega",
+    "serial_code": "WB-009",
+    "traguin_tour_code": "TRAGUIN-WB-009",
+    "title": "Grand West Bengal Hills & Sunderbans Mega Experience",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-009 | TRAGUIN tour code TRAGUIN-WB-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Family Mega Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kolkata • Sunderbans • Darjeeling • Kalimpong",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Elite Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Travel Pattern: Tailor-Made Family FIT Travel",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle Allocated: Private Air-Conditioned Luxury Innova Crysta & Private Motorized Cruise Boat",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: Daily Deluxe Buffet Breakfasts (All meals included during Sunderbans Cruise)",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Optimal blend of comfort and discovery with priority lane check-ins and unique access across national landmarks.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping: Darjeeling first-flush tea, Kolkata Baluchari and Tant cotton sarees, clay handicrafts.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Check-in 14:00 hrs, check-out 11:00 hrs. Mountain regions need warm layers. Toy train and jungle cruise permits require advance booking.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Wildlife",
+      "Hills"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-009-grand-west-bengal-hills-sunderbans-mega-itinerary",
+    "title": "Grand West Bengal Hills & Sunderbans Mega Experience",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand West Bengal Hills & Sunderbans Mega Experience • 08 Nights / 09 Days",
+    "overview": "Welcome to an extraordinary journey mapping the cultural soul, royal history, and majestic ecological wonders of Eastern India. Carefully assembled by the lifestyle travel architects at TRAGUIN, this signature itinerary links the architectural grandness of colonial Kolkata, the mysterious deep tidal mangrove networks of the Sunderbans, and the cloud-kissed premium stays of Darjeeling.\n\nTOUR OVERVIEW\nTravel Pattern: Tailor-Made Family FIT Travel. Vehicle Allocated: Private Air-Conditioned Luxury Innova Crysta & Private Motorized Cruise Boat. Meal Plan: Daily Deluxe Buffet Breakfasts (All meals included during Sunderbans Cruise).\n\nTRAGUIN Curated Experience Note: Enjoy seamless, non-hurried private luxury logistics, expert local companion guides, priority check-ins at handpicked heritage luxury resorts, and high-end immersive safaris across top-tier destinations.\n\nWHY CHOOSE OUR PREMIUM WEST BENGAL EXPERIENCE?\nWest Bengal stands out globally as a region defined by profound contrasts—from the iconic attractions of the Himalaya mountain ranges to the deltaic wilderness of the Royal Bengal Tiger. Elite voyagers searching for a Luxury West Bengal Holiday or a well-paced West Bengal Family Tour will discover unmatched cultural complexity, local gastronomy, and unforgettable memories.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-009 | Grand West Bengal Hills & Sunderbans Mega | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days West Bengal package (WB-009 / TRAGUIN-WB-009): Kolkata, Sunderbans safari, Kalimpong, Darjeeling, Mirik, and 4-tier accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Kolkata Hooghly riverside drive, Howrah Bridge, and heritage luxury stay",
+        "sort_order": 1
+      },
+      {
+        "text": "Sunderbans National Park water safari, Sajnekhali, Sudhanyakhali, and Dobanki Canopy Walk",
+        "sort_order": 2
+      },
+      {
+        "text": "Kalimpong Durpin Monastery, Deolo Hill, Pine View Nursery, and Toy Train to Ghoom",
+        "sort_order": 3
+      },
+      {
+        "text": "Darjeeling Tiger Hill sunrise, HMI, Zoo, tea estate, and Mirik Sumendu Lake excursion",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier handpicked accommodation across Kolkata/Sunderbans and Darjeeling/Kalimpong",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOLKATA ARRIVAL",
+        "description": "Arrive at Netaji Subhash Chandra Bose International Airport, Kolkata. A designated premium chauffeur from TRAGUIN will welcome you warmly and escort your family to a handpicked luxury hotel. After a seamless, smooth private check-in, unwind inside your sophisticated suite. In the late afternoon, enjoy an introduction to Kolkata's iconic attractions with a leisurely vehicle cruise past the brilliantly lit Howrah Bridge and Babu Ghat along the Hooghly River bank.",
+        "activities": [
+          "Sightseeing Included: Private Airport Pick-up, Hooghly Riverside Panoramic Drive.",
+          "Evening Experience: A welcome high-tea briefing with local sweet treats curated by our travel consultants.",
+          "Overnight Stay: Ultra-Luxury Heritage Hotel, Kolkata.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KOLKATA TO SUNDERBANS",
+        "description": "Depart early in your comfortable private vehicle towards Godkhali Jetty, the gateway to the world's largest mangrove forest ecosystem. Board an exclusive, customized TRAGUIN private motorized luxury cruise vessel. Travel smoothly down the Hogol, Gomor, and Durgaduani rivers. Arrive at a premium eco-luxury jungle resort nestled deep within the Delta. In the afternoon, enjoy an immersive village walking experience.",
+        "activities": [
+          "Sightseeing Included: River Delta Navigation, Local Island Village Walk.",
+          "Evening Experience: Traditional local tribal dance performance and fresh local seafood culinary dinner inside the resort gardens.",
+          "Overnight Stay: Premium Eco-Luxury Resort, Sunderbans.",
+          "Meals Included: Breakfast, Lunch, High Tea & Festive Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SUNDERBANS NATIONAL PARK SAFARI",
+        "description": "Embark on a thrilling, day-long water-bound safari through the narrow water creeks of the Sunderbans National Park. From your secure private vessel, look out for the legendary Royal Bengal Tiger swimming across channels or resting on mudflats. Visit the Sajnekhali Watchtower, Sudhanyakhali Watchtower, and the famous Dobanki Canopy Walkway.",
+        "activities": [
+          "Sightseeing Included: Sajnekhali, Sudhanyakhali, Dobanki Canopy Walk, Mangrove Interpretative Center.",
+          "Photography Points: Scenic panoramic lookouts from the watchtowers over pristine wild channels.",
+          "Overnight Stay: Premium Eco-Luxury Resort, Sunderbans.",
+          "Meals Included: Deluxe onboard Breakfast, Hot Regional Lunch, and Lakeside Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SUNDERBANS TO KOLKATA & FLY TO BAGDOGRA",
+        "description": "Enjoy a beautiful breakfast at the resort as the morning mist lifts over the water channels. Cruise back to Godkhali Jetty and transfer in your private vehicle directly to Kolkata Airport for your domestic flight to Bagdogra. Upon landing at Bagdogra, your hill-station luxury vehicle will comfortably drive your family up the scenic mountain roads to Kalimpong.",
+        "activities": [
+          "Sightseeing Included: Scenic Teesta River Valley Mountain Drive.",
+          "Evening Experience: Relax on the veranda of a handpicked colonial bungalow overlooking misty alpine peaks.",
+          "Overnight Stay: Premium Colonial Heritage Resort, Kalimpong.",
+          "Meals Included: Breakfast & Alpine Valley Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KALIMPONG SIGHTSEEING",
+        "description": "Explore Kalimpong's tranquil charm. Visit the Durpin Monastery (Zang Dhok Palri Phodang), located on Durpin Hill, which preserves sacred Tibetan Buddhist scriptures. Stroll through renowned international flower nurseries famous for exotic orchids, and witness historical relic archives at Morgan House. Enjoy panoramic mountain photography from the Deolo Hill view platform.",
+        "activities": [
+          "Sightseeing Included: Durpin Monastery, Deolo Hill, Pine View Nursery, Morgan House.",
+          "Optional Activities: Short family picnic at the scenic Deolo parkland gardens.",
+          "Overnight Stay: Premium Colonial Heritage Resort, Kalimpong.",
+          "Meals Included: Full Buffet Breakfast & Multi-cuisine Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "KALIMPONG TO DARJEELING",
+        "description": "Take a scenic, picturesque mountain drive to Darjeeling, weaving past emerald-green tea gardens clinging to steep slopes. Check into your ultra-luxury room in Darjeeling. In the afternoon, embark on an iconic train journey on the UNESCO World Heritage Darjeeling Himalayan Railway (Toy Train) steam engine joyride from Darjeeling to Ghoom Monastery, looping beautifully around the Batasia Loop war memorial.",
+        "activities": [
+          "Sightseeing Included: Himalayan Railway Toy Train Steam Ride, Batasia Loop, Ghoom Monastery.",
+          "Local Experiences: Private evening walk around the vibrant, heritage Chowrasta Mall square.",
+          "Overnight Stay: Luxury Boutique Resort, Darjeeling.",
+          "Meals Included: Breakfast & Fine-dining Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DARJEELING EARLY SUNRISE & CITY SIGHTSEEING",
+        "description": "Wake up early at 4:00 AM and ride in your private 4x4 vehicle up to Tiger Hill to witness an emotional, unforgettable sunrise. Watch the sun light up the snow-capped peak of Mount Kanchenjunga in shades of gold and pink. On your drive down, visit the Himalayan Mountaineering Institute (HMI), Padmaja Naidu Himalayan Zoological Park, and watch local tea pluckers at work inside a premium estate.",
+        "activities": [
+          "Sightseeing Included: Tiger Hill Sunrise, Zoo & HMI, Tibetan Refugee Self Help Center, Tea Estate.",
+          "Food Suggestions: Enjoy authentic hot tea and baked goods at the iconic Glenary's Bakery.",
+          "Overnight Stay: Luxury Boutique Resort, Darjeeling.",
+          "Meals Included: Morning Tea, Buffet Breakfast & Luxury Dinner."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "DARJEELING EXCURSION TO MIRIK LAKE",
+        "description": "Take a relaxing day trip to the peaceful lakeside town of Mirik. The drive travels through high-altitude pine forests and borders the international boundary with Nepal. Enjoy a private, relaxing boat ride across Sumendu Lake (Mirik Lake), surrounded by a canopy of tall dhupi trees and connected by an elegant footbridge. Stop for shopping at the Pashupati Nagar border market before returning to Darjeeling.",
+        "activities": [
+          "Sightseeing Included: Mirik Sumendu Lake, Simana Viewpoint, Pashupati Nagar Market area.",
+          "Photography Points: Pine forests at Simana view marker overlooking beautiful rolling valley slopes.",
+          "Overnight Stay: Luxury Boutique Resort, Darjeeling.",
+          "Meals Included: Breakfast & Farewell Theme Dinner."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "DEPARTURE FROM BAGDOGRA",
+        "description": "Savor a final breakfast on your resort balcony, taking in the clean mountain air. Your private vehicle will arrive to transport your family down to Bagdogra International Airport for your return flight home. Your elite West Bengal Honeymoon / Family Tour concludes seamlessly, leaving you with incredible stories and premium memories.",
+        "activities": [
+          "Transfers Included: Private Mountain Airport Drop-off.",
+          "Meals Included: Full Gourmet Breakfast."
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Peerless Inn",
+        "location": "Kolkata / Sunderbans",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: The Peerless Inn / Sunderban Tiger Camp (Kolkata / Sunderbans, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Room",
+        "meal_plan": "Breakfast & All Meals (Sunderbans)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Summit Hermon Resort / Pine Tree Spa",
+        "location": "Darjeeling / Kalimpong",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Summit Hermon Resort / Pine Tree Spa (Darjeeling / Kalimpong, 05 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Sonar Luxury Collection / Sunderban Riverside Resort",
+        "location": "Kolkata / Sunderbans",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: ITC Sonar Luxury Collection / Sunderban Riverside Resort (Kolkata / Sunderbans, 03 Nights)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & All Meals (Sunderbans)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin Darjeeling / Elgin Silver Oaks Kalimpong",
+        "location": "Darjeeling / Kalimpong",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: The Elgin Darjeeling / Elgin Silver Oaks Kalimpong (Darjeeling / Kalimpong, 05 Nights)",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Heritage Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Bengal Kolkata / Sunderban Luxury Eco Oasis",
+        "location": "Kolkata / Sunderbans",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Bengal Kolkata / Sunderban Luxury Eco Oasis (Kolkata / Sunderbans, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & All Meals (Sunderbans)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Darjeeling / Mayfair Himalayan Resort",
+        "location": "Darjeeling / Kalimpong",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Mayfair Darjeeling / Mayfair Himalayan Resort (Darjeeling / Kalimpong, 05 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Grand Kolkata / Private Exclusive Jungle Villa",
+        "location": "Kolkata / Sunderbans",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi Grand Kolkata / Private Exclusive Jungle Villa (Kolkata / Sunderbans, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Private Villa",
+        "meal_plan": "All Inclusive",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Windamere Hotel / Luxury Chalets",
+        "location": "Darjeeling / Kalimpong",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Windamere Hotel (Heritage Suite) / Luxury Chalets (Darjeeling / Kalimpong, 05 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Heritage Suite / Luxury Chalet",
+        "meal_plan": "All Inclusive",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 08 Nights luxury stay in handpicked hotels and high-end mountain chalets.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine breakfast spreads, along with all meals included during the Sunderbans segment.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All city excursions and mountain transfers in a private, air-conditioned Luxury Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Assistance: 24/7 dedicated concierge help-line, along with certified professional local companion guides.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private boat charter inside Sunderbans water channels and pre-booked tickets for the Darjeeling Toy Train joyride.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Luxury arrival kit containing fresh seasonal fruits, traditional handloom stoles, and premium mineral water.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare tickets from your hometown to Kolkata / Bagdogra.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to historical monuments, camera permits, or park fees not explicitly mentioned.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidentals like laundry, premium alcoholic beverages, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities or detours outside the scheduled itinerary layout.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

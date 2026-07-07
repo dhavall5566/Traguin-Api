@@ -1,0 +1,320 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-004-premium-konkan-coast-tour-package",
+    "serial_code": "MH-004",
+    "traguin_tour_code": "TRAGUIN-KONKAN-004",
+    "title": "Premium Konkan Coast Tour Package",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-004 | TRAGUIN tour code TRAGUIN-KONKAN-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Premium Family Vacation",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ratnagiri • Ganpatipule • Malvan • Tarkarli",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Coastal Explorers, Luxury Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Best Time to Visit Konkan Coast)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Coastal Family Tour (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Luxury SUV (Innova Crysta) with Professional Captain",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Gourmet Breakfast & Signature Coastal Dinners (MAPAI)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Ratnagiri (1N) ➔ Ganpatipule (1N) ➔ Tarkarli / Malvan (3N)",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset dolphin cruise on the backwaters with customized refreshments on-board",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Organic cashew nuts, Amba Poli, Kokum sherbet concentrate, and Malvani masala from Malvan Bazaar",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Scuba diving weather-dependent; book 60 days ahead for ultra-luxury beachfront villas; check-in 14:00, check-out 11:00",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-004-premium-konkan-coast-tour-package-itinerary",
+    "title": "Premium Konkan Coast Tour Package",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Ultimate Coastal Maharashtra Luxury Family Tour • 5 Nights / 6 Days",
+    "overview": "Welcome to an unforgettable luxury coastal escape exclusively masterminded by TRAGUIN. This premium Konkan Coast tour package invites your family to discover the pristine, sun-kissed, and culturally rich maritime heritage of Maharashtra. Traversing from the historic fortress horizons of Ratnagiri and the sacred beachfronts of Ganpatipule to the emerald-hued waters and white sands of Malvan and Tarkarli, this holiday brings together breathtaking landscapes, exquisite luxury stays, and exclusive experiences. Unwind with private oceanfront villas, curated heritage trails, and exhilarating marine safaris custom-tailored for your absolute peace of mind.\n\nYour highly-coveted TRAGUIN Konkan Coast package begins with a luxury overland transition into Maharashtra's most majestic maritime landscapes. Travel past scenic coastal cliffs, traditional Alphonso mango orchards, and iconic historic bastions inside a premium private SUV. Designed exclusively as an elite, family-focused FIT program, this luxury Konkan Coast holiday offers handpicked beach resorts, seamless daily pacing, an indulgent local coastal meal plan featuring fresh premium delicacies, and immersive private guidance across some of the most sought-after hidden paradises in India.\n\nWhy Visit the Konkan Coast? Widely regarded as one of India's most breathtaking secret coastlines, the Konkan Coast offers a pristine sanctuary completely away from overcrowded tourist tracks. It stands out as the ultimate choice for a luxury Konkan Coast holiday, blending dramatic geographical escarpments, warm local hospitality, historic sea forts, and unblemished, soft white sands.\n\nFamous Attractions & Most Searched Experiences: This itinerary brings you face-to-face with the top tourist places in the Konkan Coast, featuring the magnificent seaside Swayambhu Ganpati Temple, the massive seafaring Sindhudurg Fort, and the calm waters of the Karli backwaters. This targeted TRAGUIN Konkan Coast experience ensures your family participates in popular Instagram locations like the panoramic Arey Warey Twin Beaches and the historic sands of Tarkarli Beach with exclusive, stress-free private logistics.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-004 | Premium Konkan Coast Tour Package | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Konkan Coast tour (MH-004 / TRAGUIN-KONKAN-004): Ratnagiri, Ganpatipule, Sindhudurg Fort, Tarkarli, Karli backwaters, scuba diving, and 4-tier handpicked coastal accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Ratnadurg Fort, Thiba Palace & Mandvi Black Sand Beach",
+        "sort_order": 1
+      },
+      {
+        "text": "Arey Warey Twin Beaches, Ganpatipule Temple & Prachin Konkan",
+        "sort_order": 2
+      },
+      {
+        "text": "Sindhudurg Sea Fort, Rock Garden Malvan & Tarkarli Shoreline",
+        "sort_order": 3
+      },
+      {
+        "text": "Karli Backwaters, Devbagh Sangam & Tsunami Island",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset dolphin cruise on the backwaters with customized refreshments",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Ratnagiri | Gateway to Heritage, History & Mango Orchards",
+        "description": "Your premium Konkan Coast sightseeing trip begins as your family arrives at Ratnagiri, where a premier, uniformed TRAGUIN chauffeur welcomes you with customized amenities. Board your private luxury SUV and transfer smoothly to your premium resort on the cliffside. In the afternoon, explore the magnificent Ratnadurg Fort, a majestic sea-girt fortress offering panoramic views over the Arabian Sea. Next, visit the historical Thiba Palace, the elegant exile home of the last King of Burma, surrounded by beautifully manicured grounds. Wrap up your day at Mandvi Black Sand Beach to witness an evocative sunset, capturing spectacular family photographs alongside the iconic gateway jetty.",
+        "activities": [
+          "Sightseeing Included: Ratnadurg Fort, Thiba Palace, Mandvi Beach",
+          "Optional Activities: Specialized Alphonso Mango estate walk (seasonal)",
+          "Evening Experience: Private candlelit terrace dinner facing the ocean waves",
+          "Overnight Stay: Ratnagiri Premium Luxury Cliff Resort",
+          "Meals Included: Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Ratnagiri to Ganpatipule | Scenic Coastal Drives & Sacred White Sands",
+        "description": "Savor a lavish multi-cuisine breakfast before embarking on one of the most beautiful coastal drives in India—the legendary Arey Warey Road. This scenic route curves along dramatic sea-cliffs and turquoise bays, perfect for photography spots. Upon arriving at the tranquil beach town of Ganpatipule, check into your ultra-luxury beachfront villa. In the afternoon, enjoy a private VIP guided visit to the 400-year-old Swayambhu Ganpati Temple, located right on the sandy shore. Spend your late afternoon walking together across the pristine, uncrowded sands of Ganpatipule Beach as the tide recedes under a golden sky.",
+        "activities": [
+          "Sightseeing Included: Arey Warey Twin Beaches, Ganpatipule Temple, Prachin Konkan",
+          "Optional Activities: Open-air museum cultural tour at Prachin Konkan",
+          "Evening Experience: Spiritual seaside Aarti experience followed by a beach walk",
+          "Overnight Stay: Ganpatipule Ultra-Luxury Beachfront Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Ganpatipule to Tarkarli | Journey into Pristine Malvan Waters",
+        "description": "Enjoy an early morning breakfast by the beach before checking out. Your private vehicle will sweep your family southward down the stunning Konkan Coast toward Malvan and Tarkarli. This gorgeous route crosses over estuaries, tranquil backwaters, and lush coconut plantations. Arrive in Tarkarli in the afternoon and check into your exclusive beachfront eco-cottage, where the white sands are just steps from your private sundeck. Spend your evening completely at ease, listening to the soothing waves and enjoying the absolute peace of this handpicked sanctuary.",
+        "activities": [
+          "Sightseeing Included: Malvan Coastal Route, Tarkarli Beachfront Exploration",
+          "Optional Activities: Traditional Konkani culinary masterclass at the resort",
+          "Evening Experience: Private bonfire night on the beach with local seafood specialties",
+          "Overnight Stay: Tarkarli Luxury Beachfront Eco-Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Malvan Marine Safari | The Legendary Sindhudurg Fort & Coral Waters",
+        "description": "Today highlights the ultimate Premium Konkan Coast Experience. After a hearty breakfast, head to the historical Malvan jetty. Board a private speed boat to explore the grand Sindhudurg Fort, built right in the sea by Chhatrapati Shivaji Maharaj in the 17th century. Walk past its massive, enduring rock walls with your private historian guide. In the afternoon, head to the calm, crystal-clear marine zones near the fort walls for a curated scuba diving and snorkeling experience. Accompanied by certified professional instructors, your family can discover vibrant coral reefs and colorful marine life, creating unforgettable memories together.",
+        "activities": [
+          "Sightseeing Included: Sindhudurg Sea Fort, Rock Garden Malvan, Tarkarli Shoreline",
+          "Optional Activities: Private Scuba Diving, Snorkeling & Jet-ski safaris",
+          "Evening Experience: Stroll through Malvan Marine Rock Garden for sunset views",
+          "Overnight Stay: Tarkarli Luxury Beachfront Eco-Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Karli Backwaters Cruise | Devbagh Beach & Extravagant Dolphin Spotting",
+        "description": "Awaken early for a truly magical morning. Board a private luxury houseboat at the Karli River estuary for a peaceful cruise through the tranquil backwaters where the river meets the sea. Watch for playful wild dolphins leaping near Devbagh Sangam point. Step ashore onto the thin, secluded sands of Tsunami Island to enjoy premium water sports or a relaxing mud-walk. Spend your afternoon at leisure, relaxing under the palm trees or enjoying a refreshing dip in the warm ocean waters.",
+        "activities": [
+          "Sightseeing Included: Karli Backwaters, Devbagh Sangam, Tsunami Island",
+          "Optional Activities: Parasailing, Banana-boat rides, Speedboat cruising",
+          "Evening Experience: Signature multi-course farewell dinner hosted by the resort",
+          "Overnight Stay: Tarkarli Luxury Beachfront Eco-Resort",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Tarkarli to Departure | Carrying Home a Lifetime of Sun-Kissed Memories",
+        "description": "Wake up to the gentle murmur of the Arabian Sea one last time. Savor a final breakfast on your private veranda and take a quiet morning stroll across the white sands. At check-out time, your professional chauffeur will assist with luggage and drive you smoothly toward Kudal / Ratnagiri railway station, or directly back to Goa / Mumbai airport. Your premium holiday seamlessly concludes here, leaving you with beautiful, sun-kissed family memories from your exclusive TRAGUIN Maharashtra Package.",
+        "activities": [
+          "Sightseeing Included: Scenic return drive through the Western Ghats foothills",
+          "Optional Activities: Shopping stop at a government-approved organic cashew outlet",
+          "Evening Experience: Warm assistance at the departure terminal gates",
+          "Overnight Stay: Departure / End of Services",
+          "Meals Included: Rich Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Kohinoor Samudra Beach Resort / MTDC | Blue Water Resort Tarkarli / Golven Resort",
+        "location": "Ratnagiri & Ganpatipule (2N) / Malvan & Tarkarli (3N)",
+        "nights_label": "05 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Sea View Room (CP) / Beachfront Eco Cottage (MAP)",
+        "meal_plan": "CP Ratnagiri-Ganpatipule & MAP Tarkarli",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Courtyard Resort Ganpatipule | Tarkarli Niwas Nyahari / United 21 Beach Resort",
+        "location": "Ratnagiri & Ganpatipule (2N) / Malvan & Tarkarli (3N)",
+        "nights_label": "05 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Winter Green Valley View Room (CP) / Premium Ocean View Cabin (MAP)",
+        "meal_plan": "CP Ratnagiri-Ganpatipule & MAP Tarkarli",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Blue Ocean Resort & Spa by Coastal Riva | Nivati Rock Resort / Devbagh Beach Stay",
+        "location": "Ratnagiri & Ganpatipule (2N) / Malvan & Tarkarli (3N)",
+        "nights_label": "05 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Executive Beachfront Villa (CP) / Premium Sea-Facing Chalet (MAP)",
+        "meal_plan": "CP Ratnagiri-Ganpatipule & MAP Tarkarli",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Blue Ocean Resort - Private Pool Villa Wing | Coco Shambhala Sindhudurg",
+        "location": "Ratnagiri & Ganpatipule (2N) / Malvan & Tarkarli (3N)",
+        "nights_label": "05 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Ocean-Front Pool Villa with Butler (CP) / Exclusive Bespoke Luxury Tree-Top Pavilion (MAP)",
+        "meal_plan": "CP Ratnagiri-Ganpatipule & MAP Tarkarli",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Elite Accommodation: 05 Nights stay in handpicked, premier luxury coastal resorts and oceanfront properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Bespoke Meal Plan: Daily lavish breakfast spreads and specialized multi-course traditional coastal dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: All transfers, long-distance touring, and city sightseeing via an exclusive private premium SUV.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Welcoming: Welcome drinks, cold towels, and a premium seasonal Konkan fruit hamper upon arrival.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Backwater Cruise: Exclusive private boat cruise along the Karli River backwaters for dolphin spotting.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "VIP Guided Excursions: Pre-booked entry tickets and private professional guides for Sindhudurg Sea Fort and Thiba Palace.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Full Professional Coverage: All toll fees, border taxes, driver allowances, fuel charges, and state permits are completely covered.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Continuous 24/7 real-time remote concierge support from senior travel specialists.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International airfares, flight bookings, or main interstate train ticket expenses.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidental expenses such as laundry services, mini-bar consumption, telephone calls, and room service.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any specialized adventure water sports (scuba diving, parasailing, jet-skiing) unless added as an optional extra.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meals, lunches, or beverage selections not specifically detailed in the official itinerary.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory peak festive season surcharges (applicable during Diwali, Christmas, and New Year weeks).",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage and medical expenses of any nature.",
+        "sort_order": 14
+      }
+    ]
+  }
+}

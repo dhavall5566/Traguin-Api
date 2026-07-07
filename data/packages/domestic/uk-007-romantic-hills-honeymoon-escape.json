@@ -1,0 +1,316 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-007-romantic-hills-honeymoon-escape",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Romantic Hills • A Sublime Luxury Honeymoon Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 26,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Mussoorie (3N) → Rishikesh (2N) with Dhanaulti excursion",
+        "sort_order": 1
+      },
+      {
+        "text": "Private chauffeur-driven luxury sedan for all sightseeing",
+        "sort_order": 2
+      },
+      {
+        "text": "MAPAI — lavish breakfasts and gourmet thematic dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Honeymoon floral layout, chocolates, and fruit basket",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated guest relations manager",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-007 | Serial UK-007",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-007-romantic-hills-itinerary",
+    "title": "Romantic Hills • A Sublime Luxury Honeymoon Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Mussoorie • Dhanaulti • Rishikesh • Haridwar",
+    "overview": "This custom-tailored luxury proposal offers an exquisite blend of misty mountain ranges, emerald lakes, dense oak forests, and soulful riverside luxury. Traveling in a dedicated premium private vehicle with a professional tourist chauffeur, you will discover the absolute best of the region. Complete with a curated luxury meal plan containing sumptuous breakfasts and intimate candlelit dinners, this route represents the definitive premium Uttarakhand experience. Your journey is elevated by a specialized TRAGUIN curated experience note, ensuring priority access, signature honeymoon amenities, and round-the-clock bespoke support.",
+    "is_featured": true,
+    "featured_sort_order": 26,
+    "seo_title": "UK-007 | Romantic Hills Honeymoon Escape | TRAGUIN",
+    "seo_description": "Luxury 05 Nights / 06 Days Uttarakhand honeymoon (UK-007): Mussoorie, Dhanaulti, Rishikesh, and Haridwar with candlelit dinners, MAPAI plan, and private Triveni Ghat Aarti seating.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Kempty Falls & Lal Tibba Viewpoint",
+        "sort_order": 1
+      },
+      {
+        "text": "Gun Hill Cable Car",
+        "sort_order": 2
+      },
+      {
+        "text": "Dhanaulti Eco Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Triveni Ghat Ganga Aarti",
+        "sort_order": 4
+      },
+      {
+        "text": "Beatles Ashram",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Dehradun to Mussoorie | Welcome to the Queen of Hills",
+        "description": "Your premium Uttarakhand experience begins as you touch down at Dehradun Airport or arrive at the railway station. A private luxury transport vehicle waits to receive you with refreshing welcome amenities. Begin your scenic ascent up the winding mountain roads towards Mussoorie. Check into your handpicked premium luxury resort boasting majestic valley views. Spend a beautifully relaxed evening exploring the colonial lanes of Mall Road hand-in-hand, sampling local pastries, and capturing romantic sunset photography points.",
+        "activities": [
+          "Sightseeing Included: Scenic Dehradun-Mussoorie route, Mussoorie Mall Road heritage stroll, Camel's Back Road",
+          "Evening Experience: Honeymoon special cake cutting ceremony and welcome drinks at your private resort terrace",
+          "Overnight Stay: Mussoorie (Premium / Luxury Resort with Valley View Balcony)",
+          "Meals Included: Welcome Drink & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mussoorie Sightseeing Experiences | Misty Waterfalls & Highest Peaks of Romance",
+        "description": "Wake up to a pristine mountain sunrise over the Himalayas. Today, enjoy a fully guided Mussoorie sightseeing tour. Head towards the cascading waters of Kempty Falls for a refreshing morning experience. Later, ascend to Lal Tibba, the highest peak in Mussoorie, offering breathtaking landscapes of snow-capped Himalayan peaks through a telescope. Conclude your afternoon at the historic Company Garden and take a romantic cable car ride up to Gun Hill for an unmatched view of the sunset.",
+        "activities": [
+          "Sightseeing Included: Kempty Falls, Lal Tibba Viewpoint, Gun Hill Cable Car, Company Garden, Mussoorie Lake",
+          "Optional Activities: Private professional couple photography session amidst the alpine settings",
+          "Overnight Stay: Mussoorie (Premium / Luxury Resort)",
+          "Meals Included: Premium Breakfast & Romantic Candlelit Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Excursion to Dhanaulti Meadows | Pristine Alpine Woods & Tranquil Isolation",
+        "description": "Depart after breakfast for an exquisite day excursion to Dhanaulti, a peaceful haven surrounded by dense eco-parks of oak, pine, and deodar trees. Walk down the serene paths of Eco Park, experiencing pure mountain silence and natural scenic beauty. Visit the Surkanda Devi temple for panoramic mountain views before returning to Mussoorie in the evening for an intimate dinner.",
+        "activities": [
+          "Sightseeing Included: Dhanaulti Eco Park, Amber and Twin Eco Forests, Himalayan viewpoints",
+          "Evening Experience: Warm mountain tea and local snacks at a rustic hillside café curated by TRAGUIN experts",
+          "Overnight Stay: Mussoorie (Premium / Luxury Resort)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Mussoorie to Rishikesh | Yoga Capital of the World",
+        "description": "Drive down the picturesque hills towards Rishikesh, the world-renowned capital of spiritual wellness and riverside charm. Check into your luxury riverside resort. In the afternoon, cross the iconic suspension bridges of Lakshman Jhula and Ram Jhula, visiting historic ashrams and vibrant local markets. As dusk sets, head to Triveni Ghat for an emotionally moving, private-seating Ganga Aarti experience where thousands of oil lamps float beautifully upon the river.",
+        "activities": [
+          "Sightseeing Included: Ram Jhula, Lakshman Jhula, Gita Bhawan, Triveni Ghat Ganga Aarti",
+          "Evening Experience: Reserved luxury seating for the grand evening musical prayer ceremony at the Holy Ganges",
+          "Overnight Stay: Rishikesh (Luxury Riverside Spa Resort)",
+          "Meals Included: Premium Breakfast & Elaborate Organic Dinner Buffet"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Rishikesh Immersive Experiences | Adventure, Cafe Culture & Emerald Waters",
+        "description": "Spend a magnificent day exploring the diverse culture of Rishikesh. Start your morning with a complimentary couple's meditation or yoga session at the resort. For adventure enthusiasts, an optional premium white-water rafting experience or a cliff-jumping session can be organized. In the afternoon, explore the famous Beatles Ashram, a highly popular Instagram location filled with beautiful murals and tranquil ruins.",
+        "activities": [
+          "Sightseeing Included: Beatles Ashram, Local lifestyle cafes, Shivananda Ashram paths",
+          "Optional Activities: White-water river rafting under expert safety guidance, Bungee jumping",
+          "Overnight Stay: Rishikesh (Luxury Riverside Spa Resort)",
+          "Meals Included: Premium Breakfast & Farewell Special Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Rishikesh to Dehradun / Departure | Cherishing Unforgettable Memories for a Lifetime",
+        "description": "Indulge in a final lavish breakfast at your premium resort. Enjoy a serene morning look at the emerald waters of the Ganges. Your private luxury transport will escort you safely back to Dehradun Airport or Railway Station for your onward journey. Return home carrying a heart filled with deep love and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door departure transfer",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Golden Tulip / Hotel Horizon / similar",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Valley View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "EllBee Ganga View / similar",
+        "location": "Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Jaypee Residency Manor / Welcomhotel",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Balcony Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Aloha On The Ganges / similar",
+        "location": "Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Savoy (IHCL SeleQtions) / JW Marriott",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Executive Valley Suite",
+        "meal_plan": "MAPAI + Honeymoon Kit",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Rishikesh Resort & Spa / similar",
+        "location": "Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury River View Suite",
+        "meal_plan": "MAPAI + Spa Privilege",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Orchid Luxury Private Villa Suite",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Royal Presidential Suite",
+        "meal_plan": "Bespoke Royal MAPAI",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Ananda In The Himalayas (Palace Suite)",
+        "location": "Rishikesh",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Palace Suite",
+        "meal_plan": "Bespoke Royal Concierge MAPAI",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Handpicked romantic hotels as per your selected tier",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private chauffeur-driven sedan for all sightseeing",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish daily breakfast and gourmet thematic dinners",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest relations manager on active call",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Honeymoon floral layout, luxury chocolates, and fruit basket",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private entry slot for Triveni Ghat evening prayer",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight charges, or train tickets",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera passes, and local tour guide fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, telephone billing, or tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure sports like rafting, bungee jumping, and ropeways",
+        "sort_order": 10
+      }
+    ]
+  }
+}

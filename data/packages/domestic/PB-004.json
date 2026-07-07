@@ -1,0 +1,288 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "pb-004-punjab-heritage-tour",
+    "serial_code": "PB-004",
+    "traguin_tour_code": "TRG-PUB-004",
+    "title": "Punjab Heritage Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PB-004 | TRAGUIN tour code TRG-PUB-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Punjab / India | Category: Punjab Heritage Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Amritsar • Wagah Border • Kapurthala • Jalandhar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Heritage Enthusiasts & Culture Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Winters)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Chauffeur Sedan / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family historical briefing before entering the partition museum galleries.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom routing designed to avoid congestion during peak hours near the Wagah Border highway.",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected based on their history, luxury ratings, safety, and excellent reviews.",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Expert drivers providing reliable and safe long-distance transit across state highways.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "Family",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "pb-004-punjab-heritage-tour-itinerary",
+    "title": "Punjab Heritage Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Amritsar • Wagah Border • Kapurthala • Jalandhar",
+    "overview": "PUNJAB HERITAGE TOUR • THE LAND OF FIVE RIVERS & ETERNAL ROYALTY\n\nWelcome to a glorious immersive journey curated exclusively by TRAGUIN. Experience the true essence of vibrancy, spirituality, and timeless history with our definitive Punjab Family Tour. As your elite travel consultants, TRAGUIN presents a beautifully detailed exploration into the majestic past, sacred shrines, and architectural treasures of Punjab. From the absolute spiritual serenity of the Golden Temple to the French-inspired royal courts of Kapurthala, this luxury holiday is meticulously planned with premium stays, scenic beauty, and authentic cultural touchpoints to present you with unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored heritage itinerary offers an unmatched opportunity to explore the historical, spiritual, and artistic legacies of Northern India. Travelling in a completely private premium AC vehicle managed by a professional, highly courteous chauffeur, your journey seamlessly blends majestic forts with bustling local bazaars. Enjoy a meticulously designed meal plan featuring lavish daily breakfasts and rich traditional Punjabi dinners. Every element of your trip carries the signature touch of TRAGUIN curated experiences, assuring absolute comfort, private local insights, and round-the-clock bespoke assistance.\n\nWHY CHOOSE THE BEST PUNJAB TOUR PACKAGE?\nWhen shortlisting a Luxury Punjab Holiday, discerning world travellers look for meaningful encounters with rich culinary traditions, military prestige, and deep spiritual legacy. Punjab provides access to some of the most iconic attractions in the world. The holy Harmandir Sahib (Golden Temple) remains a centerpiece of global faith, serving as an exceptional location for a highly memorable Punjab Honeymoon Package or an enriching Punjab Family Tour. From witnessing the highly patriotic beating retreat ceremony at the Wagah Border to discovering the breathtaking landscapes of lush yellow mustard fields, Punjab sightseeing captures the imagination. Visitors can capture stunning shots at popular Instagram locations like the historic Jallianwala Bagh, the majestic Gobindgarh Fort, and the exquisite French-style palaces of Kapurthala. Whether you want to enjoy intense traditional shopping, explore centuries-old military heritage, or visit ancient structures, our specialized TRAGUIN Punjab Packages ensure handpicked hotels, exclusive experiences, and seamless execution during the absolute best time to visit Punjab.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PB-004 | Punjab Heritage Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Punjab package (PB-004 / TRG-PUB-004): Amritsar • Wagah Border • Kapurthala • Jalandhar with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AMRITSAR — WELCOME TO THE SPIRITUAL CAPITAL – DIVINE EVENING PRAYERS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: AMRITSAR CITY SIGHTSEEING TO WAGAH BORDER — HISTORIC SACRIFICES & HIGH-OCTANE MILITARY PATRIOTISM",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: AMRITSAR TO KAPURTHALA HERITAGE EXPEDITION — THE PARIS OF PUNJAB – FRENCH ARCHITECTURE & ROYAL COURTS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: JALANDHAR EXPEDITION & RURAL HERITAGE IMMERSION — EXPLORING CRAFTSMANSHIP, FOLK CULTURE & BREATHTAKING LANDSCAPES",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE VIA AMRITSAR / DELHI — CHERISHING THE MEMORIES OF LAND OF COPIOUS HOSPITALITY",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family historical briefing before entering the partition museum galleries.",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom routing designed to avoid congestion during peak hours near the Wagah Border highway.",
+        "sort_order": 7
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations selected based on their history, luxury ratings, safety, and excellent reviews.",
+        "sort_order": 8
+      },
+      {
+        "text": "Luxury Transportation: Expert drivers providing reliable and safe long-distance transit across state highways.",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AMRITSAR — WELCOME TO THE SPIRITUAL CAPITAL – DIVINE EVENING PRAYERS",
+        "description": "Your premium Punjab experience begins with a grand welcome at Amritsar Airport or Railway Station by your private luxury transport chauffeur. Transfer to your handpicked premium luxury hotel and unwind. In the late afternoon, embark on an emotionally moving visit to the legendary Golden Temple. Witness the golden domes reflecting beautifully in the sacred Amrit Sarovar tank. Stay to absorb the spiritual atmosphere during the evening Palki Sahib ceremony.",
+        "activities": [
+          "Sightseeing Included: Harmandir Sahib (Golden Temple), Divine Pool Walkway, Evening Palki Sahib Ceremony.",
+          "Evening Experience: Aromatic traditional dining at a premium authentic culinary house curated by TRAGUIN experts.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Heritage Property)",
+          "Meals Included: Welcome Mocktail & Gourmet Traditional Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AMRITSAR CITY SIGHTSEEING TO WAGAH BORDER — HISTORIC SACRIFICES & HIGH-OCTANE MILITARY PATRIOTISM",
+        "description": "After a delicious breakfast, pay a solemn visit to the historic Jallianwala Bagh to honor the martyrs of freedom. Next, explore the grand Partition Museum, which stands as a deeply moving repository of historical memories. In the afternoon, take a scenic drive to the Wagah Border to witness the legendary international Border Beating Retreat Ceremony. Feel the intense patriotic energy, loud cheers, and precise military choreography before returning to the city for local shopping.",
+        "activities": [
+          "Sightseeing Included: Jallianwala Bagh Memorial, Partition Museum, Wagah Border International Outpost.",
+          "Optional Activities: A late-night street-food walk through the old city to enjoy authentic Amritsari Kulchas with extra butter.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Heritage Property)",
+          "Meals Included: Premium Breakfast & Luxury Buffer Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "AMRITSAR TO KAPURTHALA HERITAGE EXPEDITION — THE PARIS OF PUNJAB – FRENCH ARCHITECTURE & ROYAL COURTS",
+        "description": "Depart Amritsar after a hearty breakfast and travel to the majestic princely state of Kapurthala, fondly called the 'Paris of Punjab'. Admire the spectacular Jagatjit Palace, inspired by the Palace of Versailles in France. Explore the beautiful Elysee Palace, the unique Moorish Mosque built by a French architect, and the stunning Shalimar Gardens. This city offers popular Instagram locations for capturing unique heritage portraits.",
+        "activities": [
+          "Sightseeing Included: Jagatjit Palace Exterior, Moorish Mosque, Elysee Palace Grounds, Panch Mandir.",
+          "Evening Experience: Private luxury high-tea experience overlooking the grand lawns of a local heritage estate.",
+          "Overnight Stay: Kapurthala / Jalandhar (Premium Boutique Hotel Stay)",
+          "Meals Included: Premium Breakfast & Royal Mughlai Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "JALANDHAR EXPEDITION & RURAL HERITAGE IMMERSION — EXPLORING CRAFTSMANSHIP, FOLK CULTURE & BREATHTAKING LANDSCAPES",
+        "description": "Spend your day diving into the cultural richness of Jalandhar. Explore the sacred Devi Talab Mandir and learn about the local arts at the Wonders of Punjab exhibition galleries. In the afternoon, enjoy an immersive experience at an authentic luxury model village heritage farm. Walk through vibrant yellow mustard fields, take a tractor ride, and enjoy live folk music performances.",
+        "activities": [
+          "Sightseeing Included: Devi Talab Mandir, Jalandhar Traditional Bazaars, Heritage Farm Estate.",
+          "Optional Activities: Hands-on pottery making and learning traditional Bhangra drum rhythms.",
+          "Overnight Stay: Jalandhar (Premium / Luxury Corporate Business Property)",
+          "Meals Included: Premium Breakfast & Traditional Farm-to-Table Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE VIA AMRITSAR / DELHI — CHERISHING THE MEMORIES OF LAND OF COPIOUS HOSPITALITY",
+        "description": "Indulge in a final lavish breakfast featuring fresh lassi and traditional paranthas. Your private luxury transport will comfortably escort you back to Amritsar International Airport or Jalandhar Railway station for your journey back home. Bid farewell to the warm hospitality of Punjab, carrying sweet unforgettable memories designed elegantly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury doorstep transit to airport or station.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Regenta Central / Fortune Inn / similar + Ramada Encore Jalandhar / similar",
+        "location": "Amritsar & Jalandhar / Kapurthala",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Kapurthala",
+        "description": "OPTION 01 – DELUXE: Regenta Central / Fortune Inn / similar + Ramada Encore Jalandhar / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Amritsar / Hyatt Regency + Radisson Hotel Jalandhar / similar",
+        "location": "Amritsar & Jalandhar / Kapurthala",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Kapurthala",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu Amritsar / Hyatt Regency + Radisson Hotel Jalandhar / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Club Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Swarna / Welcomhotel By ITC + The Cabbana Resort & Spa / similar",
+        "location": "Amritsar & Jalandhar / Kapurthala",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Kapurthala",
+        "description": "OPTION 03 – LUXURY: Taj Swarna / Welcomhotel By ITC + The Cabbana Resort & Spa / similar | Premium Custom Executive MAPAI",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "Premium Custom Executive MAPAI",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Hotel Amritsar Luxury Presidential Suite + Bespoke Heritage Private Luxury Haveli Villa",
+        "location": "Amritsar & Jalandhar / Kapurthala",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Kapurthala",
+        "description": "OPTION 04 – ULTRA LUXURY: The Grand Hotel Amritsar Luxury Presidential Suite + Bespoke Heritage Private Luxury Haveli Villa | VVIP Custom Tailored Meal Cuisines",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Suite / VVIP Haveli Villa",
+        "meal_plan": "VVIP Custom Tailored Meal Cuisines",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations as per chosen hotel package.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated AC sedan for entire sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine breakfast and lavish heritage dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel advisor assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized family travel kit, sweets, and fresh mineral water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private entry pass assistance for Wagah Border seating blocks.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or long-distance interstate rail passes.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, or tips.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance tickets, guide fees, or special camera equipment permissions.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional sightseeing tours or activity charges not explicitly mentioned.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

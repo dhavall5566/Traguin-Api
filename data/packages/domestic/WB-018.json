@@ -1,0 +1,263 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-018-murshidabad-nawabi-trail",
+    "serial_code": "WB-018",
+    "traguin_tour_code": "TRAG-WB-018-NAV",
+    "title": "Murshidabad Nawabi Tour — Historic Nawabi Trail Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-018 | TRAGUIN tour code TRAG-WB-018-NAV",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal / India | Category: Heritage Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Murshidabad Historic Nawabi Trail",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: History Buffs, Royals Lovers, Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private curated access to royal archives and interactive session inside Cossimbazar Palace.",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing mapped to showcase authentic weavers of royal Baluchari silk sarees live.",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Handloomed Baluchari sarees and local Chanabora sweets.",
+        "sort_order": 8
+      },
+      {
+        "text": "Important Notes: Scenic overland drive from Kolkata. Full transit luggage support by accompanying chauffeur.",
+        "sort_order": 9
+      }
+    ],
+    "moods": [
+      "Heritage",
+      "History",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-018-murshidabad-nawabi-trail-itinerary",
+    "title": "Murshidabad Nawabi Tour — Historic Nawabi Trail Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Murshidabad Nawabi Tour — Historic Nawabi Trail • 03 Nights / 04 Days",
+    "overview": "Step directly back into the magnificent golden era of the Nawabs of Bengal. Our highly recommended Best West Bengal Tour Package takes you along the pristine banks of the Bhagirathi River into legendary Murshidabad. Proudly curated by TRAGUIN, this iconic Luxury West Bengal Holiday promises an epic glimpse into massive European-style palaces, ancient structural ruins, and opulent craftsmanship.\n\nWHY EXPERIENCE THE ROYALTY OF MURSHIDABAD?\nMurshidabad is the ultimate crown jewel for historical seekers. Families searching for an elite West Bengal Family Tour marvel at the sheer architectural variance from grand Italianate arches to pristine Islamic domes. The absolute Best Time to Visit West Bengal's royal sector is late autumn and winter when gentle river mist blankets the majestic structures. The iconic Hazarduari Palace—boasting 1,000 real and false doors—stands proudly as a centerpiece of our premium West Bengal Sightseeing layout.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-018 | Murshidabad Nawabi Trail | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days West Bengal package (WB-018 / TRAG-WB-018-NAV): Hazarduari Palace, Katra Masjid, Cossimbazar Palace, Bhagirathi river cruise, and 4-tier heritage hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Hazarduari Palace Museum with 1,000 doors, Nizamat Imambara, and Katra Masjid",
+        "sort_order": 1
+      },
+      {
+        "text": "Jahankosha Cannon and optional vintage horse-drawn carriage (Tanga) ride",
+        "sort_order": 2
+      },
+      {
+        "text": "Cossimbazar Palace Royal Chambers, Nashipur Rajbari, and Kathgola Gardens",
+        "sort_order": 3
+      },
+      {
+        "text": "Private Bhagirathi River cruise with royal folk musicians on board",
+        "sort_order": 4
+      },
+      {
+        "text": "Khushbagh tomb of Nawab Siraj-ud-Daulah and 4-tier heritage Murshidabad accommodation (03 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KOLKATA TO MURSHIDABAD — ENTRY INTO THE NAWABI KINGDOM",
+        "description": "Your premium journey starts early from Kolkata city. Board your TRAGUIN private luxury vehicle for a highly scenic, comfortable driven cruise towards Murshidabad. Wind past historic towns and endless lush paddy fields. Upon reaching Murshidabad, check into your premium heritage resort. Spend the evening completely at leisure, listening to the ambient sounds of the nearby river or strolling through beautiful royal orchards.",
+        "activities": [
+          "Sightseeing Included: Scenic Overland Private Drive, Heritage Hotel Transfer, Evening Leisure Stroll.",
+          "Evening Experience: Gourmet traditional dinner introducing classic aromatic Sheherwali cuisine items.",
+          "Overnight Stay: Elite Handpicked Heritage Resort in Murshidabad.",
+          "Meals Included: Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "THE MAGNIFICENT HAZARDUARI PALACE & ROYAL ARCHITECTURE",
+        "description": "Dedicate your morning to the legendary Hazarduari Palace, designed by grand British architects for the Nawabs. Wander through spectacular collections of real royal armor, mirrors, and precious art canvases. Afterwards, explore the massive Nizamat Imambara located right opposite. Conclude your daylight hours by capturing photographs outside the Katra Masjid, an imposing mosque built by Nawab Murshid Quli Khan with unique fortification towers.",
+        "activities": [
+          "Sightseeing Included: Hazarduari Palace Museum, Nizamat Imambara, Katra Masjid, Jahankosha Cannon.",
+          "Optional Activities: A vintage horse-drawn carriage ride (Tanga) around the historic perimeter wall ruins.",
+          "Overnight Stay: Premium Heritage Resort in Murshidabad.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "COOSIMBAZAR PALACES & BHAGIRATHI RIVER SUNSET",
+        "description": "Today, explore the exceptionally maintained Cossimbazar Palace Royal Chambers. Walk straight past pristine family ballrooms, vintage clocks, and antique furniture. Learn the rich history of silk trading that brought global merchants here. In the late afternoon, step aboard an exclusive private wooden country boat arranged by TRAGUIN on the Bhagirathi River, floating right past historical tombstones as the evening sun descends gracefully.",
+        "activities": [
+          "Sightseeing Included: Cossimbazar Palace, Nashipur Rajbari, Kathgola Gardens & Jain Temple Complex.",
+          "Evening Experience: Serene private river cruise with royal folk musicians performing on board.",
+          "Overnight Stay: Heritage Resort in Murshidabad.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DEPARTURE TO KOLKATA — UNFORGETTABLE MEMORIES OF THE NAWABS",
+        "description": "Savor an early morning breakfast. Visit Khushbagh across the river to pay soft homage at the final resting place of Nawab Siraj-ud-Daulah. Following this, pack your bags with precious handloomed Baluchari sarees and return smoothly in your luxury private car back to Kolkata. Arrive late afternoon at the airport or station with everlasting, unforgettable memories of the Nawabi Trail.",
+        "activities": [
+          "Sightseeing Included: Khushbagh Tomb, Return Private Overland Cruise Drive to Kolkata.",
+          "Assistance: Full transit luggage support by the accompanying chauffeur.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Sagnik Murshidabad or similar",
+        "location": "Murshidabad",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Sagnik Murshidabad or similar (Murshidabad, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Executive AC Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Cossimbazar Palace Heritage Stay (Chhoti Rajbari)",
+        "location": "Murshidabad",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Cossimbazar Palace Heritage Stay (Murshidabad, 03 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Royal Heritage Classic Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Bari Kothi Heritage Hotel (Azimganj)",
+        "location": "Murshidabad",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Bari Kothi Heritage Hotel (Murshidabad, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Heritage Suite (Heritage Experience)",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Bari Kothi Heritage Luxury Palace",
+        "location": "Murshidabad",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Bari Kothi Heritage Luxury Palace (Murshidabad, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Maharaja Premium Suite",
+        "meal_plan": "All Inclusive Royal Gastronomy Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "03 Nights stay in premium palaces or elite riverfront properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast arrays and thematic Nawabi-style dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Fully dedicated AC sedan or SUV for all intercity transits.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive private boat ride across the sacred Bhagirathi River.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Heritage walk assistance and curated palace entrance handling.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Inclusive of fuel charges, tolls, parking, and driver meal allowances.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Continuous 24/7 TRAGUIN holiday supervisor tracking.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or long-distance railway tickets to Kolkata hub.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Local monuments ticket costs or guide service fee charges.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal tips, laundry, internal shopping, or beverage items.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance parameters or unforeseen road blocks expense.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any element missing inside the inclusion list column.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

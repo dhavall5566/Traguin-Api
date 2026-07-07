@@ -1,0 +1,268 @@
+{
+  "destination_slug": "puducherry",
+  "package": {
+    "slug": "py-008-premium-puducherry-educational-tour-package",
+    "serial_code": "PY-008",
+    "traguin_tour_code": "TG-PY-EDU-008",
+    "title": "Premium Puducherry Educational Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PY-008 | TRAGUIN tour code TG-PY-EDU-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Puducherry, India | Category: Educational School Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: White Town • Auroville • Arikamedu Archaeological Site • Chunnambar",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: School Students, Educators, Academic Delegations",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium Air-Conditioned Luxury Coaches (GPS-enabled, First-Aid Equipped)",
+        "sort_order": 7
+      },
+      {
+        "text": "Meal Plan: All Meals Included (Buffet Breakfast, Balanced Lunch, Healthy Evening High-Tea & Dinner)",
+        "sort_order": 8
+      },
+      {
+        "text": "Route Map: Chennai/Puducherry Arrival → White Town History Walk → Auroville Township → Arikamedu Site → Departure",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Specialized learning curricula designed in tandem with institutional syllabi, combining leisure with real academic growth.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Restaurants handpicked to guarantee highly nutritious, child-friendly, hygienic food variations.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Goubert Market & Cluny Embroidery Center: Perfect for exploring local organic cotton weaving and handcrafted lace work. Instagram Spots: The vibrant yellow-walled French alleys of Romain Rolland Street and Suffren Street.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: School NOC and student medical files must be updated and provided to TRAGUIN 15 days prior to travel commencement. Carrying sunscreen, comfortable walking shoes, and caps is highly recommended for archaeological field surveys. Due to high institutional movement, coach bookings and entry slot blockings require an early advance confirmation timeline.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Educational",
+      "Academic",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "py-008-premium-puducherry-educational-tour-package-itinerary",
+    "title": "Premium Puducherry Educational Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium Puducherry Educational Tour Package • 03 Nights / 04 Days",
+    "overview": "Welcome to India's pristine window to French heritage and conscious global living. This bespoke Educational Puducherry Tour curated dynamically by TRAGUIN merges academic learning with high-end comfort, ensuring highly enriching, safe, and immersive experiences for students and educators alike. Walk along historic cobblestone lanes, discover world-class architectural marvels, study archaeological origins, and secure unforgettable memories. Our premium stays and handpicked hotels promise total student safety, top-tier hygiene, and nourishing culinary layouts.\n\nTOUR OVERVIEW\nVehicle Type: Premium Air-Conditioned Luxury Coaches (GPS-enabled, First-Aid Equipped)\nMeal Plan: All Meals Included (Buffet Breakfast, Balanced Lunch, Healthy Evening High-Tea & Dinner)\nRoute Plan: Chennai/Puducherry Arrival → White Town History Walk → Auroville Township → Arikamedu Site → Departure\n\nCurated Note:\nThis premium student holiday features full certified student insurance cover, dedicated educational field guides, mineral water distribution, and 24/7 centralized monitoring backed by TRAGUIN Support.\n\nPuducherry serves as an unparalleled living historical laboratory, making it a highly requested choice for a Best Puducherry Tour Package or an interactive Puducherry Family Tour. Combining Franco-Tamil history, global sociology, and marine ecology, it offers profound knowledge trails for academic groups.\nWhite Town (French Quarter): A colonial architectural masterclass featuring iconic attractions, pastel facades, and unique urban layouts perfect for history mapping.\nAuroville Experimental Township: An inspiring international community centered on human unity, architecture, and sustainability, home to the magnificent Matrimandir.\nArikamedu Archaeological Site: An ancient Indo-Roman trading port dating back to the 2nd Century BC, providing profound lessons in history and maritime trade archaeology.\nBest Time to Visit Puducherry: The pleasant winter window between October and March is the optimal time for outdoor Puducherry Sightseeing and learning journeys.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PY-008 | Premium Puducherry Educational Tour Package | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Puducherry educational package (PY-008 / TG-PY-EDU-008): White Town, Auroville, Arikamedu Archaeological Site, Chunnambar, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "White Town colonial heritage mapping walk and Franco-Indian history orientation workshop",
+        "sort_order": 1
+      },
+      {
+        "text": "Auroville Visitors Centre sustainable development briefing and Matrimandir Viewpoint",
+        "sort_order": 2
+      },
+      {
+        "text": "Arikamedu Archaeological Ruins Indo-Roman trading station and Chunnambar backwater eco-systems",
+        "sort_order": 3
+      },
+      {
+        "text": "Sri Aurobindo Ashram spiritual education and competitive historic quiz with exclusive rewards",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Specialized learning curricula aligned with institutional syllabi",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Puducherry – White Town Colonial Heritage Mapping",
+        "description": "Arrive in the coastal paradise of Puducherry, where your dedicated TRAGUIN tour managers provide a warm corporate welcome. Board your premium luxury coach to transfer smoothly to your handpicked hotel for student-allocated room check-ins. In the afternoon, embark on an insightful, expert-guided architectural heritage walk through White Town. Students will map the historic French layout, view the monument memorials, and study the architectural synthesis of Franco-Tamil neighborhoods.",
+        "activities": [
+          "Sightseeing Included: White Town Quarter, French War Memorial, Promenade Beachwalk",
+          "Evening Experience: Interactive student briefing and orientation workshop on Franco-Indian history by a guest historian.",
+          "Overnight Stay: Puducherry (Premium High-Security Hotel/Resort)",
+          "Meals Included: Lunch & Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Auroville Experience – Conscious Sustainability & Matrimandir",
+        "description": "Relish a wholesome, premium breakfast at the hotel restaurant. Today, we journey to the famous international township of Auroville. Students will experience a curated educational briefing at the Auroville Visitors Centre, studying sustainable development, eco-friendly architecture, and water-harvesting models. Walk through organic shaded trails to view the spectacular golden dome of the Matrimandir from the panoramic viewing point, absorbing lessons in modern architecture and global social harmony.",
+        "activities": [
+          "Sightseeing Included: Auroville International Township, Matrimandir Viewpoint, Auroville Bamboo Research Center",
+          "Photography Points: The breathtaking landscapes framing the architectural wonder of Matrimandir.",
+          "Overnight Stay: Puducherry",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Arikamedu Indo-Roman Archaeology & Chunnambar Eco-Systems",
+        "description": "Following a refreshing breakfast, travel to the historically legendary Arikamedu Archaeological Site. Guided by an expert archaeological educator, students will explore the ancient ruins of this Indo-Roman trading station, discovering Roman pottery findings, bead-making history, and ancient maritime links. In the afternoon, transition to Chunnambar Boat House for a safe cruise along backwater rivers to learn about coastal marine eco-systems, mangroves, and sandbars.",
+        "activities": [
+          "Sightseeing Included: Arikamedu Archaeological Ruins, Chunnambar Backwaters, Paradise Beach Spit",
+          "Local Experience: Group field-notes session and competitive historic quiz with exclusive rewards.",
+          "Overnight Stay: Puducherry",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Spiritual Education & Farewell with Unforgettable Memories",
+        "description": "Indulge in your final morning breakfast. Check out of your premium stays and enjoy a quiet visit to the iconic Sri Aurobindo Ashram, learning about its rich literary, philosophical, and physical education contributions to modern India. Conclude the tour with a short shopping stop to buy handmade paper products or local clay crafts. Transfer comfortably back to your departure terminal as your exceptional Premium Puducherry Experience draws to a close, leaving everyone with deep knowledge and unforgettable memories powered by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast & Packed Lunch",
+          "Assistance: Full baggage management and smooth departure boarding facilitation by our tour coaches."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Atithi / Ocean Spray Residency",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE GROUP: Hotel Atithi / Ocean Spray Residency (Spacious Multi-Bed Student Wings)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Spacious Multi-Bed Student Wings",
+        "meal_plan": "All Meals Included",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Gratitude Heritage / Shenbaga Hotel",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Gratitude Heritage / Shenbaga Hotel (Club Comfort Room)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Club Comfort Room",
+        "meal_plan": "All Meals Included",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Resort Pondicherry / The Promenade Elite",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – PREMIUM LUXURY: Radisson Resort Pondicherry / The Promenade Elite (Club Comforts)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Club Comforts",
+        "meal_plan": "All Meals Included",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Resort Pondicherry / The Promenade Elite",
+        "location": "Puducherry",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Radisson Resort Pondicherry / The Promenade Elite (Elite Club Suite)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Club Suite",
+        "meal_plan": "All Meals Included",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Handpicked hotel accommodations with 24/7 security & CCTV coverage.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All buffet meals prepared under strict hygiene parameters.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury AC coaches for all transfers and academic travel.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary entry permissions and cruise boat tickets at Chunnambar.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Professional educational field guide and historian lecture fee.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Comprehensive student group travel insurance coverages.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Consistent TRAGUIN Support on-site manager.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Train fares or commercial flight tickets to airport base.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal purchases, individual room services, or laundry bills.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera or videography permit fees at archaeological centers.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

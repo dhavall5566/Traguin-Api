@@ -1,0 +1,370 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-009-senior-citizen-kumarakom-relaxed",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Senior Citizen Relaxed — Munnar, Kumarakom & Alleppey",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 33,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Gracefully paced Relax Kerala passage designed for senior citizens and relaxed families",
+        "sort_order": 1
+      },
+      {
+        "text": "Step-free ground-floor rooms, captain-seat luxury van, and patient chauffeur care",
+        "sort_order": 2
+      },
+      {
+        "text": "Gentle Munnar tea garden panoramas without steep trekking requirements",
+        "sort_order": 3
+      },
+      {
+        "text": "Two serene nights at Kumarakom lakefront resort with bird sanctuary and sunset cruise",
+        "sort_order": 4
+      },
+      {
+        "text": "4-hour premium Alleppey houseboat day cruise with mild-spice onboard lunch",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN 24/7 remote concierge with daily senior guest comfort check-ins",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Wellness"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-009-senior-citizen-kumarakom-relaxed-itinerary",
+    "title": "Senior Citizen Relaxed — Munnar, Kumarakom & Alleppey",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Relax Kerala — Graceful Comfort for Senior Travellers",
+    "overview": "A gracefully paced ultra-comfortable journey through God's Own Country purposefully designed for senior citizens — slow tea garden walks in Munnar, therapeutic Kumarakom lakefront serenity, a premium Alleppey day cruise, and accessible Fort Kochi heritage with zero fatigue and maximum luxury.",
+    "is_featured": true,
+    "featured_sort_order": 33,
+    "seo_title": "KL-009 | Senior Citizen Kerala | TRAGUIN Relax Kerala Passage",
+    "seo_description": "Luxury 05 Nights / 06 Days senior-friendly Kerala package (KL-009) covering Munnar, Kumarakom, Alleppey day cruise, and Cochin with accessible premium stays.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Accessible Munnar Tea Views",
+        "sort_order": 1
+      },
+      {
+        "text": "Kumarakom Lake Serenity",
+        "sort_order": 2
+      },
+      {
+        "text": "Alleppey Day Houseboat Cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Fort Kochi Heritage",
+        "sort_order": 4
+      },
+      {
+        "text": "Bird Sanctuary & Wellness",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Cochin to Munnar — Smooth Ascent to Mist-Kissed Hills",
+        "description": "Your journey begins with a smooth arrival at Cochin International Airport where a TRAGUIN guest relations officer welcomes you with fresh flower garlands. Travel in a spacious premium vehicle with wide doors and captain-style seats toward Munnar, pausing to admire Cheeyappara Waterfalls from roadside viewpoints.",
+        "activities": [
+          "Sightseeing Included: Roadside views of Cheeyappara & Valara Falls, Western Ghats Scenic Drive",
+          "Evening Experience: Relaxed evening at the resort garden terrace with light classical flute music",
+          "Overnight Stay: Munnar (Handpicked Senior-Friendly Luxury Resort)",
+          "Meals Included: Custom Gourmet Dinner (Mild Spices)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Munnar Hills — Tea Garden Panoramas",
+        "description": "Gentle Munnar sightseeing avoiding steep paths — Mattupetty Dam lakeside promenade, accessible Tea Museum, Echo Point flat trail, and curated walk through an organic spice and tea nursery.",
+        "activities": [
+          "Sightseeing Included: Mattupetty Dam viewpoint, Echo Point flat trail, Tea Museum, Lockhart Garden Gallery",
+          "Evening Experience: Private interactive session with a local tea master demonstrating artisanal brewing methods",
+          "Optional Activities: Mild Ayurvedic foot reflexology treatment at the resort wellness center",
+          "Overnight Stay: Munnar (Handpicked Senior-Friendly Luxury Resort)"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Munnar to Kumarakom — Tranquil Lakeside",
+        "description": "After a leisurely breakfast, your chauffeur guides the luxury vehicle down smooth slopes to Kumarakom on Vembanad Lake. Check into your waterfront resort and enjoy a relaxing sunset boat cruise with traditional light snacks.",
+        "activities": [
+          "Sightseeing Included: Scenic downhill drive, Kumarakom Lake Vistas",
+          "Evening Experience: Relaxing sunset boat cruise directly from the resort jetty with traditional light snacks onboard",
+          "Optional Activities: Gentle authentic Ayurvedic full-body rejuvenation massage focusing on joint comfort",
+          "Overnight Stay: Kumarakom (Premium Waterfront Luxury Resort)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Kumarakom — Day of Absolute Rest",
+        "description": "A completely relaxed day — optional gentle chair-yoga, long breakfast with fresh tropical fruits, electric golf-cart resort tour, and Kumarakom Bird Sanctuary on accessible flat paths.",
+        "activities": [
+          "Sightseeing Included: Kumarakom Bird Sanctuary entry (accessible flat paths or golf-cart views)",
+          "Evening Experience: Classic Kathakali dance performance from comfortable reserved front-row seats",
+          "Optional Activities: Pottery making, traditional indoor games, or consultation with a wellness expert",
+          "Overnight Stay: Kumarakom (Premium Waterfront Luxury Resort)"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Alleppey Day Cruise to Cochin — Backwater & Heritage",
+        "description": "Drive to Alleppey for an exclusive ultra-luxury private houseboat day cruise with flat decks and wide seating. Enjoy a mild-spice lunch onboard, then continue to your heritage hotel in Fort Cochin for a relaxed final evening at Chinese Fishing Nets.",
+        "activities": [
+          "Sightseeing Included: 4-Hour Exclusive Backwater Cruise, Alleppey Lagoons, Fort Cochin Heritage Drive",
+          "Evening Experience: Relaxed stroll to see historic Chinese Fishing Nets at sunset from the paved beach promenade",
+          "Overnight Stay: Cochin (Premium Heritage Luxury Hotel)",
+          "Meals Included: Breakfast, Traditional Houseboat Lunch & Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Cochin Departure",
+        "description": "Enjoy a relaxed breakfast at your heritage hotel. Stop at a luxury boutique center for handwoven shawls, tea blends, or aromatic spices before a comfortable assisted transfer to Cochin International Airport.",
+        "activities": [
+          "Sightseeing Included: Flexible morning drive through Fort Cochin or localized boutique shopping",
+          "Evening Experience: TRAGUIN assisted luggage handling and seamless airport check-in coordination",
+          "Overnight Stay: Not Applicable (Departure Day)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fog Munnar / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe stay in Munnar.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Blanket Hotel & Spa / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium stay in Munnar.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandy's Windy Woods / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury stay in Munnar.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Panoramic Getaway / Similar",
+        "location": "Munnar (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra Luxury stay in Munnar.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Abad Whispering Palms / Similar",
+        "location": "Kumarakom (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe stay in Kumarakom.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Kumarakom Lake Resort / Similar",
+        "location": "Kumarakom (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium stay in Kumarakom.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Zuri Kumarakom / Similar",
+        "location": "Kumarakom (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury stay in Kumarakom.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Niraamaya Retreats Backwaters & Beyond / Similar",
+        "location": "Kumarakom (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra Luxury stay in Kumarakom.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Trident Cochin / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe stay in Cochin.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Fragrant Nature Cochin / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium stay in Cochin.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Brunton Boatyard / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury stay in Cochin.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "The Malabar House / Similar",
+        "location": "Cochin (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra Luxury stay in Cochin.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury hotel stays with step-free or easily accessible ground-floor rooms",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfasts and custom low-spice gourmet dinners at all resorts",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private 4-hour luxury Alleppey houseboat day cruise with custom mild-spice lunch",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Premium extra-comfortable luxury vehicle with captain seating for all transport",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Experienced personal chauffeur trained for senior guest care and flexible pacing",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary sunset cruise on Vembanad Lake and traditional welcome wellness drinks",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All fuel costs, road tolls, parking fees, driver allowances, and TRAGUIN 24/7 remote concierge",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfares, airport taxes, and train tickets",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets for monuments, historical palaces, or national parks",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, optional intensive spa therapies, and travel or medical insurance",
+        "sort_order": 10
+      }
+    ]
+  }
+}

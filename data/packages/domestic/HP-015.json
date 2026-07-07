@@ -1,0 +1,278 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-015-corporate-himachal-mice",
+    "serial_code": "HP-015",
+    "traguin_tour_code": "TRG-HIM-MICE-015",
+    "title": "Corporate Himachal • Elevation, Leadership & Synergy",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-015 | TRAGUIN tour code TRG-HIM-MICE-015",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Corporate MICE & Team Building",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Mashobra • Kufri • Naldera",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Conferences, Executive Retreats & Team Building",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: April to July (Pleasant Summer) / October to March (Alpine Winter)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Group Tariffs Offered)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury Multi-axle Coaches / APEX (All Meals & Gala Events)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A mountain-top drone photography session with customized company",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless luggage check-in systems and prioritized lane passages across",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations thoroughly vetted for executive safety, corporate",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Highly vetted transit partners executing punctual multi-coach logistics with full",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Corporate Gifting: Reward your high performers with authentic wooden artifacts, high-quality woolen shawls from the local handloom emporiums, or premium artisanal forest honey from Himachal. Cafes & Culture: Experience the historic charm of Shimla's colonial-era bakeries, artisanal coffee venues along the Mall Road, and traditional Himachali food experiences designed to satisfy sophisticated global palates.",
+        "sort_order": 12
+      },
+      {
+        "text": "Conference Booking: Final presentation layouts, seating choices (Cluster/Theater), and specialized AV",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-015-corporate-himachal-mice-itinerary",
+    "title": "Corporate Himachal • Elevation, Leadership & Synergy",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Group Tariffs Offered)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Corporate Himachal",
+    "overview": "CORPORATE HIMACHAL • ELEVATION, LEADERSHIP & SYNERGY Welcome to a highly sophisticated corporate escape expertly curated by TRAGUIN. Align your organization's vision amidst the inspiring peaks of the Himalayas with the definitive Corporate Himachal retreat. As your dedicated corporate travel specialists, TRAGUIN transforms an ordinary business meeting into an exceptional luxury holiday, complete with state-of-the-art conference facilities, handpicked hotels, and exhilarating outdoor team-building sessions. Immerse your leadership teams in the scenic beauty of Shimla's alpine landscape, combining strategic focus with immersive experiences that foster unforgettable memories and long-term synergy.\n\nTOUR OVERVIEW\nThis elite corporate incentive and strategy retreat is designed exclusively for high-performing professional groups, key stakeholders, and leadership teams. Traveling in premium multi-axle luxury coaches under the seamless execution of a dedicated TRAGUIN tour director, the route balances analytical sessions with curated experiential rewards. Your customized meal plan includes expansive networking breakfasts, gourmet luncheon breaks, and elite themed Gala dinners. Every element incorporates the trademark TRAGUIN curated experience note, from smooth group check-ins and state-of-the-art AV logistics to premium stays and bespoke executive engagement options.\n\nWHY CHOOSE CORPORATE HIMACHAL FOR YOUR NEXT MICE EVENT?\nWhen planning a Luxury Himachal Holiday for corporate teams, businesses require spaces that seamlessly integrate dynamic professional facilities with untouched, breathtaking landscapes. Shimla serves as an extraordinary choice, making the signature Corporate Himachal Package an invaluable corporate asset. From exploring iconic attractions like the historic Viceregal Lodge and the ridge to undertaking high-altitude group ice-breakers in Kufri, Himachal sightseeing offers deep engagement. For companies looking to combine business milestones with team bonding, the region provides magnificent settings that serve as popular Instagram locations—such as the cedar groves of Mashobra and the manicured expanses of Naldera. Whether you are arranging an executive golf tournament, organizing group shopping excursions along the historic Mall Road, or enjoying traditional Himachali food experiences, our TRAGUIN Himachal Packages offer unparalleled corporate event management. Our commitment to premium stays and",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-015 | Corporate Himachal | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Himachal Pradesh package (HP-015 / TRG-HIM-MICE-015): Shimla • Mashobra • Kufri • Naldera with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SHIMLA & EXECUTIVE RETREAT WELCOME",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: STRATEGIC CONFERENCING & TEAM ALIGNMENT",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: OUTDOOR TEAM BUILDING & HIGHLAND SYNERGY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: RESOLUTIONS & FLIGHT HOME",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A mountain-top drone photography session with customized company",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless luggage check-in systems and prioritized lane passages across",
+        "sort_order": 6
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations thoroughly vetted for executive safety, corporate",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SHIMLA & EXECUTIVE RETREAT WELCOME",
+        "description": "MOUNTAIN ESCAPE – VIP ARRIVAL & NETWORKING RECEPTION Your premium Himachal corporate experience launches smoothly as your executive delegation lands at Chandigarh or Shimla Airport. A convoy of private luxury transport vehicles awaits to escort your team up through the pristine Shivalik hills. Arrive at your premium handpicked luxury resort, where a traditional Himachali welcome ceremony with custom brand badges has been organized. After checking in, assemble at the scenic overlooking deck for a high-tea reception, followed by an evening ice-breaker and cocktail networking session curated by TRAGUIN experts.",
+        "activities": [
+          "Sightseeing Included: Scenic hillside transit routes, Resort panoramic deck viewing.",
+          "Evening Experience: Elite welcome cocktail reception with ice-breaking activities and corporate backdrop setup.",
+          "Overnight Stay: Shimla (Premium / Ultra-Luxury Convention Resort)",
+          "Meals Included: Hi-Tea, Premium Cocktails & Gourmet Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "STRATEGIC CONFERENCING & TEAM ALIGNMENT",
+        "description": "ELEVATING VISION – STATE-OF-THE-ART SUMMIT & GALA NIGHT Power your morning with a nutritious, lavish buffet breakfast before moving into the state-of-the-art ballroom for your annual summit or strategic reviews. Enjoy top-tier audiovisual infrastructure, customized business stationery, and structured gourmet tea breaks. Following an open-air buffet luncheon, the delegation will step out for an afternoon corporate heritage walk to the historic Viceregal Lodge—an iconic attraction perfect for a team milestone group photograph. and fine dining.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge, The Ridge, Historic Christ Church, Mall Road.",
+          "Optional Activities: Private customized shopping tour on Mall Road for premium local handicrafts.",
+          "Evening Experience: Corporate Gala Night featuring live acoustic musical performances, award distributions,",
+          "Overnight Stay: Shimla (Premium / Ultra-Luxury Convention Resort)",
+          "Meals Included: Breakfast, Business Lunch, Mid-Session Refreshments & Gala Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "OUTDOOR TEAM BUILDING & HIGHLAND SYNERGY",
+        "description": "COLLABORATIVE HORIZONS – ADVENTURE CHALLENGES IN MASHOBRA & KUFRI Ditch the formal attire for outdoor sports kits today. Head to the dramatic, breathtaking landscapes of Mashobra and Kufri for a custom experiential team-building program. Under the supervision of certified corporate coaches, your teams will engage in strategic wilderness mapping, trust-building obstacle courses, and collaborative archery tournaments. In the afternoon, enjoy an executive lunch breakout at a premium golf glade in Naldera, taking in the magnificent scenic beauty.",
+        "activities": [
+          "Sightseeing Included: Kufri snow view points, Naldera cedar woods, Mashobra forest glades.",
+          "Optional Activities: Paragliding challenges, high-rope adventure setups, or a casual golf putting clinic.",
+          "Evening Experience: Alpine campfire celebration with traditional Himachali folk art and live barbeque.",
+          "Overnight Stay: Shimla (Premium / Ultra-Luxury Convention Resort)",
+          "Meals Included: Premium Breakfast, Highland Picnic Lunch & Barbeque Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "RESOLUTIONS & FLIGHT HOME",
+        "description": "FORWARD STRATEGY – DEPARTURE WITH UNFORGETTABLE MEMORIES Enjoy a final morning breakfast session at the resort, finalizing action items and group resolutions. Your luxury transportation fleet will stand by to assist with smooth luggage check-out and boarding. Relax in comfort as you are driven back along the scenic national highway towards Chandigarh Airport/Station for your onward flight home, leaving with renewed corporate focus and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury group coach highway transfer to airport or station.",
+          "Meals Included: Sumptuous Farewell Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Radisson Hotel Shimla / | similar | Corporate Hall with 150+ Pax",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "similar",
+        "meal_plan": "Corporate Hall with 150+ Pax",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Orchid Hotel /",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: The Orchid Hotel / | Welcomhotel by ITC | Shimla",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Welcomhotel by ITC",
+        "meal_plan": "Shimla",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Theig / Wildflower Hall",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Theig / Wildflower Hall | (Oberoi Group) | VVIP Executive Boardrooms",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "(Oberoi Group)",
+        "meal_plan": "VVIP Executive Boardrooms",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Cecil Luxury",
+        "location": "Himachal Pradesh",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi Cecil Luxury | Corporate Wings | Exclusive private palace",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Corporate Wings",
+        "meal_plan": "Exclusive private palace",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights accommodation at premium selected hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "MICE Infrastructure: Complimentary main conference hall usage with premium AV gear.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Chauffeur-driven multi- axle luxury coach for group transfers & sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Two dedicated physical on-site MICE managers for group coordination.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Gala Event & Breaks: Multi-tier networking breakfasts, lunches, and themed gala dinners.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Corporate Experiences: Customized team- building exercises and forest trail permits.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or International flight fares/train travel for delegates.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual expenses such as room service mini- bars, laundry, or private tips.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Specific specialized external artists or celebrity performers for Gala nights.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personalized sports equipment rental or professional golf green fees.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

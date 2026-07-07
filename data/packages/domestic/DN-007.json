@@ -1,0 +1,267 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-007-khanvel-scenic-green-retreat",
+    "serial_code": "DN-007",
+    "traguin_tour_code": "TG-DN-007-LUX",
+    "title": "Khanvel Scenic Green Retreat",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-007 | TRAGUIN tour code TG-DN-007-LUX",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Leisure Green Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Khanvel • Silvassa • Vasona • Dudhni",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Customized Luxury Getaway (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Premium, ultra-comfortable Air-Conditioned SUV (Innova Crysta)",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Buffet Breakfast & Lavish Dinners Included)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Vapi/Surat Arrival → Silvassa Sightseeing → Khanvel Green Retreat → Dudhni Lake → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private speed-boating at Dudhni and exclusive Lion Safari viewing decks",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli Art Souvenirs, Local Toddy & Organic Honey, Silvassa Pipria Markets",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 13:00 hrs, check-out 10:00 hrs; Vasona Lion Safari closed on Mondays",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-007-khanvel-scenic-green-retreat-itinerary",
+    "title": "Khanvel Scenic Green Retreat",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Khanvel Scenic Green Retreat & Silvassa Escape",
+    "overview": "Escape into an oasis of lush woodlands, rolling meadows, and pristine waterscapes. This exclusive weekend getaway, meticulously crafted by TRAGUIN travel specialists, offers a high-end luxury retreat to Khanvel and Silvassa. Unwind amid breathtaking landscapes, indulge in premium stays nestled within verdant forests, and gather unforgettable memories.\n\nThe Best Dadra and Nagar Haveli Tour Package is carefully organized for those seeking a stylish, refreshing break away from bustling city life. Managed with flawless attention to detail by TRAGUIN experts, this tour combines exquisite leisure with curated local insights.\n\nTRAGUIN Curated Touch: Handpicked resort cottages, private boat chartering at Dudhni, and custom-timed sunset highlights.\n\nWhy Visit Dadra and Nagar Haveli: A perfect blend of sprawling forest reserves, Portuguese architecture, cascading lakes, and a relaxing tropical climate. Famous Attractions: Khanvel Forest Lodge, Vasona Lion Safari, Dudhni Jet Jetty, Swaminarayan Temple, and Nakshatra Garden. Most Searched Experiences: Premium wildlife spotting, private speed-boating across Madhuban Dam waters, and exploring authentic Warli tribal art. Best Time to Visit Dadra and Nagar Haveli: Winter months from November to March provide optimal weather, boasting refreshing breezes and beautifully lush, green post-monsoon foliage.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-007 | Khanvel Scenic Green Retreat | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Khanvel retreat package (DN-007 / TG-DN-007-LUX): Swaminarayan Temple, Nakshatra Garden, Vasona Lion Safari, Dudhni Waterfront, Tribal Cultural Museum, and 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Silvassa Swaminarayan Temple & Nakshatra Garden",
+        "sort_order": 1
+      },
+      {
+        "text": "Vasona Lion Safari & Dudhni Waterfront with private speed-boat",
+        "sort_order": 2
+      },
+      {
+        "text": "Tribal Cultural Museum & Local Craft Center",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private speed-boating at Dudhni and exclusive Lion Safari viewing decks",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked luxury stays emphasizing peaceful green surroundings",
+        "sort_order": 5
+      },
+      {
+        "text": "Luxury Transportation: Highly sanitized premium vehicles with experienced local drivers",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Silvassa Impressions to Khanvel Retreat",
+        "description": "Your luxury weekend begins with a private pickup from Vapi Railway Station or Surat Airport by our professional chauffeur. Step into your premium vehicle and enjoy a smooth transfer into the green territories of Silvassa. Our first stop is the beautiful, intricately carved Swaminarayan Temple, followed by a relaxed walk through the lush Nakshatra Garden, filled with medicinal plants and artistic fountains. Afterward, take a scenic drive into Khanvel, a tranquil paradise surrounded by dense forests. Check into your ultra-luxury nature resort. As evening sets in, enjoy the premium amenities, relax by the pool, or enjoy a tranquil nature walk inside the property to collect unforgettable memories under a starry sky.",
+        "activities": [
+          "Sightseeing Included: Silvassa Swaminarayan Temple, Nakshatra Garden",
+          "Evening Experience: Leisure time at resort, poolside fine dining",
+          "Overnight Stay: Khanvel (Luxury Nature Resort Stay)",
+          "Meals Included: Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Vasona Lion Safari & Private Dudhni Lake Excursion",
+        "description": "Start your day with a delicious breakfast looking out over the misty canopy of Khanvel. Today, we experience the top wildlife attraction of the territory—the Vasona Lion Safari. Board a secured luxury safari vehicle to see the majestic Asiatic lions roaming in their natural forest habitat. Next, we head further down to Dudhni, often called the 'Kashmir of the West' due to its vast, scenic waterfront created by the Madhuban Dam. TRAGUIN has curated an exclusive speed-boat experience across the vast lake, surrounded by rolling hills. Capture incredible photographs from the water before returning to Khanvel to relax. Treat yourself to a premium spa session or a cozy evening bonfire curated especially for you.",
+        "activities": [
+          "Sightseeing Included: Vasona Lion Safari, Dudhni Waterfront, Madhuban Dam backwaters",
+          "Exclusive Experiences: Private chartered speed-boat ride at Dudhni Jetty",
+          "Overnight Stay: Khanvel",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Tribal Heritage Tour & Smooth Departure",
+        "description": "After a relaxing breakfast, check out of your luxury resort. Before concluding your tour, we visit the Silvassa Tribal Cultural Museum, which showcases a unique collection of traditional masks, musical instruments, hunting tools, and iconic Warli paintings. This provides a great cultural highlight to your trip. Spend some time picking up local handicrafts as souvenirs. Finally, your chauffeur will provide a smooth transfer back to Vapi or Surat for your onward journey, marking the completion of your premium curated vacation.",
+        "activities": [
+          "Sightseeing Included: Tribal Cultural Museum, Local Craft Center",
+          "Photography Points: Traditional Warli artwork walls",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Khanvel Resort / Pluz Resort",
+        "location": "Khanvel",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Pool View Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Treat Resort, Silvassa / Khanvel",
+        "location": "Silvassa / Khanvel",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Executive Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts, Silvassa (Lakeside)",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Portuguese Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Signature Forest Cottages & Luxury Villas",
+        "location": "Khanvel",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Pool Premium Villa",
+        "meal_plan": "All Inclusive Gourmet",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights luxury stay in our handpicked premium hotels and resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily spread of gourmet breakfast and customized multi-cuisine buffet dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private transfers and sightseeing via premium Innova Crysta SUV",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "All entry tickets, Vasona Lion Safari passes, and exclusive boat hire fees",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Professional chauffeur allowance, toll charges, state taxes, and fuel costs",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome amenities, fresh fruit platter, and complimentary refreshments inside the vehicle",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated TRAGUIN on-trip guest assistance and coordination support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Train or flight bookings to Vapi, Valsad, or Surat",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items like laundry, liquor, calls, or tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Water-sports or optional adventure activities at Dudhni Dam",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal medical insurance coverage",
+        "sort_order": 11
+      }
+    ]
+  }
+}

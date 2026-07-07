@@ -1,0 +1,202 @@
+{
+  "destination_slug": "singapore",
+  "package": {
+    "slug": "sg-003-singapore-universal-studios-special",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Singapore Universal Studios Special",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 59,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Singapore & Sentosa (4N) ultimate theme park expedition",
+        "sort_order": 1
+      },
+      {
+        "text": "Universal Studios with priority express passes",
+        "sort_order": 2
+      },
+      {
+        "text": "S.E.A. Aquarium & Adventure Cove Waterpark",
+        "sort_order": 3
+      },
+      {
+        "text": "Sentosa leisure & grand farewell dinner",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-SIN-USS-2026 | Serial SG-003",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Adventure",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "sg-003-singapore-universal-studios-itinerary",
+    "title": "Singapore Universal Studios Special",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Theme Park Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Universal Studios • Adventure Cove • S.E.A. Aquarium • Marina Bay",
+    "overview": "Dive into the thrilling world of entertainment with TRAGUIN's Universal Studios Special family tour. Focused on non-stop excitement and premium theme park access — Universal Studios express passes, S.E.A. Aquarium, Adventure Cove, and Sentosa leisure.",
+    "is_featured": true,
+    "featured_sort_order": 59,
+    "seo_title": "SG-003 | Singapore Universal Studios Special | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Singapore theme park package (SG-003): Universal Studios express passes, S.E.A. Aquarium, Adventure Cove, and Marina Bay.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Marina Bay Water Light Show",
+        "sort_order": 1
+      },
+      {
+        "text": "Universal Studios Express Passes",
+        "sort_order": 2
+      },
+      {
+        "text": "S.E.A. Aquarium Marine Life",
+        "sort_order": 3
+      },
+      {
+        "text": "Adventure Cove Waterpark",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Singapore & City Vistas",
+        "description": "Arrive in Singapore. Private transfer to premium family hotel. Evening exploring breathtaking Marina Bay with spectacular water light show.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, Marina Bay water light show",
+          "Overnight Stay: Singapore & Sentosa (Premium Family Hotel)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Universal Studios Full-Day Immersion",
+        "description": "Full day at Universal Studios Singapore with pre-arranged priority express passes on all top movie-themed thrill rides.",
+        "activities": [
+          "Sightseeing Included: Universal Studios Singapore full-day admission, express passes",
+          "Overnight Stay: Singapore & Sentosa (Premium Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Adventure Cove & S.E.A. Aquarium",
+        "description": "Visit massive S.E.A. Aquarium to witness spectacular marine life. Afternoon at Adventure Cove Waterpark.",
+        "activities": [
+          "Sightseeing Included: S.E.A. Aquarium, Adventure Cove Waterpark",
+          "Overnight Stay: Singapore & Sentosa (Premium Family Hotel)",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Sentosa Island Leisure & Fun",
+        "description": "Day of leisure on Sentosa Island with family-friendly attractions, beach time, and grand farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Sentosa Island leisure and attractions",
+          "Evening Experience: Grand farewell dinner",
+          "Overnight Stay: Singapore & Sentosa (Premium Family Hotel)",
+          "Meals Included: Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Departure",
+        "description": "Final breakfast before TRAGUIN private transfer to the airport, completing your premium theme-park experience.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Resorts World Sentosa / Family Luxury Hotel",
+        "location": "Singapore & Sentosa",
+        "nights_label": "04 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "04 Nights in premium family hotel at Resorts World Sentosa or similar",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Universal Studios Singapore with priority express passes",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "S.E.A. Aquarium and Adventure Cove Waterpark admission",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Singapore entry visa processing fees",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 9
+      }
+    ]
+  }
+}

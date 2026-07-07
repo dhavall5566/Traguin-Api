@@ -1,0 +1,265 @@
+{
+  "destination_slug": "karnataka",
+  "package": {
+    "slug": "ka-012-dandeli-water-sports-adventure-experience",
+    "serial_code": "KA-012",
+    "traguin_tour_code": "TRAGUIN-KA-012",
+    "title": "Dandeli Water Sports Adventure Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KA-012 | TRAGUIN tour code TRAGUIN-KA-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Karnataka / India | Category: Adventure / Water Sports",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Dandeli • Kali River • Syntheri Rocks",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Enthusiasts & Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Adventure Luxury FIT Getaway",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Air-Conditioned Private Luxury Innova Crysta / Premium SUV",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: All Meals Included (Jungle Resort Buffet Breakfast, Lunch, High Tea & Dinner)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Hubli/Goa Arrival → Dandeli Wilderness → Exploration Spots → Departure Hubli/Goa",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts with high-end safety protocols, fast-track activity lines, and premium equipment",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Pure Forest Honey and Handcrafted Artifacts — bamboo carvings, local herbs, and custom wood souvenirs",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Water sports subject to river levels; pack quick-dry clothing and sturdy shoes; book rafting early",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Nature",
+      "Wildlife"
+    ]
+  },
+  "itinerary": {
+    "slug": "ka-012-dandeli-water-sports-adventure-experience-itinerary",
+    "title": "Dandeli Water Sports Adventure Experience",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dandeli Water Sports Adventure Experience • 03 Nights / 04 Days",
+    "overview": "Prepare yourself for an adrenaline-fueled luxury escape into the wild heart of Southern India. This signature holiday itinerary, intricately planned by TRAGUIN, offers an unrivaled mixture of raw thrill and refined comfort. Experience high-octane river rafting, zip-lining across dramatic jungle canopies, and relaxing walks alongside breathtaking landscapes, creating unforgettable memories for your family.\n\nAs one of the highest-rated segments under our premium TRAGUIN Karnataka Packages, the dense jungle territories of Dandeli present the perfect setting for a high-end Karnataka Adventure holiday. Recognized globally for its iconic attractions along the gushing waters of the Kali River, this region is a magnet for those looking for a thrill-packed Karnataka Family Tour or an exclusive nature retreat.\n\nTRAGUIN Curated Touch: Includes VIP fast-track access to white-water river activities, certified professional adventure instructors, premium handpicked hotels hidden in deep forests, and elite round-the-clock safety companion coverage.\n\nWhy Visit Dandeli: The Best Time to Visit Karnataka for water sports spans from autumn to early summer, when river rapids match global standards, granting access to rare bird watching trails and secret limestone cave pathways.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KA-012 | Dandeli Water Sports Adventure Experience | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Dandeli adventure package (KA-012 / TRAGUIN-KA-012): Kali River white-water rafting, Syntheri Rocks, Crocodile Park, jungle jeep safari, and 4-tier forest resort accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Western Ghats Panoramic Drive & Forest Nature Walk",
+        "sort_order": 1
+      },
+      {
+        "text": "Kali River Rapids & Water Sports Base Station",
+        "sort_order": 2
+      },
+      {
+        "text": "Syntheri Rocks Monolith, Crocodile Park & Jungle Jeep Safari",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Fast-track activity lines and premium international-grade adventure gear",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival & Jungle Immersion",
+        "description": "Arrive at Hubli or Goa Airport where your dedicated TRAGUIN driver and tour guide welcome you warmly. Board your private luxury vehicle and enjoy a highly scenic route climbing through the breathtaking Western Ghats to reach your handpicked luxury jungle resort in Dandeli. After a seamless private check-in, relax in your premium luxury villa. In the late afternoon, enjoy an introductory guided nature trek around the forest loops to spot unique regional flora and wildlife.",
+        "activities": [
+          "Sightseeing Included: Western Ghats Panoramic Drive, Forest Nature Walk",
+          "Evening Experience: Gather around a cozy private bonfire accompanied by premium live acoustic melodies",
+          "Overnight Stay: Handpicked Luxury Jungle Resort, Dandeli",
+          "Meals Included: Welcome Drinks, Traditional Lunch & Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Kali River Adventure",
+        "description": "Fuel up with a rich buffet breakfast before heading to the roaring Kali River for an unforgettable water sports experience. Guided by certified international instructors, take on thrilling Grade-2 and Grade-3 white-water rafting runs. After a gourmet riverside lunch, dive back into the excitement with open-water swimming, river kayaking, and a thrilling zip-line crossing that finishes directly in the cool river waters.",
+        "activities": [
+          "Sightseeing Included: Kali River Rapids, Water Sports Base Station",
+          "Optional Activities: High-altitude coracle boat rides or zorbing ball runs on the river",
+          "Photography Points: Capture incredible active shots mid-rafting and sweeping views from the riverbanks",
+          "Overnight Stay: Handpicked Luxury Jungle Resort, Dandeli",
+          "Meals Included: Breakfast, Riverside Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Mountain Geology & Coracle Safari",
+        "description": "Today introduces the scenic marvels of your Luxury Karnataka Holiday. Journey deep into the Joida forest areas to visit the magnificent Syntheri Rocks, a stunning 300-foot monolithic granite structure sculpted over centuries by the Kaneri River. After taking in this majestic sight, visit the nearby Crocodile Park for a safe, guided look at these ancient river predators. Spend your final evening enjoying a relaxing open-jeep safari through the buffer zones of the Dandeli Wildlife Sanctuary.",
+        "activities": [
+          "Sightseeing Included: Syntheri Rocks Monolith, Crocodile Park, Jungle Jeep Safari",
+          "Immersive Experiences: Educational bird-watching trek to observe the colorful Malabar Pied Hornbills",
+          "Overnight Stay: Handpicked Luxury Jungle Resort, Dandeli",
+          "Meals Included: Breakfast, Jungle Buffet Lunch & Farewell Barbecue Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jungle Farewell & Departure",
+        "description": "Start your morning with a calming sunrise yoga session or a quiet stroll along the resort's private streams. Enjoy a final premium breakfast spread at the resort before checking out. Your private chauffeur-driven vehicle will arrive to transfer you comfortably back to Hubli or Goa Airport for your return flight home. Your premium adventure crafted by TRAGUIN finishes here, leaving you with incredible stories to share.",
+        "activities": [
+          "Transfers Included: Private Airport Drop-off",
+          "Meals Included: Full Breakfast Spread"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Dandeli Kingfisher Jungle Resort",
+        "location": "Dandeli",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Cottage",
+        "meal_plan": "All Meals Included (APAI)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Regenta Resort Dandeli",
+        "location": "Dandeli",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Forest View Room",
+        "meal_plan": "All Meals Included (APAI)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Bison River Resort",
+        "location": "Dandeli",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Waterfront Cottage",
+        "meal_plan": "All Meals Included (APAI)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Eka Resorts / Magenta Resort Wilderness",
+        "location": "Dandeli",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ultra-Luxury Private Jacuzzi Villa",
+        "meal_plan": "All Meals & Barbecue Box",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights stay at premium handpicked jungle resorts with forest views",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: All meals included—Daily Breakfast, Lunch, Evening Snacks & Gourmet Dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven private luxury Innova Crysta throughout the journey",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 internal concierge line with a dedicated senior travel planner handler",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Adventure Gear: Premium international-grade life jackets, helmets, and certified instructor fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private open-jeep wildlife safari and a special farewell pool-side barbecue evening",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights, train fares, or state transit visa taxes",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Video camera entry permits at wildlife reserves",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry services, phone calls, or alcoholic drinks",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extreme water activities not mentioned in the inclusions",
+        "sort_order": 10
+      }
+    ]
+  }
+}

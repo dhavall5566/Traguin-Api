@@ -1,0 +1,240 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-001-premium-bali-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Premium Bali Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 40,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Ubud → Seminyak → Uluwatu romantic honeymoon circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Tegalalang Rice Terraces & Sacred Monkey Forest",
+        "sort_order": 2
+      },
+      {
+        "text": "Premium beach clubs, couple's spa & cafe culture",
+        "sort_order": 3
+      },
+      {
+        "text": "Uluwatu Temple & Kecak Fire Dance at sunset",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 honeymoon concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Serial ID-001 | Category: Honeymoon",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Beach",
+      "Cultural",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-001-premium-bali-honeymoon-itinerary",
+    "title": "Premium Bali Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Bali Honeymoon)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ubud • Seminyak • Uluwatu",
+    "overview": "Embark on an enchanting TRAGUIN curated Bali honeymoon designed for intimate moments, breathtaking landscapes, and premium stays. From the lush jungles of Ubud to the romantic sunsets of Uluwatu, every detail is crafted for an unforgettable romantic escape on the Island of the Gods.",
+    "is_featured": true,
+    "featured_sort_order": 40,
+    "seo_title": "ID-001 | Premium Bali Honeymoon | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Bali honeymoon (ID-001): Ubud, Seminyak, Uluwatu Temple, Kecak Fire Dance, rice terraces, and Sacred Monkey Forest.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Candlelit Welcome Dinner in Ubud",
+        "sort_order": 1
+      },
+      {
+        "text": "Tegalalang Rice Terraces & Monkey Forest",
+        "sort_order": 2
+      },
+      {
+        "text": "Seminyak Beach Bliss & Couple's Spa",
+        "sort_order": 3
+      },
+      {
+        "text": "Uluwatu Temple Kecak Fire Dance",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Bali — The Romantic Beginning",
+        "description": "Arrive at Denpasar Airport and receive a warm TRAGUIN welcome. Transfer to your handpicked hotel in Ubud. Enjoy a candlelit dinner to start your romantic journey.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, private transfer to Ubud",
+          "Evening Experience: Candlelit welcome dinner",
+          "Overnight Stay: Ubud (Premium Handpicked Hotel)",
+          "Meals Included: Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Ubud — Cultural Immersion",
+        "description": "Visit the Tegalalang Rice Terraces and the Sacred Monkey Forest. Immerse yourselves in the culture of Bali with curated experiences in local markets.",
+        "activities": [
+          "Sightseeing Included: Tegalalang Rice Terraces, Sacred Monkey Forest, local markets",
+          "Overnight Stay: Ubud (Premium Handpicked Hotel)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Ubud to Seminyak — Scenic Transfer",
+        "description": "Travel to Seminyak, exploring waterfalls along the way. Enjoy the scenic beauty of Bali's coast.",
+        "activities": [
+          "Sightseeing Included: Scenic transfer with waterfall stops",
+          "Overnight Stay: Seminyak (Premium Handpicked Hotel)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Seminyak — Beach Bliss",
+        "description": "Relax at premium beach clubs or indulge in a couple's spa treatment. Enjoy the vibrant shopping and cafe culture.",
+        "activities": [
+          "Sightseeing Included: Beach club leisure, couple's spa treatment",
+          "Overnight Stay: Seminyak (Premium Handpicked Hotel)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Uluwatu — Sunset Romance",
+        "description": "Visit the iconic Uluwatu Temple. Witness the mesmerizing Kecak Fire Dance at sunset, one of the top tourist places in Bali.",
+        "activities": [
+          "Sightseeing Included: Uluwatu Temple, Kecak Fire Dance at sunset",
+          "Overnight Stay: Uluwatu / Seminyak (Premium Handpicked Hotel)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Departure",
+        "description": "Enjoy breakfast before your transfer to the airport. TRAGUIN ensures a seamless departure after your unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Premium Handpicked Resort / similar",
+        "location": "Ubud",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium Handpicked Beach Resort / similar",
+        "location": "Seminyak",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium Handpicked Cliff Resort / similar",
+        "location": "Uluwatu / Seminyak",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights premium accommodation across Ubud, Seminyak, and Uluwatu",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast and romantic dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary honeymoon amenities",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN expert assistance throughout the tour",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Indonesia visa on arrival fees",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "destination_slug": "kerala",
+  "package": {
+    "slug": "kl-019-wayanad-nature-hideaway-premium-luxury-holiday",
+    "serial_code": "KL-019",
+    "traguin_tour_code": "TRAGUIN-KL-019",
+    "title": "Wayanad Nature Hideaway Premium Luxury Holiday",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KL-019 | TRAGUIN tour code TRAGUIN-KL-019",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Kerala / India | Category: Leisure / Nature Escapes",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Wayanad Nature Hideaway",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Customized Private Nature FIT Tour",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Chauffeur-Driven Luxury SUV / Innova Crysta",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Daily Premium Breakfast & Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Cochin / Calicut Arrival → Wayanad Hills → Cochin / Calicut Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Handcrafted plantation tours away from common tourist herds with fully customized pathways engineered for optimum comfort and zero physical fatigue.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Pure Wayanad spices, organic robusta coffee beans, and herbal tea leaves; Chembra Peak and Banasura Dam Instagram spots",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Resort check-in 14:00 hrs; light pullover advised for early morning plantation trails in Wayanad",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Nature",
+      "Luxury",
+      "Wellness"
+    ]
+  },
+  "itinerary": {
+    "slug": "kl-019-wayanad-nature-hideaway-premium-luxury-holiday-itinerary",
+    "title": "Wayanad Nature Hideaway Premium Luxury Holiday",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Wayanad Nature Hideaway Premium Luxury Holiday • 03 Nights / 04 Days",
+    "overview": "Wayanad Nature Hideaway IDEAL FOR: Families, Couples & Nature Lovers BEST SEASON: September to May STARTING PRICE: On Request (Premium Luxury) TRAGUIN TOUR CODE: TRAGUIN-KL-019 --- --- BEST KERALA TOUR PACKAGE WAYANAD NATURE HIDEAWAY PREMIUM LUXURY HOLIDAY Welcome to a realm where the clouds kiss the emerald peaks. Curated exclusively by TRAGUIN, this premium travel itinerary takes you deep into the heart of the mist-laden hills of Wayanad. Escape the noise of everyday life and surrender to a refreshing retreat featuring breathtaking Luxury Custom Holidays Page\n\nWayanad is highly ranked as one of the ultimate gems of any high-end Kerala Honeymoon Package or Kerala Family Tour. Famous for its sprawling spice plantations, mist-covered mountains, and\n\nTRAGUIN Curated Touch: Handcrafted plantation tours away from common tourist herds with fully customized pathways engineered for optimum comfort and zero physical fatigue.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KL-019 | Wayanad Nature Hideaway Premium Luxury Holiday | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Kerala package (KL-019 / TRAGUIN-KL-019): Wayanad Nature Hideaway. Handpicked luxury stays and private transfers by TRAGUIN.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Thamarassery Churam pass and Lakkidi Viewpoint",
+        "sort_order": 1
+      },
+      {
+        "text": "Edakkal Caves prehistoric petroglyphs and Pookode Lake boating",
+        "sort_order": 2
+      },
+      {
+        "text": "Banasura Sagar Dam private speed-boat cruise",
+        "sort_order": 3
+      },
+      {
+        "text": "Organic spice plantation trail with Ayurvedic spa option",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN handcrafted plantation tours away from tourist herds",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COCHIN / CALICUT TO WAYANAD",
+        "description": "Arrive at the airport where your dedicated luxury transport and tour companion from TRAGUIN await you. Enjoy a picturesque drive through the iconic Thamarassery Churam mountain pass, boasting nine hairpin curves surrounded by dense tropical rainforests. Check in smoothly to your ultra-premium treehouse or plantation luxury resort. Savor a complimentary welcome drink and unwind amidst unforgettable memories of nature.",
+        "activities": [
+          "Sightseeing Included: Lakkidi Viewpoint, Chain Tree Pass.",
+          "Evening Experience: A relaxing evening spent overlooking valleys with fresh plantation coffee served on your",
+          "Overnight Stay: Premium Handpicked Luxury Resort, Wayanad.",
+          "Meals Included: Welcome Drink & Curated Buffet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "WAYANAD NATURE EXPLORATION",
+        "description": "Fuel up with a luxurious breakfast. Embark on a journey to the legendary Edakkal Caves, world- renowned for Neolithic petroglyphs and rich archaeological heritage. In the afternoon, experience the tranquil scenic beauty of Pookode Lake, a natural freshwater lake shaped like India's map, where a private row-boating experience has been pre-arranged for you by your consultant team.",
+        "activities": [
+          "Sightseeing Included: Edakkal Caves, Pookode Lake, Soochipara Waterfalls.",
+          "Photography Points: Panorama viewpoints atop Edakkal and the reflections on Pookode Lake.",
+          "Overnight Stay: Premium Luxury Resort, Wayanad.",
+          "Meals Included: Full Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "BANASURA EARTHEN DAM & SPICE PLANTATIONS",
+        "description": "Today, experience the grandeur of Banasura Sagar Dam. Embark on an exclusive private speed-boat cruise navigating through islands formed by the reservoir's pristine blue waters. Later, walk hand-in-hand through an organic spice plantation trail, learning the delicate history behind Kerala's world-famous cardamom, pepper, and vanilla crops.",
+        "activities": [
+          "Sightseeing Included: Banasura Sagar Dam, Karlad Lake Adventure Points, Spice Gardens.",
+          "Optional Activities: Therapeutic Ayurvedic spa rejuvenation ritual at the resort wellness center.",
+          "Overnight Stay: Premium Handpicked Luxury Resort, Wayanad.",
+          "Meals Included: Full Breakfast & Festive Candlelight Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DEPARTURE FROM WAYANAD",
+        "description": "Savor your last morning breakfast overlooking the canopy of clouds. Check out of your resort and enjoy a comfortable private transfer back to the airport or railway station. Your premium Kerala Sightseeing holiday wraps up seamlessly, leaving you with memories that linger far beyond the destination itself.",
+        "activities": [
+          "Transfers Included: Private Airport/Station Drop-off.",
+          "Meals Included: Full Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Vythiri Resort Wayanad",
+        "location": "Wayanad",
+        "nights_label": "03 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Serene Vythiri Haven Villa",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pepper Trail Heritage Plantation Resort",
+        "location": "Wayanad",
+        "nights_label": "03 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Treehouse Suite",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Evolve Back, Kabini / Wayanad Outskirts",
+        "location": "Wayanad",
+        "nights_label": "03 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Safari Land Hut with Private Pool",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Windflower Resorts & Spa Wayanad",
+        "location": "Wayanad",
+        "nights_label": "03 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Ultra Luxury Private Villa with Private Plunge Pool",
+        "meal_plan": "Ultra Luxury MAP",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 03 Nights premium stays at handpicked luxury hotels and jungle resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: High-end gourmet Breakfasts and Dinners curated by regional executive chefs.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Entire journey covered via private luxury AC Innova Crysta/SUV with professional chauffeur.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Assistance & Support: 24/7 dedicated TRAGUIN support helpline and verified route assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing wellness kit on arrival including premium tribal organic honey, wet wipes, and natural juices.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private speed-boat safari at Banasura Sagar Dam and guided plantation walks.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights, train bookings, or entry flight taxes into Cochin/Calicut.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any personal monument entrance fees, camera permissions, or historic guild tickets.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal spending accounts like laundry services, special minibar usage, and telephone fees.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, customized safari trails, or activities not listed in the itinerary.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

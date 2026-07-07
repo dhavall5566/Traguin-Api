@@ -1,0 +1,272 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "pb-003-amritsar-wagah-border-family-escape",
+    "serial_code": "PB-003",
+    "traguin_tour_code": "TRG-PUB-003",
+    "title": "Amritsar Wagah Border Family Escape",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PB-003 | TRAGUIN tour code TRG-PUB-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Punjab / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Amritsar • Wagah Border • Jallianwala Bagh • Sadda Pind",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Vacations, Cultural Explorers & Luxury Getaways",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Winters)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury AC Vehicle / MAPAI Plan",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private walking assistance and orientation through the Golden Temple complex.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smart travel timing to ensure premium seating at the Wagah Border ceremony.",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite accommodation properties vetted for family safety, exceptional service, and comfort.",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Expert drivers with excellent route knowledge, guiding you directly to the best local culinary and photography spots.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Cultural",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "pb-003-amritsar-wagah-border-family-escape-itinerary",
+    "title": "Amritsar Wagah Border Family Escape",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Amritsar • Wagah Border • Jallianwala Bagh • Sadda Pind",
+    "overview": "AMRITSAR WAGAH BORDER FAMILY ESCAPE\n\nWelcome note: Immerse your soul in the vibrant heartland of India with this custom-tailored itinerary designed by TRAGUIN. Our Premium Punjab Experience introduces your loved ones to a land of rich heritage, profound spirituality, and unmatched hospitality. As your professional luxury travel consultants, TRAGUIN presents a curated sequence of historic sights, immersive experiences, and culinary feasts. From the golden tranquility of Harmandir Sahib to the electric patriotic fervor of the Wagah Border, expect premium stays, gorgeous scenic beauty, and handpicked hotels that seamlessly weave absolute comfort into unforgettable memories.\n\nTOUR OVERVIEW\nThis elite Punjab Family Tour offers a comprehensive and emotionally moving exploration of Amritsar's most celebrated legacy sites. Designed as a flexible FIT/Group holiday, your family will travel in a private, high-end chauffeured vehicle. Our meticulously organized itinerary operates on a premium MAPAI meal plan (comprising extravagant daily breakfasts and custom dinners at your accommodation). Complete with the signature TRAGUIN Curated Experience Note, this luxury proposal guarantees seamless VIP entries, exclusive recommendations, and deep, passionate local storytelling at every single landmark.\n\nWHY BOOK THE BEST PUNJAB TOUR PACKAGE?\nWhen planning a Luxury Punjab Holiday, travelers from across the globe look for deep cultural authenticity blended perfectly with modern luxury. Amritsar represents the cultural epicenter of the region, packed with iconic attractions that top the charts for global tourism rankings. Whether you are looking for a beautiful Punjab Honeymoon Package or an expansive multi-generational family retreat, Punjab sightseeing never fails to captivate. The sacred Sri Harmandir Sahib (Golden Temple) stands as the prime spiritual landmark, complemented by top tourist places in Punjab such as the historic Jallianwala Bagh and the immersive living heritage museum at Sadda Pind. For photography enthusiasts, Punjab reveals highly popular Instagram locations, including the shimmering gold reflections at the temple pool, the rural, vibrant sets of traditional villages, and the high-energy military ceremony at the Wagah Border. Combined with luxury shopping for authentic Phulkari textiles and tasting world-famous culinary delights, our specialized TRAGUIN Punjab Packages capture the absolute best time to visit Punjab with unmatched precision.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PB-003 | Amritsar Wagah Border Family Escape | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Punjab package (PB-003 / TRG-PUB-003): Amritsar • Wagah Border • Jallianwala Bagh • Sadda Pind with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AMRITSAR — WELCOME TO THE SPIRITUAL HEART – EVENING PALK SAHIB CEREMONY",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HISTORIC AMRITSAR & WAGAH BORDER CEREMONY — PATRIOTIC FERVOR, EMOTIONAL STORYTELLING & ROYAL BORDER BEATING RETREAT",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: CULTURAL IMMERSION AT SADDA PIND — TRADITIONAL VILLAGE LIFE, LIVELY FOLK DANCES & PUNJABI HOSPITALITY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: LOCAL SHOPPING & DEPARTURE — CHASING MEMORIES BEYOND DESTINATIONS – DEPARTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private walking assistance and orientation through the Golden Temple complex.",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smart travel timing to ensure premium seating at the Wagah Border ceremony.",
+        "sort_order": 6
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite accommodation properties vetted for family safety, exceptional service, and comfort.",
+        "sort_order": 7
+      },
+      {
+        "text": "Luxury Transportation: Expert drivers with excellent route knowledge, guiding you directly to the best local culinary and photography spots.",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AMRITSAR — WELCOME TO THE SPIRITUAL HEART – EVENING PALK SAHIB CEREMONY",
+        "description": "Your highly anticipated Punjab getaway begins with a VIP arrival experience. Your professional, uniform-clad chauffeur welcomes your family at the Amritsar Airport or Railway Station in a private luxury vehicle. Transfer smoothly to your handpicked premium stay. After checking in and enjoying a short rest, step out into the spiritual center of the city. As dusk falls, visit the shimmering Golden Temple to witness the majestic, emotionally moving Palki Sahib Ceremony, where the holy Guru Granth Sahib is carried in a golden palanquin. The stunning gold reflections on the sacred pool offer a perfect photography point.",
+        "activities": [
+          "Sightseeing Included: Sri Harmandir Sahib (Golden Temple), Night Illumination Walk.",
+          "Evening Experience: Reserved night viewing and assistance during the spiritual Palki Sahib chanting ritual.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Hotel)",
+          "Meals Included: Welcome Drink & Luxury Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HISTORIC AMRITSAR & WAGAH BORDER CEREMONY — PATRIOTIC FERVOR, EMOTIONAL STORYTELLING & ROYAL BORDER BEATING RETREAT",
+        "description": "Relish a lavish breakfast before diving into deep historical storytelling at Jallianwala Bagh, a memorial park holding the profound spirit of India's freedom struggle. Next, view the innovative Partition Museum to witness a unique curation of twentieth-century history. In the afternoon, embark on a scenic route toward the Indo-Pak international boundary for the world-famous Wagah Border Beating Retreat Ceremony. Feel the ground shake to thunderous patriotic cheers and high-stepping military precision. Return to the city for a wonderful local dinner experience.",
+        "activities": [
+          "Sightseeing Included: Jallianwala Bagh, Partition Museum, Wagah Border amphitheater seating.",
+          "Optional Activities: A food tour tasting legendary street-side Amritsari Kulchas drenched in pure desi ghee.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Hotel)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CULTURAL IMMERSION AT SADDA PIND — TRADITIONAL VILLAGE LIFE, LIVELY FOLK DANCES & PUNJABI HOSPITALITY",
+        "description": "Enjoy your morning breakfast at the hotel, followed by a visit to the Maharaja Ranjit Singh Panorama and Summer Palace museum. By afternoon, journey to Sadda Pind, an expansive living Punjabi heritage village museum. This immersive experience lets your family interact with traditional artisans, witness energetic Bhangra and Gidda folk performances, watch local magic shows, and try fun activities like pottery making. It is a highly popular Instagram location filled with color and joy.",
+        "activities": [
+          "Sightseeing Included: Maharaja Ranjit Singh Museum, Sadda Pind Cultural Village entry.",
+          "Evening Experience: A grand traditional village fair experience with folk music and dance circles.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Hotel)",
+          "Meals Included: Breakfast & Authentic Punjabi Feast Dinner at Sadda Pind"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "LOCAL SHOPPING & DEPARTURE — CHASING MEMORIES BEYOND DESTINATIONS – DEPARTURE",
+        "description": "Start your day with a final luxury buffet breakfast at your hotel. Spend your morning checking out the old city bazaars for fine shopping, picking up exquisite Phulkari dupattas, local footwear, and traditional dynamic souvenirs. Later, your private luxury transportation transfers your family back to the Amritsar Airport or Railway Station for your journey home. Return with a heart full of joy and unforgettable memories crafted with perfection by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury airport or railway station terminal drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Fairfield by Marriott / Regenta Central / similar",
+        "location": "Amritsar",
+        "nights_label": "3N Amritsar",
+        "description": "OPTION 01 – DELUXE: Fairfield by Marriott / Regenta Central / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu / Hyatt Regency Amritsar",
+        "location": "Amritsar",
+        "nights_label": "3N Amritsar",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu / Hyatt Regency Amritsar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Club Balcony Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Swarna, Amritsar",
+        "location": "Amritsar",
+        "nights_label": "3N Amritsar",
+        "description": "OPTION 03 – LUXURY: Taj Swarna, Amritsar | Elite Custom MAPAI Plan",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage City View Suite",
+        "meal_plan": "Elite Custom MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Welcomhotel by ITC Hotels Raja Sansi",
+        "location": "Amritsar",
+        "nights_label": "3N Amritsar",
+        "description": "OPTION 04 – ULTRA LUXURY: The Welcomhotel by ITC Hotels Raja Sansi | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Grand Royal Presidential Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 3 Nights in top-rated properties based on your chosen luxury tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated AC sedan/SUV for all point-to-point transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Lavish breakfasts and specialty dinners included at the hotels.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel consultant and guest manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Dedicated corporate travel kit, local guide maps, and mineral water.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Cultural village entry tickets and traditional dinner feast at Sadda Pind.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or long-distance train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera permits, and localized temple guide charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, optional spa treatments, and liquor.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any private tips, insurance policies, or additional excursions not listed in the route.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

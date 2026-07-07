@@ -1,0 +1,304 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "pb-008-complete-punjab",
+    "serial_code": "PB-008",
+    "traguin_tour_code": "TRG-PUB-008",
+    "title": "Complete Punjab",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code PB-008 | TRAGUIN tour code TRG-PUB-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Punjab / India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Amritsar • Jalandhar • Ludhiana • Patiala • Chandigarh",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Getaways, Heritage Lovers & Cultural Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Golden Winters)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and historical storytelling brief before visiting the Golden Temple and Jallianwala Bagh.",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing to avoid commercial highway rush, maximizing your relaxation time.",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations thoroughly evaluated for safety, premium family comfort, and flawless local hospitality.",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Chauffeur-driven executive vehicles with seasoned highway drivers who know the best regional dining points.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "pb-008-complete-punjab-itinerary",
+    "title": "Complete Punjab",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Amritsar • Jalandhar • Ludhiana • Patiala • Chandigarh",
+    "overview": "COMPLETE PUNJAB • THE GOLDEN LEGACY & VIBRANT CULTURE\n\nWelcome to an unforgettable journey curated exclusively by TRAGUIN. Embark on the finest Punjab Family Tour designed to reveal the breathtaking landscapes, ancient history, and soulful hospitality of this magnificent land. As your trusted luxury travel consultants, TRAGUIN transforms your vacation into a premium luxury holiday filled with handpicked hotels, immersive experiences, and magical encounters. From the divine peace of the Golden Temple to the royal grandeur of Patiala and the modern architecture of Chandigarh, every moment is crafted to leave your family with beautiful, unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers a seamless balance between deep spiritual heritage, legendary culinary traditions, royal palaces, and lush green countryside vistas. Travelling in a dedicated private premium AC vehicle with professional chauffeur assistance, your family will experience top-tier luxury and unconditional privacy. With a carefully curated meal plan featuring hearty authentic breakfasts and specialized dinners, this route represents the definitive premium Punjab experience. Every milestone of your journey includes the signature touch of TRAGUIN curated experiences, ensuring VIP entries, private local guides, and 24/7 bespoke guest support.\n\nWHY CHOOSE THE BEST PUNJAB TOUR PACKAGE?\nWhen considering a Luxury Punjab Holiday, travelers look for an deep immersion into heartwarming hospitality, lively folklore, and grand monuments. Punjab features some of the most iconic attractions in India. From the internationally admired Harmandir Sahib (Golden Temple)—the absolute top tourist place in Punjab—to the patriotic fervor of the Wagah Border ceremony, Punjab sightseeing provides unparalleled emotional depth. For families and couples looking for a custom Punjab Honeymoon Package or Punjab Family Tour, the state reveals highly popular Instagram locations like the vibrant mustard fields, heritage forts, and beautiful lakes. Whether you are looking for local handloom shopping for Phulkari work, enjoying authentic culinary delights like Makki di Roti and Sarson ka Saag, or seeking historical enlightenment at Jallianwala Bagh, our TRAGUIN Punjab Packages promise premium stays, handpicked luxury comforts, and curated exclusive experiences during the best time to visit Punjab.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "PB-008 | Complete Punjab | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Punjab package (PB-008 / TRG-PUB-008): Amritsar • Jalandhar • Ludhiana • Patiala • Chandigarh with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AMRITSAR — WELCOME TO THE HOLY CITY – DIVINE PEACE & GOURMET DELIGHTS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: AMRITSAR SIGHTSEEING & WAGAH BORDER — PATRIOTIC FERVOR & THE MEMORIES OF VALOR",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: AMRITSAR TO JALANDHAR VIA LUDHIANA — THE HEARTLAND JOURNEY – TEXTILE HUB & CULTURAL INSIGHTS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: JALANDHAR TO PATIALA — THE ROYAL COUTURE – FORTIFIED PALACES & RECOGNIZED ROYALTY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: PATIALA TO CHANDIGARH — THE MODERN URBAN MARVEL & SCENIC BEAUTY",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: CHANDIGARH DEPARTURE — CARRYING HOME LOVE & SWEET PUNJABI REMINISCENCES",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family interaction and historical storytelling brief before visiting the Golden Temple and Jallianwala Bagh.",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked routing to avoid commercial highway rush, maximizing your relaxation time.",
+        "sort_order": 8
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations thoroughly evaluated for safety, premium family comfort, and flawless local hospitality.",
+        "sort_order": 9
+      },
+      {
+        "text": "Luxury Transportation: Chauffeur-driven executive vehicles with seasoned highway drivers who know the best regional dining points.",
+        "sort_order": 10
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AMRITSAR — WELCOME TO THE HOLY CITY – DIVINE PEACE & GOURMET DELIGHTS",
+        "description": "Your premium Punjab experience begins with your arrival at Amritsar Airport or Railway Station, where your private luxury transport vehicle waits to receive you. Transfer comfortably to your handpicked premium luxury hotel. After a refreshing afternoon, experience an emotional storytelling visit to the Golden Temple during dusk to witness the spectacular lighting. Follow this with a culinary tour of local hidden food corners to sample world-famous Amritsari Kulchas drenched in pure butter.",
+        "activities": [
+          "Sightseeing Included: Golden Temple (Harmandir Sahib), local historical street walks.",
+          "Evening Experience: Pavitra Parikrama walk and a luxury gourmet street-food trail curated by TRAGUIN experts.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Hotel)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AMRITSAR SIGHTSEEING & WAGAH BORDER — PATRIOTIC FERVOR & THE MEMORIES OF VALOR",
+        "description": "Enjoy a lavish breakfast before diving into a historic Punjab sightseeing journey. Visit the poignant Jallianwala Bagh to pay homage to the heroes, followed by a tour of the unique Partition Museum. In the afternoon, take a scenic drive to the Wagah Border for the high-intensity lowering-of-the-flags ceremony. The synchronized drills and roaring crowd energy create unforgettable memories. Return to the city for a grand traditional dinner.",
+        "activities": [
+          "Sightseeing Included: Jallianwala Bagh, Partition Museum, Wagah Border Arena, Gobindgarh Fort.",
+          "Optional Activities: Private luxury VIP gallery pass seating arrangement at the Wagah Border.",
+          "Overnight Stay: Amritsar (Premium / Luxury Selected Hotel)",
+          "Meals Included: Premium Breakfast & Authentic Punjabi Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "AMRITSAR TO JALANDHAR VIA LUDHIANA — THE HEARTLAND JOURNEY – TEXTILE HUB & CULTURAL INSIGHTS",
+        "description": "Bid adieu to Amritsar and drive along smooth national highways cutting across lush green farmlands. Stop at an authentic rural farm to experience breathtaking landscapes and a brief tractor ride. Proceed through Ludhiana—the industrial pulse of Punjab—visiting the unique Maharaja Ranjit Singh War Museum. Continue your luxury holiday towards Jalandhar, an ancient city steeped in rich cultural lore.",
+        "activities": [
+          "Sightseeing Included: Rural farm experience, Ludhiana War Museum, Jalandhar Rangla Punjab Heritage Village.",
+          "Evening Experience: Immersive cultural folk dance (Bhangra/Gidda) and traditional dinner at Rangla Punjab.",
+          "Overnight Stay: Jalandhar (Premium Business Luxury Hotel)",
+          "Meals Included: Breakfast & Traditional Elite Heritage Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "JALANDHAR TO PATIALA — THE ROYAL COUTURE – FORTIFIED PALACES & RECOGNIZED ROYALTY",
+        "description": "Travel south toward the royal city of Patiala, world-famous for its majestic turbans, parandas, and traditional palaces. Explore the glorious Qila Mubarak Complex, an incredible example of Sikh palace architecture. Tour the Sheesh Mahal (Palace of Mirrors) and marvel at the breathtaking reflections and historical royal artifacts. This city is a highly popular Instagram location for capturing royal portraits.",
+        "activities": [
+          "Sightseeing Included: Qila Mubarak, Sheesh Mahal, Baradari Gardens, Gurudwara Dukh Niwaran Sahib.",
+          "Evening Experience: A guided walk through local craft bazaars to buy authentic Patiala Shahi Juttis.",
+          "Overnight Stay: Patiala (Premium Heritage Hotel Stay)",
+          "Meals Included: Breakfast & Royal Heritage Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "PATIALA TO CHANDIGARH — THE MODERN URBAN MARVEL & SCENIC BEAUTY",
+        "description": "Drive towards Chandigarh, the beautifully planned joint capital known for its lush green foliage and architectural harmony. After checking into your ultra-luxury stay, enjoy an immersive experience at the iconic Rock Garden, constructed entirely out of recycled materials by Nek Chand. Conclude your evening at Sukhna Lake, where a private sunset boat cruise has been exclusively organized for your family.",
+        "activities": [
+          "Sightseeing Included: Nek Chand's Rock Garden, Zakir Hussain Rose Garden, Sukhna Lake Promenade.",
+          "Optional Activities: Premium high-street shopping tour at Sector 17 or Elante Mall.",
+          "Overnight Stay: Chandigarh (Premium / Ultra Luxury Hotel)",
+          "Meals Included: Breakfast & Farewell Premium Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CHANDIGARH DEPARTURE — CARRYING HOME LOVE & SWEET PUNJABI REMINISCENCES",
+        "description": "Indulge in a final lavish breakfast at your premium hotel. Your private luxury transport will safely drop your family off at Chandigarh Airport/Railway Station or drive you back to New Delhi. Return home carrying a heart filled with warmth, deep family bonds, and unforgettable memories designed meticulously by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Regenta Central / Fairway + Hotel Ramada / The Eqbal Inn + Hotel Bella Vista / similar",
+        "location": "Amritsar, Jalandhar / Patiala & Chandigarh",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Patiala + 1N Chandigarh",
+        "description": "OPTION 01 – DELUXE: Regenta Central / Fairway + Hotel Ramada / The Eqbal Inn + Hotel Bella Vista / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu / Courtyard by Marriott + Radisson Hotel / Neemrana's Baradari + Novotel Chandigarh / similar",
+        "location": "Amritsar, Jalandhar / Patiala & Chandigarh",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Patiala + 1N Chandigarh",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu / Courtyard by Marriott + Radisson Hotel / Neemrana's Baradari + Novotel Chandigarh / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Club Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Swarna / Hyatt Regency + The Cabbana Resort / Heritage Suite + Taj Chandigarh / Hyatt Regency",
+        "location": "Amritsar, Jalandhar / Patiala & Chandigarh",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Patiala + 1N Chandigarh",
+        "description": "OPTION 03 – LUXURY: Taj Swarna / Hyatt Regency + The Cabbana Resort / Heritage Suite + Taj Chandigarh / Hyatt Regency | Premium MAPAI Plan",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Suite",
+        "meal_plan": "Premium MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Welcomhotel by ITC (Executive Suite) + VVIP Custom Luxury Farm Villa Stay + The Oberoi Sukhvilas Spa Resort",
+        "location": "Amritsar, Jalandhar / Patiala & Chandigarh",
+        "nights_label": "2N Amritsar + 2N Jalandhar / Patiala + 1N Chandigarh",
+        "description": "OPTION 04 – ULTRA LUXURY: The Welcomhotel by ITC (Executive Suite) + VVIP Custom Luxury Farm Villa Stay + The Oberoi Sukhvilas Spa Resort | Elite Bespoke Gourmet Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite / Presidential Suite",
+        "meal_plan": "Elite Bespoke Gourmet Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Handpicked accommodations in highly rated properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC SUV for all transfers and tours.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfasts and elite dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience executive service.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized family welcome kit and organic sweets box.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Sunset boat ride tickets at the scenic Sukhna Lake.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or long-distance train tickets to Amritsar / from Chandigarh.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera fees, and local guide charges.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, liquor, telephone bills, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any voluntary adventure sports or shopping expenses.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-002-divine-sovereign-soul-trail-tirupati-srikalahasti",
+    "serial_code": "AP-002",
+    "traguin_tour_code": "TG-AP-TSK-002",
+    "title": "TRAGUIN Premium Andhra Pradesh Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-002 | TRAGUIN tour code TG-AP-TSK-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Premium Pilgrimage / Family Divine FIT",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Tirupati • Tirumala • Srikalahasti",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Devotees & Spiritual Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury Sedan / SUV (Innova Crysta) | Meal Plan: Premium MAPAI (Daily Breakfast & Satvik Dinners)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Renigunta / Chennai Arrival → Tirupati (3 Nights) → Srikalahasti Excursion → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Pre-booked Special Entry Darshan slots, dedicated local coordinator to handle ritual protocols, handpicked hotels serving exquisite culinary options, and personalized traditional welcome kits for your family.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private traditional family briefing with an analysis of architectural history before exploring the main temples.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every transport vehicle, hotel room, and transit schedule is rigorously inspected to ensure top comfort for elderly family members and children.",
+        "sort_order": 11
+      },
+      {
+        "text": "Personalized Assistance: Elite, dedicated holiday specialist monitoring your flight schedules and gate clearances around the clock.",
+        "sort_order": 12
+      },
+      {
+        "text": "Premium Handpicked Hotels: Stay inside luxury properties like the Taj Tirupati, offering magnificent views of the sacred Seshachalam mountain peaks.",
+        "sort_order": 13
+      },
+      {
+        "text": "Exclusive Recommendations: Curated selection of verified shopping options for purchasing authentic gold-plated Tanjore paintings and organic sandalwood items.",
+        "sort_order": 14
+      },
+      {
+        "text": "Shopping & Local Experiences: Kalamkari Fabric Art at Srikalahasti, Tanjore Paintings & Brass in Tirupati markets, traditional Andhra Bhojanom, Tirupati Laddu variants and Pootharekulu sweets.",
+        "sort_order": 15
+      },
+      {
+        "text": "Important Notes: Mandatory Dress Code Rules for Tirumala and Srikalahasti temples. Identity Verification with original government photo ID. Electronic Equipment Ban inside main temple premises. Advance Darshan Bookings recommended 60 to 90 days in advance.",
+        "sort_order": 16
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Spiritual",
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-002-divine-sovereign-soul-trail-tirupati-srikalahasti-itinerary",
+    "title": "TRAGUIN Premium Andhra Pradesh Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Divine Sovereign Soul Trail — Tirupati & Srikalahasti • 03 Nights / 04 Days",
+    "overview": "Welcome to a journey of profound divinity and sublime peace. The Best Andhra Pradesh Tour Package, exclusively curated by TRAGUIN, invites your family to seek blessings at India's most revered spiritual citadels. This ultra-curated pilgrimage blends seamless VIP access with premium comfort, offering an unmatched Premium Andhra Pradesh Experience.\n\nTOUR OVERVIEW\nThis masterfully planned Andhra Pradesh Family Tour covers the grand spiritual sanctuaries of Chittoor district. Beginning in the historic temple town of Tirupati, ascending into the celestial domain of Tirumala, and extending to the ancient Shiva node at Srikalahasti, every segment is tailored for absolute comfort.\n\nWHY CHOOSE THE PREMIUM TIRUPATI & SRIKALAHASTI CIRCUIT?\nFamous Attractions include Tirumala Venkateswara Temple, Srikalahasteeswara Temple, Padmavathi Ammavari Temple, and Kapila Theertham. Best Time to Visit: September to March offers comfortable temperatures for outdoor temple explorations.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-002 | Divine Sovereign Soul Trail Tirupati Srikalahasti | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Andhra Pradesh pilgrimage package (AP-002 / TG-AP-TSK-002): Tirumala VIP darshan, Srikalahasti Rahu-Ketu node, Kapila Theertham, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Tiruchanur Padmavathi Temple, Kapila Theertham Temple & Waterfall on arrival day",
+        "sort_order": 1
+      },
+      {
+        "text": "Tirumala Venkateswara Temple Special Entry Darshan and Swami Pushkarini",
+        "sort_order": 2
+      },
+      {
+        "text": "Srikalahasteeswara Temple Rahu-Ketu rituals and Govindaraja Swamy Temple",
+        "sort_order": 3
+      },
+      {
+        "text": "Srinivasa Mangapuram temple and seamless departure transfer",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private traditional family briefing on temple architectural history",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & INTRODUCTION TO THE DIVINE GATEWAY",
+        "description": "Your holy journey begins as you land at Tirupati (Renigunta) Airport or arrive at the railway station. Receive a warm traditional welcome from your dedicated TRAGUIN executive chauffeur, who will transfer you in a private luxury SUV to your premium hotel. Enjoy a seamless check-in experience accompanied by traditional welcome drinks. After an exquisite south Indian vegetarian lunch and a short rest, embark on your first Andhra Pradesh Sightseeing excursion. Visit the beautiful Sri Padmavathi Ammavari Temple at Tiruchanur, dedicated to the divine consort of Lord Venkateswara, where custom demands a devotee must pay respect before ascending the hills. Next, drive to the ancient Kapila Theertham, a historic Shiva temple located right at the foothills of Tirumala, featuring a sacred waterfall plunging into a clean temple tank. Return to your hotel for an exclusive Satvik dinner prepared by master chefs.",
+        "activities": [
+          "Sightseeing Included: Tiruchanur Padmavathi Temple, Kapila Theertham Temple & Waterfall, local temple lanes.",
+          "Evening Experience: Traditional lighting of lamps at the hotel temple corner and a relaxed evening briefing with our local destination representative.",
+          "Meals Included: Welcome Refreshments & Gourmet Vegetarian Dinner.",
+          "Overnight Stay: Premium Handpicked Hotel, Tirupati."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "TIRUMALA HILLS — STANDING BEFORE THE LORD OF THE SEVEN HILLS",
+        "description": "Wake up early to the peaceful chants of Suprabhatam. Today marks the absolute centerpiece of your Luxury Andhra Pradesh Holiday. After breakfast, your private vehicle winds up the beautifully managed ghat road of the Seshachalam hills, featuring scenic beauty and lush mountain ranges. Reach Tirumala, the high celestial domain of Lord Venkateswara. Using the fast-track Special Entry Darshan tokens pre-arranged by TRAGUIN experts, enter the historic temple complex. Stand in deep emotional awe before the self-manifested, jewel-encrusted majestic idol of Lord Venkateswara under the golden Ananda Nilayam dome. Absorb the high spiritual vibration as priests chant Vedic hymns. After a fulfilling darshan, receive the legendary, GI-tagged Tirupati Laddu Prasadam. Spend time exploring the scenic temple structures and the holy Swami Pushkarini tank before descending back to Tirupati in the evening.",
+        "activities": [
+          "Sightseeing Included: Tirumala Venkateswara Temple, Swami Pushkarini, Seshachalam mountain view spots.",
+          "Evening Experience: Distribution of prasadam and a relaxed multi-course family dinner at your hotel.",
+          "Meals Included: Buffet Breakfast & Special Celebratory Satvik Dinner.",
+          "Overnight Stay: Premium Handpicked Hotel, Tirupati."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SRIKALAHASTI — THE COSMIC RAHU-KETU VAYU NODE",
+        "description": "Following a relaxed breakfast, depart on an enriching excursion toward the historic town of Srikalahasti, situated neatly between two hills on the banks of the Swarnamukhi River. This iconic attraction represents the element of Air (Vayu) among the sacred Pancha Bhoota Stalams of Lord Shiva. Enter the ancient stone hallways of the Srikalahasteeswara Temple. For families interested in traditional astrological balances, our local coordinator will smoothly facilitate the highly regarded Rahu-Ketu transition or planetary balance rituals inside the temple complex. Observe the flickering lamp in the inner sanctum that moves constantly despite no air movement, symbolizing the Vayu element. In the late afternoon, drive past scenic agricultural fields back to Tirupati, stopping by the historic Govindaraja Swamy Temple featuring an impressive 11-tiered gopuram tower.",
+        "activities": [
+          "Sightseeing Included: Srikalahasti Temple, Swarnamukhi River view, Govindaraja Swamy Temple.",
+          "Optional Activities: Execution of special Rahu-Ketu planet pacification rituals with pre-assigned temple scholars.",
+          "Evening Experience: Final evening shopping walk for authentic traditional textile art pieces.",
+          "Meals Included: Breakfast & Multi-cuisine Vegetarian Fine Dining.",
+          "Overnight Stay: Premium Handpicked Hotel, Tirupati."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "FINAL BLESSINGS & SEAMLESS ONWARD JOURNEY",
+        "description": "Indulge in a final morning breakfast at your hotel. If time permits based on your departure flight or train schedule, visit the peaceful Sri Srinivasa Mangapuram temple, a highly historic site where Lord Venkateswara is believed to have stayed after his celestial marriage. Take a moment to capture final family photographs in front of the elegant temple gardens. Your private chauffeur will provide a seamless transfer to the Tirupati Airport or Renigunta Railway station for your journey home. Your premium pilgrimage trail concludes here, leaving your soul completely rejuvenated, filled with positive spiritual energy and unforgettable memories crafted beautifully by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Srinivasa Mangapuram temple check-in, Airport Private Transfer.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Fortune Select Grand Ridge / Similar",
+        "location": "Tirupati",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Fortune Select Grand Ridge / Similar (Tirupati, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Vegetarian Room",
+        "meal_plan": "Breakfast & Satvik Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Marasa Sarovar Premiere Tirupati",
+        "location": "Tirupati",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Marasa Sarovar Premiere Tirupati (Tirupati, 03 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Hill View Room",
+        "meal_plan": "Breakfast & Satvik Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Tirupati",
+        "location": "Tirupati",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Tirupati (Tirupati, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior Executive Room",
+        "meal_plan": "Breakfast & Gourmet Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Tirupati",
+        "location": "Tirupati",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Taj Tirupati Luxury Seshachalam Suite (Tirupati, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Seshachalam Suite Tier",
+        "meal_plan": "Breakfast, Custom Chef Dinners",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights premium luxury accommodation at top-rated handpicked hotels in Tirupati.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily breakfast and multi-course vegetarian dinners included at the hotel dining rooms.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury vehicle (Toyota Innova Crysta) for all transfers, intercity ghat travel, and excursions as per the itinerary.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Spiritual Coordination: Dedicated local representative support to manage timing grids and guide you through ritual lines.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Traditional welcome stole, religious booklet guide, and premium bottled mineral water supplied inside the car daily.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Assistance: 24/7 priority concierge support from TRAGUIN operational control, covering toll taxes, fuel prices, parking fees, and driver allowances.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Transit Tickets: Main airline flights or train bookings to Tirupati / Chennai.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Darshan Tickets: Direct temple ticket fees or specialized ritual costs (Rahu-Ketu transit tickets) unless explicitly bundled in final customized quote options.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Items: Laundry charges, telephone bills, additional temple donation tokens, and tips for priests or drivers.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Medical or travel insurance policies.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

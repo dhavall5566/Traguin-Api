@@ -1,0 +1,287 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-006-maha-jyotirlinga-sacred-circuit",
+    "serial_code": "MH-006",
+    "traguin_tour_code": "TRAGUIN-MH-006",
+    "title": "Maha Jyotirlinga Sacred Circuit",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-006 | TRAGUIN tour code TRAGUIN-MH-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Pilgrimage / Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Bhimashankar • Trimbakeshwar • Grishneshwar • Aundha Nagnath • Parli Vaijnath",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Devotees",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: July to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Luxury Pilgrimage Circuit (FIT)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private AC Luxury Innova Crysta / Premium SUV",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Continental Breakfast & Specialized Satvik Dinners Included",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Pune Arrival → Bhimashankar → Shirdi → Trimbakeshwar → Grishneshwar (Ellora) → Aundha Nagnath → Parli Vaijnath → Pune Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Handcrafted meticulously by TRAGUIN Experts, this pilgrimage ensures premium luxury vehicle provisions, avoiding crowded transits, and including customized Satvik dining options to preserve your ritual vows seamlessly",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Nasik Vineyards & Markets — premium raisins, fresh grapes, authentic local copper items; Aurangabad Bazaars — hand-woven Paithani sarees and intricate Himroo stoles",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Temple dress codes mandatory (sarees/salwars for women, dhotis/kurtas for men); best time post-monsoon when Western Ghats erupt into vibrant green; book specialized abhishek rituals well in advance through TRAGUIN travel advisor",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Spiritual",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-006-maha-jyotirlinga-sacred-circuit-itinerary",
+    "title": "Maha Jyotirlinga Sacred Circuit",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Maha Jyotirlinga Sacred Circuit • 5 Nights / 6 Days",
+    "overview": "Embark on a soul-stirring spiritual odyssey across the sacred land of Maharashtra. Custom-tailored to perfection by TRAGUIN, this exclusive 5 Nights / 6 Days pilgrimage circuit seamlessly blends deep spiritual devotion with the luxury of premium stays and chauffeured convenience. Experience the divine aura of all 5 sacred Jyotirlingas of the state, amidst breathtaking landscapes, making for an absolute journey of unforgettable memories.\n\nMaharashtra holds a uniquely exalted space in spiritual geography, hosting five of the twelve sacred Jyotirlingas. Our premier Maharashtra Family Tour takes you deep into these high-ranking energy centers while ensuring a thoroughly refreshing and elite holiday structure. From the cloud-kissed heights of Bhimashankar nestled in the Western Ghats to the ancient stone architectural marvel of Trimbakeshwar near Nasik, this circuit promises unmatched scenic beauty combined with deep religious history.\n\nWhether you choose this as a meaningful Maharashtra Honeymoon Package seeking divine blessings for a new beginning, or a comfortable family tour for your parents, the detailed Maharashtra Sightseeing takes you past famous attractions like Ellora Caves, Shirdi Sai Baba Temple, and local artisan markets. Our TRAGUIN Maharashtra Packages ensure that premium stays, immersive experiences, and smooth check-ins keep you comfortable at every step.\n\nTRAGUIN Curated Experience Note: This Luxury Maharashtra Holiday features VIP Darshan passes (where available), handpicked hotels with top-notch amenities, professional spiritual guides, and private luxury transportation specifically scheduled to eliminate any trace of travel fatigue.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-006 | Maha Jyotirlinga Sacred Circuit | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Maharashtra Jyotirlinga pilgrimage (MH-006 / TRAGUIN-MH-006): Bhimashankar, Shirdi, Trimbakeshwar, Grishneshwar, Ellora Caves, Aundha Nagnath, Parli Vaijnath, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Bhimashankar Jyotirlinga Temple & Gupt Bhimashankar (optional trail)",
+        "sort_order": 1
+      },
+      {
+        "text": "Shirdi Sai Baba Shrine, Trimbakeshwar Temple & Kushavarta Kund",
+        "sort_order": 2
+      },
+      {
+        "text": "Grishneshwar Temple, Ellora Caves (Cave 16 - Kailash Temple) & Aundha Nagnath Temple Complex",
+        "sort_order": 3
+      },
+      {
+        "text": "Parli Vaijnath Mountain Shrine & concluding celebratory high-tea hosted by TRAGUIN manager",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Handcrafted meticulously by TRAGUIN Experts with premium luxury vehicle provisions and customized Satvik dining options",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Pune to Bhimashankar to Shirdi",
+        "description": "Arrive at Pune Airport where your professional TRAGUIN chauffeur welcomes you. Board your private luxury vehicle and proceed directly towards Bhimashankar, the first sacred pillar of light on this circuit. Wind through spectacular ghat routes to reach the shrine located in a dense forest reserve. Experience a tranquil VIP darshan of the swayambhu lingam. After soaking in the pristine spiritual vibrations and scenic beauty, embark on a smooth luxury drive to the holy town of Shirdi. Check in to your premium handpicked hotel for an overnight stay.",
+        "activities": [
+          "Sightseeing Included: Bhimashankar Jyotirlinga Temple, Gupt Bhimashankar (optional trail).",
+          "Evening Experience: Relaxing evening check-in followed by a refreshing Satvik dinner.",
+          "Overnight Stay: Premium Luxury Stay, Shirdi.",
+          "Meals Included: Welcome Drink & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Shirdi to Trimbakeshwar to Nasik",
+        "description": "Wake up early to experience the divine morning Kakad Aarti at the world-renowned Shirdi Sai Baba Temple. After an elegant buffet breakfast, drive through the vineyards toward Nasik to reach Trimbakeshwar Jyotirlinga Temple. Situated at the source of the holy Godavari River, this iconic attraction features a unique three-faced lingam representing Brahma, Vishnu, and Mahesh. Engage in an exclusive curated prayer arranged by TRAGUIN local experts before retiring to your premium stay in Nasik.",
+        "activities": [
+          "Sightseeing Included: Shirdi Sai Baba Shrine, Trimbakeshwar Temple, Kushavarta Kund.",
+          "Photography Points: The breathtaking landscapes of Brahmagiri hills framing the temple spires.",
+          "Overnight Stay: Luxury Vineyard Resort / Premium Stay, Nasik.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Nasik to Grishneshwar to Aurangabad",
+        "description": "Following a leisurely morning breakfast, proceed down comfortable highways towards Aurangabad. Your destination is the ancient Grishneshwar Jyotirlinga Temple, built entirely of red basalt rock and renowned as the final or 12th Jyotirlinga of Lord Shiva. After an immersive darshan experience, enjoy an afternoon exploring the nearby UNESCO World Heritage-listed Ellora Caves, a monumental showcase of rock-cut monolithic temple craft.",
+        "activities": [
+          "Sightseeing Included: Grishneshwar Temple, Ellora Caves (Cave 16 - Kailash Temple).",
+          "Optional Activities: Shopping for authentic local Himroo silk sarees and traditional weaves.",
+          "Overnight Stay: Ultra-Luxury Heritage Partner Hotel, Aurangabad.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Aurangabad to Aundha Nagnath",
+        "description": "Today, your premium pilgrimage holiday routes towards Marathwada. Travel comfortably in your luxury vehicle to Aundha Nagnath Jyotirlinga Temple, heavily linked to the times of the Mahabharata. Marvel at the intricate Hemadpanti style stone carvings depicting ancient scriptural stories. Witness the subterranean garbha-griha where devotees experience deeply private, immersive spiritual moments.",
+        "activities": [
+          "Sightseeing Included: Aundha Nagnath Temple Complex, local heritage stepwells.",
+          "Evening Experience: A slow-paced evening stroll around the temple lake.",
+          "Overnight Stay: Premium Handpicked Stay, Nanded / Hingoli Region.",
+          "Meals Included: Breakfast & Local Cuisine Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Aundha Nagnath to Parli Vaijnath to Pune",
+        "description": "On this final day of temple darshans, drive toward the sacred hillock of Parli Vaijnath Jyotirlinga Temple. Perched elegantly on an elevated stone platform, this sanctuary is revered both as a Jyotirlinga and a house of celestial healing. Ascend the wide, comfortable stone steps to perform your final circuit prayers. After your spiritual fulfillment, commence a smooth highway drive back towards Pune, enjoying the scenic beauty of rural Maharashtra along the way.",
+        "activities": [
+          "Sightseeing Included: Parli Vaijnath Mountain Shrine.",
+          "Immersive Experiences: Concluding celebratory high-tea hosted by your TRAGUIN manager.",
+          "Overnight Stay: Premium Luxury Business Hotel, Pune.",
+          "Meals Included: Breakfast & Farewell Festive Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Pune Departure",
+        "description": "Indulge in a late luxurious breakfast at your hotel. Take time to arrange your holy souvenirs and prasadam. Your dedicated premium chauffeur will arrive to transfer you safely to Pune International Airport / Railway Station for your journey home, concluding your premium TRAGUIN Maharashtra Package with unforgettable memories.",
+        "activities": [
+          "Transfers Included: Private Airport Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Stardust Resort (Shirdi) / Express Inn (Nasik)",
+        "location": "Shirdi / Nasik",
+        "nights_label": "05 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe AC Room",
+        "meal_plan": "CP (Breakfast Only)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Sun N Sand (Shirdi) / Radisson Blu (Nasik)",
+        "location": "Shirdi / Nasik",
+        "nights_label": "05 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Superior Premium Room",
+        "meal_plan": "MAPAI (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Vivanta (Aurangabad) / Radisson Blu (Pune)",
+        "location": "Aurangabad / Pune",
+        "nights_label": "05 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Club Room",
+        "meal_plan": "MAPAI (Gourmet Satvik Plan)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC Hotels (Ahmednagar) / JW Marriott (Pune)",
+        "location": "Ahmednagar / Pune",
+        "nights_label": "05 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite Collection",
+        "meal_plan": "Ultra All-Inclusive Meal Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 05 Nights luxury stay at our premium handpicked hotels across the circuit.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Curated daily buffet breakfasts and dinners, featuring pure vegetarian culinary themes.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated private AC Innova Crysta throughout the complete loop from Pune.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated remote guest relationship support and local driver-cum-guide assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized spiritual kit containing traditional premium stoles, copper water tumblers, and sanitizer packs.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or main rail tickets to Pune station.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Special personal pooja arrangement fees and direct dakshina to temple priests.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any entry tickets for Ellora Caves or camera permissions.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, tips, and room-service demands.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

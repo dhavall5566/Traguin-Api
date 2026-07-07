@@ -1,0 +1,328 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-011-grand-maharashtra-explorer-tour",
+    "serial_code": "MH-011",
+    "traguin_tour_code": "TRAGUIN-MH-011",
+    "title": "Grand Maharashtra Explorer Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-011 | TRAGUIN tour code TRAGUIN-MH-011",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra, India | Category: Family / Luxury Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Mumbai • Lonavala • Mahabaleshwar • Pune • Aurangabad",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Leisure Seekers & Heritage Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Grand Maharashtra Explorer FIT Vacation",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Private Chauffeur-driven Luxury SUV (Innova Crysta / Premium Coach) equipped with refreshing amenities",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Buffet Breakfasts and Gourmet Dinners included at all premium stays)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Mumbai (2N) → Lonavala (1N) → Mahabaleshwar (2N) → Pune (1N) → Aurangabad (2N)",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated by TRAGUIN Experts for families seeking zero-hassle luxury with pre-vetted premium stays and priority check-ins",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Colaba Causeway & Crawford Market (Mumbai), Bhudwar Peth & Laxmi Road (Pune), Aurangabad Bazaars — Himroo shawls and Bidriware",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; light wrap for hill station evenings; TRAGUIN aligns Ajanta/Ellora cave schedules for closure days",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-011-grand-maharashtra-explorer-tour-itinerary",
+    "title": "Grand Maharashtra Explorer Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Maharashtra Explorer Tour • 08 Nights / 09 Days",
+    "overview": "Welcome to a breathtaking journey across the vibrant heart of India. This premium Maharashtra Family Tour, meticulously structured by TRAGUIN, perfectly blends the high-octane luxury of Mumbai, the crisp mountain air of misty hill stations, and the timeless architectural awe of world heritage cave monuments. Specially curated for discerning families, our Premium Maharashtra Experience promises signature comfort, exclusive touches, and unforgettable memories for every generation.\n\nWhy choose a luxury holiday in Maharashtra? As one of India's most diverse domains, it offers an astonishing spectrum of famous attractions ranging from glamorous coastal shorelines to dramatic Western Ghats mountain ridges and centuries-old rock-cut shrines. This definitive Maharashtra Honeymoon Package and family itinerary opens doors to the Top Tourist Places in Maharashtra, making it the highest sought-after travel loop for discerning travelers.\n\nFrom capturing the perfect sunset at Marine Drive or tracking historic relics inside the Ajanta and Ellora caves to plucking fresh strawberries in beautiful Mahabaleshwar, your family will experience unmatched cultural and natural depth. The Best Time to Visit Maharashtra falls during the cooler autumn and spring seasons, when the breathtaking landscapes turn into lush panoramic heavens, pristine for photography, adventure, and absolute relaxation.\n\nTRAGUIN Curated Experience Note: Every detail of this Luxury Maharashtra Holiday has been refined by our experts to ensure seamless transfers, handpicked hotels, VIP fast-track entries to historical attractions, and deeply immersive local culinary journeys.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-011 | Grand Maharashtra Explorer Tour | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days Maharashtra explorer (MH-011 / TRAGUIN-MH-011): Mumbai, Lonavala, Mahabaleshwar, Pune, Ellora, Ajanta, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Gateway of India, Nariman Point, Bandra-Worli Sea Link & Marine Drive evening walk",
+        "sort_order": 1
+      },
+      {
+        "text": "Elephanta Caves, CSMT, Mani Bhavan, Hanging Gardens & Karla & Bhaja Caves",
+        "sort_order": 2
+      },
+      {
+        "text": "Venna Lake private boat ride, Arthur's Seat, Panchgani Table Land & Mapro Gardens",
+        "sort_order": 3
+      },
+      {
+        "text": "Shaniwar Wada, Aga Khan Palace, Bibi Ka Maqbara, Ellora Caves & Ajanta Caves excursion",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private boat ride on Venna Lake and VIP fast-track entry assistance",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Mumbai Arrival",
+        "description": "Touchdown at Mumbai International Airport where your dedicated TRAGUIN tour ambassador welcomes you with a traditional gesture. Board your premium luxury private vehicle and slide comfortably through the metropolis towards your majestic sea-facing iconic hotel. After checking in and relaxing, spend your afternoon discovering the premium neighborhoods of South Mumbai. Wind down with an evening drive across the engineering marvel of the Bandra-Worli Sea Link.",
+        "activities": [
+          "Sightseeing Included: Gateway of India, Nariman Point, Bandra-Worli Sea Link.",
+          "Evening Experience: A slow walk along Marine Drive as the lights sparkle into the \"Queen's Necklace\".",
+          "Overnight Stay: Handpicked Luxury Hotel, Mumbai.",
+          "Meals Included: Welcome Amenity & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Mumbai Urban Exploration",
+        "description": "Relish a gourmet breakfast before taking a luxurious morning ferry ride to the ancient, rock-cut Elephanta Caves, a UNESCO World Heritage site showcasing glorious historic carvings. Return to the mainland for a curated heritage walk through the colossal colonial structures of Fort and Kala Ghoda. Later, discover Mani Bhavan, the serene residence of Mahatma Gandhi, followed by a drive past the iconic Dhobi Ghat and through the elite residential quarters of Malabar Hill.",
+        "activities": [
+          "Sightseeing Included: Elephanta Caves, Chhatrapati Shivaji Maharaj Terminus (CSMT), Mani Bhavan, Hanging Gardens.",
+          "Food Suggestions: High-tea and artisanal pastries at an elite heritage café in Colaba.",
+          "Overnight Stay: Handpicked Luxury Hotel, Mumbai.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Mumbai to Lonavala",
+        "description": "Bid farewell to the coastline as your luxury vehicle begins its ascent into the spectacular hills of the Western Ghats. Arrive at the scenic mountain retreat of Lonavala. Check into your premium cliffside private villa or resort. In the afternoon, visit the dramatic Bhaja and Karla Caves, magnificent ancient Buddhist shrines carved deeply into the rock faces. Witness a breathtaking sunset from Khandala's Duke's Nose viewpoint.",
+        "activities": [
+          "Sightseeing Included: Karla & Bhaja Caves, Lonavala Lake, Duke's Nose Point.",
+          "Optional Activities: Indulge in an exclusive private spa session overlooking the lush, deep valleys.",
+          "Overnight Stay: Premium Hillside Resort, Lonavala.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Lonavala to Mahabaleshwar",
+        "description": "Enjoy a relaxed breakfast amidst the mist. Your scenic driving route continues south through rolling hills to the high-altitude luxury haven of Mahabaleshwar. Famed for its evergreen forests, pristine lakes, and colonial charm, this town offers the ultimate rejuvenation space. Check into your ultra-luxury eco-resort nestled within private woods. Spend a leisurely evening at the pristine Venna Lake, enjoying an exclusive private boat ride.",
+        "activities": [
+          "Sightseeing Included: Venna Lake, Local Highland Boardwalks.",
+          "Evening Experience: Private rowboat experience on Venna Lake with personal refreshments served onboard.",
+          "Overnight Stay: Premium Luxury Resort, Mahabaleshwar.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Mahabaleshwar & Panchgani",
+        "description": "An early morning excursion brings you to Arthur's Seat and Elphinstone Point, offering awe-inspiring canyon views of the Savitri river valley. Next, explore the old heritage structures of Mahabaleshwar Temple before moving down to neighboring Panchgani. Wander around the wide volcanic plateau of Table Land and spend your afternoon inside an organic strawberry orchard, plucking ripe seasonal fruits straight from the vine.",
+        "activities": [
+          "Sightseeing Included: Arthur's Seat, Panchgani Table Land, Mapro Gardens, Strawberry Farms.",
+          "Photography Points: Phenomenal panoramas from the edge of Arthur's Seat overlooking deep valley drops.",
+          "Overnight Stay: Premium Luxury Resort, Mahabaleshwar.",
+          "Meals Included: Breakfast & Gourmet Theme Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Mahabaleshwar to Pune",
+        "description": "Descend the mist-laden hills after breakfast and proceed towards Pune, the proud cultural capital of the state. Check into your ultra-modern luxury city hotel. Your afternoon is dedicated to exploring the majestic ruins of Shaniwar Wada, the fortified seat of the Peshwas. Follow this with a comforting visit to the elegant Aga Khan Palace, a tranquil Italianate mansion filled with profound history and Italian arches.",
+        "activities": [
+          "Sightseeing Included: Shaniwar Wada, Aga Khan Palace, Dagadusheth Halwai Temple.",
+          "Local Experiences: Taste traditional local Puneri sweets during a private tasting session.",
+          "Overnight Stay: Ultra-Luxury Hotel, Pune.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Pune to Aurangabad",
+        "description": "Embark on a smooth, comfortable morning drive heading north towards Aurangabad. Watch the transforming landscape unfold from green peaks into historical dry-deciduous valley basins. Check into your luxury palace hotel upon arrival. In the afternoon, visit the stunning Bibi Ka Maqbara, a grand 17th-century mausoleum built in memory of Aurangzeb's wife, often fondly celebrated as the \"Taj of the Deccan\".",
+        "activities": [
+          "Sightseeing Included: Bibi Ka Maqbara, Panchakki (Ancient Water Mill).",
+          "Evening Experience: Relax within the hotel's lush Mughal-style gardens with live classical instrumental music.",
+          "Overnight Stay: Premium Luxury Palace Hotel, Aurangabad.",
+          "Meals Included: Breakfast & Royal Mughlai Dinner."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Ellora Caves & Daulatabad",
+        "description": "Prepare for an absolute highlight of your TRAGUIN Maharashtra Package. Travel to the magnificent Ellora Caves, an extraordinary assembly of Hindu, Buddhist, and Jain monuments. Marvel at the incredible Kailash Temple (Cave 16), the largest monolithic rock-cut structure in the world, carved from a single cliff surface downward. On the return route, pause at the impregnable hill fortress of Daulatabad, showcasing medieval military architectural brilliance.",
+        "activities": [
+          "Sightseeing Included: Ellora Caves Complex, Kailash Temple, Daulatabad Fort.",
+          "Optional Activities: VIP guided interaction with a veteran archaeological historian at Ellora.",
+          "Overnight Stay: Premium Luxury Palace Hotel, Aurangabad.",
+          "Meals Included: Breakfast & Farewell Festive Dinner."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Aurangabad / Ajanta Excursion & Departure",
+        "description": "Following a majestic breakfast, complete your check-out. Depending on your flight timing, enjoy a premium excursion to the world-renowned Ajanta Caves, capturing the ultimate ancient Buddhist frescoes and wall paintings dating back to the 2nd Century BCE. Your private luxury vehicle will then smoothly transfer your family to Aurangabad Airport or back to Mumbai for your onward homebound flight. Your unparalleled travel experience concludes with timeless memories.",
+        "activities": [
+          "Transfers Included: Premium Airport drop-off service.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Trident Nariman Point / Fariyas Resort",
+        "location": "Mumbai / Lonavala",
+        "nights_label": "08 Nights",
+        "description": "Mahabaleshwar/Pune/Aurangabad: Brightland Resort / Hyatt Pune / Welcomhotel by ITC Rama International",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Mahal Tower / Radisson Resort",
+        "location": "Mumbai / Lonavala",
+        "nights_label": "08 Nights",
+        "description": "Mahabaleshwar/Pune/Aurangabad: Le Méridien / JW Marriott Pune / Vivanta Aurangabad",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Mumbai / Rhythm Lonavala",
+        "location": "Mumbai / Lonavala",
+        "nights_label": "08 Nights",
+        "description": "Mahabaleshwar/Pune/Aurangabad: Evershine Resort / The Ritz-Carlton / Lemon Tree Amarante Palace",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Taj Mahal Palace / Hilton Shillim",
+        "location": "Mumbai / Lonavala",
+        "nights_label": "08 Nights",
+        "description": "Mahabaleshwar/Pune/Aurangabad: Le Méridien Forest Resort (Luxury Suite) / Taj Amiriya Palace (Royal Suite)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 08 Nights stay in handpicked premium luxury hotels and world-class heritage resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily premium buffet breakfasts and custom-crafted specialty dinners at all stays.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All city point-to-point journeys via an elite private air-conditioned vehicle.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Real-time, 24/7 dedicated guest relations assistance and professional guide coordinates.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Royal traditional welcome kit, artisanal chocolate platter, and premium mineral water bottles.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private boat ride on Venna Lake and VIP fast-track entry assistance to historic monuments.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or interstate rail passes to Mumbai / from Aurangabad.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual entry tickets to caves, historical museums, and personal activities.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as room service, laundry, international call bills, and gratuities.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory local holiday luxury tax additions or seasonal travel insurance cover.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

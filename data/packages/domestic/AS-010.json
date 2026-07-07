@@ -1,0 +1,301 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-010-senior-citizen-leisure-kaziranga-guwahati",
+    "serial_code": "AS-010",
+    "traguin_tour_code": "TG-AS-010-LEISURE",
+    "title": "TRAGUIN Premium Assam Tour Package for Senior Citizens — Leisure Kaziranga: Guwahati • Kaziranga National Park",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-010 | TRAGUIN tour code TG-AS-010-LEISURE",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Senior Citizen Leisure Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Guwahati • Kaziranga National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior Citizens, Families, Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Inclusive)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private luxury AC Toyota Innova Crysta with patient destination-trained chauffeur | Meal Plan: MAPAI",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati ➔ Kaziranga (3N) ➔ Guwahati (2N) ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Welcome Note: Dedicated ground handler support and VIP fast-track coordination at historic temples.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Hand-vetted transit routes and properties ensuring comfortable mobility.",
+        "sort_order": 10
+      },
+      {
+        "text": "Personalized Assistance: Dedicated local ground coordinators available around the clock.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Muga and Eri silks, organic tea from Upper Assam, cane baskets and bamboo decor.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Share dietary needs 14 days ahead; safari seating for back concerns; light shawls Nov–Feb.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-010-senior-citizen-leisure-kaziranga-guwahati-itinerary",
+    "title": "TRAGUIN Premium Assam Tour Package for Senior Citizens — Leisure Kaziranga: Guwahati • Kaziranga National Park",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Inclusive)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Senior Citizen Leisure • Guwahati • Kaziranga • 05 Nights / 06 Days",
+    "overview": "Deeply therapeutic journey through the green heart of Northeast India optimized for senior citizens with leisurely rhythm and premier luxury safety.\n\nTOUR OVERVIEW\\nLeisure Assam Holiday avoiding strenuous journeys with low-step vehicles, elevator-access hotels, and light cultural strolls. Route: Guwahati ➔ Kaziranga (3N) ➔ Guwahati (2N).\n\nWHY CHOOSE THIS PREMIUM ASSAM EXPERIENCE?\\nSpiritual Kamakhya VIP, comfortable jeep safaris for rhino viewing, orchid gardens, tea plantations, and TRAGUIN elimination of long waiting lines.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-010 | Senior Citizen Leisure Kaziranga | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days senior citizen Assam package (AS-010 / TG-AS-010-LEISURE): gentle Kaziranga safaris, orchid park, Brahmaputra cruise, Kamakhya VIP, 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Arrival and smooth highway drive to Kaziranga Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Comfortable Western Range jeep safari Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Orchid garden ambles and cultural weaving tales Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Return to Guwahati with Brahmaputra sunset cruise Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "VIP Kamakhya darshan and Kalakshetra cultural museum Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Relaxed departure Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI | DRIVE THROUGH FLOATING MIST TO KAZIRANGA",
+        "description": "TRAGUIN airport coordinator receives you at arrival gate. Smooth flat highway journey past paddy fields with premium highway tea stop to handpicked Kaziranga luxury resort.",
+        "activities": [
+          "Sightseeing Included: Scenic highway drive, welcoming resort orientation.",
+          "Evening Experience: Relaxing evening by the resort fireplace with local light music.",
+          "Overnight Stay: Handpicked Luxury Resort in Kaziranga.",
+          "Meals Included: Premium Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KAZIRANGA JEEP SAFARI | CHRONICLES OF THE ONE-HORNED RHINO",
+        "description": "Relaxed breakfast then comfortable open-top private Jeep Safari in Western Range with expert naturalist viewing rhinos, buffaloes, and swamp deer without strenuous walking.",
+        "activities": [
+          "Sightseeing Included: Kaziranga Western Range Private Safari.",
+          "Optional Activities: Short bird-watching session from the resort balcony.",
+          "Overnight Stay: Handpicked Luxury Resort in Kaziranga.",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "ORCHID GARDEN AMBLES & CULTURAL WEAVING TALES",
+        "description": "Slow-paced Kaziranga Orchid and Cultural Park with paved pathways, seated Bihu cultural presentation, and gentle neighboring tea estate walk.",
+        "activities": [
+          "Sightseeing Included: National Orchid Park, Tea Garden walk.",
+          "Evening Experience: Local Assamese traditional cultural dance show.",
+          "Overnight Stay: Handpicked Luxury Resort in Kaziranga.",
+          "Meals Included: Breakfast & Gourmet Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KAZIRANGA TO GUWAHATI | SUNSET ON THE BRAHMAPUTRA",
+        "description": "Peaceful breakfast, return to Guwahati ultra-premium hotel, and exclusive private sunset cruise on the majestic Brahmaputra with gentle breezes and light music.",
+        "activities": [
+          "Sightseeing Included: Return road trip, Luxury River Cruise.",
+          "Evening Experience: Relaxing tea session on the cruise ship deck.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Elegant Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SPIRITUAL SOLACE | VIP KAMAKHYA DARSHAN & HERITAGE MUSEUM",
+        "description": "Seamless fast-track VIP Kamakhya Temple visit with minimized walking. Afternoon Srimanta Sankaradeva Kalakshetra open-air museum and light silk souvenir shopping.",
+        "activities": [
+          "Sightseeing Included: VIP Kamakhya Temple, Kalakshetra Cultural Centre.",
+          "Photography Points: Scenic hill views overlooking the Guwahati cityscape.",
+          "Overnight Stay: Luxury Hotel in Guwahati.",
+          "Meals Included: Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE | EVERLASTING FAMILY MEMORIES",
+        "description": "Final luxury breakfast and comfortable private transfer to Guwahati International Airport.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Infinity Resort / Borgos Resort (Executive) | Kiranshree Grand / Hotel Shoolin Grand",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Infinity Resort / Borgos Resort Executive (Kaziranga, 3N) | Kiranshree Grand / Shoolin Grand (Guwahati, 2N) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive / Deluxe Room",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Diphlu River Lodge (Standard Cottage) | Novotel Guwahati GS Road",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Diphlu River Lodge Standard Cottage (Kaziranga, 3N) | Novotel Guwahati GS Road (Guwahati, 2N) | Breakfast & Dinner (MAP)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Standard Cottage",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Borgos Resort (Luxury Suite Tier) | Radisson Blu Hotel Guwahati",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Borgos Resort Luxury Suite (Kaziranga, 3N) | Radisson Blu Hotel Guwahati (Guwahati, 2N) | Gourmet Inclusive MAP",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "Gourmet Inclusive MAP",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Diphlu River Lodge (Premium River Villa) | Vivanta Guwahati (Taj Group Heritage)",
+        "location": "Kaziranga (3 Nights) / Guwahati (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Diphlu River Lodge Premium River Villa (Kaziranga, 3N) | Vivanta Guwahati Taj Group (Guwahati, 2N) | Bespoke Chef MAP Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium River Villa",
+        "meal_plan": "Bespoke Chef MAP Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 5 Nights accommodation at top-rated hotels featuring elevator access and senior-friendly room designs.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned Toyota Innova Crysta for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Dining: 5 comprehensive breakfasts and 5 mild, freshly prepared dinners suited to guest preferences.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Welcome Amenities: Assamese Gamosa greeting, daily packaged water bottles, and premium tea sampler kit.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Experiences: Private Brahmaputra Sunset Cruise and fast-track VIP entry coordination at Kamakhya Temple.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated Assistance: On-ground passenger assistance and luggage handling by TRAGUIN team members.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All Applicable Taxes: Comprehensive toll fees, parking, driver allowances, and state taxes included.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Air / Train Tickets: Airfare or railway tickets to and from Guwahati.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry service, room telephone calls, and premium alcoholic beverages.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Extras: Camera fees, individual monument entry tickets, and tips for local guides.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical Insurance: Travel and medical insurance coverage.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

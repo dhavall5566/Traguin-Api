@@ -1,0 +1,253 @@
+{
+  "destination_slug": "punjab",
+  "package": {
+    "slug": "ch-013-romantic-city-escape-luxury-spa",
+    "serial_code": "CH-013",
+    "traguin_tour_code": "TG-CH-013-HON",
+    "title": "Romantic City Escape & Luxury Spa",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-013 | TRAGUIN tour code TG-CH-013-HON",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chandigarh / India | Category: Honeymoon / Couple Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Chandigarh Romantic Luxury Tour",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Couples, Honeymooners & Seekers of Luxury",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: September to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Complimentary private Sunset Shikara Boat Cruise on Sukhna Lake",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private sunset lake cruise combined with premium couples wellness rituals",
+        "sort_order": 7
+      },
+      {
+        "text": "Shopping: Phulkari embroidery, Sector 17 & Elante Retail, gourmet sweet delicacies",
+        "sort_order": 8
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Wellness"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-013-romantic-city-escape-itinerary",
+    "title": "Romantic City Escape & Luxury Spa",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Honeymoon Escape)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sukhna Lake • Rock Garden • Zakir Hussain Rose Garden • Elante",
+    "overview": "Welcome to India's most beautifully planned urban paradise. This highly tailored Chandigarh Honeymoon Package, meticulously designed by the romantic travel experts at TRAGUIN, promises a seamless escape filled with beautiful moments, premium stays, and deeply relaxing experiences.\n\nTravel Format: Private Honeymoon FIT Itinerary with On-Call Concierge Management. Vehicle: Premium luxury sedan. Meal Plan: Modified American Plan (Breakfast & Romantic Curated Dinners Included). TRAGUIN Curated Touch: Welcome chocolate platter, customized room decor setup upon arrival, reserved premium seats for evening experiences.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-013 | Romantic City Escape & Luxury Spa | TRAGUIN",
+    "seo_description": "Honeymoon 02 Nights / 03 Days package (CH-013 / TG-CH-013-HON): private sunset shikara cruise, Rock Garden, Rose Garden, 90-minute couples spa, and luxury hotel options.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Private Sunset Shikara Cruise on Sukhna Lake",
+        "sort_order": 1
+      },
+      {
+        "text": "Nek Chand Rock Garden Artistic Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Zakir Hussain Rose Garden Stroll",
+        "sort_order": 3
+      },
+      {
+        "text": "90-Minute Couples Luxury Spa Ritual",
+        "sort_order": 4
+      },
+      {
+        "text": "Candlelight Dinner at Award-Winning Rooftop Restaurant",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Chandigarh & Private Sunset Shikara Cruise",
+        "description": "Your magical journey begins with a smooth arrival at Chandigarh Airport or Chandigarh Railway Station. A polished TRAGUIN hospitality representative along with a professional uniform-clad chauffeur will receive you with a beautiful fresh flower bouquet. Check in to your beautifully decorated honeymoon room. In the late afternoon, experience a private, curated sunset cruise on the calm waters of Sukhna Lake. Conclude your day with an intimate candlelight dinner specially reserved for you at an award-winning rooftop restaurant.",
+        "activities": [
+          "Sightseeing Included: Sukhna Lake Promenade & Waterfront Trail",
+          "Evening Experience: Private Sunset Shikara Ride with Refreshments",
+          "Overnight Stay: Chandigarh Luxury Hotel / Resort",
+          "Meals Included: Specially Arranged Candlelight Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "The Artistic Rock Garden, Rose Garden & Luxury Couples Spa",
+        "description": "Awake to a lavish gourmet floating breakfast inside your luxury suite or resort pool. Mid-morning, step out for a curated day of Chandigarh Sightseeing at Nek Chand's legendary Rock Garden and the Zakir Hussain Rose Garden. The afternoon shifts into an oasis of pure relaxation with an exclusive 90-minute signature couples' aromatherapy massage followed by a steam, sauna, and hot herbal tea session.",
+        "activities": [
+          "Sightseeing Included: Rock Garden, Rose Garden, Sector 17 Plaza Walk",
+          "Exclusive Highlight: Premium 90-Minute Couples Luxury Spa Ritual",
+          "Overnight Stay: Chandigarh Premium Luxury Stay",
+          "Meals Included: Buffet Breakfast & Fine Dining Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Premium Cafe Trails, Elante Retail Excursion & Departure",
+        "description": "Savor a peaceful breakfast before compiling your bags. Spend the morning checking out the ultra-modern side of the city with a visit to the high-end Elante Mall or the elite designer boutiques of Sector 9. Your private vehicle will then carry you smoothly back to the airport or railway station for your onward flight.",
+        "activities": [
+          "Sightseeing Included: Elite Sector Shopping Squares & Cafes",
+          "Optional Activities: Premium Lunch at a boutique microbrewery/bistro",
+          "Overnight Stay: Tour Concludes",
+          "Meals Included: Gourmet Buffet Breakfast"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hyatt Regency Chandigarh or similar",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": "King Room with Club Access",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Luxury Grand Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Lalit Chandigarh",
+        "location": "Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Executive Luxury Suite",
+        "meal_plan": "Breakfast & Curated Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas Spa Resort",
+        "location": "New Chandigarh",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premier Room / Luxury Tent with Private Pool",
+        "meal_plan": "All-Inclusive Royal Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights luxury accommodation in handpicked, pre-vetted top luxury hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily gourmet buffet breakfasts at the hotel dining hall",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private premium sedan for all transfers & sightseeing as per itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary private Sunset Shikara Boat Cruise on Sukhna Lake",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Premium 90-minute Couples Luxury Spa treatment included once during stay",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Special Honeymoon Amenities: Room decoration, fresh cake, and chocolate platter",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 dedicated on-ground TRAGUIN customer support & assistance",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All applicable luxury hotel taxes, driver allowances, parking, and toll fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train tickets, or interstate transit expenses",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Entrance tickets at monuments and camera fees",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Lunch meals, laundry, alcoholic beverages, and minibar expenses",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities or personal shopping items",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel or medical insurance policies",
+        "sort_order": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "destination_slug": "arunachal-pradesh",
+  "package": {
+    "slug": "ar-007-senior-citizen-ladies-tour-bomdila-dirang-tawang",
+    "serial_code": "AR-007",
+    "traguin_tour_code": "TRG-ARU-SNR-2026",
+    "title": "TRAGUIN Premium Arunachal Pradesh Senior Citizen Leisure Ladies Tour — Bomdila • Dirang Valley • Sangti Valley • Tawang Calm Escapes",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AR-007 | TRAGUIN tour code TRG-ARU-SNR-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Arunachal Pradesh / India | Category: Premium Arunachal Family Tour & Senior Leisure Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Bomdila (1N) • Dirang (3N) • Tawang (2N)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Senior citizen ladies seeking gentle pacing and zero fatigue",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & October to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium comfortable luxury SUV configured for maximum road comfort | Meal Plan: Premium Breakfast & Dinner",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati Arrival ➔ Bomdila (1N) ➔ Dirang (3N) ➔ Tawang (2N) ➔ Guwahati Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Intentionally paced route with easily accessible paths, premium comfortable SUVs, minimal high-altitude strain, and dedicated on-ground helpers.",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Luxury tier only — Hotel Elysium Bomdila, Norphel House Luxury Wing Dirang, Dondrub Luxury Boutique Stay Tawang.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Experiences: Bomdila Monastery, Sangti Valley, Dirang Dzong, therapeutic hot springs, gentle Sela Pass crossing, Tawang spiritual sightseeing.",
+        "sort_order": 11
+      },
+      {
+        "text": "Important Notes: Frequent leisurely stops planned; accessible lower grounds of Tawang Monastery; designed for peaceful rejuvenation.",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Senior Leisure",
+      "Ladies Tour",
+      "Luxury",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "ar-007-senior-citizen-ladies-tour-bomdila-dirang-tawang-itinerary",
+    "title": "TRAGUIN Premium Arunachal Pradesh Senior Citizen Leisure Ladies Tour — Bomdila • Dirang Valley • Sangti Valley • Tawang Calm Escapes",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Senior Citizen Ladies Tour • Bomdila 1N • Dirang 3N • Tawang 2N • 06 Nights / 07 Days",
+    "overview": "Embark on an unforgettable Arunachal Pradesh journey with our TRAGUIN curated senior citizen leisure ladies tour. Intentionally paced to ensure zero fatigue, this beautiful route blends majestic high-mountain landscapes with deep spiritual heritage and comfortable ground transfers, delivering unforgettable memories.\n\nTHE IMMERSIVE ARUNACHAL SENIOR LADIES LEISURE EXPERIENCE\nArunachal Pradesh serves as a breathtaking sanctuary for senior travelers seeking natural scenic beauty, crisp Himalayan air, and enriching cultural immersion. Designed with easily accessible paths, premium comfortable SUVs, and minimal high-altitude strain, this exclusive vacation offers a premium Arunachal experience.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AR-007 | Senior Citizen Ladies Tour Bomdila Dirang Tawang | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Arunachal senior ladies tour (AR-007 / TRG-ARU-SNR-2026): Bomdila 1N, Dirang 3N, Tawang 2N, Sangti Valley, luxury hotels only.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Gentle foothills drive to Bomdila with serene monastery visit on Day 02",
+        "sort_order": 1
+      },
+      {
+        "text": "Relaxed Sangti Valley exploration and kiwi orchards walk at easy pace",
+        "sort_order": 2
+      },
+      {
+        "text": "Dirang Dzong heritage and therapeutic sulphur hot springs wellness treat",
+        "sort_order": 3
+      },
+      {
+        "text": "Gentle Sela Pass crossing with frequent leisurely photo stops to Tawang",
+        "sort_order": 4
+      },
+      {
+        "text": "Accessible Tawang Monastery courtyards and handicrafts emporium shopping",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI – SCENIC FOOTHILLS DRIVE TO BOMDILA",
+        "description": "Your TRAGUIN specialized senior ladies tour begins with a warm welcome at Guwahati Airport by our dedicated support team. Step into your premium, well-padded luxury vehicle configured for maximum road comfort. Travel through lush tea estates as you gently ascend to Bomdila for a relaxed overnight stay.",
+        "activities": [
+          "Sightseeing Included: Scenic drive through Assam tea estates to Bomdila.",
+          "Evening Experience: Relaxed check-in and gentle welcome dinner.",
+          "Meals Included: Dinner.",
+          "Overnight Stay: Hotel Elysium / Similar, Bomdila."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "BOMDILA MONASTERY VISIT & DRIVE TO GENTLE DIRANG VALLEY",
+        "description": "Enjoy a beautiful crisp morning exploring the serene Bomdila Monastery with easily flat walking routes. Later, take a smooth short drive to the lower elevation of Dirang Valley. Check in at your luxury orchard resort arranged by TRAGUIN, designed perfectly for peaceful rejuvenation and mountain unwinding.",
+        "activities": [
+          "Sightseeing Included: Bomdila Monastery, scenic drive to Dirang Valley.",
+          "Evening Experience: Peaceful mountain unwinding at the orchard resort.",
+          "Meals Included: Breakfast, Dinner.",
+          "Overnight Stay: Norphel House Luxury Wing, Dirang Valley."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "RELAXED SANGTI VALLEY EXPLORATION & KIWI ORCHARDS WALK",
+        "description": "Immerse your group in absolute scenic beauty without strenuous walking. Spend a peaceful day driving through Sangti Valley, listening to the gentle gurgling of fresh alpine rivers. Walk at your own easy pace through local black-necked crane sanctuaries and lush organic kiwi orchards, capturing beautiful memory points.",
+        "activities": [
+          "Sightseeing Included: Sangti Valley drive, black-necked crane sanctuary, kiwi orchards.",
+          "Evening Experience: Leisure photography and relaxed group dinner.",
+          "Meals Included: Breakfast, Dinner.",
+          "Overnight Stay: Norphel House Luxury Wing, Dirang Valley."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DIRANG HERITAGE SITES & THERAPEUTIC HOT SPRINGS",
+        "description": "Discover the rich local heritage of the Monpa community. Visit the accessible lower grounds of the ancient Dirang Dzong. Later, enjoy a soothing afternoon near the natural sulphur hot springs, known for their therapeutic properties—a perfect wellness treat curated beautifully by our travel specialists.",
+        "activities": [
+          "Sightseeing Included: Dirang Dzong, natural sulphur hot springs.",
+          "Evening Experience: Therapeutic hot springs wellness session.",
+          "Meals Included: Breakfast, Dinner.",
+          "Overnight Stay: Norphel House Luxury Wing, Dirang Valley."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "GENTLE MOUNTAIN CROSSING TO TAWANG HOLY TOWN",
+        "description": "Travel comfortably as your premium vehicle navigates across the scenic Sela Pass corridor. Frequent leisurely stops are planned for you to capture breathtaking landscapes without sudden physical strain. Arrive smoothly in Tawang and enjoy a hot traditional herbal tea welcome at your luxury handpicked hotel.",
+        "activities": [
+          "Sightseeing Included: Sela Pass corridor with leisurely photo stops, Tawang arrival.",
+          "Evening Experience: Traditional herbal tea welcome and rest for acclimatization.",
+          "Meals Included: Breakfast, Dinner.",
+          "Overnight Stay: Dondrub Luxury Boutique Stay, Tawang."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "TAWANG SPIRITUAL SIGHTSEEING & HANDICRAFTS EMPORIUM",
+        "description": "Spend a memorable morning exploring the lower, accessible courtyards of the historic Tawang Monastery. Soak in the peaceful prayers and ancient spiritual vibes. In the afternoon, visit the local government handicraft emporium to shop for soft handwoven pashminas, exquisite wooden crafts, and authentic souvenirs.",
+        "activities": [
+          "Sightseeing Included: Tawang Monastery accessible courtyards, handicraft emporium.",
+          "Evening Experience: Leisure shopping for pashminas and wooden crafts.",
+          "Meals Included: Breakfast, Dinner.",
+          "Overnight Stay: Dondrub Luxury Boutique Stay, Tawang."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "TAWANG DEPARTURE VIA GUWAHATI",
+        "description": "Savor a hearty, nutritious final breakfast looking out at misty mountain peaks. Your professional chauffeur ensures a smooth and secure drive back towards Guwahati airport. Your premium Arunachal ladies tour concludes with warm hearts, relaxed minds, and beautiful memories designed flawlessly by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Private transfer Tawang to Guwahati Airport.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Elysium / Similar | Norphel House Luxury Wing | Dondrub Luxury Boutique Stay",
+        "location": "Bomdila (1 Night) / Dirang Valley (3 Nights) / Tawang (2 Nights)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 03 – LUXURY: Hotel Elysium / Similar (Bomdila, 1 Night) | Norphel House Luxury Wing (Dirang Valley, 3 Nights) | Dondrub Luxury Boutique Stay (Tawang, 2 Nights) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 06 Nights luxury accommodation at senior-comfort handpicked properties (Luxury tier only).",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily buffet breakfast and curated dinners across all properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Premium well-padded luxury SUV configured for maximum road comfort with dedicated on-ground helpers.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Permit Handling: Full handling and pre-arrangement of Arunachal Pradesh Inner Line Permits (ILP).",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Gentle Pacing: Frequent leisurely stops and accessible sightseeing routes designed for zero fatigue.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated support team and concierge assistance throughout the journey.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Main Flights / Rail: Intercity transport tickets to and from Guwahati.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument Entry: Individual entry tickets at museums and monasteries.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry services, telephone calls, spa sessions, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Travel or medical insurance coverage plans.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-007-luxury-bali-retreat",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury Bali Retreat",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 44,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Nusa Dua (3N) → Ubud (3N) ultra-luxury signature circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "VIP fast-track arrival & private lagoon catamaran cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Uluwatu VIP Kecak Fire Dance & Tanah Lot temple",
+        "sort_order": 3
+      },
+      {
+        "text": "Mount Batur, Tirta Empul purification & Bali Swing",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated priority concierge",
+        "sort_order": 5
+      },
+      {
+        "text": "Serial ID-007 | Category: Ultra-Luxury Signature",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Romantic",
+      "Family",
+      "Beach",
+      "Cultural",
+      "Nature",
+      "Spiritual"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-007-luxury-bali-retreat-itinerary",
+    "title": "Luxury Bali Retreat",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury Signature Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Nusa Dua • Uluwatu • Ubud • Mount Batur",
+    "overview": "An ultra-luxury signature journey crafted by TRAGUIN for discerning world travelers. Experience white-glove logistics, elite culinary journeys, and stays within the world's most acclaimed resort estates — from the tranquil beaches of Nusa Dua and majestic cliffs of Uluwatu to the spiritual heartbeat of Ubud.",
+    "is_featured": true,
+    "featured_sort_order": 44,
+    "seo_title": "ID-007 | Luxury Bali Retreat | TRAGUIN",
+    "seo_description": "Ultra-luxury 06 Nights / 07 Days Bali retreat (ID-007): Nusa Dua, Uluwatu, Tanah Lot, Ubud, Mount Batur, Tirta Empul purification, and VIP Kecak Fire Dance.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "VIP Fast-Track Airport Arrival",
+        "sort_order": 1
+      },
+      {
+        "text": "Private Nusa Dua Lagoon Catamaran Cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "VIP Uluwatu Kecak Fire Dance",
+        "sort_order": 3
+      },
+      {
+        "text": "Mount Batur & Kintamani Panoramas",
+        "sort_order": 4
+      },
+      {
+        "text": "Priest-Guided Tirta Empul Purification",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival — VIP Fast-Track & Nusa Dua Luxury Repose",
+        "description": "Fast-track VIP customs clearance at Ngurah Rai Airport. Private luxury chauffeur transfer to Nusa Dua beachfront resort. Elegant multi-course coastal welcome dinner.",
+        "activities": [
+          "Sightseeing Included: VIP fast-track airport arrival, private luxury transfer",
+          "Evening Experience: Welcome dinner at beachfront pavilion",
+          "Overnight Stay: Nusa Dua (Elite Luxury Oceanfront Resort)",
+          "Meals Included: Welcome refreshments & curated welcome dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Exclusive Lagoon Cruise & Water Blow",
+        "description": "Private luxury catamaran charter along Nusa Dua reef lagoons with snorkeling. Visit the dramatic Water Blow site. Reserved premium private beach cabana with butler service.",
+        "activities": [
+          "Sightseeing Included: Private lagoon cruise, Water Blow guided walk, premium beach cabana",
+          "Overnight Stay: Nusa Dua (Elite Luxury Oceanfront Resort)",
+          "Meals Included: Breakfast, oceanfront lunch & premium beachside dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Uluwatu Sea Shrine & VIP Kecak Fire Dance",
+        "description": "Visit Uluwatu Temple on dramatic limestone cliffs. Pre-reserved front-row VIP seats for the Kecak Fire Dance at sunset. Multi-course dinner at award-winning cliff-edge restaurant.",
+        "activities": [
+          "Sightseeing Included: Uluwatu cliff temple, VIP amphitheater Kecak Fire Dance seating",
+          "Evening Experience: Luxury fine dining cliff dinner",
+          "Overnight Stay: Nusa Dua (Elite Luxury Oceanfront Resort)",
+          "Meals Included: Breakfast & luxury fine dining cliff dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Tanah Lot & Transfer to Ubud Valley Sanctuary",
+        "description": "Visit world-renowned Tanah Lot Temple. Continue inland to Ubud and check into ultra-luxury valley estate villa with infinity pool over the jungle canopy.",
+        "activities": [
+          "Sightseeing Included: Tanah Lot temple exclusive access, scenic inland luxury drive",
+          "Evening Experience: Farm-to-table degustation dinner overlooking valley canyon",
+          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Valley Pool Villa)",
+          "Meals Included: Breakfast & gourmet valley degustation dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Kintamani Highlands & Mount Batur Vistas",
+        "description": "Spectacular panorama of Mount Batur and caldera lake from Kintamani. Private tour through artisanal organic coffee estate. Fine dining dinner at acclaimed Ubud gastronomy destination.",
+        "activities": [
+          "Sightseeing Included: Kintamani volcano panoramic tour, Mount Batur caldera, private coffee estate",
+          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Valley Pool Villa)",
+          "Meals Included: Breakfast, luxury highland lunch & fine dining dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Tegalalang Terraces, Bali Swing & Tirta Empul Purification",
+        "description": "Morning at Tegalalang Rice Terraces with private VIP Bali Swing. Priest-guided purification ritual at Tirta Empul Holy Water Temple. TRAGUIN signature celebration dinner in villa grounds.",
+        "activities": [
+          "Sightseeing Included: Tegalalang terraces, private Bali Swing, Tirta Empul priest-guided purification",
+          "Evening Experience: Private gala farewell dinner with butler service",
+          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Valley Pool Villa)",
+          "Meals Included: Signature floating villa breakfast & private gala farewell dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Floating Pool Breakfast & Departure",
+        "description": "Iconic floating breakfast in private villa infinity pool. Private luxury transfer to Ngurah Rai Airport with departure concierge assistance.",
+        "activities": [
+          "Sightseeing Included: Private luxury airport transfer, departure concierge assistance",
+          "Meals Included: Premium floating infinity pool breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Westin Resort Nusa Dua, Bali / similar",
+        "location": "Nusa Dua",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Daily Luxury Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Alila Ubud / similar",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Daily Luxury Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis Bali Resort",
+        "location": "Nusa Dua",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Daily Gourmet Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mandapa, a Ritz-Carlton Reserve",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Daily Gourmet Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Ritz-Carlton, Bali",
+        "location": "Nusa Dua",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Elite Luxury",
+        "room_type": null,
+        "meal_plan": "Daily Breakfast + 1 Specialty Dinner",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Viceroy Bali, Ubud",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Elite Luxury",
+        "room_type": null,
+        "meal_plan": "Daily Breakfast + 1 Specialty Dinner",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Amanusa (Aman Villas Nusa Dua)",
+        "location": "Nusa Dua",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Bespoke Ultra-Inclusive",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Amandari, Ubud",
+        "location": "Ubud",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Bespoke Ultra-Inclusive",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 Nights at premium handpicked hotels or private luxury pool villas",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP fast-track arrival immigration greeting services at airport",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated luxury Alphard/MPV with professional English-fluent tour guide",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "6 breakfasts (including 1 signature floating breakfast) and 4 specialty dinners",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury catamaran lagoon cruise along Nusa Dua reef",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Pre-reserved front-row VIP tickets at Uluwatu Kecak Fire Dance",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Priest-guided traditional purification session at Tirta Empul Temple",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated priority operations and on-ground concierge",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare to/from Denpasar",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Indonesia Visa on Arrival and customs declaration costs",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra food, vintage alcoholic beverages, laundry, and personal shopping",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Gratuities and comprehensive travel insurance",
+        "sort_order": 12
+      }
+    ]
+  }
+}

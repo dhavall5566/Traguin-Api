@@ -1,0 +1,272 @@
+{
+  "destination_slug": "meghalaya",
+  "package": {
+    "slug": "ml-001-shillong-escape-journey-into-the-abode-of-clouds",
+    "serial_code": "ML-001",
+    "traguin_tour_code": "TRG-MEG-001",
+    "title": "Shillong Escape — Journey Into the Abode of Clouds",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ML-001 | TRAGUIN tour code TRG-MEG-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Meghalaya / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shillong • Cherrapunji • Elephant Falls • Umiam Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Getaways, Nature Seekers & Luxury Explorers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV (Innova Crysta) / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private viewpoints for taking family portraits overlooking Cherrapunji",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smooth routing designed to allow ample relaxation time for children and",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations chosen strictly based on panoramic hill views, top safety,",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Expert drivers well-versed with mountain roads ensuring absolute group comfort.",
+        "sort_order": 11
+      },
+      {
+        "text": "Weather Notes: Meghalaya can experience unexpected rain showers even during dry seasons. We",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ml-001-shillong-escape-journey-into-the-abode-of-clouds-itinerary",
+    "title": "Shillong Escape — Journey Into the Abode of Clouds",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Shillong Escape — Journey Into the Abode of Clouds",
+    "overview": "SHILLONG ESCAPE • JOURNEY INTO THE ABODE OF CLOUDS Welcome to a magical getaway curated exclusively by TRAGUIN. Embark on the finest Meghalaya Family Tour, meticulously designed to unveil the breathtaking landscapes, dramatic waterfalls, and mist-laden pine hills of Northeast India. As your dedicated travel consultants, TRAGUIN transforms your vacation into a seamless luxury holiday packed with premium stays, immersive experiences, and heartwarming stories. Let the scenic beauty of Umiam Lake and the architectural wonders of Cherrapunji welcome your family, creating sweet, unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-tailored premium luxury holiday itinerary provides an exquisite balance between natural wonders, majestic viewpoints, and relaxing elite comfort. Travelling in a completely private premium AC vehicle with a highly knowledgeable local chauffeur, your family will experience pure privacy. Featuring a premium meal plan with grand daily breakfasts and specialized local/continental dinners, this route represents the definitive premium Meghalaya experience. Every detail comes with the distinct TRAGUIN curated experience note, ensuring prioritized entrance privileges and around-the-clock elite customer care.\n\nWHY CHOOSE THE BEST MEGHALAYA TOUR PACKAGE?\nWhen searching for a Luxury Meghalaya Holiday, families and couples look for untouched landscapes, emerald waters, and pristine hill station life. Shillong, often called the 'Scotland of the East', is the perfect anchor for a Meghalaya Family Tour or a romantic Meghalaya Honeymoon Package. From exploring legendary iconic attractions like the Mawsmai Caves and Elephant Falls to viewing majestic mountain canyon edges, Meghalaya sightseeing offers absolute wonder. This itinerary ensures your family explores popular Instagram locations including the tranquil Umiam Lake and the stunning Seven Sisters Falls in Cherrapunji. Dive deep into local Khasi culture, enjoy authentic pine-side cafes, or look for local artifacts while shopping at Police Bazar. Our signature TRAGUIN Meghalaya Packages combine exclusive experiences with premium handpicked hotels, presenting you the absolute best time to visit Meghalaya with complete ease.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ML-001 | Shillong Escape — Journey Into the Abode of Clouds | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Meghalaya package (ML-001 / TRG-MEG-001): Shillong • Cherrapunji • Elephant Falls • Umiam Lake with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GUWAHATI TO SHILLONG",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SHILLONG TO CHERRAPUNJI EXCURSION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SHILLONG LOCAL SIGHTSEEING",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SHILLONG TO GUWAHATI / DEPARTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private viewpoints for taking family portraits overlooking Cherrapunji",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Smooth routing designed to allow ample relaxation time for children and",
+        "sort_order": 6
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations chosen strictly based on panoramic hill views, top safety,",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI TO SHILLONG",
+        "description": "WELCOME TO THE SCOTLAND OF THE EAST – SCENIC UMIAM LAKE OVERLOOK Your premium Meghalaya experience begins upon arrival at Guwahati Airport, where your private luxury transport vehicle waits to escort you. Enjoy a smooth uphill drive as the warm plains turn into cool pine forests. Pause for a breathtaking look at Umiam Lake, a massive crystal-blue reservoir surrounded by coniferous hills. This highly popular Instagram location is an exceptional photography point for your first family picture. Arrive in Shillong and check into your handpicked premium luxury stay.",
+        "activities": [
+          "Sightseeing Included: Umiam Lake panoramic viewpoint, Pine Forest drive.",
+          "Evening Experience: A relaxed stroll along the lake bank followed by a warm welcoming tea session.",
+          "Overnight Stay: Shillong (Premium Boutique Hotel or Luxury Resort)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHILLONG TO CHERRAPUNJI EXCURSION",
+        "description": "THE WETTEST PLACE ON EARTH – THUNDERING WATERFALLS & MYSTICAL CAVES Awake early for a spectacular morning drive down to Cherrapunji (Sohra), famed for its deep gorges and record rainfall. En route, witness the roaring beauty of Elephant Falls, where water cascades down three levels of dark fern-covered rocks. Arrive in Cherrapunji to view the spectacular Nohkalikai Falls, India's tallest plunge waterfall. Explore the ancient limestone passages of Mawsmai Cave, featuring naturally formed stalactites and stalagmites that create an immersive experience for the entire family.",
+        "activities": [
+          "Sightseeing Included: Elephant Falls, Nohkalikai Falls, Mawsmai Cave, Seven Sisters Falls, Eco Park.",
+          "Optional Activities: A light guided family trek to local canyon views or pristine limestone bridges.",
+          "Overnight Stay: Shillong / Cherrapunji Luxury Resort",
+          "Meals Included: Premium Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SHILLONG LOCAL SIGHTSEEING",
+        "description": "CULTURE, PANORAMIC PEAKS & VIBRANT MARKETS Dedicate your day to exploring the unique heritage and cultural nuances of Shillong. Drive up to Laitlum Canyons to see the breathtaking, endless green ridges that slope deep into hidden valley amphitheaters. Next, visit the Don Bosco Museum to discover the fascinating tribal lifestyles and history of the Northeast states. Spend your evening at the local markets of Police Bazar, picking up fine woolen clothing and authentic bamboo souvenirs. Lake, Police Bazar. music.",
+        "activities": [
+          "Sightseeing Included: Laitlum Canyons, Don Bosco Museum, Shillong Peak (Subject to permissions), Ward's",
+          "Evening Experience: Private dinner at a fine-dining restaurant curated by TRAGUIN experts with live acoustic",
+          "Overnight Stay: Shillong (Premium Boutique Hotel)",
+          "Meals Included: Premium Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SHILLONG TO GUWAHATI / DEPARTURE",
+        "description": "CHERISHING MEMORIES OF THE MISTY HILLS Enjoy your final lavish breakfast looking out over the misty hills of Shillong. Pack your bags as your private luxury transport takes you back along the smooth highway to Guwahati. If time permits, stop at the holy Kamakhya Temple before arriving at Guwahati Airport for your onward flight. Return home carrying a heart full of joy and unforgettable memories crafted seamlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury airport transfer drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Polo Towers / similar | Sohra Plaza / similar",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "2N Shillong|1N Cherrapunji",
+        "description": "OPTION 01 – DELUXE: Hotel Polo Towers / similar | Sohra Plaza / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "M crown Hotel / MBL Luxury Stay | Cherrapunji Holiday Resort / similar",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "2N Shillong|1N Cherrapunji",
+        "description": "OPTION 02 – PREMIUM: M crown Hotel / MBL Luxury Stay | Cherrapunji Holiday Resort / similar | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Ri Kynjai Resort / Vivanta Shillong | Polo Orchid Resort (Jasmine Suite)",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "2N Shillong|1N Cherrapunji",
+        "description": "OPTION 03 – LUXURY: Ri Kynjai Resort / Vivanta Shillong | Polo Orchid Resort (Jasmine Suite) | MAPAI Plan + Welcome Kit",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Lake View | Orchid Suite",
+        "meal_plan": "MAPAI Plan + Welcome Kit",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Ri Kynjai (Premium Lake View Cottage) | Jiva Resort Cherrapunji (Luxury Suite)",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "2N Shillong|1N Cherrapunji",
+        "description": "OPTION 04 – ULTRA LUXURY: Ri Kynjai (Premium Lake View Cottage) | Jiva Resort Cherrapunji (Luxury Suite) | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Lake View Cottage | Luxury Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights in handpicked properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Innova Crysta for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily lavish breakfast and gourmet buffet dinners.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized family travel kit and fresh local fruit basket.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private family tea and local snack sampling platter.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, cave entry passes, or camera permits.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional excursions or water sports at Umiam Lake.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

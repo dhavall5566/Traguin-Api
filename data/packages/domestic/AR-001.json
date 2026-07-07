@@ -1,0 +1,306 @@
+{
+  "destination_slug": "arunachal-pradesh",
+  "package": {
+    "slug": "ar-001-tawang-escape-bhalukpong-dirang-tawang",
+    "serial_code": "AR-001",
+    "traguin_tour_code": "TG-AR-TE-001",
+    "title": "TRAGUIN Premium Arunachal Pradesh Tour Package — Tawang Escape: Bhalukpong • Dirang • Tawang",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AR-001 | TRAGUIN tour code TG-AR-TE-001",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Arunachal Pradesh / India | Category: Luxury Family Holiday Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Guwahati • Bhalukpong • Dirang • Tawang",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Nature Enthusiasts, Photography Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & October to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC SUV (Toyota Innova Crysta / Scorpio Cross) | Meal Plan: Premium Breakfast & Dinner (MAPAI)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati ➔ Bhalukpong (1N) ➔ Dirang (1N) ➔ Tawang (3N) ➔ Guwahati Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Private high-altitude sunrise picnic near pristine glacial lakes, aromatic traditional butter-tea tasting inside an authentic Monpa tribal home, and a private blessing ceremony at Tawang Monastery.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private morning family blessing ceremony led by senior lamas inside the sacred Tawang Monastery.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every resort room, heating system, and professional mountain driver is rigorously vetted to guarantee premium safety and luxury for families.",
+        "sort_order": 11
+      },
+      {
+        "text": "Personalized Assistance: Dedicated 24/7 holiday consultant assigned specifically to your family from booking until your return flight.",
+        "sort_order": 12
+      },
+      {
+        "text": "Premium Handpicked Hotels: Stay at incredible properties, ranging from beautiful valley resorts in Dirang to luxury rooms at Vivanta Tawang.",
+        "sort_order": 13
+      },
+      {
+        "text": "Shopping & Local Experiences: Monpa Carpets & Paper, piping-hot local momos, authentic butter tea, Tibetan curios at Tawang market.",
+        "sort_order": 14
+      },
+      {
+        "text": "Important Notes: Inner Line Permits mandatory; Tawang at 10,000 ft and Sela Pass at 13,700 ft; book 60–90 days ahead for peak seasons.",
+        "sort_order": 15
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ar-001-tawang-escape-bhalukpong-dirang-tawang-itinerary",
+    "title": "TRAGUIN Premium Arunachal Pradesh Tour Package — Tawang Escape: Bhalukpong • Dirang • Tawang",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Tawang Escape • Bhalukpong • Dirang • Tawang • 05 Nights / 06 Days",
+    "overview": "Welcome to the Land of the Dawn-Lit Mountains. The Best Arunachal Pradesh Tour Package, envisioned and designed exclusively by TRAGUIN, invites your family to step into a paradise of pure alpine beauty, mist-laden valleys, and ancient spiritual landmarks. This pristine and highly customized Arunachal Pradesh Family Tour connects the lush lowland foothills with the soaring, snowy ridges of the Eastern Himalayas.\n\nTOUR OVERVIEW\nThis premium Arunachal Pradesh Family Tour delivers a magnificent experience of pristine high-altitude geography. Families enjoy seamless private ground transportation inside a heavy-duty, high-clearance luxury 4x4 or spacious premium vehicle suited to high mountain routes, handpicked hotels matching highest regional comfort tiers, expert storytelling local guides, and seamless coordination of required Inner Line Permits (ILP).\n\nWHY CHOOSE THE PREMIUM ARUNACHAL PRADESH EXPERIENCE?\nA journey through Northeast India is incomplete without experiencing the pristine mountain roads of Tawang. Celebrated for hosting the most diverse Top Tourist Places in Arunachal Pradesh, this tour provides an unforgettable blend of relaxation, adventure, and history.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AR-001 | Tawang Escape Bhalukpong Dirang Tawang | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Arunachal family package (AR-001 / TG-AR-TE-001): Bhalukpong, Dirang, Sela Pass, Tawang Monastery, Madhuri Lake, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Scenic Kameng River drive and Bhalukpong entry gateway on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Tipi Orchid Sanctuary, Dirang Dzong, and apple orchards on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Sela Pass (13,700 ft), Sela Lake, and Jaswant Garh War Memorial on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Tawang Monastery private blessing ceremony and War Memorial Light & Sound Show",
+        "sort_order": 4
+      },
+      {
+        "text": "Madhuri Lake, PTSO Lake, and Nuranang Falls excursion on Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "GUWAHATI TO BHALUKPONG — ENTRY INTO THE PRISTINE FOOTHILLS",
+        "description": "Your premium family mountain escape begins as you arrive at Guwahati Airport or Railway Station. You are warmly received by your dedicated TRAGUIN professional chauffeur with custom welcoming kits. Settle inside your high-clearance private vehicle and leave the plains behind as you embark on a highly scenic driving route heading toward Bhalukpong, the scenic entry gateway to Arunachal Pradesh located on the banks of the rushing Kameng River. Watch the landscape transform from wide river valleys into dense subtropical evergreen forests. Upon arrival, check into your handpicked premium riverside lodge. After a seamless check-in, spend a relaxed evening walking along the river banks or relaxing amidst the peaceful lawns. Enjoy a fresh gourmet dinner featuring local organic mountain herbs.",
+        "activities": [
+          "Sightseeing Included: Scenic Kameng River drive, Bhalukpong entry gates, Jia Bharali view.",
+          "Evening Experience: Relaxed riverside walk at sunset.",
+          "Meals Included: Welcome Signature Drink & Gourmet Multi-cuisine Dinner.",
+          "Overnight Stay: Premium Riverside Lodge, Bhalukpong."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "BHALUKPONG TO DIRANG — WINDING VALLEYS & APPLE ORCHARDS",
+        "description": "Awake to the refreshing mountain mist. After a hearty breakfast, continue your premium Arunachal Pradesh Sightseeing trail, ascending higher into the hills toward the beautiful Dirang Valley. Enjoy an immersive driving experience as the road weaves through deep mountain gorges and orchid sanctuaries. Stop at the spectacular Tipi Orchid Research Centre to view hundreds of rare, colorful exotic orchid species. Arrive in Dirang, a picturesque valley located at 4,900 feet. Check into your boutique mountain resort. In the afternoon, explore the Dirang Dzong, an ancient 17th-century Monpa tribal fort village with fascinating stone architecture. Walk hand-in-hand through premium organic apple orchards and kiwi plantations before returning to your resort for a cozy dinner.",
+        "activities": [
+          "Sightseeing Included: Tipi Orchid Sanctuary, Dirang Dzong historical village, Apple orchards.",
+          "Evening Experience: Relaxing by a warm outdoor fireplace overlooking the valley.",
+          "Meals Included: Buffet Breakfast & Specially Prepared Himalayan Dinner.",
+          "Overnight Stay: Handpicked Premium Mountain Resort, Dirang."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DIRANG TO TAWANG — OVER SELA PASS TO THE LAND OF MYSTIC MONASTERIES",
+        "description": "A phenomenal and unforgettable day awaits your family. After an early breakfast, begin your ascent toward the magical high-altitude town of Tawang. Your luxury vehicle winds up the dramatic mountain roads, reaching the world-famous Sela Pass at an astonishing 13,700 feet. Gaze in absolute awe at the breathtaking landscapes of snowy peaks and the frozen, sacred Sela Lake. Thousands of colorful Tibetan prayer flags dance in the crisp mountain wind—a supreme spot for family photography. Descend into the valley, stopping at the historic Jaswant Garh War Memorial to pay an emotional tribute to the legendary bravery of Indian soldiers. Continue your drive, passing past cascading waterfalls, until the yellow roofs of Tawang appear on the horizon. Check into your ultra-luxury room and enjoy a customized warm welcome dinner.",
+        "activities": [
+          "Sightseeing Included: Sela Pass (13,700 Ft), Sela Lake, Jaswant Garh War Memorial.",
+          "Evening Experience: Traditional Monpa welcome cake and local warm tea at the resort.",
+          "Meals Included: Breakfast, Hot Mountain Snacks, & Gourmet Dinner.",
+          "Overnight Stay: Premium Luxury Hotel, Tawang."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "TAWANG — THE MAJESTIC MONASTERY & SPIRITUAL GEMS",
+        "description": "Savor a luxurious breakfast enveloped by crisp mountain air. Today is dedicated to experiencing the timeless spiritual wonders of your Tawang Escape. Visit the legendary Tawang Monastery, the second-largest Buddhist monastery in the world, founded in the 17th century. Marvel at the colossal 26-foot golden Buddha statue inside the main prayer hall. Enjoy a TRAGUIN Curated Experience: a private morning blessing ceremony arranged with the senior lamas for your family's well-being. Next, explore the peaceful Urgelling Monastery, the birthplace of the 6th Dalai Lama. In the afternoon, stroll through the local crafts emporium to witness traditional hand-made paper making and exquisite Monpa carpet weaving. In the evening, attend the moving Light & Sound Show at the Tawang War Memorial, celebrating local history and valor.",
+        "activities": [
+          "Sightseeing Included: Tawang Monastery, Urgelling Monastery, Craft Centre, Ani Gompa.",
+          "Evening Experience: VIP tickets to the Tawang War Memorial Light & Sound Show.",
+          "Meals Included: Gourmet Breakfast & Multi-cuisine Chef's Table Dinner.",
+          "Overnight Stay: Premium Luxury Hotel, Tawang."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "TAWANG — HIGH-ALTITUDE GLACIAL LAKES & HOLLYWOOD ECHOES",
+        "description": "Wake up early for an extraordinary excursion toward the high-altitude border plateau. Travel past alpine meadows to visit the breathtaking Madhuri Lake (Shonga-tser Lake), surrounded by rocky mountains and dead tree trunks emerging from the water—a cinematic wonder. Enjoy a TRAGUIN Signature Experience: a premium packed picnic breakfast served on the shores of the lake. On your drive back, pass the beautiful PTSO Lake and stop at the thunderous Nuranang Falls (Jang Falls), where a massive white torrent drops 100 meters down a sheer mountain cliff. Capture incredible photographs before returning to Tawang for a grand family farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Madhuri Lake, PTSO Lake, Nuranang Waterfalls (Jang Falls).",
+          "Evening Experience: Grand farewell bonfire with an authentic local Monpa dinner menu.",
+          "Meals Included: Lakeside Picnic Breakfast & Grand Farewell Dinner.",
+          "Overnight Stay: Premium Luxury Hotel, Tawang."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "TAWANG TO GUWAHATI — DEPARTURE WITH SACRED MEMORIES",
+        "description": "Indulge in a final hearty breakfast as the morning sun illuminates the snow-capped Himalayan peaks. Complete your check-out and board your luxury private vehicle for a smooth descent back toward Guwahati. Enjoy the sweeping views of valleys and rivers as you journey down from the high altitudes. Depending on your schedule, your private chauffeur will drop you comfortably at the Guwahati Airport or Railway Station for your onward journey home. Your elite family holiday concludes beautifully, leaving you with sacred bonds and unforgettable memories built flawlessly by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Mountain Descent Drive, Private Departure Transfer.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "MPT Prashaanti Lodge | Hotel Pemaling | Hotel Gakyi Khang Zhang",
+        "location": "Bhalukpong (1 Night) / Dirang (1 Night) / Tawang (3 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: MPT Prashaanti Lodge (Bhalukpong, 1 Night) | Hotel Pemaling (Dirang, 1 Night) | Hotel Gakyi Khang Zhang (Tawang, 3 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Prashaanti Cottages | Dirang Boutique Cottages | Tawang Heritage Hotel",
+        "location": "Bhalukpong (1 Night) / Dirang (1 Night) / Tawang (3 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Prashaanti Cottages (Bhalukpong, 1 Night) | Dirang Boutique Cottages (Dirang, 1 Night) | Tawang Heritage Hotel (Tawang, 3 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Riverside Eco Camp | Avonka Resort Dirang | Vivanta Tawang (Superior)",
+        "location": "Bhalukpong (1 Night) / Dirang (1 Night) / Tawang (3 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Luxury Riverside Eco Camp (Bhalukpong, 1 Night) | Avonka Resort Dirang (Dirang, 1 Night) | Vivanta Tawang Superior (Tawang, 3 Nights) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Superior / Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium Wilderness Lodge | The Norphel Hotel Dirang | Vivanta Tawang (Luxury Suite)",
+        "location": "Bhalukpong (1 Night) / Dirang (1 Night) / Tawang (3 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Premium Wilderness Lodge (Bhalukpong, 1 Night) | The Norphel Hotel Dirang (Dirang, 1 Night) | Vivanta Tawang Luxury Suite (Tawang, 3 Nights) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights luxury accommodation at our handpicked premium hotels and mountain resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily buffet breakfasts and curated multi-cuisine dinners at all hotels.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury high-clearance SUV for all transfers, mountain drives, and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Permit Coordination: Inner Line Permits (ILP) and required border documentation handled seamlessly by our team.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Traditional welcomes at resorts, fresh fruit baskets, and premium mineral water provided daily inside your car.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private high-altitude lakeside picnic breakfast and an exclusive Tawang Monastery blessing.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated concierge assistance from our expert team, with all toll taxes, fuel, parking, and driver allowances fully covered.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Main Airfare / Rail: Intercity flight or train tickets to and from Guwahati.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument Entry Tickets: Individual entrance fees at museums, light shows, and parks unless stated otherwise.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry services, telephone calls, alcoholic drinks, spa sessions, and optional tipping.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Activities: Extra local excursions or items not specified inside inclusions.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

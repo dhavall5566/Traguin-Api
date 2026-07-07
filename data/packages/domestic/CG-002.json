@@ -1,0 +1,271 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-002-luxury-adventure-chitrakote-jagdalpur",
+    "serial_code": "CG-002",
+    "traguin_tour_code": "TG-CG-CHITRA-002",
+    "title": "TRAGUIN Premium Chitrakote Adventure Package — Luxury Adventure • The Niagara of India • Jagdalpur Expedition",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-002 | TRAGUIN tour code TG-CG-CHITRA-002",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Luxury Adventure",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jagdalpur • Chitrakote Falls",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customised Packages)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury 4x4 Transfers / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Jagdalpur Arrival (4N) ➔ Chitrakote ➔ Kutumsar Caves ➔ Tirathgarh ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private boat ride at the base of Chitrakote Falls.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked Jagdalpur luxury resorts with nature excursion access.",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Dokra metal art artisan sessions and Tirathgarh picnic viewpoints.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Bastar Dokra metal art, tribal jewelry, and forest honey.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Non-slip footwear for cave and waterfall trails; book 30–45 days ahead in peak season.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Nature",
+      "Luxury",
+      "Family"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-002-luxury-adventure-chitrakote-jagdalpur-itinerary",
+    "title": "TRAGUIN Premium Chitrakote Adventure Package — Luxury Adventure • The Niagara of India • Jagdalpur Expedition",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised Packages)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Chitrakote Adventure • Jagdalpur • Chitrakote Falls • 04 Nights / 05 Days",
+    "overview": "Discover the raw, untamed majesty of Chhattisgarh with TRAGUIN. Our Best Chitrakote Adventure Package invites you to explore the stunning Chitrakote Falls, where the mighty Indravati River thunders down in a breathtaking landscape. This curated Luxury Chhattisgarh Holiday combines thrilling adventure with premium stays, ensuring your family enjoys the scenic beauty and iconic attractions of Jagdalpur in absolute comfort.\n\nTOUR OVERVIEW\nThis 4N/5D adventure is a perfectly balanced Chhattisgarh Family Tour, designed for thrill-seekers and luxury travelers. From exploring ancient Kutumsar Caves to witnessing the 'Niagara of India,' TRAGUIN ensures a seamless private journey. Your itinerary includes luxury 4x4 transfers, handpicked hotels, and exclusive nature excursions with TRAGUIN curated experiences throughout.\n\nWHY CHOOSE THE CHITRAKOTE ADVENTURE PACKAGE?\nFor discerning travelers seeking raw natural beauty alongside premium comfort, this Luxury Chhattisgarh Holiday presents spectacular waterfall landscapes, subterranean cave wonders, and vibrant tribal artisan culture. Popular experiences include private boat rides at Chitrakote, Kutumsar Cave exploration, and Dokra metal art workshops — all delivered with TRAGUIN's signature personalized luxury support.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-002 | Chitrakote Adventure Jagdalpur | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Chitrakote adventure (CG-002 / TG-CG-CHITRA-002): Chitrakote Falls, Kutumsar Caves, Tirathgarh, Dokra art, and 4-tier Jagdalpur hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Jagdalpur arrival and Bastar orientation briefing on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Chitrakote Falls horseshoe waterfall and private boat ride on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Kutumsar Caves and Tirathgarh Falls adventure on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Bastar culture, Dokra artisan session, and local markets on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Jagdalpur departure on Day 05",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "JAGDALPUR — ARRIVAL IN THE HEART OF BASTAR",
+        "description": "Arrive in Jagdalpur, the cultural capital of Bastar. Receive a warm welcome from your TRAGUIN guide with refreshing adventure kits and mineral water. Transfer to your luxury resort nestled amid sal forest canopies. Relax before an evening briefing about the breathtaking landscapes of Bastar, including waterfall volumes, cave access protocols, and artisan village schedules curated by your dedicated tour manager.",
+        "activities": [
+          "Sightseeing Included: Jagdalpur town orientation, Bastar Palace grounds preview.",
+          "Evening Experience: Pre-expedition briefing and specialty regional dinner.",
+          "Overnight Stay: Luxury Resort, Jagdalpur.",
+          "Meals Included: Welcome Refreshments & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "CHITRAKOTE — THE NIAGARA OF INDIA",
+        "description": "Visit the spectacular Chitrakote Falls. Witness the scenic beauty of the Indravati River as it cascades in a horseshoe shape spanning nearly 300 meters — proudly called the 'Niagara of India'. Enjoy an immersive experience with a TRAGUIN Signature private boat ride at the base of these iconic attractions. Capture golden-hour photography from cliff-edge viewpoints before returning to your Jagdalpur luxury resort for an evening campfire dinner.",
+        "activities": [
+          "Sightseeing Included: Chitrakote Horseshoe Falls, Indravati River viewpoints.",
+          "TRAGUIN Signature: Private boat ride at the base of Chitrakote Falls.",
+          "Overnight Stay: Luxury Resort, Jagdalpur.",
+          "Meals Included: Premium Breakfast & Riverside Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KUTUMSAR CAVES — ADVENTURE & DISCOVERY",
+        "description": "Embark on an adventure to the Kutumsar Caves, famous for their unique blind fish and spectacular limestone formations carved over millions of years. Descend with certified cave escorts and headlamps through narrow archways into massive underground chambers. Later, visit Tirathgarh Falls for a breathtaking multi-tiered waterfall picnic set up by your resort team amid lush Kanger Valley greenery.",
+        "activities": [
+          "Sightseeing Included: Kutumsar Caves, Tirathgarh Waterfalls, Kanger Valley corridor.",
+          "Evening Experience: Forest picnic lunch and relaxed resort evening.",
+          "Overnight Stay: Luxury Resort, Jagdalpur.",
+          "Meals Included: Breakfast, Curated Picnic Lunch & Gourmet Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "BASTAR CULTURE & LOCAL ART",
+        "description": "Explore the local markets of Bastar, famous for Dokra metal art and terracotta crafts. Enjoy an exclusive session with local tribal artisans — a TRAGUIN curated experience where master craftsmen demonstrate the ancient lost-wax bell-metal casting technique unchanged since the Indus Valley Civilization. Visit the Anthropological Museum and browse vibrant weekly haats before a farewell celebration dinner.",
+        "activities": [
+          "Sightseeing Included: Dokra artisan village, Bastar Anthropological Museum, tribal haat.",
+          "TRAGUIN Signature: Exclusive artisan interaction and hands-on craft demonstration.",
+          "Overnight Stay: Luxury Resort, Jagdalpur.",
+          "Meals Included: Premium Breakfast & Farewell Special Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE | MEMORIES OF A PREMIUM CHHATTISGARH EXPERIENCE",
+        "description": "Savor a final hearty breakfast at your luxury resort. Your private chauffeur-driven vehicle will transfer you to Jagdalpur Airport or onward connection point for your departure, carrying unforgettable memories of waterfalls, caves, and tribal artistry curated by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury departure transfer.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Bastar Palace / MPT Naman Bastar Resort",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Bastar Palace / MPT Naman Bastar Resort (Jagdalpur, 4 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Asansol Heritage Resort Jagdalpur",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Asansol Heritage Resort Jagdalpur (Jagdalpur, 4 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand Bastar Heritage Estate",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Grand Bastar Heritage Estate (Jagdalpur, 4 Nights) | MAPAI (Breakfast & Dinner)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Bastar Palace Royal Suite Residence",
+        "location": "Jagdalpur (4 Nights)",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Bastar Palace Royal Suite Residence (Jagdalpur, 4 Nights) | Elite Chef Curated Meals",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Suite",
+        "meal_plan": "Elite Chef Curated Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation in handpicked hotels as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily meals & luxury transportation for all sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing with TRAGUIN support and expert local guides.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private boat ride at Chitrakote Falls base.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Adventure kit, refreshments, and mineral water in vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights & personal expenses.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets, cave permits, camera fees & insurance.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities not explicitly listed in inclusions.",
+        "sort_order": 8
+      }
+    ]
+  }
+}

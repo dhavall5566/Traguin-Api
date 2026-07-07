@@ -1,0 +1,273 @@
+{
+  "destination_slug": "chhattisgarh",
+  "package": {
+    "slug": "cg-004-bastar-experience-jagdalpur-chitrakoot",
+    "serial_code": "CG-004",
+    "traguin_tour_code": "TG-CG-BST-004",
+    "title": "TRAGUIN Premium Bastar Experience Package — Tribal Soul of India • Jagdalpur • Bastar • Chitrakoot",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CG-004 | TRAGUIN tour code TG-CG-BST-004",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Chhattisgarh / India | Category: Premium Family Cultural Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Jagdalpur • Bastar • Chitrakoot",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families & Culture Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / Premium Breakfast & Dinner",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Jagdalpur Arrival (5N) ➔ Bastar ➔ Chitrakoot Falls ➔ Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private artisan interactions and sunset high tea at Chitrakoot Falls.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Handpicked local experiences and dedicated photography tours.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Three-tier Jagdalpur accommodation with chef-curated dining.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Dhokra metal art, tribal haats, and Bastar handicrafts.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Book 30–45 days ahead for peak winter; conservative attire at Danteshwari Temple.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Culture",
+      "Heritage",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "cg-004-bastar-experience-jagdalpur-chitrakoot-itinerary",
+    "title": "TRAGUIN Premium Bastar Experience Package — Tribal Soul of India • Jagdalpur • Bastar • Chitrakoot",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bastar Experience • Jagdalpur • Chitrakoot • 05 Nights / 06 Days",
+    "overview": "Discover the hidden crown jewel of central India. The Best Bastar Tour Package, curated exclusively by TRAGUIN, invites your family to an extraordinary journey into the heart of tribal culture, raw landscapes, and ancient traditions. Known as the 'tribal soul of India', Bastar is a sanctuary of breathtaking landscapes, magnificent waterfalls like the 'Niagara of India' (Chitrakoot), and ancient art forms.\n\nTOUR OVERVIEW\nThis bespoke Bastar Family Tour offers an intimate window into some of India's most preserved tribal traditions and scenic wonders. From arrival to departure, experience seamless personalized luxury with private premium transport, handpicked top-rated hotels, and chef-curated dining highlighting unique local flavors of Bastar.\n\nWHY CHOOSE THE PREMIUM BASTAR EXPERIENCE?\nIconic Attractions: Chitrakoot Falls, Tirathgarh waterfalls, Danteshwari Temple, and Kanger Valley National Park. Most Searched Experiences: Tribal haats, Dhokra metal art, underground caves, and panoramic sunset vistas. Best Time to Visit Bastar: October to March for perfect outdoor sightseeing.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CG-004 | Bastar Experience Jagdalpur Chitrakoot | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Bastar experience (CG-004 / TG-CG-BST-004): Chitrakoot Falls, Tirathgarh, Kutumsar Caves, Dhokra villages, and 3-tier Jagdalpur hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Jagdalpur arrival, Bastar Palace, and local orientation on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Chitrakoot Falls private boat ride and sunset high tea on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Tirathgarh Falls, Kanger Valley, and Kutumsar Caves on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Dhokra artisan villages and tribal haat on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Danteshwari Temple and Bastar museums on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Jagdalpur departure on Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "JAGDALPUR — ARRIVAL & GATEWAY TO TRIBAL SOUL",
+        "description": "Your journey begins as you arrive in Jagdalpur. Your dedicated TRAGUIN private chauffeur welcomes you and transfers you comfortably to your premium handpicked heritage-style hotel. After smooth check-in, spend your afternoon exploring the local town and visiting the Bastar Palace and its grounds. Conclude the day with a dinner featuring local specialties tailored by your hotel chefs.",
+        "activities": [
+          "Sightseeing Included: Jagdalpur town orientation, Bastar Palace grounds.",
+          "Meals Included: Welcome Dinner.",
+          "Overnight Stay: Premium Hotel, Jagdalpur."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "THE NIAGARA OF INDIA — CHITRAKOOT FALLS",
+        "description": "After breakfast, drive to the breathtaking Chitrakoot Falls, where the Indravati River plunges down with thunderous force. Enjoy a private boat ride for an up-close perspective. Spend the afternoon taking photos of this natural wonder. As evening falls, enjoy a TRAGUIN curated sunset high tea near the falls.",
+        "activities": [
+          "Sightseeing Included: Chitrakoot Falls, private boat excursion.",
+          "Meals Included: Breakfast & Dinner.",
+          "Overnight Stay: Premium Hotel, Jagdalpur."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "NATURE'S WONDERS — TIRATHGARH & KANGER VALLEY",
+        "description": "Travel to Kanger Valley National Park, a sanctuary of biodiversity. Visit the stunning Tirathgarh waterfalls, where water cascades in multiple stages through lush greenery. Explore the nearby Kutumsar Caves with an expert guide to discover hidden subterranean stalactites. This is a day for immersive nature discovery.",
+        "activities": [
+          "Sightseeing Included: Tirathgarh Falls, Kanger Valley National Park, Kutumsar Caves.",
+          "Meals Included: Breakfast & Dinner.",
+          "Overnight Stay: Premium Hotel, Jagdalpur."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ARTISAN VILLAGES & TRIBAL TRADITIONS",
+        "description": "Today is dedicated to the artistry of Bastar. Visit traditional Dhokra metal-casting villages where artisans still use ancient lost-wax techniques. Meet the masters, witness the process, and shop for authentic metal crafts. In the afternoon, visit a local tribal Haat (market) to see colorful traditional life.",
+        "activities": [
+          "Sightseeing Included: Dhokra artisan village, Local Tribal Haat.",
+          "Meals Included: Breakfast & Dinner.",
+          "Overnight Stay: Premium Hotel, Jagdalpur."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "HERITAGE & CULTURE — DANTESHWARI TEMPLE",
+        "description": "Visit the historic Danteshwari Temple in Dantewada, one of the most significant spiritual centers in the region. Spend the afternoon visiting local museums to understand the rich historical timeline of the Bastar tribal kingdoms. Celebrate your final full day with a grand TRAGUIN signature farewell dinner.",
+        "activities": [
+          "Sightseeing Included: Danteshwari Temple, Bastar Museums.",
+          "Meals Included: Breakfast & Farewell Dinner.",
+          "Overnight Stay: Premium Hotel, Jagdalpur."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE WITH MEMORIES",
+        "description": "Enjoy a final breakfast and some leisure time before your transfer to the airport or station. Your journey through the heart of India concludes here, leaving you with precious memories curated by TRAGUIN.",
+        "activities": [
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Bastar Palace",
+        "location": "Jagdalpur (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Bastar Palace (Jagdalpur, 5 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "MPT Dandami Luxury Resort",
+        "location": "Jagdalpur (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: MPT Dandami Luxury Resort (Jagdalpur, 5 Nights) | Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Heritage Boutique Stay",
+        "location": "Jagdalpur (5 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Heritage Boutique Stay (Jagdalpur, 5 Nights) | Breakfast & Dinner",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation in premium hotels as per chosen tier.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily breakfast and dinner.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury vehicle for all transfers and sightseeing.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Expert guide services for cultural and heritage tours.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN support and assistance.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights/Trains.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry fees and camera charges.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours or activities.",
+        "sort_order": 9
+      }
+    ]
+  }
+}

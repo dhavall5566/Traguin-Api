@@ -1,0 +1,292 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-009-girls-trip-manali",
+    "serial_code": "HP-009",
+    "traguin_tour_code": "TRG-HIM-009",
+    "title": "Girls Trip Manali • Wanderlust, Luxury & Sisterhood",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-009 | TRAGUIN tour code TRG-HIM-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Female Only /",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Manali • Solang Valley • Atal Tunnel • Old Manali • Jogini Waterfalls",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Girlfriends, Solo Female Groups & Women Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & October to February",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Girls Special Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Premium SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private group photography session in Old Manali to capture your",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-first routes featuring strictly female-recommended resorts and elite",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Dedicated destination managers ensuring immediate entry check-ins and easy",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Curated guide to the absolute best rooftop cafes and",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Souvenirs: Check out the local wood-panel shops on Mall Road for real Kullu shawls, woolen stoles, pashminas, organic mountain honey, and hand-painted Tibetan mandalas. Cafes & Food: Old Manali features lovely wooden mountain cafes serving great Italian wood-fired pizzas, Himalayan river trout, hot sweet apple pies, and organic coffees.",
+        "sort_order": 12
+      },
+      {
+        "text": "Hotel Policies: Standard check-in is 14:00 hrs and check-out is 11:00 hrs. Please present valid photo IDs",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-009-girls-trip-manali-itinerary",
+    "title": "Girls Trip Manali • Wanderlust, Luxury & Sisterhood",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Girls Special Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Girls Trip Manali",
+    "overview": "GIRLS TRIP MANALI • WANDERLUST, LUXURY & SISTERHOOD Get ready for the ultimate mountain getaway curated exclusively by TRAGUIN. Presenting a specially designed Himachal Tour Package made for a chic, high-spirited, female-only escape. This Luxury Himachal Holiday balances adrenaline-pumping high-altitude adventures with absolute comfort, top-tier safety, and aesthetic leisure. Revel in the breathtaking landscapes of Himachal, bond over late-night bonfire chats in premium stays, and dine at the most happening riverside cafes. As your trusted luxury travel experts, TRAGUIN turns this girls' getaway into a collection of beautiful, unforgettable memories.\n\nTOUR OVERVIEW\nThis custom-curated Himachal Family Tour variant is optimized specifically for all-female travel groups looking for comfort, style, and total security. Moving in a premium luxury SUV with a highly vetted, professional, and courteous tourist chauffeur, you will explore the best tourist places in Himachal without a single worry. The route includes everything a perfect group escape needs: handpicked hotels with spectacular panoramic balconies, an expansive daily breakfast and dinner plan (MAPAI), safety-first assistance, and a special TRAGUIN curated experience note including a professional photoshoot and high-tea sessions.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-009 | Girls Trip Manali | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Himachal Pradesh package (HP-009 / TRG-HIM-009): Manali • Solang Valley • Atal Tunnel • Old Manali • Jogini Waterfalls with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN MANALI & CAFE HOPPING",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: LOCAL HERITAGE & JOGINI WATERFALL TREK",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: ATAL TUNNEL & SISSU VALLEY EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SOLANG VALLEY ADVENTURE DAY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: MANALI TO DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private group photography session in Old Manali to capture your",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-first routes featuring strictly female-recommended resorts and elite",
+        "sort_order": 7
+      },
+      {
+        "text": "Personalized Assistance: Dedicated destination managers ensuring immediate entry check-ins and easy",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN MANALI & CAFE HOPPING",
+        "description": "WELCOME TO THE HIMALAYAS – CHIC VIBES & RIVERSIDE RETREAT Your premium Himachal trip kicks off with a warm reception at Chandigarh Station or Bhuntar Airport by your dedicated private luxury vehicle. Enjoy a scenic drive alongside the winding Beas River, stopping for premium wood-fired snacks along the highway. Arrive in Manali and check into your handpicked premium stay. In the afternoon, head out to explore Old Manali's bohemian cafes, featuring artisan coffees, live acoustic music, and fantastic photography points.",
+        "activities": [
+          "Sightseeing Included: Old Manali cafe district, Riverside nature walks, Mall Road exploration.",
+          "Evening Experience: Welcome high-tea session with premium snacks curated by TRAGUIN experts.",
+          "Overnight Stay: Manali (Premium Valley View Luxury Resort)",
+          "Meals Included: Welcome Mocktails & Luxury Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "LOCAL HERITAGE & JOGINI WATERFALL TREK",
+        "description": "MYSTICAL FORESTS, WATERFALLS & HIGH-STREET SHOPPING Start your morning with a healthy breakfast before heading into the pine forests of the Hadimba Temple. Next, drive to Vashisht Village to begin a light, incredibly scenic short trek to Jogini Waterfalls. This route offers breathtaking landscapes and magnificent valleys, making it an excellent spot for group photos. Spend your late afternoon back on Mall Road for authentic local souvenir shopping, fine woolens, and traditional accessories.",
+        "activities": [
+          "Sightseeing Included: Hadimba Temple, Jogini Waterfall Trek, Vashisht Village, Tibetan Monasteries.",
+          "Evening Experience: Private cozy bonfire night at the resort with snacks, music, and storytelling.",
+          "Overnight Stay: Manali (Premium Valley View Luxury Resort)",
+          "Meals Included: Premium Breakfast & Barbecue Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "ATAL TUNNEL & SISSU VALLEY EXCURSION",
+        "description": "CROSSING THE GREATER HIMALAYAS – EPIC SNOWSCAPES & WATERFALLS Prepare for an unforgettable journey today as you pass through the Atal Tunnel, a global engineering marvel over 9 km long. Cross underneath the mountains to reveal the wide, dramatic landscapes of Sissu in Lahaul Valley. Pose by the frozen streams, enjoy viewings of the grand Sissu Waterfall, and take in the magnificent scenery. This is a top tourist place in Himachal for viral reels and stunning winter photography.",
+        "activities": [
+          "Sightseeing Included: Atal Tunnel North Portal, Sissu Village, Chandra River Basin, Sissu Waterfall viewpoint.",
+          "Optional Activities: Snow scooter riding or a professional group photoshoot in traditional Himachali attire.",
+          "Overnight Stay: Manali (Premium Valley View Luxury Resort)",
+          "Meals Included: Premium Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SOLANG VALLEY ADVENTURE DAY",
+        "description": "THRILLING LANDSCAPES & GLIDING THROUGH THE CLOUDS After a delicious buffet breakfast, drive out to Solang Valley, the adventure sports capital of Manali. Take a modern cable car ride up to Mount Phatru for a striking 360-degree view of the glacier ranges. The group can join in on immersive experiences like tandem paragliding, zorbing, or quad biking down the mountain paths. In the evening, return to your resort to relax and unwind after an action-packed day.",
+        "activities": [
+          "Sightseeing Included: Solang Valley meadows, Snow line views, Palchan Village vistas.",
+          "Evening Experience: A premium custom dinner party at a curated fine dining restaurant in town.",
+          "Overnight Stay: Manali (Premium Valley View Luxury Resort)",
+          "Meals Included: Premium Breakfast & Farewell Special Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "MANALI TO DEPARTURE",
+        "description": "CHERISHING THE MEMORIES OF SISTERHOOD BEYOND DESTINATIONS Enjoy a final morning breakfast together on the resort terrace as the sun lights up the snow peaks. Pack your bags and hop into your private premium vehicle for a comfortable ride back to Chandigarh or Delhi. Head home with tons of content for your feed and unforgettable memories designed flawlessly by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Solang Valley Resort /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Solang Valley Resort / | Golden Tulip / similar | Deluxe Balcony Room",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Golden Tulip / similar",
+        "meal_plan": "Deluxe Balcony Room",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Manu Allaya Resort / The",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Manu Allaya Resort / The | Grand Welcome | Premium Panoramic",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Grand Welcome",
+        "meal_plan": "Premium Panoramic",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Span Resort & Spa /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Span Resort & Spa / | Baragarh Resort | Luxury River View",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Baragarh Resort",
+        "meal_plan": "Luxury River View",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Oberoi Sukhvilas /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Oberoi Sukhvilas / | Sukhvilas Luxury Villas | VVIP Royal",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Sukhvilas Luxury Villas",
+        "meal_plan": "VVIP Royal",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights in high-end female- recommended hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private premium SUV with a verified, professional chauffeur.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfasts and custom dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 active concierge support and emergency assistance.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved private bonfire evening with music and snacks.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Customized travel accessories, dry fruits, and mocktails.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or interstate train travel.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure sport tickets (Paragliding, quad biking, zipline fees).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entrance passes, camera permits, local step guide fees.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, phone calls, or tips.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

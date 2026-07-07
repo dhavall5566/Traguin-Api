@@ -1,0 +1,316 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-002-nainital-mussoorie-majestic-escape",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Nainital • Mussoorie Majestic Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 21,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Nainital (2N) → Mussoorie (3N) with Dhanaulti alpine excursion",
+        "sort_order": 1
+      },
+      {
+        "text": "Luxury Toyota Innova Crysta with dedicated chauffeur",
+        "sort_order": 2
+      },
+      {
+        "text": "MAPAI — opulent breakfasts and gourmet dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Reserved private boating ticket at Naini Lake",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated travel manager on call",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-002 | Serial UK-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-002-nainital-mussoorie-itinerary",
+    "title": "Nainital • Mussoorie Majestic Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Nainital • Bhimtal • Mussoorie • Dhanaulti",
+    "overview": "This custom luxury holiday itinerary offers an exceptional fusion of pristine lake districts and commanding mountain crests. Traveling in the absolute comfort of a private premium AC vehicle managed by an experienced local chauffeur, your family will enjoy unparalleled relaxation. Enhanced with a carefully selected meal plan featuring opulent breakfasts and specialized table dinners, this route highlights the pinnacle of a premium Uttarakhand experience. Your holiday incorporates the exclusive touch of TRAGUIN curated experiences, including VIP sightseeing coordination, expert guide-led stories, and 24/7 dedicated guest support.",
+    "is_featured": true,
+    "featured_sort_order": 21,
+    "seo_title": "UK-002 | Nainital Mussoorie Majestic Escape | TRAGUIN",
+    "seo_description": "Luxury 05 Nights / 06 Days Uttarakhand family package (UK-002): Nainital lakes, Mussoorie, Kempty Falls, and Dhanaulti Eco Park with Innova Crysta and MAPAI plan.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Bhimtal, Sattal & Naukuchiatal Lakes",
+        "sort_order": 1
+      },
+      {
+        "text": "Kempty Falls",
+        "sort_order": 2
+      },
+      {
+        "text": "Sir George Everest Estate",
+        "sort_order": 3
+      },
+      {
+        "text": "Dhanaulti Eco Park",
+        "sort_order": 4
+      },
+      {
+        "text": "Snow View Point via Ropeway",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Delhi to Nainital Arrival | Journey into the Lake District",
+        "description": "Your premium Uttarakhand experience begins with a customized pickup from Delhi Airport or Railway Station in your dedicated private luxury vehicle. Leave the plains behind as your scenic route twists upward into the Kumaon hills, presenting breathtaking landscapes of dense pine forests. Arrive in Nainital, the timeless lake town, and check into your handpicked premium hotel. Spend your evening taking a romantic walk along the vibrant Mall Road, admiring the lights shimmering over the water.",
+        "activities": [
+          "Sightseeing Included: Scenic Kumaon foothills drive, Evening Mall Road walk, Naini Lake view",
+          "Evening Experience: Private family stroll along the lakeshore with customized local high-tea",
+          "Overnight Stay: Nainital (Premium Premium Lakeside Lake-View Resort)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Nainital Lake District Tour | Emerald Lakes & Panoramic Himalayan Peaks",
+        "description": "Awake to the crisp mountain breeze and enjoy a grand breakfast. Today is dedicated to deep Nainital sightseeing and lake exploration. Visit the sacred Naina Devi Temple on the northern shore of the lake. Next, take a private boat excursion to explore the beautiful surrounding lakes of Bhimtal, Sattal, and Naukuchiatal, each boasting scenic beauty and unique historical legends. In the afternoon, ride the aerial ropeway up to Snow View Point to capture panoramic photographs of the majestic Nanda Devi peak.",
+        "activities": [
+          "Sightseeing Included: Bhimtal, Sattal, Naukuchiatal, Naina Devi Temple, Eco Cave Gardens, Snow View Point",
+          "Optional Activities: Kayaking at Sattal or a traditional yacht ride at the elite boat club",
+          "Overnight Stay: Nainital (Premium Premium Lakeside Lake-View Resort)",
+          "Meals Included: Premium Breakfast & Gourmet Family Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Nainital to Mussoorie | Trans-Hill Drive to the Queen of Hill Stations",
+        "description": "After a hearty breakfast, check out and embark on a grand trans-hill drive connecting the Kumaon and Garhwal regions. Your journey treats you to iconic attractions along the rolling valleys. Pass through charming villages and forest ridges, capturing the pure spirit of the wilderness. Arrive at Mussoorie, the Queen of Hill Stations, in the late afternoon. Check into your ultra-luxury resort and relax as the sun sets over the Doon Valley, creating a famous winter line phenomenon in the sky.",
+        "activities": [
+          "Sightseeing Included: Scenic inter-hill mountain pass highway drive, Doon Valley sunset views",
+          "Evening Experience: Leisurely exploration of Mussoorie's historic Mall Road and colonial libraries",
+          "Overnight Stay: Mussoorie (Premium Luxury Mountain Ridge Resort)",
+          "Meals Included: Premium Breakfast & Exquisite Buffet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Mussoorie Sightseeing Highlights | Cascading Waterfalls & Colonial Grandeur",
+        "description": "Savor an early breakfast before heading out to explore iconic attractions across Mussoorie. First, visit the spectacular Kempty Falls, where mountain water cascades down giant rocks, offering great family photography points. Later, take a peaceful drive to Company Garden and the historic George Everest House—a popular Instagram location that offers breathtaking 360-degree views of snow-capped mountains and green valleys.",
+        "activities": [
+          "Sightseeing Included: Kempty Falls, Sir George Everest Estate, Company Garden, Gun Hill Point via cable car",
+          "Optional Activities: A guided heritage walk focused on Mussoorie's colonial-era architecture",
+          "Overnight Stay: Mussoorie (Premium Luxury Mountain Ridge Resort)",
+          "Meals Included: Premium Breakfast & Curated Royal Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Dhanaulti Alpine Excursion | Deodar Forest Sanctuary & Alpine Peace",
+        "description": "Today, take a short, refreshing drive to Dhanaulti, a peaceful alpine village located amidst deep deodar, oak, and rhododendron forests. Experience pure serenity inside the Eco Park, where your family can walk along quiet nature trails. Visit the ancient Surkanda Devi Temple for panoramic vistas of the snow-clad central Himalayan peaks. Return to Mussoorie for your final evening, relaxing beside a cozy bonfire at your resort.",
+        "activities": [
+          "Sightseeing Included: Dhanaulti Eco Park, Sukhanda Devi viewpoints, Potato Farm fields",
+          "Evening Experience: A special farewell family dinner around a bonfire at your premium resort",
+          "Overnight Stay: Mussoorie (Premium Luxury Mountain Ridge Resort)",
+          "Meals Included: Premium Breakfast & Farewell Celebration Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Mussoorie to Delhi / Departure | Cherishing Unforgettable Family Bonding Moments",
+        "description": "Indulge in a final lavish breakfast looking out over the mountain mist. Pack your bags as your private luxury vehicle takes you smoothly down the hills and along the national highway back to New Delhi Airport or Railway Station. Return home carrying a heart filled with shared smiles and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private door-to-door luxury highway drop-off to Delhi",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Pavilion / Lake Alpin / similar",
+        "location": "Nainital",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Green Castle / similar",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Manu Maharani / Balrampur House",
+        "location": "Nainital",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Sterling Mussoorie / Jaypee Residency",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Naini Retreat (Luxury Suite)",
+        "location": "Nainital",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Bespoke Custom MAPAI Kit",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Walnut Grove Resort",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Bespoke Custom MAPAI Kit",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Hotel (VVIP Imperial Suite)",
+        "location": "Nainital",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Elite Premium Chef-Curated MAPAI",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Savoy - IHCL SeleQtions",
+        "location": "Mussoorie",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Elite Premium Chef-Curated MAPAI",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury accommodations as per selected room options",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private Innova Crysta for all highway runs & sightseeing",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meals: Lavish daily breakfasts and fine gourmet dinners (MAPAI)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated travel manager on call for your family",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized family travel kit, fresh mountain juice, and fruits",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved private boating ticket at Naini Lake",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, train, or interstate flight tickets to New Delhi",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, boating tokens, camera permissions, or local guides",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry services, phone charges, or tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any insurance, optional activities, or extended detour charges",
+        "sort_order": 10
+      }
+    ]
+  }
+}

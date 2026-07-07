@@ -1,0 +1,333 @@
+{
+  "destination_slug": "andhra-pradesh",
+  "package": {
+    "slug": "ap-003-bespoke-vizag-escape-coastal-splendour",
+    "serial_code": "AP-003",
+    "traguin_tour_code": "TG-AP-VZG-003",
+    "title": "TRAGUIN Premium Vizag Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AP-003 | TRAGUIN tour code TG-AP-VZG-003",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Andhra Pradesh / India | Category: Premium Family Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Visakhapatnam (Vizag) • Araku Valley",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Nature Enthusiasts",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant coastal breezes)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Luxury Tier)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Private AC Luxury Sedan / SUV | Meal Plan: Premium MAPAI (Daily Breakfast & Elegant Dinners)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Vizag Arrival → Vizag Sightseeing (2N) → Araku Valley Excursion (1N) → Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Private sunset high tea at a premium ocean-view cliff spot, pre-arranged VIP passes to historic submarine museums, and a curated culinary trail highlighting authentic coastal Andhra delicacies.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family sunset high tea set up elegantly at a quiet panoramic viewpoint overlooking the Bay of Bengal.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every resort hotel, private chauffeur, and activity is rigorously vetted to guarantee complete safety and premium luxury for your family.",
+        "sort_order": 11
+      },
+      {
+        "text": "Personalized Assistance: Elite, dedicated travel coordinator available 24/7 to manage any adjustments or special requests across your entire stay.",
+        "sort_order": 12
+      },
+      {
+        "text": "Premium Handpicked Hotels: Stay in iconic properties, from five-star oceanfront resorts to tranquil eco-luxury villas nestled in coffee domains.",
+        "sort_order": 13
+      },
+      {
+        "text": "Bespoke Recommendations: Handselected collection of hidden coastal view spots, authentic local dining gems, and high-quality textile boutiques.",
+        "sort_order": 14
+      },
+      {
+        "text": "Shopping & Local Experiences: Ponduru Khadi Fabrics, Etikoppaka lacquered wooden toys, Authentic Coastal Flavors (Royyala Vepudu, Chepala Pulusu), Araku Organic Coffee, honey and pepper from estate outlets.",
+        "sort_order": 15
+      },
+      {
+        "text": "Important Notes: Hotel Check-in/out standard 14:00 / 11:00 hrs. Beach Safety Rules at Rushikonda Blue Flag Beach. Araku Weather Notes: carry light cardigans for cool evenings. Advance Booking Suggestions: 45–60 days ahead for peak winter weekends.",
+        "sort_order": 16
+      }
+    ],
+    "moods": [
+      "Family",
+      "Coastal",
+      "Nature",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "ap-003-bespoke-vizag-escape-coastal-splendour-itinerary",
+    "title": "TRAGUIN Premium Vizag Tour Package",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bespoke Vizag Escape • Coastal Splendour & Mist-Kissed Valleys • 03 Nights / 04 Days",
+    "overview": "Welcome to the jewel of the Eastern Coast. The definitive Best Vizag Tour Package, exclusively curated by TRAGUIN, invites your family to discover an extraordinary destination where majestic hills melt directly into the sapphire waters of the Bay of Bengal. This customized Premium Vizag Experience seamlessly brings together serene coastal drives, deep maritime history, and the lush, coffee-scented heights of Araku Valley.\n\nTOUR OVERVIEW\nOur Vizag Escape itinerary offers an ideal blend of sun-drenched beaches and tranquil hill stations. Over 4 days, you will discover the modern coastal charms of Visakhapatnam before climbing into the misty Eastern Ghats to experience the coffee estates and ancient caves of Araku.\n\nWHY CHOOSE A PREMIUM VIZAG & ARAKU FAMILY TOUR?\nIconic Attractions include RK Beach, Rushikonda Beach, INS Kursura Submarine Museum, Kailasagiri Hill, and Borra Caves in Araku. Best Time to Visit Vizag: October to March offers refreshing sea breezes and pleasant sunny days.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AP-003 | Premium Vizag Tour Package | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Vizag package (AP-003 / TG-AP-VZG-003): RK Beach, Kailasagiri, Borra Caves, Araku Valley, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "RK Beach, INS Kursura Submarine Museum, and TU-142 Aircraft Museum on arrival day",
+        "sort_order": 1
+      },
+      {
+        "text": "Kailasagiri Hill Ropeway, Rushikonda Blue Flag Beach, and Thotlakonda Buddhist Complex",
+        "sort_order": 2
+      },
+      {
+        "text": "Borra Caves, Araku Tribal Museum, and Dimsa folk dance performance",
+        "sort_order": 3
+      },
+      {
+        "text": "Chaprai Waterfalls and local handloom textile bazaar before departure",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family sunset high tea overlooking the Bay of Bengal",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VISAKHAPATNAM — COASTAL ARRIVAL & THE IMPERIAL CITY OF DESTINY",
+        "description": "Your coastal holiday begins as you touch down at Visakhapatnam Airport or arrive at the central railway station. Your dedicated TRAGUIN private chauffeur welcomes you with refreshing amenities, escorting your family in a luxury vehicle to your handpicked premium beachfront hotel. After a seamless check-in and an exquisite lunch, start your afternoon Vizag Sightseeing track. Head first to the famous Ramakrishna Beach (RK Beach), where long walkways border the azure waters of the Bay of Bengal. Step inside history at the iconic INS Kursura Submarine Museum—a real, decommissioned Soviet-built submarine established right on the sandy shore. Next, explore the adjacent TU-142 Aircraft Museum to see impressive anti-submarine warplanes up close. Return to your premium hotel for an elegant dinner overlooking the ocean, creating your very first unforgettable memories on this escape.",
+        "activities": [
+          "Sightseeing Included: RK Beach, INS Kursura Submarine Museum, TU-142 Aircraft Museum, Kali Temple.",
+          "Evening Experience: Relaxed evening walk on the beach followed by a curated beachside seafood dinner suggestion.",
+          "Meals Included: Welcome Signature Refreshments & Gourmet Multi-course Dinner.",
+          "Overnight Stay: Premium Ocean-view Beach Resort, Visakhapatnam."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "VIZAG — PANORAMIC VIEWPOINTS & PRISTINE GOLDEN BEACHES",
+        "description": "Awake to the refreshing sound of rolling sea waves and a bright morning sun. After a sumptuous breakfast, drive along the gorgeous beach road to Kailasagiri Hill. Climb to the top via an exciting ropeway ride that gives your family panoramic views of the entire crescent bay. At the summit, stroll through beautifully manicured gardens and see the towering stone statues of Lord Shiva and Goddess Parvati. In the afternoon, discover the golden sands of Rushikonda Beach, widely celebrated as one of India's cleanest Blue Flag certified beaches. Next, proceed to Thotlakonda, an ancient hilltop Buddhist monastic complex dating back over 2,000 years. Conclude your afternoon with a TRAGUIN Signature Experience: a premium sunset high tea set up at a quiet, cliffside spot overlooking the ocean before heading back to your luxury stay.",
+        "activities": [
+          "Sightseeing Included: Kailasagiri Hill Ropeway, Rushikonda Blue Flag Beach, Thotlakonda Buddhist Complex.",
+          "Evening Experience: Exclusive TRAGUIN Sunset High Tea on a cliff overlook, followed by a relaxed family evening.",
+          "Meals Included: Buffet Breakfast, Cliffside High Tea, & Gourmet Dinner.",
+          "Overnight Stay: Premium Ocean-view Beach Resort, Visakhapatnam."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "VIZAG TO ARAKU VALLEY — CLIMBING INTO MIST-KISSED COFFEE DOMAINS",
+        "description": "Following an early breakfast, bid farewell to the coast as your private luxury vehicle winds inland, ascending into the stunning, mist-draped Eastern Ghats toward the beautiful Araku Valley. Your first major highlight is the remarkable Borra Caves, deep million-year-old limestone formations filled with fascinating stalactites and stalagmites under beautiful colorful lighting. Continue your drive into the core of Araku Valley, passing wide green steps of organic coffee estates. Check into your romantic, handpicked eco-luxury resort. In the afternoon, visit the insightful Araku Tribal Museum, which showcases the fascinating culture, attire, and traditions of local indigenous clans. Walk through the fragrant paths of the Ananthagiri Coffee Plantations and watch a vibrant local Dimsa folk dance performance arranged at your resort in the evening.",
+        "activities": [
+          "Sightseeing Included: Borra Caves exploration, Araku Valley coffee trail, Araku Tribal Museum, Galikonda View Point.",
+          "Evening Experience: Private Dimsa tribal dance performance and traditional Bamboo Chicken culinary tasting.",
+          "Meals Included: Buffet Breakfast & Authentic Andhra Tribal Theme Dinner.",
+          "Overnight Stay: Premium Eco-Luxury Resort, Araku Valley."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "ARAKU TO VIZAG — MOUNTAIN WATERFALLS & HOMEWARD DEPARTURE",
+        "description": "Savor a fresh cup of organic Araku coffee on the veranda of your resort while taking in views of the mist rising from the hills. After breakfast, start your descent back toward the plains, making a scenic stop at the beautiful Chaprai Waterfalls (Dumbriguda Waterfalls). Your private luxury vehicle carries you smoothly back down to Visakhapatnam. Depending on your flight or train departure schedule, your chauffeur can make a final shopping stop in the city for local handloom fabrics before transferring you seamlessly to Visakhapatnam Airport or Railway Station for your journey home.",
+        "activities": [
+          "Sightseeing Included: Chaprai Waterfalls, local handloom textile bazaar stop, private departure transfer.",
+          "Meals Included: Premium Buffet Breakfast."
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Gateway Hotel (Ocean Drive) / Novotel RK Beach",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: The Gateway Hotel (Ocean Drive) / Novotel RK Beach (Visakhapatnam, 02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "MPT Haritha Hill Resort",
+        "location": "Araku Valley",
+        "nights_label": "01 Night",
+        "description": "OPTION 01 – DELUXE: MPT Haritha Hill Resort (Araku Valley, 01 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Novotel Visakhapatnam Varun Beach (Superior)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Novotel Visakhapatnam Varun Beach (Visakhapatnam, 02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Superior Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "MPT Haritha Valley Resort (Luxury Suites)",
+        "location": "Araku Valley",
+        "nights_label": "01 Night",
+        "description": "OPTION 02 – PREMIUM: MPT Haritha Valley Resort (Araku Valley, 01 Night)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Resort Vishakhapatnam (Ocean View)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: Radisson Blu Resort Vishakhapatnam (Visakhapatnam, 02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Ocean View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Araku Eco-Luxury Glamping Tents",
+        "location": "Araku Valley",
+        "nights_label": "01 Night",
+        "description": "OPTION 03 – LUXURY: Araku Eco-Luxury Glamping Tents (Araku Valley, 01 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Glamping Tent",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "The Park Visakhapatnam (Private Luxury Beach Studio)",
+        "location": "Visakhapatnam",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Park Visakhapatnam (Visakhapatnam, 02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Luxury Beach Studio",
+        "meal_plan": "VIP Chef's Curated MAPAI",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Araku Valley Wilderness Heritage Manor",
+        "location": "Araku Valley",
+        "nights_label": "01 Night",
+        "description": "OPTION 04 – ULTRA LUXURY: The Araku Valley Wilderness Heritage Manor (Araku Valley, 01 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Heritage Manor Suite",
+        "meal_plan": "VIP Chef's Curated MAPAI",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 03 Nights elite accommodation across handpicked beach resorts and eco-luxury hill properties.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Gourmet Dining: Daily buffet breakfast and chef-curated multi-course dinners at all properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private air-conditioned luxury vehicle for all airport/station transfers, sightseeing routes, and intercity travel as per itinerary.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signatures: Exclusive cliffside sunset high tea arrangement in Vizag and custom destination welcome kits.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Royal traditional welcomes, fresh floral treats, and premium mineral water bottles provided daily inside the vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Assistance & Taxes: 24/7 dedicated support from TRAGUIN holiday specialists, covered tolls, fuel costs, state taxes, and driver allowances.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Air / Train Fares: Main intercity transport tickets to and from Visakhapatnam.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument Entry Fees: Entry tickets to submarines, ropeway passes, caves, and individual camera permits.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry services, telephone calls, alcoholic beverages, spa therapies, and personal tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Extras: Speedboat rides at Rushikonda Beach or any items not specifically listed in final inclusions.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

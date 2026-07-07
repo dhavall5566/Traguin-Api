@@ -1,0 +1,330 @@
+{
+  "destination_slug": "west-bengal",
+  "package": {
+    "slug": "wb-006-darjeeling-kalimpong-misty-hills",
+    "serial_code": "WB-006",
+    "traguin_tour_code": "TRAGUIN-WB-006",
+    "title": "Darjeeling • Kalimpong Misty Hills",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code WB-006 | TRAGUIN tour code TRAGUIN-WB-006",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: West Bengal, India | Category: Family Vacation / Luxury Hills",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Darjeeling • Kalimpong",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Leisure Seekers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to May & October to December",
+        "sort_order": 5
+      },
+      {
+        "text": "Vehicle Allocated: Private Air-Conditioned Luxury Innova Crysta / Luxury SUV",
+        "sort_order": 6
+      },
+      {
+        "text": "Meal Plan: Modified American Plan (Gourmet Breakfasts & Lavish Dinners Included)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Map: Bagdogra (IXB) / NJP Arrival → Kalimpong Misty Hills → Darjeeling Alpine Ridge → Bagdogra / NJP Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated carefully by TRAGUIN experts — stress-free mountain driving, premium fast-track check-ins, and top-tier hospitality designed for families.",
+        "sort_order": 9
+      },
+      {
+        "text": "Shopping & Local Experiences: Darjeeling Mall Road & Chowk Bazaar — authentic Flush-01 Darjeeling Tea, woolen shawls, brass prayer wheels. Glenary's Bakery, Keventer's. Instagram Spots: Batasia Loop and Durpin Dara Monastery prayer flags.",
+        "sort_order": 10
+      },
+      {
+        "text": "Important Notes: Hotel check-in 14:00 hrs, check-out 11:00 hrs. Hill weather unpredictable — pack light jackets and heavy woolens for Tiger Hill. Advance booking 45-60 days recommended.",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Hills",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "wb-006-darjeeling-kalimpong-misty-hills-itinerary",
+    "title": "Darjeeling • Kalimpong Misty Hills",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Luxury Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Darjeeling • Kalimpong Misty Hills • 04 Nights / 05 Days",
+    "overview": "Welcome to a land of floating clouds, colonial charm, and world-famous emerald tea estates. Lovingly curated by TRAGUIN, this exclusive West Bengal Honeymoon Package and West Bengal Family Tour brings you the very best of North Bengal's alpine splendor. Wake up to panoramic views of Mt. Kanchenjunga, walk along misty ridges, and let our signature hospitality turn a simple getaway into a series of deeply emotional, premium stays.\n\nTOUR OVERVIEW\nVehicle Allocated: Private Air-Conditioned Luxury Innova Crysta / Luxury SUV (Spacious and optimized for mountain terrain). Meal Plan: Modified American Plan (Gourmet Breakfasts & Lavish Dinners Included). Route Map: Bagdogra (IXB) / NJP Arrival → Kalimpong Misty Hills → Darjeeling Alpine Ridge → Bagdogra / NJP Departure.\n\nTRAGUIN Curated Experience Note: Immerse your family in handpicked hotels, an iconic early morning Tiger Hill sunrise cruise, a vintage Toy Train joy ride, and specialized, slow-paced exploration tailored beautifully for uncompromised elite relaxation.\n\nWHY VISIT WEST BENGAL? A PREMIUM MISTY HILLS EXPERIENCE\nThe majestic highlands of West Bengal offer an escape into some of the most breathtaking landscapes in South Asia. Known globally for its aromatic tea leaves and deep-rooted British heritage, a Luxury West Bengal Holiday seamlessly blends vintage colonial culture with pristine scenic beauty. When exploring the Top Tourist Places in West Bengal, the twin gems of Darjeeling and Kalimpong stand out as absolute favorites for premium travelers.\n\nFrom exploring the traditional Buddhist monasteries and orchids of Kalimpong to riding the UNESCO World Heritage Himalayan Railway, our exclusive TRAGUIN West Bengal Packages focus heavily on deep cultural highlights and immersive experiences. This package ensures you catch the Best Time to Visit West Bengal with access to hidden viewpoints, famous Instagram spots, and the signature comfort of handpicked boutique properties.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "WB-006 | Darjeeling Kalimpong Misty Hills | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days West Bengal package (WB-006 / TRAGUIN-WB-006): Kalimpong monasteries, Darjeeling Tiger Hill sunrise, Toy Train, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Kalimpong Durpin Monastery, Pine View Cactus Nursery, and Deolo Viewpoint",
+        "sort_order": 1
+      },
+      {
+        "text": "Tiger Hill sunrise over Mt. Kanchenjunga, Ghoom Monastery, and Batasia Loop",
+        "sort_order": 2
+      },
+      {
+        "text": "UNESCO Darjeeling Himalayan Railway Toy Train joy ride and tea estate walk",
+        "sort_order": 3
+      },
+      {
+        "text": "Himalayan Mountaineering Institute, Darjeeling Zoo, Peace Pagoda, and Tibetan Refugee Center",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier handpicked accommodation: Kalimpong (01 Night) + Darjeeling (03 Nights)",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL BAGDOGRA / NJP TO KALIMPONG",
+        "description": "Your premium mountain escape begins as you arrive at Bagdogra International Airport or New Jalpaiguri Station. A professional TRAGUIN tour manager welcomes your family warmly and introduces you to your private luxury mountain vehicle. Leave the plains behind as you climb alongside the emerald Teesta River. Arrive in the quiet, flower-decked hills of Kalimpong and check into your handpicked premium resort. Spend a relaxed evening listening to the mountain breeze or walking through pristine lawns.",
+        "activities": [
+          "Sightseeing Included: Teesta River Viewpoints, Scenic Alpine Drive.",
+          "Evening Experience: Curated welcoming briefing over high-tea arranged exclusively by TRAGUIN experts.",
+          "Overnight Stay: Handpicked Luxury Resort, Kalimpong.",
+          "Meals Included: Welcome Drink & Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KALIMPONG SIGHTSEEING TO DARJEELING",
+        "description": "After a luxurious breakfast, explore the tranquil charms of Kalimpong. Visit the historic Durpin Monastery for serene chants and sweeping views of the valley below. Discover the famous Pine View Nursery, housing a world-class collection of exotic cacti and vibrant orchids. Post lunch, enjoy a scenic drive to Darjeeling—the legendary Queen of Hills. Arrive at your luxury ridge hotel for a smooth, prioritized check-in experience.",
+        "activities": [
+          "West Bengal Sightseeing: Durpin Dara Hill, Pine View Cactus Nursery, Deolo Viewpoint.",
+          "Photography Points: Panoramic frames of mountain ranges from Deolo Hill.",
+          "Overnight Stay: Premium Luxury Heritage Hotel, Darjeeling.",
+          "Meals Included: Full Buffet Breakfast & Lavish Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DARJEELING SUNRISE & ICONIC ATTRACTIONS",
+        "description": "Wake up early at 04:00 AM for an unforgettable, deeply emotional memory. Drive up to Tiger Hill to watch the morning sun paint the snow-peaks of Mt. Kanchenjunga in hues of liquid gold. On your return, visit the serene Ghoom Monastery and the historic Batasia Loop. After a relaxed late breakfast at your hotel, experience an iconic vintage Toy Train Joy Ride across the mountain ridges. Spend the afternoon exploring the lush green slopes of a local tea estate.",
+        "activities": [
+          "Sightseeing Included: Tiger Hill Sunrise, Ghoom Monastery, Batasia Loop, Toy Train Ride, Tea Garden Walk.",
+          "Local Experiences: Walk among manicured tea shrubs and learn the art of tea plucking from local experts.",
+          "Overnight Stay: Premium Luxury Heritage Hotel, Darjeeling.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DARJEELING CULTURAL EXPLORATION",
+        "description": "Dedicate today to discovering Darjeeling's deeply rich mountaineering history and unique alpine ecology. Visit the renowned Himalayan Mountaineering Institute (HMI) and the Padmaja Naidu Himalayan Zoological Park, home to rare and beautiful snow leopards and red pandas. Later, find absolute tranquility at the stunning white marble Peace Pagoda, listening to gentle spiritual echoes.",
+        "activities": [
+          "Sightseeing Included: HMI, Darjeeling Zoo, Tibetan Refugee Self-Help Center, Japanese Peace Pagoda.",
+          "Optional Activities: Spend a cozy evening at a heritage cafe on the famous Mall Road.",
+          "Overnight Stay: Premium Luxury Heritage Hotel, Darjeeling.",
+          "Meals Included: Breakfast & Festive Farewell Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DARJEELING TO BAGDOGRA / NJP DEPARTURE",
+        "description": "Savor a final, peaceful breakfast while looking out over the misty valleys. Pack your memories as your luxury private vehicle arrives to transfer you comfortably back down the hills to Bagdogra Airport or NJP Station. Your premium TRAGUIN West Bengal Experience concludes flawlessly, leaving you and your family with unforgettable memories of a lifetime.",
+        "activities": [
+          "Transfers Included: Private Luxury Airport / Station Drop-off.",
+          "Meals Included: Full Buffet Breakfast."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Sian Excellence Summit",
+        "location": "Kalimpong",
+        "nights_label": "01 Night",
+        "description": "OPTION 01 – DELUXE: The Sian Excellence Summit (Kalimpong, 01 Night)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hermon Resort & Spa",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hermon Resort & Spa (Darjeeling, 03 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Sinclairs Retreat Kalimpong",
+        "location": "Kalimpong",
+        "nights_label": "01 Night",
+        "description": "OPTION 02 – PREMIUM: Sinclairs Retreat Kalimpong (Kalimpong, 01 Night)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Sinclairs Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Sinclairs Darjeeling (Darjeeling, 03 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin Silver Oaks",
+        "location": "Kalimpong",
+        "nights_label": "01 Night",
+        "description": "OPTION 03 – LUXURY: The Elgin Silver Oaks (Kalimpong, 01 Night)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "The Elgin, Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Elgin, Darjeeling (Darjeeling, 03 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Heritage Room",
+        "meal_plan": "MAP (Breakfast + Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Himalayan Spa Resort",
+        "location": "Kalimpong",
+        "nights_label": "01 Night",
+        "description": "OPTION 04 – ULTRA LUXURY: Mayfair Himalayan Spa Resort (Kalimpong, 01 Night)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite",
+        "meal_plan": "MAP + High Tea Included",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Mayfair Darjeeling",
+        "location": "Darjeeling",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Mayfair Darjeeling (Darjeeling, 03 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite",
+        "meal_plan": "MAP + High Tea Included",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium stays across handpicked hotels with luxury mountain-view rooms.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: 04 Lavish Buffet Breakfasts and 04 curated multi-cuisine dinners at the resorts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: All commutes via dedicated luxury AC Innova Crysta with a highly skilled mountain driver.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated telephone concierge assistance from our local helpdesks.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: A private estate tea-tasting tour and entry passes for the Tiger Hill premium gallery.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Fully personalized travel kit featuring premium hill-country mints and fresh local orchids on arrival.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or main railway line ticketing costs.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Toy Train ride ticket costs (Can be added on request based on availability).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal items such as laundry, specialized liquor, telephone tabs, and driver tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional vehicle detours or entry costs for cameras/drones.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Mandatory premium medical or travel protection insurance.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "destination_slug": "maharashtra",
+  "package": {
+    "slug": "mh-007-premium-alibaug-offbeat-getaway",
+    "serial_code": "MH-007",
+    "traguin_tour_code": "TRAGUIN-MH-007",
+    "title": "Premium Alibaug Offbeat Getaway",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MH-007 | TRAGUIN tour code TRAGUIN-MH-007",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Maharashtra / India | Category: Offbeat / Luxury Coastal Stay",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Alibaug Luxury Beach Villa Stay",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Couples & Corporate Elite",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Elite Coastal FIT Getaway",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: Dedicated Luxury Chauffeur-Driven SUV (Innova Crysta / Premium Sedan) for absolute privacy",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: Fully Loaded Modified American Plan (Gourmet Breakfasts & Curated Farm-to-Table Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Mumbai/Pune Arrival → Private Luxury Speedboat to Mandwa Jet / Road Journey → Alibaug Luxury Villa Stay → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated carefully by TRAGUIN Experts to offer a seamless, worry-free coastal stay with fast-tracked speedboat transfers and exclusive chef-curated dining charts",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Alibaug Local Markets — authentic white onions, organic cold-pressed coconut oil, traditional homemade spices; Coastal Sweets — authentic local Chikki and fresh coastal Aamras or fruit pulps",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs, check-out 11:00 hrs; speedboat schedules dependent on weather and tidal trends; early reservation recommended for limited luxury beach villa inventory",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Beach",
+      "Leisure",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "mh-007-premium-alibaug-offbeat-getaway-itinerary",
+    "title": "Premium Alibaug Offbeat Getaway",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium Alibaug Offbeat Getaway • 02 Nights / 03 Days",
+    "overview": "Escape the mundane city rush and melt into the serene coastal vibes of Maharashtra's finest beach haven. Carefully curated by TRAGUIN, this private elite getaway delivers a premium Alibaug experience wrapped in premium stays, pristine shores, and tailored luxury hospitality. Step straight into an exclusive beach villa curated thoughtfully for travelers who demand the absolute highest parameters of peace and timeless sophistication.\n\nAlibaug, renowned for its golden beaches, historic sea forts, and lush coconut plantations, is celebrated as the top luxury holiday destination close to Mumbai. For those actively searching for a high-end Alibaug Family Tour or a romantic Alibaug Honeymoon Package, this premium sanctuary is the ultimate answer.\n\nFrom exploring iconic attractions like the ancient Kolaba Fort situated right in the ocean to witnessing the scenic beauty of Kihim Beach and Versoli Beach, your journey is filled with immersive experiences. Unwind at popular Instagram locations inside your private sanctuary or indulge in local culinary arts. Our handpicked hotels and exclusive beach villa collections promise unforgettable memories. Discover the best time to visit Alibaug with TRAGUIN Alibaug Packages, designed entirely to pamper you.\n\nTRAGUIN Curated Experience Note: This offbeat Alibaug Honeymoon Package & Family Tour focuses on slow-paced premium rejuvenation. Featuring handcrafted meals prepared by a private villa chef, sunset photography points, private beach access, and personalized assistance from booking to return.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MH-007 | Premium Alibaug Offbeat Getaway | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Alibaug beach villa package (MH-007 / TRAGUIN-MH-007): Mandwa speedboat transfer, Kolaba Fort, Kihim Beach, private beach villa stay, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Mandwa Coastal Drive, Exclusive Beach Access & Private Villa Rejuvenation",
+        "sort_order": 1
+      },
+      {
+        "text": "Kolaba Sea Fort, Kihim Beach / Awas Beach & local organic spice farms",
+        "sort_order": 2
+      },
+      {
+        "text": "Private speed-boat coordination layout and curated evening beach side setup",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Curated carefully by TRAGUIN Experts for seamless worry-free coastal stay",
+        "sort_order": 4
+      },
+      {
+        "text": "Premium Handpicked Stays: 4-tier beach villa and resort options from Radisson Blu to TRAGUIN Private Elite Beach Villa",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Mumbai / Pune to Alibaug",
+        "description": "Your premium escape begins with an elite transfer experience. If traveling from Mumbai, board a private luxury speedboat from the Gateway of India to Mandwa Jetty, offering a breathtaking panoramic view of the Arabian Sea. Upon arrival at Mandwa, your private chauffeur-driven luxury vehicle will transfer you directly to your handpicked ultra-luxury beach villa in Alibaug. Enjoy a flawless check-in followed by a refreshing welcome cocktail. Spend your afternoon soaking in the private pool or relaxing amidst pristine coastal layouts. In the evening, walk along the sands of an exclusive beach zone as the sun sets over the ocean horizon.",
+        "activities": [
+          "Sightseeing Included: Mandwa Coastal Drive, Exclusive Beach Access, Private Villa Rejuvenation.",
+          "Evening Experience: A private, chef-curated sundowner high-tea served poolside inside your villa premises.",
+          "Overnight Stay: Handpicked Ultra-Luxury Beach Villa, Alibaug.",
+          "Meals Included: Welcome Drink, High-Tea & Curated Seafood/Local Gourmet Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Optional Offbeat Exploration",
+        "description": "Wake up to the relaxing sound of the ocean waves and indulge in a lavish farm-to-table breakfast prepared fresh by your private chef. Today, choose to venture out or remain immersed in your premium stays. If exploring, visit the famous Kolaba Fort, an iconic attraction accessible via a unique low-tide horse carriage ride or a shallow water walk. Later, explore the calm, scenic beauty of Kihim or Awas Beach, highly rated as peaceful tourist spots. Return to your luxury retreat for an evening of luxury, peace, and ultimate personalization.",
+        "activities": [
+          "Sightseeing Included: Kolaba Sea Fort, Kihim Beach / Awas Beach, local organic spice farms.",
+          "Photography Points: The ancient stone walls of Kolaba Fort against ocean waves and the serene, line-up of coconut trees at Awas.",
+          "Overnight Stay: Ultra-Luxury Private Beach Villa, Alibaug.",
+          "Meals Included: Multi-Cuisine Gourmet Breakfast & Private Coastal BBQ Dinner Experience."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Alibaug to Departure",
+        "description": "Relish a slow, luxurious morning breakfast on your private sit-out deck, taking in the refreshing ocean breeze. Spend your remaining hours indulging in a final swim or picking up high-quality local souvenirs. Your dedicated luxury chauffeur will arrive at your villa door to ensure a smooth and seamless check-out, transferring you safely back to Mandwa Jetty for your private speedboat or back via your customized overland route. Your elite TRAGUIN Alibaug Package concludes, leaving you with unforgettable memories of a blissful premium coastal retreat.",
+        "activities": [
+          "Transfers Included: Private Chauffeur Drop-off to Mandwa Jetty / Road Transfer Route.",
+          "Meals Included: Full Artisanal Breakfast."
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Resort & Spa, Alibaug",
+        "location": "Alibaug",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Spa Suite",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Tropica Beach Resort By The Sea",
+        "location": "Alibaug",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Sea-View Cottage",
+        "meal_plan": "Breakfast & Dinner (MAP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Mansion House, Alibaug",
+        "location": "Alibaug",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Sky Roof Luxury Suite",
+        "meal_plan": "All Meals Curated",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Private Elite Beach Villa",
+        "location": "Alibaug",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Exclusive Private Pool Ocean Villa",
+        "meal_plan": "Private Chef Dining Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 02 Nights stay at an ultra-luxury handpicked beach villa or premium resort.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine breakfasts and customized gourmet dinners prepared fresh.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers & Sightseeing: Dedicated Chauffeur-driven air-conditioned private luxury vehicle for entire trip itinerary.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated concierge assistance and localized on-ground operational back-up.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Cold towels, fresh coconut water refreshers, and premium customized villa welcome basket.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private speed-boat coordination layout and curated evening beach side setup.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights, train fares, or external connectivity modes outside the itinerary guidelines.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any historical site camera fees or monument tickets not specifically mentioned.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as premium alcoholic beverages, internal spa therapy sessions, or laundry.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Extreme water sport activities or additional vehicle usage outside defined operational routing.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Medical or personal travel insurance.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "destination_slug": "bihar",
+  "package": {
+    "slug": "br-009-jain-spiritual-circuit-patna-pawapuri-rajgir-vaishali",
+    "serial_code": "BR-009",
+    "traguin_tour_code": "TRG-BIH-009",
+    "title": "TRAGUIN Premium Bihar Tour Package — Jain Bihar Circuit • Path of Enlightenment & Pure Devotion: Patna • Pawapuri • Rajgir • Nalanda • Kundalpur • Vaishali",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code BR-009 | TRAGUIN tour code TRG-BIH-009",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Bihar / India | Category: Pilgrimage / Jain Spiritual Circuit",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Patna • Pawapuri • Rajgir • Nalanda • Kundalpur • Vaishali",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Devotees, Spiritual Seekers & Jain Families",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant Winters)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury AC Vehicle / Custom Pure Vegetarian Plan",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Patna (3N) ➔ Pawapuri ➔ Rajgir (2N) ➔ Kundalpur & Nalanda ➔ Vaishali ➔ Patna Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, pre-arranged priority temple entry to Pawapuri Jal Mandir with a dedicated priest escort.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Custom routing that optimizes travel times while aligning perfectly with traditional Jain fasting and dining schedules.",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Accommodations rigorously vetted to ensure exemplary sanitation and absolute family-oriented comfort.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Madhubani Paintings, Bhagalpuri Silk sarees, stone sculptures, bamboo craftwork; Khaja, sugarcane juice, Satvik snacks.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Pure veg / Jain meal customization available; check-in 14:00 / check-out 11:00; book 45 days ahead for Rajgir peak season.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Pilgrimage",
+      "Spiritual",
+      "Family",
+      "Luxury",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "br-009-jain-spiritual-circuit-patna-pawapuri-rajgir-vaishali-itinerary",
+    "title": "TRAGUIN Premium Bihar Tour Package — Jain Bihar Circuit • Path of Enlightenment & Pure Devotion: Patna • Pawapuri • Rajgir • Nalanda • Kundalpur • Vaishali",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Jain Bihar Spiritual Circuit • Patna • Pawapuri • Rajgir • Kundalpur • Vaishali • 05 Nights / 06 Days",
+    "overview": "Welcome to a sacred, deeply transformative journey curated exclusively by TRAGUIN. Embark on the ultimate Bihar Pilgrimage Tour, meticulously structured to trace the divine footprints of Tirthankaras through the magnificent landscape of Bihar.\n\nTOUR OVERVIEW\nThis custom-designed spiritual itinerary serves as the definitive premium Bihar experience for modern Jain families and devotees. Travelling in a completely private, premium air-conditioned vehicle with a professional chauffeur well-versed in local routes, your comfort remains paramount. Our carefully curated meal plan offers specialized, strictly pure vegetarian (and optional authentic Jain) meals prepared with the highest standards of hygiene and respect. Every step of this sacred passage includes the signature touch of TRAGUIN curated experiences, providing personalized assistance, VIP temple darshan coordination, and around-the-clock bespoke travel support.\n\nWHY CHOOSE THE BEST BIHAR TOUR PACKAGE?\nWhen planning a Luxury Bihar Holiday or a sacred family pilgrimage, discerning travelers seek an environment that honors both religious sensitivities and high-end lifestyle needs. Bihar stands as the historic cradle of Jainism, highlighting iconic attractions including the legendary Pawapuri Jal Mandir, Kundalpur, Vaishali, and the world-renowned ruins of Nalanda University.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "BR-009 | Jain Spiritual Circuit Patna Pawapuri Rajgir Vaishali | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Jain spiritual circuit (BR-009 / TRG-BIH-009): Pawapuri, Rajgir, Kundalpur, Vaishali, pure vegetarian meals, and 4-tier accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Patna arrival, Kamaldah Jain Temple on Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "Pawapuri Jal Mandir and transfer to Rajgir on Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Rajgir Jain hill shrines, ropeway, Son Bhandar on Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Kundalpur, Nalanda ruins, return to Patna on Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Vaishali Basokund Mahavira birthplace on Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Patna departure on Day 06",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PATNA | WELCOME TO ANCIENT PATALIPUTRA – LAND OF HOLY BEGINNINGS",
+        "description": "Your premium Bihar experience begins the moment you arrive at Patna Airport or Railway Station. You will be greeted warmly by your dedicated private luxury transport coordinator and driven to your handpicked premium luxury hotel. After checking in and relaxing, enjoy a refined evening tour of Patna, visiting the Kamaldah Jain Temple, the oldest Jain monument in Patna belonging to the Digambara sect, housing the holy footsteps of Sthulabhadra Muni.",
+        "activities": [
+          "Sightseeing Included: Kamaldah Jain Temple, ancient city orientation, overview of Ganga riverfront.",
+          "Evening Experience: Bespoke orientation briefing and welcome dinner curated by TRAGUIN experts.",
+          "Overnight Stay: Patna (Premium / Luxury Selected Hotel).",
+          "Meals Included: Welcome Mocktail & Gourmet Pure Vegetarian Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "PATNA TO PAWAPURI & RAJGIR | THE NIRVANA BHUMI OF LORD MAHAVIRA – FLOATING MARBLE SANCTUARY",
+        "description": "Depart early after a nutritious breakfast towards Pawapuri, a site of profound emotional and spiritual gravity. Arrive at the world-famous Jal Mandir, a breathtakingly beautiful white marble temple floating gracefully in the center of a huge water tank filled with pink lotuses, marking the exact spot of Lord Mahavira's Moksha. Experience quiet meditation inside the sanctum. Afterwards, visit the Gaon Mandir before driving to Rajgir to check into your scenic premium resort.",
+        "activities": [
+          "Sightseeing Included: Pawapuri Jal Mandir, Gaon Mandir, Samosharan Temple complex.",
+          "Optional Activities: Private interaction with local temple scholars for deep scriptural insights.",
+          "Overnight Stay: Rajgir (Premium / Eco-Luxury Resort Stay).",
+          "Meals Included: Premium Breakfast & Authentic Satvik Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "RAJGIR HOLY HILLS SIGHTSEEING | SACRED HILL PEAKS & SPIRITUAL VIBRATIONS OF THE TIRTHANKARAS",
+        "description": "Dedicate your day to the magnificent scenic beauty and divine hills of Rajgir, heavily blessed by the frequent visits of Lord Mahavira. Take a romantic and thrilling aerial ropeway ride up to the Peace Pagoda (Vishwa Shanti Stupa). Devotees can comfortably ascend the sacred Vaibhavgiri or Vipulachal hills to explore beautifully preserved ancient Jain shrines. Later, capture timeless photography points at the ancient Cyclopean Walls and the legendary Son Bhandar Caves.",
+        "activities": [
+          "Sightseeing Included: Vishwa Shanti Stupa, Aerial Ropeway, Son Bhandar Caves, Jain Hill Shrines.",
+          "Evening Experience: Relaxing soak in the mineral-rich hot springs of Rajgir with private assistance.",
+          "Overnight Stay: Rajgir (Premium / Eco-Luxury Resort Stay).",
+          "Meals Included: Premium Breakfast & Specialized Jain Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "NALANDA, KUNDALPUR EXCURSION & RETURN TO PATNA | THE KNOWLEDGE SEED & BIRTHPLACE OF THE GAUDAMA GANADHARA",
+        "description": "After a breakfast of traditional delights, proceed to Kundalpur, revered by many traditions as the holy birthplace of Gautam Swamiji, the chief disciple of Lord Mahavira. Tour the sprawling white complex containing 72 magnificent idols of Tirthankaras. Next, enjoy an immersive private tour of the UNESCO World Heritage ruins of Nalanda University, the pinnacle of global ancient education, followed by a visit to the nearby Nalanda Archaeological Museum. Return to Patna by evening.",
+        "activities": [
+          "Sightseeing Included: Kundalpur Digambar Temple, Nalanda University Ruins, Xuanzang Memorial Hall.",
+          "Evening Experience: Leisurely highway travel in luxury transport with refreshment stops.",
+          "Overnight Stay: Patna (Premium / Luxury Selected Hotel).",
+          "Meals Included: Premium Breakfast & Elegant Multi-cuisine Vegetarian Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO VAISHALI | THE BIRTHPLACE OF LORD MAHAVIRA – SACRED KUNDALPUR / BASOKUND",
+        "description": "Today, drive across the majestic Mahatma Gandhi Setu over the Ganges to historic Vaishali, a pinnacle destination for your Bihar Pilgrimage Tour. Visit Basokund, widely celebrated as the exact birthplace of Lord Mahavira, the 24th Tirthankara. Experience deep reverence at the pristine Vishwa Shanti Stupa beside the coronation tank and see the legendary Ashokan Pillar. Return to Patna for your final evening of souvenir shopping.",
+        "activities": [
+          "Sightseeing Included: Basokund Mahavira Birthplace, Ashokan Pillar, Abhishek Pushkarini (Coronation Tank).",
+          "Optional Activities: Sunset photography near the banks of the historic ancient lake.",
+          "Overnight Stay: Patna (Premium / Luxury Selected Hotel).",
+          "Meals Included: Breakfast & Farewell Special Vegetarian Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "PATNA DEPARTURE | CHERISHING FAITH & UNFORGETTABLE MEMORIES",
+        "description": "Savor a final peaceful breakfast at your luxury property. Your private luxury transport vehicle will be ready to escort you safely to Patna Airport or Patna Railway Station for your departure. Return home with your soul deeply enriched with spiritual peace, family bonds, and unforgettable memories custom-designed for you by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury station or airport departure drop-off.",
+          "Meals Included: Sumptuous Buffet Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Maurya / Lemon Tree Premier | Hotel Gridhakuta International / similar",
+        "location": "Patna (3 Nights) / Rajgir (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Maurya / Lemon Tree Premier (Patna, 3 Nights) | Hotel Gridhakuta International / similar (Rajgir, 2 Nights) | Pure Veg MAPAI Plan",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Pure Veg MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Patliputra Exotica / similar | The Indo Hokke Hotel / similar",
+        "location": "Patna (3 Nights) / Rajgir (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Hotel Patliputra Exotica / similar (Patna, 3 Nights) | The Indo Hokke Hotel / similar (Rajgir, 2 Nights) | Pure Veg MAPAI Plan",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Pure Veg MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Gargee Grand / Lemon Tree luxury club | Rajgir Residency Luxury Wing",
+        "location": "Patna (3 Nights) / Rajgir (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Gargee Grand / Lemon Tree luxury club (Patna, 3 Nights) | Rajgir Residency Luxury Wing (Rajgir, 2 Nights) | Custom Jain Strict Menu",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room",
+        "meal_plan": "Custom Jain Strict Menu",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "VVIP Selected Premium Executive Suite | Premium Private Villa Eco-Resort Wing",
+        "location": "Patna (3 Nights) / Rajgir (2 Nights)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: VVIP Selected Premium Executive Suite (Patna, 3 Nights) | Premium Private Villa Eco-Resort Wing (Rajgir, 2 Nights) | Elite Chef Curated Meals",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Suite / Villa",
+        "meal_plan": "Elite Chef Curated Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 05 Nights accommodation in top-rated hospitality venues.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated AC Innova / Sedan for seamless transit.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Satvik Culinary Plan: Strictly pure vegetarian breakfast and gourmet dinners daily.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest relations officer on standby.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Holy literature guide, dry fruit platter, and refreshing hand towels.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved aerial ropeway passes for Vishwa Shanti Stupa.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, flight tickets, or trans-state long-distance train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal temple donation charges or specialized ritual material costs.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal laundry, premium telephone calls, soft drinks, or tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional excursions or monument video camera operational permits.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

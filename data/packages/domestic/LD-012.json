@@ -1,0 +1,298 @@
+{
+  "destination_slug": "lakshadweep",
+  "package": {
+    "slug": "ld-012-agatti-bangaram-thinnakara-island-discovery",
+    "serial_code": "LD-012",
+    "traguin_tour_code": "TRAGUIN-LD-012",
+    "title": "Agatti • Bangaram • Thinnakara Island Discovery",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code LD-012 | TRAGUIN tour code TRAGUIN-LD-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Lakshadweep, India | Category: Family Tour / Island Discovery",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations Covered: Agatti Island • Bangaram Island Paradise • Thinnakara Lagoon",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Multi-generational Groups, Leisure Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Best Time to Visit Lakshadweep)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private, fully assisted FIT Family Journey",
+        "sort_order": 7
+      },
+      {
+        "text": "Transfers: High-speed luxury boat transfers across islands",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: All-inclusive full meal plan tailored to satisfy all age groups",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Agatti Arrival → Bangaram Island → Thinnakara Lagoon → Agatti Cultural Tour → Departure",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Personalized assistance at every junction, handpicked hotels evaluated rigorously for multi-generational safety, customized culinary adaptations for children and seniors, and exclusive recommendations for hidden swimming reefs",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping & Local Experiences: Agatti island markets — handcrafted coconut shell items, premium pure virgin coconut oil, locally processed dry fish pickles, and handmade seashell decorative frames crafted by native island women",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Entry to Lakshadweep is highly restricted — all traveler documentation must be submitted to TRAGUIN at least 20 days prior to departure; boat transfers depend strictly on local coast guard weather clearances; early reservations recommended due to limited luxury inventory on Bangaram Island",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Island Discovery",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ld-012-agatti-bangaram-thinnakara-island-discovery-itinerary",
+    "title": "Agatti • Bangaram • Thinnakara Island Discovery",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Lakshadweep Family Tour Package • Agatti • Bangaram • Thinnakara Island Discovery • 05 Nights / 06 Days",
+    "overview": "Welcome to an unforgettable tropical retreat thoughtfully curated by TRAGUIN for your family. The pristine archipelago of Lakshadweep unfolds a canvas of breathtaking landscapes, unmatched scenic beauty, and vibrant turquoise lagoons that promise perfect bonding moments. This Luxury Lakshadweep Holiday brings together handpicked hotels, safety-first luxury marine transfers, and immersive experiences designed to bridge generations. Let the sun-kissed coral sands and iconic attractions weave unforgettable memories for your loved ones.\n\nOur elite Lakshadweep Family Tour is meticulously planned as a private, fully assisted FIT journey ensuring complete comfort and unhurried luxury. From seamless airport arrival protocols to premium island-hopping speedboats, this trip incorporates an all-inclusive full meal plan tailored to satisfy all age groups. Discover the true charm of premium stays nestled comfortably inside the absolute jewel of the Indian Ocean, featuring signature touches from our specialized TRAGUIN destination managers.\n\nWhy Visit Lakshadweep for a Family Vacation? Lakshadweep ranks as India's ultimate pristine island sanctuary. Free from commercial overcrowding, it offers an exceptionally safe, serene, and naturally therapeutic environment for parents, kids, and grandparents alike. The archipelago is globally celebrated for its most searched experiences, which include wading through shallow chest-deep crystal waters, spotting sea turtles in coral reefs, and exploring sandbars. The Top Tourist Places in Lakshadweep included in this package span the iconic deep-sea lagoons of Bangaram Island and the untouched scenery of Thinnakara Island. Popular Instagram locations—such as the water swings and traditional coconut groves—provide perfect spots for family portraits. From gentle glass-bottom boat sightseeing to interactive cultural exchanges, TRAGUIN Lakshadweep Packages deliver the premier luxury island getaway.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "LD-012 | Agatti Bangaram Thinnakara Island Discovery | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Lakshadweep family package (LD-012 / TRAGUIN-LD-012): Agatti, Bangaram Island, Thinnakara Lagoon, family beachside dinner, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Assisted Agatti arrival with luxury speedboat transfer to Bangaram Island Resort",
+        "sort_order": 1
+      },
+      {
+        "text": "Family lagoon exploration with guided coral reef safari and non-swimmer marine interaction zone",
+        "sort_order": 2
+      },
+      {
+        "text": "Exclusive day cruise to Thinnakara Island with shipwreck viewing and shallow sandbar walk",
+        "sort_order": 3
+      },
+      {
+        "text": "Exclusive Private Family Beachside Dinner featuring specialized multi-cuisine family menus under the starlight",
+        "sort_order": 4
+      },
+      {
+        "text": "Agatti native village cultural tour with museum, handloom, and craft demonstrations",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Assisted Agatti Arrival & Luxury Speedboat to Bangaram",
+        "description": "Step off your aircraft at the iconic Agatti Airport runway, flanked by turquoise waters on both sides. Your family will enjoy a traditional premium welcome by a dedicated TRAGUIN island coordinate team. We handle your baggage seamlessly as you move to the jetty for an exclusive, highly comfortable speed vessel transfer to the magnificent Bangaram Island Resort.",
+        "activities": [
+          "Sightseeing Included: Inter-island blue water transfer, check-in hospitality rituals at your premium beach bungalow.",
+          "Evening Experience: A relaxing family walk along the powdery beach ridge to witness a majestic tropical sunset.",
+          "Overnight Stay: Bangaram Island Beach Resort (Premium Beachfront Cottage)",
+          "Meals Included: Lunch & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Family Lagoon Exploration & Snorkeling Safari",
+        "description": "Wake up to panoramic views of endless ocean blue. Today, your family dives deep into the heart of Lakshadweep Sightseeing. Our certified naturalists guide you through safe, shallow-water snorkeling activities directly from the beach, allowing even absolute beginners and children to marvel at colorful marine life and gentle sea turtles.",
+        "activities": [
+          "Sightseeing Included: Guided coral reef safari, non-swimmer marine interaction zone.",
+          "Optional Activities: Glass-bottom boat rides for elderly family members, introductory family scuba diving.",
+          "Evening Experience: Beach volleyball, sandcastle building sessions for kids, followed by fresh local coconut water refreshments.",
+          "Overnight Stay: Bangaram Island Beach Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Exclusive Day Cruise to Thinnakara Island Paradise",
+        "description": "Board a private boat for an exclusive excursion to neighboring Thinnakara Island, a tiny uninhabited jewel of stunning scenic beauty. This island is surrounded by a massive, perfectly calm lagoon where children can paddle safely while parents relax under high-end shaded loungers curated by our team.",
+        "activities": [
+          "Sightseeing Included: Thinnakara Island discovery, shipwreck viewing point, shallow sandbar walk.",
+          "Photography Points: Continuous panoramic photo opportunities along the continuous white sand spits.",
+          "Evening Experience: High tea hosted right on the beach lagoon rim with family storytelling sessions.",
+          "Overnight Stay: Bangaram Island Beach Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Leisure Day with Special TRAGUIN Family Dinner",
+        "description": "A completely flexible day designed for maximum relaxation and zero travel fatigue. Stroll through the lush inner pathways of the island, read a book under a canopy of palms, or enjoy personal watercraft sports. Tonight features a signature celebratory dinner event arranged uniquely for your family by TRAGUIN specialists.",
+        "activities": [
+          "Sightseeing Included: Self-paced nature walks, inner-atoll photography trails.",
+          "Evening Experience: Exclusive Private Family Beachside Dinner featuring specialized multi-cuisine family menus under the starlight.",
+          "Overnight Stay: Bangaram Island Beach Resort",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Return Boat to Agatti & Native Village Cultural Tour",
+        "description": "Bid farewell to the serene oasis of Bangaram as your luxury speedboat journeys back to Agatti Island. Check into your premium oceanside air-conditioned villa. Spend the afternoon taking an easy, informative tour of the local township to learn about the islanders' authentic lifestyle, unique coir-craft industries, and ancient maritime history.",
+        "activities": [
+          "Sightseeing Included: Agatti local village walk, museum culture tour, traditional handloom and craft demonstration.",
+          "Evening Experience: Farewell island high-tea paired with traditional snacks at an iconic local seaside overlook.",
+          "Overnight Stay: Premium Agatti Lagoon Villa",
+          "Meals Included: Breakfast, Lunch & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Homebound Departure with Forever Memories",
+        "description": "Savor your last breakfast together while looking out at the turquoise waters. Collect your unique island souvenirs and pack a treasure trove of unforgettable memories from this Premium Lakshadweep Experience. Enjoy a seamless, short transfer directly to Agatti Airport for your onward flight home.",
+        "activities": [
+          "Meals Included: Premium Breakfast Buffet"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Bangaram Standard Beach Hut | Agatti Standard Ocean Stay",
+        "location": "Bangaram Island (4 Nights) / Agatti Island (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 01 – DELUXE: Bangaram Standard Beach Hut (4 Nights) | Agatti Standard Ocean Stay (1 Night) | Breakfast & Dinner Plan",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Standard Beach Hut / Standard Ocean Stay",
+        "meal_plan": "Breakfast & Dinner Plan",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Bangaram Executive Cottage | Agatti Island Premium Villa",
+        "location": "Bangaram Island (4 Nights) / Agatti Island (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 02 – PREMIUM: Bangaram Executive Cottage (4 Nights) | Agatti Island Premium Villa (1 Night) | Breakfast & Dinner Plan",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Executive Cottage / Premium Villa",
+        "meal_plan": "Breakfast & Dinner Plan",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Bangaram Premium Beach Bungalow | Agatti Premium Lagoon Suite",
+        "location": "Bangaram Island (4 Nights) / Agatti Island (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 03 – LUXURY: Bangaram Premium Beach Bungalow (4 Nights) | Agatti Premium Lagoon Suite (1 Night) | All-Inclusive Resort Dining",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium Beach Bungalow / Premium Lagoon Suite",
+        "meal_plan": "All-Inclusive Resort Dining",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Bangaram Deluxe Diamond Sea Front Villa | Agatti Presidential Oceanfront Villa",
+        "location": "Bangaram Island (4 Nights) / Agatti Island (1 Night)",
+        "nights_label": "05 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Bangaram Deluxe Diamond Sea Front Villa (4 Nights) | Agatti Presidential Oceanfront Villa (1 Night) | TRAGUIN Private Chef Dining",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Diamond Sea Front Villa / Presidential Oceanfront Villa",
+        "meal_plan": "TRAGUIN Private Chef Dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury Accommodation: Handpicked family-friendly premium stays.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Island Meals: Comprehensive gourmet breakfast, lunch, and dinner menus.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Marine Transfers: High-speed luxury boat transfers across islands.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Guided group excursions to Thinnakara Island lagoons.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Dedicated on-ground travel expert on standby 24/7.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Kit: Traditional welcome mocktails and a premium fruit basket upon arrival.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Mainland flights to and from Agatti Airport.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal water sports (Scuba diving, Jet ski rental, Kayaking).",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Laundry, mini-bar expenses, and international telephone bills.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal tips, portage services, and entry tickets for optional museums.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Any item not explicitly detailed in the inclusions column.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

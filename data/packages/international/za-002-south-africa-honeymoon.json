@@ -1,0 +1,453 @@
+{
+  "destination_slug": "south-africa",
+  "package": {
+    "slug": "za-002-south-africa-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "South Africa Honeymoon",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 88,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Cape Town (3N) → Franschhoek (1N) → Knysna (2N) → Safari Lodge (1N)",
+        "sort_order": 1
+      },
+      {
+        "text": "Private yacht sunset cruise & helicopter flight over Cape Peninsula",
+        "sort_order": 2
+      },
+      {
+        "text": "Franschhoek Wine Tram & ultra-luxury vineyard villa",
+        "sort_order": 3
+      },
+      {
+        "text": "Knysna lagoon catamaran & couples' spa ritual",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-ZA-002-HONEYMOON | Serial ZA-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Wildlife",
+      "Adventure",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "za-002-south-africa-honeymoon-itinerary",
+    "title": "South Africa Honeymoon",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Strictly Bespoke Honeymoon Pricing)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Cape Town • Franschhoek • Garden Route • Ultra-Luxury Safari",
+    "overview": "The South Africa Honeymoon Package by TRAGUIN delivers romance in its purest, most opulent form. From intimate sunset sailing in the shadow of Table Mountain to private plunge pools overlooking the African bush — with VIP honeymoon amenities and breathtaking landscapes tailored for couples.",
+    "is_featured": true,
+    "featured_sort_order": 88,
+    "seo_title": "ZA-002 | South Africa Honeymoon | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days South Africa honeymoon (ZA-002): Cape Town yacht cruise, helicopter flight, Franschhoek winelands, Knysna, and luxury safari.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Yacht Champagne Sunset Cruise",
+        "sort_order": 1
+      },
+      {
+        "text": "Helicopter Flight & VIP Table Mountain",
+        "sort_order": 2
+      },
+      {
+        "text": "Franschhoek Wine Tram Journey",
+        "sort_order": 3
+      },
+      {
+        "text": "Candlelit Boma Safari Dinner",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Cape Town — Arrival & Romantic Sunset Cruise",
+        "description": "VIP greeting by private luxury chauffeur. Ultra-luxury waterfront sanctuary with champagne welcome. Private luxury yacht sunset cruise across Table Bay.",
+        "activities": [
+          "Sightseeing Included: Private executive airport transfer, Premium Waterfront check-in",
+          "Evening Experience: Private Yacht Champagne Sunset Cruise",
+          "Overnight Stay: Cape Town (Premium Luxury Ocean Suite)",
+          "Meals Included: Welcome Honeymoon Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Cape Town — Helicopter Flight & Table Mountain VIP",
+        "description": "Exclusive private helicopter flight over the Atlantic coastline. Skip-the-line Table Mountain cableway. Kirstenbosch Botanical Gardens canopy paths.",
+        "activities": [
+          "Sightseeing Included: Private Helicopter Coastal Flight, VIP Table Mountain Cableway, Kirstenbosch",
+          "Evening Experience: Candlelight dining at award-winning oceanfront restaurant in Camps Bay",
+          "Overnight Stay: Cape Town",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Cape Town — Cape Peninsula & Secluded Beach Picnic",
+        "description": "Chapman's Peak Drive to Cape Point. Exclusive gourmet seafood picnic on a secluded white-sand beach with private butler service.",
+        "activities": [
+          "Sightseeing Included: Chapman's Peak Drive, Cape Point, Cape of Good Hope, Boulders Beach Penguins",
+          "Evening Experience: Casual luxury lounging at the V&A Waterfront",
+          "Overnight Stay: Cape Town",
+          "Meals Included: Premium Breakfast & Luxury Beach Picnic Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Franschhoek — Wine Tram & Boutique Vineyard Stay",
+        "description": "Vintage Wine Tram through Franschhoek valley. Private cellar tours and fine-wine masterclasses. Ultra-luxury vineyard villa with private heated plunge pool.",
+        "activities": [
+          "Sightseeing Included: Franschhoek Valley, Premium Hop-on Hop-off Wine Tram Tour",
+          "Evening Experience: Private estate dinner paired with exclusive museum-release wines",
+          "Overnight Stay: Franschhoek (Ultra-Luxury Vineyard Villa)",
+          "Meals Included: Premium Breakfast & Gourmet Vineyard Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Knysna — Garden Route & Exclusive Lagoon Cruise",
+        "description": "Scenic Garden Route drive to Knysna. Exclusive luxury catamaran cruise through Knysna Heads as the sky turns pink.",
+        "activities": [
+          "Sightseeing Included: Garden Route Scenic Transit, Private Knysna Heads Catamaran Cruise",
+          "Evening Experience: Oyster & Champagne tasting dinner on the water's edge",
+          "Overnight Stay: Knysna (Premium Cliffside Luxury Suite)",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Knysna — Cango Caves & Private Spa Ritual",
+        "description": "Private Cango Caves guided tour. 90-minute side-by-side couple's massage and hydrotherapy ritual at your premium resort.",
+        "activities": [
+          "Sightseeing Included: Cango Caves Heritage Tour, Oudtshoorn Valley Drive",
+          "Evening Experience: Relaxed, candlelit lagoon-side dinner",
+          "Overnight Stay: Knysna",
+          "Meals Included: Premium Breakfast & Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Luxury Safari Lodge — Honeymoon Safari & Boma Bonfire",
+        "description": "Ultra-luxury private game reserve suite. Sunset Big Five game drive. Candlelit boma bonfire dinner under the Southern Cross.",
+        "activities": [
+          "Sightseeing Included: Sunset Big Five Safari Drive, Private Lodge High Tea",
+          "Evening Experience: Candlelit Boma Fire Dinner under the Southern Cross constellation",
+          "Overnight Stay: Eastern Cape Luxury Safari Lodge (Ultra-Luxury Suite)",
+          "Meals Included: Premium Breakfast, Lunch, & Elite Safari Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Gqeberha — Sunrise Safari & Departure",
+        "description": "Final sunrise safari drive. Decadent Champagne breakfast. Private transfer to Gqeberha (Port Elizabeth) International Airport.",
+        "activities": [
+          "Sightseeing Included: Dawn Wildlife Safari Tracking",
+          "Transfers: Private Airport Executive Chauffeur Drop",
+          "Meals Included: Premium Breakfast / Champagne Brunch"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Westin Cape Town",
+        "location": "Cape Town",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Le Franschhoek Hotel",
+        "location": "Franschhoek",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Knysna Hollow Estate",
+        "location": "Knysna",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Kariega Game Reserve - Ukhozi Lounge",
+        "location": "Luxury Safari Lodge",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Full Board",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "The Table Bay Hotel",
+        "location": "Cape Town",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Franschhoek Country House",
+        "location": "Franschhoek",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Turbine Hotel & Spa",
+        "location": "Knysna",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Amakhala Bush Lodge",
+        "location": "Luxury Safari Lodge",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Full Board",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "One&Only Cape Town",
+        "location": "Cape Town",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Mont Rochelle (Virgin Limited)",
+        "location": "Franschhoek",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Simola Country Club",
+        "location": "Knysna",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Shamwari Private Reserve - Long Lee Manor",
+        "location": "Luxury Safari Lodge",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Full Board",
+        "image_media_id": null,
+        "sort_order": 12
+      },
+      {
+        "hotel_id": null,
+        "name": "The Silo Hotel (Penthouse)",
+        "location": "Cape Town",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 13
+      },
+      {
+        "hotel_id": null,
+        "name": "Leeu Estates (Studio Room)",
+        "location": "Franschhoek",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 14
+      },
+      {
+        "hotel_id": null,
+        "name": "Pezula Nature Retreat (Villa)",
+        "location": "Knysna",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 15
+      },
+      {
+        "hotel_id": null,
+        "name": "Shamwari - Eagles Crag Luxury Lodge",
+        "location": "Luxury Safari Lodge",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Full Board",
+        "image_media_id": null,
+        "sort_order": 16
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in ultra-luxury honeymoon suites across Cape Town, Franschhoek, Knysna, and safari lodge",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Honeymoon privileges: premium champagne, welcome flowers, and private candlelight dining upgrades",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated private chauffeur service in luxury vehicles throughout",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive private helicopter flight over the Cape Peninsula",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "VIP Table Mountain, Wine Tram passes, private lagoon catamaran cruise, and two premium safari drives",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary 90-minute couples side-by-side spa therapy experience",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 priority honeymoon concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International and domestic internal flight tickets",
+        "sort_order": 100
+      },
+      {
+        "kind": "excluded",
+        "text": "South African tourist visa fees and processing charges",
+        "sort_order": 101
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, premium liquors, telephone calls, and gratuities",
+        "sort_order": 102
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure activities like shark cage diving, bungee jumping, or skydiving",
+        "sort_order": 103
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive international travel and health insurance",
+        "sort_order": 104
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "destination_slug": "australia",
+  "package": {
+    "slug": "au-001-australia-highlights-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Australia Highlights Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 30,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sydney (3N) → Cairns (2N) → Gold Coast (2N) family circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Sydney Opera House, Taronga Zoo & Blue Mountains",
+        "sort_order": 2
+      },
+      {
+        "text": "Great Barrier Reef luxury snorkel expedition",
+        "sort_order": 3
+      },
+      {
+        "text": "Gold Coast beaches & theme park VIP access",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-AUS-HIGHLIGHTS-2026 | Serial AU-001",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature",
+      "Wildlife",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "au-001-australia-highlights-itinerary",
+    "title": "Australia Highlights Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Australia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sydney • Great Barrier Reef • Gold Coast",
+    "overview": "Embark on an epic Southern Hemisphere journey with TRAGUIN's curated Australian family expedition. Blending the iconic skyline of Sydney, the marine wonders of the Great Barrier Reef, and the vibrant coastal surf culture of the Gold Coast, this luxury Australia holiday offers unforgettable memories, breathtaking landscapes, and exclusive experiences for your family. Includes private executive vehicle transits, pre-vetted family-friendly accommodation hubs, and skip-the-line group entry protocols backed by 24/7 on-ground concierge support. Best season: September to April.",
+    "is_featured": true,
+    "featured_sort_order": 30,
+    "seo_title": "AU-001 | Australia Highlights Family Tour | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Australia family package (AU-001): Sydney Opera House, Great Barrier Reef, Blue Mountains, Taronga Zoo, and Gold Coast theme parks.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sydney Opera House Private Tour",
+        "sort_order": 1
+      },
+      {
+        "text": "Great Barrier Reef Snorkel Cruise",
+        "sort_order": 2
+      },
+      {
+        "text": "Blue Mountains & Three Sisters",
+        "sort_order": 3
+      },
+      {
+        "text": "Taronga Zoo Wildlife Encounter",
+        "sort_order": 4
+      },
+      {
+        "text": "Gold Coast Theme Park Express Entry",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Sydney & Harbour Welcome",
+        "description": "Private chauffeur transfer to your waterfront hotel. Evening walk around Circular Quay with views of the Sydney Opera House and Harbour Bridge.",
+        "activities": [
+          "Sightseeing Included: VIP airport reception, Circular Quay orientation walk",
+          "Evening Experience: Family welcome dinner at upscale waterfront restaurant",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: International Welcome Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Sydney Icons & Wildlife Encounter",
+        "description": "Private tour of the Sydney Opera House. Afternoon at Taronga Zoo with koalas and kangaroos.",
+        "activities": [
+          "Sightseeing Included: Opera House guided tour, Taronga Zoo wildlife encounter",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: Breakfast & Casual Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Blue Mountains Adventure",
+        "description": "Day trip to the Blue Mountains including Three Sisters viewpoint and Scenic World railway and cable car adventures.",
+        "activities": [
+          "Sightseeing Included: Blue Mountains tour, Three Sisters viewpoint, Scenic World adventure passes",
+          "Overnight Stay: Sydney Harbour (Premium Family Hotel)",
+          "Meals Included: Breakfast & Picnic Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Sydney to Cairns & Reef Gateway",
+        "description": "Fly to Cairns and check into your tropical resort. Relaxed afternoon by the pool or Cairns Esplanade stroll.",
+        "activities": [
+          "Sightseeing Included: Flight transit, tropical resort check-in",
+          "Overnight Stay: Cairns (Luxury Family Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Great Barrier Reef Expedition",
+        "description": "Luxury vessel cruise to the Great Barrier Reef with snorkeling in pristine coral waters.",
+        "activities": [
+          "Sightseeing Included: Private cruise to Great Barrier Reef, snorkeling activities",
+          "Overnight Stay: Cairns (Luxury Family Resort)",
+          "Meals Included: Breakfast & Buffet Reef Lunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Cairns to Gold Coast Beaches",
+        "description": "Fly to the Gold Coast and check into a beachfront resort. Afternoon at Surfers Paradise beach.",
+        "activities": [
+          "Sightseeing Included: Flight transit, beachfront relaxation time",
+          "Overnight Stay: Gold Coast (Premium Beachfront Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Gold Coast Theme Park Fun",
+        "description": "Full day at a famous Gold Coast theme park with express entry. Grand farewell gala dinner.",
+        "activities": [
+          "Sightseeing Included: Theme park day pass, express entry",
+          "Evening Experience: Grand farewell gala dinner party",
+          "Overnight Stay: Gold Coast (Premium Beachfront Resort)",
+          "Meals Included: Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Departure",
+        "description": "Final luxury breakfast before private airport transfer.",
+        "activities": [
+          "Sightseeing Included: Private airport transit, luggage assistance",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pier One Sydney Harbour / similar",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pullman Reef Hotel Casino / similar",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Mantra Legends Surfers Paradise / similar",
+        "location": "Gold Coast",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Shangri-La Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Crystalbrook Riley",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Sheraton Grand Mirage",
+        "location": "Gold Coast",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Crown Towers Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Silky Oaks Lodge",
+        "location": "Cairns / Port Douglas",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "The Darling",
+        "location": "Gold Coast",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Park Hyatt Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Pullman Reef Hotel",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "The Langham Gold Coast",
+        "location": "Gold Coast",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in handpicked premium family hotels across Sydney, Cairns, and Gold Coast",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flight coordination between Sydney, Cairns, and Gold Coast sectors",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Great Barrier Reef luxury cruise with snorkeling activities",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Theme park express entry passes on Gold Coast",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Skip-the-line group entry protocols to major parks and attractions",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Australia entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

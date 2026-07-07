@@ -1,0 +1,372 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-013-ranikhet-almora-kausani-peaceful-escape",
+    "serial_code": "UK-013",
+    "traguin_tour_code": "TR-UK-FAM13",
+    "title": "Ranikhet • Almora • Kausani Peaceful Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UK-013 | TRAGUIN tour code TR-UK-FAM13",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Uttarakhand, India | Category: Family Peaceful Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ranikhet, Almora, Kausani",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Leisure Seekers, Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to June",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle & Meals: Private Luxury SUV (Innova Crysta) | Modified American Plan (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Kathgodam – Ranikhet – Kausani – Almora – Kathgodam",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Curated Experience Note: Enjoy smooth hill transfers with experienced terrain drivers, premium boutique resort stays offering panoramic mountain views, specialized slow-travel pacing for family relaxation, and dedicated local support.",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A private family sunset high-tea arranged overlooking the Himalayan valleys.",
+        "sort_order": 10
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Slow-travel paths avoiding sharp stress points, optimized for family comfort.",
+        "sort_order": 11
+      },
+      {
+        "text": "Personalized Assistance: Transparent digital trip management with real-time route coordinators.",
+        "sort_order": 12
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties offering excellent family suites, exceptional safety, and scenic views.",
+        "sort_order": 13
+      },
+      {
+        "text": "Luxury Transportation: Highly verified mountain drivers ensuring smooth and comfortable road transits.",
+        "sort_order": 14
+      },
+      {
+        "text": "Shopping & Local Experiences: Famous Shopping Items: Buy genuine Kausani handwoven woolen shawls and organic high-altitude green teas. Local Souvenirs: Traditional Kumaoni Bal Mithai and rhododendron juice. Instagram & Family Spots: Wide panoramic terraces at Kausani and the monumental ancient deodar shadow temples at Jageshwar.",
+        "sort_order": 15
+      },
+      {
+        "text": "Important Notes: Hotel Policies: Resort check-in begins at 13:00 hrs; check-out is at 11:00 hrs. Room configuration changes depend strictly on seasonal availability. Weather Notes: Summer offers cool breezy days (15°C to 25°C); winters bring crisp cold weather perfect for heavy snow viewpoints. Transport Rules: Our premium vehicles strictly follow safety regulations; mountain driving is limited to daylight hours for safety. Advance Booking Suggestions: Best Time to Visit Uttarakhand mountain ranges sees heavy demand; advance bookings guarantee peak-facing luxury suites.",
+        "sort_order": 16
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Peaceful",
+      "Hills"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-013-ranikhet-almora-kausani-peaceful-escape-itinerary",
+    "title": "Ranikhet • Almora • Kausani Peaceful Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Ranikhet • Almora • Kausani Peaceful Escape • 05 Nights / 06 Days",
+    "overview": "Escape into the serene, untouched green valleys of Kumaon with our specially curated Luxury Uttarakhand Holiday. Tailored perfectly for family bonding, this journey avoids commercial rush, leading you straight into majestic pine forests, historical heritage temples, and quiet meadows. From the deep mist-covered forests of Ranikhet and the cultural treasures of Almora to the panoramic snow-clad Himalayan ranges of Kausani, this Premium Uttarakhand Experience by TRAGUIN promises breathtaking landscapes, premium stays, and unforgettable memories for your entire family.\n\nTOUR OVERVIEW\nTravel Dates: Bespoke / Customizable FIT\nMeal Plan: Modified American Plan (Breakfast & Dinner)\nVehicle: Private Luxury SUV (Innova Crysta)\nRoute: Kathgodam – Ranikhet – Kausani – Almora – Kathgodam\n\nTRAGUIN Curated Experience Note: Enjoy smooth hill transfers with experienced terrain drivers, premium boutique resort stays offering panoramic mountain views, specialized slow-travel pacing for family relaxation, and dedicated local support.\n\nWhy Visit Uttarakhand's Kumaon Hills? Far away from overly commercialized hill stations, the peaceful triangle of Ranikhet, Almora, and Kausani offers a breath of clean mountain air, pristine oak-pine woodlands, and panoramic sights of high Himalayan ranges including Nanda Devi and Trishul peaks.\n\nFamous Attractions & Most Searched Experiences: The highlights include the rolling green meadows of Ranikhet Golf Course, the grand historical Katarmal Sun Temple, the Anasakti Ashram in Kausani (where Mahatma Gandhi stayed), and the ancient spiritual complex of Jageshwar Dham near Almora.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UK-013 | Ranikhet Almora Kausani Peaceful Escape | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Uttarakhand package (UK-013 / TR-UK-FAM13): Ranikhet, Kausani, Almora, Jageshwar Dham, and 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Upat Golf Course, Chaubatia Orchards, Jhula Devi Temple, and Ranikhet pine forests",
+        "sort_order": 1
+      },
+      {
+        "text": "Katarmal Sun Temple, Kausani viewpoints, Anasakti Ashram, and tea garden walks",
+        "sort_order": 2
+      },
+      {
+        "text": "Jageshwar Dham temple complex, Deodar Forest Sanctuary, and Almora heritage market",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family sunset high-tea overlooking Himalayan valleys",
+        "sort_order": 4
+      },
+      {
+        "text": "4-tier handpicked accommodation across Ranikhet and Kausani with Almora boutique stay",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "KATHGODAM TO RANIKHET – HILLS OF THE QUEEN",
+        "description": "Your family's mountain getaway begins with a refreshing morning arrival at Kathgodam railway station or corporate pick-up point. Meet your expert terrain chauffeur and step inside your premium private vehicle for a scenic, smooth upward drive to Ranikhet—popularly known as the Queen's Meadow. The winding route introduces your family to breathtaking landscapes and majestic pine forests. Upon check-in at your handpicked boutique luxury resort, take the afternoon to unwind and breathe in the crisp mountain air. In the evening, take a gentle family walk down Mall Road or relax inside the manicured lawns of your premium stay.",
+        "activities": [
+          "Sightseeing Included: Scenic hillside drive, scenic photography viewpoints.",
+          "Evening Experience: Welcome high-tea with sunset view over valleys.",
+          "Overnight Stay: Ranikhet (Premium Handpicked Resort).",
+          "Meals Included: Welcome Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RANIKHET SIGHTSEEING – ORCHARDS, MEADOWS & HERITAGE",
+        "description": "Savor a hearty breakfast looking out at the mist-kissed hills. Today, discover the top attractions of this military hill station. Visit the expansive Upat Army Golf Course, one of the highest 9-hole golf courses in Asia, offering rolling green turfs perfect for a beautiful family photograph. Move forward to the serene Chaubatia Orchards, famous for apple, peach, and plum plantations, framed by views of the Himalayan peaks. Later, explore the spiritual tranquility of Jhula Devi Temple, known for thousands of copper bells tied by wishes over centuries. Spend your evening gathering together to enjoy local Kumaoni cuisine and stories.",
+        "activities": [
+          "Sightseeing Included: Upat Golf Course, Chaubatia Orchards, Jhula Devi Temple.",
+          "Local Experiences: Interaction with local fruit growers and walking in pine forests.",
+          "Overnight Stay: Ranikhet.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "RANIKHET TO KAUSANI – DRIVING TO THE SWITZERLAND OF INDIA",
+        "description": "After a refreshing breakfast, journey deeper into the tranquil heart of the hills towards Kausani. En route, stop at the mesmerizing Katarmal Sun Temple near Almora, an architectural heritage site from the 9th century boasting exquisite stone carvings. Continue your drive to Kausani, a peaceful village famously called the Switzerland of India by Mahatma Gandhi due to its stunning natural beauty. Check-in at your luxury mountain-view resort, uniquely positioned to offer an uninterrupted look at the snow peaks. Witness a dramatic, deep-orange sunset striking across Nanda Devi, Trishul, and Panchachuli ranges right from your balcony.",
+        "activities": [
+          "Sightseeing Included: Katarmal Sun Temple, Kausani viewpoints.",
+          "Evening Experience: Private family bonfire with acoustic music or stargazing.",
+          "Overnight Stay: Kausani (Luxury Valley-Facing Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KAUSANI SIGHTSEEING – TEA GARDENS & PHILOSOPHICAL RETREATS",
+        "description": "Wake up early to catch a breathtaking mountain sunrise that paints the entire snow range in pink and gold. After breakfast, visit the peaceful Anasakti Ashram, where Mahatma Gandhi spent time writing his commentaries on Gita, filled with rare historical photographs and deep silence. Next, take a leisurely, immersive walk through the rolling green terraces of the Kausani Tea Estate, sampling fresh orthodox hill teas. Later, visit the traditional Shawl Weaving Center to see local artisans keeping Kumaon's heritage alive, making it an educational and culturally enriching experience for children and adults alike.",
+        "activities": [
+          "Sightseeing Included: Anasakti Ashram, Kausani Tea Garden, Local Weaving Center.",
+          "Optional Activities: Tea tasting session and picking organic estate leaves.",
+          "Overnight Stay: Kausani.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KAUSANI TO ALMORA VIA JAGESHWAR DHAM – ANCIENT SPIRITUALITY",
+        "description": "Depart Kausani after breakfast and drive down through scenic, slow paths towards the cultural capital of Kumaon—Almora. Today features an exclusive excursion to Jageshwar Dham, a sacred cluster of over 125 ancient stone temples tucked deeply inside a dense forest of giant Deodar trees. The sheer quietness and ancient stone symmetry create an unforgettable atmosphere. Later, check into your boutique resort in Almora. Spend the evening enjoying the peaceful mountain property, reflecting on the wonderful memories shared during this Best Uttarakhand Family Tour.",
+        "activities": [
+          "Sightseeing Included: Jageshwar Dham Temple Complex, Deodar Forest Sanctuary.",
+          "Evening Experience: Traditional Kumaoni farewell dinner hosted by the resort.",
+          "Overnight Stay: Almora (Boutique Heritage Resort).",
+          "Meals Included: Breakfast & Farewell Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "ALMORA TO KATHGODAM – DEPARTURE WITH CHERISHED MEMORIES",
+        "description": "Savor your last morning breakfast facing the mist-filled valley. Pack your bags at a very relaxed pace. Before heading down the hills, make a brief stop at the traditional Almora bazaar to purchase local sweets and handicrafts. Your private luxury vehicle will then smoothly transfer your family back to Kathgodam railway station or airport for your journey onward. Your Luxury Uttarakhand Holiday concludes, leaving your family with refreshed minds and bondings forged amidst nature.",
+        "activities": [
+          "Sightseeing Included: Almora local heritage market walk, assisted departure transfer.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Woodsvilla Resort",
+        "location": "Ranikhet",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Woodsvilla Resort, Ranikhet (02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Pine View Deluxe Room",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Krishna Mountview Resort",
+        "location": "Kausani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 01 – DELUXE: Krishna Mountview Resort, Kausani (02 Nights)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Chevron Rosemount",
+        "location": "Ranikhet",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Chevron Rosemount, Ranikhet (02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Heritage Room",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Sun n Snow Inn",
+        "location": "Kausani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 02 – PREMIUM: Sun n Snow Inn, Kausani (02 Nights)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Himalayan View Room",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "WelcomHeritage Ashoka's Tiger Trail",
+        "location": "Ranikhet",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: WelcomHeritage Ashoka's Tiger Trail, Ranikhet (02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Room",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "The Heritage Resort",
+        "location": "Kausani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 03 – LUXURY: The Heritage Resort, Kausani (02 Nights)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Super Deluxe Himalayan Facing",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "10 Nautical Miles",
+        "location": "Ranikhet",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: 10 Nautical Miles, Ranikhet (02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Mountain Cottage",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Buransh Luxury Wellness Resort",
+        "location": "Kausani",
+        "nights_label": "02 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: The Buransh Luxury Wellness Resort, Kausani (02 Nights)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Panorama Suite",
+        "meal_plan": "MAP (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 05 Nights luxury stay in handpicked, family-centric premium resorts.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily multi-cuisine buffet breakfasts and multi-course curated dinners at all resorts.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: All transfers, sightseeing tours, and inter-city hill travels via private, luxury Innova Crysta.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Complete curated sightseeing tours as detailed in the daily family itinerary.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: Personalized 24/7 dedicated remote support from TRAGUIN experts.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Refreshing non-alcoholic welcome drinks, fresh mineral water, and mountain travel essential kit.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Private family evening bonfire session and custom tea-estate entry clearance.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Support: Toll taxes, parking charges, fuel fees, and driver allowances fully handled under TRAGUIN support.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight or train ticket reservations to and from Kathgodam.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permissions, or historic site guide fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses like laundry, room service, telephone calls, and traditional tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Any adventure activity or sports fees not detailed in the itinerary.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance coverage policies and extra lunch arrangements.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

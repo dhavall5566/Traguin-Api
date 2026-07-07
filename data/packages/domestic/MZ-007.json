@@ -1,0 +1,302 @@
+{
+  "destination_slug": "mizoram",
+  "package": {
+    "slug": "mz-007-premium-hills-of-mizoram-family-getaway",
+    "serial_code": "MZ-007",
+    "traguin_tour_code": "TRG-MIZ-HLS-2026",
+    "title": "Premium Hills of Mizoram Family Getaway",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MZ-007 | TRAGUIN tour code TRG-MIZ-HLS-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Mizoram / India | Category: Best Mizoram Family Getaway Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Aizawl Peaks • Scenic Mountain Trails • Cultural Heritage • Family Bonding Landscapes",
+        "sort_order": 3
+      },
+      {
+        "text": "Duration: 05 Nights / 06 Days",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Hills of Mizoram Family Getaway with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Private transfers and dedicated Luxury SUV throughout the journey",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN 24/7 guest experience manager on call",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "mz-007-premium-hills-of-mizoram-family-getaway-itinerary",
+    "title": "Premium Hills of Mizoram Family Getaway",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Aizawl Peaks • Scenic Mountain Trails • Cultural Heritage • Family Bonding Landscapes",
+    "overview": "TRAGUIN PREMIUM HILLS OF MIZORAM FAMILY GETAWAY — Aizawl Peaks • Scenic Mountain Trails • Cultural Heritage • Family Bonding Landscapes. 05 Nights / 06 Days Relaxing Hills of Mizoram Family Sojourn.\n\nTOUR OVERVIEW\nEscape to the serene, mist-covered hills of Mizoram with this TRAGUIN curated family getaway. Designed to offer a perfect mix of cultural discovery and peaceful mountain leisure, this Hills of Mizoram itinerary ensures your family enjoys premium stays, comfortable exploration, and unforgettable memories in Northeast India's most scenic landscape.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MZ-007 | Premium Hills of Mizoram Family Getaway | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Mizoram package (MZ-007 / TRG-MIZ-HLS-2026): Aizawl Peaks • Scenic Mountain Trails • Cultural Heritage • Family Bonding Landscapes with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN AIZAWL & MOUNTAIN WELCOME",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: AIZAWL CULTURAL DISCOVERY",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SCENIC HILL STATION EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: VALLEY VISTAS & FAMILY BONDING",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: LOCAL CRAFTS & FAREWELL DINNER",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN curated Premium Hills of Mizoram Family Getaway with handpicked premium stays",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN AIZAWL & MOUNTAIN WELCOME",
+        "description": "Arrive in Aizawl, the capital of Mizoram. Private transfer to your handpicked premium resort. Enjoy a quiet evening with spectacular panoramic views of the hills.",
+        "activities": [
+          "Private transfer to premium resort.",
+          "Quiet evening with panoramic hill views.",
+          "Overnight Stay: Aizawl Premium Resort",
+          "Meals Included: MAPAI Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "AIZAWL CULTURAL DISCOVERY",
+        "description": "Explore the cultural highlights of Aizawl at a family-friendly pace. Visit museums and local heritage centres, learning about Mizo traditions and iconic attractions.",
+        "activities": [
+          "Family-friendly cultural exploration.",
+          "Museums and heritage centres — Mizo traditions.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SCENIC HILL STATION EXCURSION",
+        "description": "A relaxing drive through the stunning mountain vistas. Visit heritage viewpoints and enjoy the fresh mountain air, capturing breathtaking landscapes together.",
+        "activities": [
+          "Relaxing drive through mountain vistas.",
+          "Heritage viewpoints and breathtaking landscapes.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "VALLEY VISTAS & FAMILY BONDING",
+        "description": "Spend a peaceful day enjoying the scenic beauty of local valleys, visiting quiet parks, and sharing quality time in the tranquil Mizo hillside.",
+        "activities": [
+          "Scenic valley beauty and quiet parks.",
+          "Quality family time in tranquil hillside.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LOCAL CRAFTS & FAREWELL DINNER",
+        "description": "Discover local arts and crafts, pick up unique souvenirs, and celebrate your final evening with a grand family farewell dinner, creating unforgettable memories.",
+        "activities": [
+          "Local arts, crafts, and souvenirs.",
+          "Grand family farewell dinner.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE",
+        "description": "Final breakfast before your TRAGUIN private transfer to the airport, completing your premium Mizoram family getaway.",
+        "activities": [
+          "Private transfer to airport.",
+          "Meals Included: Farewell Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Arini / Budget Hill Retreats",
+        "location": "Aizawl & Scenic Retreats",
+        "nights_label": "5N Aizawl & Scenic Retreats",
+        "description": "OPTION 01 – DELUXE: Hotel Arini / Budget Hill Retreats | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Classic Aizawl Resorts / Mountain View Heritage Stays",
+        "location": "Aizawl & Scenic Retreats",
+        "nights_label": "5N Aizawl & Scenic Retreats",
+        "description": "OPTION 02 – PREMIUM: Classic Aizawl Resorts / Mountain View Heritage Stays | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Mountain View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Reiek Mountain View Resort / Heritage Hill Villas",
+        "location": "Aizawl & Scenic Retreats",
+        "nights_label": "5N Aizawl & Scenic Retreats",
+        "description": "OPTION 03 – LUXURY: Reiek Mountain View Resort / Heritage Hill Villas | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Heritage Villa",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Aizawl Panorama Heritage Palaces / Blue Mountain Family Suites",
+        "location": "Aizawl & Scenic Retreats",
+        "nights_label": "5N Aizawl & Scenic Retreats",
+        "description": "OPTION 04 – ULTRA LUXURY: Aizawl Panorama Heritage Palaces / Blue Mountain Family Suites | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Family Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 5 Nights in handpicked Mizoram properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Luxury SUV for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: MAPAI — daily breakfast and dinner at handpicked venues.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Airport/railway arrival and departure transfers in premium AC vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Stays: TRAGUIN-vetted accommodations matching your selected tier.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable taxes, driver allowances, tolls, and parking charges for the private vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Family-friendly sightseeing with cultural discovery and scenic mountain leisure throughout.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, or sanctuary entry fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical expenses, and any emergency evacuation costs.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

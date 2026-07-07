@@ -1,0 +1,276 @@
+{
+  "destination_slug": "haryana",
+  "package": {
+    "slug": "hr-008-gurgaon-mice-excellence",
+    "serial_code": "HR-008",
+    "traguin_tour_code": "TRG-GURG-MICE-008",
+    "title": "Gurgaon MICE Excellence",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HR-008 | TRAGUIN tour code TRG-GURG-MICE-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Haryana / India | Category: Corporate MICE &",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Haryana",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Retreats, Team Building, Strategy Sessions, Executive MICE",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (Best from October to March)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Bespoke Group Quotation)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium Luxury Coaches & Luxury Innova / All Inclusive Boarding",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Customized team-building modules developed by corporate coaches to",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless coordination between the conference program and leisure",
+        "sort_order": 9
+      },
+      {
+        "text": "Luxury Transportation Layout: High-end executive coaches fitted with onboard Wi-Fi connectivity and",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Priority reservations at CyberHub’s premier restaurants and private",
+        "sort_order": 11
+      },
+      {
+        "text": "& CORPORATE TERMS",
+        "sort_order": 12
+      },
+      {
+        "text": "Advance Booking Guidelines: MICE retreat confirmations require a minimum 30-day notice period to",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Heritage"
+    ]
+  },
+  "itinerary": {
+    "slug": "hr-008-gurgaon-mice-excellence-itinerary",
+    "title": "Gurgaon MICE Excellence",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Group Quotation)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Gurgaon MICE Excellence",
+    "overview": "GURGAON MICE EXCELLENCE • INNOVATION, COLLABORATION & TEAM ALIGNMENT Welcome to an ultra-premium executive experience conceptualized and managed by TRAGUIN. This exclusive Gurgaon Corporate Retreat is meticulously structured for high-performance leadership team alignment, high-impact strategic conferences, and sophisticated corporate team-building events. Elevate your corporate culture against the backdrop of Gurgaon's soaring skyscrapers, world-class business ecosystems, and luxurious secluded resorts. TRAGUIN transforms conventional corporate itineraries into deeply immersive experiences, seamlessly combining state-of-the-art conference infrastructure with handpicked hotels, breathtaking landscapes, and unforgettable memories.\n\nTOUR OVERVIEW\nThis elite 4-Day Corporate MICE itinerary is designed to maximize executive networking, team motivation, and leadership collaboration. Your team will experience the absolute pinnacle of luxury business travel, supported by premium transportation layouts including high-end executive coaches and private luxury sedans. Accommodating all elements of custom business retreats, our program integrates state-of-the-art boardrooms, premium catering menus, dedicated AV coordinators, and custom corporate team building games. From initial airport transfers to the final gala banquet night, every touchpoint reflects the signature TRAGUIN curated experience guarantee—ensuring seamless execution, flawless prestige, and zero-downtime productivity.\n\nWHY CHOOSE GURGAON FOR YOUR PREMIUM CORPORATE MICE\nRETREAT? When organizations research the Best Gurgaon Tour Package for corporate engagements, they discover a cosmopolitan epicenter that blends dynamic business venues with elite leisure facilities. Gurgaon stands out as the ultimate destination for a Luxury Gurgaon Holiday built around professional corporate development. Hosting an expansive grid of global corporations, Gurgaon offers iconic attractions ranging from the magnificent CyberHub lifestyle precinct to the tranquil, scenic beauty of eco-friendly resorts in Manesar and the therapeutic hot springs of Sohna. Whether planning a focused Gurgaon Family Tour for employee engagement rewards, a grand corporate milestone gala, or looking for premium handpicked properties for an executive summit, our highly sought-after TRAGUIN Gurgaon Packages deliver impeccable premium stays and customized exclusive experiences. From premium brand retail shopping at upscale luxury malls to high-octane team adventure challenges, selecting the Best Time to Visit Gurgaon ensures your executive team experiences the finest conference facilities, top tourist places in Gurgaon, and unmatched luxury transport configurations in Northern India.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HR-008 | Gurgaon MICE Excellence | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Haryana package (HR-008 / TRG-GURG-MICE-008): Haryana with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GURGAON & HIGH-IMPACT NETWORKING",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: STRATEGY SYMPOSIUM & COLLABORATIVE TEAM-BUILDING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HERITAGE EXPLORATION & GRAND GALA AWARDS NIGHT",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: WELLNESS IN SOHNA & CORPORATE DEPARTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Customized team-building modules developed by corporate coaches to",
+        "sort_order": 5
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless coordination between the conference program and leisure",
+        "sort_order": 6
+      },
+      {
+        "text": "Luxury Transportation Layout: High-end executive coaches fitted with onboard Wi-Fi connectivity and",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GURGAON & HIGH-IMPACT NETWORKING",
+        "description": "WELCOME CONCIERGE, CHECK-IN & CYBER CITY EXCURSION Arrive at New Delhi International Airport, where a private executive concierge from TRAGUIN welcomes your corporate delegation with VIP arrival amenities. Board your premium luxury transportation coach and transfer directly to your handpicked ultra-luxury hotel in Gurgaon. After checking into your premium stays, assemble in the main executive boardroom for an analytical pre-retreat briefing and a networking luncheon. In the evening, visit CyberHub—the crown jewel of Gurgaon sightseeing—for a curated corporate dine-around experience, perfectly blending upscale social dynamics with unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: CyberHub Promenade, Galleria Luxury High-street, Sector 29 Entertainment Hub.",
+          "Evening Experience: Exclusive ice-breaking cocktail reception and gourmet dinner at a premium restaurant.",
+          "Overnight Stay: Gurgaon (Five-Star Luxury Hotel)",
+          "Meals Included: Welcome Drink, Business Lunch & Gourmet Networking Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "STRATEGY SYMPOSIUM & COLLABORATIVE TEAM-BUILDING",
+        "description": "CONFERENCE WORKSHOPS & HIGH-OCTANE ADVENTURE EXCURSIONS Commence the day with a gourmet breakfast before gathering in the grand ballroom for your annual corporate strategy conference, equipped with premium AV systems and high-speed enterprise connectivity. Following a business networking lunch, transition to an intensive, immersive team-building experiential session curated by TRAGUIN experts at a premium adventure resort. Participate in structured team-building games, leadership problem-solving scenarios, and high-energy trust activities designed to enhance organizational communication and foster unforgettable team synergy.",
+        "activities": [
+          "Sightseeing Included: Premium Adventure Outpost, Leisure Valley Botanical Park, Instagram lifestyle hot-spots.",
+          "Optional Activities: Professional corporate portraiture and dynamic team highlight video drone capture.",
+          "Overnight Stay: Gurgaon (Five-Star Luxury Hotel)",
+          "Meals Included: Gourmet Breakfast, Mid-session High Tea, and Executive Buffet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HERITAGE EXPLORATION & GRAND GALA AWARDS NIGHT",
+        "description": "TRANSPORT MUSEUM TO ROYAL GALA EXTRAVAGANZA Enjoy a premium breakfast before heading out on a scenic drive to the Heritage Transport Museum, celebrated as one of the top tourist places in Gurgaon and a popular Instagram location for high-profile executive groups. Explore India's rich transport legacy through beautifully restored vintage cars and historic aviation exhibits. Return to the resort for an afternoon of leisure, spa therapies, or golf matches. As twilight falls, gather for the highlight of the retreat—the Grand Gala Awards Night, featuring live entertainment, executive award presentations, and custom dining arrangements. perimeter).",
+        "activities": [
+          "Sightseeing Included: Heritage Transport Museum private guided tour, Sultanpur Bird Sanctuary (scenic",
+          "Evening Experience: Red-carpet corporate awards presentation ceremony with a premium live band.",
+          "Overnight Stay: Gurgaon Luxury Golf & Spa Resort Hub",
+          "Meals Included: Lavish Breakfast, Curated Mid-day Lunch, and Gala Celebratory Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "WELLNESS IN SOHNA & CORPORATE DEPARTURE",
+        "description": "MINDFULNESS REFLECTION & TRANSFERS TO NEW DELHI Begin your final morning with an optional wellness and mindfulness meditation session overlooking the tranquil, scenic beauty of the Shivalik foothills near Sohna. Gather for a final executive farewell brunch to recap key strategic takeaways from the retreat. Pack your luggage and board your premium transport coaches as TRAGUIN ensures a seamless transfer back to New Delhi International Airport or Railway Station, concluding a world-class corporate experience filled with strategy, success, and unforgettable memories.",
+        "activities": [
+          "Transfers Included: Synchronized group coach drops to Airport/Railway hubs.",
+          "Meals Included: International Farewell Brunch Arrangement"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Kimaya / Similar",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Kimaya / Similar | Executive Room | MAPAI",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Red Castle / Divine Clerks",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 02 – PREMIUM: Hotel Red Castle / Divine Clerks | Super Deluxe Room | MAPAI",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Super Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Pearl Resort & Spa / Similar",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 03 – LUXURY: The Pearl Resort & Spa / Similar | Luxury Suite | MAPAI",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Curated Heritage Boutique Farm & Wellness Villa",
+        "location": "Kurukshetra",
+        "nights_label": "03 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Curated Heritage Boutique Farm & Wellness Villa | Royal Club Villa | All Inclusive",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Royal Club Villa",
+        "meal_plan": "All Inclusive Premium Meals",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: Chosen luxury rooms with twin/single configurations.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private luxury coaches for transfers, airport runs, & excursions.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "MICE Infrastructure: 1 Full-day conference hall use with projectors, audio, and pads.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Full Board Catering: Multi-cuisine breakfast, premium lunches, and themed dinners.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome & Branding: Specialized group registration, welcome drinks, and check-in help.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: On-site MICE operations manager overseeing all event timelines.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfares, flight adjustments, or interstate railway booking tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Liquor packages, bar tabs, and custom entertainment items during gala dinner.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenditures: long-distance phone lines, laundry facilities, in-room mini-bars.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Extended touring routes, vehicle use after business hours, or individual travel extensions.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

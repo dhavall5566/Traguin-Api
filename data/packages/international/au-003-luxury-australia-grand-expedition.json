@@ -1,0 +1,447 @@
+{
+  "destination_slug": "australia",
+  "package": {
+    "slug": "au-003-luxury-australia-grand-expedition",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury Australia Grand Expedition",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 32,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Sydney (3N) → Cairns (2N) → Whitsundays (2N) → Gold Coast (1N)",
+        "sort_order": 1
+      },
+      {
+        "text": "Private Sydney harbour yacht charter & coastal helicopter flight",
+        "sort_order": 2
+      },
+      {
+        "text": "Daintree luxury retreat & reef heli-tour",
+        "sort_order": 3
+      },
+      {
+        "text": "Whitsunday private island & Gold Coast VIP theme park",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 sovereign concierge & destination managers",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-AUS-LUX-2026 | Serial AU-003",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Nature",
+      "Beach",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "au-003-luxury-australia-itinerary",
+    "title": "Luxury Australia Grand Expedition",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Ultimate Ultra-Luxury Sovereign Expedition)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Sydney • Daintree • Whitsundays • Gold Coast",
+    "overview": "Indulge in the absolute zenith of Southern Hemisphere opulence with TRAGUIN's crown jewel sovereign expedition. This luxury Australia holiday links exclusive harbour-side private charter vessels, ultra-luxury reef heli-tours, secluded private island retreats, and elite rainforest sanctuary stays. Includes comprehensive VIP arrivals, dedicated luxury ground logistics, priority fast-track entry protocols, and personal concierge managers throughout your journey.",
+    "is_featured": true,
+    "featured_sort_order": 32,
+    "seo_title": "AU-003 | Luxury Australia Grand Expedition | TRAGUIN",
+    "seo_description": "Ultra-luxury 08 Nights / 09 Days Australia expedition (AU-003): Sydney harbour charter, Daintree retreat, Great Barrier Reef helicopter, Whitsunday Islands, and Gold Coast elite finale.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Sydney Harbour Yacht Charter",
+        "sort_order": 1
+      },
+      {
+        "text": "Coastal Helicopter Panoramic Flight",
+        "sort_order": 2
+      },
+      {
+        "text": "Great Barrier Reef Private Heli Expedition",
+        "sort_order": 3
+      },
+      {
+        "text": "Whitehaven Beach Private Island Escape",
+        "sort_order": 4
+      },
+      {
+        "text": "Gold Coast VIP Theme Park Fast-Track",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Sydney & Private Harbour Charter",
+        "description": "VIP airfield greeting and ultra-luxury hotel transfer. Evening private charter yacht sunset cruise past Opera House and Harbour Bridge.",
+        "activities": [
+          "Sightseeing Included: VIP airfield greeting, private luxury vessel sunset harbor charter",
+          "Evening Experience: Welcome multi-course dinner at premier harbor-front venue",
+          "Overnight Stay: Sydney Harbour (Ultra-Luxury Hotel)",
+          "Meals Included: Gourmet Tasting Menu Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Private Opera House & Skyline Panoramic Trail",
+        "description": "Private Opera House VIP tour and private helicopter flight over Bondi and Manly cliffs.",
+        "activities": [
+          "Sightseeing Included: Opera House VIP private guided tour, private coastal helicopter flight",
+          "Overnight Stay: Sydney Harbour (Ultra-Luxury Hotel)",
+          "Meals Included: International Breakfast & Casual Coastal Bistro Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Fly to Cairns & Daintree Luxury Retreat",
+        "description": "Flight to Cairns and transfer to ultra-luxury Daintree Rainforest sanctuary with private canopy walk.",
+        "activities": [
+          "Sightseeing Included: Private executive transit to Daintree Rainforest, guided canopy walk",
+          "Overnight Stay: Port Douglas / Daintree (Luxury Boutique Rainforest Retreat)",
+          "Meals Included: International Breakfast & Rainforest Gastronomy Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Great Barrier Reef Private Helicopter Expedition",
+        "description": "Private helicopter over the reef with sand cay landing and exclusive snorkeling in sapphire waters.",
+        "activities": [
+          "Sightseeing Included: Private helicopter reef flight, private sand cay snorkeling session",
+          "Overnight Stay: Port Douglas / Daintree (Luxury Boutique Rainforest Retreat)",
+          "Meals Included: International Breakfast & Gourmet Reef Picnic Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Whitsunday Islands Private Escape",
+        "description": "Flight to Whitsundays. Afternoon on Whitehaven Beach with pristine silica sand.",
+        "activities": [
+          "Sightseeing Included: Private island transit, Whitehaven Beach exploration",
+          "Overnight Stay: Whitsunday Islands (Ultra-Luxury Private Island Resort)",
+          "Meals Included: International Breakfast & Island Beachside Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Isolated Beach Gala & Stargazing",
+        "description": "Private vessel to secret beach picnic. Candlelight dinner under southern stars with fine wine.",
+        "activities": [
+          "Sightseeing Included: Private luxury beach picnic, sunset stargazing gala",
+          "Overnight Stay: Whitsunday Islands (Ultra-Luxury Private Island Resort)",
+          "Meals Included: International Breakfast & Grand Farewell Candlelight Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Fly to Gold Coast & Elite Surf Retreat",
+        "description": "Fly to Gold Coast ultra-luxury beachfront resort with private cabana access at Surfers Paradise.",
+        "activities": [
+          "Sightseeing Included: Flight transit, beachfront relaxation with private cabana access",
+          "Overnight Stay: Gold Coast (Premium Beachfront Luxury Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Theme Park Gala & Farewell Evening",
+        "description": "Gold Coast theme park with VIP fast-track access. Grand finale private beach-terrace dinner.",
+        "activities": [
+          "Sightseeing Included: Theme park VIP fast-track tickets",
+          "Evening Experience: Grand farewell dinner party event",
+          "Overnight Stay: Gold Coast (Premium Beachfront Luxury Resort)",
+          "Meals Included: Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Farewell Australia",
+        "description": "Final luxury breakfast before private departure transfer with priority luggage handling.",
+        "activities": [
+          "Transfers: Private luxury van departure transfer, priority luggage handling",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Park Hyatt Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pullman Reef Hotel",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Qualia",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Langham Gold Coast",
+        "location": "Gold Coast",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Shangri-La Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Crystalbrook Riley",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Hamilton Island Resort",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Sheraton Grand Mirage",
+        "location": "Gold Coast",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Crown Towers Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Silky Oaks Lodge",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "InterContinental Hayman",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "The Darling",
+        "location": "Gold Coast",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 12
+      },
+      {
+        "hotel_id": null,
+        "name": "Four Seasons Sydney",
+        "location": "Sydney",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 13
+      },
+      {
+        "hotel_id": null,
+        "name": "Daintree Ecolodge",
+        "location": "Cairns",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 14
+      },
+      {
+        "hotel_id": null,
+        "name": "One&Only Hayman Island",
+        "location": "Whitsunday Islands",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 15
+      },
+      {
+        "hotel_id": null,
+        "name": "The Langham Gold Coast Elite",
+        "location": "Gold Coast",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 16
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "08 Nights in world-renowned ultra-luxury harbor, rainforest, and private island suites",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Full ground transits in private high-end chauffeur vehicles",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury yacht charter in Sydney and Great Barrier Reef helicopter expedition",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "VIP skip-the-line Opera House entry and Gold Coast priority fast-track park access",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Dedicated 24/7 on-call travel expert concierge and local destination managers",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and Australia entry visa processing fees",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, hotel room service, laundry, and mini-bar billing",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, or optional sightseeing not mentioned in the flow",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance and personal incidentals",
+        "sort_order": 9
+      }
+    ]
+  }
+}

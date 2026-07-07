@@ -1,0 +1,321 @@
+{
+  "destination_slug": "meghalaya",
+  "package": {
+    "slug": "ml-005-meghalaya-discovery-journey-into-the-abode-of-clouds",
+    "serial_code": "ML-005",
+    "traguin_tour_code": "TRG-MEG-005",
+    "title": "Meghalaya Discovery • Journey Into the Abode of Clouds",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ML-005 | TRAGUIN tour code TRG-MEG-005",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Meghalaya / India | Category: Premium Family",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shillong • Cherrapunji • Dawki • Mawlynnong • Jowai",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Family Holidays, Eco- Luxury Explorers & Nature Lovers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to May (Crisp & Crystal Clear Streams)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Handpicked Customised)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV (Innova Crysta) / MAPAI Plan",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family riverside picnic lunch served along the secret pristine",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing designed to bypass heavy valley traffic, maximizing",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for high safety ratings, breathtaking views, and",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Professional hill-certified chauffeurs ensuring absolute safety and smooth",
+        "sort_order": 11
+      },
+      {
+        "text": "Hotel Policies: Check-in time is 14:00 hrs and check-out is 11:00 hrs. Valid government-issued photo IDs",
+        "sort_order": 12
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ml-005-meghalaya-discovery-journey-into-the-abode-of-clouds-itinerary",
+    "title": "Meghalaya Discovery • Journey Into the Abode of Clouds",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Meghalaya Discovery",
+    "overview": "MEGHALAYA DISCOVERY • JOURNEY INTO THE ABODE OF CLOUDS Welcome to an extraordinary luxury holiday curated exclusively by TRAGUIN. Embark on the finest Meghalaya Family Tour, meticulously designed to uncover the breathtaking landscapes, ancient living root architectures, and pristine emerald waters of Northeast India. As your elite travel consultants, TRAGUIN transforms your exploration into a seamless premium holiday filled with handpicked hotels, elite dining, and highly immersive experiences. Let the scenic beauty of pine-covered hills, misty valleys, and majestic cascades frame your family getaway, creating unforgettable memories to cherish forever.\n\nTOUR OVERVIEW\nThis custom-tailored luxury holiday package offers an exquisite balance between natural wonders, cultural richness, and modern premium hospitality. Travelling in a completely private, luxury SUV with a dedicated professional chauffeur, your family will enjoy absolute comfort along the winding, scenic routes. Featuring a carefully curated meal plan with expansive breakfasts and elite dinners, this itinerary represents the definitive premium Meghalaya experience. Every detail bears the signature touch of TRAGUIN curated experiences, ensuring VIP coordination, local storytelling, and 24/7 bespoke ground assistance.\n\nWHY CHOOSE THE BEST MEGHALAYA TOUR PACKAGE?\nWhen planning a Luxury Meghalaya Holiday, discerning travellers seek a deep dive into pristine ecology and cloud-kissed heights. Meghalaya is home to some of the most iconic attractions in the world. From the globally celebrated Double Decker Living Root Bridges of Cherrapunji to the glass-like transparency of the Umngot River in Dawki, the region offers immense depth for photographers and families alike. For couples and families looking for a unique Meghalaya Honeymoon Package or Meghalaya Family Tour, the state offers popular Instagram locations such as the dramatic Laitlum Canyons, Krang Suri Waterfall, and the immaculately clean village of Mawlynnong. Whether you are indulging in local Khasi culinary delights, shopping for intricate bamboo handicrafts at Police Bazar, or discovering hidden limestone formations, our signature TRAGUIN Meghalaya Packages combine handpicked luxury stays and exclusive experiences to ensure your journey is perfectly timed for the best time to visit Meghalaya.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ML-005 | Meghalaya Discovery | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Meghalaya package (ML-005 / TRG-MEG-005): Shillong • Cherrapunji • Dawki • Mawlynnong • Jowai with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN GUWAHATI TO SHILLONG",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SHILLONG TO CHERRAPUNJI VIA LAITLUM CANYONS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: CHERRAPUNJI EXPLORATION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: CHERRAPUNJI TO MAWLYNNONG & DAWKI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCURSION TO JOWAI & KRANG SURI FALLS",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: SHILLONG HIGHLIGHTS & LOCAL CULTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: SHILLONG TO GUWAHATI / DEPARTURE",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private family riverside picnic lunch served along the secret pristine",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing designed to bypass heavy valley traffic, maximizing",
+        "sort_order": 9
+      },
+      {
+        "text": "Premium Handpicked Hotels: Elite properties selected for high safety ratings, breathtaking views, and",
+        "sort_order": 10
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI TO SHILLONG",
+        "description": "Your premium Meghalaya experience starts with a warm welcome at Guwahati Airport by your private luxury transport chauffeur. Begin your scenic drive ascending into the cool, refreshing Khasi hills. Stop en route at the breathtaking Umiam Lake, a massive azure water reservoir enveloped by dense pine forests. Enjoy a private lakeside refreshment service before checking into your handpicked premium stay in Shillong.",
+        "activities": [
+          "WELCOME NOTE: JOURNEY TO SCOTLAND OF THE EAST VIA UMIAM LAKE",
+          "Sightseeing Included: Umiam Lake panoramic viewpoint, Shillong pine groves drive.",
+          "Evening Experience: Leisurely walk through the European-style lanes of Shillong; traditional high tea.",
+          "Overnight Stay: Shillong (Premium / Luxury Resort)",
+          "Meals Included: Welcome Drink & Gourmet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SHILLONG TO CHERRAPUNJI VIA LAITLUM CANYONS",
+        "description": "DRAMATIC CANYON HORIZONS & SPECTACULAR WATERFALLS Awake early for a lavish breakfast and check out toward Cherrapunji. Your first destination is Laitlum Canyons, an incredible ridge offering breathtaking landscapes of deep valleys and amphitheater-like mist formations. This highly popular Instagram location feels like stepping onto the edge of the world. Continue your journey to Cherrapunji, stopping at the roaring Elephant Falls and Mawkdok Dympep Valley Viewpoint. Arrive at your luxury cliffside resort in the evening.",
+        "activities": [
+          "Sightseeing Included: Laitlum Canyons, Elephant Falls, Mawkdok Valley Overlook, Wakaba Falls.",
+          "Optional Activities: An exhilarating zip-lining experience across the misty gorges of Mawkdok.",
+          "Overnight Stay: Cherrapunji (Premium Cliff-view Luxury Resort)",
+          "Meals Included: Premium Breakfast & Fine-dining Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CHERRAPUNJI EXPLORATION",
+        "description": "LIVING ROOT ARCHITECTURE & MYSTICAL SUBTERRANEAN CAVES Dedicate your day to exploring the legendary wettest place on earth. Discover the astounding living root bridges, a marvel of bio-engineering where ancient Khasi tribes trained rubber tree roots to form natural footbridges. For adventurous families, a guided excursion down to the iconic Double Decker Living Root Bridge is available. Later, explore Mawsmai Cave, a beautifully illuminated limestone cavern filled with stalactites, followed by a visit to Seven Sisters Falls and Nohkalikai Falls—the tallest plunge waterfall in India.",
+        "activities": [
+          "Sightseeing Included: Single/Double Root Bridges, Mawsmai Cave, Nohkalikai Falls, Eco Park.",
+          "Photography Points: The mist-enshrouded drop of Nohkalikai Falls from the private viewing deck.",
+          "Overnight Stay: Cherrapunji (Premium Cliff-view Luxury Resort)",
+          "Meals Included: Premium Breakfast & Resort Buffet Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CHERRAPUNJI TO MAWLYNNONG & DAWKI",
+        "description": "CLEANEST VILLAGE IN ASIA & CRYSTAL EMERALD RIVERS Embark on a scenic drive toward Mawlynnong, awarded the cleanest village in Asia. Stroll through manicured, flower-lined pathways and climb the Sky Walk for a sweeping view into the plains of Bangladesh. Next, journey to Dawki, where the magical Umngot River awaits. Experience an exclusive boat cruise on water so clear that your boat appears suspended in mid-air. Capture stunning photographs at this legendary location before heading to your luxury tented camp or driving back to Shillong. Border.",
+        "activities": [
+          "Sightseeing Included: Mawlynnong Clean Village, Living Root Bridge of Riwai, Umngot River (Dawki), Indo-Bangla",
+          "Evening Experience: Private sunset boat cruise along the crystal-clear waters of Dawki arranged by TRAGUIN.",
+          "Overnight Stay: Shillong or Premium Dawki Riverside Riverside Luxury Glamping",
+          "Meals Included: Premium Breakfast & Traditional Khasi-Style Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCURSION TO JOWAI & KRANG SURI FALLS",
+        "description": "THE INDIGO MAGIC OF JAINTIA HILLS Drive eastward into the hidden paradise of Jaintia Hills to visit Jowai. Discover the spectacular Krang Suri Waterfall, widely considered the most beautiful water pool in Northeast India. The striking turquoise waters, framed by deep limestone cut-outs, offer an incredible setting for relaxation and photography. Wander through the massive stone monoliths of Nartiang, packed with rich tribal histories, before returning to Shillong for your final evening.",
+        "activities": [
+          "Sightseeing Included: Krang Suri Waterfall, Nartiang Monoliths, Thadlaskein Lake.",
+          "Optional Activities: Swimming with safety gear in the natural pool at Krang Suri.",
+          "Overnight Stay: Shillong (Premium / Luxury Stay)",
+          "Meals Included: Premium Breakfast & Farewell Dinner Celebration"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "SHILLONG HIGHLIGHTS & LOCAL CULTURE",
+        "description": "THE SOPHISTICATED HERITAGE & CAFE VIBES OF SHILLONG Spend a beautiful, relaxed day soaking in the sophisticated urban culture of Shillong. Visit the Don Bosco Museum, a world-class architectural showcase of Northeast India’s diverse tribal heritage. Walk along the tranquil fairways of the Shillong Golf Course, one of the oldest and highest natural 18-hole courses in Asia. Spend your afternoon sampling artisan coffees and listening to live acoustic music at upscale cafes in the Laitumkhrah neighborhood. Bespoke shopping at Police Bazar for authentic hand-woven tribal shawls and bamboo crafts.",
+        "activities": [
+          "Sightseeing Included: Don Bosco Museum, Shillong Peak (viewpoint), Ward's Lake, Shillong Golf Links.",
+          "Shopping: Point:",
+          "Overnight Stay: Shillong (Premium Luxury Stay)",
+          "Meals Included: Premium Breakfast & Chef's Special Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "SHILLONG TO GUWAHATI / DEPARTURE",
+        "description": "CHERISHING UNFORGETTABLE MEMORIES BEYOND DESTINATIONS Enjoy a final lavish breakfast at your premium hotel while admiring the mountain mist. Pack your bags as your private luxury SUV takes you smoothly back along the highway toward Guwahati Airport. Bid farewell to the stunning hills of Meghalaya, carrying home a heart full of family bonding and unforgettable memories meticulously designed by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door highway drop-off to Guwahati.",
+          "Meals Included: Sumptuous Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Polo Towers / M-Pratibha / similar | Cherrapunji Holiday Resort / similar",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "4N Shillong|2N Cherrapunji",
+        "description": "OPTION 01 – DELUXE: Hotel Polo Towers / M-Pratibha / similar | Cherrapunji Holiday Resort / similar | MAPAI Plan (Daily Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI Plan (Daily Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Rigal Heritage / Courtyard by Marriott | Saimika Resort / Jiva Resort (Executive)",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "4N Shillong|2N Cherrapunji",
+        "description": "OPTION 02 – PREMIUM: Rigal Heritage / Courtyard by Marriott | Saimika Resort / Jiva Resort (Executive) | MAPAI + Premium Room Upgrades",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI + Premium Room Upgrades",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Ri Kynjai Serenity By The Lake / similar | Polo Orchid Resort (Orchid Rooms)",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "4N Shillong|2N Cherrapunji",
+        "description": "OPTION 03 – LUXURY: Ri Kynjai Serenity By The Lake / similar | Polo Orchid Resort (Orchid Rooms) | MAPAI + Private Balcony View Suites",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Private Balcony View Suites",
+        "meal_plan": "MAPAI + Private Balcony View Suites",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Ri Kynjai (Luxury Heritage Cottage) | Polo Orchid Resort (Log Cabin With Private Plunge Pool)",
+        "location": "Shillong | Cherrapunji",
+        "nights_label": "4N Shillong|2N Cherrapunji",
+        "description": "OPTION 04 – ULTRA LUXURY: Ri Kynjai (Luxury Heritage Cottage) | Polo Orchid Resort (Log Cabin With Private Plunge Pool) | VVIP Custom Chef Curated Dining",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "VVIP Custom Chef Curated Dining",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: Luxury hotels as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private AC Innova Crysta for all transfers & sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily luxury breakfast and gourmet dinners (MAPAI).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized family travel kit, local fruit basket, and refreshments.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private country boat cruise on the clear waters of Umngot River, Dawki.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train tickets to and from Guwahati.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, local adventure trekking guide fees, and camera costs.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, liquor, telephone calls, and tips.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Any optional water sports, zip-lining activities, or extension tours.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

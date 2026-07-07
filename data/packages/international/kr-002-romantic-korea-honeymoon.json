@@ -1,0 +1,323 @@
+{
+  "destination_slug": "south-korea",
+  "package": {
+    "slug": "kr-002-romantic-korea-honeymoon",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Romantic Korea Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 52,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Seoul (3N) → Jeju Island (2N) romantic K-drama circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "N Seoul Tower love padlock & Han River sunset yacht",
+        "sort_order": 2
+      },
+      {
+        "text": "VIP Gyeongbokgung in Hanbok & Nami Island speedboat",
+        "sort_order": 3
+      },
+      {
+        "text": "Seongsan Ilchulbong sunrise & Manjanggul lava cave",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 honeymoon concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-SEOUL-JEJU-ROMANCE | Serial KR-002",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Romantic",
+      "Luxury",
+      "Cultural",
+      "Nature",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "kr-002-romantic-korea-itinerary",
+    "title": "Romantic Korea Honeymoon",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Tier)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Seoul • Nami Island • Jeju Island",
+    "overview": "Step into a real-life K-drama narrative where cutting-edge luxury harmonizes with ancient traditions. From Seoul's neon skylines to Jeju's serene emerald shores — with private chauffeured sedan, handpicked luxury accommodations, fast-tracked entries, and TRAGUIN curated romantic experiences.",
+    "is_featured": true,
+    "featured_sort_order": 52,
+    "seo_title": "KR-002 | Romantic Korea Honeymoon | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days South Korea honeymoon (KR-002): Seoul, Nami Island, Jeju Island, Han River yacht, and Seongsan Ilchulbong sunrise.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "N Seoul Tower Love Padlock Ceremony",
+        "sort_order": 1
+      },
+      {
+        "text": "VIP Gyeongbokgung & Hanbok Experience",
+        "sort_order": 2
+      },
+      {
+        "text": "Nami Island & Gangchon Rail-Bike",
+        "sort_order": 3
+      },
+      {
+        "text": "Han River Private Sunset Yacht",
+        "sort_order": 4
+      },
+      {
+        "text": "Jeju Seongsan Ilchulbong Sunrise",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Seoul — Arrival & Seoul Sightseeing",
+        "description": "VIP meet at Incheon Airport with expedited immigration. Premium sedan to ultra-luxury Han River hotel. N Seoul Tower at dusk with custom TRAGUIN love padlock ceremony. Michelin-starred candlelit dinner.",
+        "activities": [
+          "Sightseeing Included: N Seoul Tower observation deck, Mt. Namsan cable car, Han River evening boardwalk",
+          "Evening Experience: Love-lock ceremony at N Seoul Tower, fine-dining culinary showcase",
+          "Overnight Stay: Seoul (Signiel Seoul / Four Seasons Seoul)",
+          "Meals Included: Welcome Premium Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Seoul — Dynastic Majesty & K-Culture Immersion",
+        "description": "VIP tour of Gyeongbokgung Palace in premium silk Hanboks. Bukchon Hanok Village stroll. VIP shopping in Gangnam and Apgujeong Rodeo Street.",
+        "activities": [
+          "Sightseeing Included: Gyeongbokgung Palace VIP access, Bukchon Hanok Village, Insadong, Gangnam",
+          "Evening Experience: Private sunset yacht charter on Han River with wine and live acoustic music",
+          "Overnight Stay: Seoul (Signiel Seoul / Four Seasons Seoul)",
+          "Meals Included: Gourmet Breakfast & Luxury Korean BBQ Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Nami Island — Enchanted Romance",
+        "description": "Scenic drive to Nami Island via private speedboat. Metasequoia tree paths. Gangchon romantic rail-bike experience. Craft cocktails on Lotte World Tower 100th floor.",
+        "activities": [
+          "Sightseeing Included: Nami Island eco-reserve, Metasequoia Lane, Gangchon rail-bike, private speedboat transfers",
+          "Evening Experience: High-altitude craft cocktail session at Lotte World Tower",
+          "Overnight Stay: Seoul (Signiel Seoul / Four Seasons Seoul)",
+          "Meals Included: Gourmet Breakfast & Chuncheon Dakgalbi Lakeside Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Seoul to Jeju Island — Coastal Romance",
+        "description": "Premium domestic flight to Jeju. Luxury SUV along Aewol Coastal Road. Cheonjiyeon Waterfall and Jungmun Saekdal Beach sunset stroll.",
+        "activities": [
+          "Sightseeing Included: Aewol scenic coastal road, Cheonjiyeon waterfall, Jungmun beach walk",
+          "Evening Experience: Exquisite seafood fine-dining with private chef on the beach",
+          "Overnight Stay: Jeju Island (Grand Hyatt Jeju / Shilla Jeju Luxury Pool Villa)",
+          "Meals Included: Gourmet Breakfast & Premium Coastal Fusion Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Jeju Island — Volcanic Wonders & Sunrise Serenade",
+        "description": "Early sunrise at UNESCO Seongsan Ilchulbong. Manjanggul lava cave. O'sulloc Green Tea Plantation with private skincare workshop.",
+        "activities": [
+          "Sightseeing Included: Seongsan Ilchulbong sunrise peak, Manjanggul UNESCO lava cave, O'sulloc tea plantation",
+          "Evening Experience: Farewell premium beachside campfire luxury barbecue with curated wines",
+          "Overnight Stay: Jeju Island (Grand Hyatt Jeju / Shilla Jeju Luxury Pool Villa)",
+          "Meals Included: Gourmet Breakfast, Jeju Black Pork Lunch & Farewell Wine Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Jeju to Seoul — Farewell",
+        "description": "Final breakfast overlooking the ocean. Dongmun Traditional Market for souvenirs. Flight to Incheon for international departure.",
+        "activities": [
+          "Sightseeing Included: Dongmun Traditional Market, Jeju duty-free lounge access",
+          "Meals Included: Gourmet Breakfast served in-villa"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Lotte Hotel Seoul / similar",
+        "location": "Seoul",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Daily Buffet Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Maison Glad Jeju / similar",
+        "location": "Jeju Island",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Daily Buffet Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Shilla Seoul",
+        "location": "Seoul",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Executive Lounge Access",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Parnas Hotel Jeju",
+        "location": "Jeju Island",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Curated Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Four Seasons Hotel Seoul",
+        "location": "Seoul",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand Hyatt Jeju",
+        "location": "Jeju Island",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Signiel Seoul",
+        "location": "Seoul",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "The Shilla Jeju Luxury Private Pool Villa",
+        "location": "Jeju Island",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights in top-tier luxury accommodations across Seoul and Jeju",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP entry to all palaces and monuments mentioned in the itinerary",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private air-conditioned luxury sedan throughout",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Return premium domestic flights between Seoul and Jeju Island",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Daily luxury breakfasts and designated fine-dining experiences",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary champagne, love padlocks, and fresh local fruits on arrival",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground client care and assistance",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International roundtrip airfares",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "South Korea tourist visa application charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, premium drinks, and tips",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "destination_slug": "dadra-and-nagar-haveli",
+  "package": {
+    "slug": "dn-012-corporate-mice",
+    "serial_code": "DN-012",
+    "traguin_tour_code": "TG-DN-MICE-012",
+    "title": "Corporate MICE",
+    "duration_label": "02 Nights / 03 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code DN-012 | TRAGUIN tour code TG-DN-MICE-012",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Dadra and Nagar Haveli / India | Category: Corporate MICE & Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Silvassa • Khanvel • Dudhni Lake",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Corporate Executives & Teams",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Travel Format: Private Corporate Team Retreat (FIT / Corporate Group)",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle: High-end luxury coaches and executive SUVs for airport/city transfers",
+        "sort_order": 8
+      },
+      {
+        "text": "Meal Plan: All Inclusive Executive Corporate Plan (Premium Breakfast, Curated Lunches, and Gala Dinners)",
+        "sort_order": 9
+      },
+      {
+        "text": "Route Map: Luxury Resort Check-in → Silvassa Business Forum → Dudhni Lake Waterfront Summit",
+        "sort_order": 10
+      },
+      {
+        "text": "TRAGUIN Signature Experience: A designated strategic brainstorming layout on a private floating platform on Dudhni Lake",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Warli tribal art team-building workshops, waterfront speedboating summits",
+        "sort_order": 12
+      },
+      {
+        "text": "Important: Check-in 14:00 hrs; share final presentations and dietary preferences 10 days before arrival",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Corporate",
+      "MICE",
+      "Retreat"
+    ]
+  },
+  "itinerary": {
+    "slug": "dn-012-corporate-mice-itinerary",
+    "title": "Corporate MICE",
+    "duration_label": "02 Nights / 03 Days",
+    "duration_days": 3,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Silvassa Executive Corporate MICE & Luxury Retreat",
+    "overview": "Welcome to a seamless blend of high-impact strategic alignment and tranquil rejuvenation. Carefully engineered by TRAGUIN Corporate Travel Experts, this signature Silvassa Executive Corporate MICE program is tailored for progressive corporate teams seeking a sophisticated escape.\n\nThis elite corporate proposal handles every structural element of a business retreat with perfection. Managed end-to-end by senior corporate consultants at TRAGUIN, your executives can step out of business routines and transition effortlessly into a curated environment designed to maximize professional bonding, strategic focus, and luxury relaxation.\n\nTRAGUIN Curated MICE Advantage: State-of-the-art audio-visual setups, private cocktail networking zones, customized corporate branding backdrops, and dedicated team-building facilitators.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "DN-012 | Corporate MICE | TRAGUIN",
+    "seo_description": "Premium 02 Nights / 03 Days Dadra and Nagar Haveli package (DN-012 / TG-DN-MICE-012): Vanganga Lake, Dudhni waterfront forum, Warli team-building, Tribal Museum, Swaminarayan Temple",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Vanganga Lake Garden & Luxury Resort Grounds with AV-equipped Keynote forum",
+        "sort_order": 1
+      },
+      {
+        "text": "Dudhni Lake Jet Skiing & Warli Art Challenge with themed Gala Dinner",
+        "sort_order": 2
+      },
+      {
+        "text": "Tribal Museum Silvassa & Swaminarayan Temple",
+        "sort_order": 3
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Strategic brainstorming on private floating platform at Dudhni Lake",
+        "sort_order": 4
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Seamless routing maximizing business outcomes and rejuvenation",
+        "sort_order": 5
+      },
+      {
+        "text": "Personalized Assistance: Dedicated on-site MICE coordinator throughout the tour",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Silvassa & High-Impact Leadership Convening",
+        "description": "Your executive delegation arrives in Silvassa, welcomed warmly by the specialized corporate reception team from TRAGUIN. Seamless check-in procedures are executed at your handpicked ultra-luxury resort, with premium welcome amenities pre-arranged in each executive suite. After a premium networking lunch at the poolside pavilion, the delegation gathers in the grand ballroom for the opening session of your Silvassa Corporate MICE Experience. State-of-the-art audio-visual layouts are deployed for your initial presentation and strategic alignment. As evening falls, enjoy a tranquil walking tour of the nearby Vanganga Lake Garden, exploring its scenic beauty and manicured Portuguese-style lawns—providing a perfect backdrop for casual executive interactions and unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Vanganga Lake Garden, Luxury Resort Grounds",
+          "Corporate Session: Ice-breaker meeting & AV-equipped Keynote forum",
+          "Overnight Stay: Silvassa (Premium Luxury Business Resort)",
+          "Meals Included: Premium Networking Lunch & Executive Gala Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Strategic Waterfront Forum at Dudhni & Tribal Team-Building",
+        "description": "The morning begins with an expansive breakfast buffet before expanding into our prime immersive experiences. The team transfers via premium luxury transport to the sparkling expanse of Dudhni Lake, often described as the 'Kashmir of the West'. Here, TRAGUIN orchestrates a unique 'Waterfront Strategy Session' aboard a private luxury house-boat/jetty. Following business deliberations, your team takes part in high-octane speed-boating activities across the vast waters. In the afternoon, return to the resort for a curated Warli Tribal Art Workshop—an exclusive experience where executives collaborate on massive canvases, fostering creative teamwork. The evening features an exquisite open-air themed Gala Dinner complete with premium entertainment and live interactive cooking stations.",
+        "activities": [
+          "Dadra and Nagar Haveli Sightseeing: Dudhni Lake Jet Skiing & Jet Boat Cruising",
+          "Team Bonding: Collaborative Warli Art Challenge & Dynamic CSR Activity",
+          "Overnight Stay: Silvassa Luxury Hub",
+          "Meals Included: Breakfast, Lakeside Buffet Lunch & Themed Gala Night Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Cultural Ethos, Reflection & Executive Departure",
+        "description": "Begin your final day with a refreshing yoga session on the resort's manicured lawns, overlooking pristine pool views. After an executive breakfast, check out and visit the fascinating Tribal Cultural Museum in Silvassa, which houses an iconic collection of indigenous artifacts, hunting tools, and traditional musical instruments. This visit serves as an intellectual anchor to understand the history of Dadra and Nagar Haveli. Conclude your tour with a short visit to the architectural marvel of the Swaminarayan Temple, featuring intricately carved pink stones. Following a final wrap-up lunch, your high-end corporate coach takes you back to your departure station, bringing to a successful end an unforgettable Premium Dadra and Nagar Haveli Experience curated to perfection by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Tribal Museum Silvassa & Swaminarayan Temple",
+          "Optional Activities: Procurement of local authentic Warli handicrafts",
+          "Overnight Stay: Tour Concludes Successfully",
+          "Meals Included: Buffet Breakfast & Executive Farewell Lunch"
+        ],
+        "sort_order": 3
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Treat Resort, Silvassa or similar",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 01 — Deluxe tier handpicked property.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior Executive Rooms",
+        "meal_plan": "Breakfast, Conference Lunch & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Ras Resorts, Silvassa",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 02 — Premium tier handpicked property.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium River-View Rooms",
+        "meal_plan": "Breakfast, Conference Lunch & Gala Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Seaside Luxurious Hub / Khanvel Resort",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 03 — Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Club Suites",
+        "meal_plan": "All Inclusive Premium Package",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Exclusive Handpicked Corporate Villas",
+        "location": "Silvassa",
+        "nights_label": "02 Nights",
+        "description": "Option 04 — Ultra Luxury tier handpicked property.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Presidential Premium Villas",
+        "meal_plan": "Ultra Luxury Customized Menu Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "02 Nights ultra-luxury accommodations at handpicked premium business resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "1 Full-Day Main Conference Hall usage with advanced acoustics & premium Wi-Fi",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "2 Hi-Tea sessions daily during conferences with assorted gourmet platter options",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "High-end luxury coaches for all group transit & executive airport connections",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private motorboat cruise bookings and speed-boating experiences at Dudhni Lake",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Corporate gala setup with themed backdrops, audio sound structures & lighting arrays",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All entry permits, monument admissions, and local guiding fees",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Uncompromised, around-the-clock TRAGUIN Corporate Desk Support",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Flight, rail, or interstate transit expenses to the primary terminal",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal resort incidental charges (Mini-bar access, laundry services, spa)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Hard liquor allocations for the Gala evening unless formally authorized",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive medical coverage plans for individual attendees",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Additional technical setup rentals not detailed in the core inclusions",
+        "sort_order": 13
+      }
+    ]
+  }
+}

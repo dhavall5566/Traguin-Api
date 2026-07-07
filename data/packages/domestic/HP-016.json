@@ -1,0 +1,282 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-016-educational-himachal-tour",
+    "serial_code": "HP-016",
+    "traguin_tour_code": "TRG-HIM-ED016",
+    "title": "Educational Himachal Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code HP-016 | TRAGUIN tour code TRG-HIM-ED016",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Himachal Pradesh / India | Category: Educational",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Shimla • Kufri • Mashobra • Chail",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Students, Educators & Academic Institutions",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: March to June & September to November",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Institutional Student Rates)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium Luxury Coaches / All Meals Included (APAI)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private group field interactive lecture at the Viceregal Lodge gardens",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified travel corridors avoiding narrow mountain roads during",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Complimentary FOC (Free of Cost) teacher slots provided based on institution",
+        "sort_order": 10
+      },
+      {
+        "text": "Exclusive Recommendations: Premium access to institutional lecture theatres and scientific research",
+        "sort_order": 11
+      },
+      {
+        "text": "Local Markets & Collectibles: Students can securely browse Lakkar Bazaar under faculty supervision for authentic wooden handicrafts, geometric puzzle games, high-altitude honey, and beautiful traditional souvenirs. Cafes & Delicacies: Enjoy historical bakeries on the Mall Road featuring British-style crumpets, local apple crumbles, and traditional warm sweet pies.",
+        "sort_order": 12
+      },
+      {
+        "text": "Hotel Policies: Room configurations and student-to-bed ratios are locked during booking initialization.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-016-educational-himachal-tour-itinerary",
+    "title": "Educational Himachal Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Institutional Student Rates)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Educational Himachal Tour",
+    "overview": "EDUCATIONAL HIMACHAL TOUR • LEARNING BEYOND CLASSROOMS Dear Educators and Students, Welcome to an enriching pedagogical expedition meticulously curated by TRAGUIN. We are proud to present our premier Educational Himachal Tour, engineered specifically to combine the pristine natural sciences, history, geography, and rich heritage of Himachal Pradesh into an elite outdoor classroom. As your professional travel consultants, TRAGUIN transforms standard excursions into a flawless luxury holiday framework where student safety, experiential learning, and premium stays converge. Witnessing the breathtaking landscapes and scenic beauty of the Himalayas provides a perfect backdrop for life-long inspiration and unforgettable memories.\n\nTOUR OVERVIEW\nThis institutional travel itinerary provides a balanced learning ecosystem across the historic summer capital of Shimla and surrounding eco-zones. Traveling in dedicated, luxury transportation coaches with seasoned mountain operators and certified medical assistance, your student group will experience absolute security and continuous engagement. Our curated experience note guarantees exclusive visits to historical architectural structures, environmental parks, meteorological stations, and indigenous craft centers. Accompanied by full- board healthy meal plans and carefully screened, premium student-friendly handpicked hotels, this is the definitive Premium Himachal Experience.\n\nWHY CHOOSE THE BEST HIMACHAL TOUR PACKAGE FOR SCHOOLS?\nAn extraordinary Educational Himachal Tour bridges the gap between theoretical textbooks and practical world observations. Himachal stands as a rich repository of geographical, meteorological, and cultural wonders. Choosing a specialized Himachal Family Tour or a structured institutional program allows students to research Himalayan tectonic geology, British-era colonial history, and unique mountain ecological patterns. Featuring iconic attractions like the Indian Institute of Advanced Study, the legendary Kufri Himalayan Nature Park, and the world-heritage Kalka-Shimla Toy Train track, Himachal sightseeing delivers incredible intellectual stimulation. For young explorers, the state offers popular Instagram locations that also double as environmental case study points, such as the Mashobra water catchment forest. Booking our signature TRAGUIN Himachal Packages ensures that your educational group receives immersive experiences, highly secure handpicked hotels, and structured interactive workshops during the absolute best time to visit Himachal.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "HP-016 | Educational Himachal Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Himachal Pradesh package (HP-016 / TRG-HIM-ED016): Shimla • Kufri • Mashobra • Chail with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SHIMLA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HISTORIC SHIMLA HERITAGE EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: KUFRI HIMALAYAN BIODIVERSITY STUDY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MASHOBRA NATURE RESERVES & CHAIL MILITARY HISTORY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: HERITAGE TOY TRAIN RIDE & DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private group field interactive lecture at the Viceregal Lodge gardens",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified travel corridors avoiding narrow mountain roads during",
+        "sort_order": 7
+      },
+      {
+        "text": "Personalized Assistance: Complimentary FOC (Free of Cost) teacher slots provided based on institution",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SHIMLA",
+        "description": "GATEWAY TO THE QUEEN OF HILLS – GEOGRAPHICAL TRANSITION Your premium educational journey commences upon arrival at Chandigarh or Delhi, where your high-end luxury transportation coaches await your institute. The scenic route up the winding Himalayan foothills serves as a living lesson in physical geography and altitudinal vegetation zones. Upon reaching Shimla, check into your handpicked hotels selected specifically for maximum student group safety and premium amenities. Gather for a formal orientation session in the evening conducted by your TRAGUIN tour manager detailing the days ahead.",
+        "activities": [
+          "Sightseeing Included: Shivalik foothill pass, Pinjore-Parwanoo tectonic zone view.",
+          "Evening Experience: Interactive group icebreaker session and documentary screening on Himalayan geology.",
+          "Overnight Stay: Shimla (Premium Student-Friendly Resort / Hotel)",
+          "Meals Included: Welcome Evening Drinks & Freshly Prepared Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HISTORIC SHIMLA HERITAGE EXPLORATION",
+        "description": "COLONIAL ARCHITECTURE & POLITICAL HISTORY OF BRITISH INDIA Relish a nutritious breakfast before heading out for a profound historical immersion. Visit the magnificent Indian Institute of Advanced Study (Viceregal Lodge), an architectural marvel in the Scottish Baronial style where critical historic decisions regarding India's partition were signed. Walk through the sprawling gardens to understand the mountain eco-construction methods of the 19th century. Later, visit the heritage State Museum and take an educational walk down the Ridge, visiting Christ Church and Gaiety Theatre.",
+        "activities": [
+          "Sightseeing Included: Viceregal Lodge, Himachal State Museum, The Ridge, Mall Road, Gaiety Theatre.",
+          "Optional Activities: Interactive Q&A session with a local historian regarding colonial mountain urbanism.",
+          "Overnight Stay: Shimla (Premium Student-Friendly Resort / Hotel)",
+          "Meals Included: Healthy Breakfast, Warm Lunch & Elaborate Buffet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KUFRI HIMALAYAN BIODIVERSITY STUDY",
+        "description": "BOTANICAL RICHNESS, FAUNA RECONNAISSANCE & ECO-BALANCE Depart early for Kufri, situated at an altitude of 2,630 meters, showcasing breathtaking landscapes and severe pine alpine forests. Visit the Himalayan Nature Park, home to rare high-altitude wildlife like the Snow Leopard, Tibetan Wolf, and Himalayan Monal. Students will participate in a structured biodiversity mapping worksheet exercise. After lunch, visit the local apple orchard belts to study mountain agricultural techniques and terrace farming economics.",
+        "activities": [
+          "Sightseeing Included: Kufri Himalayan Nature Park, Mahasu Peak flora paths, local agricultural steps.",
+          "Evening Experience: Group campfire night with educational astronomy and stargazing over the clear skies.",
+          "Overnight Stay: Shimla / Kufri Group Resort",
+          "Meals Included: Full Board Plan (Breakfast, Lunch & Dinner)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MASHOBRA NATURE RESERVES & CHAIL MILITARY HISTORY",
+        "description": "HYDROLOGY WONDERS & HIGHEST CRICKET GROUND VISIT Dedicate your morning to exploring Mashobra, a dense oak and pine forest reserve that serves as one of Asia's largest natural water catchment zones. This field excursion focuses on water harvesting systems and sustainable mountain lifestyle models. In the afternoon, journey to Chail to explore the majestic Chail Palace and stand on the world's highest cricket ground at 2,444 meters, learning about its unique sports history and strategic military alignment.",
+        "activities": [
+          "Sightseeing Included: Mashobra Water Reserve, Chail Palace, Chail Military School Cricket Ground.",
+          "Optional Activities: Light team-building adventure ropes course under trained instructors.",
+          "Overnight Stay: Shimla (Premium Student-Friendly Resort)",
+          "Meals Included: Breakfast, Packed Field Lunch & Institutional Gala Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "HERITAGE TOY TRAIN RIDE & DEPARTURE",
+        "description": "UNESCO ENGINEERING MARVEL – CHERISHING UNFORGETTABLE MEMORIES The pinnacle of your educational journey arrives with a custom group ride on the UNESCO World Heritage Kalka-Shimla Toy Train. This historical rail track highlights 103 spectacular tunnels and multi-arched gallery bridges built over a century ago. Understand the brilliant mechanical physics behind mountain rail engineering. Disembark and board your luxury transportation coaches for your departure journey home. Your academic trip concludes with deep bonds and unforgettable memories meticulously structured by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Toy train experience tickets followed by private luxury coach drop-off.",
+          "Meals Included: Sumptuous Breakfast & On-Route Midday Meal"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Asia The Dawn / East",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 01 – DELUXE: Hotel Asia The Dawn / East | Bourne Resort / similar | Triple / Quad Shared Elite",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Bourne Resort / similar",
+        "meal_plan": "Triple / Quad Shared Elite",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Willow Banks / Sterling",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 02 – PREMIUM: Hotel Willow Banks / Sterling | Shimla / similar | Triple Shared Premium",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Shimla / similar",
+        "meal_plan": "Triple Shared Premium",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Hotel Shimla /",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 03 – LUXURY: Radisson Hotel Shimla / | Welcomhotel Shimla | Double Shared Twin Luxury",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Welcomhotel Shimla",
+        "meal_plan": "Double Shared Twin Luxury",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Wildflower Hall / The Oberoi",
+        "location": "Himachal Pradesh",
+        "nights_label": "04 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Wildflower Hall / The Oberoi | Cecil (Faculty Premium) | Exclusive Premium Club",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Cecil (Faculty Premium)",
+        "meal_plan": "Exclusive Premium Club",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 04 Nights in student-safe, heavily screened handpicked hotels.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: High-end air- conditioned private touring coaches.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Institutional Meal Plan: Full-board multi-cuisine healthy menus (Breakfast, Lunch & Dinner).",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated tour escort managers and first-aid safety personnel.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Reserved tickets for the UNESCO World Heritage Toy Train ride.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Academic Features: Custom student learning worksheets, field maps, and pens.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Major commercial airfares or long-distance interstate express train tickets.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Individual",
+        "sort_order": 8
+      }
+    ]
+  }
+}

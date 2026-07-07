@@ -1,0 +1,404 @@
+{
+  "destination_slug": "usa",
+  "package": {
+    "slug": "us-002-west-coast-usa-family-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "West Coast USA Family Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 80,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Los Angeles (2N) → Las Vegas (3N) → Grand Canyon (1N) → San Francisco (2N)",
+        "sort_order": 1
+      },
+      {
+        "text": "Hollywood Walk of Fame & premium studio tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Las Vegas Strip, Bellagio fountains & world-class entertainment",
+        "sort_order": 3
+      },
+      {
+        "text": "Grand Canyon breathtaking landscapes & Golden Gate Bridge",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Serial US-002 | West Coast USA Family Tour",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Adventure",
+      "Cultural",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "us-002-west-coast-usa-itinerary",
+    "title": "West Coast USA Family Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium West Coast Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Los Angeles • Las Vegas • Grand Canyon • San Francisco",
+    "overview": "Embark on an unforgettable journey across the iconic West Coast of the USA. From the dazzling lights of Los Angeles to the breathtaking landscapes of the Grand Canyon and the charm of San Francisco, TRAGUIN ensures a premium family holiday blending adventure, culture, and luxury.",
+    "is_featured": true,
+    "featured_sort_order": 80,
+    "seo_title": "US-002 | West Coast USA Family Tour | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days USA West Coast family package (US-002): Los Angeles, Las Vegas, Grand Canyon, and San Francisco.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Santa Monica Pier & Hollywood Glamour",
+        "sort_order": 1
+      },
+      {
+        "text": "Las Vegas Strip & Bellagio Fountains",
+        "sort_order": 2
+      },
+      {
+        "text": "Grand Canyon Adventure",
+        "sort_order": 3
+      },
+      {
+        "text": "Golden Gate Bridge & Fisherman's Wharf",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Los Angeles — Arrival & Relaxation",
+        "description": "Arrival in the City of Angels. Private transfer to your luxury hotel. Evening stroll at Santa Monica Pier for a scenic sunset.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer, Santa Monica Pier sunset stroll",
+          "Overnight Stay: Los Angeles (Premium Family Hotel)",
+          "Meals Included: Welcome arrangements on arrival"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Los Angeles — Hollywood Glamour",
+        "description": "Discover iconic attractions including the Hollywood Walk of Fame and a premium studio tour.",
+        "activities": [
+          "Sightseeing Included: Hollywood Walk of Fame, premium studio tour",
+          "Overnight Stay: Los Angeles (Premium Family Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Los Angeles to Las Vegas",
+        "description": "Scenic drive to the world's entertainment capital, Las Vegas. Evening exploration of the famous Strip.",
+        "activities": [
+          "Sightseeing Included: Scenic private drive to Las Vegas, Strip evening exploration",
+          "Overnight Stay: Las Vegas (Premium Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Las Vegas — Spectacular Entertainment",
+        "description": "Experience exclusive shows and premium shopping. Evening fountain show at Bellagio.",
+        "activities": [
+          "Sightseeing Included: Premium shopping, Bellagio fountain show",
+          "Overnight Stay: Las Vegas (Premium Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Las Vegas — Grand Canyon Adventure",
+        "description": "Witness the breathtaking landscapes of the Grand Canyon — a truly iconic attraction that defines American beauty.",
+        "activities": [
+          "Sightseeing Included: Grand Canyon scenic visit and overlooks",
+          "Overnight Stay: Grand Canyon (Premium Lodge)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Grand Canyon to Las Vegas",
+        "description": "Relaxing morning with stunning views, returning to Las Vegas for more leisure.",
+        "activities": [
+          "Sightseeing Included: Grand Canyon morning views, return drive to Las Vegas",
+          "Overnight Stay: Las Vegas (Premium Resort)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Las Vegas to San Francisco",
+        "description": "Flight to San Francisco. Transfer to hotel and evening visit to Fisherman's Wharf.",
+        "activities": [
+          "Sightseeing Included: Domestic flight to San Francisco, Fisherman's Wharf evening visit",
+          "Overnight Stay: San Francisco (Premium Family Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "San Francisco — Cultural Exploration",
+        "description": "Explore the Golden Gate Bridge and experience the city's unique culture and charm.",
+        "activities": [
+          "Sightseeing Included: Golden Gate Bridge visit, San Francisco cultural exploration",
+          "Overnight Stay: San Francisco (Premium Family Hotel)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Departure",
+        "description": "Private transfer to the airport for your flight back home, carrying unforgettable memories.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Selected 4-star properties / similar",
+        "location": "Los Angeles",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Selected 4-star properties / similar",
+        "location": "Las Vegas",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Selected 4-star properties / similar",
+        "location": "Grand Canyon",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Selected 4-star properties / similar",
+        "location": "San Francisco",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Upscale Boutique Hotels / similar",
+        "location": "Los Angeles",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Upscale Boutique Hotels / similar",
+        "location": "Las Vegas",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Upscale Boutique Hotels / similar",
+        "location": "Grand Canyon",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Upscale Boutique Hotels / similar",
+        "location": "San Francisco",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Iconic 5-star Resorts / similar",
+        "location": "Los Angeles",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Iconic 5-star Resorts / similar",
+        "location": "Las Vegas",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Iconic 5-star Resorts / similar",
+        "location": "Grand Canyon",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Iconic 5-star Resorts / similar",
+        "location": "San Francisco",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 12
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "08 Nights in handpicked premium family hotels across Los Angeles, Las Vegas, Grand Canyon, and San Francisco",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury ground transfers throughout the itinerary",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Daily premium breakfast at hotels",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Hollywood Walk of Fame, studio tour, Grand Canyon, and Golden Gate Bridge sightseeing",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flight Las Vegas to San Francisco",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International and internal domestic airfares unless stated",
+        "sort_order": 100
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours, Broadway show entries, and specialized evening activities",
+        "sort_order": 101
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, telephone calls, and boutique purchases",
+        "sort_order": 102
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional helicopter rides or private boat charters",
+        "sort_order": 103
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive international travel and health insurance",
+        "sort_order": 104
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and newly introduced government surcharges",
+        "sort_order": 105
+      }
+    ]
+  }
+}

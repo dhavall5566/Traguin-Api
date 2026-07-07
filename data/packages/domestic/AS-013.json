@@ -1,0 +1,329 @@
+{
+  "destination_slug": "assam",
+  "package": {
+    "slug": "as-013-guwahati-kaziranga-majuli-jorhat-family",
+    "serial_code": "AS-013",
+    "traguin_tour_code": "TRG-ASM-2026-V1",
+    "title": "TRAGUIN Premium Assam Family Tour Package — Guwahati • Kaziranga • Majuli • Jorhat",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code AS-013 | TRAGUIN tour code TRG-ASM-2026-V1",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Assam, India | Category: Premium Family Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Guwahati • Kaziranga National Park • Majuli Island • Jorhat",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Families, Nature Enthusiasts, Wildlife Photographers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to April",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Customized)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle: Premium air-conditioned luxury SUV with dedicated chauffeur-guide | Meal Plan: Daily breakfast and dinner",
+        "sort_order": 7
+      },
+      {
+        "text": "Route Plan: Guwahati (1N) ➔ Kaziranga (2N) ➔ Majuli (2N) ➔ Jorhat (1N) ➔ Guwahati Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private hands-on masterclass with national award-winning mask makers at Samaguri Satra.",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every route and hotel personally inspected by regional specialists.",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: High-end sanitised vehicles with professional well-trained drivers.",
+        "sort_order": 11
+      },
+      {
+        "text": "Shopping: Muga and Pat silks, Second Flush orthodox tea from Jorhat, Majuli masks and bamboo crafts.",
+        "sort_order": 12
+      },
+      {
+        "text": "Important Notes: Kaziranga safaris Nov 1–Apr 30; book heritage properties 60-90 days ahead; carry valid photo ID.",
+        "sort_order": 13
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature",
+      "Cultural"
+    ]
+  },
+  "itinerary": {
+    "slug": "as-013-guwahati-kaziranga-majuli-jorhat-family-itinerary",
+    "title": "TRAGUIN Premium Assam Family Tour Package — Guwahati • Kaziranga • Majuli • Jorhat",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customized)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Guwahati • Kaziranga • Majuli • Jorhat • 06 Nights / 07 Days",
+    "overview": "Bespoke luxury Assam family tour through breathtaking landscapes, rare wildlife, and rich cultural heritage from sacred shrines to Kaziranga grasslands.\n\nTOUR OVERVIEW\\nWildlife adventure, spiritual exploration, and cultural immersion with VIP access, expert local insights, and round-the-clock personalized TRAGUIN assistance.\n\nWHY CHOOSE A LUXURY ASSAM FAMILY TOUR?\\nKamakhya Temple, Jorhat tea estates, Majuli river island Satras, Kaziranga UNESCO rhino safaris, and Brahmaputra sunset cruises November to April.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AS-013 | Guwahati Kaziranga Majuli Jorhat Family | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Assam family package (AS-013 / TRG-ASM-2026-V1): Brahmaputra cruise, Kaziranga safaris, Majuli Satras, Jorhat tea bungalow, 4-tier hotels.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Guwahati arrival and Alfresco Grand sunset cruise Day 01",
+        "sort_order": 1
+      },
+      {
+        "text": "VIP Kamakhya darshan and scenic drive to Kaziranga Day 02",
+        "sort_order": 2
+      },
+      {
+        "text": "Central and Western Range jeep safaris and Orchid Park Day 03",
+        "sort_order": 3
+      },
+      {
+        "text": "Private ferry to Majuli Island cultural adventure Day 04",
+        "sort_order": 4
+      },
+      {
+        "text": "Majuli Satras, mask-making, and Mising tribal villages Day 05",
+        "sort_order": 5
+      },
+      {
+        "text": "Jorhat heritage tea bungalow and tasting session Day 06",
+        "sort_order": 6
+      },
+      {
+        "text": "Scenic return to Guwahati airport Day 07",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN GUWAHATI | THE GATEWAY TO THE NORTHEAST & SUNSET RIVER CRUISE",
+        "description": "Extraordinary family tour begins at Guwahati airport with traditional Assamese welcome. Premium hotel check-in then Alfresco Grand luxury sunset cruise over the Brahmaputra with folk music and local snacks.",
+        "activities": [
+          "Sightseeing Included: Brahmaputra Riverfront, Local Heritage Markets.",
+          "Evening Experience: Premium Sunset Cruise on Alfresco Grand with cultural performances.",
+          "Overnight Stay: Guwahati (Premium Luxury Hotel).",
+          "Meals Included: Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "GUWAHATI SPIRITUAL SOJOURN | KAMAKHYA TEMPLE TO KAZIRANGA NATIONAL PARK",
+        "description": "Early VIP Kamakhya Temple darshan atop Nilachal Hills with panoramic Brahmaputra views. Lavish breakfast, checkout, and scenic drive through paddy fields to Kaziranga luxury wildlife resort.",
+        "activities": [
+          "Sightseeing Included: Kamakhya Temple VIP Darshan, Scenic Highway Viewpoints.",
+          "Optional Activities: Nature walk around resort boundaries, traditional bonfire.",
+          "Overnight Stay: Kaziranga National Park (Luxury Wildlife Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KAZIRANGA WILDLIFE ADVENTURE | JEEP SAFARIS & ORCHID PARK EXPLORATION",
+        "description": "Morning Central Range jeep safari for One-horned Rhinoceros. Orchid and Cultural Park with 500+ orchid species and Bihu dance pavilion. Afternoon Western Range sunset jeep safari.",
+        "activities": [
+          "Sightseeing Included: Central Range Jeep Safari, Western Range Jeep Safari, Orchid Park.",
+          "Evening Experience: Assamese Bihu and local tribal dance performances at the Orchid Park.",
+          "Overnight Stay: Kaziranga National Park (Luxury Wildlife Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "KAZIRANGA TO MAJULI ISLAND | CRUISE ON THE MIGHTY BRAHMAPUTRA",
+        "description": "Drive to Nimati Ghat and private TRAGUIN ferry across the Brahmaputra to Majuli Island. Check in to luxury eco-resort blending rustic tribal architecture with premium amenities.",
+        "activities": [
+          "Sightseeing Included: Private River Ferry Cruise, Rural Majuli Landscapes.",
+          "Photography Points: Brahmaputra riverbed and traditional Mising tribal houses.",
+          "Overnight Stay: Majuli Island (Premium Luxury Eco-Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "MAJULI CULTURAL IMMERSION | MONASTIC SATRAS & MASK-MAKING ARTISTRY",
+        "description": "Visit Auniati Satra artifacts collection and Samaguri Satra mask-making with hands-on master craftsman demonstration. Mising tribal village stilt houses and handloom weaving. Majuli wetland sunset.",
+        "activities": [
+          "Sightseeing Included: Auniati Satra, Samaguri Satra (Mask-making), Mising Tribal Village.",
+          "Local Experiences: Private interaction with master mask-makers and local tribal weavers.",
+          "Overnight Stay: Majuli Island (Premium Luxury Eco-Resort).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "MAJULI TO JORHAT | HERITAGE TEA BUNGALOW EXPERIENCE",
+        "description": "Return ferry to Nimati Ghat and short drive to Jorhat Tea Capital. Check into restored British tea bungalow with exclusive tea-tasting session and estate walk.",
+        "activities": [
+          "Sightseeing Included: Jorhat Tea Research Association Outskirts, Historic Tea Gardens.",
+          "Exclusive Experiences: Curated tea tasting and educational walk through working tea estate.",
+          "Overnight Stay: Jorhat (Luxury Heritage Tea Bungalow).",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "JORHAT TO GUWAHATI | DEPARTURE WITH UNFORGETTABLE MEMORIES",
+        "description": "Final breakfast on heritage bungalow veranda with estate views. Scenic highway to Guwahati airport with premium tea packets and handloom textile souvenirs.",
+        "activities": [
+          "Sightseeing Included: En-route Highway Souvenir Shopping.",
+          "Transfers: Private transfer to Guwahati Airport (GAU).",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Vivanta Guwahati (Superior Room) | Infinity Resorts (Deluxe Cottage) | La Maison de Ananda (Eco Cottage) | Kaziranga Golf Resort (Executive Room)",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Majuli Island (2 Nights) / Jorhat (1 Night)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 01 – DELUXE: Vivanta Guwahati Superior (Guwahati, 1N) | Infinity Resorts Deluxe Cottage (Kaziranga, 2N) | La Maison de Ananda Eco Cottage (Majuli, 2N) | Kaziranga Golf Resort Executive (Jorhat, 1N)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Superior / Deluxe / Eco Cottage / Executive",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Guwahati (Deluxe Room) | Borgos Resort (Executive Room) | Majuli Heritage Lodge (Premium Cabin) | The anya - Luxury Tea Resort",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Majuli Island (2 Nights) / Jorhat (1 Night)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 02 – PREMIUM: Radisson Blu Deluxe (Guwahati, 1N) | Borgos Executive (Kaziranga, 2N) | Majuli Heritage Lodge Premium Cabin (Majuli, 2N) | The anya Luxury Tea Resort (Jorhat, 1N)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe / Executive / Premium Cabin",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Vivanta (Premium Suite) | Diphlu River Lodge (Luxury Cottage) | Prashanti Eco-Tourism Lodge (VVIP Suite) | Burra Sahib Bungalow (Heritage Suite)",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Majuli Island (2 Nights) / Jorhat (1 Night)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 03 – LUXURY: Taj Vivanta Premium Suite (Guwahati, 1N) | Diphlu River Lodge Luxury Cottage (Kaziranga, 2N) | Prashanti Eco-Tourism VVIP Suite (Majuli, 2N) | Burra Sahib Bungalow Heritage Suite (Jorhat, 1N)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium Suite / Luxury Cottage / VVIP Suite / Heritage Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Gateway Hotel VIP Block | Diphlu River Lodge (Presidential Suite) | TRAGUIN Private Luxury Camp Setups | Thengal Manor Heritage (Royal Suite)",
+        "location": "Guwahati (1 Night) / Kaziranga (2 Nights) / Majuli Island (2 Nights) / Jorhat (1 Night)",
+        "nights_label": "06 Nights",
+        "description": "OPTION 04 – ULTRA LUXURY: Gateway Hotel VIP Block (Guwahati, 1N) | Diphlu River Lodge Presidential Suite (Kaziranga, 2N) | TRAGUIN Private Luxury Camp (Majuli, 2N) | Thengal Manor Royal Suite (Jorhat, 1N)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VIP Block / Presidential Suite / Luxury Camp / Royal Suite",
+        "meal_plan": "Breakfast & Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Accommodation: 06 Nights stay at selected handpicked luxury hotels and heritage bungalows.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily buffet breakfast and chef-crafted dinners at all properties.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private Luxury Transfers: All transfers, inter-city drives, and sightseeing in an executive SUV.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Exclusive Sightseeing: Entry permissions for Kamakhya VIP Darshan, Kaziranga Jeep Safaris, and Majuli Satras.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Brahmaputra River Experiences: Premium Sunset Cruise in Guwahati and private ferry transfers to Majuli.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Traditional Assamese Gamosa welcome and complimentary luxury refreshments basket on arrival.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated concierge assistance from a senior operations manager.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "All Taxes: All standard luxury hospitality taxes, toll charges, parking fees, and driver allowances included.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare / Train Tickets: Round-trip flights or rail tickets to Guwahati are not included.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, premium alcoholic beverages, and room service.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Tours: Extra activities not explicitly detailed in the day-wise itinerary.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Camera Fees: Professional video camera or DSLR lens fees inside Kaziranga National Park.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel Insurance: Personal comprehensive medical and travel insurance.",
+        "sort_order": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "destination_slug": "rajasthan",
+  "package": {
+    "slug": "rj-007-maharaja-rajasthan-luxury-tour",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Maharaja Rajasthan Luxury Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 13,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Jaipur (2N) → Jodhpur (2N) → Jaisalmer (1N) → Udaipur (3N) grand circuit",
+        "sort_order": 1
+      },
+      {
+        "text": "Private executive luxury SUV with personal chauffeur",
+        "sort_order": 2
+      },
+      {
+        "text": "Camel safari and luxury desert camp at Sam Sand Dunes",
+        "sort_order": 3
+      },
+      {
+        "text": "Complimentary Lake Pichola sunset cruise",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 priority concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRAGUIN-RJ-007 | Serial RJ-007",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Family",
+      "Heritage",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "rj-007-maharaja-rajasthan-itinerary",
+    "title": "Maharaja Rajasthan Luxury Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra Luxury bespoke)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Jaipur • Jodhpur • Jaisalmer • Udaipur — 08 Nights / 09 Days",
+    "overview": "Embark on an epic voyage across a land defined by ancient forts, opulent heritage, and timeless grandeur. The Best Rajasthan Tour Package by TRAGUIN merges spectacular sights with majestic palaces across Jaipur, Jodhpur, Jaisalmer desert dunes, and Udaipur's romantic lakes. Elite FIT holiday with private executive luxury transport and TRAGUIN verified handpicked palace resorts. Meal plan: CP/MAPAI (breakfast and gourmet dinner). Best season: October to March.",
+    "is_featured": true,
+    "featured_sort_order": 13,
+    "seo_title": "RJ-007 | Maharaja Rajasthan Luxury Tour | TRAGUIN",
+    "seo_description": "Ultra-luxury 08 Nights / 09 Days Rajasthan tour (RJ-007): Jaipur, Jodhpur, Jaisalmer desert camp, and Udaipur with Amber Fort, Mehrangarh Fort, and Lake Pichola cruise.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Amber Fort Elephant Ride",
+        "sort_order": 1
+      },
+      {
+        "text": "Sam Sand Dunes Camel Safari",
+        "sort_order": 2
+      },
+      {
+        "text": "Jaisalmer Living Fort",
+        "sort_order": 3
+      },
+      {
+        "text": "Mehrangarh Fort",
+        "sort_order": 4
+      },
+      {
+        "text": "Lake Pichola Cruise",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Jaipur | Royal Greetings & Chokhi Dhani",
+        "description": "Traditional royal welcome and evening at Chokhi Dhani ethnic village with folk dances and Rajasthani feast.",
+        "activities": [
+          "Sightseeing Included: Royal Welcome, Chauffeured Hotel Transfer, Ethnic Cultural Village",
+          "Meals Included: Traditional Gourmet Welcome Dinner",
+          "Evening Experience: Cultural dance viewings and pottery workshops",
+          "Overnight Stay: Jaipur (Handpicked Luxury Palace)"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Jaipur Full Day Sightseeing | Amber Fort & Hawa Mahal",
+        "description": "Amber Fort with elephant or jeep ride, Sheesh Mahal, Hawa Mahal, City Palace, and Jantar Mantar.",
+        "activities": [
+          "Sightseeing Included: Amber Fort, Hawa Mahal, City Palace, Jantar Mantar",
+          "Optional Activities: Hot air balloon ride over historic fortresses",
+          "Evening Experience: Shopping for precious gems at Johari Bazaar",
+          "Overnight Stay: Jaipur Luxury Palace"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Jaipur to Jodhpur | Journey to the Sun City",
+        "description": "Premium intercity drive to Jodhpur with sunset views over the blue city horizons.",
+        "activities": [
+          "Sightseeing Included: Intercity scenic drive, blue city old quarter view",
+          "Meals Included: Premium Buffet Breakfast",
+          "Evening Experience: Relaxed evening walk inside old town streets",
+          "Overnight Stay: Jodhpur (Premium Heritage Hotel)"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Jodhpur Sightseeing | Mehrangarh Fort & Jaswant Thada",
+        "description": "Explore Mehrangarh Fort museums and Jaswant Thada white marble cenotaph. Optional zip-lining.",
+        "activities": [
+          "Sightseeing Included: Mehrangarh Fort, Jaswant Thada, Umaid Bhawan Palace Museum",
+          "Optional Activities: Flying Fox zip-lining across fort battlements",
+          "Evening Experience: Fine dining at a rooftop restaurant facing the fort",
+          "Overnight Stay: Jodhpur Premium Hotel"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Jodhpur to Jaisalmer | Camel Safari & Luxury Desert Camping",
+        "description": "Sunset camel safari at Sam Sand Dunes with ultra-luxury tented stay, folk music, and stargazing.",
+        "activities": [
+          "Sightseeing Included: Thar Desert dunes, Sunset Camel Trek",
+          "Optional Activities: Dune-bashing in a private 4x4 vehicle",
+          "Evening Experience: Live folk music performance and stargazing",
+          "Overnight Stay: Luxury Tented Desert Camp"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Jaisalmer Fort to Udaipur | Living Fortress & Regal Lakes",
+        "description": "Explore Jaisalmer Fort, Patwon-ki-Haveli, Salim Singh-ki-Haveli, and Gadisar Lake before transfer to Udaipur.",
+        "activities": [
+          "Sightseeing Included: Golden Jaisalmer Fort, Historic Havelis, Gadisar Lake",
+          "Meals Included: Premium Breakfast",
+          "Evening Experience: Relaxing late evening arrival check-in at Udaipur",
+          "Overnight Stay: Udaipur (Premium Lakefront Resort)"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Udaipur | City Palace & Lake Pichola Cruise",
+        "description": "City Palace complex tour and private scenic boat cruise to Jag Mandir Palace.",
+        "activities": [
+          "Sightseeing Included: City Palace, Lake Pichola Cruise, Jagdish Temple",
+          "Optional Activities: Crystal Gallery private tour",
+          "Evening Experience: Traditional dance show at Bagore-ki-Haveli",
+          "Overnight Stay: Udaipur Lakefront Resort"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Udaipur | Saheliyon-ki-Bari & Monsoon Palace",
+        "description": "Visit Saheliyon-ki-Bari gardens and Sajjangarh Monsoon Palace with panoramic lake views.",
+        "activities": [
+          "Sightseeing Included: Saheliyon-ki-Bari, Sajjangarh Monsoon Palace, Fateh Sagar Lake",
+          "Optional Activities: Speedboating on Fateh Sagar Lake",
+          "Evening Experience: Farewell lakeside gala dinner",
+          "Overnight Stay: Udaipur Lakefront Resort"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "Udaipur Departure | Royal Farewell",
+        "description": "Final luxury breakfast, souvenir shopping, and transfer to Udaipur Airport.",
+        "activities": [
+          "Sightseeing Included: Airport departure transfer",
+          "Meals Included: Premium Buffet Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Palace",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "ITC Rajputana",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Rambagh Palace",
+        "location": "Jaipur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Fern Residency",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Welcomhotel by ITC",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Hari Mahal",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Umaid Bhawan Palace",
+        "location": "Jodhpur",
+        "nights_label": "02 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Desert Dune Tents",
+        "location": "Jaisalmer",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": null,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Desert Camp",
+        "location": "Jaisalmer",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": null,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Serai Oasis Camp",
+        "location": "Jaisalmer",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": null,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "The Serai",
+        "location": "Jaisalmer",
+        "nights_label": "01 Night",
+        "description": null,
+        "stars": null,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 12
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Residency",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Deluxe",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 13
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Palace",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Premium",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 14
+      },
+      {
+        "hotel_id": null,
+        "name": "The Leela Palace",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 15
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Lake Palace / Udaivilas",
+        "location": "Udaipur",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": null,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": null,
+        "image_media_id": null,
+        "sort_order": 16
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Bespoke luxury stays at handpicked hotels and palace resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily multi-cuisine buffet breakfasts and dinners as listed",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private air-conditioned transport with an executive chauffeur",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary sunset cruise on Lake Pichola in Udaipur",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Traditional welcome amenities and personalized honeymoon treats",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "All parking fees, toll taxes, fuel costs, and driver allowances",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "24/7 priority concierge support from TRAGUIN",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Domestic or international airfares and train tickets",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry fees, camera permits, and local guide hire",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses (laundry, room service, telephone calls)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure activities like zip-lining or dune-bashing",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Peak seasonal surcharges or mandatory gala dinner fees",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive travel insurance coverage",
+        "sort_order": 13
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "destination_slug": "jharkhand",
+  "package": {
+    "slug": "jh-008-educational-ranchi-netarhat-betla",
+    "serial_code": "JH-008",
+    "traguin_tour_code": "TRAGUIN-EDU-JH-008",
+    "title": "Educational Tour — Ranchi • Netarhat • Betla National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JH-008 | TRAGUIN tour code TRAGUIN-EDU-JH-008",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Jharkhand / India | Category: School /",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ranchi • Netarhat • Betla National Park",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Students, Educators, Academic Researchers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Group Customization)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Premium Luxury AC Coaches equipped with modern safety amenities",
+        "sort_order": 7
+      },
+      {
+        "text": "Route: Ranchi Arrival ➔ Netarhat ➔ Betla National Park ➔ Ranchi Departure",
+        "sort_order": 8
+      },
+      {
+        "text": "CULTURAL EXPERIENCES Paitkar & Sohrai Paintings: Students can purchase direct-from-artisan traditional scrolls from rural community craft circles. Jharkhand Silk House (Jharcraft): Premium location to explore Tussar silk weaving methods and authentic tribal organic textiles. TRAGUIN Premium Educational Itinerary • JH-008 Culinary Discoveries: Safe sampling of local items like Dhuska, Malpua, and traditional rice-flour snacks during curated high-tea sessions.",
+        "sort_order": 9
+      },
+      {
+        "text": "& BOOKING GUIDELINES",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature",
+      "Spiritual"
+    ]
+  },
+  "itinerary": {
+    "slug": "jh-008-educational-ranchi-netarhat-betla-itinerary",
+    "title": "Educational Tour — Ranchi • Netarhat • Betla National Park",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Group Customization)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Educational Tour — Ranchi",
+    "overview": "RANCHI • NETARHAT • BETLA NATIONAL PARK • 04 NIGHTS / 05 DAYS Welcome to an extraordinary academic journey through the land of forests. The Best Jharkhand Tour Package by TRAGUIN is expertly crafted to turn the vast landscapes of eastern India into a living classroom. This immersive Jharkhand Family Tour and student excursion uncovers the rich tribal heritage, dynamic geographical formations, complex industrial milestones, and diverse ecosystems of the region. From the majestic cascades of Ranchi to the dense sal forests of Netarhat and the pristine biodiversity of Betla, our meticulously curated experiences offer students premium stays, breathtaking landscapes, and unforgettable memories that bridge textbook knowledge with real-world discoveries.\n\nTOUR OVERVIEW\nTravel Dates: Flexible / Custom Group Bookings Group / FIT: School Educational Group (Students & Accompanying Faculty) Vehicle: Premium Luxury AC Coaches equipped with modern safety amenities TRAGUIN Premium Educational Itinerary • JH-008 Meal Plan: All Meals Included (Breakfast, Lunch, Hi-Tea, and Dinner) – Nutritious & Student-Friendly Route: Ranchi Arrival ➔ Netarhat ➔ Betla National Park ➔ Ranchi Departure TRAGUIN Curated Experience Note: At TRAGUIN, we believe educational travel should seamlessly blend stringent safety protocols, comfortable handpicked premium hotels, and enriching interactive learning sessions. This tailored itinerary includes expert-guided field trips, interactive cultural exchanges with tribal communities, and environmental science modules designed to maximize student engagement and Google ranking SEO-rich tourism values.\n\nWHY CHOOSE TRAGUIN PREMIUM JHARKHAND EXPERIENCE?\nJharkhand, famously known as the 'Land of Forests,' serves as an unmatched ecological, historical, and geological hub for academic development. Opting for a Luxury Jharkhand Holiday or a dedicated Jharkhand Educational Itinerary opens exceptional pathways to explore ancient archaeological sites, mineral-rich topographies, and wildlife preservation preserves. Our itinerary highlights the Top Tourist Places in Jharkhand, such as the marvelous Hundru and Jonha falls, the historical Netarhat Residential School, and the historical Chero Dynasty Forts deep within Betla. Famous attractions include the panoramic views at Magnolia Sunset Point and the vibrant local tribal craft hubs. It provides the ideal setting for geography fieldwork, botanical observation, history workshops, and outbound leadership programs. This Premium Jharkhand Experience ensures absolute safety, logistical perfection, and immersive storytelling led by professional regional specialists.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JH-008 | Educational Tour — Ranchi | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Jharkhand package (JH-008 / TRAGUIN-EDU-JH-008): Ranchi • Netarhat • Betla National Park with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN RANCHI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: RANCHI TO NETARHAT",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: NETARHAT TO BETLA NATIONAL PARK",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: BETLA NATIONAL PARK TO RANCHI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: RANCHI DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN RANCHI",
+        "description": "WELCOME TO THE CITY OF WATERFALLS – GEOLOGICAL & HISTORICAL INITIATION Upon arrival at Birsa Munda Airport or Ranchi Railway Station, the student cohort will be received with warm hospitality by our dedicated TRAGUIN tour directors. Students will board our premium luxury coach and transfer seamlessly to their handpicked hotel. After check-in and an introductory brief on safety and travel guidelines, the academic exploration begins with a guided tour of the Top Tourist Places in Ranchi. We proceed first to the majestic Hundru Falls, where the Subarnarekha River plunges from a height of 320 feet, creating a magnificent display of classic river rejuvenation and knickpoint geomorphology. An on-site geography expert will explain rock weathering and structural joints. Later, we visit the Ranchi Science Centre to engage in interactive exhibits covering physical sciences and resource mapping. The evening includes a refreshing visit to Ranchi Lake, a historic waterbody excavated in 1842 by British Agent Colonel Onsly, providing an ideal setting for photography points and environmental tracking. TRAGUIN Premium Educational Itinerary • JH-008",
+        "activities": [
+          "Sightseeing Included: Hundru Falls, Ranchi Science Centre, Ranchi Lake, and Tagor Hill.",
+          "Optional Activities: Group interactive quiz on Jharkhand's water resource management.",
+          "Evening Experience: Ice-breaking dinner session at the hotel with an educational briefing.",
+          "Overnight Stay: Handpicked Premium Hotel in Ranchi.",
+          "Meals Included: Lunch & Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "RANCHI TO NETARHAT",
+        "description": "JOURNEY TO THE QUEEN OF CHOTANAGPUR – BOTANICAL & METEOROLOGICAL STUDY Following a nutritious breakfast, the group will embark on a scenic drive toward Netarhat, affectionately crowned the 'Queen of Chotanagpur'. This winding route showcases breathtaking landscapes, passing through dense clusters of bamboo, sal, and pine trees. Netarhat sits on a massive laterite plate (Pat region) at an altitude of approximately 3,622 feet, making it a stellar case study for mountain ecosystems and high-altitude microclimates. Upon arrival, we visit the legendary Netarhat Residential School, established in 1954, to interact with local educators and understand its prestigious Gurukul-style academic heritage. As the afternoon transitions to twilight, the students will assemble at the iconic Magnolia Sunset Point. Here, through emotional storytelling, local guides narrate historical folklore while students document the spectacular solar dispersion, capturing magnificent views for their geography projects and social media logs.",
+        "activities": [
+          "Sightseeing Included: Netarhat Pine Forests, Netarhat School Campus, and Magnolia Sunset Point.",
+          "Optional Activities: Nature trail walk focusing on indigenous flora collection and identification.",
+          "Evening Experience: Traditional tribal bonfire dance and musical interaction at the resort.",
+          "Overnight Stay: Curated Premium Eco-Resort / Hotel in Netarhat.",
+          "Meals Included: Breakfast, Lunch, Hi-Tea & Dinner."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "NETARHAT TO BETLA NATIONAL PARK",
+        "description": "EXPLORING PALAMAU'S BIODIVERSITY CORE & CHERO DYNASTY FORTRESSES Rise early to witness a breathtaking sunrise at the Koel River Viewpoint before enjoying breakfast. Today, the TRAGUIN Jharkhand Packages take the students down to the pristine wilderness of Betla National Park, a historical cornerstone of wildlife conservation and one of India’s earliest sanctuaries integrated under Project Tiger in 1974. En route, the tour halts at the massive Lodh Falls (Burha Falls), the highest waterfall in Jharkhand, cascading down 469 feet. Here, students observe hydraulic action and forest stream ecosystems. Arriving in Betla, we pivot to history and anthropology by exploring the ancient Palamau Forts. Hidden deep inside the dense sal forest, these structures built by the Chero Dynasty rulers in the 16th and 17th centuries feature unique Islamic architectural accents combined with indigenous defense designs, offering deep insights into tribal kingships and medieval defense strategies.",
+        "activities": [
+          "Sightseeing Included: Lodh Falls, Koel River Viewpoint, and the Historic Palamau Forts.",
+          "Optional Activities: Historical sketching and architectural analysis worksheet distribution.",
+          "Evening Experience: Screening of an educational documentary on wildlife conservation in India.",
+          "Overnight Stay: Handpicked Forest Lodge / Premium Wildlife Resort in Betla.",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "BETLA NATIONAL PARK TO RANCHI",
+        "description": "PREMIUM WILDLIFE SAFARI & RETURN TO CAPITAL FOR EXTENSIVE DEBRIEFING The morning starts with an exhilarating open-hood jungle safari inside Betla National Park. Accompanied by certified forest naturalists, students will spot diverse wildlife species, including Asian elephants, sloth bears, wild boars, sambar deer, and various endemic birds. The naturalists will explain food chains, habitat preservation, and the critical balance required to counter human-wildlife conflict. After a late breakfast, the luxury coach departs back TRAGUIN Premium Educational Itinerary • JH-008 toward Ranchi. Along the way, we pause to observe local rural communities, focusing on sustainable agricultural models and indigenous terracotta handicrafts. Arriving in Ranchi by evening, the students will participate in a structured reflection session curated by TRAGUIN Experts to compile their field notes and review project learnings over a celebratory gala dinner.",
+        "activities": [
+          "Sightseeing Included: Betla National Park Morning Safari, Rural Craft Hubs, and Johna Falls (time permitting).",
+          "Optional Activities: Photography contest with awards for the best wildlife and landscape captures.",
+          "Evening Experience: Student presentation and certification ceremony organized by TRAGUIN.",
+          "Overnight Stay: Premium Luxury Hotel in Ranchi.",
+          "Meals Included: Breakfast, Lunch & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "RANCHI DEPARTURE",
+        "description": "TRIBAL HERITAGE IMMERSION & DEPARTURE WITH UNFORGETTABLE MEMORIES On the final day of this exceptional Best Jharkhand Tour Package, students will visit the Dr. Ram Dayal Munda Tribal Research Institute Museum after breakfast. This final academic stop showcases an extensive collection of tribal weapons, lifestyle artifacts, musical instruments, and life-size dioramas representing the Santhal, Munda, Oraon, and Ho tribes. This provides a comprehensive overview of the sociological evolution of central Indian communities. Following the museum tour, students can pick up authentic souvenirs like Sohrai paintings, Dokra metal crafts, and bamboo artifacts. Finally, with enhanced knowledge, broader perspectives, and unforgettable memories, the group will transfer to Ranchi Airport or Railway Station for their onward journey, concluding a highly successful educational tour managed with precision by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Tribal Research Institute Museum and Local Handloom Craft Centers.",
+          "Optional Activities: Interactive feedback collection and distribution of study certificates.",
+          "Meals Included: Breakfast & Packed Executive Lunch."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Radisson / Capitol Hill | Netarhat Tourist Resort (JTDC) | Van Vihar Resort Betla",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla",
+        "description": "OPTION 01 – DELUXE: Hotel Radisson / Capitol Hill | Netarhat Tourist Resort (JTDC) | Van Vihar Resort Betla | All Meals (Buffet)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room | Tourist Resort | Standard Deluxe",
+        "meal_plan": "All Meals (Buffet)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Chanakya BNR Hotel | Hotel Prabhat Vihar | Betla Forest Lodge Premium",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla",
+        "description": "OPTION 02 – PREMIUM: Chanakya BNR Hotel | Hotel Prabhat Vihar | Betla Forest Lodge Premium | All Meals (Buffet)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room | Premium Cottage | Forest Lodge",
+        "meal_plan": "All Meals (Buffet)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Chanakya Premium Wing | Royal Eco Palms Resort | Tree House Wilderness Resort",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla",
+        "description": "OPTION 03 – LUXURY: The Chanakya Premium Wing | Royal Eco Palms Resort | Tree House Wilderness Resort | All Meals (Premium)",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Premium Wing | Eco Resort | Tree House",
+        "meal_plan": "All Meals (Premium)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Blu Executive Suites | Netarhat Luxury Alpine Camps | The Palamau Safari Retreat",
+        "location": "Ranchi | Netarhat | Betla",
+        "nights_label": "2N Ranchi|1N Netarhat|1N Betla",
+        "description": "OPTION 04 – ULTRA LUXURY: Radisson Blu Executive Suites | Netarhat Luxury Alpine Camps | The Palamau Safari Retreat | Curated Gourmet Menu",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite | Alpine Camp | Safari Retreat",
+        "meal_plan": "Curated Gourmet Menu",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: Premium triple/quad sharing rooms for students and twin sharing for faculty.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Freshly prepared breakfasts, hot lunches, evening snacks, and multi-cuisine dinners.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Air-conditioned premium high-deck coaches for all transfers and inter-city drives.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Guided entry and tours across all listed national parks, waterfalls, and museums.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Assistance: 24/7 on-ground assistance by certified emergency-trained TRAGUIN tour managers.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Taxes: All current applicable Goods & Services Taxes (GST) and state highway tolls.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Customized student learning journals, identity badges, and safety kits upon arrival.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: Open-hood forest safari tickets, entry fees, and cultural tribal dance workshops.",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Dedicated back-end tracking, medical first-aid standby, and doctor-on-call facility.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights: Inbound and outbound train or airfare tickets to and from Ranchi.",
+        "sort_order": 10
+      }
+    ]
+  }
+}

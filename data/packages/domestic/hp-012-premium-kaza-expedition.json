@@ -1,0 +1,444 @@
+{
+  "destination_slug": "himachal",
+  "package": {
+    "slug": "hp-012-premium-kaza-expedition",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Premium Kaza Expedition",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 13,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Focused premium Spiti circuit centered on Kaza — the cold desert capital of the Himalayas",
+        "sort_order": 1
+      },
+      {
+        "text": "Nako Lake serenity & Tabo Monastery — UNESCO-nominated Ajanta of the Himalayas",
+        "sort_order": 2
+      },
+      {
+        "text": "Key Monastery, Kibber plateau & Chicham Bridge — Spiti's most iconic landmarks",
+        "sort_order": 3
+      },
+      {
+        "text": "Hikkim post office, Langza Buddha & Komic — highest fossil villages on Earth",
+        "sort_order": 4
+      },
+      {
+        "text": "Chandratal glamping under Milky Way skies & Atal Tunnel descent to Manali",
+        "sort_order": 5
+      },
+      {
+        "text": "Luxury glamping options with heated ensuite tents and TRAGUIN 24/7 concierge",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Adventure",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "hp-012-premium-kaza-itinerary",
+    "title": "Premium Kaza Expedition",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Curated)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "The Definitive Premium Spiti Circuit",
+    "overview": "TRAGUIN's Premium Kaza Expedition is a refined, high-altitude journey through Spiti Valley's most extraordinary landscapes. Beginning from Chandigarh, traverse Kinnaur's apple country to ancient Tabo, establish a luxurious base in Kaza for deep exploration of Key Monastery and fossil villages, camp beside Chandratal Moon Lake, and descend through the Atal Tunnel to Manali — all with premium glamping, heated mountain lodges, and expert chauffeur guidance.",
+    "is_featured": true,
+    "featured_sort_order": 13,
+    "seo_title": "HP-012 | Premium Kaza Expedition | TRAGUIN Luxury Spiti Adventure",
+    "seo_description": "Luxury 07 Nights / 08 Days Spiti package (HP-012) covering Kalpa, Nako, Tabo, Kaza, Key Monastery, Kibber, Langza, Hikkim, Komic, Chandratal, Kunzum Pass, Atal Tunnel, and Manali with premium glamping and private 4x4 transfers.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Kalpa Kinnaur Gateway & Nako Lake",
+        "sort_order": 1
+      },
+      {
+        "text": "Tabo Monastery Ancient Caves",
+        "sort_order": 2
+      },
+      {
+        "text": "Kaza Base — Key, Kibber & Chicham",
+        "sort_order": 3
+      },
+      {
+        "text": "Langza, Hikkim & Komic Villages",
+        "sort_order": 4
+      },
+      {
+        "text": "Chandratal Glamping & Atal Tunnel",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Chandigarh to Kalpa",
+        "description": "Your premium Spiti expedition begins with a TRAGUIN welcome at Chandigarh Airport or Railway Station. Drive along the Sutlej gorge through Rampur Bushahr into Kinnaur, arriving at Kalpa for your first high-altitude acclimatization evening beneath Kinnaur Kailash.",
+        "activities": [
+          "Sightseeing Included: Rampur Bushahr, Sutlej River gorge, Kalpa Suicide Point, Roghi Village",
+          "Evening Experience: Kinnaur Kailash sunset photography and apple orchard walk",
+          "Overnight Stay: Kalpa (Premium Kinnaur Valley Resort)",
+          "Meals Included: Welcome lunch en-route & premium dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Kalpa to Kaza via Nako & Tabo",
+        "description": "Cross the high Himalayan watershed via Nako village and its mirror-still lake. Visit the 1,000-year-old Tabo Monastery with its ancient mural caves before entering Spiti's cold desert capital, Kaza, for a three-night premium base.",
+        "activities": [
+          "Sightseeing Included: Nako Lake, Tabo Monastery caves & murals, Dhankar Monastery viewpoint (optional)",
+          "Evening Experience: Curated Spitian cuisine tasting at your premium Kaza lodge",
+          "Overnight Stay: Kaza (Premium Spiti Valley Lodge)",
+          "Meals Included: Breakfast & authentic mountain dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Key Monastery, Kibber & Chicham Bridge",
+        "description": "Explore Spiti's crown jewels — the cliff-perched Key Monastery, the high plateau village of Kibber, and the adrenaline-inducing Chicham Bridge spanning a 1,000-foot gorge.",
+        "activities": [
+          "Sightseeing Included: Key Monastery, Kibber village, Chicham Bridge, Gete village panoramas",
+          "Optional Activities: Guided monastery tour with resident monk interaction",
+          "Overnight Stay: Kaza (Premium Spiti Valley Lodge)",
+          "Meals Included: Breakfast & multi-cuisine dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Langza, Hikkim & Komic",
+        "description": "A curated day among Spiti's highest fossil villages. Photograph Langza's golden Buddha, send a postcard from Hikkim's world's highest post office, and hunt marine fossils in the ancient seabed of Komic village.",
+        "activities": [
+          "Sightseeing Included: Langza Buddha statue, Hikkim Post Office, Komic Monastery, fossil discovery walk",
+          "Evening Experience: Premium stargazing session from your lodge terrace",
+          "Overnight Stay: Kaza (Premium Spiti Valley Lodge)",
+          "Meals Included: Breakfast & chef's special dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Kaza to Chandratal Moon Lake",
+        "description": "Ascend from Kaza through Losar village and over Kunzum Pass to reach the legendary Chandratal Moon Lake. Check into your premium glamping camp for an unforgettable high-altitude night beneath the stars.",
+        "activities": [
+          "Sightseeing Included: Losar village, Kunzum Pass prayer flags, Chandratal Lake circumambulation",
+          "Evening Experience: Private bonfire, hot soup service, and Milky Way photography session",
+          "Overnight Stay: Chandratal (Premium Luxury Glamping Camp)",
+          "Meals Included: Breakfast, packed lunch & warm mountain dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Chandratal to Manali via Atal Tunnel",
+        "description": "Witness Chandratal sunrise before descending through Batal and crossing the Atal Tunnel into Lahaul Valley. Continue to Manali for a celebratory alpine evening at your riverside luxury resort.",
+        "activities": [
+          "Sightseeing Included: Chandratal sunrise, Atal Tunnel North Portal, Sissu Waterfall viewpoint",
+          "Evening Experience: Riverside bonfire and gourmet dinner at your Manali resort",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Breakfast & lavish riverside dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Manali — Solang Valley & Atal Excursion",
+        "description": "A full day of alpine adventure in Manali. Ride the Solang Valley cable car for glacier panoramas, explore Old Manali's cafe culture, and revisit the Atal Tunnel for Sissu Valley snow photography.",
+        "activities": [
+          "Sightseeing Included: Solang Valley cable car, Old Manali, Hadimba Temple, Sissu Valley revisit",
+          "Optional Activities: Tandem paragliding, quad biking, or zorbing at Solang Valley",
+          "Overnight Stay: Manali (Premium Riverside Luxury Property)",
+          "Meals Included: Breakfast & multi-cuisine chef's special dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "Manali to Chandigarh / Departure",
+        "description": "Enjoy a final mountain breakfast on your resort terrace before your private luxury vehicle transfers you to Chandigarh Airport or Railway Station with unforgettable Spiti memories.",
+        "activities": [
+          "Transfers Included: Private luxury door-to-door station or airport drop-off via Kullu Valley",
+          "Meals Included: Sumptuous buffet breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Kinner Villa / Similar",
+        "location": "Kalpa (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe Kinnaur valley lodge with Kailash views.",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Valley View Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Rolling Stones / Similar",
+        "location": "Kalpa (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium apple-orchard resort overlooking Kinnaur Kailash.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Kailash View Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Shamba-La / Similar",
+        "location": "Kalpa (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury boutique property on Kalpa ridge.",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Luxury Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Banjara Retreat Kalpa / Similar",
+        "location": "Kalpa (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra-luxury heritage cottage with panoramic Kinnaur vistas.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Heritage Cottage Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Hotel Deyzor / Similar",
+        "location": "Kaza (3N)",
+        "nights_label": "03 Nights",
+        "description": "Deluxe Spiti valley lodge in Kaza town.",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Standard Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 5
+      },
+      {
+        "hotel_id": null,
+        "name": "Spiti Valley Hotel / Similar",
+        "location": "Kaza (3N)",
+        "nights_label": "03 Nights",
+        "description": "Premium heated rooms for high-altitude comfort.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Heated Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 6
+      },
+      {
+        "hotel_id": null,
+        "name": "Spiti Serai by TUTC / Similar",
+        "location": "Kaza (3N)",
+        "nights_label": "03 Nights",
+        "description": "Luxury boutique lodge with Spiti valley panoramas.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Valley Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 7
+      },
+      {
+        "hotel_id": null,
+        "name": "Spiti Valley Glamping / Similar",
+        "location": "Kaza (3N)",
+        "nights_label": "03 Nights",
+        "description": "Ultra-luxury heated glamping tents with ensuite facilities.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Luxury Glamping Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 8
+      },
+      {
+        "hotel_id": null,
+        "name": "Chandra Taal Swiss Cottages / Similar",
+        "location": "Chandratal (1N)",
+        "nights_label": "01 Night",
+        "description": "Deluxe alpine camp near Chandratal Lake.",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Swiss Cottage",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 9
+      },
+      {
+        "hotel_id": null,
+        "name": "Paradise Chandratal Camp / Similar",
+        "location": "Chandratal (1N)",
+        "nights_label": "01 Night",
+        "description": "Premium heated camp with lake access.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Heated Tent",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 10
+      },
+      {
+        "hotel_id": null,
+        "name": "Moon Lake Luxury Camp / Similar",
+        "location": "Chandratal (1N)",
+        "nights_label": "01 Night",
+        "description": "Luxury glamping with ensuite facilities at 14,100 ft.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Glamping Tent",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 11
+      },
+      {
+        "hotel_id": null,
+        "name": "Bespoke Chandratal Private Camp / Similar",
+        "location": "Chandratal (1N)",
+        "nights_label": "01 Night",
+        "description": "Ultra-luxury private camp with personal butler service.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Private Luxury Camp Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 12
+      },
+      {
+        "hotel_id": null,
+        "name": "Solang Valley Resort / Similar",
+        "location": "Manali (2N)",
+        "nights_label": "02 Nights",
+        "description": "Deluxe riverside resort in Manali.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Executive Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 13
+      },
+      {
+        "hotel_id": null,
+        "name": "ManuAllaya Resort & Spa / Similar",
+        "location": "Manali (2N)",
+        "nights_label": "02 Nights",
+        "description": "Premium riverside resort with alpine views.",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "MAPAI (Premium Buffet Menu)",
+        "image_media_id": null,
+        "sort_order": 14
+      },
+      {
+        "hotel_id": null,
+        "name": "The Himalayan (Castle Resort) / Similar",
+        "location": "Manali (2N)",
+        "nights_label": "02 Nights",
+        "description": "Luxury castle resort on the Beas riverside.",
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Room / Suite",
+        "meal_plan": "MAPAI (Elite Chef Dynamic Menu)",
+        "image_media_id": null,
+        "sort_order": 15
+      },
+      {
+        "hotel_id": null,
+        "name": "Span Resort & Spa (Elite Presidential) / Similar",
+        "location": "Manali (2N)",
+        "nights_label": "02 Nights",
+        "description": "Ultra-luxury spa resort on the Beas riverside.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Elite Presidential Suite",
+        "meal_plan": "MAPAI (Bespoke Fine Dining)",
+        "image_media_id": null,
+        "sort_order": 16
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 nights premium accommodation across Kalpa, Kaza, Chandratal, and Manali",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily lavish breakfasts and multi-cuisine dinners (MAPAI plan)",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private chauffeur-driven 4x4 Innova Crysta for all high-altitude transfers and sightseeing",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated elite guest relationship manager and high-altitude emergency support",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Inner Line Permit assistance, oxygen kit, and premium glamping amenities at Chandratal",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Driver allowances, tolls, parking, fuel, and applicable taxes",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare or train tickets to and from Chandigarh",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, monastery donations, and local guide fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Adventure sport fees at Solang Valley (paragliding, quad biking, zorbing)",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, room heaters, and tipping",
+        "sort_order": 10
+      }
+    ]
+  }
+}

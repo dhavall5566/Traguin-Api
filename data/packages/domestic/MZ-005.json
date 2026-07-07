@@ -1,0 +1,302 @@
+{
+  "destination_slug": "mizoram",
+  "package": {
+    "slug": "mz-005-premium-mizoram-leisure-tour",
+    "serial_code": "MZ-005",
+    "traguin_tour_code": "TRG-MIZ-LEI-2026",
+    "title": "Premium Mizoram Leisure Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MZ-005 | TRAGUIN tour code TRG-MIZ-LEI-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Mizoram / India | Category: Premium Senior-Friendly Mizoram Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Aizawl Leisure • Cultural Heritage • Scenic Valley Views • Comfortable Pacing",
+        "sort_order": 3
+      },
+      {
+        "text": "Duration: 05 Nights / 06 Days",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March (Pleasant & Clear Sky)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request (Premium Class)",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN curated Premium Mizoram Leisure Tour with handpicked premium stays",
+        "sort_order": 8
+      },
+      {
+        "text": "Private transfers and dedicated Luxury SUV throughout the journey",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN 24/7 guest experience manager on call",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Leisure",
+      "Senior-Friendly",
+      "Culture"
+    ]
+  },
+  "itinerary": {
+    "slug": "mz-005-premium-mizoram-leisure-tour-itinerary",
+    "title": "Premium Mizoram Leisure Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Class)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Aizawl Leisure • Cultural Heritage • Scenic Valley Views • Comfortable Pacing",
+    "overview": "TRAGUIN PREMIUM MIZORAM LEISURE TOUR — Aizawl Leisure • Cultural Heritage • Scenic Valley Views • Comfortable Pacing. 05 Nights / 06 Days Relaxing Senior-Friendly Mizoram Sojourn.\n\nTOUR OVERVIEW\nEnjoy a comfortable, relaxed, and culturally enriching experience in the beautiful hills of Mizoram with this TRAGUIN curated leisure itinerary. Specifically designed for senior citizens, this Mizoram Leisure Sojourn prioritizes comfort, slow-paced sightseeing, and easy access to local culture, guaranteeing unforgettable memories in the serene capital of Aizawl.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MZ-005 | Premium Mizoram Leisure Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Mizoram package (MZ-005 / TRG-MIZ-LEI-2026): Aizawl Leisure • Cultural Heritage • Scenic Valley Views • Comfortable Pacing with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: COMFORTABLE ARRIVAL IN AIZAWL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: LIGHT CULTURAL EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HERITAGE & SCENIC LEISURE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: VALLEY VISTAS & RELAXED DINING",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: LOCAL MARKET & RELAXATION",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: COMFORTABLE DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN curated Premium Mizoram Leisure Tour with handpicked premium stays",
+        "sort_order": 7
+      },
+      {
+        "text": "Vehicle / Meals: Luxury SUV / MAPAI (Breakfast & Dinner)",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "COMFORTABLE ARRIVAL IN AIZAWL",
+        "description": "Arrive in Aizawl. Your private chauffeur transfers you to a premium hotel with easy access and beautiful panoramic views. Savor a relaxed evening.",
+        "activities": [
+          "Private chauffeur transfer to premium hotel.",
+          "Relaxed evening with panoramic views.",
+          "Overnight Stay: Aizawl Comfort Property",
+          "Meals Included: MAPAI Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "LIGHT CULTURAL EXPLORATION",
+        "description": "A gentle city tour featuring the serene Mizoram State Museum and accessible local handicraft centers at a relaxed, senior-friendly pace.",
+        "activities": [
+          "Gentle city tour at senior-friendly pace.",
+          "Mizoram State Museum and handicraft centers.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HERITAGE & SCENIC LEISURE",
+        "description": "A short, comfortable drive to heritage areas with minimal walking required, enjoying the cool mountain air and spectacular scenic beauty.",
+        "activities": [
+          "Short drive to heritage areas with minimal walking.",
+          "Cool mountain air and scenic beauty.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "VALLEY VISTAS & RELAXED DINING",
+        "description": "Spend a peaceful day overlooking the Aizawl valley from comfortable viewpoints, enjoying local delicacies in a quiet, leisurely atmosphere.",
+        "activities": [
+          "Peaceful valley viewpoints.",
+          "Local delicacies in leisurely atmosphere.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LOCAL MARKET & RELAXATION",
+        "description": "A final day for light shopping and soaking in the tranquil ambiance of Aizawl, ensuring you collect unforgettable memories at your own pace.",
+        "activities": [
+          "Light shopping and tranquil ambiance.",
+          "Leisure at your own pace.",
+          "Overnight Stay: Aizawl",
+          "Meals Included: MAPAI Breakfast & Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "COMFORTABLE DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private chauffeur transfers you comfortably to the airport for your flight home.",
+        "activities": [
+          "Private chauffeur transfer to airport.",
+          "Meals Included: Farewell Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Hotel Ritz / Hotel Arini (Ground Floor)",
+        "location": "Aizawl",
+        "nights_label": "5N Aizawl",
+        "description": "OPTION 01 – DELUXE: Hotel Ritz / Hotel Arini (Ground Floor) | MAPAI (Breakfast & Dinner)",
+        "stars": 3,
+        "category_label": "Deluxe",
+        "room_type": "Accessible Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Classic Aizawl / Hotel Regency (Selected Senior-Friendly Suites)",
+        "location": "Aizawl",
+        "nights_label": "5N Aizawl",
+        "description": "OPTION 02 – PREMIUM: Classic Aizawl / Hotel Regency (Selected Senior-Friendly Suites) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Senior-Friendly Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Millennium Inn / Hotel Ahimsa (Comfort Wing)",
+        "location": "Aizawl",
+        "nights_label": "5N Aizawl",
+        "description": "OPTION 03 – LUXURY: Millennium Inn / Hotel Ahimsa (Comfort Wing) | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Comfort Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Grand Continental / Chawlhna Hotel (Executive Suites)",
+        "location": "Aizawl",
+        "nights_label": "5N Aizawl",
+        "description": "OPTION 04 – ULTRA LUXURY: The Grand Continental / Chawlhna Hotel (Executive Suites) | Bespoke Signature MAPAI Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Executive Suite",
+        "meal_plan": "Bespoke Signature MAPAI Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 5 Nights in handpicked Mizoram properties as per chosen category.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated Luxury SUV for all transfers and sightseeing.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: MAPAI — daily breakfast and dinner at handpicked venues.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest experience manager on call.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Private Transfers: Airport/railway arrival and departure transfers in premium AC vehicle.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Handpicked Stays: TRAGUIN-vetted accommodations matching your selected tier.",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "All applicable taxes, driver allowances, tolls, and parking charges for the private vehicle.",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Senior-friendly pacing with accessible sightseeing and comfortable chauffeur-driven transfers throughout.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare, domestic flight bookings, or train tickets.",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Monument entry tickets, camera permits, or sanctuary entry fees.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, and tips.",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance, medical expenses, and any emergency evacuation costs.",
+        "sort_order": 12
+      }
+    ]
+  }
+}

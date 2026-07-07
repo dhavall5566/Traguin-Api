@@ -1,0 +1,257 @@
+{
+  "destination_slug": "thailand",
+  "package": {
+    "slug": "th-012-luxury-phuket-retreat",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Luxury Phuket Retreat",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 71,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Phuket (6N) ultra-luxury bespoke island retreat",
+        "sort_order": 1
+      },
+      {
+        "text": "Private yacht Phi Phi & James Bond Island speed-craft",
+        "sort_order": 2
+      },
+      {
+        "text": "150-min spa, Michelin dining & beach candlelight finale",
+        "sort_order": 3
+      },
+      {
+        "text": "Tour code TRG-HKT-LUX-2026 | Serial TH-012",
+        "sort_order": 4
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Romantic",
+      "Family",
+      "Beach",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "th-012-luxury-phuket-retreat-itinerary",
+    "title": "Luxury Phuket Retreat",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Ultra-Luxury Retreat)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Phuket Island • Phi Phi Islands • Phang Nga Bay",
+    "overview": "Luxury Phuket Retreat — VIP fast-track arrival, private yacht Phi Phi charter, James Bond Island, 150-min spa, Michelin dining, and private beach candlelight finale.",
+    "is_featured": true,
+    "featured_sort_order": 71,
+    "seo_title": "TH-012 | Luxury Phuket Retreat | TRAGUIN",
+    "seo_description": "Ultra-luxury 06N/07D Phuket retreat (TH-012): private yacht, James Bond Island, Michelin dining, and beach candlelight dinner.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Private Yacht Phi Phi Charter",
+        "sort_order": 1
+      },
+      {
+        "text": "James Bond Island & Sea Cave Canoeing",
+        "sort_order": 2
+      },
+      {
+        "text": "Michelin Star Gastronomy Dinner",
+        "sort_order": 3
+      },
+      {
+        "text": "Private Beach Candlelight Finale",
+        "sort_order": 4
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Phuket Arrival & Private Villa Indulgence",
+        "description": "VIP fast-track at Phuket Airport. Transfer to ultra-luxury pool villa with champagne welcome. Private chef poolside dinner.",
+        "activities": [
+          "Sightseeing Included: VIP fast-track arrival, private resort transfer",
+          "Evening Experience: Bespoke 4-course private villa welcome dinner",
+          "Overnight Stay: Phuket (Ultra-Luxury Ocean-View Pool Villa)",
+          "Meals Included: Bespoke Private Villa Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Private Luxury Yacht to Phi Phi Islands",
+        "description": "Full-day private yacht charter to Maya Bay, Pileh Lagoon, Bamboo Island, and Viking Cave with onboard gourmet lunch.",
+        "activities": [
+          "Sightseeing Included: Private yacht Phi Phi charter",
+          "Overnight Stay: Phuket (Ultra-Luxury Ocean-View Pool Villa)",
+          "Meals Included: International Buffet Breakfast & Onboard Yacht Gourmet Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Heritage & Ultra-Wellness Immersion",
+        "description": "Floating breakfast. Old Phuket Town heritage walk. 150-minute rejuvenation spa package. Cliffside sunset cocktails.",
+        "activities": [
+          "Sightseeing Included: Old Phuket Town, Wat Chalong, Karon Viewpoint",
+          "Overnight Stay: Phuket (Ultra-Luxury Ocean-View Pool Villa)",
+          "Meals Included: Premium Floating Breakfast & Contemporary Thai Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Phang Nga Bay Sea Cave Canoeing",
+        "description": "Private speed-craft to James Bond Island. Koh Hong sea cave canoeing and Koh Panyee floating village.",
+        "activities": [
+          "Sightseeing Included: James Bond Island, Koh Hong canoeing, Koh Panyee",
+          "Overnight Stay: Phuket (Ultra-Luxury Ocean-View Pool Villa)",
+          "Meals Included: International Buffet Breakfast & Koh Panyee Seafood Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "Leisure & Michelin Dining Experience",
+        "description": "Resort leisure day. Evening Michelin-starred or top-rated contemporary tasting menu dinner.",
+        "activities": [
+          "Evening Experience: Bespoke Michelin tasting menu dining",
+          "Overnight Stay: Phuket (Ultra-Luxury Ocean-View Pool Villa)",
+          "Meals Included: International Buffet Breakfast & Michelin Star Gastronomy Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "Boutique Shopping & Candlelight Finale",
+        "description": "Central Phuket Floresta luxury shopping. Signature private beachfront candlelight grand finale dinner.",
+        "activities": [
+          "Sightseeing Included: Central Phuket Floresta",
+          "Evening Experience: Grand finale private beachfront candlelight dinner",
+          "Overnight Stay: Phuket (Ultra-Luxury Ocean-View Pool Villa)",
+          "Meals Included: International Buffet Breakfast & 5-Course Beachside Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "Phuket Departure",
+        "description": "Final breakfast at villa veranda. Private transfer to Phuket International Airport with premium lounge assistance.",
+        "activities": [
+          "Sightseeing Included: Private airport transfer, premium lounge entry",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pullman Phuket Arcadia Naithon Beach / similar",
+        "location": "Phuket",
+        "nights_label": "06 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Deluxe Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Westin Siray Bay Resort & Spa",
+        "location": "Phuket",
+        "nights_label": "06 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Premium Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Shore at Katathani",
+        "location": "Phuket",
+        "nights_label": "06 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Elite Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Trisara Phuket / Sri Panwa",
+        "location": "Phuket",
+        "nights_label": "06 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": null,
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 Nights in ultra-luxury ocean pool villas in Phuket",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP fast-track airport reception and customs clearance",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury yacht charter to Phi Phi Islands with gourmet lunch",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Private speed-craft James Bond Island tour with sea canoeing",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "150-minute premium rejuvenating massage and Michelin dining experience",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Private beachfront candlelight grand finale dinner",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated luxury concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Thailand visa fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "National park fees and personal expenses",
+        "sort_order": 9
+      }
+    ]
+  }
+}

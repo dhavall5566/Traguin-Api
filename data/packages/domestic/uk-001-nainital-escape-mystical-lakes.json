@@ -1,0 +1,240 @@
+{
+  "destination_slug": "uttarakhand",
+  "package": {
+    "slug": "uk-001-nainital-escape-mystical-lakes",
+    "serial_code": null,
+    "traguin_tour_code": null,
+    "title": "Nainital Escape • Mystical Lakes & Mountain Grandeur",
+    "duration_label": "03 Nights / 04 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": true,
+    "featured_sort_order": 20,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Nainital (3N) → Bhimtal • Sattal • Naukuchiatal lake district",
+        "sort_order": 1
+      },
+      {
+        "text": "Private luxury AC vehicle with dedicated chauffeur",
+        "sort_order": 2
+      },
+      {
+        "text": "MAP plan — breakfast and gourmet dinners",
+        "sort_order": 3
+      },
+      {
+        "text": "Complimentary private boat ride on Naini Lake",
+        "sort_order": 4
+      },
+      {
+        "text": "TRAGUIN 24/7 personalized concierge support",
+        "sort_order": 5
+      },
+      {
+        "text": "Tour code TRG-UK-001 | Serial UK-001",
+        "sort_order": 6
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "uk-001-nainital-escape-itinerary",
+    "title": "Nainital Escape • Mystical Lakes & Mountain Grandeur",
+    "duration_label": "03 Nights / 04 Days",
+    "duration_days": 4,
+    "starting_price": 0,
+    "price_note": "On Request (Bespoke Luxury Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Nainital • Bhimtal • Sattal • Naukuchiatal",
+    "overview": "This custom-tailored premium tour itinerary has been intricately structured by TRAGUIN for discerning travelers who value elegance and flawless execution. Travelling from Delhi in a dedicated, high-end private vehicle accompanied by an experienced local chauffeur, you will explore the serene lake district of Kumaon. With a premium meal plan covering lavish daily breakfasts and multi-cuisine dinners, this journey guarantees comfort at every turn. Every detail features the signature touch of TRAGUIN curated experiences, assuring personalized VIP assistance and premium curated memories for your family.",
+    "is_featured": true,
+    "featured_sort_order": 20,
+    "seo_title": "UK-001 | Nainital Escape Mystical Lakes Tour | TRAGUIN",
+    "seo_description": "Premium 03 Nights / 04 Days Nainital family tour (UK-001): Naini Lake, Bhimtal, Sattal, Naukuchiatal with private boat ride, MAP plan, and luxury lakeside resorts.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Naina Devi Temple",
+        "sort_order": 1
+      },
+      {
+        "text": "Eco Cave Gardens",
+        "sort_order": 2
+      },
+      {
+        "text": "Snow View Point via Aerial Ropeway",
+        "sort_order": 3
+      },
+      {
+        "text": "Bhimtal Lake & Island",
+        "sort_order": 4
+      },
+      {
+        "text": "Naukuchiatal Nine-Cornered Lake",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Arrival in Nainital | Welcome to the City of Lakes",
+        "description": "Your premium Uttarakhand experience begins as our executive chauffeur welcomes you at Delhi Airport/Railway Station or Kathgodam. Relax in your private premium vehicle as you climb the scenic mountain routes winding past fragrant pine forests. Arrive at your handpicked luxury resort overlooking the valley. After checking in, spend a relaxed evening strolling down Mall Road, indulging in local shopping, and capturing sunset photography points along Naini Lake.",
+        "activities": [
+          "Sightseeing Included: Scenic Kumaon hillside drive, Naini Lake promenade walk, Mall Road exploring",
+          "Evening Experience: Welcome note greeting accompanied by a curated fine-dining dinner at the resort restaurant",
+          "Overnight Stay: Nainital (Premium / Luxury Lake View Resort)",
+          "Meals Included: Welcome Drink & Luxury Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "Nainital Local Sightseeing | Mystical Lakes, Panoramic Peaks & Heritage Views",
+        "description": "Awake to a crisp mountain sunrise and a lavish buffet breakfast. Today, indulge in an intensive Nainital sightseeing tour. Visit the revered Naina Devi Temple on the northern banks of the lake. Explore the fascinating Eco Cave Gardens, a massive favorite for family groups. Later, take an exhilarating aerial ropeway ride to Snow View Point to capture breathtaking landscapes of the snow-clad Himalayan range. Conclude your afternoon with an immersive experience—a private boat cruise on the emerald waters of Naini Lake.",
+        "activities": [
+          "Sightseeing Included: Naina Devi Temple, Eco Cave Gardens, Snow View Point via Aerial Ropeway, Tiffin Top (optional)",
+          "Optional Activities: Private guided heritage walk exploring colonial-era structures and old churches of Nainital",
+          "Overnight Stay: Nainital (Premium / Luxury Lake View Resort)",
+          "Meals Included: Premium Breakfast & Gourmet Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "Excursion to the Famous Lake District (Bhimtal, Sattal, Naukuchiatal)",
+        "description": "After breakfast, set out on a scenic tour of the magnificent lake cluster surrounding Nainital. Drive to Bhimtal, significantly larger than Naini Lake, featuring an island restaurant accessible via boat. Proceed to Sattal, a unique interconnected group of seven freshwater lakes nestled amidst thick oak forests. Finally, visit Naukuchiatal, the lake of nine corners, surrounded by legendary myths and lush terraced fields. Enjoy a serene lakeside lunch experience at a premium boutique cafe.",
+        "activities": [
+          "Sightseeing Included: Bhimtal Lake & Island, Sattal Forest Trails, Naukuchiatal Nine-Cornered Lake view",
+          "Evening Experience: Sunset tea session at a scenic photography point overlooking Naukuchiatal valley",
+          "Overnight Stay: Nainital (Premium / Luxury Lake View Resort)",
+          "Meals Included: Premium Breakfast & Special Themed Farewell Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "Nainital to Delhi / Departure | Cherishing Unforgettable Mountain Memories",
+        "description": "Savor a final sumptuous breakfast while gazing over the morning mist rising off the lake. Check out from your resort as your private luxury transport drives you back down the scenic foothills. Make a brief stop at the beautiful Kainchi Dham Ashram—made famous globally by corporate icons—before continuing your return drive to Delhi Airport or Railway Station. Return home carrying unforgettable memories crafted beautifully by TRAGUIN.",
+        "activities": [
+          "Transfers Included: Private highway drop-off to Delhi or Kathgodam station",
+          "Meals Included: Lavish Buffet Breakfast"
+        ],
+        "sort_order": 4
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Pavilion Nainital / Balrampur House / similar",
+        "location": "Nainital",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Valley View Room",
+        "meal_plan": "MAP Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Manu Maharani / Shervani Hilltop / similar",
+        "location": "Nainital",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Balcony Room",
+        "meal_plan": "MAP Plan (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Naini Retreat / WelcomeHeritage Ashdale",
+        "location": "Nainital",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Luxury",
+        "room_type": "Luxury Lake View Suite",
+        "meal_plan": "MAP Plan + TRAGUIN Welcome Amenities",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Fern Hillside Resort / Private Luxury Boutique Estate",
+        "location": "Nainital",
+        "nights_label": "03 Nights",
+        "description": null,
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "VVIP Panoramic Presidential Suite",
+        "meal_plan": "Bespoke Signature Menu Plan",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium Stays: 3 Nights in premium handpicked hotels & lakeside resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transportation: Private dedicated AC vehicle for all transfers & sightseeing routes",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Curated Meal Plan: Daily premium breakfast and gourmet dinners at hotels",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest relationship support on-call",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized custom travel welcome kit upon arrival",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experience: Private family boat ride on the main Naini Lake",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights or train tickets to and from Delhi / Kathgodam",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Entry tickets to ropeways, cave gardens, or local museums",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, phone calls, drinks, or gratuities",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional activities, adventure water sports, or independent local guides",
+        "sort_order": 10
+      }
+    ]
+  }
+}
