@@ -61,6 +61,11 @@ class ItineraryCreate(ItineraryBase):
     days: list[ItineraryDayNested] = Field(default_factory=list)
 
 
+class ItineraryFromCmsPackageCreate(BaseModel):
+    cms_package_id: UUID
+    customer_id: UUID | None = None
+
+
 class ItineraryUpdate(BaseModel):
     title: str | None = Field(default=None, min_length=1, max_length=255)
     description: str | None = None

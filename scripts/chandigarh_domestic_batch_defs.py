@@ -1,4 +1,4 @@
-"""Builder functions for CH-007 through CH-019 Chandigarh domestic packages (Punjab destination)."""
+"""Builder functions for CH-001 through CH-019 Chandigarh domestic packages (Punjab destination)."""
 
 from __future__ import annotations
 
@@ -15,6 +15,7 @@ from schemas.itineraries import (
 from schemas.packages import PackageCreate, PackageHighlightNested
 
 PUNJAB_DESTINATION_ID = "d4119569-a154-460e-af8e-6eb006ea76f9"
+PUNJAB_SLUG = "punjab"
 
 
 def _day(
@@ -76,6 +77,816 @@ def _ph(text: str, sort_order: int) -> PackageHighlightNested:
 def _duration_days(duration_label: str) -> int:
     return int(duration_label.split("/")[-1].strip().split()[0])
 
+
+def build_ch_001(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
+    serial = "CH-001"
+    tour_code = "TRG-CHD-001"
+    title = "Chandigarh Weekend Escape • Architecture & Serenity Premium Family Tour"
+    duration = "02 Nights / 03 Days"
+    slug = "ch-001-chandigarh-weekend-escape-architecture-serenity"
+    itin_slug = "ch-001-chandigarh-weekend-escape-itinerary"
+    package = PackageCreate(
+        slug=slug,
+        serial_code=serial,
+        traguin_tour_code=tour_code,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        price=0,
+        rating=Decimal("4.9"),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ph(f"Serial code {serial} | TRAGUIN tour code {tour_code}", 1),
+            _ph("State / Country: Chandigarh / India | Category: Premium Family Weekend Tour", 2),
+            _ph("Destinations: Rock Garden • Sukhna Lake • Rose Garden • Elante • Sector 17 Plaza", 3),
+            _ph("Ideal for: Families, Luxury Weekend Escapes & Architectural Admirers", 4),
+            _ph("Best season: Year-Round (Best from October to April)", 5),
+            _ph("Starting price: On Request (Premium Customised)", 6),
+            _ph("Luxury chauffeur-driven sedan/SUV • Breakfast & Dinner (MAPAI)", 7),
+            _ph("TRAGUIN Signature Experience: private evening layout coordination for premium lake view tables", 8),
+            _ph("Shopping: Phulkari dupattas, Punjabi juttis, artisan woodwork at Sector 22 Shastri Market", 9),
+            _ph("Cuisine: butter chicken, Amritsari kulchas, artisanal pastries, premium microbrewery experiences", 10),
+            _ph("Travel note: book premium hotels 3 weeks ahead for weekend inventory; woolens Nov–Feb", 11),
+        ],
+        moods=["Family", "Luxury", "Cultural"],
+    )
+    itinerary = ItineraryCreate(
+        slug=itin_slug,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        duration_days=_duration_days(duration),
+        starting_price=0,
+        price_note="On Request (Premium Customised)",
+        rating=Decimal("4.9"),
+        review_count=0,
+        tagline="Chandigarh Weekend Escape • Architecture & Serenity",
+        overview=(
+            "Welcome to an exquisite urban retreat curated precisely by TRAGUIN. Experience the finest Chandigarh "
+            "Family Tour designed to reveal the breathtaking landscapes, orderly geometric magic, and scenic beauty of "
+            "India's first planned city. As your elite travel consultants, TRAGUIN transforms your short getaway into "
+            "an ultra-sophisticated luxury holiday filled with handpicked hotels, immersive experiences, and elegant "
+            "culinary walks. From the avant-garde artistry of the Rock Garden to the serene, peaceful waters of Sukhna "
+            "Lake, every single detail is styled to capture unforgettable memories for your family.\n\n"
+            "This custom-tailored luxury holiday package offers the perfect weekend balance between modernist "
+            "architectural marvels, boutique lifestyle avenues, and serene natural lakeshores. Travelling in a dedicated "
+            "private premium AC vehicle with a highly knowledgeable professional chauffeur, your family will enjoy "
+            "uninterrupted privacy and curated comfort. Featuring an exquisite meal plan with lavish breakfasts and "
+            "specialty multi-cuisine dinners, this itinerary represents the definitive premium Chandigarh experience.\n\n"
+            "Why choose the best Chandigarh tour package? Known globally as a masterpiece of urban planning by Le "
+            "Corbusier, Chandigarh hosts iconic attractions from Nek Chand's Rock Garden to the Zakir Hussain Rose "
+            "Garden. For couples and families seeking a specialized Chandigarh Honeymoon Package or an elegant "
+            "Chandigarh Family Tour, the city boasts popular Instagram locations such as the Open Hand Monument, the "
+            "tranquil Sukhna Lake promenade, and the premium lifestyle avenues of Elante."
+        ),
+        seo_title=f"{serial} | Chandigarh Weekend Escape Architecture & Serenity | TRAGUIN",
+        seo_description=(
+            f"Premium {duration} Chandigarh family package ({serial} / {tour_code}): Sector 17 Plaza, Rock Garden, "
+            "Rose Garden, Sukhna Lake sunset cruise, Elante Mall, and 4-tier handpicked hotel options."
+        ),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ih("Sector 17 Shopping Plaza & Musical Fountain Show", 1),
+            _ih("Nek Chand's Rock Garden — recycled-material masterpiece", 2),
+            _ih("Zakir Hussain Rose Garden — thousands of rare rose varieties", 3),
+            _ih("Sukhna Lake private sunset boat cruise", 4),
+            _ih("Capitol Complex outer view & Elante Mall", 5),
+            _ih("Curated by TRAGUIN Experts with family-friendly pacing", 6),
+        ],
+        days=[
+            _day(
+                1,
+                "Arrival in Chandigarh — Boutique Comfort & Cafe Culture",
+                (
+                    "Your premium Chandigarh experience begins as you arrive at Chandigarh Airport, Railway Station, "
+                    "or are picked up from your Delhi location in a private luxury transport vehicle. Arrive in the "
+                    "beautifully organized sectors of Chandigarh and check into your handpicked premium luxury hotel. "
+                    "After a refreshing afternoon, step out with your private chauffeur to explore the dynamic Sector "
+                    "17 Plaza—the city's iconic open-air lifestyle and shopping destination. Indulge in boutique cafes "
+                    "and witness the musical fountain show."
+                ),
+                [
+                    "Sightseeing Included: Sector 17 Shopping Plaza, Musical Fountain Show, Elite local avenues",
+                    "Evening Experience: Bespoke welcome dinner at a premium traditional/contemporary restaurant",
+                    "Overnight Stay: Chandigarh (Premium / Luxury Selected Hotel)",
+                    "Meals Included: Welcome Drink & Luxury Dinner",
+                ],
+            ),
+            _day(
+                2,
+                "Chandigarh City Sightseeing — Iconic Art, Botanical Splendour & Sunset Cruise",
+                (
+                    "Awake to a gorgeous morning and indulge in a lavish buffet breakfast. Your dedicated Chandigarh "
+                    "sightseeing tour begins at the world-famous Rock Garden, an unbelievable labyrinth of open-air "
+                    "courtyards, waterfalls, and sculptures made entirely out of recycled materials. Next, walk through "
+                    "the breathtaking landscapes of the Rose Garden, home to thousands of rare rose varieties. In the "
+                    "late afternoon, move to Sukhna Lake, where a private sunset boat cruise has been arranged. Watch "
+                    "the sun drop behind the Shivalik foothills, a perfect photography point for unforgettable memories. "
+                    "Wrap up your day exploring the upscale fashion labels at Elante Mall."
+                ),
+                [
+                    "Sightseeing Included: Nek Chand's Rock Garden, Rose Garden, Sukhna Lake Promenade, Capitol Complex (outer view), Elante",
+                    "Optional Activities: Private architectural photography session with a professional city guide",
+                    "Overnight Stay: Chandigarh (Premium / Luxury Hotel)",
+                    "Meals Included: Premium Breakfast & Fine Dining Dinner",
+                ],
+            ),
+            _day(
+                3,
+                "Leisure Morning & Departure — Souvenir Shopping & Cherishing Memories",
+                (
+                    "Savor a relaxed gourmet breakfast at your premium hotel. Spend your morning at leisure or indulge "
+                    "in quick local shopping for authentic Phulkari dresses, traditional Punjabi juttis, or artisan "
+                    "woodwork. In the afternoon, your private luxury transport vehicle will safely drop you off at the "
+                    "Chandigarh Airport, Railway Station, or drive you back to Delhi. Return home carrying beautiful "
+                    "family bonds and unforgettable memories meticulously custom-crafted by TRAGUIN."
+                ),
+                [
+                    "Transfers Included: Private luxury door-to-door departure drop-off",
+                    "Meals Included: Sumptuous Buffet Breakfast",
+                ],
+            ),
+        ],
+        hotels=[
+            _hotel("Hotel Bella Vista / Lemon Tree Hotel / similar", "Chandigarh", "02 Nights", "Deluxe", "Deluxe Executive Room", "Breakfast & Dinner (MAPAI)", 4, 1),
+            _hotel("Novotel Chandigarh / Centra Hotel / similar", "Chandigarh", "02 Nights", "Premium", "Premium Club Room", "Breakfast & Dinner (MAPAI)", 5, 2),
+            _hotel("Taj Chandigarh / Hyatt Regency / similar", "Chandigarh", "02 Nights", "Luxury", "Luxury Heritage / Luxury View Room", "Breakfast & Gourmet Dinner", 5, 3),
+            _hotel("The Oberoi Sukhvilas Spa Resort", "New Chandigarh", "02 Nights", "Ultra Luxury", "Premier Room / Luxury Private Tent Pool Villa", "Bespoke Chef-Curated Meals", 5, 4),
+        ],
+        inclusions=[
+            _inc_included("02 Nights stay in handpicked premium hotels", 1),
+            _inc_included("Private dedicated AC Sedan/SUV for all sightseeing", 2),
+            _inc_included("Daily lavish multi-cuisine breakfasts and customized dinners", 3),
+            _inc_included("24/7 dedicated remote concierge and guest relation executive", 4),
+            _inc_included("Cold-pressed juices and signature family travel kit on arrival", 5),
+            _inc_included("Complimentary private family sunset boating tickets at Sukhna Lake", 6),
+            _inc_excluded("Airfare, interstate permit costs, or railway ticketing charges", 7),
+            _inc_excluded("General monument tickets, camera permissions, or local dynamic guide fees", 8),
+            _inc_excluded("Personal incidentals such as room service, laundry, premium alcohol, and tips", 9),
+            _inc_excluded("Insurance coverage or any items not explicitly listed in the inclusions", 10),
+        ],
+    )
+    return package, itinerary
+
+
+def build_ch_002(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
+    serial = "CH-002"
+    tour_code = "TRG-CH-SH-002"
+    title = "Chandigarh Shimla Combo — The Garden City Meets the Queen of Hills"
+    duration = "04 Nights / 05 Days"
+    slug = "ch-002-chandigarh-shimla-combo-premium-family-tour"
+    itin_slug = "ch-002-chandigarh-shimla-combo-itinerary"
+    package = PackageCreate(
+        slug=slug,
+        serial_code=serial,
+        traguin_tour_code=tour_code,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        price=0,
+        rating=Decimal("4.9"),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ph(f"Serial code {serial} | TRAGUIN tour code {tour_code}", 1),
+            _ph("State / Country: Chandigarh & Himachal Pradesh / India | Category: Premium Family Tour Combo", 2),
+            _ph("Destinations: Chandigarh • Shimla • Kufri", 3),
+            _ph("Ideal for: Family Vacations, Luxury Mountain Getaways & Honeymooners", 4),
+            _ph("Best season: March to June & October to February", 5),
+            _ph("Starting price: On Request (Premium Customised)", 6),
+            _ph("Luxury chauffeur-driven vehicle / MAPAI plan", 7),
+            _ph("TRAGUIN Signature Experience: private family historical briefing on Shimla's colonial landmarks", 8),
+            _ph("Shopping: Lakkar Bazar wooden handicrafts, pashmina shawls, local apple jams", 9),
+            _ph("Instagram spots: Christ Church neo-Gothic structure, Mashobra forest valley views", 10),
+        ],
+        moods=["Family", "Luxury", "Romantic"],
+    )
+    itinerary = ItineraryCreate(
+        slug=itin_slug,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        duration_days=_duration_days(duration),
+        starting_price=0,
+        price_note="On Request (Premium Customised)",
+        rating=Decimal("4.9"),
+        review_count=0,
+        tagline="The Garden City Meets the Queen of Hills",
+        overview=(
+            "Welcome to an exquisite holiday experience curated exclusively by TRAGUIN. Embark on a spectacular "
+            "Chandigarh Shimla Combo designed to give you a perfect blend of high-end urban planning and old-world "
+            "alpine romance. As your elite travel planners, TRAGUIN transforms your vacation into a premium mountain "
+            "escape filled with curated experiences, breathtaking landscapes, and handpicked hotels. From the "
+            "beautifully designed architectural marvels of Chandigarh to the snow-dusted ridges and pine-scented paths "
+            "of Shimla, every element is stitched meticulously to craft unforgettable memories for your family.\n\n"
+            "This custom luxury holiday package offers a perfect seamless route from Chandigarh's manicured modern "
+            "layouts straight into the grand heritage trails of Shimla. Traveling in a premium private AC vehicle "
+            "managed by a background-verified chauffeur, your family enjoys unmatched hospitality, seamless comfort, "
+            "and safety. Enjoy a curated meal plan featuring lavish buffet breakfasts and elite dinners at your "
+            "premium stays.\n\n"
+            "Why choose the best Chandigarh Shimla tour package? This magnificent route combines top tourist places "
+            "in Chandigarh—including the unique Nek Chand Rock Garden and Sukhna Lake—with the legendary colonial "
+            "charm and majestic mountain ranges of Shimla. For couples seeking a romantic Chandigarh Shimla "
+            "Honeymoon Package or families choosing a Chandigarh Shimla Family Tour, this combo features popular "
+            "Instagram locations such as the heritage Gaiety Theatre on Mall Road, the panoramic mountain peaks of "
+            "Kufri, and the beautiful multi-tiered Pinjore Gardens."
+        ),
+        seo_title=f"{serial} | Chandigarh Shimla Combo Premium Family Tour | TRAGUIN",
+        seo_description=(
+            f"Premium {duration} Chandigarh Shimla combo ({serial} / {tour_code}): Rock Garden, Sukhna Lake, "
+            "Pinjore Gardens, Viceregal Lodge, Mall Road, Kufri, Mashobra, and 4-tier hotel options."
+        ),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ih("Rock Garden, Rose Garden & Sukhna Lake private sunset cruise", 1),
+            _ih("Pinjore Gardens (Yadavindra Gardens) en route to Shimla", 2),
+            _ih("Viceregal Lodge, The Ridge, Christ Church & Mall Road", 3),
+            _ih("Kufri Fun World, Mahasu Peak & Mashobra apple orchards", 4),
+            _ih("Curated by TRAGUIN Experts with hill-expert drivers", 5),
+        ],
+        days=[
+            _day(
+                1,
+                "Arrival in Chandigarh & Sightseeing — The Luxury Urban Experience",
+                (
+                    "Your premium adventure begins as you land at Chandigarh Airport or arrive at the railway station. "
+                    "A luxury vehicle will instantly escort your family to a premium handpicked hotel. After checking "
+                    "in, head out to explore the best Chandigarh sightseeing spots. Wander through the world-famous Rock "
+                    "Garden, decorated entirely with recycled industrial art, followed by a serene walk in the Rose "
+                    "Garden. As the evening sets, experience an exclusive private sunset cruise at Sukhna Lake, "
+                    "arranged specially by your TRAGUIN consultant."
+                ),
+                [
+                    "Sightseeing Included: Nek Chand's Rock Garden, Zakir Hussain Rose Garden, Sukhna Lake Promenade",
+                    "Evening Experience: Private luxury shikara/boat cruise at Sukhna Lake followed by high-end dinner at Sector 26",
+                    "Overnight Stay: Chandigarh (Premium / Luxury Selected Hotel)",
+                    "Meals Included: Welcome Drink & Luxury Welcome Dinner",
+                ],
+            ),
+            _day(
+                2,
+                "Chandigarh to Shimla via Pinjore — Royal Mughal Gardens to Alpine Grandeur",
+                (
+                    "Savor a delightful breakfast before checking out. Your private vehicle will journey along the scenic "
+                    "Himalayan Expressway towards Shimla. En route, make a grand stop at the historic Pinjore Gardens "
+                    "to admire its magnificent fountains and terraced lawns. As you climb higher into the mountains, "
+                    "witness the dramatic transition into breathtaking landscapes of dense pine forests. Upon arrival in "
+                    "Shimla, the Queen of Hills, check into your ultra-luxury resort and relax in front of stunning "
+                    "valley views."
+                ),
+                [
+                    "Sightseeing Included: Pinjore Gardens (Yadavindra Gardens), Timber Trail panoramic view pass",
+                    "Scenic Route Points: Shivalik foothills photography stops, Solan Valley views",
+                    "Overnight Stay: Shimla (Premium Luxury Mountain Resort)",
+                    "Meals Included: Premium Breakfast & Gourmet Valley-View Dinner",
+                ],
+            ),
+            _day(
+                3,
+                "Shimla Colonial Heritage Exploration — Colonial Legacies & Mall Road",
+                (
+                    "Immerse yourself today in the royal British history of Shimla. Begin with an exclusive guided tour "
+                    "of the Indian Institute of Advanced Study (Viceregal Lodge), an elegant Scottish baronial mansion. "
+                    "Later, take a pleasant walk along the historic Ridge, see the Christ Church, and wander down the "
+                    "bustling Mall Road. Enjoy a hot brew at a premium heritage cafe and shop for local wooden souvenirs."
+                ),
+                [
+                    "Sightseeing Included: Viceregal Lodge, The Ridge, Christ Church, Mall Road, Scandal Point, Gaiety Theatre",
+                    "Evening Experience: Reserved sunset terrace seating at a boutique colonial cafe",
+                    "Overnight Stay: Shimla (Premium Luxury Mountain Resort)",
+                    "Meals Included: Breakfast & Exquisite Themed Dinner",
+                ],
+            ),
+            _day(
+                4,
+                "Excursion to Kufri & Mashobra — Snow-Capped Peaks & Unforgettable Highlands",
+                (
+                    "Drive today to Kufri, a high-altitude playground famous for its scenic beauty and sweeping views of "
+                    "the snow-capped Greater Himalayas. Walk or ride a pony through rhododendron forests to reach the "
+                    "highest viewpoint. If traveling in winter, enjoy the snowy landscapes. In the afternoon, explore "
+                    "Mashobra's quiet wilderness trails before returning to Shimla for your final mountain evening."
+                ),
+                [
+                    "Sightseeing Included: Kufri Fun World, Mahasu Peak, Mashobra apple orchard valleys",
+                    "Optional Activities: Yak riding, photography sessions in traditional Himachali attire",
+                    "Overnight Stay: Shimla (Premium Luxury Mountain Resort)",
+                    "Meals Included: Breakfast & Farewell Premium Dinner",
+                ],
+            ),
+            _day(
+                5,
+                "Shimla to Chandigarh Departure — Memories Beyond Destinations",
+                (
+                    "Relish a long, lazy breakfast overlooking the mist-filled valley. Check out from your resort as your "
+                    "private luxury transport smoothly drives you back down to Chandigarh. Reflect on the beautiful moments "
+                    "and unforgettable family bonds formed during this journey. You will be dropped off at Chandigarh "
+                    "Airport or the Railway Station for your onward destination."
+                ),
+                [
+                    "Transfers Included: Private downhill luxury transfer to Chandigarh Airport / Station",
+                    "Meals Included: Sumptuous Buffet Breakfast",
+                ],
+            ),
+        ],
+        hotels=[
+            _hotel("Lemon Tree Premier / Hotel East Bourne Resort / similar", "Chandigarh (1N) / Shimla (3N)", "04 Nights", "Deluxe", "Deluxe Executive Room", "Breakfast & Dinner (MAPAI)", 4, 1),
+            _hotel("Novotel Chandigarh / Radisson Hotel Shimla / similar", "Chandigarh (1N) / Shimla (3N)", "04 Nights", "Premium", "Premium Club Room", "Breakfast & Dinner (MAPAI)", 5, 2),
+            _hotel("Taj Chandigarh / The Clarkes (Heritage) / Combermere", "Chandigarh (1N) / Shimla (3N)", "04 Nights", "Luxury", "Luxury Heritage Room", "Luxury Buffet Plan", 5, 3),
+            _hotel("The Oberoi Sukhvilas Spa Resort / Wildflower Hall, An Oberoi Resort", "Chandigarh (1N) / Shimla (3N)", "04 Nights", "Ultra Luxury", "Premier Room / Luxury Suite", "Bespoke Fine Dining Plan", 5, 4),
+        ],
+        inclusions=[
+            _inc_included("Standard/Suite rooms in handpicked hotels as per chosen tier", 1),
+            _inc_included("Private dedicated high-end vehicle for transfers & sightseeing", 2),
+            _inc_included("Lavish breakfasts and daily gourmet multi-cuisine dinners", 3),
+            _inc_included("24/7 dedicated professional guest experience manager on call", 4),
+            _inc_included("Personalized welcome kit, snacks, and mineral water bottles", 5),
+            _inc_included("Exclusive private sunset boat ride voucher at Sukhna Lake", 6),
+            _inc_excluded("Airfare or interstate train tickets to Chandigarh", 7),
+            _inc_excluded("Monument entry fees, camera passes, and local guide charges", 8),
+            _inc_excluded("Personal items such as laundry, liquor, telephone bills, and room service", 9),
+            _inc_excluded("Pony ride charges at Kufri or optional sports activities", 10),
+        ],
+    )
+    return package, itinerary
+
+
+def build_ch_003(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
+    serial = "CH-003"
+    tour_code = "TRG-CHD-003"
+    title = "Leisure Chandigarh • Serenity, Accessibility & Sophistication Senior Citizen Package"
+    duration = "03 Nights / 04 Days"
+    slug = "ch-003-leisure-chandigarh-senior-citizen-package"
+    itin_slug = "ch-003-leisure-chandigarh-senior-itinerary"
+    package = PackageCreate(
+        slug=slug,
+        serial_code=serial,
+        traguin_tour_code=tour_code,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        price=0,
+        rating=Decimal("4.9"),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ph(f"Serial code {serial} | TRAGUIN tour code {tour_code}", 1),
+            _ph("State / Country: Chandigarh / India | Category: Senior Citizen Special — Leisure & Comfort", 2),
+            _ph("Destinations: Chandigarh (Leisure Chandigarh Exploration)", 3),
+            _ph("Ideal for: Senior Citizens, Family Groups & Relaxation Seekers", 4),
+            _ph("Best season: October to March (Pleasant Spring/Winter Weather)", 5),
+            _ph("Starting price: On Request (Premium Fully-Assisted Customization)", 6),
+            _ph("Luxury private AC Sedan/Innova / MAPAI (Breakfast & Dinner)", 7),
+            _ph("TRAGUIN Signature Experience: slow-paced daily plan avoiding early morning rushes or late-night fatigue", 8),
+            _ph("Shopping: Phulkari shawls, dupattas, premium dry fruits, organic wellness remedies", 9),
+            _ph("Travel note: wheelchair requirements must be requested at booking; book 30 days ahead for accessible suites", 10),
+        ],
+        moods=["Senior", "Leisure", "Family", "Luxury"],
+    )
+    itinerary = ItineraryCreate(
+        slug=itin_slug,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        duration_days=_duration_days(duration),
+        starting_price=0,
+        price_note="On Request (Premium Fully-Assisted Customization)",
+        rating=Decimal("4.9"),
+        review_count=0,
+        tagline="Leisure Chandigarh • Serenity, Accessibility & Sophistication",
+        overview=(
+            "Welcome to an exquisitely paced luxury experience proudly conceptualized by TRAGUIN. This bespoke "
+            "Chandigarh Senior Citizen Package has been purposefully engineered for multi-generational families and "
+            "seniors seeking a gentle, slow-travel immersion. Bask in the scenic beauty of India's most beautifully "
+            "planned urban landscape. From wide, smooth tree-lined avenues to tranquil botanical havens, TRAGUIN "
+            "transforms your vacation into a premium Chandigarh experience characterized by handpicked hotels, step-free "
+            "access, wheelchair assistance upon request, and deeply heartfelt hospitality.\n\n"
+            "Crafted with meticulous attention to comfort, physical ease, and relaxation, this Leisure Chandigarh "
+            "holiday minimizes long walking distances and completely removes hurried timelines. Travel comfortably in "
+            "a private, spacious luxury vehicle accompanied by a dedicated, courteous chauffeur trained to assist "
+            "senior travelers. Stay in handpicked hotels known for premium elevators, accessible layouts, and peaceful "
+            "soundscapes.\n\n"
+            "Why book the best Chandigarh tour package for seniors? Chandigarh stands out as a prime destination "
+            "because of its immaculate planning, wide roads, and beautiful green lungs. It features top tourist places "
+            "including the tranquil waters of Sukhna Lake and the world-renowned Rose Garden, which offer paved "
+            "walkways and ample resting benches perfect for a relaxed stroll."
+        ),
+        seo_title=f"{serial} | Leisure Chandigarh Senior Citizen Package | TRAGUIN",
+        seo_description=(
+            f"Premium {duration} senior-friendly Chandigarh package ({serial} / {tour_code}): accessible Rose Garden, "
+            "Sukhna Lake sunset cruise, Rock Garden, Government Art Museum, Sector 17, and 4-tier accessible hotels."
+        ),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ih("Le Corbusier Architectural Boulevard Drive & Open Hand Monument", 1),
+            _ih("Rose Garden flat trail & Sukhna Lake private sunset boat cruise", 2),
+            _ih("Rock Garden accessible paved loop", 3),
+            _ih("Government Museum and Art Gallery with elevator access", 4),
+            _ih("Sector 17 Heritage Hub premium shopping", 5),
+            _ih("Pre-screened hotel rooms allocated close to elevators", 6),
+        ],
+        days=[
+            _day(
+                1,
+                "Arrival in Chandigarh — Gentle Reception & Urban Serenity",
+                (
+                    "Your premium Chandigarh experience begins with a warm welcome at Chandigarh Airport or Railway "
+                    "Station, where your private, air-conditioned luxury vehicle awaits. Enjoy a smooth transfer to your "
+                    "premium handpicked hotel, featuring seamless check-in assistance organized by TRAGUIN experts. "
+                    "Spend your afternoon resting in your peaceful suite. In the evening, enjoy a panoramic, low-speed "
+                    "drive along the tree-lined avenues of the high-end Capitol Complex area, ending with an accessible "
+                    "dinner layout at your hotel."
+                ),
+                [
+                    "Sightseeing Included: Le Corbusier Architectural Boulevard Drive, Open Hand Monument photo-stop",
+                    "Evening Experience: Bespoke welcome dinner with soft ambient background music",
+                    "Overnight Stay: Chandigarh (Premium / Luxury Handpicked Hotel)",
+                    "Meals Included: Welcome Drink & Gourmet Dinner",
+                ],
+            ),
+            _day(
+                2,
+                "Botanical Wonders & Sunset Cruise — Sukhna Lake & Rose Garden",
+                (
+                    "Start your day with a relaxed breakfast. Head out for a morning visit to the Zakir Hussain Rose "
+                    "Garden, Asia's largest botanical garden of its kind. Paved flat pathways make walking effortless "
+                    "amidst thousands of blooming roses. After a refreshing lunch, proceed to the iconic Sukhna Lake. "
+                    "TRAGUIN has arranged a private, gentle sunset boat cruise, allowing you to absorb the breathtaking "
+                    "landscapes of the Shivalik hills without any physical exertion."
+                ),
+                [
+                    "Sightseeing Included: Rose Garden flat trail, Sukhna Lake Promenade, Shivalik Vista point",
+                    "Exclusive Experiences: Private, easily accessible pontoon/boat ride at Sukhna Lake during sunset",
+                    "Overnight Stay: Chandigarh (Premium / Luxury Handpicked Hotel)",
+                    "Meals Included: Premium Breakfast & Nutritious Dinner",
+                ],
+            ),
+            _day(
+                3,
+                "Heritage Crafts & Nek Chand's Legacy — Art & Heritage Shopping",
+                (
+                    "Following breakfast, explore the world-renowned Rock Garden. A designated accessible route allows "
+                    "you to observe Nek Chand's fascinating sculptures made from recycled porcelain and glass. Spend "
+                    "your afternoon at the Government Museum and Art Gallery, which offers full elevator access and "
+                    "holds spectacular Gandhara sculptures. Cap off your day with premium shopping at the upscale "
+                    "Sector 17 Plaza, a paved arena perfect for finding authentic souvenirs."
+                ),
+                [
+                    "Sightseeing Included: Rock Garden (Accessible Paved Loop), Government Art Museum, Sector 17 Heritage Hub",
+                    "Optional Activities: High-tea experience at an iconic heritage cafe with traditional live music",
+                    "Overnight Stay: Chandigarh (Premium / Luxury Handpicked Hotel)",
+                    "Meals Included: Premium Breakfast & Farewell Special Dinner",
+                ],
+            ),
+            _day(
+                4,
+                "Departure from Chandigarh — Cherishing Unforgettable Memories",
+                (
+                    "Savor a final, leisurely morning breakfast at your hotel. Take a peaceful stroll through the "
+                    "manicured lawns of your resort before packing your bags. Your dedicated luxury transport vehicle "
+                    "will provide door-to-door transfer back to Chandigarh Airport or Railway Station. Return home "
+                    "feeling fully refreshed, with your heart filled with unforgettable memories designed by TRAGUIN."
+                ),
+                [
+                    "Transfers Included: Private, assisted airport or station drop-off",
+                    "Meals Included: Sumptuous Buffet Breakfast",
+                ],
+            ),
+        ],
+        hotels=[
+            _hotel("Hotel Bella Vista / Similar", "Chandigarh", "03 Nights", "Deluxe", "Deluxe Room (MAPAI)", "Breakfast & Dinner", 4, 1, description="Option 01 — Wide elevators, step-free entry paths."),
+            _hotel("Novotel Chandigarh / Similar", "Chandigarh", "03 Nights", "Premium", "Premium Room (MAPAI)", "Breakfast & Dinner", 5, 2, description="Option 02 — Spacious grab-bar bathrooms, walk-in showers."),
+            _hotel("Taj Chandigarh / Hyatt Regency", "Chandigarh", "03 Nights", "Luxury", "Luxury Club Room (MAPAI)", "Breakfast & Dinner", 5, 3, description="Option 03 — Full operational assistance, centralized premium care."),
+            _hotel("The Oberoi Sukhvilas Spa Resort", "New Chandigarh", "03 Nights", "Ultra Luxury", "Luxury Premier Room / Private Villa", "Bespoke wellness dining", 5, 4, description="Option 04 — Private golf-cart mobility, bespoke wellness dining."),
+        ],
+        inclusions=[
+            _inc_included("3 Nights stay at handpicked hotels featuring excellent accessibility", 1),
+            _inc_included("Private dedicated AC Sedan or Innova Crysta for all sightseeing", 2),
+            _inc_included("Lavish daily breakfast and customized dinners with low-sodium/mild options on request", 3),
+            _inc_included("24/7 dedicated guest manager with premium concierge response", 4),
+            _inc_included("Senior wellness welcome kit, wet wipes, and continuous mineral water supply", 5),
+            _inc_included("Reserved private sunset boat cruise at Sukhna Lake", 6),
+            _inc_excluded("Airfare, train tickets, or inter-state transfers to Chandigarh", 7),
+            _inc_excluded("Monument entrance fees, camera charges, and personal local guide fees", 8),
+            _inc_excluded("Personal expenses such as laundry, phone calls, room service, or tips", 9),
+            _inc_excluded("Medical insurance or extra expenses caused by unexpected transit delays", 10),
+        ],
+    )
+    return package, itinerary
+
+
+def build_ch_004(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
+    serial = "CH-004"
+    tour_code = "TRG-CH-004"
+    title = "Chandigarh Learning Expedition • Architecture, Innovation & Eco-Discovery"
+    duration = "02 Nights / 03 Days"
+    slug = "ch-004-chandigarh-educational-school-tour"
+    itin_slug = "ch-004-chandigarh-educational-itinerary"
+    package = PackageCreate(
+        slug=slug,
+        serial_code=serial,
+        traguin_tour_code=tour_code,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        price=0,
+        rating=Decimal("4.9"),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ph(f"Serial code {serial} | TRAGUIN tour code {tour_code}", 1),
+            _ph("State / Country: Chandigarh / India | Category: Educational School Tour", 2),
+            _ph("Destinations: Rock Garden • Science City • Sukhna Lake • Capitol Complex", 3),
+            _ph("Ideal for: School Students, Educators & Academic Groups", 4),
+            _ph("Best season: July to March", 5),
+            _ph("Starting price: Group Pricing / Institutional Rate", 6),
+            _ph("Premium deluxe multi-axle coaches / Full Board (All Meals)", 7),
+            _ph("TRAGUIN Signature Experience: specialized academic worksheets and analytical tour diaries for students", 8),
+            _ph("Educational keepsakes: Open Hand Monument miniatures, scientific DIY kits, regional architecture books", 9),
+        ],
+        moods=["Educational", "Culture", "Group"],
+    )
+    itinerary = ItineraryCreate(
+        slug=itin_slug,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        duration_days=_duration_days(duration),
+        starting_price=0,
+        price_note="Group Pricing / Institutional Rate",
+        rating=Decimal("4.9"),
+        review_count=0,
+        tagline="Chandigarh Learning Expedition • Architecture, Innovation & Eco-Discovery",
+        overview=(
+            "Welcome to a uniquely enriching educational experience designed and managed meticulously by TRAGUIN. "
+            "This bespoke Chandigarh Educational Tour offers student groups a perfect blend of high-impact learning, "
+            "iconic attractions, and pristine scenic beauty. As premium travel consultants, TRAGUIN elevates student "
+            "group travel beyond traditional excursions by blending interactive science exploration, world-class "
+            "sustainable architecture, and handpicked hotels into immersive experiences.\n\n"
+            "This custom institutional itinerary offers an immaculate learning pathway through the geometric design "
+            "principles of Le Corbusier, cutting-edge environmental conservation models, and comprehensive botanical "
+            "sciences. Travelling in premium high-capacity luxury coaches with dedicated tour managers and "
+            "professional student-welfare guides, safety and academic enrichment are fully guaranteed.\n\n"
+            "Why book the best Chandigarh tour package for schools? Chandigarh stands tall as a premier hub for "
+            "educational exposure. From the globally celebrated Nek Chand Rock Garden—a brilliant case study in urban "
+            "waste management—to the UNESCO World Heritage Capitol Complex, it represents the pinnacle of civic "
+            "administration and modern architectural studies. Pushpa Gujral Science City and Sukhna Lake offer "
+            "immersive experiences in sustainable engineering, space technology, and bio-diversity."
+        ),
+        seo_title=f"{serial} | Chandigarh Educational School Tour | TRAGUIN",
+        seo_description=(
+            f"Educational {duration} Chandigarh school package ({serial} / {tour_code}): Rock Garden, Rose Garden, "
+            "Pushpa Gujral Science City, UNESCO Capitol Complex, Sukhna Lake, and student-friendly hotel options."
+        ),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ih("Nek Chand Rock Garden — urban waste recycling marvel", 1),
+            _ih("Zakir Hussain Rose Garden — botanical science", 2),
+            _ih("Pushpa Gujral Science City — space theater, robotics & laser show", 3),
+            _ih("UNESCO Capitol Complex & Open Hand Monument", 4),
+            _ih("Sukhna Lake nature walk — wetland engineering case study", 5),
+            _ih("Pre-booked student slots at Science City to bypass public queues", 6),
+        ],
+        days=[
+            _day(
+                1,
+                "Arrival & Exploration of Urban Engineering — Rock Garden & Botanical Science",
+                (
+                    "Welcome to the beautiful city of Chandigarh! Upon arrival at the transport terminal, your school "
+                    "group will be received by your dedicated TRAGUIN student welfare managers and escorted to your "
+                    "premium handpicked hotel in modern luxury coaches. After structured group check-in and lunch, visit "
+                    "the world-famous Rock Garden. Students will gain first-hand architectural insights into how "
+                    "domestic and industrial waste can be transformed into magnificent sculptures. Later, visit the "
+                    "spectacular Zakir Hussain Rose Garden to observe thousands of distinct botanical varieties. Conclude "
+                    "the day with an engaging interactive group briefing on urban ecology."
+                ),
+                [
+                    "Sightseeing Included: Nek Chand Rock Garden, Zakir Hussain Rose Garden, Sector-17 Civic Plaza",
+                    "Evening Experience: Academic interactive recap and ice-breaking quiz session",
+                    "Overnight Stay: Chandigarh Student-Friendly Premium Hotel",
+                    "Meals Included: Nutritious Lunch & Special Student Buffet Dinner",
+                ],
+            ),
+            _day(
+                2,
+                "Pushpa Gujral Science City Expedition — Innovation, Space & Robotics",
+                (
+                    "Enjoy an early wholesome breakfast before boarding your luxury coaches for an immersive day-trip "
+                    "to the renowned Pushpa Gujral Science City. This state-of-the-art interactive facility offers deep "
+                    "educational insights across physical, life, and space sciences. Students will experience mind-expanding "
+                    "interactive exhibits, live physics experiments, space-theater presentations, a real flight-simulator "
+                    "experience, and a high-tech dinosaur park. This curated learning layout serves as an exemplary "
+                    "academic environment, showing how classroom textbook models function beautifully in the real world."
+                ),
+                [
+                    "Sightseeing Included: Science City Experiential Galleries, Space Theater, Laser Show, Robotics Pavilion",
+                    "Optional Activities: Interactive project-building workshop with certification for students",
+                    "Overnight Stay: Chandigarh Student-Friendly Premium Hotel",
+                    "Meals Included: Packed/Hot Institutional Lunch, Full Breakfast & Dinner",
+                ],
+            ),
+            _day(
+                3,
+                "Heritage Architecture & Departure — UNESCO Capitol Complex & Sukhna Lake",
+                (
+                    "After a healthy breakfast, check out of your hotel and visit the prestigious UNESCO World Heritage "
+                    "Capitol Complex. Here, students will study the historic architectural layout, the Open Hand Monument, "
+                    "and the state assembly designs created by Le Corbusier. Next, arrive at Sukhna Lake for a case study "
+                    "on artificial wetland engineering and conservation biology. Following a special farewell lunch, your "
+                    "coaches will safely transport the student cohort back to the railway station or airport."
+                ),
+                [
+                    "Sightseeing Included: UNESCO Capitol Complex, Open Hand Monument, Sukhna Lake Nature Walk",
+                    "Transfers Included: Terminal drop-off via private luxury school coaches",
+                    "Meals Included: Buffet Breakfast & Institutional Farewell Lunch",
+                ],
+            ),
+        ],
+        hotels=[
+            _hotel("Hotel KC Cross Road / Velvet Clerks Exotica / similar", "Chandigarh / Zirakpur", "02 Nights", "Deluxe", "Triple/Quad Sharing Student Rooms", "Full Board (APAID)", 3, 1),
+            _hotel("Park Plaza Zirakpur / Golden Tulip / similar", "Chandigarh / Zirakpur", "02 Nights", "Premium", "Triple Sharing Premium Student Rooms", "Full Board (APAID)", 4, 2),
+            _hotel("Radisson Chandigarh / Novotel / similar", "Chandigarh", "02 Nights", "Luxury", "Twin/Triple Sharing Luxury Rooms", "Gourmet Full Board", 5, 3),
+            _hotel("Hyatt Regency Chandigarh / Taj Chandigarh", "Chandigarh", "02 Nights", "Ultra Luxury", "Twin Sharing Executive Club Rooms", "Bespoke Curated Institutional Menu", 5, 4),
+        ],
+        inclusions=[
+            _inc_included("Verified secure hotels with dedicated student floor wings", 1),
+            _inc_included("Top-tier GPS-tracked buses with professional student-friendly chauffeurs", 2),
+            _inc_included("Daily nutritious breakfast, lunch, and dinner plans", 3),
+            _inc_included("24/7 on-ground tour directors and emergency response support", 4),
+            _inc_included("Special analytical teaching guides, maps, and premium logistics support for faculty", 5),
+            _inc_included("Pre-booked student slots at Science City to bypass long public queues", 6),
+            _inc_excluded("Interstate airline or commercial railway logistics bookings", 7),
+            _inc_excluded("Personal laundry, room service billing, and soft drink orders", 8),
+            _inc_excluded("Individual shopping expenses or individual entry ride tickets inside Science City", 9),
+            _inc_excluded("Medical insurance protocols (available upon special institutional request)", 10),
+        ],
+    )
+    return package, itinerary
+
+
+def build_ch_005(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
+    serial = "CH-005"
+    tour_code = "TRG-CHD-MICE-005"
+    title = "Corporate Chandigarh • Strategic Excellence & Premium Leisure MICE Package"
+    duration = "02 Nights / 03 Days"
+    slug = "ch-005-chandigarh-corporate-mice-package"
+    itin_slug = "ch-005-chandigarh-corporate-mice-itinerary"
+    package = PackageCreate(
+        slug=slug,
+        serial_code=serial,
+        traguin_tour_code=tour_code,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        price=0,
+        rating=Decimal("4.9"),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ph(f"Serial code {serial} | TRAGUIN tour code {tour_code}", 1),
+            _ph("State / Country: Chandigarh / India | Category: Corporate MICE & Elite Retreat", 2),
+            _ph("Destinations: Chandigarh City Centre • Sukhna Lake • IT Park Hub", 3),
+            _ph("Ideal for: Corporate Conferences, Team Building & Executive Retreats", 4),
+            _ph("Best season: Year-Round (Best from October to March)", 5),
+            _ph("Starting price: On Request (Bespoke Corporate Commercials)", 6),
+            _ph("Premium AC luxury coaches / Corporate MAPAI", 7),
+            _ph("TRAGUIN Signature Experience: flawlessly structured corporate ice-breaker challenges custom-designed for your brand", 8),
+            _ph("Corporate souvenirs: Phulkari corporate gift sets, open-hand desktop sculptures", 9),
+            _ph("Travel note: conference room setups must be confirmed 14 days before arrival", 10),
+        ],
+        moods=["Corporate", "Luxury", "Family"],
+    )
+    itinerary = ItineraryCreate(
+        slug=itin_slug,
+        destination_id=destination_id,
+        title=title,
+        duration_label=duration,
+        duration_days=_duration_days(duration),
+        starting_price=0,
+        price_note="On Request (Bespoke Corporate Commercials)",
+        rating=Decimal("4.9"),
+        review_count=0,
+        tagline="Corporate Chandigarh • Strategic Excellence & Premium Leisure",
+        overview=(
+            "Welcome to a highly sophisticated corporate program engineered by TRAGUIN. This exclusive Chandigarh "
+            "Corporate MICE itinerary is flawlessly tailored for premium executive retreats, strategic annual meetings, "
+            "and team-building summits. Set against the architectural brilliance of India's first planned city, this "
+            "premium Chandigarh experience blends modern corporate amenities with beautiful local landscapes. As your "
+            "dedicated corporate travel partners, TRAGUIN transforms normal corporate outings into immersive "
+            "experiences that drive alignment, foster unforgettable memories, and elevate your brand's executive "
+            "standard.\n\n"
+            "Designed exclusively for corporate high-performers and leadership teams, this 3-day itinerary optimizes "
+            "professional conference schedules alongside premium leisure and networking. Traveling in private luxury "
+            "executive coaches with dedicated logistics coordinators, your group will experience unparalleled comfort. "
+            "Featuring seamless state-of-the-art boardrooms, tech-enabled conference venues, and curated gala evenings, "
+            "this route is the definitive template for a Luxury Chandigarh Holiday.\n\n"
+            "Why choose corporate Chandigarh for your next MICE event? Chandigarh is uniquely optimized for high-profile "
+            "business delegations. Its broad avenues, clean infrastructure, and major premium corporate hotels make it an "
+            "outstanding choice for professional events, award galas, and executive board presentations. Teams can explore "
+            "the Rock Garden for team-building photo challenges or enjoy a private evening cruise along Sukhna Lake."
+        ),
+        seo_title=f"{serial} | Chandigarh Corporate MICE Package | TRAGUIN",
+        seo_description=(
+            f"Corporate {duration} MICE package ({serial} / {tour_code}): conference boardrooms, Rock Garden team "
+            "building, Sukhna Lake networking cruise, Elante shopping, and executive hotel options up to 500 delegates."
+        ),
+        is_featured=False,
+        featured_sort_order=None,
+        is_published=False,
+        highlights=[
+            _ih("Executive welcome, strategy sessions & networking cocktails", 1),
+            _ih("Rock Garden strategic rally team-building exercise", 2),
+            _ih("Sukhna Lake private chartered group boat cruise", 3),
+            _ih("Capitol Complex UNESCO Site visit", 4),
+            _ih("Elante Mall premium shopping & farewell drop-off", 5),
+            _ih("Fast-track check-ins with pre-sorted room key distributions", 6),
+        ],
+        days=[
+            _day(
+                1,
+                "Arrival, Check-In & Conferences — Executive Welcome & Networking Cocktails",
+                (
+                    "Your corporate delegation arrives at Chandigarh Airport/Railway Station, received by our dedicated "
+                    "TRAGUIN logistics team with private executive signage and premium refreshments. Board your luxury "
+                    "AC coach for a smooth transfer to your handpicked business hotel. Enjoy a seamless group check-in "
+                    "followed by a fine corporate buffet lunch. The afternoon is dedicated to your first strategy session "
+                    "or corporate orientation in a premium high-tech boardroom. As the sun sets, transition to a "
+                    "sophisticated poolside terrace for networking drinks and curated local snacks."
+                ),
+                [
+                    "Sightseeing Included: City Centre orientation, modern architectural corridors",
+                    "Evening Experience: Exclusive corporate networking mixer with curated thematic entertainment",
+                    "Overnight Stay: Chandigarh Business Center (Premium / Luxury Category Hotel)",
+                    "Meals Included: Welcome Drink, Corporate Buffet Lunch & Gala Dinner",
+                ],
+            ),
+            _day(
+                2,
+                "Team Building & Sukhna Networking Cruise — Rock Garden Rally & Evening Gala",
+                (
+                    "Fuel your mind with an early morning lavish buffet breakfast. Day two begins with an active team-"
+                    "building exercise at the iconic Rock Garden, an ideal tourist playground for leadership photo rallies. "
+                    "After completing your morning activities, return to the hotel for mid-day seminars and presentations. "
+                    "In the late afternoon, enjoy the scenic beauty of Sukhna Lake with a private chartered group boat "
+                    "cruise. Conclude this high-impact day with a grand corporate awards dinner featuring fine live music "
+                    "inside a beautifully decorated luxury banquet ballroom."
+                ),
+                [
+                    "Sightseeing Included: Nek Chand's Rock Garden, Capitol Complex (UNESCO Site), Sukhna Lake Promenade",
+                    "Optional Activities: Executive stress-relief luxury spa treatments or private golf simulator sessions",
+                    "Overnight Stay: Chandigarh Corporate Zone (Premium / Luxury Stay)",
+                    "Meals Included: Lavish Breakfast, Working Lunch & Elite Gala Dinner",
+                ],
+            ),
+            _day(
+                3,
+                "Wrap-Up & Executive Departure — Closing Remarks, Shopping & Farewell",
+                (
+                    "Conclude your final business goals with a brief morning wrap-up meeting, followed by an early "
+                    "checkout. Before departure, your luxury coach will take the team to the Elante Mall sector for some "
+                    "premium shopping, café lounging, and souvenir collections. Collect authentic local Phulkari textiles "
+                    "and gifts for clients. Finally, your premium coach will drop your delegation back at the airport or "
+                    "station for their onward flights."
+                ),
+                [
+                    "Transfers Included: Private luxury door-to-door coordinated airport group drop-off",
+                    "Meals Included: Sumptuous Buffet Breakfast & Departure Packed Refreshments",
+                ],
+            ),
+        ],
+        hotels=[
+            _hotel("Lemon Tree Premier / Zone by The Park", "Chandigarh", "02 Nights", "Deluxe", "Executive Room", "Corporate MAPAI (B/F + Dinner)", 4, 1, description="Up to 120 delegates conference capacity."),
+            _hotel("Novotel Chandigarh / Radisson Hotel", "Chandigarh", "02 Nights", "Premium", "Premium Business Room", "Corporate MAPAI (B/F + Dinner)", 5, 2, description="Up to 250 delegates conference capacity."),
+            _hotel("Taj Chandigarh / Hyatt Regency", "Chandigarh", "02 Nights", "Luxury", "Luxury Club Room", "Premium MAPAI / Customized Corporate", 5, 3, description="Up to 500 delegates conference capacity."),
+            _hotel("The Oberoi Sukhvilas Spa Resort", "New Chandigarh", "02 Nights", "Ultra Luxury", "Premier Room / Executive Suite", "Bespoke Fine Dining Plan", 5, 4, description="Exclusive executive boardrooms."),
+        ],
+        inclusions=[
+            _inc_included("Coordinated group rooms with twin/single configurations", 1),
+            _inc_included("Complimentary access to standard conference halls with AV setups", 2),
+            _inc_included("Private corporate AC coaches for all transfers and group outings", 3),
+            _inc_included("On-ground corporate travel desk coordinator throughout the event", 4),
+            _inc_included("Private chartered group boat rides on Sukhna Lake", 5),
+            _inc_included("Group welcome kits, mineral water, and writing pads", 6),
+            _inc_excluded("Domestic or International airline/train ticketing costs", 7),
+            _inc_excluded("Alcoholic beverages during general gala dinners (available on billing)", 8),
+            _inc_excluded("Extra high-end conference equipment (e.g., customized LED backdrops)", 9),
+            _inc_excluded("Personal expenses, laundry, tipping, and hotel room service orders", 10),
+        ],
+    )
+    return package, itinerary
 
 def build_ch_007(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
     serial = "CH-007"
@@ -1820,6 +2631,11 @@ def build_ch_019(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
     return package, itinerary
 
 CHANDIGARH_DOMESTIC_BUILDERS = [
+    build_ch_001,
+    build_ch_002,
+    build_ch_003,
+    build_ch_004,
+    build_ch_005,
     build_ch_007,
     build_ch_008,
     build_ch_009,

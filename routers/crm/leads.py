@@ -14,8 +14,12 @@ from models.crm.leads import Lead, LeadActivity
 from models.crm.tenancy import User
 from schemas.crm.lead import (
     LeadActivityCreateNested,
+    LeadAssignmentPendingRead,
     LeadCreate,
     LeadFollowupRead,
+    LeadIntakeCheckRead,
+    LeadIntakeCustomerRead,
+    LeadIntakeDuplicateRead,
     LeadListRead,
     LeadRead,
     LeadRecentEventRead,
@@ -24,8 +28,9 @@ from schemas.crm.lead import (
 from schemas.pagination import PaginatedResponse
 from services.lead_assignee import apply_returning_customer_assignee
 from services.lead_codes import assign_lead_code, ensure_lead_code
-from services.lead_customers import link_or_create_customer_for_lead
-from services.lead_phone_dedup import find_canonical_lead_by_phone, merge_inquiry_into_existing_lead
+from services.lead_customers import find_customer_by_contact, link_or_create_customer_for_lead
+from services.lead_intake_check import check_lead_intake
+from services.lead_phone_dedup import merge_inquiry_into_existing_lead, resolve_canonical_lead_for_intake
 from services.lead_status import apply_lead_status_transition
 from services.leads import (
     add_lead_children,
@@ -36,6 +41,18 @@ from services.leads import (
     list_pending_followups_for_agency,
 )
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
+from services.email_notifications import (
+    notify_lead_assigned_email_by_id,
+    notify_lead_assignment_accepted_email_by_id,
+    notify_lead_assignment_rejected_email_by_id,
+)
+from services.lead_assignment import (
+    ASSIGNMENT_PENDING,
+    accept_lead_assignment,
+    apply_assignment_on_assign,
+    list_pending_assignments_for_user,
+    reject_lead_assignment,
+)
 from services.whatsapp_notifications import LeadUpdateNotice, notify_lead_update_by_id, notify_team_new_lead_by_id
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
@@ -47,6 +64,65 @@ def _finalize_lead_read(db: Session, lead: Lead) -> LeadRead:
     result = lead_to_read(db, lead)
     commit_or_raise(db)
     return result
+
+
+def _serialize_intake_check(
+    db: Session,
+    agency_id: UUID,
+    email: str | None,
+    phone: str | None,
+    exclude_lead_id: UUID | None = None,
+) -> LeadIntakeCheckRead:
+    result = check_lead_intake(
+        db,
+        agency_id=agency_id,
+        email=email,
+        phone=phone,
+        exclude_lead_id=exclude_lead_id,
+    )
+    customer_read = None
+    if result.existing_customer is not None:
+        customer = result.existing_customer
+        customer_read = LeadIntakeCustomerRead(
+            id=customer.id,
+            first_name=customer.first_name,
+            last_name=customer.last_name,
+            email=customer.email,
+            phone=customer.phone,
+        )
+    canonical_read = None
+    if result.canonical_lead is not None:
+        ensure_lead_code(db, result.canonical_lead)
+        canonical_read = LeadIntakeDuplicateRead(
+            id=result.canonical_lead.id,
+            lead_code=result.canonical_lead.lead_code,
+            title=result.canonical_lead.title,
+            status=result.canonical_lead.status,
+            email=result.canonical_lead.email,
+            phone=result.canonical_lead.phone,
+            created_at=result.canonical_lead.created_at,
+        )
+    duplicate_reads: list[LeadIntakeDuplicateRead] = []
+    for duplicate in result.duplicate_leads:
+        ensure_lead_code(db, duplicate)
+        duplicate_reads.append(
+            LeadIntakeDuplicateRead(
+                id=duplicate.id,
+                lead_code=duplicate.lead_code,
+                title=duplicate.title,
+                status=duplicate.status,
+                email=duplicate.email,
+                phone=duplicate.phone,
+                created_at=duplicate.created_at,
+            )
+        )
+    return LeadIntakeCheckRead(
+        existing_customer=customer_read,
+        canonical_lead=canonical_read,
+        match_reason=result.match_reason,
+        duplicate_leads=duplicate_reads,
+        will_merge=result.canonical_lead is not None,
+    )
 
 
 @router.get("", response_model=PaginatedResponse[LeadListRead])
@@ -65,6 +141,32 @@ def list_leads(
         limit,
         offset,
         transform=lambda lead: lead_to_list_read(db, lead),
+    )
+    commit_or_raise(db)
+    return result
+
+
+@router.get("/intake-check", response_model=LeadIntakeCheckRead)
+def check_lead_intake_endpoint(
+    email: str | None = Query(default=None),
+    phone: str | None = Query(default=None),
+    exclude_lead_id: UUID | None = Query(default=None),
+    agency_id: UUID = Depends(require_agency_scope),
+    db: Session = Depends(get_db),
+):
+    normalized_email = email.strip().lower() if email and email.strip() else None
+    normalized_phone = phone.strip() if phone and phone.strip() else None
+    if not normalized_email and not normalized_phone:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Provide at least one of email or phone.",
+        )
+    result = _serialize_intake_check(
+        db,
+        agency_id,
+        normalized_email,
+        normalized_phone,
+        exclude_lead_id=exclude_lead_id,
     )
     commit_or_raise(db)
     return result
@@ -124,6 +226,12 @@ def list_recent_lead_events(
 
     for lead in new_leads:
         ensure_lead_code(db, lead)
+        customer = find_customer_by_contact(
+            db,
+            agency_id=agency_id,
+            email=lead.email,
+            phone=lead.phone,
+        )
         events.append(
             LeadRecentEventRead(
                 id=lead.id,
@@ -135,6 +243,8 @@ def list_recent_lead_events(
                 created_at=lead.created_at,
                 updated_at=lead.updated_at,
                 kind="new",
+                existing_customer=customer is not None or lead.customer_id is not None,
+                customer_id=lead.customer_id or (customer.id if customer else None),
             )
         )
         seen.add(lead.id)
@@ -143,6 +253,16 @@ def list_recent_lead_events(
         if lead.id in seen:
             continue
         ensure_lead_code(db, lead)
+        customer = None
+        if lead.customer_id:
+            customer = db.get(Customer, lead.customer_id)
+        if customer is None:
+            customer = find_customer_by_contact(
+                db,
+                agency_id=agency_id,
+                email=lead.email,
+                phone=lead.phone,
+            )
         events.append(
             LeadRecentEventRead(
                 id=lead.id,
@@ -154,6 +274,9 @@ def list_recent_lead_events(
                 created_at=lead.created_at,
                 updated_at=lead.updated_at,
                 kind="returning",
+                existing_customer=True,
+                customer_id=lead.customer_id or (customer.id if customer else None),
+                merged_duplicate=True,
             )
         )
         seen.add(lead.id)
@@ -170,6 +293,87 @@ def list_pending_lead_followups(
     db: Session = Depends(get_db),
 ):
     return list_pending_followups_for_agency(db, agency_id)
+
+
+@router.get("/assignments/pending", response_model=list[LeadAssignmentPendingRead])
+def list_pending_lead_assignments(
+    agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    return list_pending_assignments_for_user(db, agency_id=agency_id, user_id=current_user.id)
+
+
+@router.post("/{lead_id}/assignment/accept", response_model=LeadRead)
+def accept_lead_assignment_route(
+    lead_id: UUID,
+    background_tasks: BackgroundTasks,
+    agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    lead = get_lead_for_agency(db, lead_id, agency_id)
+    if lead is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lead not found.")
+
+    accept_lead_assignment(db, lead, user_id=current_user.id)
+    audit_create(
+        db,
+        agency_id=agency_id,
+        user_id=current_user.id,
+        entity_type="Lead",
+        entity_id=lead.id,
+        details=(
+            f'Accepted lead assignment for "{lead.title}" '
+            f"({lead.first_name} {lead.last_name}) — started working on it"
+        ),
+    )
+    commit_or_raise(db)
+    background_tasks.add_task(
+        notify_lead_assignment_accepted_email_by_id,
+        lead.id,
+        assignee_user_id=current_user.id,
+    )
+    lead = get_lead_for_agency(db, lead.id, agency_id, include_deleted=True)
+    assert lead is not None
+    return _finalize_lead_read(db, lead)
+
+
+@router.post("/{lead_id}/assignment/reject", response_model=LeadRead)
+def reject_lead_assignment_route(
+    lead_id: UUID,
+    background_tasks: BackgroundTasks,
+    agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    lead = get_lead_for_agency(db, lead_id, agency_id)
+    if lead is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lead not found.")
+
+    lead, assigner_id = reject_lead_assignment(db, lead, user_id=current_user.id)
+    audit_create(
+        db,
+        agency_id=agency_id,
+        user_id=current_user.id,
+        entity_type="Lead",
+        entity_id=lead.id,
+        details=(
+            f'Rejected lead assignment for "{lead.title}" '
+            f"({lead.first_name} {lead.last_name})"
+        ),
+    )
+    commit_or_raise(db)
+    if assigner_id is not None:
+        background_tasks.add_task(
+            notify_lead_assignment_rejected_email_by_id,
+            lead.id,
+            assignee_user_id=current_user.id,
+            assigner_user_id=assigner_id,
+        )
+    lead = get_lead_for_agency(db, lead.id, agency_id, include_deleted=True)
+    assert lead is not None
+    return _finalize_lead_read(db, lead)
 
 
 @router.get("/{lead_id}", response_model=LeadRead)
@@ -198,8 +402,17 @@ def create_lead(
     if data.get("email"):
         data["email"] = str(data["email"]).strip().lower()
 
-    existing = find_canonical_lead_by_phone(db, agency_id=agency_id, phone=data.get("phone"))
+    existing, match_reason = resolve_canonical_lead_for_intake(
+        db,
+        agency_id=agency_id,
+        phone=data.get("phone"),
+    )
     if existing is not None:
+        merge_detail = (
+            f"Returning contact — new inquiry from {data.get('source') or 'Manual Input'}. "
+            f"Merged into lead {existing.lead_code or existing.id} "
+            f"(matched by {match_reason})."
+        )
         merge_inquiry_into_existing_lead(
             db,
             existing,
@@ -208,10 +421,7 @@ def create_lead(
             message=data.get("message"),
             email=data.get("email"),
             cms_package_id=data.get("cms_package_id"),
-            activity_detail=(
-                f"Returning contact — new inquiry from {data.get('source') or 'Manual Input'}. "
-                f"Merged into lead {existing.lead_code or existing.id}."
-            ),
+            activity_detail=merge_detail,
         )
         assignee_applied = apply_returning_customer_assignee(
             db,
@@ -293,6 +503,14 @@ def create_lead(
         requested_assignee_id=data.get("assigned_to_id"),
         prefer_original_handler=returning_customer,
     )
+    if lead.assigned_to_id is not None:
+        apply_assignment_on_assign(
+            db,
+            lead,
+            assignee_id=lead.assigned_to_id,
+            actor_id=current_user.id,
+            agency_id=agency_id,
+        )
 
     activities = list(payload.activities)
     if not any("Customer Directory profile linked" in a.description for a in activities):
@@ -350,6 +568,8 @@ def create_lead(
     )
     commit_or_raise(db)
     background_tasks.add_task(notify_team_new_lead_by_id, lead.id, event_type="crm_lead")
+    if lead.assigned_to_id is not None and lead.assignment_status == ASSIGNMENT_PENDING:
+        background_tasks.add_task(notify_lead_assigned_email_by_id, lead.id)
     response.status_code = status.HTTP_201_CREATED
     lead = get_lead_for_agency(db, lead.id, agency_id, include_deleted=True)
     assert lead is not None
@@ -376,6 +596,14 @@ def update_lead(
     )
     previous_status = lead.status
     apply_partial_update(lead, data)
+    if "assigned_to_id" in data:
+        apply_assignment_on_assign(
+            db,
+            lead,
+            assignee_id=lead.assigned_to_id,
+            actor_id=current_user.id,
+            agency_id=agency_id,
+        )
     if "status" in data:
         apply_lead_status_transition(
             db,
@@ -446,6 +674,8 @@ def update_lead(
         ),
     )
     commit_or_raise(db)
+    if notice.assigned_changed and lead.assigned_to_id is not None and lead.assignment_status == ASSIGNMENT_PENDING:
+        background_tasks.add_task(notify_lead_assigned_email_by_id, lead.id)
     if (
         notice.assigned_changed
         or notice.status_changed

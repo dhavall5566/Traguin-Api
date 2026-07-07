@@ -17,6 +17,41 @@ def _normalize_email(email: str | None) -> str | None:
 from utils.lead_codes import normalize_phone_digits
 
 
+def find_customer_by_contact(
+    db: Session,
+    *,
+    agency_id: UUID,
+    email: str | None,
+    phone: str | None,
+) -> Customer | None:
+    """Find an active customer profile by email or normalized phone."""
+    normalized = _normalize_email(email)
+    if normalized:
+        existing = db.scalar(
+            select(Customer).where(
+                Customer.agency_id == agency_id,
+                Customer.email == normalized,
+                Customer.is_deleted.is_(False),
+            )
+        )
+        if existing is not None:
+            return existing
+
+    phone_key = normalize_phone_digits(phone)
+    if phone_key:
+        candidates = db.scalars(
+            select(Customer).where(
+                Customer.agency_id == agency_id,
+                Customer.phone.isnot(None),
+                Customer.is_deleted.is_(False),
+            ).limit(200)
+        ).all()
+        for candidate in candidates:
+            if normalize_phone_digits(candidate.phone) == phone_key:
+                return candidate
+    return None
+
+
 def link_or_create_customer_for_lead(
     db: Session,
     *,

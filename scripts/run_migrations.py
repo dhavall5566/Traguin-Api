@@ -29,6 +29,8 @@ MIGRATION_MODULES: tuple[str, ...] = (
     "scripts.migrate_crm_lead_cms_package_id",
     "scripts.migrate_crm_lead_code",
     "scripts.migrate_crm_lead_package_mode",
+    "scripts.migrate_crm_lead_priority_category",
+    "scripts.migrate_crm_lead_assignment_status",
     "scripts.migrate_crm_agency_smtp_settings",
 )
 

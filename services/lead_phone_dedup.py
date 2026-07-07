@@ -59,6 +59,55 @@ def find_canonical_lead_by_phone(
     return None
 
 
+def resolve_canonical_lead_for_intake(
+    db: Session,
+    *,
+    agency_id: UUID,
+    phone: str | None,
+) -> tuple[Lead | None, str | None]:
+    """Return the oldest active lead with this phone — (lead, match_reason)."""
+    by_phone = find_canonical_lead_by_phone(db, agency_id=agency_id, phone=phone)
+    if by_phone is not None:
+        return by_phone, "phone"
+    return None, None
+
+
+def find_matching_leads(
+    db: Session,
+    *,
+    agency_id: UUID,
+    phone: str | None,
+    exclude_lead_id: UUID | None = None,
+    limit: int = 5,
+) -> list[Lead]:
+    """Active leads with the same phone (newest first), for duplicate warnings."""
+    phone_key = normalize_phone_digits(phone)
+    if not phone_key:
+        return []
+
+    candidates = db.scalars(
+        select(Lead)
+        .where(
+            Lead.agency_id == agency_id,
+            Lead.is_deleted.is_(False),
+            Lead.phone.isnot(None),
+        )
+        .order_by(Lead.created_at.desc())
+        .limit(250)
+    ).all()
+
+    matches: list[Lead] = []
+    for candidate in candidates:
+        if exclude_lead_id is not None and candidate.id == exclude_lead_id:
+            continue
+        if normalize_phone_digits(candidate.phone) != phone_key:
+            continue
+        matches.append(candidate)
+        if len(matches) >= limit:
+            break
+    return matches
+
+
 def find_prior_leads_by_phone(
     db: Session,
     *,

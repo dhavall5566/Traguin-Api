@@ -288,6 +288,10 @@ def notify_lead_update_by_id(lead_id: UUID, notice: LeadUpdateNotice) -> None:
                     extra=f"Title: {lead.title}",
                 ),
             )
+            if lead.assigned_to_id is not None:
+                from services.email_notifications import notify_lead_assigned_email_by_id
+
+                notify_lead_assigned_email_by_id(lead.id)
 
         if notice.status_changed and notice.new_status:
             label = STATUS_LABELS.get(notice.new_status.upper(), notice.new_status)

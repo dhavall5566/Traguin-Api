@@ -93,6 +93,10 @@ class LeadBase(BaseModel):
     value: Decimal = Field(default=Decimal("0.00"), ge=0)
     source: str | None = Field(default=None, max_length=128)
     assigned_to_id: UUID | None = None
+    assignment_status: str | None = Field(default=None, max_length=16)
+    assigned_by_id: UUID | None = None
+    priority: str | None = Field(default=None, max_length=16)
+    lead_category: str | None = Field(default=None, max_length=32)
     customer_id: UUID | None = None
     message: str | None = None
     cms_package_id: UUID | None = None
@@ -114,6 +118,8 @@ class LeadUpdate(BaseModel):
     value: Decimal | None = Field(default=None, ge=0)
     source: str | None = Field(default=None, max_length=128)
     assigned_to_id: UUID | None = None
+    priority: str | None = Field(default=None, max_length=16)
+    lead_category: str | None = Field(default=None, max_length=32)
     customer_id: UUID | None = None
     message: str | None = None
     cms_package_id: UUID | None = None
@@ -185,3 +191,51 @@ class LeadRecentEventRead(BaseModel):
     created_at: datetime
     updated_at: datetime
     kind: str = Field(description="new | returning")
+    existing_customer: bool = False
+    customer_id: UUID | None = None
+    merged_duplicate: bool = False
+    match_reason: str | None = Field(
+        default=None,
+        description="phone when inquiry merged into an existing lead",
+    )
+
+
+class LeadIntakeDuplicateRead(BaseModel):
+    id: UUID
+    lead_code: str | None = None
+    title: str
+    status: str
+    email: str | None = None
+    phone: str | None = None
+    created_at: datetime
+
+
+class LeadIntakeCustomerRead(BaseModel):
+    id: UUID
+    first_name: str
+    last_name: str
+    email: str
+    phone: str | None = None
+
+
+class LeadIntakeCheckRead(BaseModel):
+    existing_customer: LeadIntakeCustomerRead | None = None
+    canonical_lead: LeadIntakeDuplicateRead | None = None
+    match_reason: str | None = None
+    duplicate_leads: list[LeadIntakeDuplicateRead] = Field(default_factory=list)
+    will_merge: bool = False
+
+
+class LeadAssignmentPendingRead(BaseModel):
+    """Lead assigned to the current user awaiting accept/reject."""
+
+    id: UUID
+    lead_code: str | None = None
+    title: str
+    first_name: str
+    last_name: str
+    source: str | None = None
+    phone: str | None = None
+    assigned_by_id: UUID | None = None
+    assigned_by_name: str | None = None
+    updated_at: datetime

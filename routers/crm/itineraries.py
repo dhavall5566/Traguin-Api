@@ -8,7 +8,13 @@ from dependencies.crm_auth import require_agency_scope, require_crm_user
 from dependencies.pagination import get_pagination
 from models.crm.itineraries import Itinerary
 from models.crm.tenancy import User
-from schemas.crm.itinerary import ItineraryCreate, ItineraryListRead, ItineraryRead, ItineraryUpdate
+from schemas.crm.itinerary import (
+    ItineraryCreate,
+    ItineraryFromCmsPackageCreate,
+    ItineraryListRead,
+    ItineraryRead,
+    ItineraryUpdate,
+)
 from schemas.pagination import PaginatedResponse
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
 from services.crm_itineraries import (
@@ -18,6 +24,7 @@ from services.crm_itineraries import (
     itinerary_to_read,
     sync_itinerary_days,
 )
+from services.crm_itinerary_from_cms_package import create_crm_itinerary_from_cms_package
 from services.crm_scope import get_customer_for_agency, require_itinerary_for_agency
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
@@ -45,6 +52,34 @@ def list_itineraries(
         .order_by(Itinerary.created_at.desc())
     )
     return paginate(query, limit, offset, transform=itinerary_to_list_read)
+
+
+@router.post("/from-cms-package", response_model=ItineraryRead, status_code=status.HTTP_201_CREATED)
+def create_itinerary_from_cms_package(
+    payload: ItineraryFromCmsPackageCreate,
+    agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    _validate_customer(db, payload.customer_id, agency_id)
+    itinerary = create_crm_itinerary_from_cms_package(
+        db,
+        agency_id=agency_id,
+        cms_package_id=payload.cms_package_id,
+        customer_id=payload.customer_id,
+    )
+    audit_create(
+        db,
+        agency_id=agency_id,
+        user_id=current_user.id,
+        entity_type="Itinerary",
+        entity_id=itinerary.id,
+        details=f'Created itinerary from CMS package "{itinerary.title}"',
+    )
+    commit_or_raise(db)
+    itinerary = get_itinerary_with_nested(db, itinerary.id, agency_id)
+    assert itinerary is not None
+    return itinerary_to_read(itinerary)
 
 
 @router.get("/{itinerary_id}", response_model=ItineraryRead)

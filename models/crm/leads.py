@@ -34,6 +34,12 @@ class Lead(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     assigned_to_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("users.id", ondelete="SET NULL"), nullable=True
     )
+    assignment_status: Mapped[Optional[str]] = mapped_column(String(16), nullable=True)
+    assigned_by_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("users.id", ondelete="SET NULL"), nullable=True
+    )
+    priority: Mapped[Optional[str]] = mapped_column(String(16), nullable=True)
+    lead_category: Mapped[Optional[str]] = mapped_column(String(32), nullable=True)
     customer_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("customers.id", ondelete="SET NULL"), nullable=True
     )

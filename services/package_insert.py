@@ -149,3 +149,68 @@ def upsert_package_without_images(
         itinerary=itinerary,
         image_specs=[],
     )
+
+
+def insert_package_if_missing(
+    db: Session,
+    *,
+    destination_id: str,
+    package: PackageCreate,
+    itinerary: ItineraryCreate,
+) -> tuple[Package, Itinerary] | None:
+    """Insert package + itinerary only when neither already exists. No images."""
+    destination = db.get(Destination, destination_id)
+    if destination is None:
+        raise RuntimeError(f"Destination not found: {destination_id}")
+
+    if package.serial_code:
+        existing_pkg = db.scalar(select(Package).where(Package.serial_code == package.serial_code))
+    else:
+        existing_pkg = db.scalar(select(Package).where(Package.slug == package.slug))
+    if existing_pkg:
+        print(f"Skipping {package.serial_code or package.slug}: package already exists ({existing_pkg.id})")
+        return None
+
+    existing_itin = db.scalar(select(Itinerary).where(Itinerary.slug == itinerary.slug))
+    if existing_itin:
+        print(f"Skipping {itinerary.slug}: itinerary already exists ({existing_itin.id})")
+        return None
+
+    moods = travel_moods_for_package(package.slug, package.moods)
+    pkg_data = package.model_dump()
+    highlights = pkg_data.pop("highlights")
+    pkg_data.pop("moods", None)
+    pkg_row = Package(**pkg_data)
+    db.add(pkg_row)
+    db.flush()
+    sync_package_highlights(db, pkg_row, highlights)
+    sync_package_moods(db, pkg_row, moods)
+    print(f"Created package: {pkg_row.slug} ({pkg_row.id})")
+
+    itin_data = itinerary.model_dump()
+    itin_data["package_id"] = pkg_row.id
+    itin_highlights = itin_data.pop("highlights")
+    days = itin_data.pop("days")
+    hotels = itin_data.pop("hotels")
+    inclusions = itin_data.pop("inclusions")
+    itin_data.pop("gallery_media_ids", None)
+
+    itin_row = Itinerary(**itin_data)
+    db.add(itin_row)
+    db.flush()
+    sync_itinerary_highlights(db, itin_row, itin_highlights)
+    sync_itinerary_days(db, itin_row, days)
+    sync_itinerary_hotels(db, itin_row, hotels)
+    sync_itinerary_inclusions(db, itin_row, inclusions)
+    print(f"Created itinerary: {itin_row.slug} ({itin_row.id})")
+
+    commit_or_raise(db)
+
+    itin_row = itinerary_query_with_nested(db).filter_by(id=itin_row.id).one()
+    pkg_row = package_query_with_nested(db).filter_by(id=pkg_row.id).one()
+    print(f"Linked package {pkg_row.slug} -> itinerary {itin_row.slug}")
+    print(
+        f"Days: {len(itin_row.days)} | Hotels: {len(itin_row.hotels)} | "
+        f"Inclusions: {len(itin_row.inclusions)}"
+    )
+    return pkg_row, itin_row

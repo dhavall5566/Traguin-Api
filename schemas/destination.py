@@ -6,6 +6,8 @@ from pydantic import BaseModel, Field
 from schemas.common import TimestampRead
 from schemas.media import MediaSummary
 
+INDIA_REGION_PATTERN = "^(north|east|south|west|central|islands|northeast|north-east)$"
+
 
 class DestinationCategoryBase(BaseModel):
     slug: str = Field(..., min_length=1, max_length=128)
@@ -41,7 +43,7 @@ class DestinationBase(BaseModel):
     name: str = Field(..., min_length=1, max_length=255)
     country: str | None = Field(default=None, max_length=255)
     region: str = Field(..., pattern="^(domestic|international)$")
-    india_region: str | None = Field(default=None, pattern="^(north|east|south|west)$")
+    india_region: str | None = Field(default=None, pattern=INDIA_REGION_PATTERN)
     description: str = Field(..., min_length=1)
     starting_price: int = Field(..., ge=0)
     hero_media_id: UUID | None = None
@@ -67,7 +69,7 @@ class DestinationUpdate(BaseModel):
     name: str | None = Field(default=None, min_length=1, max_length=255)
     country: str | None = Field(default=None, max_length=255)
     region: str | None = Field(default=None, pattern="^(domestic|international)$")
-    india_region: str | None = Field(default=None, pattern="^(north|east|south|west)$")
+    india_region: str | None = Field(default=None, pattern=INDIA_REGION_PATTERN)
     description: str | None = Field(default=None, min_length=1)
     starting_price: int | None = Field(default=None, ge=0)
     hero_media_id: UUID | None = None

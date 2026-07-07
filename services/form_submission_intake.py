@@ -20,7 +20,7 @@ from services.crm_audit import audit_create, audit_update
 from services.lead_assignee import apply_returning_customer_assignee
 from services.lead_codes import assign_lead_code
 from services.lead_customers import link_or_create_customer_for_lead
-from services.lead_phone_dedup import find_canonical_lead_by_phone, merge_inquiry_into_existing_lead
+from services.lead_phone_dedup import merge_inquiry_into_existing_lead, resolve_canonical_lead_for_intake
 from utils.member_codes import assign_submission_inquiry_code
 
 LEAD_ELIGIBLE_FORM_TYPES = frozenset(
@@ -275,7 +275,11 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
     cms_package_id = _resolve_cms_package_id(db, submission)
     new_source = f"Website · {submission.form_type}"
 
-    existing = find_canonical_lead_by_phone(db, agency_id=agency_id, phone=phone)
+    existing, match_reason = resolve_canonical_lead_for_intake(
+        db,
+        agency_id=agency_id,
+        phone=phone,
+    )
     if existing is not None:
         merge_inquiry_into_existing_lead(
             db,
@@ -288,7 +292,8 @@ def process_form_submission_intake(db: Session, submission: FormSubmission) -> L
             activity_detail=(
                 f"Website intake from {submission.form_type} "
                 f"(form_submission_id={submission.id}) · "
-                f"Merged into lead {existing.lead_code or existing.id}"
+                f"Merged into lead {existing.lead_code or existing.id} "
+                f"(matched by {match_reason})"
             ),
         )
 
