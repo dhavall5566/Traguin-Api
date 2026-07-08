@@ -130,6 +130,7 @@ def list_about_client_logos(
     query = (
         db.query(AboutClientLogo)
         .filter(AboutClientLogo.is_published.is_(True))
+        .filter(AboutClientLogo.logo_media_id.isnot(None))
         .order_by(AboutClientLogo.sort_order, AboutClientLogo.name)
     )
     return paginate(query, limit, offset, transform=AboutClientLogoRead.model_validate)
