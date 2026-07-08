@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Request, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.submissions import FormSubmission
 from schemas.form_submissions import (
@@ -22,9 +23,17 @@ router = APIRouter()
 def list_form_submissions(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(FormSubmission).order_by(FormSubmission.created_at.desc())
+    query = db.query(FormSubmission)
+    query = apply_admin_list_filters(
+        query,
+        FormSubmission,
+        filters,
+        search_fields=("form_type", "name", "email", "phone", "status"),
+    )
+    query = query.order_by(FormSubmission.created_at.desc())
     return paginate(query, limit, offset, transform=FormSubmissionRead.model_validate)
 
 

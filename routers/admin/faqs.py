@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.content import Faq
 from schemas.faq import FaqCreate, FaqRead, FaqUpdate
@@ -18,9 +19,12 @@ router = APIRouter()
 def list_faqs(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(Faq).order_by(Faq.sort_order, Faq.question)
+    query = db.query(Faq)
+    query = apply_admin_list_filters(query, Faq, filters, search_fields=("question", "answer"))
+    query = query.order_by(Faq.sort_order, Faq.question)
     return paginate(query, limit, offset, transform=FaqRead.model_validate)
 
 

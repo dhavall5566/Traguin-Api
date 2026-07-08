@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.config import (
     CompanyStats,
@@ -55,11 +56,17 @@ global_page_cta_router = APIRouter()
 def list_navigation_links(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(NavigationLink).order_by(
-        NavigationLink.menu_group, NavigationLink.sort_order, NavigationLink.label
+    query = db.query(NavigationLink)
+    query = apply_admin_list_filters(
+        query,
+        NavigationLink,
+        filters,
+        search_fields=("menu_group", "label", "href"),
     )
+    query = query.order_by(NavigationLink.menu_group, NavigationLink.sort_order, NavigationLink.label)
     return paginate(query, limit, offset, transform=NavigationLinkRead.model_validate)
 
 
@@ -109,9 +116,12 @@ def delete_navigation_link(link_id: UUID, db: Session = Depends(get_db)):
 def list_site_ctas(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(SiteCta).order_by(SiteCta.sort_order.nulls_last(), SiteCta.key)
+    query = db.query(SiteCta)
+    query = apply_admin_list_filters(query, SiteCta, filters, search_fields=("key", "label", "href"))
+    query = query.order_by(SiteCta.sort_order.nulls_last(), SiteCta.key)
     return paginate(query, limit, offset, transform=SiteCtaRead.model_validate)
 
 
@@ -157,9 +167,17 @@ def delete_site_cta(cta_id: UUID, db: Session = Depends(get_db)):
 def list_page_metadata(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(PageMetadata).order_by(PageMetadata.page_key)
+    query = db.query(PageMetadata)
+    query = apply_admin_list_filters(
+        query,
+        PageMetadata,
+        filters,
+        search_fields=("page_key", "title", "description"),
+    )
+    query = query.order_by(PageMetadata.page_key)
     return paginate(query, limit, offset, transform=PageMetadataRead.model_validate)
 
 
@@ -209,9 +227,17 @@ def delete_page_metadata(metadata_id: UUID, db: Session = Depends(get_db)):
 def list_page_heroes(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(PageHero).order_by(PageHero.page_key, PageHero.region_variant)
+    query = db.query(PageHero)
+    query = apply_admin_list_filters(
+        query,
+        PageHero,
+        filters,
+        search_fields=("page_key", "region_variant", "title", "eyebrow", "badge", "description"),
+    )
+    query = query.order_by(PageHero.page_key, PageHero.region_variant)
     return paginate(query, limit, offset, transform=PageHeroRead.model_validate)
 
 
@@ -257,9 +283,17 @@ def delete_page_hero(hero_id: UUID, db: Session = Depends(get_db)):
 def list_redirects(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(Redirect).order_by(Redirect.old_path)
+    query = db.query(Redirect)
+    query = apply_admin_list_filters(
+        query,
+        Redirect,
+        filters,
+        search_fields=("old_path", "target_path", "target_type"),
+    )
+    query = query.order_by(Redirect.old_path)
     return paginate(query, limit, offset, transform=RedirectRead.model_validate)
 
 

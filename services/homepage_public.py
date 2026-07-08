@@ -39,7 +39,11 @@ from schemas.packages import PackageRead
 from services.destinations import destination_query_with_categories, destination_to_read
 from services.experiences import experience_query_with_nested, experience_to_read
 from services.gallery import client_story_query, client_story_to_read
-from services.homepage_hero_settings import read_homepage_hero_settings
+from services.homepage_hero_settings import (
+    has_homepage_hero_visibility_configured,
+    read_homepage_hero_settings,
+    select_homepage_hero_packages,
+)
 from services.itineraries import itinerary_query_with_nested, itinerary_to_read
 from services.packages import package_query_with_nested, package_to_read
 from utils.singleton import get_singleton_or_404
@@ -114,14 +118,13 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
         .all()
     )
 
-    featured_packages = [p for p in packages if p.is_featured]
-    visible_ids = set(hero_settings["visible_package_ids"])
-    if visible_ids:
-        featured_packages = [p for p in featured_packages if str(p.id) in visible_ids]
-    elif featured_packages:
-        featured_packages = featured_packages[: hero_settings["hero_slider_max_items"]]
-
-    hero_package_ids = {p.id for p in (featured_packages or packages[: hero_settings["hero_slider_max_items"]])}
+    featured_packages = select_homepage_hero_packages(packages, company_stats)
+    if featured_packages:
+        hero_package_ids = {p.id for p in featured_packages}
+    elif has_homepage_hero_visibility_configured(company_stats):
+        hero_package_ids = set()
+    else:
+        hero_package_ids = {p.id for p in packages[: hero_settings["hero_slider_max_items"]]}
     featured_dest_ids = {d.id for d in destinations if d.is_featured}
     hero_dest_ids = {p.destination_id for p in packages if p.id in hero_package_ids and p.destination_id}
     itinerary_dest_ids = featured_dest_ids | hero_dest_ids

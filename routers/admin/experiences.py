@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.experiences import Experience
 from schemas.experiences import ExperienceCreate, ExperienceRead, ExperienceUpdate
@@ -25,9 +26,17 @@ router = APIRouter()
 def list_experiences(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = experience_query_with_nested(db).order_by(Experience.headline)
+    query = experience_query_with_nested(db)
+    query = apply_admin_list_filters(
+        query,
+        Experience,
+        filters,
+        search_fields=("headline", "slug", "eyebrow", "card_title"),
+    )
+    query = query.order_by(Experience.headline)
     return paginate(query, limit, offset, transform=experience_to_read)
 
 

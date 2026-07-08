@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.chat import ChatAgentQuickReply, ChatAgentSettings, ChatAgentWelcomeMessage
 from schemas.chat import (
@@ -49,11 +50,17 @@ def update_chat_agent_settings(
 def list_welcome_messages(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(ChatAgentWelcomeMessage).order_by(
-        ChatAgentWelcomeMessage.sort_order, ChatAgentWelcomeMessage.message
+    query = db.query(ChatAgentWelcomeMessage)
+    query = apply_admin_list_filters(
+        query,
+        ChatAgentWelcomeMessage,
+        filters,
+        search_fields=("message",),
     )
+    query = query.order_by(ChatAgentWelcomeMessage.sort_order, ChatAgentWelcomeMessage.message)
     return paginate(query, limit, offset, transform=ChatAgentWelcomeMessageRead.model_validate)
 
 
@@ -116,11 +123,17 @@ def delete_welcome_message(message_id: UUID, db: Session = Depends(get_db)):
 def list_quick_replies(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(ChatAgentQuickReply).order_by(
-        ChatAgentQuickReply.sort_order, ChatAgentQuickReply.label
+    query = db.query(ChatAgentQuickReply)
+    query = apply_admin_list_filters(
+        query,
+        ChatAgentQuickReply,
+        filters,
+        search_fields=("key", "label", "response", "href"),
     )
+    query = query.order_by(ChatAgentQuickReply.sort_order, ChatAgentQuickReply.label)
     return paginate(query, limit, offset, transform=ChatAgentQuickReplyRead.model_validate)
 
 

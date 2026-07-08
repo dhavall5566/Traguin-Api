@@ -31,6 +31,7 @@ from utils.package_title import clean_package_title
 
 def itinerary_query_with_nested(db: Session):
     return db.query(Itinerary).options(
+        selectinload(Itinerary.package),
         selectinload(Itinerary.highlights),
         selectinload(Itinerary.days),
         selectinload(Itinerary.hotels),
@@ -179,4 +180,7 @@ def itinerary_to_read(itinerary: Itinerary) -> ItineraryRead:
     )
     if read.title:
         read.title = clean_package_title(read.title) or read.title
+    linked_package = getattr(itinerary, "package", None)
+    if linked_package is not None and linked_package.hero_media_id is not None:
+        read.package_hero_media_id = linked_package.hero_media_id
     return read

@@ -1,6 +1,6 @@
 import uuid
 from decimal import Decimal
-from typing import Optional
+from typing import TYPE_CHECKING, Optional
 
 from sqlalchemy import (
     Boolean,
@@ -17,6 +17,9 @@ from sqlalchemy.dialects.postgresql import ARRAY, UUID
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from models.base import Base, TimestampMixin, UUIDPrimaryKeyMixin
+
+if TYPE_CHECKING:
+    from models.packages import Package
 
 
 class Itinerary(Base, UUIDPrimaryKeyMixin, TimestampMixin):
@@ -53,6 +56,11 @@ class Itinerary(Base, UUIDPrimaryKeyMixin, TimestampMixin):
     seo_title: Mapped[Optional[str]] = mapped_column(String(255), nullable=True)
     seo_description: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     is_published: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
+
+    package: Mapped[Optional["Package"]] = relationship(
+        "Package",
+        foreign_keys=[package_id],
+    )
 
     highlights: Mapped[list["ItineraryHighlight"]] = relationship(
         back_populates="itinerary", cascade="all, delete-orphan", order_by="ItineraryHighlight.sort_order"

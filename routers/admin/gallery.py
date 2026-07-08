@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.gallery import ClientStory, GalleryCategory, GalleryItem
 from schemas.gallery import (
@@ -38,9 +39,17 @@ gallery_items_router = APIRouter()
 def list_client_stories(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = client_story_query(db).order_by(
+    query = client_story_query(db)
+    query = apply_admin_list_filters(
+        query,
+        ClientStory,
+        filters,
+        search_fields=("client_name", "quote"),
+    )
+    query = query.order_by(
         ClientStory.home_sort_order.nulls_last(),
         ClientStory.gallery_sort_order.nulls_last(),
         ClientStory.client_name,
@@ -94,9 +103,17 @@ def delete_client_story(story_id: UUID, db: Session = Depends(get_db)):
 def list_gallery_categories(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(GalleryCategory).order_by(GalleryCategory.sort_order, GalleryCategory.label)
+    query = db.query(GalleryCategory)
+    query = apply_admin_list_filters(
+        query,
+        GalleryCategory,
+        filters,
+        search_fields=("label", "slug"),
+    )
+    query = query.order_by(GalleryCategory.sort_order, GalleryCategory.label)
     return paginate(query, limit, offset, transform=GalleryCategoryRead.model_validate)
 
 
@@ -146,11 +163,17 @@ def delete_gallery_category(category_id: UUID, db: Session = Depends(get_db)):
 def list_gallery_items(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = gallery_item_query_with_categories(db).order_by(
-        GalleryItem.sort_order.nulls_last(), GalleryItem.place
+    query = gallery_item_query_with_categories(db)
+    query = apply_admin_list_filters(
+        query,
+        GalleryItem,
+        filters,
+        search_fields=("place", "slug", "region_label"),
     )
+    query = query.order_by(GalleryItem.sort_order.nulls_last(), GalleryItem.place)
     return paginate(query, limit, offset, transform=gallery_item_to_read)
 
 

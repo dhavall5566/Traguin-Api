@@ -4,7 +4,9 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
+from models.destinations import Destination
 from models.packages import Package
 from schemas.packages import PackageCreate, PackageListRead, PackageRead, PackageUpdate
 from schemas.pagination import PaginatedResponse
@@ -14,6 +16,7 @@ from services.packages import (
     package_query_with_nested,
     package_to_list_read,
     package_to_read,
+    sync_package_hero_to_itineraries,
     sync_package_highlights,
     sync_package_moods,
 )
@@ -27,9 +30,18 @@ router = APIRouter()
 def list_packages(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = package_list_query(db).order_by(Package.title)
+    query = package_list_query(db)
+    query = apply_admin_list_filters(
+        query,
+        Package,
+        filters,
+        search_fields=("title", "slug", "serial_code", "traguin_tour_code", "duration_label"),
+        destination_model=Destination,
+    )
+    query = query.order_by(Package.title)
     return paginate(query, limit, offset, transform=package_to_list_read)
 
 
@@ -53,6 +65,7 @@ def create_package(payload: PackageCreate, db: Session = Depends(get_db)):
     db.flush()
     sync_package_highlights(db, package, highlights)
     sync_package_moods(db, package, moods)
+    sync_package_hero_to_itineraries(db, package)
     commit_or_raise(db)
     package = package_query_with_nested(db).filter_by(id=package.id).one()
     return package_to_read(package)
@@ -75,6 +88,7 @@ def update_package(
         sync_package_highlights(db, package, highlights)
     if moods is not None:
         sync_package_moods(db, package, moods)
+    sync_package_hero_to_itineraries(db, package)
     commit_or_raise(db)
     package = package_query_with_nested(db).filter_by(id=package.id).one()
     return package_to_read(package)

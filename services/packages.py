@@ -3,6 +3,7 @@ from uuid import UUID
 from sqlalchemy.orm import Session, selectinload
 
 from models.destinations import Destination
+from models.itineraries import Itinerary
 from models.packages import Package, PackageHighlight, PackageMood
 from schemas.packages import PackageHighlightRead, PackageListRead, PackageRead
 from services.travel_moods import normalize_travel_moods
@@ -78,6 +79,15 @@ def merge_package_moods(db: Session, package: Package, new_moods: list[str]) -> 
     existing = [m.mood for m in package.moods]
     merged = normalize_travel_moods(existing + new_moods)
     sync_package_moods(db, package, merged)
+
+
+def sync_package_hero_to_itineraries(db: Session, package: Package) -> None:
+    """Copy package hero image to linked itineraries that do not have their own hero."""
+    if package.hero_media_id is None:
+        return
+    for itinerary in db.query(Itinerary).filter(Itinerary.package_id == package.id).all():
+        if itinerary.hero_media_id is None:
+            itinerary.hero_media_id = package.hero_media_id
 
 
 def package_to_read(package: Package) -> PackageRead:

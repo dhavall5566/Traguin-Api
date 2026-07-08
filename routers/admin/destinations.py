@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.destinations import Destination
 from schemas.destination import DestinationCreate, DestinationRead, DestinationUpdate
@@ -24,9 +25,17 @@ router = APIRouter()
 def list_destinations(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = destination_query_with_categories(db).order_by(Destination.name)
+    query = destination_query_with_categories(db)
+    query = apply_admin_list_filters(
+        query,
+        Destination,
+        filters,
+        search_fields=("name", "slug", "country"),
+    )
+    query = query.order_by(Destination.name)
     return paginate(query, limit, offset, transform=destination_to_read)
 
 

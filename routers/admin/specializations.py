@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.content import Specialization
 from schemas.pagination import PaginatedResponse
@@ -18,9 +19,17 @@ router = APIRouter()
 def list_specializations(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(Specialization).order_by(Specialization.sort_order, Specialization.title)
+    query = db.query(Specialization)
+    query = apply_admin_list_filters(
+        query,
+        Specialization,
+        filters,
+        search_fields=("title", "slug", "description", "icon_key"),
+    )
+    query = query.order_by(Specialization.sort_order, Specialization.title)
     return paginate(query, limit, offset, transform=SpecializationRead.model_validate)
 
 

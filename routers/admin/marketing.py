@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.content import (
     AboutClientLogo,
@@ -71,14 +72,26 @@ about_page_header_router = APIRouter()
 careers_page_extras_router = APIRouter()
 
 
-def _simple_crud(router, model, create_schema, read_schema, update_schema, order_by, not_found: str):
+def _simple_crud(
+    router,
+    model,
+    create_schema,
+    read_schema,
+    update_schema,
+    order_by,
+    not_found: str,
+    search_fields: tuple[str, ...],
+):
     @router.get("", response_model=PaginatedResponse[read_schema])
     def list_items(
         db: Session = Depends(get_db),
         pagination: tuple[int, int] = Depends(get_pagination),
+        filters: AdminListFilters = Depends(get_admin_list_filters),
     ):
         limit, offset = pagination
-        query = db.query(model).order_by(*order_by)
+        query = db.query(model)
+        query = apply_admin_list_filters(query, model, filters, search_fields=search_fields)
+        query = query.order_by(*order_by)
         return paginate(query, limit, offset, transform=read_schema.model_validate)
 
     @router.get("/{item_id}", response_model=read_schema)
@@ -124,6 +137,7 @@ _simple_crud(
     JourneyProcessStepUpdate,
     (JourneyProcessStep.sort_order, JourneyProcessStep.title),
     "Journey process step not found.",
+    ("title", "step_label", "description", "detail", "icon_key"),
 )
 _simple_crud(
     value_propositions_router,
@@ -133,6 +147,7 @@ _simple_crud(
     ValuePropositionUpdate,
     (ValueProposition.sort_order, ValueProposition.title),
     "Value proposition not found.",
+    ("title", "step_label", "description", "highlight", "icon_key"),
 )
 _simple_crud(
     concierge_services_router,
@@ -142,6 +157,7 @@ _simple_crud(
     ConciergeServiceUpdate,
     (ConciergeService.sort_order, ConciergeService.title),
     "Concierge service not found.",
+    ("slug", "title", "description", "number_label", "icon_key"),
 )
 _simple_crud(
     homepage_region_panels_router,
@@ -151,6 +167,7 @@ _simple_crud(
     HomepageRegionPanelUpdate,
     (HomepageRegionPanel.sort_order, HomepageRegionPanel.key),
     "Homepage region panel not found.",
+    ("key", "label", "title", "description", "stat_text", "href", "mood"),
 )
 _simple_crud(
     about_story_sections_router,
@@ -160,6 +177,7 @@ _simple_crud(
     AboutStorySectionUpdate,
     (AboutStorySection.sort_order, AboutStorySection.title),
     "About story section not found.",
+    ("title", "body"),
 )
 _simple_crud(
     about_client_logos_router,
@@ -169,6 +187,7 @@ _simple_crud(
     AboutClientLogoUpdate,
     (AboutClientLogo.sort_order, AboutClientLogo.name),
     "About client logo not found.",
+    ("slug", "name"),
 )
 
 
@@ -176,9 +195,17 @@ _simple_crud(
 def list_job_openings(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(JobOpening).order_by(JobOpening.sort_order, JobOpening.title)
+    query = db.query(JobOpening)
+    query = apply_admin_list_filters(
+        query,
+        JobOpening,
+        filters,
+        search_fields=("slug", "title", "location", "employment_type", "description"),
+    )
+    query = query.order_by(JobOpening.sort_order, JobOpening.title)
     return paginate(query, limit, offset, transform=JobOpeningRead.model_validate)
 
 

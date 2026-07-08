@@ -4,6 +4,7 @@ from fastapi import APIRouter, Depends, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.legal import LegalPage
 from schemas.legal import LegalPageCreate, LegalPageRead, LegalPageUpdate
@@ -18,9 +19,17 @@ router = APIRouter()
 def list_legal_pages(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(LegalPage).order_by(LegalPage.slug)
+    query = db.query(LegalPage)
+    query = apply_admin_list_filters(
+        query,
+        LegalPage,
+        filters,
+        search_fields=("slug", "title", "eyebrow", "description"),
+    )
+    query = query.order_by(LegalPage.slug)
     return paginate(query, limit, offset, transform=LegalPageRead.model_validate)
 
 

@@ -6,6 +6,7 @@ from fastapi import APIRouter, Depends, File, Form, HTTPException, Request, Resp
 from sqlalchemy.orm import Session
 
 from database import get_db
+from dependencies.admin_list_filters import AdminListFilters, apply_admin_list_filters, get_admin_list_filters
 from dependencies.pagination import get_pagination
 from models.media import MediaAsset
 from schemas.media import MediaAssetCreate, MediaAssetRead, MediaAssetUpdate
@@ -27,9 +28,17 @@ router = APIRouter()
 def list_media_assets(
     db: Session = Depends(get_db),
     pagination: tuple[int, int] = Depends(get_pagination),
+    filters: AdminListFilters = Depends(get_admin_list_filters),
 ):
     limit, offset = pagination
-    query = db.query(MediaAsset).order_by(MediaAsset.created_at.desc())
+    query = db.query(MediaAsset)
+    query = apply_admin_list_filters(
+        query,
+        MediaAsset,
+        filters,
+        search_fields=("slug", "url", "alt_text", "usage"),
+    )
+    query = query.order_by(MediaAsset.created_at.desc())
     return paginate(query, limit, offset, transform=MediaAssetRead.model_validate)
 
 

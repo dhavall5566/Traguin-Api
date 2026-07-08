@@ -117,6 +117,7 @@ class ItineraryRead(TimestampRead, ItineraryBase):
     hotels: list[ItineraryHotelRead] = Field(default_factory=list)
     inclusions: list[ItineraryInclusionRead] = Field(default_factory=list)
     gallery_media: list[MediaSummary] = Field(default_factory=list)
+    package_hero_media_id: UUID | None = None
 
 
 class ItineraryListRead(TimestampRead):
