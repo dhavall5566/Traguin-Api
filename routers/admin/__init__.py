@@ -29,6 +29,7 @@ from routers.admin.hotels import router as hotels_router
 from routers.admin.itineraries import router as itineraries_router
 from routers.admin.legal import router as legal_router
 from routers.admin.marketing import (
+    about_client_logos_router,
     about_page_header_router,
     about_story_sections_router,
     careers_page_extras_router,
@@ -106,6 +107,11 @@ router.include_router(
     about_story_sections_router,
     prefix="/about-story-sections",
     tags=["Admin · About Story Sections"],
+)
+router.include_router(
+    about_client_logos_router,
+    prefix="/about-client-logos",
+    tags=["Admin · About Client Logos"],
 )
 router.include_router(homepage_promo_router, prefix="/homepage-promo", tags=["Admin · Homepage Promo"])
 router.include_router(

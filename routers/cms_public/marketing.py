@@ -6,6 +6,7 @@ from sqlalchemy.orm import Session
 from database import get_db
 from dependencies.pagination import get_pagination
 from models.content import (
+    AboutClientLogo,
     AboutPageHeader,
     AboutStorySection,
     CareersPageExtras,
@@ -18,6 +19,7 @@ from models.content import (
     ValueProposition,
 )
 from schemas.marketing import (
+    AboutClientLogoRead,
     AboutPageHeaderRead,
     AboutStorySectionRead,
     CareersPageExtrasRead,
@@ -38,6 +40,7 @@ value_propositions_router = APIRouter()
 concierge_services_router = APIRouter()
 homepage_region_panels_router = APIRouter()
 about_story_sections_router = APIRouter()
+about_client_logos_router = APIRouter()
 job_openings_router = APIRouter()
 homepage_promo_router = APIRouter()
 travel_expert_settings_router = APIRouter()
@@ -116,6 +119,20 @@ def list_about_story_sections(
         AboutStorySection.sort_order, AboutStorySection.title
     )
     return paginate(query, limit, offset, transform=AboutStorySectionRead.model_validate)
+
+
+@about_client_logos_router.get("", response_model=PaginatedResponse[AboutClientLogoRead])
+def list_about_client_logos(
+    db: Session = Depends(get_db),
+    pagination: tuple[int, int] = Depends(get_pagination),
+):
+    limit, offset = pagination
+    query = (
+        db.query(AboutClientLogo)
+        .filter(AboutClientLogo.is_published.is_(True))
+        .order_by(AboutClientLogo.sort_order, AboutClientLogo.name)
+    )
+    return paginate(query, limit, offset, transform=AboutClientLogoRead.model_validate)
 
 
 @job_openings_router.get("", response_model=PaginatedResponse[JobOpeningRead])

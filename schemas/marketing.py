@@ -146,6 +146,30 @@ class AboutStorySectionRead(TimestampRead, AboutStorySectionBase):
     pass
 
 
+class AboutClientLogoBase(BaseModel):
+    slug: str = Field(..., min_length=1, max_length=128)
+    name: str = Field(..., min_length=1, max_length=255)
+    logo_media_id: UUID | None = None
+    sort_order: int = 0
+    is_published: bool = True
+
+
+class AboutClientLogoCreate(AboutClientLogoBase):
+    pass
+
+
+class AboutClientLogoUpdate(BaseModel):
+    slug: str | None = Field(default=None, min_length=1, max_length=128)
+    name: str | None = Field(default=None, min_length=1, max_length=255)
+    logo_media_id: UUID | None = None
+    sort_order: int | None = None
+    is_published: bool | None = None
+
+
+class AboutClientLogoRead(TimestampRead, AboutClientLogoBase):
+    pass
+
+
 class HomepagePromoBase(BaseModel):
     eyebrow: str = Field(..., min_length=1, max_length=255)
     title: str = Field(..., min_length=1, max_length=255)

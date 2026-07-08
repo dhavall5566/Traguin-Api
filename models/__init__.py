@@ -14,6 +14,7 @@ from models.config import (
     SiteSettings,
 )
 from models.content import (
+    AboutClientLogo,
     AboutPageHeader,
     AboutStorySection,
     CareersPageExtras,
@@ -101,6 +102,7 @@ __all__ = [
     "ConciergeService",
     "TravelExpertSettings",
     "AboutStorySection",
+    "AboutClientLogo",
     "AboutPageHeader",
     "JobOpening",
     "CareersPageExtras",

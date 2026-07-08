@@ -164,6 +164,26 @@ class AboutStorySection(Base, UUIDPrimaryKeyMixin, TimestampMixin):
         return f"<AboutStorySection title={self.title!r}>"
 
 
+class AboutClientLogo(Base, UUIDPrimaryKeyMixin, TimestampMixin):
+    __tablename__ = "about_client_logos"
+    __table_args__ = (
+        Index("ix_about_client_logos_slug", "slug", unique=True),
+        Index("ix_about_client_logos_is_published", "is_published"),
+        Index("ix_about_client_logos_sort_order", "sort_order"),
+    )
+
+    slug: Mapped[str] = mapped_column(String(128), unique=True, nullable=False)
+    name: Mapped[str] = mapped_column(String(255), nullable=False)
+    logo_media_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("media_assets.id", ondelete="SET NULL"), nullable=True
+    )
+    sort_order: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    is_published: Mapped[bool] = mapped_column(Boolean, nullable=False, default=True)
+
+    def __repr__(self) -> str:
+        return f"<AboutClientLogo slug={self.slug!r} name={self.name!r}>"
+
+
 class AboutPageHeader(Base, TimestampMixin):
     __tablename__ = "about_page_header"
     __table_args__ = (CheckConstraint("id = 1", name="ck_about_page_header_singleton"),)

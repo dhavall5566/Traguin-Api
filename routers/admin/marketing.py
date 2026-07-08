@@ -6,6 +6,7 @@ from sqlalchemy.orm import Session
 from database import get_db
 from dependencies.pagination import get_pagination
 from models.content import (
+    AboutClientLogo,
     AboutPageHeader,
     AboutStorySection,
     CareersPageExtras,
@@ -18,6 +19,9 @@ from models.content import (
     ValueProposition,
 )
 from schemas.marketing import (
+    AboutClientLogoCreate,
+    AboutClientLogoRead,
+    AboutClientLogoUpdate,
     AboutPageHeaderBase,
     AboutPageHeaderRead,
     AboutPageHeaderUpdate,
@@ -59,6 +63,7 @@ value_propositions_router = APIRouter()
 concierge_services_router = APIRouter()
 homepage_region_panels_router = APIRouter()
 about_story_sections_router = APIRouter()
+about_client_logos_router = APIRouter()
 job_openings_router = APIRouter()
 homepage_promo_router = APIRouter()
 travel_expert_settings_router = APIRouter()
@@ -155,6 +160,15 @@ _simple_crud(
     AboutStorySectionUpdate,
     (AboutStorySection.sort_order, AboutStorySection.title),
     "About story section not found.",
+)
+_simple_crud(
+    about_client_logos_router,
+    AboutClientLogo,
+    AboutClientLogoCreate,
+    AboutClientLogoRead,
+    AboutClientLogoUpdate,
+    (AboutClientLogo.sort_order, AboutClientLogo.name),
+    "About client logo not found.",
 )
 
 
