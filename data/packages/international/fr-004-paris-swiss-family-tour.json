@@ -1,0 +1,248 @@
+{
+  "destination_slug": "france",
+  "package": {
+    "slug": "fr-004-paris-swiss-family-tour",
+    "serial_code": "FR-004",
+    "traguin_tour_code": "TRG-PAR-SWI-2026",
+    "title": "Paris & Swiss Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code FR-004 | TRAGUIN tour code TRG-PAR-SWI-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: France | Category: Best Family Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Paris, France • Lucerne/Interlaken, Switzerland",
+        "sort_order": 3
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 4
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 5
+      }
+    ],
+    "moods": [
+      "Family",
+      "Romantic",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "fr-004-paris-swiss-family-itinerary",
+    "title": "Paris & Swiss Family Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium France Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Paris, France • Lucerne/Interlaken, Switzerland",
+    "overview": "Paris • Eiffel Tower • Lucerne • Mt. Titlis • Interlaken 07 Nights / 08 Days Classic Paris & Swiss Family Vacation SERIAL CODE: FR-004 TRAGUIN TOUR CODE: TRG-PAR-SWI-2026 DESTINATIONS: Paris, France • Lucerne/Interlaken, Switzerland CATEGORY: Best Family Tour Package DURATION: 07 Nights / 08 Days Paris (3N) • Switzerland (4N)\n\nTOUR OVERVIEW\nDiscover the dazzling charm of Paris and the breathtaking alpine beauty of Switzerland with this TRAGUIN curated family itinerary. Designed for excitement and comfort, this Paris-Swiss Combo package offers a flawless blend of monumental exploration and scenic mountain adventure. Experience the best of European hospitality with TRAGUIN's handpicked hotels and exclusive services, creating unforgettable memories.\n\nWHY CHOOSE OUR PARIS & SWISS FAMILY TOUR?\nParis and Switzerland are world-class playgrounds for families, offering endless excitement for all ages. From the towering Eiffel Tower to the snow-capped peaks of Mt. Titlis, our curated experiences promise a premium European experience. With TRAGUIN, you get professional support and exclusive experiences that redefine the family holiday. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "FR-004 | Paris & Swiss Family Tour | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days France package (FR-004 / TRG-PAR-SWI-2026): Paris, France • Lucerne/Interlaken, Switzerland.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN PARIS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: PARIS LANDMARKS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: PARIS TO SWITZERLAND",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MT. TITLIS ADVENTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: INTERLAKEN SCENERY",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: SWISS MOUNTAIN LEISURE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: RETURN TO PARIS / DEPARTURE PREP",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: DEPARTURE",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PARIS",
+        "description": "Arrive in elegant Paris. Your private TRAGUIN transfer will escort you to your handpicked hotel. Enjoy a relaxing evening overlooking the city.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "PARIS LANDMARKS",
+        "description": "Explore the iconic Eiffel Tower and take a scenic Seine River cruise. Witness the iconic attractions that define luxury Paris sightseeing.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PARIS TO SWITZERLAND",
+        "description": "High-speed train journey to Switzerland. Arrive in the scenic city of Lucerne, renowned for its lake and mountain views.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MT. TITLIS ADVENTURE",
+        "description": "Experience the snow-capped majesty of Mt. Titlis with a cable car ride—a premium Swiss experience for the whole family.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "INTERLAKEN SCENERY",
+        "description": "Explore the charming town of Interlaken, nestled between two stunning lakes, offering endless breathtaking landscapes.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "SWISS MOUNTAIN LEISURE",
+        "description": "Enjoy a leisurely day exploring Swiss villages and local chocolate factories, creating unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "RETURN TO PARIS / DEPARTURE PREP",
+        "description": "Travel back to Paris for final shopping and leisure time before your premium experience concludes.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your private TRAGUIN transfer to the airport.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Le Meurice / similar",
+        "location": "Paris",
+        "nights_label": "3N",
+        "description": "OPTION 01 – ULTRA LUXURY: Le Meurice",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Bürgenstock Resort / similar",
+        "location": "Switzerland",
+        "nights_label": "4N",
+        "description": "OPTION 02 – ULTRA LUXURY: Bürgenstock Resort",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "07 Nights in handpicked premium hotels across Paris, France • Lucerne/Interlaken, Switzerland",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private guided Paris sightseeing including Eiffel Tower, Louvre, and Versailles",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Scenic Seine River cruise experience",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "High-speed rail and alpine experiences in Switzerland",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and France/Schengen entry visa processing fees",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "destination_slug": "vietnam",
+  "package": {
+    "slug": "vn-010-grand-vietnam-tour",
+    "serial_code": "VN-010",
+    "traguin_tour_code": "TRG-VNM-GRD-2026",
+    "title": "Grand Vietnam Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code VN-010 | TRAGUIN tour code TRG-VNM-GRD-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Vietnam, Southeast Asia | Category: Premium Grand Vietnam Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Hanoi • Halong Bay Cruise • Hoi An • Da Nang • Ho Chi Minh City • Mekong Delta",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "vn-010-grand-vietnam-itinerary",
+    "title": "Grand Vietnam Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Vietnam Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Vietnam Tour",
+    "overview": "08 Nights / 09 Days Grand Vietnam Premium Expedition SERIAL CODE: VN-010 TRAGUIN TOUR CODE: TRG-VNM-GRD-2026 STATE / COUNTRY: Vietnam CATEGORY: Premium Grand Vietnam Tour Package DURATION: 08 Nights / 09 Days Hanoi (2N) + Halong (2N) + Da Nang/Hoi An (2N) + Ho Chi Minh (2N)\n\nTOUR OVERVIEW\nExperience the ultimate discovery of Vietnam with our TRAGUIN curated Grand Expedition. This comprehensive 9-day journey covers the most iconic destinations across Vietnam—from the cultural heart of Hanoi and serene Halong Bay to the coastal magic of Hoi An and the vibrant energy of Ho Chi Minh City, ensuring unforgettable memories in ultimate comfort. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "VN-010 | Grand Vietnam Tour | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days Vietnam package (VN-010 / TRG-VNM-GRD-2026): Hanoi • Halong Bay Cruise • Hoi An • Da Nang • Ho Chi Minh City • Mekong Delta with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN HANOI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HANOI CULTURAL HIGHLIGHTS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HALONG BAY CRUISE COMMENCEMENT",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: HALONG BAY ADVENTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: FLIGHT TO DA NANG",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: HOI AN ANCIENT TOWN",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: FLIGHT TO HO CHI MINH CITY",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: MEKONG DELTA EXPLORATION",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN HANOI",
+        "description": "Arrive in Hanoi. Private transfer to your handpicked premium hotel. Evening at leisure.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HANOI CULTURAL HIGHLIGHTS",
+        "description": "Comprehensive city tour covering Hanoi’s most famous landmarks, providing a rich educational experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HALONG BAY CRUISE COMMENCEMENT",
+        "description": "Travel to Halong Bay. Board your ultra-luxury cruise vessel for an extraordinary journey through the limestone karsts.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "HALONG BAY ADVENTURE",
+        "description": "Enjoy exclusive activities aboard the cruise, including cave exploration, kayaking, and sunset deck relaxation —creating unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "FLIGHT TO DA NANG",
+        "description": "Morning cruise brunch. Transfer to airport for your flight to Da Nang. Check into a luxury coastal resort.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "HOI AN ANCIENT TOWN",
+        "description": "Guided tour of Hoi An's Ancient Town, famous for its unique architecture and lantern-lit streets.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "FLIGHT TO HO CHI MINH CITY",
+        "description": "Transfer to Da Nang airport for flight to Ho Chi Minh City. Evening city orientation and luxury dining.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "MEKONG DELTA EXPLORATION",
+        "description": "Private full-day excursion to the Mekong Delta, experiencing the lush waterways and local life in an exclusive experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer, completing your premium grand Vietnam expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Heritage Hotels Ultra-Luxury Cruise Luxury Resort Premium City Hotel",
+        "location": "Multi-city Vietnam",
+        "nights_label": "8N",
+        "description": "Option 01: Premium — Heritage Hotels Ultra-Luxury Cruise Luxury Resort Premium City Hotel",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Hanoi",
+        "nights_label": "8N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Hanoi",
+        "nights_label": "8N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Hanoi",
+        "nights_label": "8N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Vietnam",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Inter-city transfers and curated sightseeing as per itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Vietnam visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

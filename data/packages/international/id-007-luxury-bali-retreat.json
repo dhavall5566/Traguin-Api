@@ -2,50 +2,50 @@
   "destination_slug": "bali",
   "package": {
     "slug": "id-007-luxury-bali-retreat",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "ID-007",
+    "traguin_tour_code": "TRAGUIN-BALI-000",
     "title": "Luxury Bali Retreat",
     "duration_label": "06 Nights / 07 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 44,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Nusa Dua (3N) → Ubud (3N) ultra-luxury signature circuit",
+        "text": "Serial code ID-007 | TRAGUIN tour code TRAGUIN-BALI-000",
         "sort_order": 1
       },
       {
-        "text": "VIP fast-track arrival & private lagoon catamaran cruise",
+        "text": "Country: Bali, Indonesia | Category: Luxury / Ultra-Luxury Signature DURATION: 06 Nights / 07 Days KEY",
         "sort_order": 2
       },
       {
-        "text": "Uluwatu VIP Kecak Fire Dance & Tanah Lot temple",
+        "text": "Destinations: Nusa Dua • Uluwatu • Ubud • Mount Batur RECOMMENDED FOR: Connoisseurs • Couples • Families IDEAL SEASON: April to October (Dry & Sunny) VIP CONCIERGE: 24/7 Dedicated Support Included LUXURY BALI RETREAT Exclusive Coastal Havens (3N) & Majestic Cultural Valleys (3N) A SIGNATURE HIGH-END HOLIDAY EXPERIENCE BY TRAGUIN Welcome to your bespoke Luxury Bali Retreat • an ultra-luxury journey exclusively crafted by TRAGUIN for discerning world travelers. This comprehensive 6-Night • 7-Day signature itinerary offers an extraordinary immersion into the Island of the Gods. Experience white-glove logistics • private helicopter transfers or luxury MPV transit • elite culinary journeys • and stays within the world's most acclaimed resort estates. From the tranquil exclusive beaches of Nusa Dua and majestic cliffs of Uluwatu to the spiritual heartbeat and emerald mist of Ubud • every single element is curated to transcend standard luxury. TOUR OVERVIEW This premium Best Bali Tour Package represents the peak of bespoke holiday planning • matching seamless private aviation and ground transit with unique cultural and culinary discoveries. Travel Type: Ultra-Luxury Private Guided FIT Experience.",
         "sort_order": 3
       },
       {
-        "text": "Mount Batur, Tirta Empul purification & Bali Swing",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated priority concierge",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Serial ID-007 | Category: Ultra-Luxury Signature",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Luxury",
-      "Romantic",
-      "Family",
-      "Beach",
-      "Cultural",
       "Nature",
-      "Spiritual"
+      "Leisure"
     ]
   },
   "itinerary": {
@@ -54,116 +54,114 @@
     "duration_label": "06 Nights / 07 Days",
     "duration_days": 7,
     "starting_price": 0,
-    "price_note": "On Request (Ultra-Luxury Signature Experience)",
+    "price_note": "On Request (Premium Customised)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Nusa Dua • Uluwatu • Ubud • Mount Batur",
-    "overview": "An ultra-luxury signature journey crafted by TRAGUIN for discerning world travelers. Experience white-glove logistics, elite culinary journeys, and stays within the world's most acclaimed resort estates — from the tranquil beaches of Nusa Dua and majestic cliffs of Uluwatu to the spiritual heartbeat of Ubud.",
-    "is_featured": true,
-    "featured_sort_order": 44,
+    "tagline": "Luxury Bali Retreat",
+    "overview": "rivate luxury catamaran charter for a serene three-hour cruise along the pristine reef lagoons of Nusa Dua, offering snorkeling opportunities in crystal-clear waters. Return for an artisanal beachfront lunch. In the afternoon, your private guide will escort you to the dramatic Water Blow site, where powerful Indian Ocean waves crash spectacularly through narrow limestone crags. Spend the remaining afternoon relaxing inside a reserved premium private beach cabana with complimentary butler services at your disposal. Sightseeing & Logistics: Private Lagoon Cruise, Water Blow Guided Walk, Premium Beachfront Cabana Placement. Optional Add-ons:A 90-minute signature hot stone massage treatment inside the resort’s elite spa center. Evening Highlight:Intimate beachside dining featuring premium grilled lobsters and international wine pairing. Overnight Stay: Elite Handpicked Luxury Oceanfront Resort in Nusa Dua. Meals Included: Breakfast, Oceanfront Lunch, & Premium Beachside Dinner.\n\nTOUR OVERVIEW\nThis premium Best Bali Tour Package represents the peak of bespoke holiday planning, matching seamless private aviation and ground transit with unique cultural and culinary discoveries. Travel Type: Ultra-Luxury Private Guided FIT Experience. • Luxury Bali Retreat (ID-007) 1 Vehicle Deployment: Premium private luxury alphard or matching multi-purpose luxury vehicle with an expert, English-fluent tour ambassador. Meal Blueprint: Complete premium breakfast curation, fine gastronomy multi-course lunches, and iconic candlelit dinners. Route Sequence: Denpasar VIP Terminal → Nusa Dua Elite Enclave → Uluwatu Sea Cliffs → Ubud Cultural Hinterlands → Kintamani Volcanic Vistas → Denpasar Airport. TRAGUIN Privilege Access: Private temple viewings, skip-the-line VIP entry clearance, reservation access at world-ranked top restaurants, and bespoke spa therapies are pre-secured. DISCOVER THE TOP TOURIST PLACES IN BALI IN FLAWLESS COMFORT True luxury lies in the flawless integration of time, privacy, and exceptional comfort. Our Luxury Bali Retreat has been structured to introduce you to the absolute Top Tourist Places in Bali without the rush of commercial tourism. You will explore historic coastal sea temples, expansive terraced valleys, and serene highland volcanoes at the absolute best time to visit Bali. By blending the deep tranquility of Nusa Dua's turquoise lagoons with the vibrant artistry and mist-laden river valleys of Ubud, TRAGUIN invites you to rediscover island indulgence. Delight in immersive culinary classes inside heritage royal gardens, witness dramatic traditional arts with reserved VIP front-row seating, and find peace with curated holistic therapies overlooking pristine rainforest valleys. DAY-BY-DAY CURATED ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "ID-007 | Luxury Bali Retreat | TRAGUIN",
-    "seo_description": "Ultra-luxury 06 Nights / 07 Days Bali retreat (ID-007): Nusa Dua, Uluwatu, Tanah Lot, Ubud, Mount Batur, Tirta Empul purification, and VIP Kecak Fire Dance.",
-    "is_published": true,
+    "seo_description": "Premium 06 Nights / 07 Days Bali package (ID-007 / TRAGUIN-BALI-000): Nusa Dua • Uluwatu • Ubud • Mount Batur RECOMMENDED FOR: Connoisseurs •  Couples •  Families IDEAL S with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "VIP Fast-Track Airport Arrival",
+        "text": "Day 01: ARRIVAL IN BALI • ELITE VIP FAST-TRACK • NUSA DUA LUXURY REPOSE",
         "sort_order": 1
       },
       {
-        "text": "Private Nusa Dua Lagoon Catamaran Cruise",
+        "text": "Day 02: EXCLUSIVE LAGOON CRUISE • PRIVATE WATER BLOW TOUR & BEACH",
         "sort_order": 2
       },
       {
-        "text": "VIP Uluwatu Kecak Fire Dance",
+        "text": "Day 03: ULUWATU SEA SHRINE • MAJESTIC CLIFFS & THE VIP KECAK FIRE DANCE",
         "sort_order": 3
       },
       {
-        "text": "Mount Batur & Kintamani Panoramas",
+        "text": "Day 04: HISTORIC TANAH LOT • TRANSFER INTO UBUD'S EMERALD VALLEY WALLED",
         "sort_order": 4
       },
       {
-        "text": "Priest-Guided Tirta Empul Purification",
+        "text": "Day 05: KINTAMANI HIGHLANDS • MOUNT BATUR VISTAS & PRIVATE COFFEE ESTATE",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: TEGALALANG RICE COATINGS • PRIVATE SWING • HOLY WATER",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: FLOATING RESORT POOL BREAKFAST • SOULFUL BALI DEPARTURE",
+        "sort_order": 7
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival — VIP Fast-Track & Nusa Dua Luxury Repose",
-        "description": "Fast-track VIP customs clearance at Ngurah Rai Airport. Private luxury chauffeur transfer to Nusa Dua beachfront resort. Elegant multi-course coastal welcome dinner.",
+        "title": "ARRIVAL IN BALI • ELITE VIP FAST-TRACK • NUSA DUA LUXURY REPOSE",
+        "description": "Your grand journey begins the moment your flight touches down at Ngurah Rai International Airport (DPS). Step directly into a luxury airport escort service with our fast-track VIP customs agent handling all immigration clearances seamlessly. Collect your luggage and meet your private TRAGUIN luxury chauffeur, stepping into an air-conditioned premium vehicle stocked with chilled towels, organic snacks, and vintage mineral waters. Drive to the exclusive luxury peninsula of Nusa Dua, entering your world-class beachfront resort estate. Spend a relaxed afternoon settling into your oceanfront suite, followed by an elegant multi-course coastal dinner overlooking the quiet, candlelit tides. Sightseeing & Logistics: VIP Fast-Track Airport Arrival, Private Luxury Chauffeur Transfer, Accommodation Orientation. Evening Highlight:Welcome dinner introducing fine contemporary Indonesian gastronomy at a beachfront pavilion. • Luxury Bali Retreat (ID-007) 2",
         "activities": [
-          "Sightseeing Included: VIP fast-track airport arrival, private luxury transfer",
-          "Evening Experience: Welcome dinner at beachfront pavilion",
-          "Overnight Stay: Nusa Dua (Elite Luxury Oceanfront Resort)",
-          "Meals Included: Welcome refreshments & curated welcome dinner"
+          "Overnight Stay: Elite Handpicked Luxury Oceanfront Resort in Nusa Dua.",
+          "Meals Included: Welcome Refreshments & Curated Welcome Dinner."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Exclusive Lagoon Cruise & Water Blow",
-        "description": "Private luxury catamaran charter along Nusa Dua reef lagoons with snorkeling. Visit the dramatic Water Blow site. Reserved premium private beach cabana with butler service.",
+        "title": "EXCLUSIVE LAGOON CRUISE • PRIVATE WATER BLOW TOUR & BEACH",
+        "description": "CABANA Awake to the sunrise over the ocean and enjoy a delightful gourmet breakfast. In the morning, embark on a private luxury catamaran charter for a serene three-hour cruise along the pristine reef lagoons of Nusa Dua, offering snorkeling opportunities in crystal-clear waters. Return for an artisanal beachfront lunch. In the afternoon, your private guide will escort you to the dramatic Water Blow site, where powerful Indian Ocean waves crash spectacularly through narrow limestone crags. Spend the remaining afternoon relaxing inside a reserved premium private beach cabana with complimentary butler services at your disposal. Sightseeing & Logistics: Private Lagoon Cruise, Water Blow Guided Walk, Premium Beachfront Cabana Placement. Optional Add-ons:A 90-minute signature hot stone massage treatment inside the resort’s elite spa center. Evening Highlight:Intimate beachside dining featuring premium grilled lobsters and international wine pairing.",
         "activities": [
-          "Sightseeing Included: Private lagoon cruise, Water Blow guided walk, premium beach cabana",
-          "Overnight Stay: Nusa Dua (Elite Luxury Oceanfront Resort)",
-          "Meals Included: Breakfast, oceanfront lunch & premium beachside dinner"
+          "Overnight Stay: Elite Handpicked Luxury Oceanfront Resort in Nusa Dua.",
+          "Meals Included: Breakfast, Oceanfront Lunch, & Premium Beachside Dinner."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Uluwatu Sea Shrine & VIP Kecak Fire Dance",
-        "description": "Visit Uluwatu Temple on dramatic limestone cliffs. Pre-reserved front-row VIP seats for the Kecak Fire Dance at sunset. Multi-course dinner at award-winning cliff-edge restaurant.",
+        "title": "ULUWATU SEA SHRINE • MAJESTIC CLIFFS & THE VIP KECAK FIRE DANCE",
+        "description": "Enjoy a leisurely morning of relaxation by the pool or individual wellness activities. In the afternoon, journey south to the grand limestone cliffs of Uluwatu, a foundational pillar of any elite Bali Sightseeing tour. Perched dramatically 70 meters above crashing surf, the ancient Uluwatu Temple offers unforgettable expansive ocean views. Stroll along the historical pathways accompanied by your expert guide. As dusk settles, take your pre- reserved, front-row VIP seats at the cliffside amphitheater to witness the spellbinding Kecak Fire Dance performance set against a glorious, golden tropical sunset. Sightseeing & Logistics: Uluwatu Cliff Temple Entry, Private Expert-Guided Walk, VIP Amphitheater Seating. Optional Add-ons:A private sunset helicopter flight over the Uluwatu Peninsula before the cultural dance show. Evening Highlight:A magnificent multi-course dinner at an award-winning cliff-edge fine dining culinary venue. • Luxury Bali Retreat (ID-007) 3",
         "activities": [
-          "Sightseeing Included: Uluwatu cliff temple, VIP amphitheater Kecak Fire Dance seating",
-          "Evening Experience: Luxury fine dining cliff dinner",
-          "Overnight Stay: Nusa Dua (Elite Luxury Oceanfront Resort)",
-          "Meals Included: Breakfast & luxury fine dining cliff dinner"
+          "Overnight Stay: Elite Handpicked Luxury Oceanfront Resort in Nusa Dua.",
+          "Meals Included: Breakfast & Luxury Fine Dining Cliff Dinner."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Tanah Lot & Transfer to Ubud Valley Sanctuary",
-        "description": "Visit world-renowned Tanah Lot Temple. Continue inland to Ubud and check into ultra-luxury valley estate villa with infinity pool over the jungle canopy.",
+        "title": "HISTORIC TANAH LOT • TRANSFER INTO UBUD'S EMERALD VALLEY WALLED",
+        "description": "SANCTUARY Check out from your coastal paradise and travel toward the cultural heartlands of Bali. Your route stops at the world-renowned Tanah Lot Temple, a majestic, ancient offshore sea shrine wave-swept by tides and filled with spiritual history. Take incredible photographs from the private viewing terraces. Continue inland as the landscape transitions into endless emerald hills and deep, jungle river valleys. Arrive in Ubud and check into an ultra-luxury valley estate villa featuring an infinity pool suspended over the jungle canopy. Spend the evening enjoying the natural tranquility and sounds of the rainforest. Sightseeing & Logistics: Tanah Lot Temple Exclusive Access, Scenic Inland Luxury Drive, Valley Estate Villa Check-In. Optional Add-ons:Private sound bath relaxation therapy at an elite bamboo wellness pavilion in Ubud. Evening Highlight:A curated farm-to-table culinary degustation menu overlooking a misty valley canyon.",
         "activities": [
-          "Sightseeing Included: Tanah Lot temple exclusive access, scenic inland luxury drive",
-          "Evening Experience: Farm-to-table degustation dinner overlooking valley canyon",
-          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Valley Pool Villa)",
-          "Meals Included: Breakfast & gourmet valley degustation dinner"
+          "Overnight Stay: Ultra-Luxury Rainforest Valley Private Pool Villa in Ubud.",
+          "Meals Included: Breakfast & Gourmet Valley Degustation Dinner."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Kintamani Highlands & Mount Batur Vistas",
-        "description": "Spectacular panorama of Mount Batur and caldera lake from Kintamani. Private tour through artisanal organic coffee estate. Fine dining dinner at acclaimed Ubud gastronomy destination.",
+        "title": "KINTAMANI HIGHLANDS • MOUNT BATUR VISTAS & PRIVATE COFFEE ESTATE",
+        "description": "TOUR Set off today for the spectacular northern highlands of Kintamani. Witness the breathtaking, vast panorama of Mount Batur, an active volcano, and its shimmering caldera lake below. Enjoy an exceptional lunch at a luxury lookout establishment with pristine alpine breezes. Afterward, enjoy an exclusive private tour through an artisanal organic coffee estate hidden inside the volcanic hills, tasting rare varieties and learning traditional roasting methods. Return to Ubud for an evening of relaxation or custom boutique exploration across the central artisan lanes. Sightseeing & Logistics: Kintamani Volcano Panoramic Tour, Mount Batur Caldera Viewing, Private Coffee Estate Access. Optional Add-ons:A morning luxury 4x4 Jeep safari across the historic black lava fields of Mount Batur. Evening Highlight:An evening culinary experience at a highly acclaimed, top-ranked gastronomy destination in Ubud. • Luxury Bali Retreat (ID-007) 4",
         "activities": [
-          "Sightseeing Included: Kintamani volcano panoramic tour, Mount Batur caldera, private coffee estate",
-          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Valley Pool Villa)",
-          "Meals Included: Breakfast, luxury highland lunch & fine dining dinner"
+          "Overnight Stay: Ultra-Luxury Rainforest Valley Private Pool Villa in Ubud.",
+          "Meals Included: Breakfast, Luxury Highland Lunch, & Fine Dining Dinner."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Tegalalang Terraces, Bali Swing & Tirta Empul Purification",
-        "description": "Morning at Tegalalang Rice Terraces with private VIP Bali Swing. Priest-guided purification ritual at Tirta Empul Holy Water Temple. TRAGUIN signature celebration dinner in villa grounds.",
+        "title": "TEGALALANG RICE COATINGS • PRIVATE SWING • HOLY WATER",
+        "description": "PURIFICATION Experience the scenic majesty of the rolling Tegalalang Rice Terraces in the gentle morning light. Enjoy exclusive, private VIP access to a premier Bali Swing, gliding out safely over the dramatic valley terraces for extraordinary lifestyle photographs. Continue to the historical Tirta Empul Holy Water Temple for a private, deeply moving cultural purification ritual inside the crystal-clear volcanic springs, guided by a senior temple priest. Celebrate your final evening on the island with a custom TRAGUIN Signature Celebration Dinner prepared directly inside your villa grounds. Sightseeing & Logistics: Tegalalang Terraces, Private Premium Bali Swing, Tirta Empul Priest-Guided Purification. Optional Add-ons:A private masterclass with a master artisan to fashion a commemorative silver keepsake ring. Evening Highlight:A grand candlelight farewell dinner feast featuring individual butler service and live acoustic entertainment.",
         "activities": [
-          "Sightseeing Included: Tegalalang terraces, private Bali Swing, Tirta Empul priest-guided purification",
-          "Evening Experience: Private gala farewell dinner with butler service",
-          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Valley Pool Villa)",
-          "Meals Included: Signature floating villa breakfast & private gala farewell dinner"
+          "Overnight Stay: Ultra-Luxury Rainforest Valley Private Pool Villa in Ubud.",
+          "Meals Included: Signature Floating Villa Breakfast & Private Gala Farewell Dinner."
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Floating Pool Breakfast & Departure",
-        "description": "Iconic floating breakfast in private villa infinity pool. Private luxury transfer to Ngurah Rai Airport with departure concierge assistance.",
+        "title": "FLOATING RESORT POOL BREAKFAST • SOULFUL BALI DEPARTURE",
+        "description": "Awake to the peaceful singing of jungle birds and savor an iconic floating breakfast served beautifully on water inside your private villa infinity pool. Take a quiet morning for last-minute photography, relaxation, or packing. At your designated departure time, your private luxury multi-purpose vehicle and chauffeur arrive to transfer you smoothly back to Ngurah Rai International Airport. Your guide will escort you directly to the premium lounge check- in, ensuring a completely stress-free departure. Leave the Island of the Gods with a collection of unforgettable memories masterfully crafted by TRAGUIN. Sightseeing & Logistics: Private Luxury Chauffeur Airport Transfer, Departure Concierge Assistance. Optional Add-ons:VIP Departure Lounge access confirmation for premium relaxation prior to your flight. Evening Highlight:International flight connection homeward. • Luxury Bali Retreat (ID-007) 5",
         "activities": [
-          "Sightseeing Included: Private luxury airport transfer, departure concierge assistance",
-          "Meals Included: Premium floating infinity pool breakfast"
+          "Overnight Stay: In-Flight / Home.",
+          "Meals Included: Premium Floating Infinity Pool Breakfast."
         ],
         "sort_order": 7
       }
@@ -171,169 +169,64 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "The Westin Resort Nusa Dua, Bali / similar",
-        "location": "Nusa Dua",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "LUXURY The Westin Resort Nusa Dua, Bali",
+        "location": "Multi-city Bali",
+        "nights_label": "6N",
+        "description": "Option 01: Deluxe — LUXURY The Westin Resort Nusa Dua, Bali",
+        "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Daily Luxury Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Alila Ubud / similar",
-        "location": "Ubud",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Daily Luxury Breakfast",
+        "name": "LUXURY The St. Regis Bali Resort",
+        "location": "Multi-city Bali",
+        "nights_label": "6N",
+        "description": "Option 02: Premium — LUXURY The St. Regis Bali Resort",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "The St. Regis Bali Resort",
-        "location": "Nusa Dua",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "Amanusa (Aman Villas Nusa Dua)",
+        "location": "Bali",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — Amanusa (Aman Villas Nusa Dua)",
         "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Daily Gourmet Breakfast",
-        "image_media_id": null,
-        "sort_order": 3
-      },
-      {
-        "hotel_id": null,
-        "name": "Mandapa, a Ritz-Carlton Reserve",
-        "location": "Ubud",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Daily Gourmet Breakfast",
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "The Ritz-Carlton, Bali",
-        "location": "Nusa Dua",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Elite Luxury",
-        "room_type": null,
-        "meal_plan": "Daily Breakfast + 1 Specialty Dinner",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Viceroy Bali, Ubud",
-        "location": "Ubud",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Elite Luxury",
-        "room_type": null,
-        "meal_plan": "Daily Breakfast + 1 Specialty Dinner",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "Amanusa (Aman Villas Nusa Dua)",
-        "location": "Nusa Dua",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Bespoke Ultra-Inclusive",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Amandari, Ubud",
-        "location": "Ubud",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Bespoke Ultra-Inclusive",
-        "image_media_id": null,
-        "sort_order": 8
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "06 Nights at premium handpicked hotels or private luxury pool villas",
+        "text": "Premium handpicked accommodation across Bali",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "VIP fast-track arrival immigration greeting services at airport",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven MPV",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Dedicated luxury Alphard/MPV with professional English-fluent tour guide",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 3
       },
       {
-        "kind": "included",
-        "text": "6 breakfasts (including 1 signature floating breakfast) and 4 specialty dinners",
+        "kind": "excluded",
+        "text": "TRAGUIN Inclusions",
         "sort_order": 4
-      },
-      {
-        "kind": "included",
-        "text": "Private luxury catamaran lagoon cruise along Nusa Dua reef",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "Pre-reserved front-row VIP tickets at Uluwatu Kecak Fire Dance",
-        "sort_order": 6
-      },
-      {
-        "kind": "included",
-        "text": "Priest-guided traditional purification session at Tirta Empul Temple",
-        "sort_order": 7
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated priority operations and on-ground concierge",
-        "sort_order": 8
-      },
-      {
-        "kind": "excluded",
-        "text": "International airfare to/from Denpasar",
-        "sort_order": 9
-      },
-      {
-        "kind": "excluded",
-        "text": "Indonesia Visa on Arrival and customs declaration costs",
-        "sort_order": 10
-      },
-      {
-        "kind": "excluded",
-        "text": "Extra food, vintage alcoholic beverages, laundry, and personal shopping",
-        "sort_order": 11
-      },
-      {
-        "kind": "excluded",
-        "text": "Gratuities and comprehensive travel insurance",
-        "sort_order": 12
       }
     ]
   }

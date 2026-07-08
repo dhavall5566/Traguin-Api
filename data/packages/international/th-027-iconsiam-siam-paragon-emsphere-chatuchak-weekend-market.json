@@ -1,0 +1,256 @@
+{
+  "destination_slug": "thailand",
+  "package": {
+    "slug": "th-027-iconsiam-siam-paragon-emsphere-chatuchak-weekend-market",
+    "serial_code": "TH-027",
+    "traguin_tour_code": "TRG-BKK-FEM-SHOP-2026",
+    "title": "ICONSIAM • Siam Paragon • EmSphere • Chatuchak Weekend Market",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TH-027 | TRAGUIN tour code TRG-BKK-FEM-SHOP-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Thailand | Category: Female Only / Luxury Shopping Retreat",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Bangkok (4 Nights",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Girl Gangs, Trendsetters, Solo Female Shoppers, Mother-Daughter Duos",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: Year-Round (Amazing Mid-Year & Year-End Mega Sales)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Safe Luxury Van with Dedicated Driver & Cargo Capacity / Buffet Breakfast (CP), Chic Designer Cafes & Skyline Dinners Indulge your inner fashionista with the absolute Best Bangkok Tour Package",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom retail assistant tracks and premium sky-view",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified premium luxury hotels located directly adjacent to main",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local coordinators to manage mall reservation",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "th-027-iconsiam-siam-paragon-emsphere-chatuchak-weekend-market-itinerary",
+    "title": "ICONSIAM • Siam Paragon • EmSphere • Chatuchak Weekend Market",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "ICONSIAM",
+    "overview": "TOUR OVERVIEW\nWelcome to your meticulously designed Bangkok Shopping Festival escape, precisely structured for stylish women who expect absolute operational perfection, maximum safety, and elite hospitality layouts. Across 5 incredible days, TRAGUIN ensures an unparalleled retail itinerary featuring premium stays at centrally located luxury hotels, private secure logistics with extensive trunk space, and curated lifestyle experiences designed around high-fashion collections and sensory pampering. TRAGUIN Curated Experience Note: Your group's security and luxury are our absolute priorities. From female-friendly local coordinators to custom-picked designer night market paths and pre-booked tables at elite rooftop sky lounges, your ladies' circle will experience a completely flawless, relaxed, and immersive holiday. THE APPEAL OF A LUXURY BANGKOK RETAIL GETAWAY Bangkok stands as the undisputed shopping capital of Southeast Asia, effortlessly blending massive ultra- modern luxury plazas with historic floating markets, independent artisan quarters, and bohemian fashion bazaars. Opting for a specialized female-only getaway or a dedicated Thailand Family Tour variant through TRAGUIN opens up an unmatched world of elite privileges. This proposal targets the most highly searched tourism keywords for Google ranking, ensuring the ultimate showcase of Bangkok Sightseeing wonders. Discover Top Tourist Places in Thailand: the monumental waterfront architectural spaces of ICONSIAM, the high-fashion designer boutiques of Siam Paragon, and the bustling independent craft stalls of Chatuchak. It is universally recognized as the Best Time to Visit Thailand to explore popular Instagram locations, enjoy a professional Premium Thailand Experience, indulge in therapeutic couple and group day spa rituals, and collect deep, immersive experiences that define high-end travel. TRAGUIN Retail Special Exclusives: VIP Fast-Track airport arrival service, a private personal shopping assistant voucher, front-row premium seating at a traditional luxury dinner cruise, sunset access to Mahanakhon SkyWalk, and an immersive 120-minute aromatherapy wellness package. THE HIGH-FASHION DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TH-027 | ICONSIAM | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Thailand package (TH-027 / TRG-BKK-FEM-SHOP-2026): Bangkok (4 Nights with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BANGKOK & LUXURY RIVER DINNER CRUISE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: ICONSIAM WATERFRONT LUXURY & MAHANAKHON SKYWALK SUNSET",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: DESIGNER LABELS AT SIAM PARAGON & EMSPHERE LIFESTYLE TRAIL",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: CHATUCHAK BOHEMIAN BAZAAR & AWARD-WINNING DAY SPA RETREAT",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: BANGKOK RETREAT & DEPARTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom retail assistant tracks and premium sky-view",
+        "sort_order": 6
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified premium luxury hotels located directly adjacent to main",
+        "sort_order": 7
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local coordinators to manage mall reservation",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BANGKOK & LUXURY RIVER DINNER CRUISE",
+        "description": "WELCOME TO THE CITY OF ANGELS – COUTURES, COCKTAILS & THE RIVER OF KINGS Your highly anticipated Bangkok Shopping Festival journey hits the runway flawlessly the moment your group lands at Bangkok’s Suvarnabhumi International Airport. Receive our elite VIP Fast-Track Reception, clearing all customs and immigration procedures within minutes via premium fast channels. Your private, elegant luxury van waits to transfer you smoothly past the city lines to your handpicked high-end central lifestyle hotel. Check into your premium rooms, featuring special welcome amenities and a chilled complimentary bottle of sparkling wine. Take the afternoon to unpack your outfits, rest, and snap your first group photos by the rooftop infinity pool. In the evening, dress in your finest attire for a classic Premium Thailand Experience: a 5-star luxury dinner cruise aboard the Grand Pearl Cruise liner on the Chao Phraya River. Glide past the brilliantly lit Grand Palace and the luminous spires of Wat Arun (The Temple of Dawn) while enjoying a sumptuous international buffet and live jazz music, capturing a beautiful opening photography point. Sightseeing Included: VIP airport fast-track reception & clearance, scenic city transfer, Chao Phraya cruising. Evening Experience: 5-Star Luxury Chao Phraya River Dinner Cruise with live jazz background entertainment.",
+        "activities": [
+          "Overnight Stay: Bangkok (Ultra-Luxury Riverside or Central Lifestyle Hotel)",
+          "Meals Included: Premium Cruise Gala Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "ICONSIAM WATERFRONT LUXURY & MAHANAKHON SKYWALK SUNSET",
+        "description": "RETAIL OPULENCE – GLOBAL ICONIC FLAGSHIPS & GLASS TRAY SKYLINES Savor a magnificent buffet breakfast before picking out your best designer walking shoes. Today features the ultimate centerpiece of your retail itinerary: a private transfer to ICONSIAM, the crown jewel of Bangkok's local Thai crafts with multi-story flagship pavilions of the world's most elite luxury fashion houses, offering an unparalleled location for premium shopping. Find unique silk garments, custom jewelry pieces, and international high-fashion apparel collections while enjoying panoramic views of the river. At twilight, your private vehicle escorts your group to the spectacular Mahanakhon SkyWalk. Ascend to stand 314 meters above the metropolis on a massive glass tray— consistently named a top popular Instagram location. End your night with VIP tables reserved at a premium rooftop sky lounge, celebrating your friendship over delicious dining and breathtaking skyline views. Sightseeing Included: ICONSIAM Luxury Waterfront Mall, Mahanakhon SkyWalk VIP entry ticket. Evening Experience: Premium cocktails and high-fashion dining at a top-tier sky lounge overlooking the city.",
+        "activities": [
+          "shopping: plazas. This monumental lifestyle complex seamlessly blends an indoor floating market showcasing",
+          "Overnight Stay: Bangkok (Ultra-Luxury Riverside or Central Lifestyle Hotel)",
+          "Meals Included: International Buffet Breakfast & Rooftop Gastronomy Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DESIGNER LABELS AT SIAM PARAGON & EMSPHERE LIFESTYLE TRAIL",
+        "description": "THE FASHION CORRIDOR – CENTRAL SPREE, RETRO FINDS & CHIC CAFE HOPPING Enjoy another beautiful morning breakfast before launching back into your premier shopping spree. Your private van transfers your group to the Siam District, the definitive fashion corridor of the capital. Explore the sprawling designer galleries of Siam Paragon and the trendy independent Thai label boutiques of Siam Center, mapping out the latest collections. Take a mid-day break for a custom-tailored TRAGUIN Cafe Hop, stepping into one of Bangkok's trendiest, plant-filled boutique cafes for artisan lattes and aesthetic photo opportunities. In the afternoon, cruise down Sukhumvit road to EmSphere, Bangkok's newest and most futuristic retail district. Melding industrial design with high-end global retail hubs, it is an amazing spot to track contemporary street style, avant-garde cosmetics, and luxury lifestyle accessories. In the evening, explore the lively neon-lit lanes of Jodd Fairs Night Bazaar, a fantastic spot for picking up custom graphic apparel, chic leather boots, and trendy local street snacks. Sightseeing Included: Siam Paragon, Siam Center, EmSphere Retail Quarter, Jodd Fairs Night Bazaar. Evening Experience: Boutique street fashion hunting and gourmet local food tasting at Jodd Fairs.",
+        "activities": [
+          "Overnight Stay: Bangkok (Ultra-Luxury Riverside or Central Lifestyle Hotel)",
+          "Meals Included: International Buffet Breakfast & Selected Designer Cafe Lunch Menu"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CHATUCHAK BOHEMIAN BAZAAR & AWARD-WINNING DAY SPA RETREAT",
+        "description": "VINTAGE TREASURES, LOCAL ARTISAN CRAFTS & 120-MINUTE DEEP REJUVENATION Today combines local bohemian street shopping with ultimate body pampering. Following breakfast, your private van drops your group at the massive Chatuchak Weekend Market (or the premium indoor MBK Center/Platinum Mall if weekday traveling). Walk through thousands of bustling stalls packed with hand- woven beach dresses, vintage ceramic ornaments, local home décor pieces, and unique silver accessories, making it an unparalleled location for collecting souvenirs and authentic Thai crafts. In the afternoon, escape the vibrant market lines into an award-winning luxury wellness day spa sanctuary. TRAGUIN has reserved exclusive group slots for your ladies' circle. Indulge side-by-side in traditional Thai herbal steam rooms, organic aromatic body scrubs, and therapeutic aromatic body oil massages using premium local essential oils. For your final evening, celebrate with an elegant 3-course farewell dinner overlooking the glittering city, raised to toast an extraordinary getaway. Sightseeing Included: Chatuchak Weekend Market or Platinum Fashion Mall, Luxury Spa Sanctuary access. Evening Experience: Grand finale all-female farewell dinner party at a premium waterfront restaurant with live music.",
+        "activities": [
+          "Overnight Stay: Bangkok (Ultra-Luxury Riverside or Central Lifestyle Hotel)",
+          "Meals Included: International Buffet Breakfast & 3-Course Riverfront Farewell Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "BANGKOK RETREAT & DEPARTURE",
+        "description": "CHERISHING MEMORIES BEYOND DESTINATIONS – FOREVER ULTRA-STYLISH Enjoy your final decadent buffet breakfast at your luxury hotel, capturing a final round of group fashion photos by the pool or across the tropical landscaped lounges. Take your time packing your shopping bags while our on-ground concierge team coordinates with hotel reception to manage your seamless checkout and handle luggage logistics. Depending on your flight departure schedule, your private luxury van remains available for last-minute boutique shopping for traditional Thai silks or premium spa oils, or a brief stop at a chic city cafe to grab a final cup of authentic Thai iced tea. Your private vehicle delivers your group safely to Suvarnabhumi International Airport for your return flight home. Your premium Bangkok Shopping Festival tour concludes beautifully, leaving your friend circle closer and more stylish than ever before, with stories crafted to perfection by TRAGUIN. Sightseeing Included: Boutique souvenir shopping access, private luxury airport departure transfer.",
+        "activities": [
+          "Meals Included: International Buffet Breakfast",
+          "SHOPPING: & LOCAL EXPERIENCES"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Sukosol Bangkok Premier Corner Room Complimentary Welcome Mocktails & Central Shopping Map Guide",
+        "location": "Multi-city Thailand",
+        "nights_label": "4N",
+        "description": "Option 01: Deluxe — The Sukosol Bangkok Premier Corner Room Complimentary Welcome Mocktails & Central Shopping Map Guide",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Grande Centre Point Terminal 21 Premium Deluxe Room Welcome Fruit Platters, Free BTS Skytrain 1-Day Pass per guest",
+        "location": "Multi-city Thailand",
+        "nights_label": "4N",
+        "description": "Option 02: Premium — Grande Centre Point Terminal 21 Premium Deluxe Room Welcome Fruit Platters, Free BTS Skytrain 1-Day Pass per guest",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Avani+ Riverside Bangkok Hotel Avani Panorama River Room Complimentary Floating Breakfast Setup & Rooftop Lounge Discount Vouchers",
+        "location": "Multi-city Thailand",
+        "nights_label": "4N",
+        "description": "Option 03: Luxury — Avani+ Riverside Bangkok Hotel Avani Panorama River Room Complimentary Floating Breakfast Setup & Rooftop Lounge Discoun",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mandarin Oriental, Bangkok / Siam Kempinski Deluxe Chao Phraya Suite / Executive Cabana Room Premium Vintage Champagne Bottle, Private Personal Shopper Lounge Access & 24/7 Butler Support",
+        "location": "Multi-city Thailand",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — Mandarin Oriental, Bangkok / Siam Kempinski Deluxe Chao Phraya Suite / Executive Cabana Room Premium Vintage Champagne B",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Daily Meals: 4 International Buffet Breakfast layouts with wellness and fruit corners.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private Vehicles: Dedicated safe luxury van with an experienced chauffeur and extra cargo room for all tours.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "VIP Sightseeing: Priority fast-track ramp entry for Chao Phraya River Dinner Cruise & Mahanakhon SkyWalk.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Wellness Luxury: 120-minute Premium Group Day Spa & Rejuvenating Massage session.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Flights: International flight tickets connecting your home country with Bangkok.",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Accommodation: 04 Nights stay in centrally located premium luxury hotels.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Visa Fees: Thailand Visa-on-Arrival or fast-track electronic visa processing fees.",
+        "sort_order": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-018-bali-fixed-departure-group-package",
+    "serial_code": "ID-018",
+    "traguin_tour_code": "TRAGUIN-BALI-000",
+    "title": "Bali Fixed Departure Group Package",
+    "duration_label": "05 NIGHTS / 06 DAYS",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ID-018 | TRAGUIN tour code TRAGUIN-BALI-000",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Bali, Indonesia | Category: Premium Haryana Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ubud Highlands",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Group Experiences: Enjoy pre-arranged priority entry lines at the Uluwatu Kecak",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Support: 24/7 dedicated on-ground group",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Corporate MICE & Premium Group Vacations 5",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-018-bali-fixed-departure-group-package-itinerary",
+    "title": "Bali Fixed Departure Group Package",
+    "duration_label": "05 NIGHTS / 06 DAYS",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bali Fixed Departure Group Package",
+    "overview": "EXCLUSIVE MANAGED GROUP ESCAPES • 05 NIGHTS / 06 DAYS Welcome to a beautifully managed group vacation journey structured by TRAGUIN Experts. Experience the incredible energy of companionship, premium execution, and deep corporate/social networking with our top-selling Bali Fixed Departure program. Built as an ultimate Bali Family Tour framework that serves seamlessly as a Luxury Bali Holiday for individual groups, this meticulously assembled blueprint integrates world-class coordination, upscale coaches, and immersive activities to create unforgettable memories. SERIAL CODE ID-018 TRAGUIN TOUR CODETRAGUIN-BALI- FD-018 STATE / COUNTRY Bali / Indonesia CATEGORY Premium Fixed Departure / Managed Group DURATION 05 Nights / 06 Days DESTINATIONS COVERED: Ubud Highlands (2 Nights) • Kuta / Kuta Beach (3 Nights) TRAGUIN Corporate MICE & Premium Group Vacations 1 IDEAL FOR Corporate Groups, Families, Like- Minded Travelers BEST TIME TO VISIT BALI April to October (Dry, pleasant weather window) STARTING PRICE Premium Competitive Group Rates (On Request) VEHICLE TYPE Private Premium Luxury AC Coach / Tour Bus\n\nTOUR OVERVIEW\nThe Best Bali Tour Package for fixed departures offers a premium social atmosphere without compromising individual luxury or personal comfort. Your journey is planned comprehensively to maximize your time, beginning in the central cultural highlands of Ubud before shifting directly down to the legendary beaches, nightlife zones, and iconic beach clubs of South Bali. Travel in style inside our premium air-conditioned luxury transportation coaches accompanied by an energetic native team, specialized local tour guides, and constant TRAGUIN support at every point.\n\nWHY CHOOSE TRAGUIN BALI FIXED DEPARTURE PACKAGES?\nOrganizing a premium group journey requires local insight and robust logistical capabilities. Our exclusive TRAGUIN Bali Packages strike a beautiful balance between high-demand tourist hubs and private, exclusive group encounters. Famous Attractions & Immersive Experiences: Walk through the iconic Tegalalang Rice Terraces, feel the wind on the legendary Bali Swing, and capture spectacular views of the active volcano at Mount Batur in Kintamani. Witness the spiritual heritage at Pura Tirta Empul and watch waves gently break around the majestic offshore Tanah Lot Temple. Most Searched Group Options & Instagram Locations: Capture stunning group memories at the Kanto Lampo waterfall cascades or during an intimate beachside seafood dinner at Jimbaran Bay. From exploring the bustling artistic streets of Ubud Market to enjoying VIP entry slots at top coastal beach clubs, this comprehensive Premium Bali Experience delivers seamless coordination, safety, and excellent group engagement.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ID-018 | Bali Fixed Departure Group Package | TRAGUIN",
+    "seo_description": "Premium 05 NIGHTS / 06 DAYS Bali package (ID-018 / TRAGUIN-BALI-000): Ubud Highlands with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BALI • GROUP GATHERING & UBUD HIGHLANDS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: UBUD CULTURE, BALI SWING & TEGALALANG RICE TERRACES",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: KINTAMANI VOLCANO VIEW, LUWAK COFFEE TASTING & TRANSITION SOUTH",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: TANAH LOT SEA TEMPLE EXPLORATION & BEACH CLUB LIFESTYLE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: ULUWATU CLIFF TEMPLE, KECAK FIRE DANCE & JIMBARAN BAY DINNER",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: LOCAL SOUVENIR SHOPPING & DEPARTURE FROM BALI",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Group Experiences: Enjoy pre-arranged priority entry lines at the Uluwatu Kecak",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Support: 24/7 dedicated on-ground group",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Corporate MICE & Premium Group Vacations 5",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BALI • GROUP GATHERING & UBUD HIGHLANDS",
+        "description": "TRAGUIN Corporate MICE & Premium Group Vacations 2 Arrive at Denpasar International Airport where the dedicated TRAGUIN Group Coordination team meets you at our private welcome lounge. Receive fresh frangipani leis, cold bottled water, and helpful itinerary binders before boarding your luxury air-conditioned coach. Enjoy a scenic journey up into the lush hills of Ubud. Check into your selected premium resort, unpack comfortably, and join your fellow travelers for a refreshing evening orientation cocktail.",
+        "activities": [
+          "Sightseeing Included: Smooth Airport Welcome, Private Group Coach Transfer.",
+          "Evening Experience: Interactive group ice-breaker dinner inside the resort's premium dining room.",
+          "Overnight Stay: Ubud Highlands | Meals Included: Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "UBUD CULTURE, BALI SWING & TEGALALANG RICE TERRACES",
+        "description": "Savor a fresh tropical breakfast looking out over mist-covered valley canopies. Today features immersive group adventures across the core tourist places in Bali. Visit the stunning, multi-tiered Tegalalang Rice Terraces to witness ancient irrigation design. Next, experience the famous Bali Swing over deep emerald gorges for high-quality photos. Walk through the cool, shaded paths of the Sacred Monkey Forest Sanctuary before enjoying free time to shop around the Ubud Traditional Art Market.",
+        "activities": [
+          "Sightseeing Included: Tegalalang Rice Terraces, Bali Swing Adventure, Ubud Monkey Forest, Art Markets.",
+          "Photography Points: Group portrait spots right over the emerald rice terrace amphitheater.",
+          "Overnight Stay: Ubud Highlands | Meals Included: Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KINTAMANI VOLCANO VIEW, LUWAK COFFEE TASTING & TRANSITION SOUTH",
+        "description": "Check out of Ubud and travel north along spectacular mountain ridges to Kintamani, a highland village overlooking the grand active volcano of Mount Batur and its deep crater lake. Enjoy a premium buffet lunch at a panoramic viewing pavilion. On the return loop, visit an exclusive agro-tourism estate to see how traditional Balinese Luwak coffee is made. In the afternoon, descend to South Bali to check into your premium beach resort in Kuta or Seminyak. Group Highlights: Coffee flight tasting of 12 exotic herbal teas and authentic local roasts.",
+        "activities": [
+          "Sightseeing Included: Mount Batur Viewpoint, Kintamani Highlands, Luwak Coffee Estate, South Bali Transfer.",
+          "Overnight Stay: Kuta / Seminyak Beach Area | Meals Included: Breakfast & Buffet Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "TANAH LOT SEA TEMPLE EXPLORATION & BEACH CLUB LIFESTYLE",
+        "description": "Spend a completely relaxed morning enjoying your resort's facilities or swimming along the lively golden shores of Kuta Beach. In the afternoon, board your group coach for a short trip to the iconic Tanah Lot Sea Temple, perched dramatically on a black volcanic wave-swept rock formation. Watch the sun dip beneath the TRAGUIN Corporate MICE & Premium Group Vacations 3 horizon before heading to a premier beachfront club to experience Bali's world-famous music and lifestyle scene.",
+        "activities": [
+          "Sightseeing Included: Tanah Lot Sea Temple, Kuta Beach walk area.",
+          "Evening Experience: Reserved group seating area at a premium coastal beach club for sunset drinks.",
+          "Overnight Stay: Kuta / Seminyak Beach Area | Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "ULUWATU CLIFF TEMPLE, KECAK FIRE DANCE & JIMBARAN BAY DINNER",
+        "description": "Your final full day on the island features iconic coastal highlights. Travel to the southernmost tip of Bali to explore Uluwatu Temple, resting precariously on a 70-meter cliff edge above the Indian Ocean. At sunset, enjoy pre-arranged VIP entry seats at the open-air cliff amphitheater to watch the moving Kecak Fire Dance performance. Celebrate the final night of your journey with a grand, candlelit seafood barbecue dinner right on the soft sands of Jimbaran Bay. Group Highlights: Final celebration toast with fresh coconut water and local wines on the beach.",
+        "activities": [
+          "Sightseeing Included: Uluwatu Cliff Temple, Sunset Kecak Dance, Jimbaran Bay Seafood Dinner.",
+          "Overnight Stay: Kuta / Seminyak Beach Area | Meals Included: Breakfast & Premium Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "LOCAL SOUVENIR SHOPPING & DEPARTURE FROM BALI",
+        "description": "Enjoy your final breakfast at the resort. Take advantage of your last morning to browse local markets for fine handmade batik shirts, aromatic spices, and traditional souvenirs. At the scheduled time, your premium luxury transportation coach arrives to transfer the entire group safely to Denpasar International Airport for your return flights, wrapping up an extraordinary group vacation curated expertly by TRAGUIN. Best Time to Visit Note: The dry season ensures clear skies and seamless coach transfers.",
+        "activities": [
+          "Sightseeing Included: Scheduled Private Group Airport Departure Transfer.",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Corporate MICE & Premium Group Vacations 4 TIER CATEGORYUBUD HIGHLANDS (2 NIGHTS) KUTA / SEMINYAK BEACH (3 NIGHTS) ROOM TYPE & MEAL PLAN Sthala Ubud / Element by Westin The Haven Seminyak / Aston Kuta Deluxe Supe",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — TRAGUIN Corporate MICE & Premium Group Vacations 4 TIER CATEGORYUBUD HIGHLANDS (2 NIGHTS) KUTA / SEMINYAK BEACH (3 NIGHT",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Alaya Resort Ubud / Arkamara Merusaka Nusa Dua / Hard Rock Hotel Premium Grand Deluxe (BB)",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — Alaya Resort Ubud / Arkamara Merusaka Nusa Dua / Hard Rock Hotel Premium Grand Deluxe (BB)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Kayon Resort / Maya Ubud The Seminyak Beach Resort / Discovery Kartika Luxury Garden Suite (BB)",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 03: Luxury — The Kayon Resort / Maya Ubud The Seminyak Beach Resort / Discovery Kartika Luxury Garden Suite (BB)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Viceroy Bali / Mandapa Ritz-Carlton The Mulia / W Bali Seminyak Resort Signature Private Pool Villa (BB)",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — Viceroy Bali / Mandapa Ritz-Carlton The Mulia / W Bali Seminyak Resort Signature Private Pool Villa (BB)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "05 Nights Stay: Selected high-end group properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "PACKAGE INCLUSIONS",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare: International roundtrip flights",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "Visa Costs: Visa on Arrival (VoA) fees",
+        "sort_order": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "destination_slug": "japan",
+  "package": {
+    "slug": "jp-004-luxury-japan-showcase",
+    "serial_code": "JP-004",
+    "traguin_tour_code": "TRG-JPN-LUXURY-2026",
+    "title": "Luxury Japan Showcase",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code JP-004 | TRAGUIN tour code TRG-JPN-LUXURY-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Japan, East Asia | Category: Luxury Japan Holiday Sovereign Showcase",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Tokyo Private Geisha Gala • Mt. Fuji VIP Helicopters • Gran Class Bullet Rail • Kyoto",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Executive Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "jp-004-luxury-japan-itinerary",
+    "title": "Luxury Japan Showcase",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Japan Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury Japan Showcase",
+    "overview": "Royal Shrines • Osaka Michelin Nights 08 Nights / 09 Days Ultimate Luxury Japan Imperial Sovereign Expedition SERIAL CODE: JP-004 TRAGUIN TOUR CODE: TRG-JPN-LUXURY-2026 STATE / COUNTRY: Japan / East Asia CATEGORY: Luxury Japan Holiday Sovereign Showcase DURATION: 08 Nights / 09 Days Tokyo (3N) • Hakone Luxury (1N) • Kyoto (3N) • Osaka (1N)\n\nTOUR OVERVIEW\nIndulge in the ultimate peak of Asian opulence with our crown jewel TRAGUIN curated imperial sovereign expedition. Meticulously engineered for the world's most discerning high-net-worth travelers, this Luxury Japan Holiday weaves private helicopter ridge crossings, exclusive Michelin-starred gastronomic feasts, private traditional performances closed to the public, and premier palace properties to secure an elite trail of unforgettable memories. Sovereign Note from TRAGUIN: Uncompromised distinction is our signature. This 9-day private journey includes full VIP tarmac transfers, premium chauffeured luxury fleets (Mercedes S-Class/V-Class), prioritized fast-track entries to historical sanctuaries, and personal 24/7 dedicated concierge managers handling your logistics flawlessly.\n\nWHY CHOOSE OUR ULTIMATE LUXURY JAPAN FRAMEWORK?\nThe Land of the Rising Sun represents the planet's finest integration of hyper-modern industrial triumph, meticulous aesthetic codes, and regal ancient history. Booking our flagship Premium Japan Experience guarantees an unparalleled curation of the country's ultimate secrets. This professional framework relies on topsearched travel keywords optimized for Google ranking, ensuring an exceptional presentation format for high-end Japan Sightseeing elements. Discover Top Tourist Places in Japan through unprecedented elite access: explore Tokyo via private helicopter flights, relax inside centuries-old traditional hot-spring palaces, bypass all public channels at Kyoto’s Golden Pavilion, and experience high-end gastronomic celebrations inside Osaka. It is the absolute Best Time to Visit Japan to witness private curated experiences, experience exclusive experiences, photograph immense breathtaking landscapes, and secure an unmatched Premium Japan Experience. TRAGUIN Sovereign Signatures: Private helicopter flight over Mount Fuji, Gran Class (Ultra-VIP) Shinkansen bullet train tickets, private exclusive Geisha dinner performance in Kyoto, private water transits and digital art gallery access after-hours, and continuous 24/7 dedicated luggage forwarding care. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "JP-004 | Luxury Japan Showcase | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days Japan package (JP-004 / TRG-JPN-LUXURY-2026): Tokyo Private Geisha Gala • Mt. Fuji VIP Helicopters • Gran Class Bullet Rail • Kyoto with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: TOKYO SOVEREIGN ARRIVAL & ROOFTOP NETWORKING",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: PRIVATE TOKYO DISCOVERY & AFTER-HOURS ART PRIVILEGE",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MT. FUJI HELICOPTER FLIGHT & ELITE ONSEN RYOKAN",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: GRAN CLASS BULLET TRAIN TRANSIT TO KYOTO PALACES",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCLUSIVE TEMPLE ACCESS & PRIVATE GEISHA GALA DINNER",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: CRIMSON TORII PATHWAYS & PRIVATE MATCHA REVELATIONS",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: NARA DEER PARK TRAIL TO DYNAMIC OSAKA",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: SAMURAI CASTLE HERITAGE & NEON FAREWELL GALA",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "TOKYO SOVEREIGN ARRIVAL & ROOFTOP NETWORKING",
+        "description": "Your grand Luxury Japan expedition begins with a VIP aircraft-side greeting at Tokyo Narita or Haneda Airport. Clear customs smoothly via private diplomatic tracks as your dedicated TRAGUIN luxury chauffeur transfers you to your ultra-luxury hotel. In the evening, unwind with an intimate welcome family dinner party at a Michelin-starred rooftop restaurant overlooking the glowing Shinjuku skyline, taking in the city's infinite scenic beauty. Sightseeing Included: VIP airfield tarmac reception, private luxury vehicle airport transfer, skyline trail.",
+        "activities": [
+          "Overnight Stay: Tokyo Center (Handpicked Ultra-Luxury Palace Sky Property)",
+          "Meals Included: Michelin Gastronomy Welcome Tasting Menu"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "PRIVATE TOKYO DISCOVERY & AFTER-HOURS ART PRIVILEGE",
+        "description": "Savor a luxurious breakfast served privately by your floor butler. Spend a relaxed morning on a private guided architecture tour of the Meiji Shrine and Imperial Palace outer gardens. In the evening, enjoy unprecedented privilege: a completely private, after-hours admission to the world-famous teamLab Planets digital art maze, wandering through infinite mirrored rooms and flower tapestries in absolute serenity, capturing unique Sightseeing Included: Meiji Shrine private guide, TeamLab Planets after-hours exclusive private opening.",
+        "activities": [
+          "photography points: .",
+          "Overnight Stay: Tokyo Center (Handpicked Ultra-Luxury Palace Sky Property)",
+          "Meals Included: International Breakfast & Premium Ginza Sushi Omakase Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MT. FUJI HELICOPTER FLIGHT & ELITE ONSEN RYOKAN",
+        "description": "Check out as your luxury sedan transfers your family to the private helipad. Lift off in a premium helicopter for a breathtaking flight south, soaring past the towering, snow-capped peak of Mount Fuji. Land directly inside the serene, forested mountains of Hakone. Check into your ultra-luxury traditional Ryokan resort, spending your afternoon soaking in your private outdoor volcanic thermal hot spring baths, looking across immense breathtaking landscapes. Sightseeing Included: Private chartered helicopter flight over Mt. Fuji & Hakone ridges, private thermal hot spring layouts. Logistics Highlight: TRAGUIN dedicated luggage forwarding service handles all heavy bags directly from Tokyo to Kyoto.",
+        "activities": [
+          "Overnight Stay: Hakone Mountain Range (Elite Ultra-Luxury Traditional Ryokan Sanctuary)",
+          "Meals Included: International Breakfast & Traditional 12-Course Kaiseki Dinner Feast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "GRAN CLASS BULLET TRAIN TRANSIT TO KYOTO PALACES",
+        "description": "THE IMPERIAL TRANSIT – BULLET RAIL APEX & RICKSHAW RIDE Board the legendary Shinkansen Bullet Train in Gran Class Comfort (the ultra-VIP first-class cabin featuring leather sleeper shells and personal attendant service). Arrive seamlessly in Kyoto, the cultural soul of Japan. In the afternoon, board a traditional private rickshaw for a peaceful, curated journey through the towering Arashiyama Bamboo Grove, catching the golden sun filtering through the stalks. Sightseeing Included: Gran Class Shinkansen Bullet Train tickets, Arashiyama Bamboo Grove private rickshaw trail.",
+        "activities": [
+          "Overnight Stay: Kyoto Riverside (Handpicked Ultra-Luxury Boutique Waterfront Palace)",
+          "Meals Included: International Breakfast & Premium Kyoto Bento Lunch Box"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCLUSIVE TEMPLE ACCESS & PRIVATE GEISHA GALA DINNER",
+        "description": "Experience true cultural isolation. Spend your morning exploring the golden architectural spires of Kinkaku-ji (The Golden Pavilion) with pre-arranged skip-the-line VIP entries. In the evening, step inside a historic, century-old private tea house. Participate in a highly exclusive, private dinner gala featuring traditional musical and dance performances by authentic Kyoto Geishas—a rare, unforgettable experience. Sightseeing Included: Kinkaku-ji Golden Pavilion priority entry, Private Tea House access. Special Curation:Completely private Geisha dinner presentation with live musical accompaniment.",
+        "activities": [
+          "Overnight Stay: Kyoto Riverside (Handpicked Ultra-Luxury Boutique Waterfront Palace)",
+          "Meals Included: International Breakfast & Royal Kaiseki Geisha Dinner Gala"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CRIMSON TORII PATHWAYS & PRIVATE MATCHA REVELATIONS",
+        "description": "Discover the legendary Fushimi Inari Shrine early in the morning, walking past thousands of brilliant vermilion torii gates winding up the mountain slope. Later in the afternoon, access a private zen temple pavilion closed to the public. Participate in an authentic Matcha Tea Ceremony hosted by an expert tea master, learning centuries-old methods of mindfulness and zen immersive experiences. Sightseeing Included: Fushimi Inari mountain torii gate trail, Private zen temple tea master masterclass.",
+        "activities": [
+          "Overnight Stay: Kyoto Riverside (Handpicked Ultra-Luxury Boutique Waterfront Palace)",
+          "Meals Included: International Breakfast & Premium A5 Kobe Beef Dinner Event"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "NARA DEER PARK TRAIL TO DYNAMIC OSAKA",
+        "description": "Check out as your private luxury van drives south towards Osaka, stopping en route at Nara Deer Park. Stand among hundreds of friendly bowing deer and tour the colossal Todai-ji Temple, viewing the world's largest bronze Buddha statue. Arrive in Osaka and check into your ultra-luxury modern suite, spending a free evening exploring retail innovations. Sightseeing Included: Nara Deer Park entry, Todai-ji Temple bronze Buddha guided tour, Osaka city drive.",
+        "activities": [
+          "Overnight Stay: Osaka City Centre (Handpicked Ultra-Luxury Flagship Property)",
+          "Meals Included: International Breakfast & Traditional Osaka Gastronomy Lunch"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "SAMURAI CASTLE HERITAGE & NEON FAREWELL GALA",
+        "description": "Tour the monumental Osaka Castle park with your private historian guide, gaining exclusive entry into the top tower viewpoints. In the evening, celebrate the grand finale of your sovereign expedition with an intimate culinary walking tour through the glowing neon-lit canal paths of Dotonbori. Toast your family or team during a grand farewell dinner at a private riverfront terrace, cementing unforgettable memories. Sightseeing Included: Osaka Castle tower private entry, Dotonbori neon canal district culinary walking trail. Evening Experience: Grand finale corporate or family celebration dinner party.",
+        "activities": [
+          "Overnight Stay: Osaka City Centre (Handpicked Ultra-Luxury Flagship Property)",
+          "Meals Included: International Breakfast & Grand Farewell Riverfront Feast"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "SOVEREIGN CLOSING & KANSAI DEPARTURE",
+        "description": "Savor a luxurious final breakfast, enjoying the city skyline view blocks. Your dedicated personal butler handles your seamless checkout and coordinates all luggage transits smoothly. Your private executive van transfers your family comfortably to Osaka Kansai International Airport for your departure flight home, concluding an extraordinary grand holiday. Transfers: Private luxury van airport departure transfer, priority luggage handling. HANDPICKED ELITE SOVEREIGN ACCOMMODATIONS Category Tokyo Centre Palace (3N) Hakone Sanctuary (1N) Kyoto Waterfront (3N) Osaka Flagship (1N) OPTION 01 – DELUXE Keio Plaza Hotel Tokyo Hakone Yumoto Onsen The Thousand KyotoCross Hotel Osaka OPTION 02 – PREMIUM Cerulean Tower Tokyu Hakone Kowakien Ten-yu Kyoto Tokyu Hotel Swissotel Nankai Osaka OPTION 03 – LUXURY The Capitol Hotel Tokyu Gora Kadan RyokanThe Ritz-Carlton Kyoto W Dubai / W Osaka OPTION 04 – ULTRA LUXURY Aman Tokyo / Palace Hotel Hoshinoya Fuji / Gora Kadan Aman Kyoto / Suiran Luxury St. Regis Osaka",
+        "activities": [
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Keio Plaza Hotel Tokyo Hakone Yumoto Onsen The Thousand KyotoCross Hotel Osaka",
+        "location": "Multi-city Japan",
+        "nights_label": "8N",
+        "description": "Option 01: Deluxe — Keio Plaza Hotel Tokyo Hakone Yumoto Onsen The Thousand KyotoCross Hotel Osaka",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Cerulean Tower Tokyu Hakone Kowakien Ten-yu Kyoto Tokyu Hotel Swissotel Nankai Osaka",
+        "location": "Multi-city Japan",
+        "nights_label": "8N",
+        "description": "Option 02: Premium — Cerulean Tower Tokyu Hakone Kowakien Ten-yu Kyoto Tokyu Hotel Swissotel Nankai Osaka",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Capitol Hotel Tokyu Gora Kadan RyokanThe Ritz-Carlton Kyoto W Dubai / W Osaka",
+        "location": "Multi-city Japan",
+        "nights_label": "8N",
+        "description": "Option 03: Luxury — The Capitol Hotel Tokyu Gora Kadan RyokanThe Ritz-Carlton Kyoto W Dubai / W Osaka",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Aman Tokyo / Palace Hotel Hoshinoya Fuji / Gora Kadan Aman Kyoto / Suiran Luxury St. Regis Osaka",
+        "location": "Multi-city Japan",
+        "nights_label": "8N",
+        "description": "Option 04: Ultra Luxury — Aman Tokyo / Palace Hotel Hoshinoya Fuji / Gora Kadan Aman Kyoto / Suiran Luxury St. Regis Osaka",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Air Logistics: Private Chartered Helicopter Flight across Mount Fuji peak and Hakone mountain ridges",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Bullet Train: Ultra-VIP Gran Class Shinkansen Bullet Train tickets from Hakone/Tokyo to Kyoto",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luggage Forwarding: Full TRAGUIN hotel-to-hotel seamless luggage transit care across cities",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Protection: Dedicated 24/7 on-call travel expert concierge assistance and local guides",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Air Logistics: Private Chartered Helicopter Flight across Mount Fuji peak and Hakone mountain ridges",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Bullet Train: Ultra-VIP Gran Class Shinkansen Bullet Train tickets from Hakone/Tokyo to Kyoto",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Luggage Forwarding: Full TRAGUIN hotel-to-hotel seamless luggage transit care across cities",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Protection: Dedicated 24/7 on-call travel expert concierge assistance and local guides",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and Japan entry Visa processing fees",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, hotel room service laundry bills, mini-bar billing",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, or optional extreme sightseeing excursions not mentioned in the flow",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and Japan entry Visa processing fees",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, hotel room service laundry bills, mini-bar billing",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, or optional extreme sightseeing excursions not mentioned in the flow",
+        "sort_order": 14
+      }
+    ]
+  }
+}

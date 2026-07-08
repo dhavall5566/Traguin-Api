@@ -1,0 +1,237 @@
+{
+  "destination_slug": "uae",
+  "package": {
+    "slug": "uae-008-dubai-desert-adventure-tour",
+    "serial_code": "UAE-008",
+    "traguin_tour_code": "TRG-DXB-ADV-2026",
+    "title": "Dubai Desert Adventure",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UAE-008 | TRAGUIN tour code TRG-DXB-ADV-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Dubai, UAE | Category: Luxury Desert Adventure Holiday",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Red Dunes Dune Bashing • Quad Biking • Skydive Dubai • Desert Safari Night",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Desert",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "uae-008-dubai-desert-adventure-itinerary",
+    "title": "Dubai Desert Adventure",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium UAE Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Dubai Desert Adventure",
+    "overview": "04 Nights / 05 Days High-Octane Luxury Adventure Expedition SERIAL CODE: UAE-008 TRAGUIN TOUR CODE: TRG-DXB-ADV-2026 STATE / COUNTRY: Dubai / UAE CATEGORY: Luxury Desert Adventure Holiday DURATION: 04 Nights / 05 Days Dubai City & Red Dunes Sanctuary\n\nTOUR OVERVIEW\nUnleash your adrenaline with this high-octane TRAGUIN curated adventure. Designed specifically for thrill- seekers, this Dubai Desert Adventure merges the cutting-edge extreme sports of the city with the raw beauty of Lahbab's red dunes. Experience exclusive experiences, enjoy premium stays, and walk away with absolute unforgettable memories. Adventure Note from TRAGUIN: Thrill requires precision. Your expedition is operated under professional guidelines, featuring high-powered customized 4x4 vehicles, certified instructors, private transfers, and unique desert stays with 24/7 on-ground assistance.\n\nWHY CHOOSE OUR DUBAI ADVENTURE & DESERT PACKAGE?\nDubai is a dynamic global capital for thrill-seekers, balancing legendary sand sports with record-breaking extreme athletics. Booking our signature Dubai Adventure Tour Package guarantees action-packed discovery. This itinerary features targeted travel keywords for Google ranking, showcasing premier Dubai Sightseeing and extreme landmarks. Explore the iconic attractions: experience high-powered quad biking across steep sands, sandboarding down monolithic dunes, skydiving options over Palm Jumeirah, and immersive overnight stargazing inside luxury desert camps. It is the absolute Best Time to Visit Dubai to capture breathtaking landscapes, experience thrilling immersive experiences, and indulge in an unmatched Premium Dubai Experience. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UAE-008 | Dubai Desert Adventure | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Dubai package (UAE-008 / TRG-DXB-ADV-2026): Red Dunes Dune Bashing • Quad Biking • Skydive Dubai • Desert Safari Night with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DUBAI & JET CAR THRILL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: DEEP DESERT EXPLORATION & QUAD BIKING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: HOT AIR BALLOON SUNRISE & SKYDIVING OPTION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: DEEP DIVE DUBAI & HELICOPTER FLIGHT",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: SOUVENIR TRACKS & DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DUBAI & JET CAR THRILL",
+        "description": "Arrive in Dubai to a premium welcome. Your private TRAGUIN chauffeur transfers you to your city hotel. In the afternoon, dive straight into action with an adrenaline-pumping Water Jet Car ride at Dubai Marina, speeding through ocean waves alongside magnificent yachts, experiencing the city's scenic beauty from the water. Sightseeing Included: Private executive airport transit, Marina Water Jet Car thrill ride. Evening Experience: Trendy high-energy dinner party at an upscale marina restaurant.",
+        "activities": [
+          "Overnight Stay: Dubai Marina (Handpicked Premium Action-Hub Hotel)",
+          "Meals Included: Welcome Gala Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DEEP DESERT EXPLORATION & QUAD BIKING",
+        "description": "Fuel up with breakfast before heading into the vast expanse of Lahbab's famous red dunes. Board a high- powered 400cc Quad Bike or Dune Buggy for a rugged off-road self-drive adventure across massive sand crests. Later, experience an intense session of sandboarding down vertical slopes, capturing breathtaking landscapes. Sightseeing Included: Lahbab red dunes transit, high-powered quad biking trail, sandboarding. Evening Experience: Private desert camp sunset views with a live fire show and traditional BBQ.",
+        "activities": [
+          "Overnight Stay: Lahbab Desert Sanctuary (Luxury Air-Conditioned Bedouin Glamping Dome)",
+          "Meals Included: Breakfast & Live Flame Desert Grill Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "HOT AIR BALLOON SUNRISE & SKYDIVING OPTION",
+        "description": "An early morning wake-up call leads to an incredible sunrise Hot Air Balloon ride floating 4,000 feet above the desert, observing wild oryx roaming below. In the afternoon, return to the city for a heart-stopping optional Skydive over the Palm Jumeirah or a high-speed zipline ride through Dubai Marina's high-rises. Sightseeing Included: Sunrise hot air balloon flight, private return city transit tracks. Optional Activities: Skydive Dubai Palm Jumeirah jump or XLine Marina Zipline flight.",
+        "activities": [
+          "Overnight Stay: Dubai City Centre (Premium Stay)",
+          "Meals Included: Gourmet Desert Breakfast & City Centre Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "DEEP DIVE DUBAI & HELICOPTER FLIGHT",
+        "description": "Discover the world's deepest pool at Deep Dive Dubai, exploring a sunken underwater city at a depth of up to 60 meters under professional guidance. In the evening, ascend skyward for a private helicopter tour over the city's futuristic architecture, taking in the scenic beauty of Burj Khalifa and Palm Jumeirah from above. Sightseeing Included: Deep Dive Dubai exploration, private helicopter flight over city skyline.",
+        "activities": [
+          "Overnight Stay: Dubai City Centre (Premium Stay)",
+          "Meals Included: Breakfast & Farewell Premium Dining Event"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SOUVENIR TRACKS & DEPARTURE",
+        "description": "Enjoy a hearty breakfast, reviewing your extreme captures and video edits. Spend a free morning shopping for tactical gear or local souvenirs before your private TRAGUIN chauffeur transfers you to Dubai International Airport for your flight home, concluding an epic adventure. Transfers: Private luxury van airport departure transit, complete luggage handling.",
+        "activities": [
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Rove Marina / Aloft Palm JumeirahArabian Oryx Glamping Camp",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 01: Deluxe — Rove Marina / Aloft Palm JumeirahArabian Oryx Glamping Camp",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Radisson Red Marina / Media OneMysk Al Faya Retreat Domes",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 02: Premium — Radisson Red Marina / Media OneMysk Al Faya Retreat Domes",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "W Dubai - The Mina Seyahi Bab Al Shams Desert Resort",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 03: Luxury — W Dubai - The Mina Seyahi Bab Al Shams Desert Resort",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Armani Hotel / Atlantis The Royal Al Maha Luxury Desert Resort & Spa",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — Armani Hotel / Atlantis The Royal Al Maha Luxury Desert Resort & Spa",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Stays: 3 Nights in city thrill-hubs, 1 Night in a luxury air-conditioned desert camp dome",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily hearty breakfasts and high-protein curated dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Activities: High-powered Quad Biking, Sunrise Hot Air Balloon, Sandboarding, Water Jet Car",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Dedicated 4x4 off-road vehicles and private luxury vans for ground transits",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Support: 24/7 dedicated TRAGUIN adventure manager on-site",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "International Flights, Visa fees, Travel Insurance",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Skydive Dubai / XLine Zipline ticket charges (Available as add-ons)",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, tipping, meals not specified",
+        "sort_order": 8
+      }
+    ]
+  }
+}

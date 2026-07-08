@@ -1,0 +1,273 @@
+{
+  "destination_slug": "france",
+  "package": {
+    "slug": "fr-005-grand-france-tour",
+    "serial_code": "FR-005",
+    "traguin_tour_code": "TRG-FRA-GRD-2026",
+    "title": "Grand France Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code FR-005 | TRAGUIN tour code TRG-FRA-GRD-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: France | Category: Grand Luxury France Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Paris • Versailles • Loire Valley Castles • Bordeaux Vineyards • French Riviera (Nice/",
+        "sort_order": 3
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 4
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 5
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "fr-005-grand-france-itinerary",
+    "title": "Grand France Tour",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium France Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Paris • Versailles • Loire Valley Castles • Bordeaux Vineyards • French Riviera (Nice/",
+    "overview": "Monaco) 08 Nights / 09 Days Ultra-Luxury Grand France Showcase SERIAL CODE: FR-005 TRAGUIN TOUR CODE: TRG-FRA-GRD-2026 STATE / COUNTRY: France CATEGORY: Grand Luxury France Tour Package DURATION: 08 Nights / 09 Days Paris (3N) • Loire Valley (2N) • Bordeaux (2N) • French Riviera (2N)\n\nTOUR OVERVIEW\nDiscover the absolute pinnacle of French elegance with our TRAGUIN curated Grand Expedition. This ultimate journey explores the royal architecture of Paris and Versailles, the historic fairytale castles of the Loire Valley, the prestigious vineyards of Bordeaux, and the glamour of the French Riviera. A truly unforgettable experience for the most discerning travelers. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "FR-005 | Grand France Tour | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days France package (FR-005 / TRG-FRA-GRD-2026): Paris • Versailles • Loire Valley Castles • Bordeaux Vineyards • French Riviera (Nice/.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN PARIS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: PARIS ART & HISTORY",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: PALACE OF VERSAILLES",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: LOIRE VALLEY CASTLES",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: LOIRE VALLEY WINERIES",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: BORDEAUX VINEYARDS",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: BORDEAUX HERITAGE",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: FRENCH RIVIERA GLAMOUR",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PARIS",
+        "description": "Arrive in Paris, private transfer to a palatial hotel. Enjoy a welcome dinner at a Michelin-starred restaurant with views of the Eiffel Tower.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "PARIS ART & HISTORY",
+        "description": "Private guided tour of the Louvre followed by a walk through the charming Marais district. Evening private Seine cruise.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PALACE OF VERSAILLES",
+        "description": "Private tour of Versailles' Royal Apartments and the expansive gardens. Evening at leisure.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "LOIRE VALLEY CASTLES",
+        "description": "Travel to the Loire Valley. Private exploration of the stunning Château de Chambord and Château de Chenonceau.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LOIRE VALLEY WINERIES",
+        "description": "Enjoy a private tasting tour at local vineyards followed by an afternoon in the charming city of Tours.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "BORDEAUX VINEYARDS",
+        "description": "Travel to Bordeaux. Private visit to legendary wine estates of Saint-Émilion. Gastronomic dinner featuring local wines.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "BORDEAUX HERITAGE",
+        "description": "Explore the historic centre of Bordeaux, a UNESCO World Heritage site, and its contemporary wine museum, La Cité du Vin.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "FRENCH RIVIERA GLAMOUR",
+        "description": "Flight to the Riviera. Check into a world-class seaside palace hotel in Nice. Sunset walk along the Promenade des Anglais.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "MONACO & DEPARTURE",
+        "description": "Private excursion to Monaco. Explore the Prince’s Palace and the Monte Carlo Casino before your flight from Nice.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 9
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Peninsula Paris / similar",
+        "location": "Paris",
+        "nights_label": "3N",
+        "description": "OPTION 01 – ULTRA LUXURY: The Peninsula Paris",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Château de la Bourdaisière / similar",
+        "location": "Bordeaux",
+        "nights_label": "4N",
+        "description": "OPTION 02 – ULTRA LUXURY: Château de la Bourdaisière",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand-Hôtel du Cap-Ferrat / similar",
+        "location": "Riviera",
+        "nights_label": "2N",
+        "description": "OPTION 03 – ULTRA LUXURY: Grand-Hôtel du Cap-Ferrat",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "08 Nights in handpicked premium hotels across Paris • Versailles • Loire Valley Castles • Bordeaux Vineyards • French Riviera (Nice/",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private guided Paris sightseeing including Eiffel Tower, Louvre, and Versailles",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Scenic Seine River cruise experience",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "French Riviera and Monaco elite coastal experiences",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Curated wine country and heritage castle experiences",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and France/Schengen entry visa processing fees",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -2,46 +2,41 @@
   "destination_slug": "france",
   "package": {
     "slug": "fr-001-paris-highlights-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "FR-001",
+    "traguin_tour_code": "TRG-PAR-HIGHLIGHTS-2026",
     "title": "Paris Highlights Family Tour",
     "duration_label": "04 Nights / 05 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 37,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Paris (4N) classic family heritage expedition",
+        "text": "Serial code FR-001 | TRAGUIN tour code TRG-PAR-HIGHLIGHTS-2026",
         "sort_order": 1
       },
       {
-        "text": "Eiffel Tower, Louvre Museum & Seine River cruise",
+        "text": "Country: France | Category: Best Paris Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Palace of Versailles royal apartments & gardens",
+        "text": "Destinations: Eiffel Tower • Louvre Museum • Seine River Cruise • Montmartre • Palace of Versailles",
         "sort_order": 3
       },
       {
-        "text": "Montmartre, Sacré-Cœur & French cuisine experiences",
+        "text": "Best season: October to March",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Starting price: On Request",
         "sort_order": 5
-      },
-      {
-        "text": "Tour code TRG-PAR-HIGHLIGHTS-2026 | Serial FR-001",
-        "sort_order": 6
       }
     ],
     "moods": [
       "Family",
-      "Luxury",
-      "Cultural"
+      "Romantic"
     ]
   },
   "itinerary": {
@@ -50,86 +45,81 @@
     "duration_label": "04 Nights / 05 Days",
     "duration_days": 5,
     "starting_price": 0,
-    "price_note": "On Request (Premium Paris Experience)",
+    "price_note": "On Request (Premium France Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Eiffel Tower • Louvre • Seine Cruise • Montmartre • Versailles",
-    "overview": "Discover the dazzling charm and historic grandeur of the City of Light with TRAGUIN's curated family itinerary. Designed for excitement and comfort, this Paris Family Highlights package offers a flawless blend of monumental exploration, artistic discovery, and leisurely strolls through charming quarters. Experience the best of French hospitality with handpicked hotels and exclusive services.",
-    "is_featured": true,
-    "featured_sort_order": 37,
+    "tagline": "Eiffel Tower • Louvre Museum • Seine River Cruise • Montmartre • Palace of Versailles",
+    "overview": "Eiffel Tower • Louvre Museum • Seine River Cruise • Montmartre • Palace of Versailles 04 Nights / 05 Days Classic Paris Family Heritage Expedition SERIAL CODE: FR-001 TRAGUIN TOUR CODE: TRG-PAR-HIGHLIGHTS-2026 STATE / COUNTRY: France CATEGORY: Best Paris Family Tour Package DURATION: 04 Nights / 05 Days Paris Exploration\n\nTOUR OVERVIEW\nDiscover the dazzling charm and historic grandeur of the \"City of Light\" with our TRAGUIN curated family itinerary. Designed for excitement and comfort, this Paris Family Highlights package offers a flawless blend of monumental exploration, artistic discovery, and leisurely strolls through charming quarters. Experience the best of French hospitality with TRAGUIN's handpicked hotels and exclusive services, creating unforgettable memories.\n\nWHY CHOOSE OUR PARIS HIGHLIGHTS FAMILY TOUR?\nParis is a world-class playground for families, offering endless excitement for all ages. From the towering Eiffel Tower to the treasures of the Louvre, our curated experiences promise a premium Paris experience. With TRAGUIN, you get professional support and exclusive experiences that redefine the family holiday. Discover the iconic attractions that make Paris a dream destination. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "FR-001 | Paris Highlights Family Tour | TRAGUIN",
-    "seo_description": "Premium 04 Nights / 05 Days Paris family package (FR-001): Eiffel Tower, Louvre, Seine River cruise, Versailles, and Montmartre.",
-    "is_published": true,
+    "seo_description": "Premium 04 Nights / 05 Days France package (FR-001 / TRG-PAR-HIGHLIGHTS-2026): Eiffel Tower • Louvre Museum • Seine River Cruise • Montmartre • Palace of Versailles.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Seine River Night Cruise",
+        "text": "Day 01: ARRIVAL IN PARIS & SEINE RIVER CRUISE",
         "sort_order": 1
       },
       {
-        "text": "Eiffel Tower & Louvre Museum",
+        "text": "Day 02: EIFFEL TOWER & LOUVRE DISCOVERY",
         "sort_order": 2
       },
       {
-        "text": "Palace of Versailles",
+        "text": "Day 03: PALACE OF VERSAILLES",
         "sort_order": 3
       },
       {
-        "text": "Montmartre & Sacré-Cœur Basilica",
+        "text": "Day 04: MONTMARTRE & ARTISTIC CHARM",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Paris & Seine River Cruise",
-        "description": "Arrive in elegant Paris. Your private TRAGUIN transfer will escort you to your handpicked hotel. Enjoy a relaxing evening with a scenic Seine River cruise, admiring the city's stunning landmarks illuminated at night.",
+        "title": "ARRIVAL IN PARIS & SEINE RIVER CRUISE",
+        "description": "Arrive in elegant Paris. Your private TRAGUIN transfer will escort you to your handpicked hotel. Enjoy a relaxing evening with a scenic Seine River cruise, admiring the city’s stunning landmarks illuminated at night.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, Seine River night cruise",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Eiffel Tower & Louvre Discovery",
+        "title": "EIFFEL TOWER & LOUVRE DISCOVERY",
         "description": "Explore the iconic attractions of Paris. Visit the Eiffel Tower and the Louvre Museum. This curated experience offers deep insights into Paris's history, culture, and iconic attractions.",
         "activities": [
-          "Sightseeing Included: Eiffel Tower visit, Louvre Museum guided tour",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Palace of Versailles",
-        "description": "Embark on a grand excursion to the Palace of Versailles. Explore the breathtaking state apartments, Hall of Mirrors, and the magnificent royal gardens.",
+        "title": "PALACE OF VERSAILLES",
+        "description": "Embark on a grand excursion to the Palace of Versailles. Explore the breathtaking state apartments, Hall of Mirrors, and the magnificent royal gardens—a highlight of TRAGUIN's exclusive packages.",
         "activities": [
-          "Sightseeing Included: Palace of Versailles, Hall of Mirrors, royal gardens",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Montmartre & Artistic Charm",
-        "description": "A full day of immersive fun exploring the artistic streets of Montmartre. Visit the Sacré-Cœur Basilica, enjoy local art, and taste French cuisine.",
+        "title": "MONTMARTRE & ARTISTIC CHARM",
+        "description": "A full day of immersive fun exploring the artistic streets of Montmartre. Visit the Sacré-Cœur Basilica, enjoy local art, and taste French cuisine, creating unforgettable memories.",
         "activities": [
-          "Sightseeing Included: Montmartre walking tour, Sacré-Cœur Basilica",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Enjoy a final family breakfast. Your private TRAGUIN chauffeur ensures a comfortable transfer to the airport, completing your premium Paris experience.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: International Buffet Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       }
@@ -137,13 +127,13 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Le Meurice / The Peninsula Paris",
+        "name": "Le Meurice / The Peninsula Paris / similar",
         "location": "Paris",
-        "nights_label": "04 Nights",
-        "description": null,
+        "nights_label": "4N",
+        "description": "OPTION 01 – ULTRA LUXURY: Le Meurice / The Peninsula Paris",
         "stars": 5,
         "category_label": "Ultra Luxury",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 1
@@ -152,37 +142,37 @@
     "inclusions": [
       {
         "kind": "included",
-        "text": "04 Nights in handpicked ultra-luxury family hotel in Paris",
+        "text": "04 Nights in handpicked premium hotels across Eiffel Tower • Louvre Museum • Seine River Cruise • Montmartre • Palace of Versailles",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private executive chauffeur-driven luxury ground transfers",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Seine River night cruise on arrival evening",
+        "text": "Private guided Paris sightseeing including Eiffel Tower, Louvre, and Versailles",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Eiffel Tower and Louvre Museum guided sightseeing",
+        "text": "Scenic Seine River cruise experience",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "Palace of Versailles excursion with royal gardens access",
+        "text": "Montmartre and Sacré-Cœur artistic quarter exploration",
         "sort_order": 5
       },
       {
         "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 6
       },
       {
         "kind": "excluded",
-        "text": "International airfare and France entry visa processing fees",
+        "text": "International airfare and France/Schengen entry visa processing fees",
         "sort_order": 7
       },
       {

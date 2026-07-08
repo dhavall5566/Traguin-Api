@@ -1,0 +1,233 @@
+{
+  "destination_slug": "singapore",
+  "package": {
+    "slug": "sg-014-singapore-corporate-tour",
+    "serial_code": "SG-014",
+    "traguin_tour_code": "TRG-SIN-CORP-2026",
+    "title": "Singapore Corporate Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code SG-014 | TRAGUIN tour code TRG-SIN-CORP-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Singapore, Asia | Category: Corporate MICE Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Corporate Conferences • Networking Gala • Marina Bay Business District • Exclusive",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "sg-014-singapore-corporate-itinerary",
+    "title": "Singapore Corporate Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Singapore Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Singapore Corporate Tour",
+    "overview": "Corporate Conferences • Networking Gala • Marina Bay Business District • Exclusive Teambuilding 04 Nights / 05 Days Premier Singapore Corporate MICE Solution SERIAL CODE: SG-014 TRAGUIN TOUR CODE: TRG-SIN-CORP-2026 STATE / COUNTRY: Singapore CATEGORY: Corporate MICE Tour Package DURATION: 04 Nights / 05 Days Singapore Corporate & Networking Focus PROGRAM OVERVIEW Elevate your corporate presence in Singapore with our TRAGUIN curated MICE expedition. Designed for professional excellence, this corporate program integrates seamless conference logistics, exclusive networking venues, and premium teambuilding experiences, ensuring an effective and high-impact corporate trip. THE CURATED PROGRAM ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "SG-014 | Singapore Corporate Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Singapore package (SG-014 / TRG-SIN-CORP-2026): Corporate Conferences • Networking Gala • Marina Bay Business District • Exclusive with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: CORPORATE ARRIVAL & NETWORKING",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: CONFERENCE & STRATEGY SESSIONS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: EXCLUSIVE TEAMBUILDING & NETWORKING",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: INDUSTRY VISITS & STRATEGIC INSIGHTS",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "CORPORATE ARRIVAL & NETWORKING",
+        "description": "Arrive in Singapore. VIP airport greeting and transfer to premium business-focused hotel. Evening welcome cocktail networking reception for all delegates. TRAGUIN Corporate MICE •",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "CONFERENCE & STRATEGY SESSIONS",
+        "description": "Full-day dedicated conference session at a world-class Singapore business hub facility. Professional catering and technical support provided.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "EXCLUSIVE TEAMBUILDING & NETWORKING",
+        "description": "Curated teambuilding experience in a unique Singapore setting, followed by an evening networking gala dinner at a premium Marina Bay venue.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "INDUSTRY VISITS & STRATEGIC INSIGHTS",
+        "description": "Visit key industry partners or innovation hubs in Singapore to gain strategic insights. Evening at leisure for individual networking.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Final breakfast and wrap-up session before your TRAGUIN private chauffeur transfer to the airport, completing your high-impact corporate expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Marina Bay Sands Business Suites / Grand Hyatt Singapore \"Creating Impact Beyond Destinations\"",
+        "location": "Multi-city Singapore",
+        "nights_label": "4N",
+        "description": "Option 01: Premium — Marina Bay Sands Business Suites / Grand Hyatt Singapore \"Creating Impact Beyond Destinations\"",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Corporate Conferences",
+        "nights_label": "4N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Corporate Conferences",
+        "nights_label": "4N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Corporate Conferences",
+        "nights_label": "4N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Singapore",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "International and connecting flights as per curated itinerary (where applicable)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Singapore visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

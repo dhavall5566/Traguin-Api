@@ -1,0 +1,252 @@
+{
+  "destination_slug": "south-korea",
+  "package": {
+    "slug": "kr-005-premium-south-korea-tour",
+    "serial_code": "KR-005",
+    "traguin_tour_code": "KR-005-PREM",
+    "title": "Premium South Korea Tour",
+    "duration_label": "6 Nights / 7 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code KR-005 | TRAGUIN tour code KR-005-PREM",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: South Korea, Asia | Category: Premium Luxury",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Seoul • Nami Island • Busan | 6 Nights / 7 Days",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Executive Sedan / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "kr-005-premium-south-korea-itinerary",
+    "title": "Premium South Korea Tour",
+    "duration_label": "6 Nights / 7 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium South Korea Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Premium South Korea Tour",
+    "overview": "TOUR DETAILS SERIAL CODE: KR-005 COUNTRY: South Korea CATEGORY: Premium Luxury DURATION: 6 Nights / 7 Days IDEAL FOR: Family, Couples, Luxury Travelers TRAGUIN TOUR CODE: KR-005-PREM\n\nTOUR OVERVIEW\nExperience the perfect blend of ancient heritage and futuristic innovation with our TRAGUIN curated experience in South Korea. From the bustling streets of Seoul to the serene beauty of Nami Island and the coastal charm of Busan, this luxury holiday is designed to create unforgettable memories. Our TRAGUIN experts have handpicked premium stays to ensure your comfort.\n\nWhy visit South Korea? Because it offers\niconic attractions like Gyeongbokgung Palace, the futuristic N Seoul Tower, and breathtaking landscapes in Busan. The Best South Korea Tour Package ensures you see it all. Popular Instagram locations include the vibrant Myeongdong market and the stunning architecture of Dongdaemun Design Plaza. Experience the Premium South Korea Experience with TRAGUIN.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "KR-005 | Premium South Korea Tour | TRAGUIN",
+    "seo_description": "Premium 6 Nights / 7 Days South Korea package (KR-005 / KR-005-PREM): Seoul • Nami Island • Busan | 6 Nights / 7 Days with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN SEOUL",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SEOUL CITY TOUR",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: NAMI ISLAND & GARDEN OF MORNING CALM",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SEOUL TO BUSAN (BY KTX)",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: BUSAN HIGHLIGHTS",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: BUSAN TO SEOUL",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN SEOUL",
+        "description": "Welcome to South Korea! Upon arrival, our representative will assist you to your premium hotel. Enjoy a luxury check-in experience curated by TRAGUIN. Evening at leisure to explore nearby luxury boutiques.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SEOUL CITY TOUR",
+        "description": "Explore Gyeongbokgung Palace, Bukchon Hanok Village, and the N Seoul Tower. Discover why this is the Best South Korea Tour Package for families. Dinner featuring authentic Korean cuisine.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "NAMI ISLAND & GARDEN OF MORNING CALM",
+        "description": "A scenic drive to Nami Island. Enjoy breathtaking landscapes and immersive experiences. This Luxury South Korea Holiday highlight is perfect for photography.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SEOUL TO BUSAN (BY KTX)",
+        "description": "Travel in comfort via the high-speed KTX train to Busan. Check into your ultra-luxury resort. Experience the coastal beauty of this top tourist place in South Korea.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "BUSAN HIGHLIGHTS",
+        "description": "Visit Gamcheon Culture Village, Haeundae Beach, and Haedong Yonggungsa Temple. TRAGUIN ensures exclusive recommendations for your family trip.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "BUSAN TO SEOUL",
+        "description": "Return to Seoul for final shopping at Dongdaemun. Indulge in premium dining experiences.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE",
+        "description": "After breakfast, transfer to the airport for your flight back home with unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury Accommodation (6 Nights)",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Daily Breakfast & Selected Dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Private Luxury Transfers",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and South Korea visa or K-ETA fees",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 7
+      }
+    ]
+  }
+}

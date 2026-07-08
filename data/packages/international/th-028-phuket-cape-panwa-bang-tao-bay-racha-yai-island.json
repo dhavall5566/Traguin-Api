@@ -1,0 +1,296 @@
+{
+  "destination_slug": "thailand",
+  "package": {
+    "slug": "th-028-phuket-cape-panwa-bang-tao-bay-racha-yai-island",
+    "serial_code": "TH-028",
+    "traguin_tour_code": "TRG-HKT-WEL-2026",
+    "title": "Phuket • Cape Panwa • Bang Tao Bay • Racha Yai Island",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TH-028 | TRAGUIN tour code TRG-HKT-WEL-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Thailand | Category: Wellness Retreat / Premium Sanctuary",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Phuket Clean Living",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Wellness Seekers, Couples, Families Seeking Rejuvenation",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Executive Van with Mindful Assistance / Organic Wellness Breakfast (CP) & Detox Culinary Dinners Restore absolute equilibrium to your mind, body, and soul with the definitive Best Phuke",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom yachts and premium speed-craft charters,",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified luxury romantic resorts featuring maximum isolation,",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local island safety guides to manage activity",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Elite executive vehicles equipped with specialized suspension systems,",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "th-028-phuket-cape-panwa-bang-tao-bay-racha-yai-island-itinerary",
+    "title": "Phuket • Cape Panwa • Bang Tao Bay • Racha Yai Island",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Phuket",
+    "overview": "TOUR OVERVIEW\nWelcome to your meticulously designed Phuket Wellness Retreat, a signature luxury holiday structured by TRAGUIN Experts for travelers who seek deep cellular rejuvenation, stress relief, and mindful restoration. Over 6 magnificent days on Thailand’s largest island, you will reside inside world-class health domains. Enjoy seamless private logistics in robust executive luxury vehicles, specialized organic farm-to-table culinary plans, and immersive holistic wellness programs. TRAGUIN Wellness Retreats • TRAGUIN Curated Experience Note: Your group’s well-being and absolute privacy are our ultimate parameters. From personalized consultations with resident Ayurvedic and traditional Thai physicians to private speed-craft sails to secluded, energy-rich island shores, every milestone is protected by our 24/7 dedicated on-ground assistance network. THE THERAPEUTIC ESSENCE OF A LUXURY PHUKET HOLIDAY Phuket has evolved far beyond a mere leisure space into the ultimate wellness capital of Southeast Asia, interweaving natural coastal energy lines with state-of-the-art holistic centers and Michelin-endorsed organic dining. Opting for a specialized wellness journey or a dedicated Phuket Honeymoon Package variant with TRAGUIN unlocks private access to hidden islands and premium healing sanctuaries. This proposal targets the most highly searched tourism keywords for Google ranking, ensuring the ultimate layout of Phuket Sightseeing wonders. Discover Top Tourist Places in Thailand: the peaceful sunrise horizons over Cape Panwa, the crystalline, energy-rich waters of Racha Yai Island, and the magnificent golden spires of Wat Chalong. It is universally recognized as the Best Time to Visit Thailand to explore popular Instagram locations for mindful reflection, indulge in a custom Thailand Family Tour centered on health, and capture deep, immersive experiences that redefine modern luxury travel. TRAGUIN Wellness Retreat Exclusives: Private health consultation on arrival, 180 minutes of medical- grade traditional Thai massage and specialized body wraps, a private yacht sunset meditation sail to Racha Island, and customized daily detox meal plans. TRAGUIN Wellness Retreats • THE THOUGHTFUL & RESTORATIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TH-028 | Phuket | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Thailand package (TH-028 / TRG-HKT-WEL-2026): Phuket Clean Living with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN PHUKET & HOLISTIC CONSULTATION",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: DAILY YOGA & PRIVATE CRUISE TO RACHA YAI ISLAND",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: PHUKET CULTURAL SIGHTSEEING & MEDICAL SPA ADVENTURE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: THE MAJESTIC BIG BUDDHA & PHANG NGA BAY CANOEING",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: HOLISTIC WELLNESS IMMERSION & PRIVATE GRAND FINALE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: PHUKET RETREAT & DEPARTURE",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom yachts and premium speed-craft charters,",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified luxury romantic resorts featuring maximum isolation,",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local island safety guides to manage activity",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN PHUKET & HOLISTIC CONSULTATION",
+        "description": "WELCOME TO THE SANCTUARY – STEPPING INTO INDULGENCE AND RENEWAL Your life-changing Phuket Wellness Retreat journey unfolds flawlessly the moment your flight lands at Phuket International Airport. Avoid the standard crowds as a private TRAGUIN lifestyle concierge welcomes you with cold lemongrass towels and fresh coconut water, escorting you through premium lines directly to your waiting executive private luxury vehicle. Transfer smoothly along the scenic shoreline to your ultra-luxury health resort tucked inside Cape Panwa. Check into your sea-view villa, detailed with custom aromatherapy diffusers and organic welcome teas. In the afternoon, take part in your private wellness assessment with the resort’s resident holistic physician. Map out your specialized therapies and select your organic detox meal tracks. End your opening evening with a gentle sunset beach walk followed by a curated organic welcome dinner served on an open-air oceanfront pavilion. Sightseeing Included: Private premium airport-to-sanctuary transfer, Cape Panwa coastal path orientation. Evening Experience: Mindful beach walk followed by a starlit welcome dinner featuring organic ingredients. TRAGUIN Wellness Retreats •",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Wellness Resort & Sanctuary)",
+          "Meals Included: Curated Organic Farm-to-Table Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DAILY YOGA & PRIVATE CRUISE TO RACHA YAI ISLAND",
+        "description": "SOUND HEALING, CRYSTAL WATERS & SUNSET MINDFULNESS SAILING Wake up to a crisp morning over the ocean and gather at the beachfront pavilion for a guided sunrise yoga and Tibetan sound bowl meditation session. Following a nutritious breakfast rich in superfoods, embark on a flagship marine trip: an exclusive private speed-craft cruise to Racha Yai Island, celebrated for its pure turquoise waters and highly searched diving reef zones. Swim and snorkel hand-in-hand through the clear water among vibrant marine ecosystems, absorbing the natural energy of the Andaman Sea. Savor a magnificent gourmet wellness lunch prepared fresh by a personal crew on a secluded sandshore, capturing beautiful photography points for your journal. In the late afternoon, enjoy an onboard sunset mindfulness meditation session as your yacht glides home under a golden sky. Sightseeing Included: Racha Yai Island marine access, private speedboat cruise, coral reef snorkeling. Optional Activities: Professional underwater couples' photography session or private sea-kayaking through hidden bays. TRAGUIN Wellness Retreats •",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Wellness Resort & Sanctuary)",
+          "Meals Included: Organic Wellness Breakfast & Island Beachfront Gourmet Picnic Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PHUKET CULTURAL SIGHTSEEING & MEDICAL SPA ADVENTURE",
+        "description": "WAT CHALONG SPIRITUALITY, HERITAGE QUARTERS & DETOXBODY WRAPS Savor a beautiful morning breakfast before launching into a slow-paced Phuket Sightseeing cultural day. Your private chauffeur navigates your group to Wat Chalong, Phuket’s most revered Buddhist monastery, adorned with intricate golden filigree. Walk around the historic temple complex to appreciate Lanna architectural concepts and learn about ancient meditation systems. In the afternoon, your private vehicle heads into Old Phuket Town. Walk past beautifully preserved Sino- Portuguese colonial mansions, vibrant street murals, and charming independent herb boutiques. Return to the resort for an intense medical-grade spa experience: a 120-minute traditional Thai massage followed by a therapeutic volcanic clay detox body wrap side-by-side, leaving your body fully refreshed. Sightseeing Included: Wat Chalong Temple tour, Old Phuket Town Heritage District, Karon Viewpoint. Evening Experience: Resting at a quiet, plant-filled boutique cafe sampling local organic herbal tea blends.",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Wellness Resort & Sanctuary)",
+          "Meals Included: Organic Wellness Breakfast & Local Thai Fine Dining Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "THE MAJESTIC BIG BUDDHA & PHANG NGA BAY CANOEING",
+        "description": "360-DEGREE VIEWPOINT PANORAMAS & MYSTICAL HONG ISLAND CAVES Dedicate your morning to deep geological exploration and spectacular landscapes. After a beachside breathing workshop, drive up the Nakkerd Hills to stand at the base of the majestic 45-meter Big Buddha monument—consistently named a top popular Instagram location. The peak offers a staggering 360-degree panorama over Chalong Bay, perfect for a high-fashion group photography session. In the afternoon, transfer to the northern pier where a premium speed-craft takes your group across Phang Nga Bay. Pilot stable sea canoes guided through the mystical sea caves and hidden mangrove lagoons of Koh Hong, completely enclosed by massive vertical limestone walls. Savor a fresh vegetarian buffet lunch at the stilted floating village of Koh Panyee before returning to the resort base. Sightseeing Included: The Big Buddha, Phang Nga Bay speed-craft transit, Koh Hong sea cave canoeing, Koh Panyee. Optional Activities: A private helicopter flight over the limestone karsts of the bay for an incredible birds-eye view. TRAGUIN Wellness Retreats •",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Wellness Resort & Sanctuary)",
+          "Meals Included: Organic Wellness Breakfast & Koh Panyee Healthy Seafood Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "HOLISTIC WELLNESS IMMERSION & PRIVATE GRAND FINALE",
+        "description": "HYDROTHERAPY LABYRINTHS & A SIGNATURE BEACH COVE CANDLELIGHT CELEBRATION Dedicate today to complete personalized rest and fluid hydro-healing. Start your morning with a beautiful premium floating breakfast served right inside your private infinity pool villa. Spend your day navigating the resort's thermal hydrotherapy labyrinths, steam caves, and cold-plunge pools under expert guidance, finalizing your wellness tracks. Return to your villa to refresh for your final night. TRAGUIN has arranged our ultimate signature romantic highlight: an intimate, completely private beachfront candlelight dinner set in a secluded cove of the resort. Toast your wellness holiday with a glass of organic fine wine under a starlit sky as gentle waves roll in, celebrating a collection of unforgettable memories. Sightseeing Included: Thermal Hydrotherapy Park access, private beach cove reservation. Evening Experience: Signature TRAGUIN Grand Finale Private Beachfront Candlelight Dinner under the stars.",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Wellness Resort & Sanctuary)",
+          "Meals Included: Premium Floating Breakfast & Ultra-Luxury Beachside 5-Course Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "PHUKET RETREAT & DEPARTURE",
+        "description": "CHERISHING MEMORIES BEYOND DESTINATIONS – FOREVER ALIGNED Savor your final morning wellness breakfast at your villa veranda, taking a final round of group photos across the tropical landscaped gardens. Take your time packing your bags while our on-ground concierge team coordinates with hotel reception to manage your seamless checkout and handle luggage logistics. Depending on your flight departure schedule, your private vehicle remains available for last-minute boutique seaside cafe. Your private vehicle delivers your group safely back to Phuket International Airport, where our staff assists with premium check-in. Your premium tour concludes beautifully, leaving your bodies fully refreshed and aligned, with stories crafted to perfection by TRAGUIN. Sightseeing Included: Central Phuket Floresta shopping access, private luxury airport departure transfer. TRAGUIN Wellness Retreats •",
+        "activities": [
+          "shopping: for traditional Thai silk items or organic essential oils at Central Phuket Floresta, or a brief stop at a",
+          "Meals Included: Organic Wellness Breakfast",
+          "SHOPPING: & LOCAL EXPERIENCES"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Amatara Welleisure Resort Bay View Suite Complimentary Physical Consultation & 1 Signature Hammam Voucher",
+        "location": "Multi-city Thailand",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — Amatara Welleisure Resort Bay View Suite Complimentary Physical Consultation & 1 Signature Hammam Voucher",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Slate Phuket (Nai Yang) Pearl Bed Suite Welcome Fruit Basket, Free Coqoon Spa Ritual & Yoga Access",
+        "location": "Multi-city Thailand",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — The Slate Phuket (Nai Yang) Pearl Bed Suite Welcome Fruit Basket, Free Coqoon Spa Ritual & Yoga Access",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Banyan Tree Phuket (Laguna) Banyan Pool Villa Complimentary Floating Breakfast Setup & Daily In- Villa Well-Being Activities",
+        "location": "Multi-city Thailand",
+        "nights_label": "5N",
+        "description": "Option 03: Luxury — Banyan Tree Phuket (Laguna) Banyan Pool Villa Complimentary Floating Breakfast Setup & Daily In- Villa Well-Being Activi",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Amanpuri Phuket / Thanyapura Wellness Ocean View Pavilion / Pool Villa Premium Vintage Champagne Bottle, Private Personal Trainer & 24/7 Butler Care",
+        "location": "Multi-city Thailand",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — Amanpuri Phuket / Thanyapura Wellness Ocean View Pavilion / Pool Villa Premium Vintage Champagne Bottle, Private Persona",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Daily Meals: 5 Organic Wellness Breakfast layouts and specialized detox dinners.",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private Vehicles: Private air-conditioned luxury van with an experienced driver for all transfers.",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Phuket Cruise: Private Speedboat Charter to Racha Yai Island with onboard lunch.",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Bay Excursion: Premium Speed-craft tour to James Bond Island with sea canoeing & lunch.",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Medical Spa: Included 180-minute total body therapeutic wrap and traditional Thai massage.",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Airfare: International and main flight tickets connecting home country with Phuket.",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Accommodation: 05 Nights stay in handpicked premium wellness resorts.",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Visa Fees: Thailand Visa-on-Arrival or fast-track electronic visa processing fees.",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "National Park Entry: Island marine conservation park entry fees (payable directly on site).",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry services, telephone calls, mini-bar billing, and tips.",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra Medical: Individual diagnostic blood profiling or private health checks outside program.",
+        "sort_order": 11
+      }
+    ]
+  }
+}

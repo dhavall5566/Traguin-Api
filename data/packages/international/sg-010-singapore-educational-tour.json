@@ -1,0 +1,232 @@
+{
+  "destination_slug": "singapore",
+  "package": {
+    "slug": "sg-010-singapore-educational-tour",
+    "serial_code": "SG-010",
+    "traguin_tour_code": "TRG-SIN-EDU-2026",
+    "title": "Singapore Educational Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code SG-010 | TRAGUIN tour code TRG-SIN-EDU-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Singapore, Asia | Category: Educational School Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Science Centre • NEWater Visitor Centre • Marina Barrage • Cultural Heritage",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "sg-010-singapore-educational-itinerary",
+    "title": "Singapore Educational Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Singapore Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Singapore Educational Tour",
+    "overview": "Science Centre • NEWater Visitor Centre • Marina Barrage • Cultural Heritage 04 Nights / 05 Days Immersive Singapore Educational School Expedition SERIAL CODE: SG-010 TRAGUIN TOUR CODE: TRG-SIN-EDU-2026 STATE / COUNTRY: Singapore CATEGORY: Educational School Tour Package DURATION: 04 Nights / 05 Days Singapore Science & Cultural Learning\n\nTOUR OVERVIEW\nEmpower students with a structured, educational journey into the heart of Singapore's scientific advancement, sustainability practices, and rich cultural diversity. This TRAGUIN curated school expedition offers students a hands-on learning experience at world-class facilities, creating unforgettable memories. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "SG-010 | Singapore Educational Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Singapore package (SG-010 / TRG-SIN-EDU-2026): Science Centre • NEWater Visitor Centre • Marina Barrage • Cultural Heritage with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL & ORIENTATION",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SCIENCE & INNOVATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SUSTAINABILITY & TECHNOLOGY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: CULTURAL HERITAGE & DISCOVERY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & ORIENTATION",
+        "description": "Arrive in Singapore. Private group transfer to your educational basecamp hotel. Briefing on the educational highlights of the tour.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SCIENCE & INNOVATION",
+        "description": "A full day at the Singapore Science Centre, engaging with interactive exhibits that showcase modern scientific innovation—a top educational experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SUSTAINABILITY & TECHNOLOGY",
+        "description": "Visit the NEWater Visitor Centre and Marina Barrage to learn about Singapore’s innovative water sustainability and urban planning technological practices.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CULTURAL HERITAGE & DISCOVERY",
+        "description": "Explore Singapore's vibrant multicultural heritage through interactive visits to museums and cultural centers, focusing on social integration.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Final group breakfast, educational summary session, and private transfer to the airport, completing your premium Singapore educational school tour. HANDPICKED EDUCATIONAL STAYS Category Singapore Student Accommodations (4N) Option 01: Premium Selected Educational Group Hotels / Hostels",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Selected Educational Group Hotels / Hostels",
+        "location": "Multi-city Singapore",
+        "nights_label": "4N",
+        "description": "Option 01: Premium — Selected Educational Group Hotels / Hostels",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Science Centre",
+        "nights_label": "4N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Science Centre",
+        "nights_label": "4N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Science Centre",
+        "nights_label": "4N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Singapore",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "International and connecting flights as per curated itinerary (where applicable)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Singapore visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

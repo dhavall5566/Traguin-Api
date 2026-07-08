@@ -1,0 +1,233 @@
+{
+  "destination_slug": "singapore",
+  "package": {
+    "slug": "sg-012-marina-bay-luxury-tour",
+    "serial_code": "SG-012",
+    "traguin_tour_code": "TRG-SIN-MAR-2026",
+    "title": "Marina Bay Luxury Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code SG-012 | TRAGUIN tour code TRG-SIN-MAR-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Singapore, Asia | Category: Ultra-Luxury Marina Bay Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Marina Bay Sands • Private Yacht • Michelin Dining • Exclusive City Sojourn",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Culture",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "sg-012-marina-bay-luxury-itinerary",
+    "title": "Marina Bay Luxury Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Singapore Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Marina Bay Luxury Tour",
+    "overview": "04 Nights / 05 Days Ultra-Luxury Marina Bay Expedition SERIAL CODE: SG-012 TRAGUIN TOUR CODE: TRG-SIN-MAR-2026 STATE / COUNTRY: Singapore CATEGORY: Ultra-Luxury Marina Bay Tour Package DURATION: 04 Nights / 05 Days Marina Bay Luxury\n\nTOUR OVERVIEW\nIndulge in the absolute height of elegance at the heart of Singapore. This TRAGUIN curated luxury expedition centers around the iconic Marina Bay, offering opulent stays at the world-famous Marina Bay Sands, private yacht excursions, and elite Michelin-starred culinary experiences, ensuring unforgettable memories. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "SG-012 | Marina Bay Luxury Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Singapore package (SG-012 / TRG-SIN-MAR-2026): Marina Bay Sands • Private Yacht • Michelin Dining • Exclusive City Sojourn with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: VIP ARRIVAL & MARINA BAY CHECK-IN",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: SKYPARK & EXCLUSIVE DINING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: PRIVATE YACHT SOJOURN",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: LEISURE & ARTISTIC DISCOVERY",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "VIP ARRIVAL & MARINA BAY CHECK-IN",
+        "description": "Arrive in Singapore. VIP chauffeur transfer to Marina Bay Sands. Check into your ultra-luxury suite and enjoy a welcome cocktail overlooking the bay.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "SKYPARK & EXCLUSIVE DINING",
+        "description": "Access the exclusive Sands SkyPark. Enjoy a private gourmet dinner at one of the bay’s premier Michelin- starred restaurants.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PRIVATE YACHT SOJOURN",
+        "description": "Embark on a private yacht cruise around the Singapore Harbour, experiencing the city’s skyline from an exclusive experience point of view.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "LEISURE & ARTISTIC DISCOVERY",
+        "description": "Enjoy a leisurely day of private shopping at luxury boutiques or artistic visits in the Marina Bay area, creating unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private chauffeur transfer to the airport, concluding your premium Marina Bay luxury expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Marina Bay Sands",
+        "nights_label": "4N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Marina Bay Sands",
+        "nights_label": "4N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Marina Bay Sands",
+        "nights_label": "4N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Marina Bay Sands (Sands SkyPark Suite)",
+        "location": "Multi-city Singapore",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — Marina Bay Sands (Sands SkyPark Suite)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Singapore",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "International and connecting flights as per curated itinerary (where applicable)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Singapore visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

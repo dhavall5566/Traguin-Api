@@ -2,48 +2,48 @@
   "destination_slug": "vietnam",
   "package": {
     "slug": "vn-004-luxury-vietnam-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "VN-004",
+    "traguin_tour_code": "TRG-VNM-LUX-2026",
     "title": "Luxury Vietnam Tour",
     "duration_label": "06 Nights / 07 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 85,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Hanoi (2N) → Halong Bay (2N) → Da Nang/Hoi An (2N) ultra-luxury circuit",
+        "text": "Serial code VN-004 | TRAGUIN tour code TRG-VNM-LUX-2026",
         "sort_order": 1
       },
       {
-        "text": "VIP Hanoi arrival & exclusive heritage private tour",
+        "text": "Country: Vietnam, Southeast Asia | Category: Ultra-Luxury Vietnam Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Ultra-luxury Halong Bay cruise with spa & gourmet dining",
+        "text": "Destinations: Hanoi • Ultra-Luxury Halong Bay Cruise • Da Nang Luxury Resort • Exclusive Heritage",
         "sort_order": 3
       },
       {
-        "text": "Hoi An private discovery & farewell gala dinner",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 luxury travel concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-VNM-LUX-2026 | Serial VN-004",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Luxury",
-      "Family",
-      "Cultural",
-      "Nature",
-      "Beach"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -52,110 +52,107 @@
     "duration_label": "06 Nights / 07 Days",
     "duration_days": 7,
     "starting_price": 0,
-    "price_note": "On Request (Ultra-Luxury Vietnam Experience)",
+    "price_note": "On Request (Premium Vietnam Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Hanoi • Ultra-Luxury Halong Bay Cruise • Da Nang • Exclusive Heritage Tours",
-    "overview": "Indulge in the absolute height of sophistication across Vietnam with TRAGUIN's curated luxury expedition. From opulent five-star stays and private cruises to exclusive cultural tours and premium concierge service, this journey is designed for the discerning traveler — ensuring unforgettable memories in ultimate luxury.",
-    "is_featured": true,
-    "featured_sort_order": 85,
+    "tagline": "Luxury Vietnam Tour",
+    "overview": "Tours 06 Nights / 07 Days Ultra-Luxury Vietnam Expedition SERIAL CODE: VN-004 TRAGUIN TOUR CODE: TRG-VNM-LUX-2026 STATE / COUNTRY: Vietnam CATEGORY: Ultra-Luxury Vietnam Tour Package DURATION: 06 Nights / 07 Days Hanoi (2N) + Halong Bay (2N) + Da Nang/Hoi An (2N)\n\nTOUR OVERVIEW\nIndulge in the absolute height of sophistication across Vietnam with our TRAGUIN curated luxury expedition. From opulent five-star stays and private cruises to exclusive cultural tours and premium concierge service, this journey is designed for the discerning traveler, ensuring unforgettable memories in ultimate luxury. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "VN-004 | Luxury Vietnam Tour | TRAGUIN",
-    "seo_description": "Ultra-luxury 06 Nights / 07 Days Vietnam package (VN-004): Sofitel Legend Metropole Hanoi, elite Halong Bay cruise, and InterContinental Danang Resort.",
-    "is_published": true,
+    "seo_description": "Premium 06 Nights / 07 Days Vietnam package (VN-004 / TRG-VNM-LUX-2026): Hanoi • Ultra-Luxury Halong Bay Cruise • Da Nang Luxury Resort • Exclusive Heritage with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "VIP Arrival & Gourmet Hanoi Welcome",
+        "text": "Day 01: VIP ARRIVAL & HANOI LUXURY",
         "sort_order": 1
       },
       {
-        "text": "Exclusive Private Hanoi Heritage Tour",
+        "text": "Day 02: EXCLUSIVE HANOI HERITAGE",
         "sort_order": 2
       },
       {
-        "text": "Ultra-Luxury Halong Bay Cruise & Spa",
+        "text": "Day 03: ULTRA-LUXURY CRUISE COMMENCEMENT",
         "sort_order": 3
       },
       {
-        "text": "Hoi An Private Discovery & Gala Dinner",
+        "text": "Day 04: HALONG BAY SERENITY",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: FLIGHT TO DA NANG",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: HOI AN PRIVATE DISCOVERY",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "VIP Arrival & Hanoi Luxury",
+        "title": "VIP ARRIVAL & HANOI LUXURY",
         "description": "Arrive in Hanoi. VIP chauffeur transfer to your world-class hotel. Evening gourmet welcome dinner overlooking the historic city center.",
         "activities": [
-          "Sightseeing Included: VIP chauffeur airport reception",
-          "Evening Experience: Gourmet welcome dinner",
-          "Overnight Stay: Hanoi (Sofitel Legend Metropole Hanoi)",
-          "Meals Included: Welcome Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Exclusive Hanoi Heritage",
-        "description": "Private guided tour of Hanoi's most prestigious historical landmarks, providing a rich exclusive experience of Vietnamese culture.",
+        "title": "EXCLUSIVE HANOI HERITAGE",
+        "description": "Private guided tour of Hanoi’s most prestigious historical landmarks, providing a rich exclusive experience of Vietnamese culture.",
         "activities": [
-          "Sightseeing Included: Private guided Hanoi heritage tour",
-          "Overnight Stay: Hanoi (Sofitel Legend Metropole Hanoi)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Ultra-Luxury Cruise Commencement",
+        "title": "ULTRA-LUXURY CRUISE COMMENCEMENT",
         "description": "Transfer to Halong Bay. Board your ultra-luxury cruise vessel. Experience gourmet dining while sailing through breathtaking limestone islands.",
         "activities": [
-          "Sightseeing Included: VIP transfer to Halong Bay, elite cruise boarding",
-          "Overnight Stay: Halong Bay (Elite Cruise Vessel)",
-          "Meals Included: Premium Breakfast & Gourmet Cruise Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Halong Bay Serenity",
+        "title": "HALONG BAY SERENITY",
         "description": "Enjoy personalized activities, spa therapies, and gourmet relaxation aboard your vessel, surrounded by stunning scenery.",
         "activities": [
-          "Sightseeing Included: Personalized cruise activities and spa therapies",
-          "Overnight Stay: Halong Bay (Elite Cruise Vessel)",
-          "Meals Included: Premium Breakfast & Gourmet Cruise Dining"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Flight to Da Nang",
+        "title": "FLIGHT TO DA NANG",
         "description": "Morning brunch on the cruise. Private transfer to airport for your flight to Da Nang. Check into an ultra-luxury coastal resort.",
         "activities": [
-          "Sightseeing Included: Cruise brunch, domestic flight to Da Nang, VIP resort transfer",
-          "Overnight Stay: Da Nang/Hoi An (InterContinental Danang Resort)",
-          "Meals Included: Premium Breakfast & Cruise Brunch"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Hoi An Private Discovery",
-        "description": "Private guided exploration of Hoi An's Ancient Town, focusing on premium crafts and historical charm. Evening farewell gala dinner.",
+        "title": "HOI AN PRIVATE DISCOVERY",
+        "description": "Private guided exploration of Hoi An’s Ancient Town, focusing on premium crafts and historical charm. Evening farewell gala dinner.",
         "activities": [
-          "Sightseeing Included: Private Hoi An Ancient Town tour",
-          "Evening Experience: Farewell gala dinner",
-          "Overnight Stay: Da Nang/Hoi An (InterContinental Danang Resort)",
-          "Meals Included: Premium Breakfast & Gala Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Final luxury breakfast. VIP chauffeur transfer to the airport, concluding your premium Vietnam luxury expedition.",
         "activities": [
-          "Sightseeing Included: VIP chauffeur airport transfer",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 7
       }
@@ -163,94 +160,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Sofitel Legend Metropole Hanoi",
+        "name": "TRAGUIN Handpicked Deluxe Property",
         "location": "Hanoi",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "nights_label": "6N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Elite Cruise Vessels / similar",
-        "location": "Halong Bay",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Full Board",
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Hanoi",
+        "nights_label": "6N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "InterContinental Danang Resort",
-        "location": "Da Nang/Hoi An",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Hanoi",
+        "nights_label": "6N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Sofitel Legend Metropole HanoiElite Cruise VesselsInterContinental Danang Resort",
+        "location": "Multi-city Vietnam",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — Sofitel Legend Metropole HanoiElite Cruise VesselsInterContinental Danang Resort",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "06 Nights in ultra-luxury hotels and elite cruise across Hanoi, Halong Bay, and Da Nang/Hoi An",
+        "text": "Premium handpicked accommodation across Vietnam",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "VIP chauffeur-driven luxury ground transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Ultra-luxury Halong Bay cruise with spa therapies and gourmet dining",
+        "text": "Inter-city transfers and curated sightseeing as per itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Private Hanoi heritage tour and Hoi An private discovery",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "Domestic flight to Da Nang",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated luxury travel concierge support",
-        "sort_order": 6
-      },
-      {
         "kind": "excluded",
-        "text": "International airfare and Vietnam entry visa processing fees",
-        "sort_order": 100
+        "text": "International airfare and Vietnam visa fees",
+        "sort_order": 5
       },
       {
         "kind": "excluded",
         "text": "Personal expenses, laundry, room service, and mini-bar charges",
-        "sort_order": 101
+        "sort_order": 6
       },
       {
         "kind": "excluded",
         "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 102
+        "sort_order": 7
       },
       {
         "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 103
+        "sort_order": 8
       }
     ]
   }

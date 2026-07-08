@@ -2,47 +2,50 @@
   "destination_slug": "italy",
   "package": {
     "slug": "it-002-romantic-italy-honeymoon",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "IT-002",
+    "traguin_tour_code": "TRG-ITA-ROMANCE-2026",
     "title": "Romantic Italy Honeymoon",
     "duration_label": "06 Nights / 07 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 46,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Venice (2N) → Tuscany (2N) → Amalfi Coast (2N) romantic circuit",
+        "text": "Serial code IT-002 | TRAGUIN tour code TRG-ITA-ROMANCE-2026",
         "sort_order": 1
       },
       {
-        "text": "Private gondola serenade & Murano/Burano speedboat excursion",
+        "text": "Country: Italy, Europe | Category: Luxury Romantic Italy Honeymoon Package",
         "sort_order": 2
       },
       {
-        "text": "Vintage Chianti drive & private castle wine tasting",
+        "text": "Destinations: Venice (2N) • Florence /",
         "sort_order": 3
       },
       {
-        "text": "Private yacht cruise to Capri & cliffside farewell gala",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-ITA-ROMANCE-2026 | Serial IT-002",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Romantic",
       "Luxury",
-      "Cultural",
-      "Beach"
+      "Honeymoon",
+      "Romantic"
     ]
   },
   "itinerary": {
@@ -51,113 +54,112 @@
     "duration_label": "06 Nights / 07 Days",
     "duration_days": 7,
     "starting_price": 0,
-    "price_note": "On Request (Premium Honeymoon Experience)",
+    "price_note": "On Request (Premium Customised)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Venice • Florence • Chianti • Amalfi Coast",
-    "overview": "Begin your lifelong love story amid the most poetic realms of the Mediterranean with TRAGUIN's curated honeymoon retreat. Candlelit water matrices, vintage Tuscan road explorations, and spectacular cliffside vistas along the Amalfi coast — with private water taxis, skip-the-line VIP access, and 24/7 concierge support.",
-    "is_featured": true,
-    "featured_sort_order": 46,
+    "tagline": "Romantic Italy Honeymoon",
+    "overview": "Venice Canals • Florence Twilight • Chianti Wine Roads • Amalfi Coast Cliffside 06 Nights / 07 Days Ultra-Romantic Italy Luxury Honeymoon Celebration SERIAL CODE: IT-002 TRAGUIN TOUR CODE: TRG-ITA-ROMANCE-2026 STATE / COUNTRY: Italy / Europe CATEGORY: Luxury Romantic Italy Honeymoon Package DURATION: 06 Nights / 07 Days DESTINATIONS COVERED: Venice (2N) • Florence / Tuscany (2N) • Amalfi Coast (2N)\n\nTOUR OVERVIEW\nBegin your lifelong love story amid the most poetic realms of the Mediterranean with this signature TRAGUIN curated honeymoon retreat. Crafted specifically for couples pursuing ultimate refinement, this Romantic Italy masterpiece weaves candlelit water matrices, vintage Tuscan road explorations, and spectacular cliffside vistas along the Amalfi coast, guaranteeing unforgettable memories. Honeymoon Note from TRAGUIN: Romance flourishes when details are flawless. This 7-day bespoke expedition incorporates absolute privacy: private luxury water taxis, Mercedes executive ground transits, skip- the-line VIP sanctuary admissions, and candlelit culinary terraces overlooking iconic vistas with 24/7 concierge support.\n\nWHY CHOOSE OUR ROMANTIC ITALY HONEYMOON SANCTUARY?\nItaly is a timeless love letter written in stone, canvas, and vine, offering an unforgettably dramatic backdrop for a luxury honeymoon celebration. Selecting this elite Italy Honeymoon Package delivers an ideal blend of poetic isolation and cultural discovery. This proposal leverages top-tier searched keywords for Google ranking, showcasing premier Italy Sightseeing icons through a deeply emotional lens. Discover Top Tourist Places in Italy tailored for couples: share an intimate gondola serenade through secret Venice waterways, watch the golden sunset over Florence from high Tuscan hilltops, stroll through winding olive groves, and toast your union over the crystalline cliffs of Amalfi. It is the absolute Best Time to Visit Italy to experience private curated experiences, photograph immense scenic beauty, and secure an unparalleled Premium Italy Experience. TRAGUIN Honeymoon Touchpoints: Private water taxi arrivals directly to hotel piers, vintage wooden boat sunset cruise in Venice, personalized wine tasting trails in Chianti, and a front-row ocean-facing candlelight farewell dinner. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "IT-002 | Romantic Italy Honeymoon | TRAGUIN",
-    "seo_description": "Premium 06 Nights / 07 Days Italy honeymoon (IT-002): Venice gondola, Tuscany Chianti, Amalfi Coast Positano, and private Capri yacht cruise.",
-    "is_published": true,
+    "seo_description": "Premium 06 Nights / 07 Days Italy package (IT-002 / TRG-ITA-ROMANCE-2026): Venice (2N) • Florence / with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Private Gondola Serenade in Venice",
+        "text": "Day 01: ARRIVAL IN VENICE & PRIVATE CANAL CRUISE",
         "sort_order": 1
       },
       {
-        "text": "Murano & Burano Private Speedboat",
+        "text": "Day 02: THE ISLANDS OF LOVE & TWILIGHT IN ST. MARK'S",
         "sort_order": 2
       },
       {
-        "text": "Vintage Chianti Drive & Wine Tasting",
+        "text": "Day 03: HIGH-SPEED TRAIN TO TUSCAN HARMONY",
         "sort_order": 3
       },
       {
-        "text": "Positano Cliffside Resort Stay",
+        "text": "Day 04: VINTAGE DRIVING BLISS & CHIANTI TASTING",
         "sort_order": 4
       },
       {
-        "text": "Private Yacht Cruise to Capri",
+        "text": "Day 05: FLIGHT OF THE SOUL TO THE AMALFI CLIFFS",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: PRIVATE YACHT CRUISE TO CAPRI & FAREWELL GALA",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: SUNSET CHECKOUT & NAPLES DEPARTURE",
+        "sort_order": 7
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Venice & Private Canal Cruise",
-        "description": "Arrive at Venice Marco Polo Airport and board a private TRAGUIN wooden motorboat taxi to your canal-facing hotel. Evening private candlelit gondola serenade through hidden waterways.",
+        "title": "ARRIVAL IN VENICE & PRIVATE CANAL CRUISE",
+        "description": "Your poetic Italy Honeymoon begins with absolute luxury. Arrive at Venice Marco Polo Airport and step into a private TRAGUIN wooden motorboat taxi, slicing through the lagoon to reach your canal-facing hotel pier. In the evening, step into an artisan-carved Gondola for a completely private serenade cruise through hidden, quiet waterways, admiring the historic scenic beauty of the city. Sightseeing Included: Private luxury water taxi airport reception, private candlelit Gondola serenade cruise. Honeymoon Highlight: Complimentary chilled Italian Prosecco and red roses awaiting in your honeymoon suite.",
         "activities": [
-          "Sightseeing Included: Private water taxi airport reception, private gondola serenade cruise",
-          "Honeymoon Highlight: Complimentary Prosecco and red roses in honeymoon suite",
-          "Overnight Stay: Venice Lagoon (Ultra-Luxury Canal-view Palace Hotel)",
+          "Overnight Stay: Venice Lagoon (Handpicked Ultra-Luxury Canal-view Palace Hotel)",
           "Meals Included: Waterfront Candlelight Welcome Dinner"
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "The Islands of Love & Twilight in St. Mark's",
-        "description": "Private speedboat excursion to Murano and Burano. Evening walk through St. Mark's Square at golden twilight.",
+        "title": "THE ISLANDS OF LOVE & TWILIGHT IN ST. MARK'S",
+        "description": "Enjoy a beautiful breakfast at your hotel porch facing the Grand Canal. Today, embark on a private speedboat excursion to Murano and Burano. Wander past Burano’s iconic brightly painted houses—a premier popular Instagram location. In the evening, walk hand-in-hand through St. Mark's Square as the orchestras begin playing under the golden twilight. Sightseeing Included: Private speedboat excursion to Venetian islands, St. Mark's Basilica twilight trail.",
         "activities": [
-          "Sightseeing Included: Private speedboat to Murano & Burano, St. Mark's Basilica twilight trail",
-          "Overnight Stay: Venice Lagoon (Ultra-Luxury Canal-view Palace Hotel)",
+          "Overnight Stay: Venice Lagoon (Handpicked Ultra-Luxury Canal-view Palace Hotel)",
           "Meals Included: International Breakfast & Intimate Venetian Terrace Dinner"
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "High-Speed Train to Tuscan Harmony",
-        "description": "Private water taxi to rail terminal. High-speed executive train to Florence and private chauffeur into Tuscan hills. Check into countryside boutique wine resort.",
+        "title": "HIGH-SPEED TRAIN TO TUSCAN HARMONY",
+        "description": "Check out smoothly as your private water taxi transfers you to the rail terminal. Board the high-speed Executive Train to Florence, relaxing in spacious leather recliners. Upon arrival, your private TRAGUIN chauffeur guides you into the Tuscan hills. Check into your countryside boutique resort, enjoying breathtaking landscapes of vineyards stretching across the horizon. Sightseeing Included: High-speed executive rail connection, private Tuscan countryside chauffeured transit.",
         "activities": [
-          "Sightseeing Included: High-speed executive rail, private Tuscan countryside transit",
-          "Overnight Stay: Tuscany Countryside (Ultra-Luxury Boutique Wine Resort)",
+          "Overnight Stay: Tuscany Countryside (Handpicked Ultra-Luxury Boutique Wine Resort)",
           "Meals Included: International Breakfast & Traditional Tuscan Farm-to-Table Dinner"
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Vintage Driving Bliss & Chianti Tasting",
-        "description": "Restored vintage Alfa Romeo self-drive through Chianti cypress-lined roads. Private castle cellar tour and exclusive wine tasting with local truffles.",
+        "title": "VINTAGE DRIVING BLISS & CHIANTI TASTING",
+        "description": "An extraordinary honeymoon experience awaits. Take the keys to a beautifully restored vintage Alfa Romeo or classic car for a private self-drive tour through the winding Cypress-lined roads of Chianti. Stop at a medieval castle for a private cellar tour and exclusive wine tasting paired with local truffles, surrounded by scenic vineyards. Sightseeing Included: Vintage sports car rental day, private castle wine tasting tour, San Gimignano panoramic trail.",
         "activities": [
-          "Sightseeing Included: Vintage sports car day, private castle wine tasting, San Gimignano panoramic trail",
-          "Overnight Stay: Tuscany Countryside (Ultra-Luxury Boutique Wine Resort)",
+          "Overnight Stay: Tuscany Countryside (Handpicked Ultra-Luxury Boutique Wine Resort)",
           "Meals Included: International Breakfast & Gourmet Vineyard Estate Lunch"
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Flight of the Soul to the Amalfi Cliffs",
-        "description": "Private executive van to Naples via high-speed rail. Amalfi coastal drive to Positano cliff-hanging resort with balcony overlooking the sea.",
+        "title": "FLIGHT OF THE SOUL TO THE AMALFI CLIFFS",
+        "description": "Bid farewell to Tuscany as your private executive van drives you to the rail station for a fast-track link to Naples. Upon arrival, your Amalfi coastal driver transfers you along the spectacular cliffside highway. Check into an iconic cliff-hanging resort in Positano, where your private balcony overlooks the vertical pastel houses and the deep blue sea. Sightseeing Included: High-speed rail crossing, Amalfi scenic cliffside private transit, Positano village arrival.",
         "activities": [
-          "Sightseeing Included: High-speed rail crossing, Amalfi scenic cliffside transit, Positano arrival",
-          "Overnight Stay: Amalfi Coast / Positano (Premium Cliffside Luxury Resort)",
+          "Overnight Stay: Amalfi Coast / Positano (Handpicked Premium Cliffside Luxury Resort)",
           "Meals Included: International Breakfast & Ocean-view Mediterranean Dinner"
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Private Yacht Cruise to Capri & Farewell Gala",
-        "description": "Private luxury speed-yacht charter to Capri. Swim in turquoise sea caves. Ultimate candlelight farewell dinner with acoustic Italian musicians.",
+        "title": "PRIVATE YACHT CRUISE TO CAPRI & FAREWELL GALA",
+        "description": "Savor a final full day in paradise. Board a private luxury speed-yacht chartered exclusively by TRAGUIN Experts. Cruise around the dramatic limestone monoliths of Capri, swim inside hidden turquoise sea caves, and have lunch at a secluded beach club. Conclude your honeymoon with an ultimate private candlelight farewell dinner on a cliffside terrace over the Mediterranean waves. Sightseeing Included: Private luxury yacht charter to Capri, Faraglioni Rocks cruise, sea caves exploration. Honeymoon Finale: Private musicians playing acoustic Italian love songs during a multi-course dinner.",
         "activities": [
-          "Sightseeing Included: Private yacht charter to Capri, Faraglioni Rocks cruise, sea caves",
-          "Honeymoon Finale: Private musicians during multi-course cliffside dinner",
-          "Overnight Stay: Amalfi Coast / Positano (Premium Cliffside Luxury Resort)",
-          "Meals Included: International Breakfast & Grand Honeymoon Finale Dinner"
+          "Overnight Stay: Amalfi Coast / Positano (Handpicked Premium Cliffside Luxury Resort)",
+          "Meals Included: International Breakfast & Grand Honeymoon Finale Candlelight Dinner"
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Sunset Checkout & Naples Departure",
-        "description": "Late morning breakfast on private balcony. Private transfer to Naples International Airport with luggage assistance.",
+        "title": "SUNSET CHECKOUT & NAPLES DEPARTURE",
+        "description": "Enjoy a late morning breakfast on your private balcony, capturing the final, stunning memories of Positano. Our concierge team completely manages your premium checkout and luggage lines. Your private vehicle transfers you comfortably back to Naples International Airport for your departure flights, concluding a flawless dream honeymoon. Transfers: Private luxury highway van transfer to Naples Airport, full luggage assistance.",
         "activities": [
-          "Transfers Included: Private luxury van to Naples Airport, luggage assistance",
           "Meals Included: International Buffet Breakfast"
         ],
         "sort_order": 7
@@ -166,201 +168,92 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Hotel Carlton Grand Canal / similar",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Hotel Carlton Grand Canal Hotel Adler Cavalieri Hotel Conca d'Oro Positano",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 01: Deluxe — Hotel Carlton Grand Canal Hotel Adler Cavalieri Hotel Conca d'Oro Positano",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Hotel Adler Cavalieri / similar",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Splendid Venice Starhotels Borgo San Luigi ChiantiHotel Poseidon Positano",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 02: Premium — Splendid Venice Starhotels Borgo San Luigi ChiantiHotel Poseidon Positano",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Hotel Conca d'Oro Positano / similar",
-        "location": "Amalfi Coast / Positano",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "The Gritti Palace Venice Castello di Velona ResortLe Sirenuse Positano",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 03: Luxury — The Gritti Palace Venice Castello di Velona ResortLe Sirenuse Positano",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Splendid Venice Starhotels",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Aman Venice / St. Regis Rosewood Castiglion del Bosco Belmond Hotel Caruso / Monastero Santa Rosa",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — Aman Venice / St. Regis Rosewood Castiglion del Bosco Belmond Hotel Caruso / Monastero Santa Rosa",
         "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "Borgo San Luigi Chianti",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Hotel Poseidon Positano",
-        "location": "Positano",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "The Gritti Palace Venice",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Castello di Velona Resort",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
-      },
-      {
-        "hotel_id": null,
-        "name": "Le Sirenuse Positano",
-        "location": "Positano",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 9
-      },
-      {
-        "hotel_id": null,
-        "name": "Aman Venice / St. Regis",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 10
-      },
-      {
-        "hotel_id": null,
-        "name": "Rosewood Castiglion del Bosco",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 11
-      },
-      {
-        "hotel_id": null,
-        "name": "Belmond Hotel Caruso / Monastero Santa Rosa",
-        "location": "Amalfi Coast",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 12
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "06 Nights in ultra-luxury canal-view, vineyard, and cliffside honeymoon suites",
+        "text": "Premium handpicked accommodation across Italy",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Complimentary premium prosecco, seasonal fruits, and floral setups on arrival",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven MPV",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Private luxury water crafts, high-speed executive trains, and Mercedes transits",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 3
       },
       {
-        "kind": "included",
-        "text": "Private gondola serenade, Chianti wine tasting, and luxury Capri yacht cruise",
+        "kind": "excluded",
+        "text": "International airfare and Schengen visa fees",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "VIP skip-the-line entries and TRAGUIN 24/7 honeymoon concierge support",
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
         "sort_order": 5
       },
       {
         "kind": "excluded",
-        "text": "International flight tickets and Schengen visa processing fees",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
         "sort_order": 6
       },
       {
         "kind": "excluded",
-        "text": "Personal expenses, laundry, room service, and mini-bar billing",
+        "text": "Tipping, porterage fees, and travel insurance",
         "sort_order": 7
-      },
-      {
-        "kind": "excluded",
-        "text": "Vintage car fuel insurance upgrades or extra sightseeing not specified",
-        "sort_order": 8
       }
     ]
   }

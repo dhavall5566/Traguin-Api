@@ -2,48 +2,50 @@
   "destination_slug": "malaysia",
   "package": {
     "slug": "my-003-kuala-lumpur-langkawi-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "MY-003",
+    "traguin_tour_code": "TRG-KUL-LGK-FAM-2026",
     "title": "Kuala Lumpur Langkawi Family Tour",
     "duration_label": "05 Nights / 06 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 56,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Kuala Lumpur (2N) → Langkawi (3N) city & island circuit",
+        "text": "Serial code MY-003 | TRAGUIN tour code TRG-KUL-LGK-FAM-2026",
         "sort_order": 1
       },
       {
-        "text": "Petronas Towers, Batu Caves & Merdeka Square",
+        "text": "Country: Malaysia, Asia | Category: Best Kuala Lumpur Langkawi Family Tour",
         "sort_order": 2
       },
       {
-        "text": "Langkawi SkyBridge via SkyCab cable car",
+        "text": "Destinations: Kuala Lumpur • Petronas Towers • Langkawi Island • SkyBridge • Mangrove Cruises",
         "sort_order": 3
       },
       {
-        "text": "Mangrove & marine family boat expedition",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-KUL-LGK-FAM-2026 | Serial MY-003",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Cultural",
-      "Nature",
-      "Beach"
+      "Nature"
     ]
   },
   "itinerary": {
@@ -55,94 +57,91 @@
     "price_note": "On Request (Premium Malaysia Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Kuala Lumpur • Petronas Towers • Langkawi • SkyBridge • Mangroves",
-    "overview": "The perfect synergy of vibrant city life and tranquil island beauty. From Kuala Lumpur's iconic towers and Batu Caves to Langkawi's pristine beaches, SkyBridge, and mangrove cruises — a 6-day TRAGUIN family expedition designed for unforgettable memories.",
-    "is_featured": true,
-    "featured_sort_order": 56,
+    "tagline": "Kuala Lumpur Langkawi Family Tour",
+    "overview": "Kuala Lumpur • Petronas Towers • Langkawi Island • SkyBridge • Mangrove Cruises 05 Nights / 06 Days Classic Malaysia Family Expedition SERIAL CODE: MY-003 TRAGUIN TOUR CODE: TRG-KUL-LGK-FAM-2026 STATE / COUNTRY: Malaysia CATEGORY: Best Kuala Lumpur Langkawi Family Tour DURATION: 05 Nights / 06 Days Kuala Lumpur (2N) + Langkawi (3N) IDEAL FOR: Families, Couples, Nature Enthusiasts Year-Round\n\nTOUR OVERVIEW\nDiscover the perfect synergy of vibrant city life and tranquil island beauty with our TRAGUIN curated Malaysia expedition. From the iconic towers of Kuala Lumpur to the pristine white sands of Langkawi, this 6-day journey is designed to create unforgettable memories for your family. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "MY-003 | Kuala Lumpur Langkawi Family Tour | TRAGUIN",
-    "seo_description": "Premium 05 Nights / 06 Days Malaysia family package (MY-003): Kuala Lumpur, Langkawi SkyBridge, Batu Caves, and mangrove boat expedition.",
-    "is_published": true,
+    "seo_description": "Premium 05 Nights / 06 Days Malaysia package (MY-003 / TRG-KUL-LGK-FAM-2026): Kuala Lumpur • Petronas Towers • Langkawi Island • SkyBridge • Mangrove Cruises with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Petronas Twin Towers Observation Deck",
+        "text": "Day 01: ARRIVAL IN KUALA LUMPUR",
         "sort_order": 1
       },
       {
-        "text": "Batu Caves & Merdeka Square",
+        "text": "Day 02: KUALA LUMPUR EXPLORATION",
         "sort_order": 2
       },
       {
-        "text": "Langkawi SkyBridge & SkyCab",
+        "text": "Day 03: FLY TO LANGKAWI",
         "sort_order": 3
       },
       {
-        "text": "Mangrove & Marine Boat Expedition",
+        "text": "Day 04: LANGKAWI ISLAND DISCOVERY",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: MANGROVE & MARINE EXPEDITION",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Kuala Lumpur",
-        "description": "TRAGUIN private chauffeur meets you at the airport. Seamless transfer to premium hotel. Evening breathtaking city views from Petronas Towers observation deck.",
+        "title": "ARRIVAL IN KUALA LUMPUR",
+        "description": "Arrive in the heart of Malaysia. Your TRAGUIN private chauffeur will meet you at the airport for a seamless transfer. Spend the evening enjoying the breathtaking landscapes of the city from the observation deck of the iconic Petronas Towers.",
         "activities": [
-          "Sightseeing Included: Petronas Twin Towers observation deck",
-          "Overnight Stay: Kuala Lumpur (Premium City Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Kuala Lumpur Exploration",
-        "description": "Visit spiritual Batu Caves with immense scenic beauty. City tour featuring Merdeka Square and local craft markets.",
+        "title": "KUALA LUMPUR EXPLORATION",
+        "description": "Explore the cultural pulse of Kuala Lumpur. Visit Batu Caves, a spiritual site of immense scenic beauty, followed by a city tour featuring Merdeka Square and local craft markets.",
         "activities": [
-          "Sightseeing Included: Batu Caves, Merdeka Square, local craft markets",
-          "Overnight Stay: Kuala Lumpur (Premium City Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Fly to Langkawi",
-        "description": "Transfer to airport for flight to Langkawi, the jewel of Kedah. Check into premium beach stay and enjoy relaxing sunset walk on the beach.",
+        "title": "FLY TO LANGKAWI",
+        "description": "Transfer to the airport for your flight to the jewel of Kedah, Langkawi. Upon arrival, check into your premium stay and enjoy a relaxing sunset walk on the beach.",
         "activities": [
-          "Sightseeing Included: Domestic flight coordination to Langkawi, beach sunset walk",
-          "Overnight Stay: Langkawi (Premium Beach Resort)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Langkawi Island Discovery",
-        "description": "Iconic Langkawi SkyBridge accessible via SkyCab cable car. Explore unique geological wonders and breathtaking island landscapes.",
+        "title": "LANGKAWI ISLAND DISCOVERY",
+        "description": "Experience the iconic attractions of Langkawi, including the famous SkyBridge accessible via the SkyCab. Enjoy breathtaking landscapes and immersive experiences exploring the unique geological wonders of this island paradise.",
         "activities": [
-          "Sightseeing Included: Langkawi SkyCab, SkyBridge, island geological wonders",
-          "Overnight Stay: Langkawi (Premium Beach Resort)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Mangrove & Marine Expedition",
-        "description": "Curated boat adventure exploring Langkawi's mangroves and pristine marine life — perfect for the whole family.",
+        "title": "MANGROVE & MARINE EXPEDITION",
+        "description": "A curated experience exploring Langkawi's mangroves and pristine marine life. Encounter scenic beauty on this guided boat adventure perfect for the whole family.",
         "activities": [
-          "Sightseeing Included: Guided mangrove and marine boat expedition",
-          "Overnight Stay: Langkawi (Premium Beach Resort)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Departure",
-        "description": "Last-minute shopping before flight home. Conclude your Malaysian adventure with unforgettable TRAGUIN memories.",
+        "title": "DEPARTURE",
+        "description": "Conclude your Malaysian adventure with last-minute shopping before your flight, taking with you a wealth of unforgettable memories.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       }
@@ -150,154 +149,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Impiana KLCC / similar",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Impiana KLCC Adya Hotel",
+        "location": "Malaysia",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — Impiana KLCC Adya Hotel",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Adya Hotel / similar",
-        "location": "Langkawi",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "Berjaya Times Square Pelangi Beach Resort",
+        "location": "Multi-city Malaysia",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — Berjaya Times Square Pelangi Beach Resort",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Berjaya Times Square",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Shangri-La KL The Westin Langkawi",
+        "location": "Malaysia",
+        "nights_label": "5N",
+        "description": "Option 03: Luxury — Shangri-La KL The Westin Langkawi",
         "stars": 4,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Pelangi Beach Resort",
-        "location": "Langkawi",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 4,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "The St. Regis KL The Datai Langkawi",
+        "location": "Multi-city Malaysia",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — The St. Regis KL The Datai Langkawi",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "Shangri-La Kuala Lumpur",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "The Westin Langkawi",
-        "location": "Langkawi",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "The St. Regis KL",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "The Datai Langkawi",
-        "location": "Langkawi",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "05 Nights in handpicked premium family hotels across Kuala Lumpur and Langkawi",
+        "text": "Premium handpicked accommodation across Malaysia",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private chauffeur-driven luxury ground transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Domestic flight coordination from Kuala Lumpur to Langkawi",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Petronas Towers, Batu Caves, SkyBridge, and mangrove boat expedition",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
         "sort_order": 5
       },
       {
         "kind": "excluded",
-        "text": "International airfare and Malaysia entry visa processing fees",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
         "sort_order": 6
       },
       {
         "kind": "excluded",
-        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
         "sort_order": 7
       },
       {
         "kind": "excluded",
-        "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 8
-      },
-      {
-        "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 9
+        "sort_order": 8
       }
     ]
   }

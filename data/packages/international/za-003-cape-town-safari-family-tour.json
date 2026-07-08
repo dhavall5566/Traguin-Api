@@ -2,49 +2,50 @@
   "destination_slug": "south-africa",
   "package": {
     "slug": "za-003-cape-town-safari-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "ZA-003",
+    "traguin_tour_code": "TRAGUIN-ZA-003-FAMILY",
     "title": "Cape Town Safari Family Tour",
     "duration_label": "08 Nights / 09 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 89,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Cape Town (5N) → Shamwari Private Game Reserve (3N) deep-dive circuit",
+        "text": "Serial code ZA-003 | TRAGUIN tour code TRAGUIN-ZA-003-FAMILY",
         "sort_order": 1
       },
       {
-        "text": "Table Mountain VIP, Cape Peninsula & marine wildlife cruise",
+        "text": "Country: South Africa, Southern Africa | Category: Family / Premium Luxury Holidays DURATION: 08 Nights / 09 Days",
         "sort_order": 2
       },
       {
-        "text": "Robben Island history & Kirstenbosch canopy walk",
+        "text": "Destinations: Cape Town (5N) • Shamwari Private Game Reserve (3N)",
         "sort_order": 3
       },
       {
-        "text": "Six Big Five safaris, cheetah rehab centre & bush walk",
+        "text": "Ideal for: Premium Families, Multi-Generational Groups, Wildlife Lovers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: Year-Round (October to April for pleasant coastlines; May to September for prime Safari tracking)",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRAGUIN-ZA-003-FAMILY | Serial ZA-003",
+        "text": "Starting price: On Request (Premium Multi-Day Curated Pricing)",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Modified American Plan in Cape Town; All-Inclusive Premium Full Board at Safari Lodge",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Wildlife",
-      "Adventure",
-      "Nature",
-      "Cultural"
+      "Honeymoon"
     ]
   },
   "itinerary": {
@@ -53,39 +54,55 @@
     "duration_label": "08 Nights / 09 Days",
     "duration_days": 9,
     "starting_price": 0,
-    "price_note": "On Request (Premium Multi-Day Curated Pricing)",
+    "price_note": "On Request (Premium South Africa Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Cape Town • Shamwari • Big Five Safari • Marine Wildlife",
-    "overview": "An immersive family journey combining rich cosmopolitan relaxation with breathtaking wildlife experiences. Focus deeply on Cape Town's iconic landmarks and the premier malaria-free wilderness of the Eastern Cape — custom-designed for premium families balancing cultural exploration with multi-day Big Five safari adventure.",
-    "is_featured": true,
-    "featured_sort_order": 89,
+    "tagline": "Cape Town Safari Family Tour",
+    "overview": "Cape Town & Luxury Safari Deep Dive: Fully Curated Family Expedition 08 NIGHTS / 09 DAYS PREMIUM FAMILY EXPERIENCE Welcome to an immersive family journey engineered to combine rich cosmopolitan relaxation with breathtaking wildlife experiences. The Best South Africa Tour Package by TRAGUIN provides a sophisticated, unhurried exploration focusing deeply on Cape Town's iconic landmarks and the premier, malaria-free wilderness of the Eastern Cape. This Luxury South Africa Holiday is custom-designed for premium families who wish to balance deep cultural exploration with an intense, multi-day Big Five safari adventure. Rely on TRAGUIN to coordinate handpicked hotels, seamless flights, and exclusive activities that promise unforgettable memories for your loved ones.\n\nTOUR OVERVIEW\nThis strictly private itinerary serves as an elite benchmark among TRAGUIN South Africa Packages. By focusing beautifully on two premier hubs—Cape Town and an ultra-luxury Private Game Reserve—we eliminate unnecessary travel fatigue, making it perfect for children and elderly travelers alike. Benefit from private, dedicated luxury vehicle logistics, a comprehensive premium meal plan catering to diverse culinary choices, and high-end tracking safaris supervised by Africa's top qualified game rangers. Route: Cape Town (5 Nights) ➔ Private Luxury Game Reserve (3 Nights) Vehicle: Private Chauffeur-driven Premium Multi-Seater Luxury Coach / SUV Transfers Meal Plan: Modified American Plan in Cape Town; All-Inclusive Premium Full Board at Safari Lodge TRAGUIN Curated Experience Note: Includes private cable car skip-the-line privileges, a personalized marine wildlife ocean safari, behind-the-scenes cheetah rehabilitation center access, and private family bush dinners.\n\nWHY CHOOSE CAPE TOWN & SAFARI FOR YOUR FAMILY VACATIONS?\nA flawless combination of dramatic urban oceanscapes and pristine wilderness makes this route an absolute favorite for elite global travelers. Choosing a Premium South Africa Experience with TRAGUIN adds a touch of pure exclusivity to your family holiday. Famous Attractions: Table Mountain Aerial Cableway, Cape Point Nature Reserve, Boulders Beach Penguin Sanctuary, Two Oceans Aquarium, and the iconic Big Five wildlife corridors. Most Searched Experiences: Standing at the edge of the Cape Peninsula, tracking leopards at dusk, private vineyard family picnics, and luxury helicopter harbor flights. Popular Instagram Locations: The neon-hued walls of Bo-Kaap, panoramic vistas from Mrs. Macquarie-style Signal Hill, Chapman’s Peak seaside loops, and sunset bush platforms. Family & Shopping: Hand-crafted gold jewelry, premium wildlife souvenirs at the V&A Watershed, interactive science hubs for children, and premium multi-generational dining. YOUR BESPOKE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "ZA-003 | Cape Town Safari Family Tour | TRAGUIN",
-    "seo_description": "Premium 08 Nights / 09 Days South Africa family package (ZA-003): Cape Town deep dive and 3-night Shamwari luxury safari with cheetah rehabilitation centre.",
-    "is_published": true,
+    "seo_description": "Premium 08 Nights / 09 Days South Africa package (ZA-003 / TRAGUIN-ZA-003-FAMILY): Cape Town (5N) • Shamwari Private Game Reserve (3N) with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Table Mountain VIP & Cape Peninsula",
+        "text": "Day 01: CAPE TOWN — EXCLUSIVELY CURATED ARRIVAL & WATERFRONT EXPLORATION",
         "sort_order": 1
       },
       {
-        "text": "Marine Wildlife Cruise & Robben Island",
+        "text": "Day 02: CAPE TOWN — TABLE MOUNTAIN VIP ENTRY & HISTORIC CITY CULTURE",
         "sort_order": 2
       },
       {
-        "text": "Winelands Picnic & Kirstenbosch Canopy",
+        "text": "Day 03: CAPE TOWN — PRIVATE PENINSULA SAFARI & BOULDERS BEACH PENGUINS",
         "sort_order": 3
       },
       {
-        "text": "6 Safari Drives & Cheetah Rehab Centre",
+        "text": "Day 04: CAPE TOWN — MARINE WILDLIFE OCEAN CRUISE & ROBBEN ISLAND HISTORY",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: CAPE TOWN — WINELANDS ESTATE PICNIC & KIRSTENBOSCH CANOPY WALK",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: LUXURY SAFARI LODGE — TRANSIT TO THE EASTERN CAPE & SUNSET BIG FIVE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: LUXURY SAFARI LODGE — DAWN SAFARI & CHEETAH REHABILITATION CENTRE",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: LUXURY SAFARI LODGE — EXPEDITION BUSH WALK & PRIVATE SUNSET GALA",
+        "sort_order": 8
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Cape Town — Arrival & Waterfront Exploration",
-        "description": "Warm greeting at Cape Town International Airport. Transfer to premium V&A Waterfront hotel. Two Oceans Aquarium and welcome harborfront dinner.",
+        "title": "CAPE TOWN — EXCLUSIVELY CURATED ARRIVAL & WATERFRONT EXPLORATION",
+        "description": "Land at Cape Town International Airport, where your family is warmly greeted by our private luxury chauffeur. Relax in comfort as you are transferred directly to your handpicked premium hotel at the secure Victoria & Alfred Waterfront. After check-in, spend a relaxed afternoon strolling around the historic docks, visiting high- end craft markets, or viewing marine life at the Two Oceans Aquarium. In the evening, gather for an exceptional welcome dinner curated by TRAGUIN specialists.",
         "activities": [
           "Sightseeing Included: Private executive airport transfer, V&A Waterfront family walk",
           "Evening Experience: Harborfront Premium Seafood Welcome Dinner",
@@ -96,10 +113,10 @@
       },
       {
         "day_number": 2,
-        "title": "Cape Town — Table Mountain VIP & Historic Culture",
-        "description": "Skip-the-line VIP Table Mountain cableway. Bo-Kaap, Company's Garden, and Signal Hill sunset viewing.",
+        "title": "CAPE TOWN — TABLE MOUNTAIN VIP ENTRY & HISTORIC CITY CULTURE",
+        "description": "Savor a gourmet breakfast before ascending Table Mountain via its famous revolving aerial cableway, using our pre-arranged skip-the-line VIP passes to enjoy breathtaking landscapes without the wait. Descend to explore the historic city center, walking through the beautifully preserved, brightly painted homes of Bo-Kaap. After an incredible local lunch, take a leisurely stroll through the Company’s Garden and enjoy an elite family sunset viewing at Signal Hill.",
         "activities": [
-          "Sightseeing Included: Table Mountain VIP Cableway, Bo-Kaap Tour, Company's Garden, Signal Hill Sunset",
+          "Sightseeing Included: Table Mountain VIP Cableway, Bo-Kaap Tour, Company’s Garden, Signal Hill Sunset",
           "Evening Experience: Authentic Cape Malay fine-dining experience",
           "Overnight Stay: Cape Town",
           "Meals Included: Premium Breakfast & Dinner"
@@ -108,10 +125,10 @@
       },
       {
         "day_number": 3,
-        "title": "Cape Town — Peninsula Safari & Boulders Beach Penguins",
-        "description": "Chapman's Peak Drive to Cape Point Funicular and Cape of Good Hope. Immersive African Penguin colony at Boulders Beach.",
+        "title": "CAPE TOWN — PRIVATE PENINSULA SAFARI & BOULDERS BEACH PENGUINS",
+        "description": "Embark on an iconic coastal road trip down Chapman’s Peak Drive, universally hailed as one of the world's most spectacular scenic routes. Travel into the Cape Point Nature Reserve, riding the Flying Dutchman Funicular up to the ancient lighthouse to gaze out where two ocean currents meet. On your loop back, stop for an immersive experience at Boulders Beach to stand within arm's reach of South Africa's world-famous African Penguin colony—an absolute delight for children. Penguins",
         "activities": [
-          "Sightseeing Included: Chapman's Peak Drive, Cape Point Funicular, Cape of Good Hope, Boulders Beach Penguins",
+          "Sightseeing Included: Chapman’s Peak Drive, Cape Point Funicular, Cape of Good Hope, Boulders Beach",
           "Optional Activities: High-speed private boat ride to Hout Bay Seal Island",
           "Overnight Stay: Cape Town",
           "Meals Included: Premium Breakfast & Gourmet Seafood Lunch"
@@ -120,11 +137,11 @@
       },
       {
         "day_number": 4,
-        "title": "Cape Town — Marine Wildlife Cruise & Robben Island",
-        "description": "Premium catamaran marine safari around Table Bay. Guided historical tour of Robben Island led by a former political prisoner.",
+        "title": "CAPE TOWN — MARINE WILDLIFE OCEAN CRUISE & ROBBEN ISLAND HISTORY",
+        "description": "Today features an incredible marine safari. Board our pre-booked premium catamaran for an ocean cruise around Table Bay, spotting playful fur seals, heavy sunfish, and breaching whales (seasonal). In the afternoon, take an emotional, deeply moving guided historical cruise to Robben Island, exploring the prison quarters led by an actual former political prisoner—a powerful cultural experience for the whole family.",
         "activities": [
           "Sightseeing Included: Marine Wildlife Catamaran Cruise, Robben Island Guided Museum Tour",
-          "Evening Experience: Relaxed family leisure at Camps Bay beach promenade",
+          "Evening Experience: Relaxed family leisure strolling at Camps Bay beach promenade",
           "Overnight Stay: Cape Town",
           "Meals Included: Premium Breakfast & Dinner"
         ],
@@ -132,8 +149,8 @@
       },
       {
         "day_number": 5,
-        "title": "Cape Town — Winelands Picnic & Kirstenbosch Canopy Walk",
-        "description": "Constantia Valley historic estate tour and gourmet picnic. Boomslang canopy walkway at Kirstenbosch National Botanical Gardens.",
+        "title": "CAPE TOWN — WINELANDS ESTATE PICNIC & KIRSTENBOSCH CANOPY WALK",
+        "description": "Escape to the nearby Constantia Valley, South Africa's oldest wine-growing estate hub. While adults indulge in premium wine-tasting masterclasses in historic cellars, children are treated to fresh table-grape juice artisanal pairings. Enjoy a high-end gourmet picnic lunch under centuries-old oak trees. In the afternoon, wander the sky-high 'Boomslang' canopy walkway at Kirstenbosch National Botanical Gardens, offering unparalleled views of the mountain slopes.",
         "activities": [
           "Sightseeing Included: Constantia Historic Estate Tour, Constantia Gourmet Picnic, Kirstenbosch Canopy Walk",
           "Evening Experience: High-end contemporary dining at the waterfront",
@@ -144,8 +161,8 @@
       },
       {
         "day_number": 6,
-        "title": "Luxury Safari Lodge — Transit & Sunset Big Five Safari",
-        "description": "Fly Cape Town to Gqeberha (Port Elizabeth). Transfer to malaria-free private game reserve. Inaugural sunset Big Five game drive and boma dinner.",
+        "title": "LUXURY SAFARI LODGE — TRANSIT TO THE EASTERN CAPE & SUNSET BIG FIVE",
+        "description": "SAFARI Fly from Cape Town to Gqeberha (Port Elizabeth). Your private TRAGUIN luxury safari coach awaits to transfer you to an opulent, malaria-free private game reserve. Check into your premium family villa, complete with a private viewing deck overlooking a high-traffic waterhole. After a decadent high tea, climb into an open- top luxury 4x4 vehicle for your inaugural sunset game drive, tracking elephants, rhinos, and lions under a blazing African sky.",
         "activities": [
           "Sightseeing Included: Private Reserve Check-in, Sunset 4x4 Big Five Safari Tracking",
           "Evening Experience: Traditional multi-course gourmet Boma dinner around a roaring wood fire",
@@ -156,8 +173,8 @@
       },
       {
         "day_number": 7,
-        "title": "Luxury Safari Lodge — Dawn Safari & Cheetah Rehabilitation",
-        "description": "Dawn safari with expert tracker. Behind-the-scenes VIP tour of wildlife rehabilitation centre. Evening stargazing and constellation storytelling.",
+        "title": "LUXURY SAFARI LODGE — DAWN SAFARI & CHEETAH REHABILITATION CENTRE",
+        "description": "INSIGHT Set out at dawn as the wild plains come alive with activity. Your expert tracker interprets fresh footprints to guide you to active predator prides. Return to the lodge for a magnificent brunch. In the afternoon, enjoy an exclusive, behind-the-scenes educational tour of the reserve's world-renowned wildlife rehabilitation center, learning closely about cheetah and rhino conservation—an educational milestone for young travelers.",
         "activities": [
           "Sightseeing Included: Sunrise Bush Safari, Wildlife Rehabilitation Center VIP Tour",
           "Evening Experience: Guided night-sky stargazing and constellation storytelling session",
@@ -168,8 +185,8 @@
       },
       {
         "day_number": 8,
-        "title": "Luxury Safari Lodge — Bush Walk & Farewell Gala Dinner",
-        "description": "Guided bush walk with armed ranger. Final signature sunset safari with sundowner ridge experience. Private family farewell gala dinner in a secluded bush clearing.",
+        "title": "LUXURY SAFARI LODGE — EXPEDITION BUSH WALK & PRIVATE SUNSET GALA",
+        "description": "CHAMPAGNE DRIVE After a morning safari drive and breakfast, embark on a secure, low-impact guided bush walk with an armed ranger, exploring the fascinating micro-ecosystems, medicinal plants, and birdlife of the savanna. Re- energize with an elite lunch by the lodge pool. In the late afternoon, set out for your final signature sunset safari drive, pausing on a high plateau for premium drinks and snacks surrounded by untamed wilderness.",
         "activities": [
           "Sightseeing Included: Dawn Safari Tracking, Guided Ranger Bush Walk, Sundowner Ridge Experience",
           "Evening Experience: Private Family Farewell Gala Dinner hosted inside a secluded bush clearing",
@@ -180,11 +197,10 @@
       },
       {
         "day_number": 9,
-        "title": "Gqeberha — Morning Safari & Departure",
-        "description": "Final sunrise safari drive. Celebratory luxury breakfast. Private transfer to Gqeberha airport for connecting flight home.",
+        "title": "GQEBERHA (PORT ELIZABETH) — MORNING SAFARI RITUAL & HOMEWARD",
+        "description": "DEPARTURE LOGISTICS Embrace your final sunrise safari drive, capturing memorable close-up photographs of majestic giraffes and zebra herds grazing in the morning mist. Return for a celebratory luxury breakfast. Pack your bags and bid farewell to the lodge rangers as your private executive chauffeur drives you smoothly to Chief Dawid Stuurman International Airport in Gqeberha for your connecting flight home. Your unmatched luxury vacation planned by TRAGUIN concludes in seamless perfection. Transfers: Private Airport Executive Coach Drop",
         "activities": [
           "Sightseeing Included: Sunrise Safari Tracking Ritual",
-          "Transfers: Private Airport Executive Coach Drop",
           "Meals Included: Premium Breakfast"
         ],
         "sort_order": 9
@@ -193,169 +209,102 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "The Westin Cape Town (Family Interconnecting Rooms)",
-        "location": "Cape Town",
-        "nights_label": "05 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "The Westin Interconnecting Rooms) Kariega",
+        "location": "South Africa",
+        "nights_label": "8N",
+        "description": "Option 01: Deluxe — The Westin Interconnecting Rooms) Kariega",
+        "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room / Suite",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Kariega Game Reserve - Main Lodge (Family Chalet)",
-        "location": "Luxury Safari Lodge",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Full Board",
+        "name": "The Table Bay Hotel Amakhala Lodge",
+        "location": "South Africa",
+        "nights_label": "8N",
+        "description": "Option 02: Premium — The Table Bay Hotel Amakhala Lodge",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room / Suite",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "The Table Bay Hotel (Luxury Twin/Family Facing)",
-        "location": "Cape Town",
-        "nights_label": "05 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "One&Only Marina Suite) Shamwari Lee Manor",
+        "location": "South Africa",
+        "nights_label": "8N",
+        "description": "Option 03: Luxury — One&Only Marina Suite) Shamwari Lee Manor",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room / Suite",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Amakhala Game Reserve - Woodbury Lodge",
-        "location": "Luxury Safari Lodge",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "The Silo Hotel Shamwari - Riverdene Family Luxury",
+        "location": "Multi-city South Africa",
+        "nights_label": "8N",
+        "description": "Option 04: Ultra Luxury — The Silo Hotel Shamwari - Riverdene Family Luxury",
         "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Full Board",
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room / Suite",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "One&Only Cape Town (Two-Bedroom Marina Suite)",
-        "location": "Cape Town",
-        "nights_label": "05 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Shamwari Private Game Reserve - Long Lee Manor",
-        "location": "Luxury Safari Lodge",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Full Board",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "The Silo Hotel (Two-Bedroom Family Duplex Penthouse)",
-        "location": "Cape Town",
-        "nights_label": "05 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Shamwari - Riverdene Family Luxury Lodge (Private Pool)",
-        "location": "Luxury Safari Lodge",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Full Board",
-        "image_media_id": null,
-        "sort_order": 8
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "08 Nights: 5 in Cape Town and 3 in ultra-luxury malaria-free safari lodge",
+        "text": "Transfers: Dedicated private chauffeur-driven luxury family coach or premium SUV throughout the trip",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Daily gourmet breakfasts and dinners in Cape Town; all-inclusive premium full board at safari lodge",
+        "text": "Wildlife Safaris: 6 Exclusive 4x4 open safari vehicle tracking game drives led by qualified senior rangers",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Dedicated private chauffeur-driven luxury family coach or premium SUV throughout",
+        "text": "TRAGUIN Concierge: 24/7 priority concierge backing from our premier holiday managers",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Six exclusive 4x4 open safari game drives led by qualified senior rangers",
+        "text": "Transfers: Dedicated private chauffeur-driven luxury family coach or premium SUV throughout the trip",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "VIP Table Mountain, Cape Point funicular, Boulders Beach, marine catamaran, and Robben Island tickets",
+        "text": "Wildlife Safaris: 6 Exclusive 4x4 open safari vehicle tracking game drives led by qualified senior rangers",
         "sort_order": 5
       },
       {
-        "kind": "included",
-        "text": "Wildlife Rehabilitation Centre behind-the-scenes tour and family bush clearing farewell dinner",
+        "kind": "excluded",
+        "text": "International and domestic internal airfare flight tickets",
         "sort_order": 6
       },
       {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 priority family concierge support",
+        "kind": "excluded",
+        "text": "South African visa processing fees and handling documentation charges",
         "sort_order": 7
       },
       {
         "kind": "excluded",
-        "text": "International and domestic internal flight tickets",
-        "sort_order": 100
+        "text": "Personal incidental expenses (laundry, long-distance telephone, tips, extra spa sessions)",
+        "sort_order": 8
       },
       {
         "kind": "excluded",
-        "text": "South African tourist visa fees and processing charges",
-        "sort_order": 101
-      },
-      {
-        "kind": "excluded",
-        "text": "Personal expenses, laundry, premium liquors, telephone calls, and gratuities",
-        "sort_order": 102
-      },
-      {
-        "kind": "excluded",
-        "text": "Optional adventure activities like shark cage diving, bungee jumping, or skydiving",
-        "sort_order": 103
-      },
-      {
-        "kind": "excluded",
-        "text": "Comprehensive international travel and health insurance",
-        "sort_order": 104
+        "text": "Optional extreme adrenaline sports like shark cage diving or skydiving",
+        "sort_order": 9
       }
     ]
   }

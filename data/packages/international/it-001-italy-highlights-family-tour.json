@@ -2,46 +2,50 @@
   "destination_slug": "italy",
   "package": {
     "slug": "it-001-italy-highlights-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "IT-001",
+    "traguin_tour_code": "TRG-ITA-HIGHLIGHTS-2026",
     "title": "Italy Highlights Family Tour",
     "duration_label": "06 Nights / 07 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 45,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Rome (2N) → Florence/Tuscany (2N) → Venice (2N) family circuit",
+        "text": "Serial code IT-001 | TRAGUIN tour code TRG-ITA-HIGHLIGHTS-2026",
         "sort_order": 1
       },
       {
-        "text": "Vatican Museums, Sistine Chapel & Colosseum skip-the-line",
+        "text": "Country: Italy, Europe | Category: Best Italy Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Tuscan pizza-making masterclass & high-speed train to Venice",
+        "text": "Destinations: Rome (2N) • Florence /",
         "sort_order": 3
       },
       {
-        "text": "Private gondola cruise & Murano/Burano island hopping",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-ITA-HIGHLIGHTS-2026 | Serial IT-001",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Cultural"
+      "Leisure"
     ]
   },
   "itinerary": {
@@ -50,46 +54,52 @@
     "duration_label": "06 Nights / 07 Days",
     "duration_days": 7,
     "starting_price": 0,
-    "price_note": "On Request (Premium Italy Experience)",
+    "price_note": "On Request (Premium Customised)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Rome • Vatican City • Florence • Tuscany • Venice",
-    "overview": "Embark on an extraordinary European odyssey with TRAGUIN's curated family itinerary. Blending ancient Roman history, Renaissance art in Florence, and the romantic water matrices of Venice, this luxury Italy holiday offers unforgettable memories with private ground transit, skip-the-line admissions, and handpicked premium family hotels.",
-    "is_featured": true,
-    "featured_sort_order": 45,
+    "tagline": "Italy Highlights Family Tour",
+    "overview": "Rome • Vatican City • Florence • Tuscany • Venice Canals 06 Nights / 07 Days Classic Italy Family Vacation SERIAL CODE: IT-001 TRAGUIN TOUR CODE: TRG-ITA-HIGHLIGHTS-2026 STATE / COUNTRY: Italy / Europe CATEGORY: Best Italy Family Tour Package DURATION: 06 Nights / 07 Days DESTINATIONS COVERED: Rome (2N) • Florence / Tuscany (2N) • Venice (2N)\n\nTOUR OVERVIEW\nEmbark on an extraordinary European odyssey with our TRAGUIN curated family itinerary. Blending ancient Roman history, Renaissance art in Florence, and the romantic water matrices of Venice, this Luxury Italy Holiday offers unforgettable memories, breathtaking landscapes, and exclusive experiences for your family. Welcome Note from TRAGUIN: Family travel requires precise logistical care. This 7-day optimized expedition includes full luxury ground transit in private vehicles, pre-booked skip-the-line admissions to world heritage monuments, and handpicked hotels to guarantee absolute comfort and premium service.\n\nWHY CHOOSE OUR ITALY HIGHLIGHTS FAMILY TOUR?\nItaly is the ultimate tapestry of cultural marvels, artistic brilliance, and divine culinary heritage, making it the perfect choice for family bonding. Selecting this Best Italy Tour Package promises a seamless journey through Italy's most famous regions. This framework features highly searched keywords for Google ranking, ensuring an exceptional showcase of premier Italy Sightseeing attractions. Discover Top Tourist Places in Italy: wander through the monumental Colosseum in Rome, explore the artistic treasures of Vatican City, cruise along the beautiful Grand Canal in Venice, and admire the rolling hills of Tuscany. It is the absolute Best Time to Visit Italy to experience immersive experiences, photograph scenic beauty, and indulge in an unmatched Premium Italy Experience. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "IT-001 | Italy Highlights Family Tour | TRAGUIN",
-    "seo_description": "Premium 06 Nights / 07 Days Italy family package (IT-001): Rome, Vatican, Colosseum, Florence, Tuscany, Venice gondola, and Murano/Burano islands.",
-    "is_published": true,
+    "seo_description": "Premium 06 Nights / 07 Days Italy package (IT-001 / TRG-ITA-HIGHLIGHTS-2026): Rome (2N) • Florence / with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Vatican Museums & Sistine Chapel",
+        "text": "Day 01: ARRIVAL IN ROME & HISTORIC AMBIANCE",
         "sort_order": 1
       },
       {
-        "text": "Colosseum & Roman Forum",
+        "text": "Day 02: VATICAN MUSEUMS & THE COLOSSEUM",
         "sort_order": 2
       },
       {
-        "text": "Florence Duomo & Accademia Gallery",
+        "text": "Day 03: SCENIC HIGHWAY TO RENAISSANCE FLORENCE",
         "sort_order": 3
       },
       {
-        "text": "Private Gondola Cruise in Venice",
+        "text": "Day 04: FLORENCE ARTISANS & TUSCAN VILLAGE EXPLORATION",
         "sort_order": 4
       },
       {
-        "text": "Murano & Burano Island Excursion",
+        "text": "Day 05: SPEED TRANSIT TO THE CANALS OF VENICE",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: ST. MARK'S SQUARE & ISLAND HOPPING",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: VENICE DEPARTURE",
+        "sort_order": 7
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Rome & Historic Ambiance",
-        "description": "Arrive at Rome Fiumicino Airport with private TRAGUIN chauffeur transfer. Evening stroll through Piazza Navona and Trevi Fountain. Family welcome dinner at an upscale Roman trattoria.",
+        "title": "ARRIVAL IN ROME & HISTORIC AMBIANCE",
+        "description": "Welcome to the Eternal City! Arrive at Rome Fiumicino Airport, where your private TRAGUIN chauffeur-driven luxury vehicle awaits to transfer you to your hotel. After checking in, enjoy a leisurely evening stroll with your family through the lively Piazza Navona and past the iconic Trevi Fountain. Toss a coin to ensure your family's return to Rome, capturing wonderful photography points. Sightseeing Included: Private luxury vehicle airport transfer, Trevi Fountain & Piazza Navona evening walk. Evening Experience: Family welcome dinner at an upscale Roman trattoria, tasting authentic pasta.",
         "activities": [
-          "Sightseeing Included: Private airport transfer, Trevi Fountain & Piazza Navona evening walk",
-          "Evening Experience: Family welcome dinner at upscale Roman trattoria",
           "Overnight Stay: Rome Centre (Handpicked Premium Family Hotel)",
           "Meals Included: Traditional Italian Welcome Dinner"
         ],
@@ -97,10 +107,9 @@
       },
       {
         "day_number": 2,
-        "title": "Vatican Museums & The Colosseum",
-        "description": "Skip-the-line entry to Vatican Museums, Sistine Chapel, and St. Peter's Basilica. Afternoon private guided tour of the Colosseum and Roman Forum.",
+        "title": "VATICAN MUSEUMS & THE COLOSSEUM",
+        "description": "Enjoy a bountiful buffet breakfast. Today, immerse yourself in ancient history and art. Bypass all public lines with our pre-arranged skip-the-line tickets to enter the Vatican Museums, the Sistine Chapel, and St. Peter's Basilica. In the afternoon, explore the monumental Colosseum and Roman Forum with a private family guide, bringing the gladiatorial tales of Rome to life. Sightseeing Included: Vatican Museums & Sistine Chapel skip-the-line entry, Private Colosseum guided tour.",
         "activities": [
-          "Sightseeing Included: Vatican Museums & Sistine Chapel skip-the-line, private Colosseum guided tour",
           "Overnight Stay: Rome Centre (Handpicked Premium Family Hotel)",
           "Meals Included: International Breakfast & Casual Italian Bistro Lunch"
         ],
@@ -108,10 +117,9 @@
       },
       {
         "day_number": 3,
-        "title": "Scenic Highway to Renaissance Florence",
-        "description": "Private chauffeur drive through Umbrian and Tuscan hills to Florence. Panoramic view from Piazzale Michelangelo and stroll across Ponte Vecchio.",
+        "title": "SCENIC HIGHWAY TO RENAISSANCE FLORENCE",
+        "description": "Travel through the scenic beauty of the rolling Umbrian and Tuscan hills as your private chauffeur drives you north to Florence, the cradle of the Renaissance. Upon arrival and resort check-in, enjoy a panoramic view of the red-tiled city skyline from Piazzale Michelangelo. Later, wander across the historic Ponte Vecchio bridge at an easy pace. Sightseeing Included: Private overland transfer through Tuscany, Piazzale Michelangelo viewpoint, Ponte Vecchio.",
         "activities": [
-          "Sightseeing Included: Private overland transfer through Tuscany, Piazzale Michelangelo, Ponte Vecchio",
           "Overnight Stay: Florence / Tuscany Boutique Resort (Premium Stay)",
           "Meals Included: International Breakfast & Tuscan Countryside Lunch"
         ],
@@ -119,11 +127,9 @@
       },
       {
         "day_number": 4,
-        "title": "Florence Artisans & Tuscan Village Exploration",
-        "description": "Explore Florence Duomo and Michelangelo's David at Accademia Gallery. Afternoon private family pizza-making masterclass at a historic Tuscan estate.",
+        "title": "FLORENCE ARTISANS & TUSCAN VILLAGE EXPLORATION",
+        "description": "Spend a beautiful morning exploring the architectural wonders of the Florence Duomo and viewing Michelangelo's David at the Accademia Gallery with pre-booked passes. In the afternoon, escape into the countryside to visit a historic Tuscan estate. Participate in a private family pizza-making masterclass surrounded by olive groves and vineyard breathtaking landscapes. Sightseeing Included: Accademia Gallery skip-the-line entry, Florence Duomo square stroll. Optional Activities: Private family pizza-making and culinary workshop at a Tuscan villa.",
         "activities": [
-          "Sightseeing Included: Accademia Gallery skip-the-line, Florence Duomo square stroll",
-          "Optional Activities: Private family pizza-making workshop at Tuscan villa",
           "Overnight Stay: Florence / Tuscany Boutique Resort (Premium Stay)",
           "Meals Included: International Breakfast & Curated Tuscan Dinner"
         ],
@@ -131,10 +137,9 @@
       },
       {
         "day_number": 5,
-        "title": "Speed Transit to the Canals of Venice",
-        "description": "High-speed executive train to Venice. Private luxury water taxi to hotel. Evening private gondola cruise through secret canals with traditional serenades.",
+        "title": "SPEED TRANSIT TO THE CANALS OF VENICE",
+        "description": "Board Europe's high-speed Executive Train to glide seamlessly into Venice, the world's most unique floating city. Arrive directly at the grand water terminal where a private luxury water taxi transfers your family to your hotel. In the evening, relax during a private gondola cruise through secret canals, listening to traditional serenades under the stars. Sightseeing Included: High-speed executive train ticket, private luxury water taxi transit, private Gondola cruise.",
         "activities": [
-          "Sightseeing Included: High-speed executive train, private water taxi, private gondola cruise",
           "Overnight Stay: Venice Island (Handpicked Premium Water-facing Hotel)",
           "Meals Included: International Breakfast & Venetian Lagoon Seafood Dinner"
         ],
@@ -142,11 +147,9 @@
       },
       {
         "day_number": 6,
-        "title": "St. Mark's Square & Island Hopping",
-        "description": "Explore St. Mark's Square and Doge's Palace with skip-the-line entry. Afternoon motorboat excursion to Murano and Burano islands. Grand farewell dinner on canal-side terrace.",
+        "title": "ST. MARK'S SQUARE & ISLAND HOPPING",
+        "description": "Explore St. Mark's Square and the magnificent Doge's Palace with skip-the-line group entry passes. In the afternoon, cruise across the Venetian lagoon to visit the islands of Murano, famous for its colorful glassblowing demonstrations, and Burano, known for its brightly painted lace-making houses—a favorite popular Instagram location. Sightseeing Included: Doge's Palace entry, private water motorboat excursion to Murano & Burano islands. Evening Experience: Grand farewell dinner party at a traditional canal-side terrace.",
         "activities": [
-          "Sightseeing Included: Doge's Palace entry, Murano & Burano island motorboat excursion",
-          "Evening Experience: Grand farewell dinner on canal-side terrace",
           "Overnight Stay: Venice Island (Handpicked Premium Water-facing Hotel)",
           "Meals Included: International Breakfast & Grand Farewell Dinner"
         ],
@@ -154,10 +157,9 @@
       },
       {
         "day_number": 7,
-        "title": "Venice Departure",
-        "description": "Final morning breakfast along the Grand Canal. Private water taxi to Venice Marco Polo Airport with luggage assistance.",
+        "title": "VENICE DEPARTURE",
+        "description": "Savor your final morning breakfast along the Grand Canal, capturing a final round of family photos. Our concierge handlers take full care of your seamless water checkout and luggage coordination. Board your private water taxi directly to Venice Marco Polo Airport for your departure flight home, concluding an extraordinary premium holiday. Transfers: Private water taxi airport departure transit, complete luggage assistance.",
         "activities": [
-          "Transfers Included: Private water taxi airport departure, luggage assistance",
           "Meals Included: International Buffet Breakfast"
         ],
         "sort_order": 7
@@ -166,201 +168,92 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Hotel Grand Palatino / similar",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Hotel Grand PalatinoHotel Adler Cavalieri Hotel Carlton Grand Canal",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 01: Deluxe — Hotel Grand PalatinoHotel Adler Cavalieri Hotel Carlton Grand Canal",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Hotel Adler Cavalieri / similar",
-        "location": "Florence / Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Starhotels MetropoleNH Collection Palazzo GaddiSplendid Venice Starhotels",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 02: Premium — Starhotels MetropoleNH Collection Palazzo GaddiSplendid Venice Starhotels",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Hotel Carlton Grand Canal / similar",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Anantara Palazzo Naiadi Villa Cora Florence The Gritti Palace Venice",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 03: Luxury — Anantara Palazzo Naiadi Villa Cora Florence The Gritti Palace Venice",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Starhotels Metropole",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Hotel de Russie Four Seasons Firenze Aman Venice / St. Regis",
+        "location": "Multi-city Italy",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — Hotel de Russie Four Seasons Firenze Aman Venice / St. Regis",
         "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "NH Collection Palazzo Gaddi",
-        "location": "Florence",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Splendid Venice Starhotels",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "Anantara Palazzo Naiadi",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Villa Cora Florence",
-        "location": "Florence",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
-      },
-      {
-        "hotel_id": null,
-        "name": "The Gritti Palace Venice",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 9
-      },
-      {
-        "hotel_id": null,
-        "name": "Hotel de Russie",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 10
-      },
-      {
-        "hotel_id": null,
-        "name": "Four Seasons Firenze",
-        "location": "Florence",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 11
-      },
-      {
-        "hotel_id": null,
-        "name": "Aman Venice / St. Regis",
-        "location": "Venice",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 12
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "06 Nights accommodation in family-friendly premium luxury rooms across Rome, Florence, and Venice",
+        "text": "Premium handpicked accommodation across Italy",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Bountiful daily breakfasts and curated specialty dinners",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven MPV",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Private luxury overland vehicles, executive train connections, and water taxis",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 3
       },
       {
-        "kind": "included",
-        "text": "Pre-booked skip-the-line entry to Colosseum, Vatican, and Doge's Palace",
+        "kind": "excluded",
+        "text": "International airfare and Schengen visa fees",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "TRAGUIN local English-speaking destination experts and 24/7 guest care hotline",
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
         "sort_order": 5
       },
       {
         "kind": "excluded",
-        "text": "International flight tickets and Schengen visa processing fees",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
         "sort_order": 6
       },
       {
         "kind": "excluded",
-        "text": "Personal expenses, hotel laundry, telephone calls, mini-bar consumption",
+        "text": "Tipping, porterage fees, and travel insurance",
         "sort_order": 7
-      },
-      {
-        "kind": "excluded",
-        "text": "Tipping, porterage fees, or optional sightseeing not mentioned",
-        "sort_order": 8
       }
     ]
   }

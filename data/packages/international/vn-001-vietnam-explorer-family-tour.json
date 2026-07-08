@@ -2,49 +2,49 @@
   "destination_slug": "vietnam",
   "package": {
     "slug": "vn-001-vietnam-explorer-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "VN-001",
+    "traguin_tour_code": "TRG-VNM-EXP-2026",
     "title": "Vietnam Explorer Family Tour",
     "duration_label": "07 Nights / 08 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 82,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Hanoi (2N) → Halong Bay (2N) → Da Nang/Hoi An (3N) explorer circuit",
+        "text": "Serial code VN-001 | TRAGUIN tour code TRG-VNM-EXP-2026",
         "sort_order": 1
       },
       {
-        "text": "Hanoi heritage exploration & Old Quarter cultural vibe",
+        "text": "Country: Vietnam, Southeast Asia | Category: Premium Vietnam Family Explorer Package",
         "sort_order": 2
       },
       {
-        "text": "Ultra-luxury Halong Bay cruise with cave & cove adventures",
+        "text": "Destinations: Hanoi • Halong Bay • Da Nang • Hoi An • Scenic Heritage Discovery",
         "sort_order": 3
       },
       {
-        "text": "Hoi An Ancient Town UNESCO heritage & coastal celebration",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-VNM-EXP-2026 | Serial VN-001",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
-      "Luxury",
-      "Cultural",
-      "Adventure",
-      "Nature",
-      "Beach"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -56,116 +56,117 @@
     "price_note": "On Request (Premium Vietnam Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Hanoi • Halong Bay • Da Nang • Hoi An • Scenic Heritage Discovery",
-    "overview": "Discover the absolute best of Vietnam with TRAGUIN's curated family explorer expedition. From the historic northern charm of Hanoi and the emerald serenity of Halong Bay to the central coastal beauty of Da Nang and Hoi An, this comprehensive journey ensures unforgettable memories across this stunning nation.",
-    "is_featured": true,
-    "featured_sort_order": 82,
+    "tagline": "Vietnam Explorer Family Tour",
+    "overview": "Hanoi • Halong Bay • Da Nang • Hoi An • Scenic Heritage Discovery 07 Nights / 08 Days Comprehensive Vietnam Family Explorer Expedition SERIAL CODE: VN-002 TRAGUIN TOUR CODE: TRG-VNM-EXP-2026 STATE / COUNTRY: Vietnam CATEGORY: Premium Vietnam Family Explorer Package DURATION: 07 Nights / 08 Days Hanoi (2N) + Halong Bay (2N) + Da Nang/Hoi An (3N)\n\nTOUR OVERVIEW\nDiscover the absolute best of Vietnam with our TRAGUIN curated family explorer expedition. From the historic northern charm of Hanoi and the emerald serenity of Halong Bay to the central coastal beauty of Da Nang and Hoi An, this comprehensive journey ensures your family creates unforgettable memories across this stunning nation. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "VN-001 | Vietnam Explorer Family Tour | TRAGUIN",
-    "seo_description": "Premium 07 Nights / 08 Days Vietnam family explorer package (VN-001): Hanoi, Halong Bay cruise, Da Nang, and Hoi An Ancient Town.",
-    "is_published": true,
+    "seo_description": "Premium 07 Nights / 08 Days Vietnam package (VN-001 / TRG-VNM-EXP-2026): Hanoi • Halong Bay • Da Nang • Hoi An • Scenic Heritage Discovery with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Hanoi Heritage & Old Quarter",
+        "text": "Day 01: ARRIVAL IN HANOI & CULTURAL VIBE",
         "sort_order": 1
       },
       {
-        "text": "Ultra-Luxury Halong Bay Cruise",
+        "text": "Day 02: HANOI HERITAGE EXPLORATION",
         "sort_order": 2
       },
       {
-        "text": "Hoi An UNESCO Ancient Town",
+        "text": "Day 03: HALONG BAY CRUISE COMMENCEMENT",
         "sort_order": 3
       },
       {
-        "text": "Coastal Leisure & Farewell Gala",
+        "text": "Day 04: HALONG BAY ADVENTURE",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: FLIGHT TO DA NANG & HOI AN",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: ANCIENT TOWN & CULTURAL MAGIC",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: COASTAL LEISURE & CELEBRATION",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: DEPARTURE",
+        "sort_order": 8
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Hanoi",
+        "title": "ARRIVAL IN HANOI & CULTURAL VIBE",
         "description": "Arrive in Hanoi. Private transfer to your handpicked premium hotel. Evening at leisure in the historic Old Quarter.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private hotel transfer",
-          "Overnight Stay: Hanoi (Premium Heritage Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Hanoi Heritage Exploration",
-        "description": "Guided city tour of Hanoi's most significant cultural and historical landmarks. A perfect educational introduction to Vietnam's heritage.",
+        "title": "HANOI HERITAGE EXPLORATION",
+        "description": "Guided city tour of Hanoi’s most significant cultural and historical landmarks. A perfect educational introduction to Vietnam’s heritage.",
         "activities": [
-          "Sightseeing Included: Guided Hanoi city tour",
-          "Overnight Stay: Hanoi (Premium Heritage Hotel)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Halong Bay Cruise Commencement",
-        "description": "Travel to Halong Bay. Board your ultra-luxury cruise vessel for an extraordinary journey through the limestone islands with gourmet dining.",
+        "title": "HALONG BAY CRUISE COMMENCEMENT",
+        "description": "Transfer to Halong Bay. Board your ultra-luxury cruise vessel. Savor gourmet dining while sailing through the iconic limestone islands.",
         "activities": [
-          "Sightseeing Included: Transfer to Halong Bay, ultra-luxury cruise boarding",
-          "Overnight Stay: Halong Bay (Ultra-Luxury Cruise)",
-          "Meals Included: Premium Breakfast & Gourmet Cruise Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Halong Bay Adventure",
-        "description": "Enjoy exclusive activities aboard the cruise, including cave exploration, swimming in hidden coves, and spectacular sunset deck views — unforgettable memories.",
+        "title": "HALONG BAY ADVENTURE",
+        "description": "Enjoy exclusive activities aboard the cruise, including cave exploration, swimming in hidden coves, and spectacular sunset deck views—unforgettable memories.",
         "activities": [
-          "Sightseeing Included: Cave exploration, water activities, sunset deck views",
-          "Overnight Stay: Halong Bay (Ultra-Luxury Cruise)",
-          "Meals Included: Premium Breakfast & Gourmet Cruise Dining"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Flight to Da Nang & Hoi An",
-        "description": "Morning cruise brunch. Transfer to the airport for your flight to Da Nang. Check into your luxury coastal family resort in Hoi An.",
+        "title": "FLIGHT TO DA NANG & HOI AN",
+        "description": "Morning cruise brunch. Transfer to the airport for your flight to Da Nang. Transfer to your luxury coastal resort in Hoi An.",
         "activities": [
-          "Sightseeing Included: Cruise brunch, domestic flight to Da Nang, resort transfer",
-          "Overnight Stay: Hoi An/Da Nang (Luxury Coastal Resort)",
-          "Meals Included: Premium Breakfast & Cruise Brunch"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Ancient Town & Cultural Magic",
+        "title": "ANCIENT TOWN & CULTURAL MAGIC",
         "description": "A guided tour of Hoi An's Ancient Town, a UNESCO World Heritage site known for its charming architecture, night markets, and traditional lanterns.",
         "activities": [
-          "Sightseeing Included: Hoi An Ancient Town guided tour",
-          "Overnight Stay: Hoi An/Da Nang (Luxury Coastal Resort)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Coastal Leisure & Celebration",
+        "title": "COASTAL LEISURE & CELEBRATION",
         "description": "A day of leisure at your coastal resort, followed by a grand farewell dinner celebrating your premium Vietnam family explorer expedition.",
         "activities": [
-          "Evening Experience: Grand farewell dinner gala",
-          "Overnight Stay: Hoi An/Da Nang (Luxury Coastal Resort)",
-          "Meals Included: Premium Breakfast & Farewell Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 7
       },
       {
         "day_number": 8,
-        "title": "Departure",
-        "description": "Final breakfast before your TRAGUIN private transfer to the airport, completing your premium Vietnam journey.",
+        "title": "DEPARTURE",
+        "description": "Final breakfast before your TRAGUIN private transfer to the airport, completing your grand Vietnam journey.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 8
       }
@@ -173,94 +174,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Selected Heritage Hotels / similar",
-        "location": "Hanoi",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "Selected Heritage Hotels Ultra-Luxury Cruise Luxury Coastal Resort",
+        "location": "Multi-city Vietnam",
+        "nights_label": "7N",
+        "description": "Option 01: Premium — Selected Heritage Hotels Ultra-Luxury Cruise Luxury Coastal Resort",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Ultra-Luxury Cruise Vessel / similar",
-        "location": "Halong Bay",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Hanoi",
+        "nights_label": "7N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Full Board",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Luxury Coastal Resort / similar",
-        "location": "Hoi An/Da Nang",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Hanoi",
+        "nights_label": "7N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Hanoi",
+        "nights_label": "7N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "07 Nights in handpicked premium family stays across Hanoi, Halong Bay, and Hoi An/Da Nang (explorer route)",
+        "text": "Premium handpicked accommodation across Vietnam",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private executive chauffeur-driven luxury ground transfers",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Domestic flight Da Nang sector and Halong Bay ultra-luxury cruise",
+        "text": "Inter-city transfers and curated sightseeing as per itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Guided Hanoi city tour and Hoi An Ancient Town visit",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "Halong Bay cave exploration and onboard activities",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
-        "sort_order": 6
-      },
-      {
         "kind": "excluded",
-        "text": "International airfare and Vietnam entry visa processing fees",
-        "sort_order": 100
+        "text": "International airfare and Vietnam visa fees",
+        "sort_order": 5
       },
       {
         "kind": "excluded",
         "text": "Personal expenses, laundry, room service, and mini-bar charges",
-        "sort_order": 101
+        "sort_order": 6
       },
       {
         "kind": "excluded",
         "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 102
+        "sort_order": 7
       },
       {
         "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 103
+        "sort_order": 8
       }
     ]
   }

@@ -1,0 +1,291 @@
+{
+  "destination_slug": "uae",
+  "package": {
+    "slug": "uae-007-leisure-dubai-senior-tour",
+    "serial_code": "UAE-007",
+    "traguin_tour_code": "TRG-DXB-SEN-2026",
+    "title": "Leisure Dubai Senior Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UAE-007 | TRAGUIN tour code TRG-DXB-SEN-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Dubai, UAE | Category: Best Dubai Senior Citizen Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Leisure Dubai",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "uae-007-leisure-dubai-senior-itinerary",
+    "title": "Leisure Dubai Senior Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium UAE Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Leisure Dubai Senior Tour",
+    "overview": "Dubai City • Burj Khalifa • Palm Monorail • Al Fahidi Heritage • Miracle Garden 05 Nights / 06 Days Optimized Senior Citizen Leisure Vacation SERIAL CODE: UAE-007 TRAGUIN TOUR CODE: TRG-DXB-SEN-2026 STATE / COUNTRY: Dubai / UAE CATEGORY: Best Dubai Senior Citizen Tour Package DURATION: 05 Nights / 06 Days DESTINATIONS: Leisure Dubai Exploration\n\nTOUR OVERVIEW\nWelcome to an exceptional, slowly paced exploration of the emirate designed by TRAGUIN Experts for senior travelers who prioritize ease of mobility, premium comfort, and enriching cultural immersion. This exclusive Leisure Dubai itinerary carefully minimizes unnecessary walking, avoids peak daytime heat, and handles all logistical details seamlessly, ensuring a compilation of unforgettable memories. Welcome Note from TRAGUIN: We understand that true luxury lies in comfort and care. Your tour features private executive transport, skip-the-line entries, step-free access routes, and highly rated culinary experiences backed by our 24/7 on-ground customer support.\n\nWHY CHOOSE OUR LEISURE DUBAI SENIOR ITINERARY?\nDubai is an elite destination offering total accessibility, world-renowned hospitality, and mesmerizing cityscapes. Booking our signature Dubai Senior Citizen Tour Package ensures your family experiences premium leisure without fatigue. This itinerary features targeted travel keywords for Google ranking, showcasing premier Dubai Sightseeing elements at a relaxed pace. Uncover the city's iconic attractions: experience breathtaking views from the top of Burj Khalifa via prioritized elevators, relax along the scenic walkways of Dubai Marina, glide over pristine waters on a private Creek Abra cruise, and stroll through the flat paths of the Dubai Miracle Garden. It is the absolute Best Time to Visit Dubai to capture stunning photographs, experience immersive experiences, and indulge in a truly rewarding Premium Dubai Experience. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UAE-007 | Leisure Dubai Senior Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Dubai package (UAE-007 / TRG-DXB-SEN-2026): Leisure Dubai with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DUBAI & MARINA WALKWAY",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MODERN CITY ICONS & PRIORITY BURJ KHALIFA",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SCENIC PALM MONORAIL EXPEDITION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: COMFORT HERITAGE SOJOURN & CREEK CRUISE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DUBAI MIRACLE GARDEN & GLOBAL VILLAGE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: FAREWELL DUBAI DEPARTURE",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DUBAI & MARINA WALKWAY",
+        "description": "Arrive in Dubai to a warm VIP greeting inside the terminal. Your private TRAGUIN chauffeur-driven executive van will comfortably escort you to your hotel. After checking in, enjoy a peaceful, gentle evening stroll along the wide, flat wooden promenades of Dubai Marina, soaking in the gentle ocean breeze and coastal city lights. Sightseeing Included: VIP Airport logistics, Dubai Marina orientation stroll. Evening Experience: Relaxed waterfront dinner at a premium accessible restaurant.",
+        "activities": [
+          "Overnight Stay: Dubai City (Handpicked Senior-Friendly Hotel)",
+          "Meals Included: International Welcome Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MODERN CITY ICONS & PRIORITY BURJ KHALIFA",
+        "description": "Enjoy a leisurely breakfast before heading out. Today, explore the modern architectural wonders of New Dubai. Your private vehicle transfers you directly to the Dubai Mall entrance. Utilizing our pre-booked Fast- Track Priority Passes, bypass all standard queues to scale the world's tallest tower, the Burj Khalifa, up to Levels 124/125. Take in the breathtaking landscapes in complete comfort. Sightseeing Included: Burj Khalifa Level 124/125 entry, Mall accessible fountain paths. Evening Experience: Reserved terrace seating for the spectacular Dubai Fountain Light Show over refreshments.",
+        "activities": [
+          "Overnight Stay: Dubai City (Handpicked Senior-Friendly Hotel)",
+          "Meals Included: International Breakfast & Premium View Terrace Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SCENIC PALM MONORAIL EXPEDITION",
+        "description": "ELEVATED TRANSITS – SPECTACULAR MAN-MADE HORIZONS A relaxing morning drive brings you to the gateway station of Palm Jumeirah. Board the fully automated, panoramic Palm Monorail for a scenic journey high above the island's tree spine. Admire luxury villas and coastal waters from your climate-controlled cabin with zero walking fatigue. Arrive at the iconic Atlantis area to explore flat avenues and relax at beachfront cafés. Sightseeing Included: Palm Monorail panoramic tickets, Atlantis waterfront exploration.",
+        "activities": [
+          "Overnight Stay: Dubai City (Handpicked Senior-Friendly Hotel)",
+          "Meals Included: International Breakfast & Casual Seaside Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "COMFORT HERITAGE SOJOURN & CREEK CRUISE",
+        "description": "Delve into the historic soul of old Dubai. Visit the beautifully preserved Al Fahidi Cultural Quarter, enjoying flat, shaded lanes that reflect historical wind-tower living. Later, board a stable, private traditional wooden Abra ferry boat chartered exclusively by TRAGUIN for a smooth cruise across Dubai Creek, exploring spice markets and old-world gold souks at an easy pace. Sightseeing Included: Al Fahidi historic quarter walk, private chartered Abra cruise, Old Souks trail.",
+        "activities": [
+          "Overnight Stay: Dubai City (Handpicked Senior-Friendly Hotel)",
+          "Meals Included: International Breakfast & Traditional Heritage Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DUBAI MIRACLE GARDEN & GLOBAL VILLAGE",
+        "description": "Explore the breathtaking floral structures inside the Dubai Miracle Garden, moving smoothly along wide, well- paved, step-free networks with plenty of seating spaces. In the evening, visit the vibrant Global Village to discover cultural pavilions, international crafts, and evening theatrical performances, celebrating with a beautiful grand finale dinner party. Sightseeing Included: Miracle Garden flower tickets, Global Village evening pavilion passes.",
+        "activities": [
+          "Overnight Stay: Dubai City (Handpicked Senior-Friendly Hotel)",
+          "Meals Included: International Breakfast & Grand Farewell Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "FAREWELL DUBAI DEPARTURE",
+        "description": "Savor your final morning breakfast at your leisure. Our concierge team takes full care of your luggage logistics and smooth checkout. Your private vehicle transfers you smoothly to Dubai International Airport for your return flight, concluding a flawless premium holiday. Transfers: Private luxury van departure transfer, comprehensive luggage assistance.",
+        "activities": [
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Marquis Dubai Excellent layout, minimized hallway walks.",
+        "location": "Multi-city UAE",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — JW Marriott Marquis Dubai Excellent layout, minimized hallway walks.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Dubai Downtown Priority elevator blocks for elderly guests.",
+        "location": "Multi-city UAE",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — Taj Dubai Downtown Priority elevator blocks for elderly guests.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Palace Downtown Dubai Direct flat surface step-free access to fountains.",
+        "location": "Multi-city UAE",
+        "nights_label": "5N",
+        "description": "Option 03: Luxury — The Palace Downtown Dubai Direct flat surface step-free access to fountains.",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Armani Hotel Dubai (Burj Khalifa)24/7 dedicated personal butler concierge care.",
+        "location": "Multi-city UAE",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — Armani Hotel Dubai (Burj Khalifa)24/7 dedicated personal butler concierge care.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 05 Nights stay in senior-optimized luxury rooms",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Bountiful breakfasts and daily comfort-first multi-cuisine dinners",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: All ground logistics in Private Luxury Executive AC Vans",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Skip-the-line VIP entries for Burj Khalifa & attractions",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated medical concierge assistance and local guide",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Accommodation: 05 Nights stay in senior-optimized luxury rooms",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Bountiful breakfasts and daily comfort-first multi-cuisine dinners",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: All ground logistics in Private Luxury Executive AC Vans",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Skip-the-line VIP entries for Burj Khalifa & attractions",
+        "sort_order": 9
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated medical concierge assistance and local guide",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights & Travel Insurance fees",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, telephone calls",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage, or optional entry tours not specified",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Flights & Travel Insurance fees",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, telephone calls",
+        "sort_order": 15
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage, or optional entry tours not specified",
+        "sort_order": 16
+      }
+    ]
+  }
+}

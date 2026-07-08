@@ -2,48 +2,49 @@
   "destination_slug": "vietnam",
   "package": {
     "slug": "vn-005-vietnam-ladies-escape",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "VN-005",
+    "traguin_tour_code": "TRG-VNM-LAD-2026",
     "title": "Vietnam Ladies Escape",
     "duration_label": "05 Nights / 06 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 86,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Hanoi (3N) → Coastal Sanctuary (2N) premium ladies retreat",
+        "text": "Serial code VN-005 | TRAGUIN tour code TRG-VNM-LAD-2026",
         "sort_order": 1
       },
       {
-        "text": "Chic Hanoi shopping gems & fashion boutique tour",
+        "text": "Country: Vietnam, Southeast Asia | Category: Premium Ladies Escape Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Exclusive Vietnamese culinary masterclass",
+        "text": "Destinations: Hanoi Shopping • Boutique Stays • Culinary Masterclasses • Coastal Relaxation",
         "sort_order": 3
       },
       {
-        "text": "Coastal spa rejuvenation & farewell gala under the stars",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 ladies retreat concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-VNM-LAD-2026 | Serial VN-005",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Solo",
       "Luxury",
-      "Cultural",
-      "Beach",
-      "Spiritual"
+      "Honeymoon"
     ]
   },
   "itinerary": {
@@ -52,97 +53,94 @@
     "duration_label": "05 Nights / 06 Days",
     "duration_days": 6,
     "starting_price": 0,
-    "price_note": "On Request (Premium Ladies Retreat Experience)",
+    "price_note": "On Request (Premium Vietnam Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Hanoi Shopping • Boutique Stays • Culinary Masterclasses • Coastal Relaxation",
-    "overview": "Rejuvenate, explore, and bond with TRAGUIN's curated Vietnam Ladies Escape. Designed for style and relaxation, this journey combines the chic boutiques of Hanoi, private culinary masterclasses, and ultimate coastal rejuvenation — ensuring unforgettable memories in the most elegant corners of Vietnam.",
-    "is_featured": true,
-    "featured_sort_order": 86,
+    "tagline": "Vietnam Ladies Escape",
+    "overview": "05 Nights / 06 Days Premium Vietnam Ladies Retreat SERIAL CODE: VN-005 TRAGUIN TOUR CODE: TRG-VNM-LAD-2026 STATE / COUNTRY: Vietnam CATEGORY: Premium Ladies Escape Tour Package DURATION: 05 Nights / 06 Days Hanoi & Coastal Sanctuary\n\nTOUR OVERVIEW\nRejuvenate, explore, and bond with our TRAGUIN curated Vietnam Ladies Escape. Designed for style and relaxation, this journey combines the chic boutiques of Hanoi, private culinary masterclasses, and ultimate coastal rejuvenation, ensuring unforgettable memories in the most elegant corners of Vietnam. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "VN-005 | Vietnam Ladies Escape | TRAGUIN",
-    "seo_description": "Premium 05 Nights / 06 Days Vietnam ladies retreat (VN-005): Hanoi shopping, culinary masterclass, and coastal spa rejuvenation.",
-    "is_published": true,
+    "seo_description": "Premium 05 Nights / 06 Days Vietnam package (VN-005 / TRG-VNM-LAD-2026): Hanoi Shopping • Boutique Stays • Culinary Masterclasses • Coastal Relaxation with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Stylish Hanoi Welcome Dinner",
+        "text": "Day 01: ARRIVAL IN HANOI & STYLE WELCOME",
         "sort_order": 1
       },
       {
-        "text": "Chic Shopping & Fashion Boutiques",
+        "text": "Day 02: CHIC SHOPPING & HANOI CHARM",
         "sort_order": 2
       },
       {
-        "text": "Private Vietnamese Culinary Masterclass",
+        "text": "Day 03: CULINARY MASTERCLASS",
         "sort_order": 3
       },
       {
-        "text": "Coastal Spa & Farewell Gala",
+        "text": "Day 04: COASTAL REJUVENATION",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: COASTAL LEISURE & FAREWELL GALA",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Hanoi & Style Welcome",
+        "title": "ARRIVAL IN HANOI & STYLE WELCOME",
         "description": "Arrive in Hanoi. Private chauffeur transfer to a handpicked boutique hotel. Evening welcome dinner in a stylish, garden-setting restaurant.",
         "activities": [
-          "Sightseeing Included: Private chauffeur transfer, stylish welcome dinner",
-          "Overnight Stay: Hanoi (Boutique Heritage Hotel)",
-          "Meals Included: Welcome Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Chic Shopping & Hanoi Charm",
-        "description": "A guided tour of Hanoi's hidden shopping gems and chic fashion boutiques. Perfect for a day of style and discovery, creating unforgettable memories.",
+        "title": "CHIC SHOPPING & HANOI CHARM",
+        "description": "A guided tour of Hanoi’s hidden shopping gems and chic fashion boutiques. Perfect for a day of style and discovery, creating unforgettable memories. TRAGUIN Ladies Retreats •",
         "activities": [
-          "Sightseeing Included: Guided shopping and boutique tour",
-          "Overnight Stay: Hanoi (Boutique Heritage Hotel)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Culinary Masterclass",
-        "description": "Join an exclusive culinary masterclass, learning to prepare authentic Vietnamese dishes in a beautiful, private garden setting.",
+        "title": "CULINARY MASTERCLASS",
+        "description": "Join an exclusive experience culinary masterclass, learning to prepare authentic Vietnamese dishes in a beautiful, private garden setting.",
         "activities": [
-          "Sightseeing Included: Private Vietnamese culinary masterclass",
-          "Overnight Stay: Hanoi (Boutique Heritage Hotel)",
-          "Meals Included: Premium Breakfast & Masterclass Lunch"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Coastal Rejuvenation",
-        "description": "Transfer to a pristine coastal sanctuary. Spend the day indulging in personalized spa therapies and relaxation by the private beach — a premium retreat.",
+        "title": "COASTAL REJUVENATION",
+        "description": "Transfer to a pristine coastal sanctuary. Spend the day indulging in personalized spa therapies and relaxation by the private beach—a premium retreat.",
         "activities": [
-          "Sightseeing Included: Transfer to coastal sanctuary, personalized spa therapies",
-          "Overnight Stay: Coastal Sanctuary (Luxury Resort & Spa)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Coastal Leisure & Farewell Gala",
+        "title": "COASTAL LEISURE & FAREWELL GALA",
         "description": "Final day of coastal leisure and boutique shopping, followed by a grand farewell gala dinner under the stars, celebrating the perfect ladies' escape.",
         "activities": [
-          "Evening Experience: Grand farewell gala dinner under the stars",
-          "Overnight Stay: Coastal Sanctuary (Luxury Resort & Spa)",
-          "Meals Included: Premium Breakfast & Gala Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Final luxury breakfast before your TRAGUIN private chauffeur transfer to the airport, completing your premium Vietnam retreat.",
         "activities": [
-          "Sightseeing Included: Private chauffeur airport transfer",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       }
@@ -150,81 +148,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Boutique Heritage Hotels / similar",
-        "location": "Hanoi",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "Boutique Heritage Hotels Luxury Coastal Resort & Spa TRAGUIN Ladies Retreats •",
+        "location": "Multi-city Vietnam",
+        "nights_label": "5N",
+        "description": "Option 01: Premium — Boutique Heritage Hotels Luxury Coastal Resort & Spa TRAGUIN Ladies Retreats •",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Luxury Coastal Resort & Spa / similar",
-        "location": "Coastal Sanctuary",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Hanoi Shopping",
+        "nights_label": "5N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Hanoi Shopping",
+        "nights_label": "5N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Hanoi Shopping",
+        "nights_label": "5N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "05 Nights in handpicked boutique hotels across Hanoi and a coastal sanctuary",
+        "text": "Premium handpicked accommodation across Vietnam",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private chauffeur-driven luxury transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Guided Hanoi shopping and fashion boutique tour",
+        "text": "Inter-city transfers and curated sightseeing as per itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Exclusive private Vietnamese culinary masterclass",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "Personalized spa therapies and coastal rejuvenation",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated ladies retreat concierge support",
-        "sort_order": 6
-      },
-      {
         "kind": "excluded",
-        "text": "International airfare and Vietnam entry visa processing fees",
-        "sort_order": 100
+        "text": "International airfare and Vietnam visa fees",
+        "sort_order": 5
       },
       {
         "kind": "excluded",
         "text": "Personal expenses, laundry, room service, and mini-bar charges",
-        "sort_order": 101
+        "sort_order": 6
       },
       {
         "kind": "excluded",
         "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 102
+        "sort_order": 7
       },
       {
         "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 103
+        "sort_order": 8
       }
     ]
   }

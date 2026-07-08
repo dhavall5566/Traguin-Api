@@ -1,0 +1,233 @@
+{
+  "destination_slug": "malaysia",
+  "package": {
+    "slug": "my-004-langkawi-romance-package",
+    "serial_code": "MY-004",
+    "traguin_tour_code": "TRG-LGK-ROM-2026",
+    "title": "Langkawi Romance Package",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MY-004 | TRAGUIN tour code TRG-LGK-ROM-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Malaysia, Asia | Category: Best Langkawi Honeymoon Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Langkawi (4 Nights",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "my-004-langkawi-romance-itinerary",
+    "title": "Langkawi Romance Package",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Malaysia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Langkawi Romance Package",
+    "overview": "Langkawi Island • SkyBridge • Kilim Geoforest • Sunset Yacht Cruise 04 Nights / 05 Days Ultra-Luxury Honeymoon Retreat SERIAL CODE: MY-004 TRAGUIN TOUR CODE: TRG-LGK-ROM-2026 STATE / COUNTRY: Malaysia CATEGORY: Best Langkawi Honeymoon Package DURATION: 04 Nights / 05 Days DESTINATIONS: Langkawi (4 Nights Luxury Beachfront Stay)\n\nTOUR OVERVIEW\nEscape into tranquility with our Langkawi Romance getaway, a masterfully crafted TRAGUIN experience designed for couples seeking intimate moments. Nestled in a breathtaking archipelago, Langkawi offers the ultimate setting for romance with scenic beauty, handpicked hotels, and curated experiences that guarantee unforgettable memories. THE LANGKAWI ROMANCE EXPERIENCE Langkawi is the jewel of Malaysia, a paradise of turquoise waters and lush rainforests. Known for its iconic SkyBridge, world-class luxury resorts, and romantic sunset yacht cruises, Langkawi is the ultimate destination for couples. Experience exclusive experiences like private island picnics and serene mangrove explorations in this Luxury Langkawi Holiday. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MY-004 | Langkawi Romance Package | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Malaysia package (MY-004 / TRG-LGK-ROM-2026): Langkawi (4 Nights with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN LANGKAWI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HIGHLAND VISTAS & SKYBRIDGE",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MANGROVE & GEOFOREST EXPLORATION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SUNSET YACHT CRUISE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN LANGKAWI",
+        "description": "Arrive in Langkawi, where your TRAGUIN concierge greets you for a private transfer to your resort. Enjoy a sunset welcome at your beachfront villa and prepare for a romantic trip ahead.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HIGHLAND VISTAS & SKYBRIDGE",
+        "description": "Explore breathtaking landscapes via the SkyCab cable car. Walk across the iconic SkyBridge for unparalleled scenic beauty and panoramic island views.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MANGROVE & GEOFOREST EXPLORATION",
+        "description": "Embark on a private boat journey through the Kilim Geoforest Park. Immersive experiences await as you explore secret caves, hidden lagoons, and diverse wildlife.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SUNSET YACHT CRUISE",
+        "description": "Indulge in a curated sunset yacht cruise, watching the horizon transform into golden hues. A truly iconic attraction and the perfect romantic end to your Langkawi Honeymoon Package.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Enjoy a leisurely morning breakfast before your private transfer to the airport. Depart Langkawi with unforgettable memories crafted by TRAGUIN.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Adya Hotel Langkawi",
+        "location": "Malaysia",
+        "nights_label": "4N",
+        "description": "Option 01: Deluxe — Adya Hotel Langkawi",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Pelangi Beach Resort & Spa",
+        "location": "Malaysia",
+        "nights_label": "4N",
+        "description": "Option 02: Premium — Pelangi Beach Resort & Spa",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Westin Langkawi",
+        "location": "Malaysia",
+        "nights_label": "4N",
+        "description": "Option 03: Luxury — The Westin Langkawi",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Datai Langkawi",
+        "location": "Malaysia",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — The Datai Langkawi",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Malaysia",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

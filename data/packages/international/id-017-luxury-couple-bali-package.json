@@ -1,0 +1,285 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-017-luxury-couple-bali-package",
+    "serial_code": "ID-017",
+    "traguin_tour_code": "TRAGUIN-BALI-000",
+    "title": "Luxury Couple Bali Package",
+    "duration_label": "06 NIGHTS / 07 DAYS",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ID-017 | TRAGUIN tour code TRAGUIN-BALI-000",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Bali, Indonesia | Category: Premium Haryana Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ubud (3",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Couples' Experiences: Enjoy pre-arranged VIP entry keys that bypass all public",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Support: 24/7 dedicated on-ground",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Premium Travel | Luxury Honeymoon Experts 5",
+        "sort_order": 10
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-017-luxury-couple-bali-package-itinerary",
+    "title": "Luxury Couple Bali Package",
+    "duration_label": "06 NIGHTS / 07 DAYS",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury Couple Bali Package",
+    "overview": "BESPOKE ROMANTIC ESCAPES • 06 NIGHTS / 07 DAYS Welcome to an exceptionally romantic journey orchestrated by TRAGUIN Experts. Immerse yourselves in the absolute epitome of tropical intimacy with our signature Bali Honeymoon Package layout. From the misty, lush green ravines of Ubud where infinity pools merge seamlessly into jungle canopies, to the dramatic clifftops and golden sandy beaches of Uluwatu and Seminyak, this tailored Luxury Bali Holiday ensures curated experiences, complete couples' privacy, and unforgettable memories that linger forever. SERIAL CODE ID-017 TRAGUIN TOUR CODETRAGUIN- BALI-CP-017 STATE / COUNTRY Bali / Indonesia CATEGORY Premium Romantic Luxury / Honeymoon DURATION 06 Nights / 07 Days DESTINATIONS COVERED: Ubud (3 Nights) • Seminyak / Jimbaran (3 Nights) TRAGUIN Premium Travel | Luxury Honeymoon Experts 1 IDEAL FOR Couples, Honeymooners, Anniversary Celebrations BEST TIME TO VISIT BALI April to October (Dry and sun-kissed season) STARTING PRICE On Request (Exclusive Premium Curation) VEHICLE Private Luxury Chauffeur Alphard / Innova Reborn\n\nTOUR OVERVIEW\nThe Best Bali Tour Package for couples is meticulously curated to blend unhurried personal relaxation with immersive, romantic cultural discovery. Your journey begins with a 3-night stay in the artistic soul of the island —Ubud—residing in handpicked luxury pool villas that offer unparalleled romantic privacy. Transition down south to the vibrant upscale coastlines of Seminyak or Jimbaran for another 3 nights of breathtaking landscapes, elite beach clubs, and iconic temple sunsets. Experience personalized daily luxury transportation, candlelit fine-dining encounters, and seamless execution with TRAGUIN support. THE MAGIC OF A LUXURY BALI HOLIDAY FOR COUPLES Bali is universally recognized as one of the world's most romantic islands. By choosing our dedicated TRAGUIN Bali Packages, couples unlock access to unforgettable locations and high-end aesthetic experiences designed to strengthen connections. Famous Attractions & Intimate Experiences: Walk hand-in-hand through the iconic Tegalalang Rice Terraces, capture dramatic photographs on the high-soaring Bali Swing, and find tranquility at the sacred water temple of Tirta Empul. Witness the breathtaking offshore Tanah Lot Temple at dusk, and see the ancient clifftop Uluwatu Temple overlooking a roaring ocean horizon. Top Tourist Places & Instagram Spots: From floating villa breakfasts in your private pool to spectacular seaside dining at Jimbaran Bay, every moment creates a sensory story. Take romantic sunset strolls through Seminyak's boutique streets, capture stunning photos at Kanto Lampo Waterfall, or indulge in side-by-side Balinese spa treatments. This is the ultimate Premium Bali Experience tailored for couples seeking elegance, sophistication, and pure magic.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ID-017 | Luxury Couple Bali Package | TRAGUIN",
+    "seo_description": "Premium 06 NIGHTS / 07 DAYS Bali package (ID-017 / TRAGUIN-BALI-000): Ubud (3 with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BALI • ROMANTIC PRIVATE VILLA WELCOME",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: UBUD HIGHLANDS, BALI SWING & EMERALD RICE TERRACES",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MYSTICAL WATERFALLS & HOLY WATER PURIFICATION COUPLING",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: UBUD TO SEMINYAK COASTLINE • TANAH LOT SEA TEMPLE SUNSET",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: EXCLUSIVE SUN-KISSED DAY AT AN ELITE BEACH CLUB",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: ULUWATU CLIFF TEMPLE, KECAK FIRE DANCE & JIMBARAN SEAFOOD DINNER",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: SOUVENIRS SHOPPING & FOND FAREWELL TO PARADISE",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN  Signature  Couples'  Experiences: Enjoy  pre-arranged  VIP  entry  keys  that  bypass  all  public",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Support: 24/7 dedicated on-ground",
+        "sort_order": 9
+      },
+      {
+        "text": "TRAGUIN Premium Travel | Luxury Honeymoon Experts 5",
+        "sort_order": 10
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BALI • ROMANTIC PRIVATE VILLA WELCOME",
+        "description": "TRAGUIN Premium Travel | Luxury Honeymoon Experts 2 Arrive together at Denpasar International Airport where your private TRAGUIN Luxury Concierge awaits at the VIP exit. Receive traditional Balinese frangipani garlands, cold towels, and a refreshing tropical beverage before boarding your private luxury car. Ascend through emerald countryside roads to your handpicked rainforest resort in Ubud. Check into your ultra-private luxury pool villa, beautifully decorated with complimentary honeymoon floral art. oasis.",
+        "activities": [
+          "Sightseeing Included: Airport VIP Welcome, Private Luxury Transfer.",
+          "Evening Experience: Leisure unpacking followed by a romantic candlelit dinner served inside your private villa",
+          "Overnight Stay: Ubud (Private Pool Villa Tier) | Meals Included: Welcome Drink & Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "UBUD HIGHLANDS, BALI SWING & EMERALD RICE TERRACES",
+        "description": "Awake to the soothing sounds of the jungle and savor your first iconic floating breakfast in your private pool. Today, discover the breathtaking landscapes of Ubud. Walk through the ancient multi-tiered Tegalalang Rice Terraces, capturing gorgeous couples' photos. Next, feel the thrill of the famous Bali Swing, soaring over deep rainforest valleys. Conclude the afternoon with a peaceful stroll through the Sacred Monkey Forest Sanctuary.",
+        "activities": [
+          "Sightseeing Included: Tegalalang Rice Terraces, Bali Swing Adventure, Ubud Monkey Forest, Art Market.",
+          "Photography Points: Mid-air on the Bali Swing with panoramic valley backdrops.",
+          "Overnight Stay: Ubud | Meals Included: Floating Breakfast"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MYSTICAL WATERFALLS & HOLY WATER PURIFICATION COUPLING",
+        "description": "Immerse yourselves in Bali's rich cultural heritage. Travel along beautiful country roads to the sacred water temple of Pura Tirta Empul. Participate together in a traditional Melukat water purification ritual led by a local priest. Later, visit Kanto Lampo Waterfall, a spectacular cascading waterfall perfect for stunning artistic photography. Spend your evening exploring Ubud's intimate candlelit cafes and artisanal markets.",
+        "activities": [
+          "Sightseeing Included: Tirta Empul Temple Ritual, Kanto Lampo Waterfall, Ubud Palace.",
+          "Optional Activities: A private couple's holistic wellness and sound healing session in Ubud.",
+          "Overnight Stay: Ubud | Meals Included: Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "UBUD TO SEMINYAK COASTLINE • TANAH LOT SEA TEMPLE SUNSET",
+        "description": "Bid farewell to the serene valleys of Ubud as your TRAGUIN Premium Bali Tour Package moves to the stylish southwest coast. Check into an ultra-luxury beach resort in Seminyak or Jimbaran. In the late afternoon, your chauffeur takes you to the iconic Tanah Lot Temple, built on a jagged offshore rock formation. Watch a glorious golden sunset over the Indian Ocean as waves crash gently against the temple's base. TRAGUIN Premium Travel | Luxury Honeymoon Experts 3 beachfront lounge.",
+        "activities": [
+          "Sightseeing Included: South Bali Transfer, Iconic Tanah Lot Sea Temple.",
+          "Evening Experience: Stroll through Seminyak's high-end boutique streets and enjoy premium cocktails at a stylish",
+          "Overnight Stay: Seminyak / Jimbaran Beach Resort | Meals Included: Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "EXCLUSIVE SUN-KISSED DAY AT AN ELITE BEACH CLUB",
+        "description": "Enjoy a blissfully free day dedicated entirely to unhurried relaxation, a true hallmark of a Luxury Bali Holiday. Lounge together under a private cabana at one of Bali's most famous beach clubs, such as Atlas Beach Fest or Potato Head. Listen to chilled house music, dip into oceanfront infinity pools, and sip curated tropical cocktails as you watch the surf roll onto the shore.",
+        "activities": [
+          "Sightseeing Included: Premium Beach Club Access & Reserved Daybed Day.",
+          "Optional Activities: A multi-hour luxurious couples' floral bath spa treatment at a world-class wellness center.",
+          "Overnight Stay: Seminyak / Jimbaran | Meals Included: Breakfast"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "ULUWATU CLIFF TEMPLE, KECAK FIRE DANCE & JIMBARAN SEAFOOD DINNER",
+        "description": "Your final full day features unforgettable sights. Travel to the southern tip of the Bukit Peninsula to explore Uluwatu Temple, perched dramatically on a sheer cliff 70 meters above the ocean. At sunset, enjoy front-row seats at the captivating Kecak Fire Dance performance in an open-air amphitheater. Afterward, enjoy a romantic, candlelit seafood dinner right on the soft sands of Jimbaran Bay.",
+        "activities": [
+          "Sightseeing Included: Uluwatu Cliff Temple, Sunset Kecak Dance, Jimbaran Bay Seafood Dinner.",
+          "Evening Experience: Toast to your love with fine wine as the tide gently comes in.",
+          "Overnight Stay: Seminyak / Jimbaran | Meals Included: Breakfast & Premium Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "SOUVENIRS SHOPPING & FOND FAREWELL TO PARADISE",
+        "description": "Savor a final gourmet breakfast overlooking the ocean. Spend your morning picking up unique local souvenirs, from fine hand-woven silk textiles to premium Kintamani single-origin coffee beans. At the designated hour, your private luxury transport arrives to take you to Denpasar International Airport for your flight home, carrying a treasure trove of unforgettable memories curated flawlessly by TRAGUIN. Best Time to Visit Note: Booking 45-60 days ahead secures the best luxury pool villas during peak dry months. TRAGUIN Premium Travel | Luxury Honeymoon Experts 4",
+        "activities": [
+          "Sightseeing Included: Private Departure Airport Transfer.",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Ubud (3",
+        "nights_label": "6N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Ubud (3",
+        "nights_label": "6N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Ubud (3",
+        "nights_label": "6N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Ubud (3",
+        "nights_label": "6N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 Nights Stay: Selected luxury couples' properties",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "PACKAGE INCLUSIONS",
+        "sort_order": 2
+      },
+      {
+        "kind": "excluded",
+        "text": "Airfare: International roundtrip flights",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "Visa Cost: Visa on Arrival fees",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Extra Tours: Optional experiences not explicitly listed",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Comprehensive medical travel cover",
+        "sort_order": 6
+      }
+    ]
+  }
+}

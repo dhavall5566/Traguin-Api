@@ -2,47 +2,48 @@
   "destination_slug": "italy",
   "package": {
     "slug": "it-003-luxury-italy-grand-expedition",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "IT-003",
+    "traguin_tour_code": "TRG-ITA-LUXURY-2026",
     "title": "Luxury Italy Grand Expedition",
     "duration_label": "07 Nights / 08 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 47,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Rome (2N) → Tuscany (2N) → Lake Como (2N) → Venice (1N) sovereign circuit",
+        "text": "Serial code IT-003 | TRAGUIN tour code TRG-ITA-LUXURY-2026",
         "sort_order": 1
       },
       {
-        "text": "Colosseum Gladiator's Gate & after-hours Vatican access",
+        "text": "Country: Italy, Europe | Category: Luxury Italy Holiday Grand Expedition",
         "sort_order": 2
       },
       {
-        "text": "Private helicopter to Tuscany & Riva yacht on Lake Como",
+        "text": "Destinations: Rome (2N) • Florence /",
         "sort_order": 3
       },
       {
-        "text": "Uffizi, Accademia VIP & Bellagio botanical gardens",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 personal butler coordination",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-ITA-LUXURY-2026 | Serial IT-003",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Luxury",
-      "Family",
-      "Cultural",
-      "Romantic"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -51,124 +52,127 @@
     "duration_label": "07 Nights / 08 Days",
     "duration_days": 8,
     "starting_price": 0,
-    "price_note": "On Request (Ultra-Luxury Italy Experience)",
+    "price_note": "On Request (Premium Customised)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Rome • Tuscany • Lake Como • Venice",
-    "overview": "Indulge in the absolute zenith of European opulence with TRAGUIN's sovereign expedition. Private after-hours Vatican access, helicopter flight across Tuscan vineyards, custom Riva yacht on Lake Como, and historic Venetian palazzo stays — designed for the world's most discerning travelers.",
-    "is_featured": true,
-    "featured_sort_order": 47,
+    "tagline": "Luxury Italy Grand Expedition",
+    "overview": "Rome Private After-Hours • Private Tuscan Estate • Lake Como Riva Charter • Venetian Palace Stays 07 Nights / 08 Days Ultimate Ultra-Luxury Italy Sovereign Showcase SERIAL CODE: IT-003 TRAGUIN TOUR CODE: TRG-ITA-LUXURY-2026 STATE / COUNTRY: Italy / Europe CATEGORY: Luxury Italy Holiday Grand Expedition DURATION: 07 Nights / 08 Days DESTINATIONS COVERED: Rome (2N) • Florence / Tuscany (2N) • Lake Como (2N) • Venice (1N)\n\nTOUR OVERVIEW\nIndulge in the absolute zenith of European opulence with our crown jewel TRAGUIN curated sovereign expedition. Meticulously designed for the world's most discerning travelers, this Luxury Italy Holiday links high-security ancient private openings, Michelin-starred gastronomic estates, classic wood-hulled lake transits, and historic grand canal palaces to create seamless, unforgettable memories. Sovereign Note from TRAGUIN: Uncompromised discretion is our signature. This 8-day private journey includes comprehensive VIP airfield arrivals, dedicated luxury ground logistics in private high-end vehicles, priority fast-track entry protocols, and personal concierge managers handling all movement lines perfectly.\n\nWHY CHOOSE OUR ULTIMATE LUXURY ITALY FRAMEWORK?\nItaly represents the world's finest canvas of lifestyle heritage, majestic architecture, and sartorial craftsmanship. Booking our flagship Premium Italy Experience guarantees an unparalleled curation of the country's ultimate treasures. This professional proposal format relies on highly searches keywords for Google ranking, ensuring an exceptional client presentation format for elite travelers looking for high-end Italy Sightseeing marvels. Discover Top Tourist Places in Italy through unprecedented access: walk through the Colosseum via private gladiator gates, access Vatican collections after-hours, cruise on custom-crafted Riva yachts past legendary Lake Como villas, and reside inside historic Venetian palazzos. It is the absolute Best Time to Visit Italy to experience curated experiences, celebrate exclusive experiences, and photograph breathtaking landscapes in ultimate sophistication. TRAGUIN Luxury Signatures: Private after-hours access to the Vatican Museums, helicopter flight across the Tuscan vineyards, private chartered wooden Riva boat day on Lake Como, and elite personal butler assignments throughout the grand stays. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "IT-003 | Luxury Italy Grand Expedition | TRAGUIN",
-    "seo_description": "Ultra-luxury 07 Nights / 08 Days Italy package (IT-003): Colosseum private access, after-hours Vatican, helicopter to Tuscany, Lake Como Riva yacht, and Venice palazzo stay.",
-    "is_published": true,
+    "seo_description": "Premium 07 Nights / 08 Days Italy package (IT-003 / TRG-ITA-LUXURY-2026): Rome (2N) • Florence / with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Colosseum Gladiator's Gate Private Entry",
+        "text": "Day 01: ARRIVAL IN THE ETERNAL CITY & PRIVATE COLOSSEUM ENTRY",
         "sort_order": 1
       },
       {
-        "text": "After-Hours Vatican & Sistine Chapel",
+        "text": "Day 02: PRIVATE AFTER-HOURS VATICAN ACCESS",
         "sort_order": 2
       },
       {
-        "text": "Private Helicopter to Tuscany",
+        "text": "Day 03: ROME TO TUSCANY VIA PRIVATE HELICOPTER FLIGHT",
         "sort_order": 3
       },
       {
-        "text": "Mahogany Riva Yacht on Lake Como",
+        "text": "Day 04: PRIVILEGED FLORENCE CONCIERGE & DUOMO TRAIL",
         "sort_order": 4
       },
       {
-        "text": "Venice Grand Canal Palazzo Stay",
+        "text": "Day 05: TUSCANY TO LAKE COMO VIA RIVA YACHT CHARTER",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: LAKE COMO SECLUSION & BELLAGIO CHARM",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: HIGH-SPEED LUXURY RAIL TRANSIT TO VENICE BALCONIES",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: HIGH-END RESORT FAREWELL & DEPARTURE",
+        "sort_order": 8
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Rome & Private Colosseum Entry",
-        "description": "VIP aircraft-side greeting at Rome Fiumicino. Private luxury transfer to hotel. Exclusive Colosseum tour through the Gladiator's Gate to the arena floor. Michelin-starred rooftop welcome dinner.",
+        "title": "ARRIVAL IN THE ETERNAL CITY & PRIVATE COLOSSEUM ENTRY",
+        "description": "ROME SOVEREIGN ARRIVAL – EXCLUSIVE GLADIATOR GATE PATHWAYS Your ultimate Luxury Italy Holiday begins with VIP aircraft-side greeting at Rome Fiumicino Airport. Skip all customs lines via private pathways as your dedicated TRAGUIN luxury chauffeur transfers you to your hotel in a premium high-end sedan. In the afternoon, enjoy an exclusive, private tour of the monumental Colosseum, entering directly through the Gladiator's Gate to stand alone on the arena floor away from public access corridors. Sightseeing Included: VIP aircraft-side airfield greeting, Colosseum private arena floor entrance. Evening Experience: Welcome multi-course dinner at a Michelin-starred rooftop restaurant overlooking the Roman Forum.",
         "activities": [
-          "Sightseeing Included: VIP aircraft-side greeting, Colosseum private arena floor entrance",
-          "Evening Experience: Michelin-starred rooftop welcome dinner overlooking Roman Forum",
-          "Overnight Stay: Rome Centre (Ultra-Luxury Heritage Palace Hotel)",
+          "Overnight Stay: Rome Centre (Handpicked Ultra-Luxury Heritage Palace Hotel)",
           "Meals Included: Gourmet Tasting Menu Welcome Dinner"
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Private After-Hours Vatican Access",
-        "description": "Relaxed morning shopping on Via Condotti. Private after-hours tour of Vatican Museums and Sistine Chapel with historian guide.",
+        "title": "PRIVATE AFTER-HOURS VATICAN ACCESS",
+        "description": "SISTINE CHAPEL IN SILENCE – UNPRECEDENTED ARTISTIC PRIVILEGE Savor a gourmet breakfast served privately in your suite. Spend a relaxed morning shopping for tailored couture along Via Condotti. In the evening, experience the ultimate milestone: a private, after-hours tour of the Vatican Museums and the Sistine Chapel after the doors close to the public. Walk through the hall of maps in complete silence and stand directly under Michelangelo's ceiling alone with your private historian guide. Sightseeing Included: Exclusive after-hours private Vatican Museums & Sistine Chapel opening.",
         "activities": [
-          "Sightseeing Included: Exclusive after-hours private Vatican Museums & Sistine Chapel opening",
-          "Overnight Stay: Rome Centre (Ultra-Luxury Heritage Palace Hotel)",
+          "Overnight Stay: Rome Centre (Handpicked Ultra-Luxury Heritage Palace Hotel)",
           "Meals Included: International Breakfast & Traditional Roman Fine Dining Lunch"
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Rome to Tuscany via Private Helicopter",
-        "description": "Luxury helicopter flight across Val d'Orcia to medieval castle wine estate. Private Brunello cellar tasting with head sommelier.",
+        "title": "ROME TO TUSCANY VIA PRIVATE HELICOPTER FLIGHT",
+        "description": "SKYWARD LUXURY – VAL D'ORCIA VISTAS & PRIVATE WINE RETREAT Check out as your chauffeur transfers you to the private helipad. Board a luxury helicopter for a breathtaking flight north across the rolling, cypress-lined breathtaking landscapes of Tuscany's Val d'Orcia. Land directly on the lawn of an ultra-exclusive medieval castle wine estate. Spend your afternoon enjoying a private vineyard tour and a rare vintage Brunello collection tasting with the estate's head sommelier. Sightseeing Included: Private helicopter flight from Rome to Tuscany, Brunello private cellar tasting.",
         "activities": [
-          "Sightseeing Included: Private helicopter Rome to Tuscany, Brunello private cellar tasting",
-          "Overnight Stay: Tuscany Estate (Ultra-Luxury Wine Resort & Sanctuary)",
+          "Overnight Stay: Tuscany Estate (Handpicked Ultra-Luxury Wine Resort & Sanctuary)",
           "Meals Included: International Breakfast & Exclusive Vineyard Estate Pairing Lunch"
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Privileged Florence Concierge & Duomo Trail",
-        "description": "Private VIP access to Uffizi and Accademia Galleries. Private shopping with fashion consultant in Florence leather workshops. Return to countryside estate.",
+        "title": "PRIVILEGED FLORENCE CONCIERGE & DUOMO TRAIL",
+        "description": "RENAISSANCE MASTERY – MICHELANGELO'S DAVID IN PRIVATE VIEW Your private chauffeur transfers you to Florence in a high-end luxury vehicle. Enjoy private, priority access to the Uffizi Gallery and Accademia Gallery to stand face-to-face with Michelangelo's David. Later, enjoy private fashion ateliers before returning to your serene countryside estate. Sightseeing Included: Uffizi & Accademia VIP private entry, Duomo private terrace balcony look.",
         "activities": [
-          "Sightseeing Included: Uffizi & Accademia VIP private entry, Duomo private terrace balcony",
-          "Overnight Stay: Tuscany Estate (Ultra-Luxury Wine Resort & Sanctuary)",
+          "shopping: with an expert personal fashion consultant inside the city's historic leather workshops and high-",
+          "Overnight Stay: Tuscany Estate (Handpicked Ultra-Luxury Wine Resort & Sanctuary)",
           "Meals Included: International Breakfast & Fine Dining Tuscan Gastronomy Dinner"
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Tuscany to Lake Como via Riva Yacht Charter",
-        "description": "Private executive transfer to Lake Como. Board custom mahogany-hulled Riva speedboat past Villa d'Este and Villa del Balbianello to lakeside palace resort.",
+        "title": "TUSCANY TO LAKE COMO VIA RIVA YACHT CHARTER",
+        "description": "ALPINE GLAMOUR – THE WATERWAY ENTRANCE TO SUNSET VILLAS Travel north via a private executive transfer to the spectacular alpine shores of Lake Como. Arrive at the private pier to board a custom, mahogany-hulled Riva speedboat chartered exclusively by TRAGUIN Experts. Cruise past legendary historic villas like Villa d'Este and Villa del Balbianello, sipping fine champagne as you arrive directly at your ultra-luxury lakeside palace resort. Sightseeing Included: Private high-end overland transfer, private mahogany Riva Yacht charter cruise.",
         "activities": [
-          "Sightseeing Included: Private transfer, private mahogany Riva yacht charter cruise",
-          "Overnight Stay: Lake Como (Ultra-Luxury Waterfront Palace Resort)",
+          "Overnight Stay: Lake Como (Handpicked Ultra-Luxury Waterfront Palace Resort)",
           "Meals Included: International Breakfast & Lakeside Al Fresco Gourmet Dinner"
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Lake Como Seclusion & Bellagio Charm",
-        "description": "Morning at resort spa and floating pool. Private water craft to Bellagio. Villa Melzi botanical gardens with private guide.",
+        "title": "LAKE COMO SECLUSION & BELLAGIO CHARM",
+        "description": "AMPHIBIOUS REFINEMENT – PRIVATE SPEEDED EXPEDITIONS Spend a relaxing morning enjoying your resort's floating swimming pool and private world-class spa facilities. In the afternoon, your private water craft escorts you to the beautiful village of Bellagio. Explore the terraced botanical gardens of Villa Melzi with a private guide, capturing magnificent view blocks of the sapphire lake water and surrounding mountain peaks. Sightseeing Included: Villa Melzi botanical private pass, private water taxi transfers to Bellagio.",
         "activities": [
-          "Sightseeing Included: Villa Melzi botanical private pass, private water taxi to Bellagio",
-          "Overnight Stay: Lake Como (Ultra-Luxury Waterfront Palace Resort)",
+          "Overnight Stay: Lake Como (Handpicked Ultra-Luxury Waterfront Palace Resort)",
           "Meals Included: International Breakfast & Fine Dining Lakefront Dinner"
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "High-Speed Rail to Venice & Grand Canal Apex",
-        "description": "High-speed executive train to Venice. Private water taxi to grand canal palazzo. Vintage wooden vessel sunset cruise. Grand farewell candlelight dinner on private terrace.",
+        "title": "HIGH-SPEED LUXURY RAIL TRANSIT TO VENICE BALCONIES",
+        "description": "THE FLOATING PALAZZO – PRIVATE WATER TAXI & GRAND CANAL APEX Board the high-speed Executive Train to Venice, enjoying total privacy. Upon arrival, a private luxury water taxi escorts your family to your grand canal palazzo hotel. In the evening, enjoy a private sunset cruise aboard a historic vintage wooden vessel, sipping refreshments while drifting past the magnificent Venetian architecture as the city lights illuminate. Sightseeing Included: High-speed executive rail transit, private water taxi, vintage vessel sunset cruise. Evening Experience: Grand farewell candlelight dinner event on a private terrace facing the Grand Canal.",
         "activities": [
-          "Sightseeing Included: High-speed executive rail, private water taxi, vintage vessel sunset cruise",
-          "Evening Experience: Grand farewell candlelight dinner facing Grand Canal",
-          "Overnight Stay: Venice Island (Grand Luxury Canal-view Palace Hotel)",
+          "Overnight Stay: Venice Island (Handpicked Grand Luxury Canal-view Palace Hotel)",
           "Meals Included: International Breakfast & Grand Farewell Venetian Dinner"
         ],
         "sort_order": 7
       },
       {
         "day_number": 8,
-        "title": "High-End Resort Farewell & Departure",
-        "description": "Luxurious breakfast on private terrace. Personal butler handles checkout. Private water taxi to Venice Marco Polo VIP terminal.",
+        "title": "HIGH-END RESORT FAREWELL & DEPARTURE",
+        "description": "SOVEREIGN CLOSING – SEAMLESS AIRPORT WATER TRANSIT Savor a luxurious breakfast on your private terrace overlooking the Venetian lagoon. Your dedicated personal butler handles all checkout lines and luggage coordination seamlessly. Board your private water taxi directly to Venice Marco Polo Airport's VIP terminal for your departure flight home, concluding an extraordinary grand vacation. Transfers: Private luxury water taxi airport departure transit, VIP luggage coordination. HANDPICKED ELITE SOVEREIGN ACCOMMODATIONS Category Rome Centre (2N) Tuscany Hills (2N)Lake Como Resort (2N) Venice Palazzo (1N) OPTION 01 – DELUXE Hotel Grand Palatino Hotel Adler CavalieriGrand Hotel Tremezzo Hotel Carlton Grand Canal OPTION 02 – PREMIUM Starhotels Metropole Borgo San Luigi Chianti Villa d'Este Lake Como Splendid Venice Starhotels OPTION 03 – LUXURY Anantara Palazzo Naiadi Castello di Velona Resort Mandarin Oriental Como The Gritti Palace Venice OPTION 04 – ULTRA LUXURY Hotel de Russie Rosewood Castiglion del Bosco Il Sereno / Villa d'Este Palace Aman Venice / St. Regis Grand",
         "activities": [
-          "Transfers Included: Private water taxi to airport VIP terminal, luggage coordination",
           "Meals Included: International Buffet Breakfast"
         ],
         "sort_order": 8
@@ -177,258 +181,122 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Hotel Grand Palatino / similar",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Hotel Grand Palatino Hotel Adler CavalieriGrand Hotel Tremezzo Hotel Carlton Grand Canal",
+        "location": "Multi-city Italy",
+        "nights_label": "7N",
+        "description": "Option 01: Deluxe — Hotel Grand Palatino Hotel Adler CavalieriGrand Hotel Tremezzo Hotel Carlton Grand Canal",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Hotel Adler Cavalieri / similar",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Starhotels Metropole Borgo San Luigi Chianti Villa d'Este Lake Como Splendid Venice Starhotels",
+        "location": "Multi-city Italy",
+        "nights_label": "7N",
+        "description": "Option 02: Premium — Starhotels Metropole Borgo San Luigi Chianti Villa d'Este Lake Como Splendid Venice Starhotels",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Grand Hotel Tremezzo / similar",
-        "location": "Lake Como",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "Anantara Palazzo Naiadi Castello di Velona Resort Mandarin Oriental Como The Gritti Palace Venice",
+        "location": "Multi-city Italy",
+        "nights_label": "7N",
+        "description": "Option 03: Luxury — Anantara Palazzo Naiadi Castello di Velona Resort Mandarin Oriental Como The Gritti Palace Venice",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Hotel Carlton Grand Canal / similar",
-        "location": "Venice",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "Hotel de Russie Rosewood Castiglion del Bosco Il Sereno / Villa d'Este Palace Aman Venice / St. Regis Grand",
+        "location": "Multi-city Italy",
+        "nights_label": "7N",
+        "description": "Option 04: Ultra Luxury — Hotel de Russie Rosewood Castiglion del Bosco Il Sereno / Villa d'Este Palace Aman Venice / St. Regis Grand",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "Starhotels Metropole",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Borgo San Luigi Chianti",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "Villa d'Este Lake Como",
-        "location": "Lake Como",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Splendid Venice Starhotels",
-        "location": "Venice",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
-      },
-      {
-        "hotel_id": null,
-        "name": "Anantara Palazzo Naiadi",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 9
-      },
-      {
-        "hotel_id": null,
-        "name": "Castello di Velona Resort",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 10
-      },
-      {
-        "hotel_id": null,
-        "name": "Mandarin Oriental Como",
-        "location": "Lake Como",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 11
-      },
-      {
-        "hotel_id": null,
-        "name": "The Gritti Palace Venice",
-        "location": "Venice",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 12
-      },
-      {
-        "hotel_id": null,
-        "name": "Hotel de Russie",
-        "location": "Rome",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 13
-      },
-      {
-        "hotel_id": null,
-        "name": "Rosewood Castiglion del Bosco",
-        "location": "Tuscany",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 14
-      },
-      {
-        "hotel_id": null,
-        "name": "Il Sereno / Villa d'Este Palace",
-        "location": "Lake Como",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 15
-      },
-      {
-        "hotel_id": null,
-        "name": "Aman Venice / St. Regis Grand",
-        "location": "Venice",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 16
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "07 Nights in world-renowned ultra-luxury palaces, wine resorts, and lake-view suites",
+        "text": "Elite Stays: 07 Nights in world-renowned ultra-luxury palaces, wine resorts, and lake-view suites",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private after-hours Vatican Museums access and Colosseum Gladiator's Gate entries",
+        "text": "VIP Entrances: Private After-Hours Vatican Museums access and Colosseum Gladiator's Gate entries",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Private helicopter flight from Rome to Tuscan estate",
+        "text": "Air Logistics: Private Helicopter Flight from Rome to your Tuscan estate lawn",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Private mahogany Riva yacht day on Lake Como and vintage vessel cruise in Venice",
+        "text": "Ground & Rail: Full ground transits in private high-end vehicles and executive first-class train layouts",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "Full ground transits in private high-end vehicles and executive first-class trains",
+        "text": "TRAGUIN Concierge: Dedicated 24/7 on-call personal butler coordination and local destination experts",
         "sort_order": 5
       },
       {
         "kind": "included",
-        "text": "TRAGUIN dedicated 24/7 personal butler coordination and destination experts",
+        "text": "Elite Stays: 07 Nights in world-renowned ultra-luxury palaces, wine resorts, and lake-view suites",
         "sort_order": 6
       },
       {
-        "kind": "excluded",
-        "text": "International flight tickets and Schengen visa processing fees",
+        "kind": "included",
+        "text": "VIP Entrances: Private After-Hours Vatican Museums access and Colosseum Gladiator's Gate entries",
         "sort_order": 7
       },
       {
-        "kind": "excluded",
-        "text": "Personal expenses, room service, dry cleaning, and mini-bar billing",
+        "kind": "included",
+        "text": "Air Logistics: Private Helicopter Flight from Rome to your Tuscan estate lawn",
         "sort_order": 8
       },
       {
-        "kind": "excluded",
-        "text": "Optional tours or individual gourmet dinners not specified in the itinerary",
+        "kind": "included",
+        "text": "Ground & Rail: Full ground transits in private high-end vehicles and executive first-class train layouts",
         "sort_order": 9
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Concierge: Dedicated 24/7 on-call personal butler coordination and local destination experts",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and Schengen Visa entry processing fees",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, hotel room service, dry cleaning, mini-bar billing",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extreme tours or individual gourmet dinners not specified in the flow",
+        "sort_order": 13
       }
     ]
   }

@@ -1,0 +1,234 @@
+{
+  "destination_slug": "switzerland",
+  "package": {
+    "slug": "ch-004-jungfrau-explorer-family-tour",
+    "serial_code": "SW-004",
+    "traguin_tour_code": "TRG-SWI-JUN-2026",
+    "title": "Jungfrau Explorer Family Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-004 | TRAGUIN tour code TRG-SWI-JUN-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Switzerland | Category: Best Jungfrau Family Explorer Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Zurich • Interlaken • Jungfraujoch • Lauterbrunnen • Alpine Adventures",
+        "sort_order": 3
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 4
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 5
+      }
+    ],
+    "moods": [
+      "Family",
+      "Nature"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-004-jungfrau-explorer-family-tour-itinerary",
+    "title": "Jungfrau Explorer Family Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Switzerland Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Zurich • Interlaken • Jungfraujoch • Lauterbrunnen • Alpine Adventures",
+    "overview": "Zurich • Interlaken • Jungfraujoch • Lauterbrunnen • Alpine Adventures 06 Nights / 07 Days Comprehensive Jungfrau Family Explorer Expedition SERIAL CODE: CH-004 TRAGUIN TOUR CODE: TRG-SWI-JUN-2026 STATE / COUNTRY: Switzerland CATEGORY: Best Jungfrau Family Explorer Tour Package DURATION: 06 Nights / 07 Days Zurich (1N) + Interlaken (5N)\n\nTOUR OVERVIEW\nDiscover the majesty of the Jungfrau region with our TRAGUIN curated family explorer expedition. From the vibrant city of Zurich to the breathtaking alpine landscapes of Interlaken and the legendary Jungfraujoch, this journey ensures your family creates unforgettable memories in the heart of the Swiss Alps. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-004 | Jungfrau Explorer Family Tour | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Switzerland package (CH-004 / TRG-SWI-JUN-2026): Zurich • Interlaken • Jungfraujoch • Lauterbrunnen • Alpine Adventures.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN ZURICH",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: TRANSFER TO INTERLAKEN",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: JUNGFRAUJOCH EXCURSION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: LAUTERBRUNNEN & VALLEY VIEWS",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: ALPINE ADVENTURE DAY",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: LAKE BRIENZ LEISURE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN ZURICH",
+        "description": "Arrive in Zurich. Private transfer to your handpicked premium hotel. Evening at leisure to enjoy the sophisticated city vibe.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "TRANSFER TO INTERLAKEN",
+        "description": "Scenic transfer to Interlaken, nestled between two stunning lakes. Check into your luxury alpine family retreat.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "JUNGFRAUJOCH EXCURSION",
+        "description": "A spectacular journey to Jungfraujoch—the Top of Europe. Experience breathtaking panoramic views, perfect for family discovery.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "LAUTERBRUNNEN & VALLEY VIEWS",
+        "description": "Explore the stunning Lauterbrunnen Valley, known for its dramatic waterfalls and alpine charm—creating unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "ALPINE ADVENTURE DAY",
+        "description": "Enjoy a day of high-altitude adventure, including scenic cable car rides or easy family treks through the glorious mountain landscape.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "LAKE BRIENZ LEISURE",
+        "description": "A relaxing day exploring Lake Brienz or enjoying a gentle boat tour, celebrating your premium Swiss family expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer to the airport, completing your premium Jungfrau explorer expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Premium Luxury City Hotel / similar",
+        "location": "Zurich",
+        "nights_label": "1N",
+        "description": "OPTION 01 – PREMIUM: Premium Luxury City Hotel",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Alpine Family Resort / similar",
+        "location": "Interlaken",
+        "nights_label": "5N",
+        "description": "OPTION 02 – PREMIUM: Luxury Alpine Family Resort",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "06 Nights in handpicked premium hotels across Zurich • Interlaken • Jungfraujoch • Lauterbrunnen • Alpine Adventures",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Jungfraujoch — Top of Europe excursion",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Lauterbrunnen Valley scenic exploration",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Lake Brienz leisure and private boat excursion",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Switzerland entry visa processing fees",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 10
+      }
+    ]
+  }
+}

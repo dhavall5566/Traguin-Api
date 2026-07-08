@@ -2,47 +2,50 @@
   "destination_slug": "uae",
   "package": {
     "slug": "uae-001-dubai-essentials-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "UAE-001",
+    "traguin_tour_code": "TRG-DXB-ESS-2026",
     "title": "Dubai Essentials Family Tour",
     "duration_label": "04 Nights / 05 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 75,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Dubai (4N) classic family city break",
+        "text": "Serial code UAE-001 | TRAGUIN tour code TRG-DXB-ESS-2026",
         "sort_order": 1
       },
       {
-        "text": "Burj Khalifa, Dubai Mall & Palm Jumeirah city tour",
+        "text": "Country: Dubai, UAE | Category: Best Dubai Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Thrilling desert safari with BBQ dinner under the stars",
+        "text": "Destinations: Dubai City",
         "sort_order": 3
       },
       {
-        "text": "Global Village cultural pavilions & family entertainment",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-DXB-ESS-2026 | Serial UAE-001",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Adventure",
-      "Cultural"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -51,86 +54,81 @@
     "duration_label": "04 Nights / 05 Days",
     "duration_days": 5,
     "starting_price": 0,
-    "price_note": "On Request (Premium Dubai Experience)",
+    "price_note": "On Request (Premium UAE Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Dubai • Burj Khalifa • Desert Safari • Palm Jumeirah • Global Village",
-    "overview": "Discover the dazzling heights and golden dunes of Dubai with this TRAGUIN curated family itinerary. Designed for excitement and comfort, this Dubai Essentials package offers a flawless blend of futuristic city exploration and traditional desert adventure — with handpicked hotels and exclusive services.",
-    "is_featured": true,
-    "featured_sort_order": 75,
+    "tagline": "Dubai Essentials Family Tour",
+    "overview": "Dubai • Burj Khalifa • Desert Safari • Palm Jumeirah • Global Village 04 Nights / 05 Days Classic Dubai Family Holiday SERIAL CODE: UAE-001 TRAGUIN TOUR CODE: TRG-DXB-ESS-2026 STATE / COUNTRY: Dubai / UAE CATEGORY: Best Dubai Family Tour Package DURATION: 04 Nights / 05 Days DESTINATIONS: Dubai City\n\nTOUR OVERVIEW\nDiscover the dazzling heights and golden dunes of Dubai with this TRAGUIN curated family itinerary. Designed for excitement and comfort, this Dubai Essentials package offers a flawless blend of futuristic city exploration and traditional desert adventure. Experience the best of Emirati hospitality with TRAGUIN's handpicked hotels and exclusive services. THE IMMERSIVE DUBAI FAMILY EXPERIENCE Dubai is a world-class playground for families, offering endless excitement for all ages. From the towering Burj Khalifa to the thrilling dunes of a desert safari, our curated experiences promise a premium Dubai experience. With TRAGUIN, you get professional support and exclusive experiences that redefine the family holiday. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "UAE-001 | Dubai Essentials Family Tour | TRAGUIN",
-    "seo_description": "Premium 04 Nights / 05 Days Dubai family package (UAE-001): Burj Khalifa, desert safari, Palm Jumeirah, and Global Village.",
-    "is_published": true,
+    "seo_description": "Premium 04 Nights / 05 Days Dubai package (UAE-001 / TRG-DXB-ESS-2026): Dubai City with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Burj Khalifa & Dubai Mall",
+        "text": "Day 01: ARRIVAL IN DUBAI",
         "sort_order": 1
       },
       {
-        "text": "Desert Safari & BBQ Dinner",
+        "text": "Day 02: CITY TOUR & BURJ KHALIFA",
         "sort_order": 2
       },
       {
-        "text": "Palm Jumeirah City Tour",
+        "text": "Day 03: DESERT SAFARI ADVENTURE",
         "sort_order": 3
       },
       {
-        "text": "Global Village Family Day",
+        "text": "Day 04: GLOBAL VILLAGE & LEISURE",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Dubai",
-        "description": "Arrive in dazzling Dubai. Your private TRAGUIN transfer will escort you to your handpicked hotel. Enjoy a relaxing evening overlooking the city's stunning skyline.",
+        "title": "ARRIVAL IN DUBAI",
+        "description": "Arrive in dazzling Dubai. Your private TRAGUIN transfer will escort you to your handpicked hotel. Enjoy a relaxing evening overlooking the city’s stunning skyline.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private hotel transfer",
-          "Overnight Stay: Dubai (Luxury Family Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "City Tour & Burj Khalifa",
+        "title": "CITY TOUR & BURJ KHALIFA",
         "description": "Explore the iconic attractions of Dubai. Visit the Burj Khalifa, the Dubai Mall, and Palm Jumeirah. This curated experience offers deep insights into Dubai's rapid development.",
         "activities": [
-          "Sightseeing Included: Burj Khalifa, Dubai Mall, Palm Jumeirah city tour",
-          "Overnight Stay: Dubai (Luxury Family Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Desert Safari Adventure",
-        "description": "Embark on a thrilling desert safari. Experience dune bashing, camel riding, and a traditional BBQ dinner under the stars — a highlight of TRAGUIN's exclusive packages.",
+        "title": "DESERT SAFARI ADVENTURE",
+        "description": "Embark on a thrilling desert safari. Experience dune bashing, camel riding, and a traditional BBQ dinner under the stars—a highlight of TRAGUIN's exclusive packages.",
         "activities": [
-          "Sightseeing Included: Desert safari, dune bashing, camel riding, BBQ dinner",
-          "Overnight Stay: Dubai (Luxury Family Hotel)",
-          "Meals Included: Breakfast & Desert BBQ Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Global Village & Leisure",
+        "title": "GLOBAL VILLAGE & LEISURE",
         "description": "A full day of immersive fun at Global Village. Explore cultural pavilions, shopping, and entertainment, creating unforgettable memories.",
         "activities": [
-          "Sightseeing Included: Global Village full-day visit",
-          "Overnight Stay: Dubai (Luxury Family Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Enjoy a final family breakfast. Your private TRAGUIN chauffeur ensures a comfortable transfer to the airport.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: International Buffet Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       }
@@ -138,81 +136,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Atlantis, The Palm / similar",
-        "location": "Dubai",
-        "nights_label": "04 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Dubai City",
+        "nights_label": "4N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Address Downtown / similar",
-        "location": "Dubai",
-        "nights_label": "04 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Dubai City",
+        "nights_label": "4N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Atlantis, The Palm / Address Downtown",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 03: Luxury — Atlantis, The Palm / Address Downtown",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Dubai City",
+        "nights_label": "4N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "04 Nights in handpicked premium family hotel in Dubai",
+        "text": "Premium handpicked accommodation across Dubai and the UAE",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private luxury van transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Dubai city tour — Burj Khalifa, Dubai Mall & Palm Jumeirah",
+        "text": "Inter-emirate transfers and curated sightseeing as per itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Desert safari with dune bashing, camel riding & BBQ dinner",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "Global Village full-day visit",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
-        "sort_order": 6
-      },
-      {
         "kind": "excluded",
-        "text": "International airfare and UAE entry visa processing fees",
-        "sort_order": 7
+        "text": "International airfare and UAE visa fees",
+        "sort_order": 5
       },
       {
         "kind": "excluded",
         "text": "Personal expenses, laundry, room service, and mini-bar charges",
-        "sort_order": 8
+        "sort_order": 6
       },
       {
         "kind": "excluded",
         "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 9
+        "sort_order": 7
       },
       {
         "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 10
+        "sort_order": 8
       }
     ]
   }

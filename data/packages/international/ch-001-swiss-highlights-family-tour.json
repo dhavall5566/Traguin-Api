@@ -3,46 +3,39 @@
   "package": {
     "slug": "ch-001-swiss-highlights-family-tour",
     "serial_code": "SW-001",
-    "traguin_tour_code": null,
+    "traguin_tour_code": "TRG-SWI-HIG-2026",
     "title": "Swiss Highlights Family Tour",
     "duration_label": "06 Nights / 07 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 34,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Zurich (1N) → Lucerne (2N) → Interlaken (3N) family circuit",
+        "text": "Serial code CH-001 | TRAGUIN tour code TRG-SWI-HIG-2026",
         "sort_order": 1
       },
       {
-        "text": "Chapel Bridge, lake cruise & Mt. Titlis snow adventure",
+        "text": "Country: Switzerland | Category: Best Swiss Highlights Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Jungfraujoch — Top of Europe excursion",
+        "text": "Destinations: Zurich • Lucerne • Mt. Titlis • Interlaken • Swiss Alps • Scenic Rail Journeys",
         "sort_order": 3
       },
       {
-        "text": "Scenic Swiss Alps rail journeys & alpine leisure",
+        "text": "Best season: October to March",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Starting price: On Request",
         "sort_order": 5
-      },
-      {
-        "text": "Tour code TRG-SWI-HIG-2026 | Serial CH-001",
-        "sort_order": 6
       }
     ],
     "moods": [
-      "Family",
-      "Luxury",
-      "Nature",
-      "Adventure"
+      "Family"
     ]
   },
   "itinerary": {
@@ -54,109 +47,104 @@
     "price_note": "On Request (Premium Switzerland Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Zurich • Lucerne • Mt. Titlis • Interlaken • Swiss Alps",
-    "overview": "Discover the breathtaking beauty of the Swiss Alps with TRAGUIN's curated family expedition. This comprehensive journey takes your family through pristine lakes, majestic peaks, and scenic rail journeys across Zurich, Lucerne, and Interlaken — ensuring unforgettable memories in Switzerland's most stunning landscapes. Includes private executive transfers, handpicked premium family stays, and 24/7 on-ground concierge support. Best season: May to September.",
-    "is_featured": true,
-    "featured_sort_order": 34,
+    "tagline": "Zurich • Lucerne • Mt. Titlis • Interlaken • Swiss Alps • Scenic Rail Journeys",
+    "overview": "Zurich • Lucerne • Mt. Titlis • Interlaken • Swiss Alps • Scenic Rail Journeys 06 Nights / 07 Days Comprehensive Swiss Highlights Family Expedition SERIAL CODE: CH-001 TRAGUIN TOUR CODE: TRG-SWI-HIG-2026 STATE / COUNTRY: Switzerland CATEGORY: Best Swiss Highlights Family Tour Package DURATION: 06 Nights / 07 Days Zurich (1N) + Lucerne (2N) + Interlaken (3N)\n\nTOUR OVERVIEW\nDiscover the breathtaking beauty of the Swiss Alps with our TRAGUIN curated family expedition. This comprehensive journey takes your family through pristine lakes, majestic peaks, and scenic rail journeys, ensuring unforgettable memories in the most stunning landscapes of Switzerland. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "CH-001 | Swiss Highlights Family Tour | TRAGUIN",
-    "seo_description": "Premium 06 Nights / 07 Days Switzerland family package (CH-001): Zurich, Lucerne, Mt. Titlis, Jungfraujoch, and Interlaken with scenic rail journeys.",
-    "is_published": true,
+    "seo_description": "Premium 06 Nights / 07 Days Switzerland package (CH-001 / TRG-SWI-HIG-2026): Zurich • Lucerne • Mt. Titlis • Interlaken • Swiss Alps • Scenic Rail Journeys.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Chapel Bridge & Lucerne Lake Cruise",
+        "text": "Day 01: ARRIVAL IN ZURICH",
         "sort_order": 1
       },
       {
-        "text": "Mt. Titlis Cable Car & Snow Activities",
+        "text": "Day 02: TRANSFER TO LUCERNE",
         "sort_order": 2
       },
       {
-        "text": "Jungfraujoch — Top of Europe",
+        "text": "Day 03: MT. TITLIS ADVENTURE",
         "sort_order": 3
       },
       {
-        "text": "Interlaken Alpine Leisure",
+        "text": "Day 04: TRANSFER TO INTERLAKEN",
         "sort_order": 4
       },
       {
-        "text": "Scenic Swiss Rail Journeys",
+        "text": "Day 05: JUNGFRAUJOCH EXCURSION",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: ALPINE LEISURE & EXPLORATION",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Zurich",
-        "description": "Arrive in Zurich. Private transfer to your handpicked premium hotel. Evening at leisure to enjoy the city's sophisticated charm.",
+        "title": "ARRIVAL IN ZURICH",
+        "description": "Arrive in Zurich. Private transfer to your handpicked premium hotel. Evening at leisure to enjoy the city’s sophisticated charm.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private hotel transfer",
-          "Overnight Stay: Zurich (Luxury City Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Transfer to Lucerne",
-        "description": "Scenic transfer to Lucerne. Visit the iconic Chapel Bridge and take a peaceful lake cruise — a classic Swiss experience.",
+        "title": "TRANSFER TO LUCERNE",
+        "description": "Scenic transfer to Lucerne. Visit the iconic Chapel Bridge and take a peaceful lake cruise, a classic Swiss experience.",
         "activities": [
-          "Sightseeing Included: Chapel Bridge walk, Lucerne lake cruise",
-          "Overnight Stay: Lucerne (Premium Lake View Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Mt. Titlis Adventure",
+        "title": "MT. TITLIS ADVENTURE",
         "description": "Ascend to Mt. Titlis by cable car. Enjoy snow activities at the summit, creating unforgettable memories for your family.",
         "activities": [
-          "Sightseeing Included: Mt. Titlis cable car ascent, summit snow activities",
-          "Overnight Stay: Lucerne (Premium Lake View Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Transfer to Interlaken",
+        "title": "TRANSFER TO INTERLAKEN",
         "description": "Transfer to Interlaken, the adventure heart of Switzerland. Check into your luxury alpine retreat.",
         "activities": [
-          "Sightseeing Included: Scenic transfer to Interlaken",
-          "Overnight Stay: Interlaken (Luxury Alpine Retreat)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Jungfraujoch Excursion",
-        "description": "A spectacular journey to Jungfraujoch — the Top of Europe. Experience breathtaking panoramic views and high-altitude excitement.",
+        "title": "JUNGFRAUJOCH EXCURSION",
+        "description": "A spectacular journey to Jungfraujoch—the Top of Europe. Experience breathtaking panoramic views and high-altitude excitement.",
         "activities": [
-          "Sightseeing Included: Jungfraujoch Top of Europe excursion",
-          "Overnight Stay: Interlaken (Luxury Alpine Retreat)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Alpine Leisure & Exploration",
-        "description": "A day of leisure or gentle exploration in the scenic surroundings — perfect for family bonding in the Swiss Alps.",
+        "title": "ALPINE LEISURE & EXPLORATION",
+        "description": "A day of leisure or gentle exploration in the scenic surroundings, perfect for family bonding in the Swiss Alps.",
         "activities": [
-          "Sightseeing Included: Leisure day in Interlaken region",
-          "Overnight Stay: Interlaken (Luxury Alpine Retreat)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Final luxury breakfast before your TRAGUIN private transfer to the airport, completing your premium Swiss highlights expedition.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: International Buffet Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 7
       }
@@ -164,13 +152,13 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Luxury City Hotel / similar",
+        "name": "Premium Luxury City Hotel / similar",
         "location": "Zurich",
-        "nights_label": "01 Night",
-        "description": null,
+        "nights_label": "1N",
+        "description": "OPTION 01 – PREMIUM: Premium Luxury City Hotel",
         "stars": 5,
         "category_label": "Premium",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 1
@@ -179,11 +167,11 @@
         "hotel_id": null,
         "name": "Premium Lake View Hotel / similar",
         "location": "Lucerne",
-        "nights_label": "02 Nights",
-        "description": null,
+        "nights_label": "2N",
+        "description": "OPTION 02 – PREMIUM: Premium Lake View Hotel",
         "stars": 5,
         "category_label": "Premium",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 2
@@ -192,11 +180,11 @@
         "hotel_id": null,
         "name": "Luxury Alpine Retreat / similar",
         "location": "Interlaken",
-        "nights_label": "03 Nights",
-        "description": null,
+        "nights_label": "3N",
+        "description": "OPTION 03 – PREMIUM: Luxury Alpine Retreat",
         "stars": 5,
         "category_label": "Premium",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 3
@@ -205,12 +193,12 @@
     "inclusions": [
       {
         "kind": "included",
-        "text": "06 Nights in handpicked premium family hotels across Zurich, Lucerne, and Interlaken",
+        "text": "06 Nights in handpicked premium hotels across Zurich • Lucerne • Mt. Titlis • Interlaken • Swiss Alps • Scenic Rail Journeys",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private executive chauffeur-driven luxury ground transfers",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
         "sort_order": 2
       },
       {
@@ -230,7 +218,7 @@
       },
       {
         "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 6
       },
       {

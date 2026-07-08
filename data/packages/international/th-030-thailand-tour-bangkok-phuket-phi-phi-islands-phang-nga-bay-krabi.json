@@ -1,0 +1,273 @@
+{
+  "destination_slug": "thailand",
+  "package": {
+    "slug": "th-030-thailand-tour-bangkok-phuket-phi-phi-islands-phang-nga-bay-krabi",
+    "serial_code": "TH-030",
+    "traguin_tour_code": "TRG-THA-ULT-2026",
+    "title": "THAILAND TOUR Bangkok • Phuket • Phi Phi Islands • Phang Nga Bay • Krabi",
+    "duration_label": "08 Nights / 09 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TH-030 | TRAGUIN tour code TRG-THA-ULT-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Thailand | Category: Ultimate Luxury Holiday",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Bangkok (3N) + Phuket",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Chauffeur- Driven Luxury Sedans & Executive Vans / Bespoke Floating Breakfasts, Michelin Dining & Sunset Galas",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom yachts and premium river cruises, completely",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified premium luxury resorts featuring maximum isolation,",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local island guides to manage reservation priorities",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Elite executive vehicles equipped with specialized suspension systems,",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "th-030-thailand-tour-bangkok-phuket-phi-phi-islands-phang-nga-bay-krabi-itinerary",
+    "title": "THAILAND TOUR Bangkok • Phuket • Phi Phi Islands • Phang Nga Bay • Krabi",
+    "duration_label": "08 Nights / 09 Days",
+    "duration_days": 9,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "THAILAND TOUR Bangkok",
+    "overview": "pic voyage of opulence with the Best Thailand Tour Package, curated exclusively by TRAGUIN to unite the high-fashion metropolitan energy of Bangkok, the azure island serenity of Phuket, and the limestone majesty of Krabi. This definitive Luxury Thailand Holiday uncovers breathtaking landscapes, places you inside handpicked hotels of worldwide distinction, and crafts unforgettable memories.\n\nTOUR OVERVIEW\nWelcome to your bespoke Ultimate Thailand adventure, a comprehensive luxury experience designed for guests who command seamless operational perfection, absolute private security, and elite lifestyle inclusions. Across 9 spectacular days, TRAGUIN brings you a flawless mix of urban glamour, private marine yachting, and total rejuvenation within premier retreats. TRAGUIN Curated Experience Note: Every phase of your holiday is actively managed by our luxury concierge desk. From pre-allocated fast-track airport arrivals to personalized chef-driven dining tracks and custom multi-destination logistics, we ensure every detail of your journey is flawlessly immersive.\n\nWHY CHOOSE OUR ULTIMATE THAILAND LUXURY PACKAGE?\nThailand remains an international masterpiece of luxury travel, effortlessly combining ancient royal heritage with ultra-modern private estates and Michelin-starred culinary landscapes. Selecting one of our signature TRAGUIN Thailand Packages or an elite Thailand Honeymoon Package guarantees access to hidden domains and priority privileges. This proposal utilizes top searched keywords for Google ranking, showcasing an elite layout of premier Thailand Sightseeing marvels. Uncover legendary attractions: the historical grandeur of Bangkok's Grand Palace, the breathtaking emerald lagoons of the Phi Phi Islands, the sheer vertical limestone monuments of Krabi’s Railay Beach, and the high- fashion retail centers of the capital. It is widely recognized as the Best Time to Visit Thailand to experience highly sought-after popular Instagram locations, authentic local crafts, world-class wellness therapies, and collect deep, immersive experiences that redefine the modern Premium Thailand Experience. TRAGUIN Ultimate Retreat Signatures: VIP fast-track airport arrivals in Bangkok, private luxury yacht charter to Phi Phi Islands, an exclusive 180-minute couple's spa rejuvenation, and a grand finale beachfront candlelight gala in Krabi. THE DEFINITVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TH-030 | THAILAND TOUR Bangkok | TRAGUIN",
+    "seo_description": "Premium 08 Nights / 09 Days Thailand package (TH-030 / TRG-THA-ULT-2026): Bangkok (3N) + Phuket with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: BANGKOK ARRIVAL & RIVERFRONT OPULENCE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HERITAGE TEMPLES & ICONSIAM SHOPPING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: BANGKOK TO PHUKET & COASTAL LUXURY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PRIVATE YACHT TO PHI PHI ISLANDS",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: PHANG NGA BAY & JAMES BOND ISLAND EXPEDITION",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: PHUKET TO KRABI TRANSIT & THE AONANG CLIFFS",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: KRABI 4-ISLAND EXPEDITION & GRAND FINALE",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: KRABI RETREAT & DEPARTURE",
+        "sort_order": 8
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom yachts and premium river cruises, completely",
+        "sort_order": 9
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-verified premium luxury resorts featuring maximum isolation,",
+        "sort_order": 10
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "BANGKOK ARRIVAL & RIVERFRONT OPULENCE",
+        "description": "THE CAPITAL WELCOME – METROPOLITAN GLAMOUR & CHAO PHRAYA TWILIGHT Your spectacular Ultimate Thailand vacation begins the moment you touch down at Bangkok International Airport. Receive our VIP Airport Fast-Track Reception, clearing all customs and immigration procedures within minutes. Your private, elegant European sedan or luxury SUV waits to transfer you smoothly along the scenic highway to your ultra-luxury riverside resort. Check into your handpicked premium riverfront room. In the evening, dress in elegant luxury wear for a classic Premium Thailand Experience: a 5-star luxury dinner cruise aboard the Grand Pearl Cruise liner on the Chao Phraya River. Glide past the brilliantly lit Grand Palace and the luminous spires of Wat Arun while enjoying a sumptuous buffet, live jazz music, and classical Thai performances, setting a stunning photography point for your opening night. Sightseeing Included: VIP airport fast-track clearance, luxury sedan city transfer, Chao Phraya dinner cruising. Evening Experience: 5-Star Luxury River Dinner Cruise with live performances.",
+        "activities": [
+          "Overnight Stay: Bangkok (Ultra-Luxury Riverside Resort)",
+          "Meals Included: Premium Cruise Gala Buffet Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HERITAGE TEMPLES & ICONSIAM SHOPPING",
+        "description": "SIAMESE SPLENDOR – THE GRAND PALACE & WORLD-CLASS RETAIL THERAPY Savor a magnificent buffet breakfast before embarking on a descriptive Bangkok Sightseeing cultural tour. Your private chauffeur navigates your party to the walled Grand Palace complex. Admire the golden spires and explore the sacred Temple of the Emerald Buddha, a world-famous landmark. Continue to Wat Pho to stand before the monumental 46-meter Reclining Buddha covered in gold leaf—perfect for iconic family portraits. In the afternoon, proceed to ICONSIAM, the crown jewel of Bangkok's shopping malls. Featuring an indoor floating market, massive luxury brand flagship stores, and phenomenal waterfront spaces, it is an unparalleled location for premium shopping. Find unique silk garments, boutique cosmetics, and designer items. In the evening, explore the nearby sky-lounges for cocktails overlooking the illuminated metropolitan skyline. Sightseeing Included: Grand Palace, Wat Phra Kaew, Wat Pho, ICONSIAM Luxury Waterfront Mall. Optional Activities: Mahanakhon SkyWalk glass tray adventure at 314 meters above the city skyline.",
+        "activities": [
+          "Overnight Stay: Bangkok (Ultra-Luxury Riverside Resort)",
+          "Meals Included: International Buffet Breakfast & Traditional Thai Fine Dining Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "BANGKOK TO PHUKET & COASTAL LUXURY",
+        "description": "TRANSIT TO THE PEARL OF THE ANDAMAN – TROPICAL VILLA INDULGENCE Enjoy your final Bangkok breakfast looking out over the river. Your private vehicle transfers you to the airport for your short domestic flight to Phuket. Upon arrival on Thailand's largest island, your waiting private premium vehicle provides a smooth, scenic transfer along the beautiful Andaman coastline to your handpicked, ultra-luxury pool villa resort. Phuket is globally celebrated for its breathtaking landscapes, dramatic limestone cliffs, and vibrant coastal culture, making it an essential chapter for your Luxury Thailand Holiday. Arrive at your premium villa, detailed with a chilled complimentary bottle of champagne. Spend your afternoon unwinding inside your private infinity pool or strolling along the powdery sand beaches, watching the horizon transform into a vibrant sunset tapestry. Sightseeing Included: Domestic flight transit, scenic coastal private resort transfer, beach sunset walk. Evening Experience: Private chef-prepared welcome barbecue on your villa’s sun-deck.",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Private Pool Villa Resort)",
+          "Meals Included: International Buffet Breakfast & Private Chef Villa Barbecue"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PRIVATE YACHT TO PHI PHI ISLANDS",
+        "description": "CRYSTAL LAGOONS, SNORKELING ESCAPADES & MAYA BAY VIEWPOINTS Wake up to a beautiful morning and enjoy a lavish floating breakfast inside your pool villa. Today hosts an elite signature experience: a full-day private luxury yacht charter to explore the legendary Phi Phi Islands. Skip all standard public crowds as your captain steers your magnificent vessel directly toward the vertical limestone walls of Maya Bay, offering a premium photography point for your vacation. Swim and snorkel hand-in-hand in the emerald waters of Pileh Lagoon, a beautiful natural limestone basin filled with colorful marine life. Savor a premium gourmet picnic lunch specially arranged on the soft sands of Bamboo Island. Conclude your voyage cruising past the dramatic Viking Cave and Monkey Beach, toasting with fine wine as the sun dips below the horizon, providing a world-class photography point for the trip. Sightseeing Included: Private Yacht cruise, Maya Bay entry, Pileh Lagoon swimming, Bamboo Island beach access, Viking Cave view. Optional Activities: Tandem deep-sea scuba diving under PADI guidance or sea-kayaking through hidden coves.",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Private Pool Villa Resort)",
+          "Meals Included: Bespoke Floating Villa Breakfast & Private Yacht Gourmet Picnic Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "PHANG NGA BAY & JAMES BOND ISLAND EXPEDITION",
+        "description": "MYSTICAL SEA LAGOONS, LIMESTONE MONOLITHS & KAYAK ADVENTURES Prepare for an awe-inspiring day exploring one of the most magnificent landscapes in Southeast Asia. After breakfast, transfer to the pier where a premium speed-craft takes your group across Phang Nga Bay. Cruise past hundreds of vertical limestone karsts rising dramatically out of the calm sea. Arrive at James Bond Island, an iconic attraction of Phuket Sightseeing, and capture fantastic pictures in front of the floating rock monolith. Next, enjoy a relaxing canoeing experience guided through the mystical sea caves and hidden mangrove lagoons of Koh Hong. Savor a fresh seafood lunch at the unique stilted floating village of Koh Panyee. Return to the resort to refresh for the evening, enjoying a therapeutic 150-minute couple's aroma-spa treatment before a relaxing cliffside dinner. Sightseeing Included: James Bond Island, Koh Hong sea cave canoeing, Koh Panyee floating village, Spa sanctuary. Optional Activities: Helicopter flight over Phang Nga Bay for an incredible birds-eye view of the landscape.",
+        "activities": [
+          "Overnight Stay: Phuket (Ultra-Luxury Private Pool Villa Resort)",
+          "Meals Included: International Buffet Breakfast & Koh Panyee Seafood Lunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "PHUKET TO KRABI TRANSIT & THE AONANG CLIFFS",
+        "description": "SCENIC COASTAL DRIVE & DRAMATIC VERTICAL CLIFFS OF KRABI Following breakfast, check out of your Phuket villa. Your private luxury van picks you up for a smooth, exceptionally scenic journey past rubber plantations and coastal villages heading into Krabi. Krabi is adored globally for its staggering limestone towers rising straight from emerald waters—making it a centerpiece for any true Luxury Thailand Holiday. Arrive at your premium resort nestled adjacent to the dramatic Ao Nang cliffs. After a relaxed check-in, the afternoon is free to enjoy your resort's luxury infinity pool. As the evening sets in, your driver delivers you to the vibrant Ao Nang walking street, full of vibrant cafes, local artisan shops, and great photography opportunities along the rocky shoreline. Sightseeing Included: Cross-province scenic highway private drive, Ao Nang orientation. Evening Experience: Romantic sunset dinner at a cliffside bistro overlooking the rocky Ao Nang horizon.",
+        "activities": [
+          "Overnight Stay: Krabi (Premium Luxury Cliffside or Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & Coastal Sunset Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "KRABI 4-ISLAND EXPEDITION & GRAND FINALE",
+        "description": "MYSTICAL SANDBARS, CORAL REEFS & A PRIVATE BEACHFRONT CANDLELIGHT GALA Today unveils the crowning beauty of your Krabi Sightseeing itinerary. After breakfast, a private speed-craft launches directly from the resort sands for a thrilling day across Krabi’s legendary 4-Islands. Visit Phra Nang Cave Beach, renowned for its vertical rock face climbers, before speeding towards Tup Island, where a unique natural sandbar emerges at low tide, allowing your party to walk between islands on crystal water. Snorkel over the live barrier reefs of Chicken Island, surrounded by schools of tropical fish. Return to the resort to refresh for your final night. TRAGUIN has arranged our ultimate signature surprise: an intimate, completely private beachfront candlelight dinner set in a secluded cove of the resort. Toast your holiday with a glass of fine wine under a starlit sky as gentle waves roll in, creating a memory to last a lifetime. Sightseeing Included: Tup Island Sandbar walk, Chicken Island reef snorkeling, Poda Island, Phra Nang Cave. Evening Experience: Signature TRAGUIN Grand Finale Private Beachfront Candlelight Barbecue Dinner.",
+        "activities": [
+          "Overnight Stay: Krabi (Premium Luxury Cliffside or Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & 5-Course Private Cove Barbecue Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "KRABI RETREAT & DEPARTURE",
+        "description": "CHERISHING MEMORIES BEYOND DESTINATIONS – FOREVER REFRESHED Wake up to a quiet morning in beautiful Krabi, enjoying a long breakfast overlooking the tropical gardens. Take a final walk on the soft sand or relax by the resort's pool to reflect on your incredible journey. At the designated hour, your private luxury executive vehicle arrives to transfer you comfortably to Krabi International Airport for your departure flight back home. Your premium Ultimate Thailand Tour concludes beautifully, leaving your hearts full of unforgettable memories and stories crafted to perfection by TRAGUIN. Sightseeing Included: Private luxury airport departure transfer.",
+        "activities": [
+          "Meals Included: International Buffet Breakfast",
+          "SHOPPING: & LOCAL EXPERIENCES"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "The Sukosol Bangkok Premier Corner Room Novotel Resort/Ao Nang Cliff Superior Ocean Suite",
+        "location": "Multi-city Thailand",
+        "nights_label": "8N",
+        "description": "Option 01: Deluxe — The Sukosol Bangkok Premier Corner Room Novotel Resort/Ao Nang Cliff Superior Ocean Suite",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Avani+ Riverside Bangkok Avani Panorama River Room Phuket Marriott/Centara Grand Krabi Deluxe Pool View Room",
+        "location": "Multi-city Thailand",
+        "nights_label": "8N",
+        "description": "Option 02: Premium — Avani+ Riverside Bangkok Avani Panorama River Room Phuket Marriott/Centara Grand Krabi Deluxe Pool View Room",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Shangri-La Bangkok Deluxe Horizon River Room The Shore at Katathani/Rayavadee Pool Villa / Pavilion Suite",
+        "location": "Multi-city Thailand",
+        "nights_label": "8N",
+        "description": "Option 03: Luxury — Shangri-La Bangkok Deluxe Horizon River Room The Shore at Katathani/Rayavadee Pool Villa / Pavilion Suite",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mandarin Oriental, Bangkok Deluxe Chao Phraya Suite Trisara Phuket/Phulay Bay Reserve Ocean View Pool Villa",
+        "location": "Multi-city Thailand",
+        "nights_label": "8N",
+        "description": "Option 04: Ultra Luxury — Mandarin Oriental, Bangkok Deluxe Chao Phraya Suite Trisara Phuket/Phulay Bay Reserve Ocean View Pool Villa",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "International Flights: Main airline tickets connecting home country with Thailand.",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "PACKAGE INCLUSIONS",
+        "sort_order": 2
+      }
+    ]
+  }
+}

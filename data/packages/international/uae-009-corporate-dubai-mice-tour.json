@@ -1,0 +1,243 @@
+{
+  "destination_slug": "uae",
+  "package": {
+    "slug": "uae-009-corporate-dubai-mice-tour",
+    "serial_code": "UAE-009",
+    "traguin_tour_code": "TRG-DXB-MICE-2026",
+    "title": "Corporate Dubai MICE",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UAE-009 | TRAGUIN tour code TRG-DXB-MICE-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Dubai, UAE | Category: Corporate MICE & Incentive Travel",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Dubai Central Business",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "uae-009-corporate-dubai-mice-itinerary",
+    "title": "Corporate Dubai MICE",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium UAE Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Corporate Dubai MICE",
+    "overview": "DWTC Conferences • Team Building Teamwork • Business Networking • Mega Yacht Charter 04 Nights / 05 Days High-Impact Corporate Business & Incentive Showcase SERIAL CODE: UAE-009 TRAGUIN TOUR CODE: TRG-DXB-MICE-2026 STATE / COUNTRY: Dubai / UAE CATEGORY: Corporate MICE & Incentive Travel DURATION: 04 Nights / 05 Days DESTINATIONS: Dubai Central Business District & Business Hubs\n\nTOUR OVERVIEW\nEmpower your corporate collective with our high-end TRAGUIN curated corporate incentive. Designed specifically for elite teams, executive conferences, and corporate retreats, this Corporate Dubai showcase balances cutting-edge business infrastructure with premium off-site team dynamics. Discover an unmatched platform for building partnerships, rewarding top performers, and securing unforgettable memories. MICE Team Note from TRAGUIN: Corporate execution demands precision. Your itinerary is fully managed under tight coordination, featuring dedicated luxury group coaches, high-end meeting venues, priority gala entries, and 24/7 dedicated event management assistance on the ground.\n\nWHY CHOOSE OUR CORPORATE DUBAI MICE PACKAGE?\nDubai is a global powerhouse for corporate networking, providing world-class convention domains alongside unmatched luxury hospitality lines. Choosing this Best Corporate Dubai MICE Tour Package ensures flawless event logistics and unique team integration paths. This master framework integrates high-ranking corporate travel keywords to elevate corporate presentations and business alignment. TRAGUIN Corporate MICE • Uncover major business and leisure attractions: hold state-of-the-art presentations at top convention hubs, experience high-impact team-building dynamics across red dunes, reward leadership with exclusive mega- yacht networking, and capture the scenic beauty of the city's futuristic architecture. It is the absolute Best Time to Visit Dubai to ensure business success and experience a truly premium Luxury Dubai Holiday tailored for corporate victory. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UAE-009 | Corporate Dubai MICE | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Dubai package (UAE-009 / TRG-DXB-MICE-2026): Dubai Central Business with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL & NETWORKING RECEPTION",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: CONFERENCE SESSIONS & DOWNTOWN SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: DESERT TEAM-BUILDING & EXPERIENCES",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MEGA YACHT GALA AWARDS CELEBRATION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: CORPORATE CHECKOUT & DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & NETWORKING RECEPTION",
+        "description": "Arrive in Dubai to an exclusive group greeting. Your private TRAGUIN Corporate Group Coaches transfer your delegation to your selected business resort. In the evening, inaugurate the corporate gathering with a high-end networking reception at a premium skyline lounge, taking in the city's scenic beauty and setting major business goals. MICE Logistics Included: Airport dedicated group clearing assistance, private group coach transits. Evening Experience: Corporate ice-breaking cocktail reception with premium catering lines.",
+        "activities": [
+          "Overnight Stay: Business Bay / SZR (Handpicked Premium Corporate Convention Hotel)",
+          "Meals Included: Welcome Reception Buffet & Premium Open Bar"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "CONFERENCE SESSIONS & DOWNTOWN SIGHTSEEING",
+        "description": "A full day dedicated to strategic corporate alignment. Utilize state-of-the-art ballroom or convention center spaces for your general assembly, tech setups, and panel discussions. In the late afternoon, transition to a curated Dubai Sightseeing track, visiting the observation decks of Burj Khalifa using priority fast-track avenues. MICE Logistics Included: Full-day executive boardroom/ballroom venue rental, premium AV support. TRAGUIN Corporate MICE •",
+        "activities": [
+          "Sightseeing Included: Burj Khalifa Levels 124/125 fast-track group entry passes.",
+          "Overnight Stay: Business Bay / SZR (Handpicked Premium Corporate Convention Hotel)",
+          "Meals Included: Executive Breakfast, Dual Coffee Breaks, Working Lunch, & Downtown Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "DESERT TEAM-BUILDING & EXPERIENCES",
+        "description": "Ignite teamwork and strategic collaboration with a dedicated desert team-building program. Board luxury 4x4 vehicles for a journey to a private desert arena. Participate in coordinated team problem-solving challenges, off-road navigation simulations, and sandboarding tournaments across the majestic breathtaking landscapes. MICE Logistics Included: Custom corporate team-building facilitators, private sand sports staging. Evening Experience: Exclusive desert oasis stargazing dinner with live entertainment structures.",
+        "activities": [
+          "Overnight Stay: Business Bay / SZR (Handpicked Premium Corporate Convention Hotel)",
+          "Meals Included: Executive Breakfast & Premium Desert Barbecue Gala Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MEGA YACHT GALA AWARDS CELEBRATION",
+        "description": "Spend a free morning exploring retail innovations at The Dubai Mall or holding small breakout group meetings. In the afternoon, board a massive private luxury Mega Yacht chartered exclusively by TRAGUIN at Dubai Marina. Host your annual corporate awards ceremony and leadership presentations while cruising past Palm Jumeirah during a stunning sunset sunset. MICE Logistics Included: Private Mega Yacht charter, onboard sound/stage setups, red carpet entry. Evening Experience: Grand corporate gala awards dinner on the cruise with premium dining.",
+        "activities": [
+          "Overnight Stay: Business Bay / SZR (Handpicked Premium Corporate Convention Hotel)",
+          "Meals Included: Executive Breakfast & Yacht Cruise International Gala Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "CORPORATE CHECKOUT & DEPARTURE",
+        "description": "Savor your final group breakfast, wrapping up key business summaries and action items. Our dedicated corporate concierge handlers manage all group checkouts, hotel key consolidation, and team luggage logistics before boarding your private coaches to Dubai International Airport for your departures. Transfers: Private corporate coach airport departure transits, priority group luggage handling. TRAGUIN Corporate MICE •",
+        "activities": [
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Marquis Dubai World's tallest hotel, massive ballroom cluster capacity.",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 01: Deluxe — JW Marriott Marquis Dubai World's tallest hotel, massive ballroom cluster capacity.",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Grand Hyatt Dubai / Hilton Al HabtoorPhenomenal convention center capacities and breakout rooms.",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 02: Premium — Grand Hyatt Dubai / Hilton Al HabtoorPhenomenal convention center capacities and breakout rooms.",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Address Boulevard DowntownDirect connected access to Dubai Mall, prestige executive hub.",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 03: Luxury — The Address Boulevard DowntownDirect connected access to Dubai Mall, prestige executive hub.",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Armani Hotel Dubai / Atlantis The RoyalIconic flagship venues for top-tier executive leadership retreats.",
+        "location": "Multi-city UAE",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — Armani Hotel Dubai / Atlantis The RoyalIconic flagship venues for top-tier executive leadership retreats.",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 04 Nights stay in premier business hotel rooms with executive desks",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Conferencing: 1 Full-day ballroom/venue rental with premium AV, projector setups, and tech support",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Catering: Daily executive breakfasts, working luncheons, coffee breaks, and gala dinners",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Activities: Private Mega Yacht Charter, Desert Team-Building Program, Fast-Track Burj Khalifa entry",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Logistics: Dedicated private luxury group coaches for all ground transits and transfers",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: Dedicated on-site MICE project manager and hospitality desk 24/7",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International flight tickets and entry visa processing fees",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Any alcohol packages beyond what is explicitly stated in the gala dinner package",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, hotel room room service, or individual laundry charges",
+        "sort_order": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "destination_slug": "malaysia",
+  "package": {
+    "slug": "my-006-malaysia-shopping-tour",
+    "serial_code": "MY-006",
+    "traguin_tour_code": "TRG-MAL-SHOP-2026",
+    "title": "Malaysia Shopping Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MY-006 | TRAGUIN tour code TRG-MAL-SHOP-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Malaysia, Asia | Category: Female Only Shopping Escape",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kuala Lumpur (4 Nights)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "my-006-malaysia-shopping-itinerary",
+    "title": "Malaysia Shopping Tour",
+    "duration_label": "04 Nights / 05 Days",
+    "duration_days": 5,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Malaysia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Malaysia Shopping Tour",
+    "overview": "Kuala Lumpur • Pavilion KL • Suria KLCC • Petaling Street 04 Nights / 05 Days Female-Only Luxury Retail Retreat SERIAL CODE: MY-006 TRAGUIN TOUR CODE: TRG-MAL-SHOP-2026 STATE / COUNTRY: Malaysia CATEGORY: Female Only Shopping Escape DURATION: 04 Nights / 05 Days DESTINATIONS: Kuala Lumpur (4 Nights)\n\nTOUR OVERVIEW\nIndulge in a world-class retail retreat with this TRAGUIN curated female-only shopping escape. From high- fashion designer flagships to eclectic local markets, this luxury Malaysia holiday promises unforgettable memories, style, and relaxation in the heart of Kuala Lumpur. THE MALAYSIA SHOPPING EXPERIENCE Kuala Lumpur is a premier retail destination, known for its iconic attractions like Pavilion KL and Suria KLCC. Whether you're seeking luxury designer goods or unique local handicrafts, this Malaysia shopping escape delivers immersive experiences at every turn. Experience the scenic beauty of Malaysia while enjoying our curated experiences. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MY-006 | Malaysia Shopping Tour | TRAGUIN",
+    "seo_description": "Premium 04 Nights / 05 Days Malaysia package (MY-006 / TRG-MAL-SHOP-2026): Kuala Lumpur (4 Nights) with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL & CITY GLAMOUR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: HIGH-FASHION RETAIL THERAPY",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: CULTURAL MARKETS & LOCAL CHARM",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: WELLNESS & SPA RETREAT",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & CITY GLAMOUR",
+        "description": "Arrive in style with our VIP meet-and-greet service. Your TRAGUIN private chauffeur will escort you to your handpicked hotel. Spend the evening enjoying the iconic attractions of KL, including a welcome dinner at a chic rooftop lounge.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "HIGH-FASHION RETAIL THERAPY",
+        "description": "A full day dedicated to the best of Malaysia shopping. Explore Pavilion KL and Suria KLCC, featuring global fashion houses and premium boutiques, designed for a luxury Malaysia holiday.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CULTURAL MARKETS & LOCAL CHARM",
+        "description": "Discover the vibrant heart of the city at Petaling Street and Central Market. This immersive experience offers local artisan crafts and exclusive experiences that define Malaysian culture.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "WELLNESS & SPA RETREAT",
+        "description": "Take a day to rejuvenate. Indulge in premium stays and luxury spa treatments, a perfect complement to your retail spree. A true luxury Malaysia holiday for any fashionista.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "DEPARTURE",
+        "description": "Final boutique visits and breakfast before departure. TRAGUIN ensures you return home with unforgettable memories and shopping treasures.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Kuala Lumpur (4 Nights)",
+        "nights_label": "4N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Kuala Lumpur (4 Nights)",
+        "nights_label": "4N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Kuala Lumpur (4 Nights)",
+        "nights_label": "4N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis Kuala Lumpur / Pavilion Hotel",
+        "location": "Multi-city Malaysia",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — The St. Regis Kuala Lumpur / Pavilion Hotel",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Malaysia",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

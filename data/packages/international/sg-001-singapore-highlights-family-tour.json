@@ -2,48 +2,50 @@
   "destination_slug": "singapore",
   "package": {
     "slug": "sg-001-singapore-highlights-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "SG-001",
+    "traguin_tour_code": "TRG-SIN-HIG-2026",
     "title": "Singapore Highlights Family Tour",
     "duration_label": "03 Nights / 04 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 57,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Singapore (3N) classic family discovery",
+        "text": "Serial code SG-001 | TRAGUIN tour code TRG-SIN-HIG-2026",
         "sort_order": 1
       },
       {
-        "text": "Marina Bay light show & Gardens by the Bay",
+        "text": "Country: Singapore, Asia | Category: Best Singapore Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Night Safari exclusive evening experience",
+        "text": "Destinations: Marina Bay Sands • Gardens by the Bay • Sentosa Island • Night Safari",
         "sort_order": 3
       },
       {
-        "text": "Sentosa Island & Universal Studios fun",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-SIN-HIG-2026 | Serial SG-001",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Cultural",
-      "Wildlife",
-      "Beach"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -55,72 +57,65 @@
     "price_note": "On Request (Premium Singapore Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Marina Bay Sands • Gardens by the Bay • Sentosa • Night Safari",
-    "overview": "Dive into the vibrant, futuristic city-state of Singapore with TRAGUIN's curated family holiday. A flawless balance of high-energy exploration and iconic sightseeing — Marina Bay, Gardens by the Bay, Night Safari, and Sentosa Island — creating unforgettable memories in Southeast Asia's most spectacular destination.",
-    "is_featured": true,
-    "featured_sort_order": 57,
+    "tagline": "Singapore Highlights Family Tour",
+    "overview": "Marina Bay Sands • Gardens by the Bay • Sentosa Island • Night Safari 03 Nights / 04 Days Classic Singapore Family Discovery SERIAL CODE: SG-001 TRAGUIN TOUR CODE: TRG-SIN-HIG-2026 STATE / COUNTRY: Singapore CATEGORY: Best Singapore Family Tour Package DURATION: 03 Nights / 04 Days Singapore Highlights\n\nTOUR OVERVIEW\nDive into the vibrant, futuristic city-state of Singapore with our TRAGUIN curated family holiday. Designed for a mix of high-energy exploration and iconic sightseeing, this Singapore Highlights itinerary ensures a flawless balance of fun and discovery, creating unforgettable memories in the heart of Southeast Asia's most spectacular destination. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "SG-001 | Singapore Highlights Family Tour | TRAGUIN",
-    "seo_description": "Premium 03 Nights / 04 Days Singapore family package (SG-001): Marina Bay, Gardens by the Bay, Night Safari, and Sentosa Island.",
-    "is_published": true,
+    "seo_description": "Premium 03 Nights / 04 Days Singapore package (SG-001 / TRG-SIN-HIG-2026): Marina Bay Sands • Gardens by the Bay • Sentosa Island • Night Safari with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Marina Bay Light & Water Show",
+        "text": "Day 01: ARRIVAL IN SINGAPORE & MARINA BAY",
         "sort_order": 1
       },
       {
-        "text": "Gardens by the Bay Cloud Forest",
+        "text": "Day 02: GARDENS BY THE BAY & NIGHT SAFARI",
         "sort_order": 2
       },
       {
-        "text": "Night Safari Exclusive Experience",
+        "text": "Day 03: SENTOSA ISLAND FUN",
         "sort_order": 3
       },
       {
-        "text": "Sentosa Island Family Fun",
+        "text": "Day 04: DEPARTURE",
         "sort_order": 4
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Singapore & Marina Bay",
-        "description": "Arrive in Singapore. Private transfer to handpicked premium hotel. Evening exploring Marina Bay with spectacular light and water show.",
+        "title": "ARRIVAL IN SINGAPORE & MARINA BAY",
+        "description": "Arrive in Singapore. Private transfer to your handpicked premium hotel. Enjoy the evening exploring Marina Bay, witnessing the spectacular evening light and water show.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, Marina Bay evening exploration",
-          "Overnight Stay: Singapore (Premium Family Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Gardens by the Bay & Night Safari",
-        "description": "Full day at futuristic Gardens by the Bay including Cloud Forest. Evening exclusive Night Safari experience.",
+        "title": "GARDENS BY THE BAY & NIGHT SAFARI",
+        "description": "A full day exploring the futuristic Gardens by the Bay and its iconic Cloud Forest. In the evening, take an exciting exclusive experience at the Night Safari.",
         "activities": [
-          "Sightseeing Included: Gardens by the Bay, Cloud Forest, Night Safari",
-          "Overnight Stay: Singapore (Premium Family Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Sentosa Island Fun",
-        "description": "Full day of excitement at Sentosa Island. Universal Studios Singapore or vibrant sandy beaches — perfect for family fun.",
+        "title": "SENTOSA ISLAND FUN",
+        "description": "A day of excitement at Sentosa Island. Explore Universal Studios Singapore or relax on the vibrant sandy beaches, perfect for family fun.",
         "activities": [
-          "Sightseeing Included: Sentosa Island, Universal Studios or beach leisure",
-          "Overnight Stay: Singapore (Premium Family Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Departure",
-        "description": "Final breakfast before TRAGUIN private transfer to the airport, completing your premium Singapore experience.",
+        "title": "DEPARTURE",
+        "description": "Final breakfast before your TRAGUIN private transfer to the airport, completing your premium Singapore experience.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       }
@@ -129,41 +124,80 @@
       {
         "hotel_id": null,
         "name": "Marina Bay Sands / Shangri-La Singapore",
-        "location": "Singapore",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
+        "location": "Multi-city Singapore",
+        "nights_label": "3N",
+        "description": "Option 01: Premium — Marina Bay Sands / Shangri-La Singapore",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Marina Bay Sands",
+        "nights_label": "3N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Marina Bay Sands",
+        "nights_label": "3N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Marina Bay Sands",
+        "nights_label": "3N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "03 Nights in handpicked premium family hotel in Singapore",
+        "text": "Premium handpicked accommodation across Singapore",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private luxury ground transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Marina Bay, Gardens by the Bay, Night Safari, and Sentosa sightseeing",
+        "text": "International and connecting flights as per curated itinerary (where applicable)",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
         "kind": "excluded",
-        "text": "International airfare and Singapore entry visa processing fees",
+        "text": "International airfare and Singapore visa fees",
         "sort_order": 5
       },
       {

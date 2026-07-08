@@ -1,0 +1,308 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-011-best-bali-beaches-coastal-escape",
+    "serial_code": "ID-011",
+    "traguin_tour_code": "TRAGUIN-BALI-BCH-011",
+    "title": "Best Bali Beaches & Coastal Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ID-011 | TRAGUIN tour code TRAGUIN-BALI-BCH-011",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Bali, Indonesia | Category: Premium Haryana Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Nusa Dua (2N) • Seminyak",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Daily International Buffet Breakfast, Beachside Seafood Dining, and Sunset Platters Route Silhouette: Denpasar Airport Arrival → Nusa Dua White Sands → Uluwatu Cliffside Sunset & Kecak → Seminyak Chic",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, beachside sunset table setup at Jimbaran Bay, avoiding",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: A balanced pace combining culture, sights, and relaxing resort time,",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: Directly contact our local on-ground representative for restaurant",
+        "sort_order": 10
+      },
+      {
+        "text": "Premium Handpicked Hotels: Resorts are regularly audited to ensure excellent beachfront locations and",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-011-best-bali-beaches-coastal-escape-itinerary",
+    "title": "Best Bali Beaches & Coastal Escape",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Best Bali Beaches & Coastal Escape",
+    "overview": "TOUR OVERVIEW\nThis Bali Family Tour is organized as a private, personalized FIT itinerary designed around maximum comfort and unhurried coastal discovery. Avoid the stress of coordinates as a private luxury vehicle and dedicated English-speaking tour concierge driver handle your daily itinerary with seamless precision. Travel Format: Private Premium Family FIT Tour Vehicle: Private Premium Multi-Purpose Vehicle (Innova Reborn / Alphard) ARRIVAL & WELCOME AMENITY Meal Plan: Daily International Buffet Breakfast, Beachside Seafood Dining, and Sunset Platters Route Silhouette: Denpasar Airport Arrival → Nusa Dua White Sands → Uluwatu Cliffside Sunset & Kecak → Seminyak Chic Beachfront → Jimbaran Seafood Dinner → Departure TRAGUIN Curated Experience Note: This beach package includes VIP reserve seating at the cliffside Uluwatu Kecak dance and custom front-row daybed options at Bali's premium beach clubs, provided exclusively as part of your TRAGUIN Bali Packages. THE ULTIMATE LUXURY BALI BEACH EXPERIENCE When searching for a Luxury Bali Holiday or an iconic Bali Honeymoon Package, the island's southern beaches stand out as premier global choices. This itinerary maximizes time around the Top Tourist Places in Bali for sun-seekers, ensuring you visit during the absolute Best Time to Visit Bali for crystal clear waters and cool ocean breezes. Our itinerary highlights key coastal landmarks, including the calm water enclaves of Nusa Dua, the dramatic drop-offs of Uluwatu, and the stylish social energy of Seminyak. Take advantage of popular Instagram locations such as the sea-cliffs overlooking Padang Padang, the iconic Tanah Lot backdrop, and trendy beachfront swings. Whether your family seeks calm beach walks, water sports at Tanjung Benoa, or gourmet beachfront seafood dining, this curated itinerary delivers a complete Premium Bali Experience.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ID-011 | Best Bali Beaches & Coastal Escape | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Bali package (ID-011 / TRAGUIN-BALI-BCH-011): Nusa Dua (2N) • Seminyak with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BALI • TRANSITION TO THE LUXURY RESORT HAVEN OF NUSA",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: TANJUNG BENOA WATERSYSTEM, THE MAJESTIC WATER BLOW & ULUWATU",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: TRANSITION TO SEMINYAK • EN ROUTE DISCOVERY OF GWK CULTURAL",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: THE MAJESTIC SEA TEMPLE OF TANAH LOT & SEMINYAK BEACH CLUB",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: LEISURE RESORT MORNING • ROMANTIC JIMBARAN BAY CANDLELIT",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: CHIC SOUVENIR SHOPPING • AIRPORT DEPARTURE WITH MEMORIES BY",
+        "sort_order": 6
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, beachside sunset table setup at Jimbaran Bay, avoiding",
+        "sort_order": 7
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: A balanced pace combining culture, sights, and relaxing resort time,",
+        "sort_order": 8
+      },
+      {
+        "text": "Personalized Assistance: Directly contact our local on-ground representative for restaurant",
+        "sort_order": 9
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BALI • TRANSITION TO THE LUXURY RESORT HAVEN OF NUSA",
+        "description": "DUA Your family's dream coastal getaway begins the moment your flight lands at Ngurah Rai International Airport. Your dedicated private TRAGUIN tour concierge will await your family at the arrival pavilion with a custom sign board. Savor your first taste of traditional Balinese warmth as you are presented with refreshing tropical leis and chilled botanical water. Step into your private, air-conditioned vehicle and enjoy a smooth transfer over the scenic Bali Mandara Toll Road, which curves gracefully over the ocean. Check into your premium resort in Nusa Dua—an exclusive, gated beachfront enclave celebrated for its manicured tropical gardens and calm lagoon beaches. Spend your afternoon unpacking and relaxing by your resort's multi-tiered infinity pool or strolling along the white sands. COASTAL WONDERS & CULTURAL PERFORMANCE ICONIC MONUMENTS & TRENDY COASTLINES",
+        "activities": [
+          "Sightseeing Included: Luxury Airport Welcome, Panoramic Ocean Toll Route.",
+          "Evening Experience: Leisurely family walk along the paved Nusa Dua beachfront promenade.",
+          "Overnight Stay: Premium Beachfront Resort, Nusa Dua.",
+          "Meals Included: Welcome Amenities."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "TANJUNG BENOA WATERSYSTEM, THE MAJESTIC WATER BLOW & ULUWATU",
+        "description": "CLIFF SUNSET Savor a world-class buffet breakfast before heading to Tanjung Benoa, the center of beach activities in Bali. Your family will enjoy an included private glass-bottom boat ride to Turtle Island, a great educational experience for children. Feel the ocean breeze as you look through the viewing panel at tropical marine life. In the afternoon, view the spectacular natural 'Water Blow' rock formation in Nusa Dua, where ocean waves crash into limestone cliffs, creating massive, photogenic plumes of spray. Later, drive along the Bukit Peninsula to the dramatic Uluwatu Temple, perched 70 meters high on a sheer sea cliff. As the sun sets over the Indian Ocean, watch the traditional Kecak & Fire Dance in a cliffside amphitheater—a memorable combination of rhythmic chanting, fire performance, and natural ocean views. Water Blow, Uluwatu Temple.",
+        "activities": [
+          "Sightseeing Included: Tanjung Benoa Peninsula, Glass-Bottom Boat Ride, Turtle Island Conservation, Nusa Dua",
+          "Optional Activities: Adrenaline-pumping banana boat, parasailing, or jet skiing at Tanjung Benoa.",
+          "Evening Experience: Premium seats for the Uluwatu Kecak Dance during sunset.",
+          "Overnight Stay: Premium Beachfront Resort, Nusa Dua.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "TRANSITION TO SEMINYAK • EN ROUTE DISCOVERY OF GWK CULTURAL",
+        "description": "PARK Following breakfast, check out from Nusa Dua and drive toward the legendary Garuda Wisnu Kencana (GWK) Cultural Park. Marvel at the colossal 122-meter-tall bronze statue of Lord Vishnu riding the mythical bird Garuda—one of the tallest monumental statues in the world. Enjoy a guided buggy tour through the massive limestone pillars of the park, taking in this blend of modern engineering and traditional Balinese art. Continue onward to Seminyak, the vibrant capital of luxury, fashion, and beach culture in Bali. Check into your stylish luxury resort located along the beachfront. The afternoon is yours to relax—enjoy the trendy boutique shopping lanes or watch the waves from a comfortable resort daybed. TIMELESS TEMPLES & VIBRANT BEACH CLUBS GOURMET DINING & FAMILY CELEBRATIONS FAREWELL BALI",
+        "activities": [
+          "Sightseeing Included: GWK Cultural Park Monument, Seminyak Beach Front Plaza.",
+          "Optional Activities: Traditional Balinese costume family photoshoot at the cultural park.",
+          "Evening Experience: Relaxed dining at an upscale cafe along Seminyak's famous dining streets.",
+          "Overnight Stay: Luxury Beachfront Resort, Seminyak.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "THE MAJESTIC SEA TEMPLE OF TANAH LOT & SEMINYAK BEACH CLUB",
+        "description": "SUNSET Enjoy a peaceful morning swimming or indulging in a spa treatment. In the afternoon, your driver will take you to Tanah Lot Temple, an iconic Balinese sea temple built on a wave-swept offshore rock formation. Learn about its spiritual history and watch the waves break against its foundations during low tide. Return to Seminyak for a premium sunset experience at an upscale beach club, such as Potato Head or Tropicola. Relax on your reserved daybed, listen to chill tracks from world-class DJs, and watch the sun dip below the horizon, painting the sky in deep purples and warm oranges.",
+        "activities": [
+          "Sightseeing Included: Tanah Lot Sea Temple, Seminyak Beach Front View.",
+          "Optional Activities: Surfing lessons for the family at Double Six Beach.",
+          "Evening Experience: VIP lounge access and sunset views at a premier Seminyak beach club.",
+          "Overnight Stay: Luxury Beachfront Resort, Seminyak.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LEISURE RESORT MORNING • ROMANTIC JIMBARAN BAY CANDLELIT",
+        "description": "SEAFOOD DINNER Your final full day in Bali is designed around relaxation and memory-making. Enjoy your resort's luxury facilities, take a swim in the ocean, or visit local boutiques for high-quality linen resort wear and artisanal home decor. As twilight approaches, travel to the golden sands of Jimbaran Bay for your grand farewell dinner. TRAGUIN has arranged a private, candlelit table right on the beach, steps away from the surf. Indulge in a premium, freshly caught Balinese seafood platter cooked over traditional coconut husks, making for an emotional and unforgettable final evening with your family.",
+        "activities": [
+          "Sightseeing Included: Jimbaran Bay Coastline.",
+          "Optional Activities: A 90-minute aromatherapy massage at a luxury wellness spa.",
+          "Evening Experience: Candlelit Seafood Farewell Dinner on the beach.",
+          "Overnight Stay: Luxury Beachfront Resort, Seminyak.",
+          "Meals Included: Breakfast & Farewell Seafood Dinner."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "CHIC SOUVENIR SHOPPING • AIRPORT DEPARTURE WITH MEMORIES BY",
+        "description": "TRAGUIN Enjoy your breakfast overlooking the Indian Ocean one last time. Depending on your flight time, your private vehicle is available for a final stop at premium souvenir centers like Krisna Oleh Oleh or a trendy local cafe. Your private concierge driver will ensure a smooth transfer to the airport, assisting with luggage check-in. Board your flight home with beautiful photos, wonderful family stories, and unforgettable memories crafted seamlessly by TRAGUIN.",
+        "activities": [
+          "Sightseeing Included: Airport Departure Escort Service.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Merusaka Nusa Dua / Grand Hyatt Amadea Resort / The Haven Seminyak Deluxe Ocean/Garden Room Buffet Breakfast (BB)",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — Merusaka Nusa Dua / Grand Hyatt Amadea Resort / The Haven Seminyak Deluxe Ocean/Garden Room Buffet Breakfast (BB)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Westin Resort / Sofitel Bali Nusa Dua The Seminyak Beach Resort & Spa Premium Ocean View Suite Buffet Breakfast (BB)",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — The Westin Resort / Sofitel Bali Nusa Dua The Seminyak Beach Resort & Spa Premium Ocean View Suite Buffet Breakfast (BB)",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis Bali / The Ritz-Carlton W Bali - Seminyak / The Legian Bali Luxury Private Pool Villa Breakfast & High Tea Perks",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 03: Luxury — The St. Regis Bali / The Ritz-Carlton W Bali - Seminyak / The Legian Bali Luxury Private Pool Villa Breakfast & High Tea",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Mulia Mansion / The Apurva Kempinski The Samaya Seminyak / Alila Seminyak Signature Ultra-Luxury Beachfront Villa Bespoke Elite Service Plan",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — The Mulia Mansion / The Apurva Kempinski The Samaya Seminyak / Alila Seminyak Signature Ultra-Luxury Beachfront Villa Be",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury Accommodation: 05 Nights stay across selected premium handpicked beach resorts",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Signature Perks: Traditional lei welcomes, cool mineral water, and onboard high-speed Wi-Fi",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Marine Activity: Private glass-bottom boat charter to Turtle Island with local guide",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "24/7 TRAGUIN Support: Ongoing support from our on-ground customer experience team",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Accommodation: 05 Nights stay across selected premium handpicked beach resorts",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "International Flights and associated airport security/terminal fees",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Indonesia Visa on Arrival fees (payable directly at immigration)",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal incidentals, room service, laundry, and alcoholic beverages",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Tips and gratuities for your private drivers, local guides, and resort staff",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional water sports activities at Tanjung Benoa (jet ski, parasailing, etc.)",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Comprehensive International Travel & Medical Insurance",
+        "sort_order": 11
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "destination_slug": "malaysia",
+  "package": {
+    "slug": "my-005-malaysia-luxury-tour",
+    "serial_code": "MY-005",
+    "traguin_tour_code": "TRG-MAL-LUX-2026",
+    "title": "Malaysia Luxury Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MY-005 | TRAGUIN tour code TRG-MAL-LUX-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Malaysia, Asia | Category: Luxury Malaysia Discovery",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kuala Lumpur (2N) +",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "my-005-malaysia-luxury-itinerary",
+    "title": "Malaysia Luxury Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Malaysia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Malaysia Luxury Tour",
+    "overview": "06 Nights / 07 Days Ultimate Luxury Malaysia Discovery SERIAL CODE: MY-005 TRAGUIN TOUR CODE: TRG-MAL-LUX-2026 STATE / COUNTRY: Malaysia CATEGORY: Luxury Malaysia Discovery DURATION: 06 Nights / 07 Days DESTINATIONS: Kuala Lumpur (2N) + Cameron Highlands (2N) + Langkawi (2N)\n\nTOUR OVERVIEW\nIndulge in a journey of pure elegance with this TRAGUIN curated luxury Malaysia tour. From the soaring skyscrapers of Kuala Lumpur to the misty tea plantations of Cameron Highlands and the pristine beaches of Langkawi, this luxury Malaysia holiday promises unforgettable memories. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MY-005 | Malaysia Luxury Tour | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Malaysia package (MY-005 / TRG-MAL-LUX-2026): Kuala Lumpur (2N) + with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN KUALA LUMPUR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: KUALA LUMPUR TO CAMERON HIGHLANDS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: CAMERON HIGHLANDS EXPLORATION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: FLY TO LANGKAWI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: LANGKAWI ISLAND LUXURY",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: LANGKAWI LEISURE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN KUALA LUMPUR",
+        "description": "Arrive in style with our VIP meet-and-greet service. Your TRAGUIN private chauffeur will escort you to your handpicked hotel. Enjoy a panoramic evening tour of iconic attractions including the Petronas Towers.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KUALA LUMPUR TO CAMERON HIGHLANDS",
+        "description": "Transfer to the cool, breezy Cameron Highlands. Enjoy breathtaking landscapes as we move from the city to the lush green tea plantations. A premium stay awaits in this highland sanctuary.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "CAMERON HIGHLANDS EXPLORATION",
+        "description": "A day of curated experiences: visit tea factories, mossy forests, and strawberry farms. Immerse yourself in the scenic beauty of the highlands.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "FLY TO LANGKAWI",
+        "description": "Take a private charter or premium flight to Langkawi. Check into your luxury beachfront villa and prepare for an exclusive experience on this pristine island.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LANGKAWI ISLAND LUXURY",
+        "description": "Explore Langkawi's iconic attractions, including the SkyBridge and mangrove forests. Enjoy sunset cocktails on a private yacht—one of our signature exclusive experiences.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "LANGKAWI LEISURE",
+        "description": "Unwind at your handpicked hotel, indulge in spa treatments, or enjoy pristine beaches. Reflect on unforgettable memories created during your luxury Malaysia holiday.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE",
+        "description": "Final shopping and breakfast before your departure. TRAGUIN ensures a seamless end to your premium journey.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Kuala Lumpur (2N) +",
+        "nights_label": "6N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Kuala Lumpur (2N) +",
+        "nights_label": "6N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Kuala Lumpur (2N) +",
+        "nights_label": "6N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis KL Cameron Highlands Resort The Datai Langkawi",
+        "location": "Multi-city Malaysia",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — The St. Regis KL Cameron Highlands Resort The Datai Langkawi",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Malaysia",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "destination_slug": "thailand",
+  "package": {
+    "slug": "th-014-phuket-phi-phi-islands-krabi-james-bond-island-koh-yao-noi",
+    "serial_code": "TH-014",
+    "traguin_tour_code": "TRG-THA-ADV-2026",
+    "title": "Phuket • Phi Phi Islands • Krabi • James Bond Island • Koh Yao Noi",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code TH-014 | TRAGUIN tour code TRG-THA-ADV-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Thailand | Category: Island Hopping Thailand / Adventure Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Phuket (3N) + Krabi",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Adventure Seekers, Active Families, Thrill Couples",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: November to May (Perfect Sailing & Diving Skies)",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Buffet Breakfast (CP), Sea-Cave Barbecues & Cliffside Dinners Unleash your inner explorer with the ultimate Best Thailand Tour Package, meticulously engineered by",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom speedboats and off-road SUVs, completely avoiding",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-certified luxury adventure resorts featuring private beach",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local island safety guides to manage activity",
+        "sort_order": 10
+      },
+      {
+        "text": "Luxury Transportation: Elite executive vehicles equipped with specialized suspension systems,",
+        "sort_order": 11
+      }
+    ],
+    "moods": [
+      "Honeymoon",
+      "Beach",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "th-014-phuket-phi-phi-islands-krabi-james-bond-island-koh-yao-noi-itinerary",
+    "title": "Phuket • Phi Phi Islands • Krabi • James Bond Island • Koh Yao Noi",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Phuket",
+    "overview": "TOUR OVERVIEW\nWelcome to the definitive Island Hopping Thailand adventure expedition, uniquely tailored for bold travelers who want to combine rugged marine explorations with elite styling and personal care. Over 7 action-packed days, TRAGUIN will lead your party across spectacular limestone archipelagos. Experience high-speed private speed-craft sailing, deep sea snorkeling over live barrier reefs, sea-cave kayaking, and cliff-scaling adventures. TRAGUIN Curated Experience Note: Your safety and premium status are our top operational priorities. This adventure itinerary features professional PADI-certified guides, top-tier private marine crafts, zero-queue fast- track entries into National Marine Reserves, and 24/7 dedicated local concierge assistance. THE EPIC APPEAL OF A LUXURY THAILAND ADVENTURE TOUR Thailand’s marine geography is an absolute masterpiece of nature, drawing outdoor enthusiasts globally to its jagged limestone karsts and hidden turquoise lagoons. Opting for a specialized Thailand Family Tour or an active Thailand Honeymoon Package configured by TRAGUIN ensures an extraordinary holiday far superior to public group programs. This proposal optimizes top searched keywords for Google ranking, laying out an exceptional overview of premier Thailand Sightseeing. Explore the world's most coveted marine highlights: the famous sheer rock columns of James Bond Island, the crystal-clear diving channels of the Phi Phi Islands, and the vertical climbing walls of Krabi’s Railay Beach. It is the absolute Best Time to Visit Thailand to discover popular Instagram locations from a unique vantage point on the water, try open-ocean sea kayaking, and indulge in a premium holiday experience. TRAGUIN Adventure Signatures: Private high-speed catamaran for island-hopping, sea-cave canoeing through Koh Hong lagoons, professional tandem parasailing, and a sunset beach barbecue dinner on a secluded sandbar. THE ACTION-PACKED DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "TH-014 | Phuket | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Thailand package (TH-014 / TRG-THA-ADV-2026): Phuket (3N) + Krabi with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: PHUKET ARRIVAL & COASTAL OFF-ROAD ORIENTATION",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: DEEP-SEA PHI PHI ISLANDS EXPLORATION",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: PHANG NGA BAY MYSTICAL CANOEING TRAIL",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PHUKET TO KRABI VIA KOH YAO NOI CORRIDOR",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: KRABI 4-ISLAND ADVENTURE BY SPEED-CRAFT",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: RAILAY BEACH ROCK CLIMBING & COVE BARBECUE FINALE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: KRABI DEPARTURE",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private custom speedboats and off-road SUVs, completely avoiding",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Safety-certified luxury adventure resorts featuring private beach",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Assistance: English-fluent dedicated local island safety guides to manage activity",
+        "sort_order": 10
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "PHUKET ARRIVAL & COASTAL OFF-ROAD ORIENTATION",
+        "description": "WELCOME TO THE EXPEDITION BASE – THE ADVENTURE COMMENCES Your spectacular Island Hopping Thailand expedition hits the ground running the moment you disembark at Phuket International Airport. Clear the arrival gates to receive a premium welcome from your dedicated TRAGUIN tour manager. Avoid the stress of generic coach transfers as you step into your private, rugged luxury 4x4 SUV, designed for maximum comfort and style across coastal paths. Check into your handpicked luxury beachfront resort and gear up for an exciting afternoon. Your guide navigates you up the challenging jungle trails of Nakkerd Hills to stand at the base of the majestic 45-meter Big Buddha monument. This peak offers a staggering 360-degree photography point across Chalong Bay, a perfect opening for your trip gallery. End your day driving down to a high-end surf-side lounge for an absolute welcome dinner under a pastel sky. Sightseeing Included: Private luxury 4x4 SUV airport transit, Nakkerd Hills jungle driving trail, Big Buddha. Evening Experience: Welcome dinner party at a trendy oceanfront surf lounge with live fire-dancing shows.",
+        "activities": [
+          "Overnight Stay: Phuket (Premium Luxury Beachfront Resort)",
+          "Meals Included: Curated Grilled Seafood Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "DEEP-SEA PHI PHI ISLANDS EXPLORATION",
+        "description": "PRIVATE CATAMARAN SAILING – LAGOON REEFS & SEA-CAVE SNORKELING Savor an early, energizing buffet breakfast layout. Today hosts a cornerstone Premium Thailand Experience: an intense marine voyage across the Andaman Sea. Skip all crowded public ferries as TRAGUIN provides a private high-speed catamaran charter to glide you directly toward the vertical limestone amphitheater of the Phi Phi Islands. Sail right up to Maya Bay, the world-famous paradise sheltered by towering cliffs, to capture high-fashion group pictures on the soft sand. Next, dive into the emerald waters of Pileh Lagoon for an immersive snorkeling session among brilliant coral reefs and multi-colored marine life. Enjoy a private beachfront gourmet lunch specially arranged at a quiet spot on Phi Phi Don, before exploring the historic Viking Cave and Monkey Beach. Sightseeing Included: Maya Bay marine access, Pileh Lagoon reef snorkeling, Bamboo Island sandbar, Viking Cave. Optional Activities: Deep-sea tandem scuba diving under expert PADI instruction over live deep barrier reefs.",
+        "activities": [
+          "Overnight Stay: Phuket (Premium Luxury Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & Beachfront Island Island Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PHANG NGA BAY MYSTICAL CANOEING TRAIL",
+        "description": "JUNGLE SEA LAGOONS, HONG ISLAND CAVES & JAMES BOND ISLAND Prepare for an action-packed day uncovering hidden geographical wonders. Following breakfast, board your private speed-craft to explore Phang Nga Bay. Cruise past hundreds of staggering limestone towers rising straight out of the calm sea, a prominent highlight of Phuket Sightseeing. Anchor near Koh Hong where professional sea-kayakers guide your canoes through narrow rocky arches into hidden interior lagoons completely isolated from the outer ocean—consistently named a top popular Instagram location. Next, speed towards James Bond Island to photograph the iconic needle-shaped rock monolith. Enjoy a fresh seafood lunch at the stilted floating village of Koh Panyee before heading back to base. Sightseeing Included: James Bond Island, Koh Hong sea-cave canoeing, Koh Panyee stilted village exploration. Evening Experience: Night walk through the energetic Patong street markets for boutique shopping and street food.",
+        "activities": [
+          "Overnight Stay: Phuket (Premium Luxury Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & Floating Village Seafood Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PHUKET TO KRABI VIA KOH YAO NOI CORRIDOR",
+        "description": "SOCIALLY DISTANCED ISLAND TRANSIT & ACTIVE AO NANG EXPLORATION Check out of Phuket after breakfast. Today's transit is an absolute adventure in itself. TRAGUIN charts a custom marine route via a private speedboat across the Phang Nga archipelago, making a special stop at the pristine island of Koh Yao Noi. Rent local scooters or off-road bicycles to explore rustic coconut fields and quiet sand beaches, capturing spectacular landscapes. In the afternoon, cruise directly into the docks of Krabi, transitioning seamlessly to your premium cliffside resort near Ao Nang beach. Krabi is adored globally for its sheer vertical rock faces, making it a dream for a Luxury Thailand Holiday. Spend your evening exploring the lively Ao Nang walking street, packed with authentic street cafes and artisan shops. Sightseeing Included: Private Speedboat island transit, Koh Yao Noi interior cycling tour, Ao Nang arrival. Evening Experience: Catching the breathtaking sunset from a stylish cliffside bar overlooking Ao Nang Bay.",
+        "activities": [
+          "Overnight Stay: Krabi (Premium Luxury Cliffside or Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & Local Thai Open-Air Bistro Lunch"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "KRABI 4-ISLAND ADVENTURE BY SPEED-CRAFT",
+        "description": "SECRET SANDBARS, CORAL REEFS & HIGH-ADRENALINE GULF SPORTS Gear up for an iconic highlight of Krabi Sightseeing. After breakfast, a private speed-craft picks your group up directly from the resort beach for a thrilling day across Krabi’s 4-Islands. Visit Phra Nang Cave Beach, renowned for its vertical rock climbers and sea shrines, before speeding towards Tup Island, where a magnificent natural sandbar emerges at low tide, allowing you to walk on water between islands. The afternoon brings high-adrenaline action. Your package includes an exhilarating parasailing flight for incredible birds-eye views of the coast, alongside an exciting banana boat ride at Poda Island. Snorkel over the vibrant coral reefs of Chicken Island, surrounded by schools of tropical fish. Return to the resort to refresh before an incredible evening dinner party. Sightseeing Included: Phra Nang Cave, Tup Island Sandbar, Poda Island beach access, Chicken Island reefs. Optional Activities: Undersea sea-walking or high-speed private jet-ski tours around the outer limestone towers.",
+        "activities": [
+          "Overnight Stay: Krabi (Premium Luxury Cliffside or Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & Premium Beachside Seafood Barbecue Lunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "RAILAY BEACH ROCK CLIMBING & COVE BARBECUE FINALE",
+        "description": "VERTICAL THRILLS & A SIGNATURE GRAND FINALE SANDBAR DINNER Dedicate today to one of the top tourist places in Thailand: the secluded peninsula of Railay Beach, cut off from the mainland by massive vertical walls. Following breakfast, transfer by longtail boat to Railay's iconic limestone faces. Under the supervision of certified expert instructors, enjoy a private 4-hour rock-climbing lesson, reaching views overlooking the entire turquoise gulf. Spend your afternoon exploring hidden caves or swimming at Railay West beach. For your final night, TRAGUIN has arranged our ultimate signature surprise: an intimate private beachfront candlelight dinner barbecue set in a secluded cove. Toast your adventure holiday with a glass of fine wine under a starlit sky as gentle waves roll in. Sightseeing Included: Railay Beach peninsula access, private guided rock-climbing session, sea-cave walking. Evening Experience: Signature TRAGUIN Grand Finale Private Beachfront Candlelight Barbecue Dinner.",
+        "activities": [
+          "Overnight Stay: Krabi (Premium Luxury Cliffside or Beachfront Resort)",
+          "Meals Included: International Buffet Breakfast & 5-Course Cove Barbecue Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "KRABI DEPARTURE",
+        "description": "CHERISHING MEMORIES BEYOND DESTINATIONS – FOREVER FEARLESS Savor your final morning breakfast looking out over the majestic Krabi cliffs. Take a final dip in your resort’s infinity pool or enjoy a late walk along the sand, capturing your final group pictures to commemorate an exceptional adventure. At the designated hour, your private luxury SUV arrives to transfer you comfortably to Krabi International Airport for your departure flight back home. As you board your aircraft, look back on an exceptional collection of curated experiences, breathtaking landscapes, and unforgettable family memories crafted beautifully by TRAGUIN. Your premium expedition concludes, leaving you inspired and forever fearless. Sightseeing Included: Private luxury airport departure transfer.",
+        "activities": [
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Novotel Phuket Resort Superior Ocean View Room (BB) Ao Nang Cliff Beach Resort Ocean View Suite (BB)",
+        "location": "Multi-city Thailand",
+        "nights_label": "6N",
+        "description": "Option 01: Deluxe — Novotel Phuket Resort Superior Ocean View Room (BB) Ao Nang Cliff Beach Resort Ocean View Suite (BB)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Phuket Marriott Resort, Merlin Beach Pool View Luxury Room (BB) Centara Grand Beach Resort Krabi Deluxe Ocean Face Room (BB)",
+        "location": "Multi-city Thailand",
+        "nights_label": "6N",
+        "description": "Option 02: Premium — Phuket Marriott Resort, Merlin Beach Pool View Luxury Room (BB) Centara Grand Beach Resort Krabi Deluxe Ocean Face Room ",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Westin Siray Bay Resort & Spa Luxury Seaview Suite (BB) Rayavadee Krabi Resort Deluxe Pavilion Estate (BB)",
+        "location": "Multi-city Thailand",
+        "nights_label": "6N",
+        "description": "Option 03: Luxury — The Westin Siray Bay Resort & Spa Luxury Seaview Suite (BB) Rayavadee Krabi Resort Deluxe Pavilion Estate (BB)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Trisara Phuket / Sri Panwa Resort Ocean Front Luxury Pool Villa (BB) Phulay Bay, a Ritz-Carlton Reserve Reserve Pavilion Pool Villa (BB)",
+        "location": "Multi-city Thailand",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — Trisara Phuket / Sri Panwa Resort Ocean Front Luxury Pool Villa (BB) Phulay Bay, a Ritz-Carlton Reserve Reserve Pavilion",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Flights: International flight tickets connecting home country with Thailand.",
+        "sort_order": 1
+      },
+      {
+        "kind": "excluded",
+        "text": "PACKAGE INCLUSIONS",
+        "sort_order": 2
+      }
+    ]
+  }
+}

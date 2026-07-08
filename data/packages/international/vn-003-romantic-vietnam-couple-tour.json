@@ -2,48 +2,49 @@
   "destination_slug": "vietnam",
   "package": {
     "slug": "vn-003-romantic-vietnam-couple-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "VN-003",
+    "traguin_tour_code": "TRG-VNM-ROM-2026",
     "title": "Romantic Vietnam Couple Tour",
     "duration_label": "05 Nights / 06 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 84,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Hanoi (2N) → Halong Bay (2N) → Hoi An (1N) romantic sanctuary",
+        "text": "Serial code VN-003 | TRAGUIN tour code TRG-VNM-ROM-2026",
         "sort_order": 1
       },
       {
-        "text": "Intimate Hanoi welcome dinner & slow-paced cultural harmony",
+        "text": "Country: Vietnam, Southeast Asia | Category: Premium Romantic Couple Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Ultra-luxury private Halong Bay cruise with candlelit dinners",
+        "text": "Destinations: Hanoi Charm • Halong Bay Private Cruise • Hoi An Romantic Streets • Coastal Serenity",
         "sort_order": 3
       },
       {
-        "text": "Hoi An lantern-lit Ancient Town magic at night",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-VNM-ROM-2026 | Serial VN-003",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Romantic",
       "Luxury",
-      "Cultural",
-      "Nature",
-      "Beach"
+      "Honeymoon"
     ]
   },
   "itinerary": {
@@ -52,97 +53,94 @@
     "duration_label": "05 Nights / 06 Days",
     "duration_days": 6,
     "starting_price": 0,
-    "price_note": "On Request (Premium Honeymoon Experience)",
+    "price_note": "On Request (Premium Vietnam Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Hanoi Charm • Halong Bay Private Cruise • Hoi An Romantic Streets",
-    "overview": "Begin your romantic journey together in the enchanting landscapes of Vietnam. This TRAGUIN curated couple's sanctuary blends the colonial charm of Hanoi, the serene luxury of a private cruise in Halong Bay, and the intimate streets of Hoi An — ensuring unforgettable memories in a truly romantic setting.",
-    "is_featured": true,
-    "featured_sort_order": 84,
+    "tagline": "Romantic Vietnam Couple Tour",
+    "overview": "Hanoi Charm • Halong Bay Private Cruise • Hoi An Romantic Streets • Coastal Serenity 05 Nights / 06 Days Romantic Vietnam Couple Sanctuary SERIAL CODE: VN-003 TRAGUIN TOUR CODE: TRG-VNM-ROM-2026 STATE / COUNTRY: Vietnam CATEGORY: Premium Romantic Couple Tour Package DURATION: 05 Nights / 06 Days Hanoi & Romantic Coastal Retreats\n\nTOUR OVERVIEW\nBegin your romantic journey together in the enchanting landscapes of Vietnam. This TRAGUIN curated couple's sanctuary blends the colonial charm of Hanoi, the serene luxury of a private cruise in Halong Bay, and the intimate streets of Hoi An, ensuring unforgettable memories in a truly romantic setting. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "VN-003 | Romantic Vietnam Couple Tour | TRAGUIN",
-    "seo_description": "Premium 05 Nights / 06 Days Vietnam honeymoon package (VN-003): Hanoi, private Halong Bay cruise, and Hoi An lantern magic.",
-    "is_published": true,
+    "seo_description": "Premium 05 Nights / 06 Days Vietnam package (VN-003 / TRG-VNM-ROM-2026): Hanoi Charm • Halong Bay Private Cruise • Hoi An Romantic Streets • Coastal Serenity with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Intimate Hanoi Welcome Dinner",
+        "text": "Day 01: ARRIVAL IN HANOI & INTIMATE WELCOME",
         "sort_order": 1
       },
       {
-        "text": "Private Halong Bay Cruise",
+        "text": "Day 02: HANOI CULTURAL HARMONY",
         "sort_order": 2
       },
       {
-        "text": "Sunset Deck & Candlelit Cruise Dinner",
+        "text": "Day 03: HALONG BAY PRIVATE CRUISE",
         "sort_order": 3
       },
       {
-        "text": "Hoi An Lantern-Lit Ancient Town",
+        "text": "Day 04: HALONG BAY SERENITY",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: HOI AN LANTERN MAGIC",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Hanoi & Intimate Welcome",
+        "title": "ARRIVAL IN HANOI & INTIMATE WELCOME",
         "description": "Arrive in Hanoi. Private transfer to your intimate boutique hotel. Savor a quiet, romantic welcome dinner in the heart of the city.",
         "activities": [
-          "Sightseeing Included: Private transfer, romantic welcome dinner",
-          "Overnight Stay: Hanoi (Boutique Heritage Hotel)",
-          "Meals Included: Welcome Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Hanoi Cultural Harmony",
-        "description": "A slow-paced, romantic exploration of Hanoi's hidden streets, museums, and local charms, perfect for couples wanting to discover cultural richness.",
+        "title": "HANOI CULTURAL HARMONY",
+        "description": "A slow-paced, romantic exploration of Hanoi’s hidden streets, museums, and local charms, perfect for couples wanting to discover cultural richness.",
         "activities": [
-          "Sightseeing Included: Slow-paced Hanoi cultural exploration",
-          "Overnight Stay: Hanoi (Boutique Heritage Hotel)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Halong Bay Private Cruise",
+        "title": "HALONG BAY PRIVATE CRUISE",
         "description": "Transfer to Halong Bay. Board your ultra-luxury private cruise vessel for an intimate getaway on the emerald waters.",
         "activities": [
-          "Sightseeing Included: Transfer to Halong Bay, private cruise boarding",
-          "Overnight Stay: Halong Bay (Ultra-Luxury Private Cruise)",
-          "Meals Included: Premium Breakfast & Gourmet Cruise Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Halong Bay Serenity",
-        "description": "A day of private exploration, featuring sunset deck relaxation, cave visits, and candlelit dinners under the stars — unforgettable memories.",
+        "title": "HALONG BAY SERENITY",
+        "description": "A day of private exploration, featuring sunset deck relaxation, cave visits, and candlelit dinners under the stars —unforgettable memories.",
         "activities": [
-          "Sightseeing Included: Cave visits, sunset deck relaxation, candlelit dinner",
-          "Overnight Stay: Halong Bay (Ultra-Luxury Private Cruise)",
-          "Meals Included: Premium Breakfast & Candlelit Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Hoi An Lantern Magic",
+        "title": "HOI AN LANTERN MAGIC",
         "description": "Flight to Da Nang, followed by a romantic transfer to Hoi An. Experience the magic of the lantern-lit Ancient Town at night.",
         "activities": [
-          "Sightseeing Included: Domestic flight to Da Nang, Hoi An Ancient Town evening visit",
-          "Overnight Stay: Hoi An (Romantic Resort Retreat)",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Departure",
-        "description": "Final luxury breakfast before your TRAGUIN private transfer, completing your premium romantic Vietnam sojourn.",
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer, completing your premium romantic Vietnam sojourn. HANDPICKED ROMANTIC STAYS Category Hanoi (2N) Halong Bay (2N) Hoi An (1N) Option 01: PremiumBoutique Heritage HotelsUltra-Luxury Private CruiseRomantic Resort Retreat",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: Premium Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       }
@@ -150,89 +148,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Boutique Heritage Hotels / similar",
-        "location": "Hanoi",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "Boutique Heritage HotelsUltra-Luxury Private CruiseRomantic Resort Retreat",
+        "location": "Multi-city Vietnam",
+        "nights_label": "5N",
+        "description": "Option 01: Premium — Boutique Heritage HotelsUltra-Luxury Private CruiseRomantic Resort Retreat",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Ultra-Luxury Private Cruise / similar",
-        "location": "Halong Bay",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Hanoi Charm",
+        "nights_label": "5N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
         "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Full Board",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Romantic Resort Retreat / similar",
-        "location": "Hoi An",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Hanoi Charm",
+        "nights_label": "5N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Hanoi Charm",
+        "nights_label": "5N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "05 Nights in handpicked romantic hotels and private cruise across Hanoi, Halong Bay, and Hoi An",
+        "text": "Premium handpicked accommodation across Vietnam",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private chauffeur-driven luxury transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Ultra-luxury private Halong Bay cruise with candlelit dining",
+        "text": "Inter-city transfers and curated sightseeing as per itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Domestic flight to Da Nang and Hoi An Ancient Town evening experience",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated honeymoon concierge support",
+        "kind": "excluded",
+        "text": "International airfare and Vietnam visa fees",
         "sort_order": 5
       },
       {
         "kind": "excluded",
-        "text": "International airfare and Vietnam entry visa processing fees",
-        "sort_order": 100
-      },
-      {
-        "kind": "excluded",
         "text": "Personal expenses, laundry, room service, and mini-bar charges",
-        "sort_order": 101
+        "sort_order": 6
       },
       {
         "kind": "excluded",
         "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 102
+        "sort_order": 7
       },
       {
         "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 103
+        "sort_order": 8
       }
     ]
   }

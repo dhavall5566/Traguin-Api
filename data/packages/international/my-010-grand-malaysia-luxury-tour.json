@@ -1,0 +1,257 @@
+{
+  "destination_slug": "malaysia",
+  "package": {
+    "slug": "my-010-grand-malaysia-luxury-tour",
+    "serial_code": "MY-010",
+    "traguin_tour_code": "TRG-MAL-GRD-2026",
+    "title": "Grand Malaysia Luxury Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MY-010 | TRAGUIN tour code TRG-MAL-GRD-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Malaysia, Asia | Category: Ultimate Grand Malaysia Discovery",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Kuala Lumpur (2N) +",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "my-010-grand-malaysia-luxury-itinerary",
+    "title": "Grand Malaysia Luxury Tour",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Malaysia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Malaysia Luxury Tour",
+    "overview": "Kuala Lumpur • Langkawi Island • Penang • Cultural Heritage 06 Nights / 07 Days Grand Malaysia Luxury Discovery SERIAL CODE: MY-010 TRAGUIN TOUR CODE: TRG-MAL-GRD-2026 STATE / COUNTRY: Malaysia CATEGORY: Ultimate Grand Malaysia Discovery DURATION: 06 Nights / 07 Days DESTINATIONS: Kuala Lumpur (2N) + Penang (2N) + Langkawi (2N)\n\nTOUR OVERVIEW\nIndulge in the ultimate Grand Malaysia exploration with our TRAGUIN curated luxury tour. From the cosmopolitan splendor of Kuala Lumpur to the heritage charm of Penang and the azure serenity of Langkawi, this luxury Malaysia holiday offers unforgettable memories, breathtaking landscapes, and exclusive experiences.\n\nWHY CHOOSE OUR GRAND MALAYSIA LUXURY TOUR?\nMalaysia offers an unparalleled tapestry of culture, adventure, and refinement. Our curated experiences in Kuala Lumpur, Penang, and Langkawi provide the perfect balance for the discerning traveler. With TRAGUIN, enjoy handpicked hotels, private transfers, and a truly premium Malaysia experience. Discover the iconic attractions that make Malaysia a top global destination. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MY-010 | Grand Malaysia Luxury Tour | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Malaysia package (MY-010 / TRG-MAL-GRD-2026): Kuala Lumpur (2N) + with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN KUALA LUMPUR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: KUALA LUMPUR TO PENANG",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: PENANG CULTURAL HERITAGE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PENANG TO LANGKAWI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: LANGKAWI ISLAND LUXURY",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: LANGKAWI LEISURE & SUNSET CRUISE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN KUALA LUMPUR",
+        "description": "Arrive in style at the capital. Your TRAGUIN private chauffeur will escort you to your handpicked hotel. Enjoy a luxury evening tour of Kuala Lumpur's vibrant city center and iconic attractions.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "KUALA LUMPUR TO PENANG",
+        "description": "Fly to Penang, the food and heritage capital. Discover scenic beauty in George Town, a UNESCO World Heritage site, and stay in one of our premium stays.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "PENANG CULTURAL HERITAGE",
+        "description": "A curated experience exploring Penang’s colorful street art, historic mansions, and temple architecture. Indulge in culinary delights that offer unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PENANG TO LANGKAWI",
+        "description": "Take a scenic flight to Langkawi, Malaysia's jewel of the Andaman. Your luxury Malaysia holiday continues with an arrival at a world-class premium stay by the beach.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "LANGKAWI ISLAND LUXURY",
+        "description": "A full day of exclusive experiences. Visit the SkyBridge, explore lush mangroves, and enjoy the scenic beauty of Langkawi's turquoise waters.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "LANGKAWI LEISURE & SUNSET CRUISE",
+        "description": "Spend time in paradise with immersive experiences. Conclude your day with a sunset yacht cruise, offering breathtaking landscapes of the island’s archipelago.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE",
+        "description": "Final relaxation and breakfast before your TRAGUIN assisted transfer. Leave Malaysia with unforgettable memories of a truly grand adventure.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Kuala Lumpur (2N) +",
+        "nights_label": "6N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Kuala Lumpur (2N) +",
+        "nights_label": "6N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Kuala Lumpur (2N) +",
+        "nights_label": "6N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The St. Regis KL Eastern & Oriental Hotel The Datai Langkawi",
+        "location": "Multi-city Malaysia",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — The St. Regis KL Eastern & Oriental Hotel The Datai Langkawi",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Malaysia",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

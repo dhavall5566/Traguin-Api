@@ -2,48 +2,60 @@
   "destination_slug": "south-korea",
   "package": {
     "slug": "kr-003-south-korea-luxury-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "KR-003",
+    "traguin_tour_code": "TRAGUIN-KLUXURY-003",
     "title": "South Korea Luxury Tour",
     "duration_label": "06 Nights / 07 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 53,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Seoul (2N) → Gyeongju (1N) → Busan (1N) → Jeju (2N) luxury circuit",
+        "text": "Serial code KR-003 | TRAGUIN tour code TRAGUIN-KLUXURY-003",
         "sort_order": 1
       },
       {
-        "text": "VIP Hanbok Gyeongbokgung & Han River sunset yacht",
+        "text": "Country: South Korea, Asia | Category: Luxury Travel DURATION: 06 Nights / 07 Days",
         "sort_order": 2
       },
       {
-        "text": "Bulguksa Temple, Gamcheon Village & Busan catamaran",
+        "text": "Destinations: Seoul • Gyeongju • Busan • Jeju Island",
         "sort_order": 3
       },
       {
-        "text": "Jeju volcanic wonders & Haenyeo diver experience",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated concierge assistance",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRAGUIN-K luxury-003 | Serial KR-003",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Royal Korean Breakfast daily, with exclusive fine-dining Michelin recommendations. Route Guide: Seoul (2N) → Gyeongju (1N) → Busan (1N) → Jeju Island (2N) DESTINATION SEO INSIGHT & HIGHLIGHTS When sel",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, after-hours custom tea blending session with a master tea",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every itinerary element is vetted by our global destination designers to",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Concierge: Seamless real-time adjustments, premium restaurant reservations, and priority",
+        "sort_order": 10
       }
     ],
     "moods": [
-      "Luxury",
-      "Family",
-      "Cultural",
-      "Nature",
-      "Beach"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -52,118 +64,119 @@
     "duration_label": "06 Nights / 07 Days",
     "duration_days": 7,
     "starting_price": 0,
-    "price_note": "On Request (Premium FIT)",
+    "price_note": "On Request (Premium South Korea Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Seoul • Gyeongju • Busan • Jeju Island",
-    "overview": "An extraordinary exploration curated by TRAGUIN — where hyper-modern skylines blend with ancient dynastic traditions. Premium FIT itinerary connecting Seoul, Gyeongju, Busan, and Jeju Island with private executive MPV, five-star accommodations, and TRAGUIN curated experiences.",
-    "is_featured": true,
-    "featured_sort_order": 53,
+    "tagline": "South Korea Luxury Tour",
+    "overview": "Seoul • Gyeongju • Busan • Jeju Island 06 Nights / 07 Days Premium Experiential Journey SERIAL CODE: KR-003 STATE / COUNTRY: South Korea CATEGORY: Luxury Travel DURATION: 06 Nights / 07 Days IDEAL FOR: Families & Discerning Couples BEST SEASON: Spring (Apr–Jun) & Autumn (Sep–Nov) STARTING PRICE: On Request (Premium FIT) TRAGUIN TOUR CODE: TRAGUIN-KLUXURY-003 Welcome to an extraordinary exploration curated exclusively by TRAGUIN. This Best South Korea Tour Package invitations you to immerse your family into a realm where hyper-modern futuristic skylines seamlessly blend with ancient, serene dynastic traditions. Experience the ultimate Luxury South Korea Holiday, traversing through historical palaces, private high-tech culinary journeys, and breathtaking coastal landscapes, all wrapped in flawless, personalized signature hospitality.\n\nTOUR OVERVIEW\nThis bespoke South Korea Family Tour is crafted as a premium FIT (Fully Independent Traveler) itinerary, utilizing top-tier private executive transport and handpicked five-star accommodations. Your journey connects the ultra-chic energy of Seoul, the regal timelessness of Gyeongju, the dynamic marine elegance of Busan, and the volcanic wonders of Jeju Island. Every single day features TRAGUIN curated experiences designed to create unforgettable family memories. Travel Mechanism: Private Chauffeur-driven Premium Executive MPV throughout. Meal Plan: Royal Korean Breakfast daily, with exclusive fine-dining Michelin recommendations. Route Guide: Seoul (2N) → Gyeongju (1N) → Busan (1N) → Jeju Island (2N)\n\nWhy Visit Now: A perfect synergy of historic Joseon dynasty grandeur, UNESCO world heritage sites,\ncutting-edge skincare wellness clinics, and world-renowned K-culture aesthetics. Famous Attractions Covered: Gyeongbokgung Palace, Bukchon Hanok Village, Bulguksa Temple, Haeundae Beach, and Seongsan Ilchulbong. Most Searched Luxury Experiences: Private VIP Hanbok photoshoots, authentic Korean tea ceremonies in hidden courtyard estates, high-speed KTX First Class transits, and helicopter or luxury private yacht charters. Instagram & Photography Coordinates: Starfield Library, Gamcheon Culture Village, and the sunset vistas over Jeju's dramatic black-lava basalt coastlines.",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "KR-003 | South Korea Luxury Tour | TRAGUIN",
-    "seo_description": "Luxury 06 Nights / 07 Days South Korea package (KR-003): Seoul, Gyeongju, Busan, Jeju Island, KTX first class, Han River yacht, and Busan catamaran cruise.",
-    "is_published": true,
+    "seo_description": "Premium 06 Nights / 07 Days South Korea package (KR-003 / TRAGUIN-KLUXURY-003): Seoul • Gyeongju • Busan • Jeju Island with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "VIP Incheon Fast-Track Arrival",
+        "text": "Day 01: SEOUL — GRAND ARRIVAL & ULTRA-LUXURY WELCOME",
         "sort_order": 1
       },
       {
-        "text": "Gyeongbokgung Palace Private Hanbok Walk",
+        "text": "Day 02: SEOUL — DYNASTIC MAJESTY & IMMERSIVE K-CULTURE",
         "sort_order": 2
       },
       {
-        "text": "Bulguksa Temple & Wolji Pond Illumination",
+        "text": "Day 03: GYEONGJU — THE ANCIENT KINGDOM OF SHILLA",
         "sort_order": 3
       },
       {
-        "text": "Busan Catamaran & Gwangan Bridge",
+        "text": "Day 04: BUSAN — MARITIME GRANDEUR & COASTAL SOPHISTICATION",
         "sort_order": 4
       },
       {
-        "text": "Jeju Seongsan Ilchulbong & Haenyeo Experience",
+        "text": "Day 05: JEJU ISLAND — VOLCANIC WONDERS & PRISTINE NATURE",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: JEJU ISLAND — TEA PLANTATIONS & MAJESTIC WATERFALLS",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE — END OF A LUXURY ODYSSEY",
+        "sort_order": 7
+      },
+      {
+        "text": "TRAGUIN Signature Experience: Private, after-hours custom tea blending session with a master tea",
+        "sort_order": 8
+      },
+      {
+        "text": "Curated by TRAGUIN Experts: Every itinerary element is vetted by our global destination designers to",
+        "sort_order": 9
+      },
+      {
+        "text": "Personalized Concierge: Seamless real-time adjustments, premium restaurant reservations, and priority",
+        "sort_order": 10
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Seoul — Grand Arrival & Ultra-Luxury Welcome",
-        "description": "VIP airport concierge at jet bridge with fast-track immigration. Luxury sedan along Han River. Evening drive to Namsan Seoul Tower for panoramic city views. Welcome dinner at Michelin-starred Gaon.",
+        "title": "SEOUL — GRAND ARRIVAL & ULTRA-LUXURY WELCOME",
+        "description": "Touch down at Incheon International Airport where your private TRAGUIN VIP Airport Concierge greets you at the jet bridge, fast-tracking you through immigration and customs. Step into a luxury executive sedan and enjoy a smooth, scenic transfer along the Han River into the heart of Seoul. Check into your ultra-luxury handpicked hotel, hovering elegantly above the city skyline. Spend your afternoon unwinding in your premium suite or exploring the high-end boutique avenues of Apgujeong Rodeo Street. As twilight falls, embark on a private chauffeured evening drive to Namsan Seoul Tower for a panoramic introductory gaze at this glittering mega-city. SIGHTSEEING: Incheon VIP Fast-track, Namsan Tower View OPTIONAL: Sulwhasoo Spa Treatment EVENING: Welcome Dinner at Michelin Starred Gaon OVERNIGHT: Signiel Seoul (Ultra- Luxury)",
         "activities": [
-          "Sightseeing Included: Incheon VIP fast-track, Namsan Tower view",
-          "Evening Experience: Welcome dinner at Michelin-starred Gaon",
-          "Overnight Stay: Seoul (Signiel Seoul — Ultra Luxury)",
-          "Meals Included: Welcome Drink & Dinner"
+          "MEALS: Welcome Drink"
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Seoul — Dynastic Majesty & Immersive K-Culture",
-        "description": "Private early-access Gyeongbokgung Palace walk in custom Hanboks. Bukchon Hanok Village and Insadong. Private K-Pop dance masterclass or Samsung Innovation Museum. Premium tea blending ceremony.",
+        "title": "SEOUL — DYNASTIC MAJESTY & IMMERSIVE K-CULTURE",
+        "description": "Begin your morning with a premium Seoul Sightseeing experience. Adorn custom-tailored silk Hanboks for a private, early-access guided walk through Gyeongbokgung Palace, capturing stunning family photographs before the crowds arrive. Meander through the labyrinthine alleys of Bukchon Hanok Village, where aristocrats resided centuries ago. In the afternoon, transition from the old world to the ultra-new with a private tour of the Samsung Innovation Museum or an exclusive private K-Pop dance masterclass for the family. Conclude the day with a serene, premium traditional tea blending ceremony inside a private wooden courtyard house in Insadong. SIGHTSEEING: Gyeongbokgung Palace, Bukchon, Insadong OPTIONAL: Private Hanbok VIP Photoshoot EVENING: Han River Luxury Sunset Yacht Cruise OVERNIGHT: Signiel Seoul (Ultra- Luxury)",
         "activities": [
-          "Sightseeing Included: Gyeongbokgung Palace, Bukchon Hanok Village, Insadong",
-          "Evening Experience: Han River luxury sunset yacht cruise",
-          "Overnight Stay: Seoul (Signiel Seoul — Ultra Luxury)",
-          "Meals Included: Breakfast"
+          "MEALS: Breakfast"
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Gyeongju — The Ancient Kingdom of Shilla",
-        "description": "First-class KTX bullet train to Gyeongju. UNESCO Bulguksa Temple and Seokguram Grotto. Daereungwon Tomb Complex. Evening illumination of Donggung Palace and Wolji Pond.",
+        "title": "GYEONGJU — THE ANCIENT KINGDOM OF SHILLA",
+        "description": "Board the high-speed KTX bullet train in First Class, transitioning swiftly southwards to Gyeongju, affectionately termed \"the museum without walls.\" Your private TRAGUIN local expert historian meets you at the station. Spend a profound afternoon exploring the UNESCO-listed Bulguksa Temple, a masterpiece of Buddhist architecture, alongside the mystical Seokguram Grotto. Walk amidst the colossal royal burial mounds at Daereungwon Tomb Complex, feeling the spiritual echoes of old kings. As night falls, witness the breathtaking illumination of Donggung Palace and Wolji Pond, where ancient royalty held lavish banquets, perfectly reflecting across the glass-like water. SIGHTSEEING: Bulguksa Temple, Daereungwon, Wolji Pond OPTIONAL: Traditional Pottery Making Workshop EVENING: Starlight walk by Cheomseongdae Observatory OVERNIGHT: Lahan Select Gyeongju (Premium Lake View)",
         "activities": [
-          "Sightseeing Included: Bulguksa Temple, Daereungwon, Wolji Pond illumination",
-          "Evening Experience: Starlight walk by Cheomseongdae Observatory",
-          "Overnight Stay: Gyeongju (Lahan Select — Premium Lake View)",
-          "Meals Included: Breakfast"
+          "MEALS: Breakfast"
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Busan — Maritime Grandeur & Coastal Sophistication",
-        "description": "Haedong Yonggungsa Temple on ocean cliffs. Gamcheon Culture Village. Haeundae Blueline Park sky capsules. Private luxury catamaran from Suyeongman Marina under Gwangan Diamond Bridge.",
+        "title": "BUSAN — MARITIME GRANDEUR & COASTAL SOPHISTICATION",
+        "description": "A short luxury drive brings your family to Busan, South Korea's vibrant, sophisticated maritime metropolis. Your first destination is the breathtaking Haedong Yonggungsa Temple, uniquely situated directly on the craggy ocean cliffs. Spend the afternoon wandering through the multi-colored, artistic slopes of Gamcheon Culture Village, collecting unique artisanal souvenirs and stopping at trendy panoramic cafes. Later, experience the spectacular Haeundae Blueline Park sky capsules, gliding gracefully above the ocean. In the evening, step onto a private luxury catamaran charter from Suyeongman Marina, sipping champagne under the neon majesty of the Gwangan Diamond Bridge. SIGHTSEEING: Haedong Yonggungsa, Gamcheon, Haeundae OPTIONAL: Jagalchi Premium Seafood Culinary Tour EVENING: Private Catamaran Yacht Cruise with Fireworks OVERNIGHT: Park Hyatt Busan (Ocean View Suite)",
         "activities": [
-          "Sightseeing Included: Haedong Yonggungsa, Gamcheon Culture Village, Haeundae Blueline Park",
-          "Evening Experience: Private catamaran yacht cruise with fireworks",
-          "Overnight Stay: Busan (Park Hyatt Busan — Ocean View Suite)",
-          "Meals Included: Breakfast"
+          "MEALS: Breakfast"
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Jeju Island — Volcanic Wonders & Pristine Nature",
-        "description": "Premium flight to Jeju. Seongsan Ilchulbong sunrise peak. Manjanggul lava tunnel. Exclusive Haenyeo female diver experience with freshly caught seafood on shore.",
+        "title": "JEJU ISLAND — VOLCANIC WONDERS & PRISTINE NATURE",
+        "description": "Transfer to Gimhae Airport for a premium short flight to Jeju Island, a legendary paradise of natural wonders. Upon landing, board your luxury private MPV and head straight towards the dramatic east coast. Witness the awe-inspiring Seongsan Ilchulbong (Sunrise Peak), a magnificent volcanic tuff cone rising majestically from the sea. Next, explore the mysterious underground world of Manjanggul Cave, one of the finest lava tunnels globally. In the afternoon, enjoy an exclusive interaction with Jeju's iconic 'Haenyeo' female divers, learning about their legendary free-diving heritage and enjoying freshly caught premium seafood prepared right on the shore. SIGHTSEEING: Seongsan Ilchulbong, Manjanggul, Haenyeo Experience OPTIONAL: Horseback Riding on Black Sand Beaches EVENING: Traditional Black Pork BBQ Fine Dining OVERNIGHT: The Shilla Jeju (Luxury Resort)",
         "activities": [
-          "Sightseeing Included: Seongsan Ilchulbong, Manjanggul cave, Haenyeo experience",
-          "Evening Experience: Traditional black pork BBQ fine dining",
-          "Overnight Stay: Jeju Island (The Shilla Jeju — Luxury Resort)",
-          "Meals Included: Breakfast"
+          "MEALS: Breakfast"
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Jeju Island — Tea Plantations & Majestic Waterfalls",
-        "description": "Osulloc Tea Museum and green tea fields with private tea-stone class. Cheonjiyeon Waterfall and Jusangjeolli Cliff hexagonal rock formations. TRAGUIN premium family farewell dinner.",
+        "title": "JEJU ISLAND — TEA PLANTATIONS & MAJESTIC WATERFALLS",
+        "description": "Dedicate your final exploration day to Jeju's serene southern coast. Stroll through the lush, emerald expanses of the Osulloc Tea Museum and green tea fields, participating in a premium private tea-stone class. Discover the majestic, multi-tiered Cheonjiyeon Waterfall, shrouded in rich local mythology, followed by the striking Jusangjeolli Cliff hexagonal rock formations, sculpted intricately by ancient volcanic lava flows. Spend your final evening enjoying a premium family farewell dinner arranged by TRAGUIN, reflecting on an incredible week of shared moments. SIGHTSEEING: Osulloc Tea, Cheonjiyeon Falls, Jusangjeolli OPTIONAL: Hello Kitty Island (For Families with Kids) EVENING: Exclusive Multi-course Royal Court Dinner OVERNIGHT: The Shilla Jeju (Luxury Resort)",
         "activities": [
-          "Sightseeing Included: Osulloc Tea Museum, Cheonjiyeon Falls, Jusangjeolli Cliff",
-          "Evening Experience: Exclusive multi-course royal court farewell dinner",
-          "Overnight Stay: Jeju Island (The Shilla Jeju — Luxury Resort)",
-          "Meals Included: Breakfast"
+          "MEALS: Breakfast"
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Departure — End of a Luxury Odyssey",
-        "description": "Leisurely breakfast at luxury resort. Private chauffeur to Jeju International Airport for domestic flight to Seoul Incheon connecting with international departure.",
+        "title": "DEPARTURE — END OF A LUXURY ODYSSEY",
+        "description": "Enjoy a leisurely morning breakfast at your luxury resort before checking out. Your private chauffeur will transfer your family seamlessly back to Jeju International Airport for your domestic flight to Seoul Incheon, perfectly timed to connect with your international departure home. Carry along beautiful, unforgettable family memories curated flawlessly by TRAGUIN. SIGHTSEEING: None / Departure Transfer OPTIONAL: Airport Duty-Free VIP Escort EVENING: Board International Flight OVERNIGHT: In Flight",
         "activities": [
-          "Sightseeing Included: Private departure transfer to Jeju airport",
-          "Meals Included: Breakfast"
+          "MEALS: Breakfast"
         ],
         "sort_order": 7
       }
@@ -171,229 +184,122 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Lotte Hotel Seoul (Superior) / similar",
+        "name": "GYEONGJU STAYS",
         "location": "Seoul",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "nights_label": "6N",
+        "description": "OPTION 01 – NIGHTS): GYEONGJU STAYS | Deluxe Room | MAPAI (Breakfast & Dinner)",
+        "stars": 4,
+        "category_label": "Nights)",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Commodore Hotel Gyeongju / similar",
-        "location": "Gyeongju",
-        "nights_label": "01 Night",
-        "description": null,
+        "name": "Deluxe (4★ / 5★",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 02 – DELUXE: Deluxe (4★ / 5★ | Deluxe Room | MAPAI (Breakfast & Dinner)",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Avani Central Busan / similar",
-        "location": "Busan",
-        "nights_label": "01 Night",
-        "description": null,
+        "name": "Parnas Hotel Jeju",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 03 – PREMIUM: Parnas Hotel Jeju | Deluxe Room | MAPAI (Breakfast & Dinner)",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Grand Hyatt Jeju / similar",
-        "location": "Jeju Island",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "5★)",
+        "location": "Seoul",
+        "nights_label": "6N",
+        "description": "OPTION 04 – LUXURY: 5★) | Lahan Select (Suite | MAPAI (Breakfast & Dinner)",
         "stars": 5,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Luxury",
+        "room_type": "Lahan Select (Suite",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "Four Seasons Seoul",
-        "location": "Seoul",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Lahan Select Gyeongju (Lake View)",
-        "location": "Gyeongju",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "Ananti at Busan Cove",
-        "location": "Busan",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Parnas Hotel Jeju",
-        "location": "Jeju Island",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
-      },
-      {
-        "hotel_id": null,
-        "name": "The Shilla Seoul",
-        "location": "Seoul",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 9
-      },
-      {
-        "hotel_id": null,
-        "name": "Park Hyatt Busan (Ocean View)",
-        "location": "Busan",
-        "nights_label": "01 Night",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 10
-      },
-      {
-        "hotel_id": null,
-        "name": "The Shilla Jeju (Terrace)",
-        "location": "Jeju Island",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 11
-      },
-      {
-        "hotel_id": null,
-        "name": "Signiel Seoul (Premier Suite)",
-        "location": "Seoul",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 12
-      },
-      {
-        "hotel_id": null,
-        "name": "The Shilla Jeju (Grand Suite)",
-        "location": "Jeju Island",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 13
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "06 Nights in ultra-luxury handpicked hotels across Seoul, Gyeongju, Busan, and Jeju",
+        "text": "Premium Stays: 06 Nights in ultra-luxury, handpicked hotels.",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Dedicated private executive MPV (Kia Carnival or similar) throughout",
+        "text": "Transport: Dedicated private executive MPV (Kia Carnival or similar).",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "KTX high-speed train first-class tickets (Seoul to Gyeongju)",
+        "text": "Transit: KTX High-Speed Train First Class tickets (Seoul to Gyeongju).",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Han River sunset yacht and Busan catamaran cruises",
+        "text": "Curated Experiences: Han River Sunset Yacht & Busan Catamaran Cruises.",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "Professional English-speaking elite guides for all sightseeing",
+        "text": "Guiding: Professional English-speaking elite guides for all sightseeing.",
         "sort_order": 5
       },
       {
         "kind": "included",
-        "text": "Custom VIP arrival kit and traditional welcome gifts",
+        "text": "Welcome Amenities: Custom VIP arrival kit and traditional gifts.",
         "sort_order": 6
       },
       {
         "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated concierge assistance line",
+        "text": "Support: 24/7 dedicated TRAGUIN concierge assistance line.",
         "sort_order": 7
       },
       {
         "kind": "excluded",
-        "text": "International and domestic flight tickets",
+        "text": "Airfare: International and domestic flight tickets.",
         "sort_order": 8
       },
       {
         "kind": "excluded",
-        "text": "K-ETA or South Korea entry visa processing",
+        "text": "Visas: K-ETA or formal South Korea entry visa processing.",
         "sort_order": 9
       },
       {
         "kind": "excluded",
-        "text": "Personal expenses, laundry, mini-bar, and unspecified meals",
+        "text": "Personal Expenses: Laundry, telephone calls, mini-bar billing.",
         "sort_order": 10
       },
       {
         "kind": "excluded",
-        "text": "Gratuities and comprehensive travel insurance",
+        "text": "Meals: Lunches and dinners not specified in the final plan.",
         "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping: Gratuities for elite guides and private chauffeurs.",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "Insurance: Comprehensive premium international travel insurance.",
+        "sort_order": 13
       }
     ]
   }

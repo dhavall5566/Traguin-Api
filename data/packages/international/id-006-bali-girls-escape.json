@@ -2,48 +2,48 @@
   "destination_slug": "bali",
   "package": {
     "slug": "id-006-bali-girls-escape",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "ID-006",
+    "traguin_tour_code": "TRAGUIN-BALI-000",
     "title": "Bali Girls Escape",
     "duration_label": "05 Nights / 06 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 43,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Seminyak (3N) → Ubud (2N) all-female luxury retreat",
+        "text": "Serial code ID-006 | TRAGUIN tour code TRAGUIN-BALI-000",
         "sort_order": 1
       },
       {
-        "text": "Canggu VIP beach club & boutique shopping tour",
+        "text": "Country: Bali, Indonesia | Category: Female Only / Bali Girls Escape DURATION: 05 Nights / 06 Days KEY",
         "sort_order": 2
       },
       {
-        "text": "Uluwatu cliffs, Tanah Lot & Tegalalang Bali Swing",
+        "text": "Destinations: Seminyak • Ubud • Canggu • Uluwatu RECOMMENDED FOR: Bachelorette • Friends' Getaway IDEAL SEASON: April to October (Dry & Sunny) VIP CONCIERGE: 24/7 Dedicated Support Included BALI GIRLS ESCAPE Seminyak Trendy Coasts (3N) & Ubud Rainforest Sanctuary (2N) A CURATED LUXURY HOLIDAY EXPERIENCE BY TRAGUIN Welcome to your bespoke Bali Girls Escape • an ultra-luxury journey exclusively arranged by TRAGUIN for discerning all-female travel collectives. This 5-Night • 6-Day tropical retreat beautifully balances chic lifestyle beach clubs • premium boutique shopping • dramatic cliffside sunsets • and soulful rainforest wellness. Travel in flawless style with private luxury vehicles • curated culinary stops • and handpicked hotel sanctuaries tailored precisely to your preferences. Relax • laugh • and celebrate your bond while our dedicated concierge helpdesk takes care of every detail behind the scenes. TOUR OVERVIEW This premium Best Bali Tour Package is tailored exclusively as a private • female-only retreat that brings together elite island logistics with Bali's trendiest social and relaxation spots. Travel Type: Private Boutique Group / Fully Independent Travel (FIT).",
         "sort_order": 3
       },
       {
-        "text": "Luxury flower bath & floating villa breakfast",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 priority concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Serial ID-006 | Category: Female Only / Girls Escape",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Solo",
-      "Luxury",
-      "Beach",
-      "Cultural",
-      "Nature"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -52,105 +52,100 @@
     "duration_label": "05 Nights / 06 Days",
     "duration_days": 6,
     "starting_price": 0,
-    "price_note": "On Request (Premium Girls Escape)",
+    "price_note": "On Request (Premium Customised)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Seminyak • Canggu • Uluwatu • Ubud",
-    "overview": "An ultra-luxury journey exclusively arranged by TRAGUIN for discerning all-female travel collectives. This tropical retreat balances chic beach clubs, premium boutique shopping, dramatic cliffside sunsets, and soulful rainforest wellness across Seminyak and Ubud. Ideal for bachelorette parties and friends' getaways.",
-    "is_featured": true,
-    "featured_sort_order": 43,
+    "tagline": "Bali Girls Escape",
+    "overview": "TOUR OVERVIEW\nThis premium Best Bali Tour Package is tailored exclusively as a private, female-only retreat that brings together elite island logistics with Bali's trendiest social and relaxation spots. Travel Type: Private Boutique Group / Fully Independent Travel (FIT). • Bali Girls Escape (ID-006) 1 Vehicle Deployment: Dedicated Premium Private Luxury MPV with a professional, English-speaking tourist chauffeur. Meal Blueprint: Sumptuous daily breakfasts (including a signature floating villa pool experience), custom culinary stops, and oceanfront dinners. Route Sequence: Denpasar Airport → Seminyak Coastal Hub → Canggu Lifestyle Escapes → Uluwatu Cliffs → Ubud Rainforest & Cultural Oasis → Denpasar Airport. TRAGUIN Lifestyle Assurance: Skip-the-line entries, pre-arranged VIP daybeds at iconic beach clubs, and tailored spa times are seamlessly secured in advance for your ultimate peace of mind.\n\nWHY BOOK THIS LUXURY BALI HOLIDAY?\nA sophisticated women's getaway requires perfect execution, premium comfort, and gorgeous visual elements. Our Bali Girls Escape package showcases the absolute Top Tourist Places in Bali, curated alongside highly sought-after Instagram locations to ensure premium comfort, complete safety, and continuous lifestyle inspiration. From the magnificent seaside scenery of Tanah Lot and Uluwatu to the high-energy beach clubs of Canggu, you will experience the best time to visit Bali in unparalleled style. Indulge in elite retail therapy across Seminyak's luxury designer rows, design your own souvenirs during private artisan workshops, and experience timeless wellness treatments inside rainforest valleys. DAY-BY-DAY CURATED ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "ID-006 | Bali Girls Escape | TRAGUIN",
-    "seo_description": "Premium 05 Nights / 06 Days Bali girls escape (ID-006): Seminyak, Canggu beach clubs, Uluwatu, Tanah Lot, Ubud rice terraces, and luxury flower bath.",
-    "is_published": true,
+    "seo_description": "Premium 05 Nights / 06 Days Bali package (ID-006 / TRAGUIN-BALI-000): Seminyak • Ubud • Canggu • Uluwatu RECOMMENDED FOR: Bachelorette •  Friends' Getaway IDEAL SEASON: A with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Canggu VIP Beach Club Daybed Access",
+        "text": "Day 01: ARRIVAL IN BALI • ELITE WELCOME TO SEMINYAK COASTAL LUXURY",
         "sort_order": 1
       },
       {
-        "text": "Uluwatu Cliffside Sunset Dining",
+        "text": "Day 02: CANGGU LIFESTYLE: BOUTIQUE SHOPPING & VIP BEACH CLUB",
         "sort_order": 2
       },
       {
-        "text": "Tanah Lot Sea Shrine",
+        "text": "Day 03: ULUWATU CLIFFSIDE MAJESTY & DRAMATIC SUNSET PANORAMIC DINING",
         "sort_order": 3
       },
       {
-        "text": "Private Bali Swing & Tegalalang Terraces",
+        "text": "Day 04: TANAH LOT SEA SHRINE • JOURNEY TO THE JUNGLE SANCTUARY OF UBUD",
         "sort_order": 4
       },
       {
-        "text": "Floating Villa Breakfast Farewell",
+        "text": "Day 05: INSTAGRAM GLAMOUR: TEGALALANG RICE TERRACES & PRIVATE BALI",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: SOULFUL FAREWELL • UNFORGETTABLE MEMORIES BEYOND",
+        "sort_order": 6
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Bali — Elite Welcome to Seminyak",
-        "description": "VIP airport meet & greet with flower garlands. Private luxury transfer to your handpicked hotel or pool villa in Seminyak. Welcome sunset cocktail at a premier beachfront lounge.",
+        "title": "ARRIVAL IN BALI • ELITE WELCOME TO SEMINYAK COASTAL LUXURY",
+        "description": "Begin your luxurious escape the moment you step off your plane at Ngurah Rai International Airport (DPS). Your private TRAGUIN luxury chauffeur awaits in the arrivals terminal with beautiful fresh flower garlands and cold mineral waters. Relax inside your premium private vehicle as you glide smoothly to your handpicked hotel suite or private pool villa in Seminyak—the culinary and chic fashion epicenter of Bali. After checking in, spend a relaxed afternoon unpacking and exploring. In the evening, regroup for a wonderful welcome sunset cocktail at a premier beachfront lounge, toasting to an incredible getaway ahead. Sightseeing & Logistics: VIP Airport Meet & Greet, Private Luxury Transfer, Accommodation Orientation. Evening Highlight:Sunset drinks and tapas at an upscale oceanfront lounge in Seminyak. • Bali Girls Escape (ID-006) 2",
         "activities": [
-          "Sightseeing Included: VIP airport meet & greet, private luxury transfer",
-          "Evening Experience: Welcome sunset cocktail at oceanfront lounge",
-          "Overnight Stay: Seminyak (Premium Luxury Resort / Pool Villa)",
-          "Meals Included: Welcome refreshments & curated welcome dinner"
+          "Overnight Stay: Premium Handpicked Luxury Resort / Private Pool Villa in Seminyak.",
+          "Meals Included: Welcome Refreshments & Curated Welcome Dinner."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Canggu Lifestyle — Boutique Shopping & VIP Beach Club",
-        "description": "Guided shopping tour through Canggu's premium boutiques and designer shops. Pre-booked VIP oceanfront cabana at a world-famous beach club.",
+        "title": "CANGGU LIFESTYLE: BOUTIQUE SHOPPING & VIP BEACH CLUB",
+        "description": "EXPERIENCE Enjoy a delicious gourmet breakfast before your private chauffeur transfers your group to the neighboring trendy coastal town of Canggu. Known globally for its vibrant energy, aesthetic cafes, and independent fashion boutiques, Canggu is a haven for high-end retail therapy. Your guide will escort you through premium custom swimwear studios, luxury organic linen brands, and local designer shops. At noon, step into an ultra-exclusive, pre- booked VIP oceanfront cabana at one of Bali’s world-famous beach clubs. Spend the afternoon lounging poolside, drinking artisan mocktails, and enjoying beautiful ocean breezes. Sightseeing & Logistics: Canggu Guided Shopping Tour, Premium Lifestyle Exploration, Pre-booked Daybed Access. Optional Add-ons:Private cocktail masterclass hosted by an award-winning resort mixologist. Evening Highlight:Dinner at a highly-vetted botanical glasshouse restaurant, celebrated for its gourmet cuisine and stunning decor.",
         "activities": [
-          "Sightseeing Included: Canggu guided shopping tour, VIP beach club daybed access",
-          "Overnight Stay: Seminyak (Premium Luxury Resort / Pool Villa)",
-          "Meals Included: Breakfast & VIP beach club lunch platter"
+          "Overnight Stay: Premium Handpicked Luxury Resort / Private Pool Villa in Seminyak.",
+          "Meals Included: Breakfast & VIP Beach Club Lunch Platter."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Uluwatu Cliffside Majesty & Sunset Dining",
-        "description": "Visit Uluwatu Temple perched 70 meters above the Indian Ocean. Candlelit fine dining at an exclusive cliff-edge restaurant with live acoustic music.",
+        "title": "ULUWATU CLIFFSIDE MAJESTY & DRAMATIC SUNSET PANORAMIC DINING",
+        "description": "Savor a relaxing morning swimming or visiting the spa at your resort. In the afternoon, journey south along the coast to the dramatic sea cliffs of Uluwatu, a key highlight of Bali Sightseeing. Perched 70 meters above the Indian Ocean, the historical Uluwatu Temple offers jaw-dropping panoramic views and deep cultural heritage. Stroll the scenic cliffside walkways for incredible group photographs. Afterward, escape to an elite cliff-hanging restaurant to watch a pristine Bali sunset over the water while enjoying fresh, expertly prepared seafood dishes. Sightseeing & Logistics: Uluwatu Cliff Temple Entry, Guided Coastal Panoramic Tour, Sunset Viewing. Optional Add-ons:Premium seating for the traditional cliffside Kecak Fire Dance performance. Evening Highlight:Candlelit fine dining at an exclusive cliff-edge restaurant with live acoustic music. • Bali Girls Escape (ID-006) 3",
         "activities": [
-          "Sightseeing Included: Uluwatu cliff temple, guided coastal panoramic tour",
-          "Evening Experience: Luxury seafood sunset dinner at cliff-edge restaurant",
-          "Overnight Stay: Seminyak (Premium Luxury Resort / Pool Villa)",
-          "Meals Included: Breakfast & luxury seafood sunset dinner"
+          "Overnight Stay: Premium Handpicked Luxury Resort / Private Pool Villa in Seminyak.",
+          "Meals Included: Breakfast & Luxury Seafood Sunset Dinner."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Tanah Lot & Journey to Ubud Rainforest",
-        "description": "Visit Tanah Lot Temple en route to Ubud. Check into ultra-luxury rainforest resort with pre-arranged Balinese flower-petal bath in your villa.",
+        "title": "TANAH LOT SEA SHRINE • JOURNEY TO THE JUNGLE SANCTUARY OF UBUD",
+        "description": "Check out from your coastal resort and begin your journey into the lush emerald interior of Ubud. En route, experience Tanah Lot Temple, an iconic offshore wave-swept rock shrine that stands as one of the most famous sights in Bali. After capturing magnificent photos, watch the landscape change into rolling hills, deep river valleys, and pristine forests as you enter Ubud. Check into your ultra-luxury rainforest resort. In the afternoon, indulge in an incredible immersive experience: a lavish, pre-arranged Balinese flower-petal bath prepared inside your villa for total physical and mental relaxation. Sightseeing & Logistics: Tanah Lot Temple Visit, Scenic Ubud Interior Transfer, Luxury Villa Check-In. Optional Add-ons:A private sound healing or meditation session at an elite wellness pavilion. Evening Highlight:An organic farm-to-table dinner served by the valley rim under a canopy of stars.",
         "activities": [
-          "Sightseeing Included: Tanah Lot temple, scenic Ubud interior transfer",
-          "Evening Experience: Organic farm-to-table dinner under the stars",
-          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Resort Villa)",
-          "Meals Included: Breakfast & Balinese luxury fusion dinner"
+          "Overnight Stay: Ultra-Luxury Rainforest Resort Villa in Ubud.",
+          "Meals Included: Breakfast & Balinese Luxury Fusion Dinner."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Tegalalang Rice Terraces & Private Bali Swing",
-        "description": "Morning at Tegalalang Rice Terraces with private VIP Bali Swing access. Hidden jungle waterfall and Ubud artisan market. Grand TRAGUIN signature celebration dinner.",
+        "title": "INSTAGRAM GLAMOUR: TEGALALANG RICE TERRACES & PRIVATE BALI",
+        "description": "SWING Dress in your finest flowing resort wear for a morning dedicated to iconic island visuals. Visit the breathtaking Tegalalang Rice Terraces early to catch the morning sunbeams filtering through the palms. Enjoy private VIP access to the premier Bali Swing, gliding out over the emerald agricultural valleys for breathtaking, professional photographs. Afterward, visit a hidden, pristine jungle waterfall for a refreshing break, followed by a stroll through Ubud's traditional artisan markets. Celebrate your final evening with a grand TRAGUIN Signature Celebration Dinner, raising a glass to lifelong friendships and unforgettable memories. Sightseeing & Logistics: Tegalalang Terraces, Private Premium Bali Swing, Hidden Waterfall, Ubud Artisan Market. Optional Add-ons:A private silver jewelry-making class to design matching custom keepsake rings. Evening Highlight:Grand Farewell Celebration Feast featuring fine gastronomy and artisanal custom cocktails. • Bali Girls Escape (ID-006) 4",
         "activities": [
-          "Sightseeing Included: Tegalalang terraces, private Bali Swing, hidden waterfall, artisan market",
-          "Evening Experience: Grand farewell celebration feast",
-          "Overnight Stay: Ubud (Ultra-Luxury Rainforest Resort Villa)",
-          "Meals Included: Signature floating villa breakfast & premium farewell dinner"
+          "Overnight Stay: Ultra-Luxury Rainforest Resort Villa in Ubud.",
+          "Meals Included: Signature Floating Villa Breakfast & Premium Farewell Dinner."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Soulful Farewell",
-        "description": "Floating breakfast in your private villa infinity pool. Private luxury transfer to Ngurah Rai International Airport.",
+        "title": "SOULFUL FAREWELL • UNFORGETTABLE MEMORIES BEYOND",
+        "description": "DESTINATIONS Wake up to the sounds of the jungle and enjoy a luxurious floating breakfast served right in your private villa infinity pool. Take this morning for last-minute relaxation, meditation, or a peaceful walk through the resort’s lush grounds. At the designated time, your private luxury vehicle and chauffeur will arrive to transfer your group seamlessly back to Ngurah Rai International Airport for your departure flight. Leave the Island of the Gods with radiant smiles, relaxed minds, and a collection of unforgettable memories meticulously brought to life by TRAGUIN. Sightseeing & Logistics: Private Airport Departure Logistics, Airport Transfer. Optional Add-ons:VIP Airport Lounge access pre-booking for an entirely stress-free departure experience. Evening Highlight:International flight homeward.",
         "activities": [
-          "Sightseeing Included: Private airport departure transfer",
-          "Meals Included: Premium floating or buffet resort breakfast"
+          "Overnight Stay: In-Flight / Home.",
+          "Meals Included: Premium Floating or Buffet Resort Breakfast."
         ],
         "sort_order": 6
       }
@@ -158,164 +153,64 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Wina Holiday Villa Kuta / Seminyak / similar",
-        "location": "Seminyak",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "LUXURY Wina Holiday Villa Kuta / Seminyak",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — LUXURY Wina Holiday Villa Kuta / Seminyak",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Daily Buffet Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Sthala, a Tribute Portfolio Hotel, Ubud / similar",
-        "location": "Ubud",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "LUXURY Hotel Indigo Bali Seminyak Beach",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — LUXURY Hotel Indigo Bali Seminyak Beach",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Daily Buffet Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Hotel Indigo Bali Seminyak Beach / similar",
-        "location": "Seminyak",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "The Legian Seminyak, Bali",
+        "location": "Bali",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — The Legian Seminyak, Bali",
         "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Daily Gourmet Breakfast",
-        "image_media_id": null,
-        "sort_order": 3
-      },
-      {
-        "hotel_id": null,
-        "name": "Komaneka at Bisma, Ubud / similar",
-        "location": "Ubud",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Daily Gourmet Breakfast",
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "W Bali — Seminyak",
-        "location": "Seminyak",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Elite Luxury",
-        "room_type": null,
-        "meal_plan": "Daily Breakfast + 1 Signature Dinner",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "The Kayon Jungle Resort by Pramana",
-        "location": "Ubud",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Elite Luxury",
-        "room_type": null,
-        "meal_plan": "Daily Breakfast + 1 Signature Dinner",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "The Legian Seminyak, Bali",
-        "location": "Seminyak",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Bespoke All-Inclusive",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Como Shambhala Estate, Ubud",
-        "location": "Ubud",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Bespoke All-Inclusive",
-        "image_media_id": null,
-        "sort_order": 8
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "05 Nights at premium handpicked hotels or private pool villas",
+        "text": "Premium handpicked accommodation across Bali",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Dedicated private luxury MPV with English-speaking chauffeur",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven MPV",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "5 breakfasts (including 1 signature floating villa breakfast) and 3 specialty dinners",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 3
       },
       {
-        "kind": "included",
-        "text": "Pre-booked premium entry and daybed access at Canggu elite beach club",
+        "kind": "excluded",
+        "text": "TRAGUIN Inclusions",
         "sort_order": 4
-      },
-      {
-        "kind": "included",
-        "text": "Complimentary iconic Balinese luxury flower bath arrangement per guest",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "Private entry tickets and unlimited swings at premier Bali Swing location",
-        "sort_order": 6
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 priority concierge backing",
-        "sort_order": 7
-      },
-      {
-        "kind": "excluded",
-        "text": "International airfare to/from Denpasar",
-        "sort_order": 8
-      },
-      {
-        "kind": "excluded",
-        "text": "Indonesia Visa on Arrival and customs declaration fees",
-        "sort_order": 9
-      },
-      {
-        "kind": "excluded",
-        "text": "Extra food, premium alcoholic beverages, laundry, and shopping",
-        "sort_order": 10
-      },
-      {
-        "kind": "excluded",
-        "text": "Voluntary tips and travel insurance",
-        "sort_order": 11
       }
     ]
   }

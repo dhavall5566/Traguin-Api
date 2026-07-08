@@ -1,0 +1,293 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-014-luxury-yoga-wellness-bali-retreat",
+    "serial_code": "ID-014",
+    "traguin_tour_code": "TRG-BALI-WELLNESS-014",
+    "title": "Luxury Yoga & Wellness Bali Retreat",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ID-014 | TRAGUIN tour code TRG-BALI-WELLNESS-014",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Bali, Indonesia | Category: Wellness & Yoga Retreat DURATION: 06 Nights / 07 Days",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Ubud (4N) • Seminyak (2N)IDEAL FOR: Wellness Seekers, Families &",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury MPV / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Leisure"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-014-luxury-yoga-wellness-bali-retreat-itinerary",
+    "title": "Luxury Yoga & Wellness Bali Retreat",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Luxury Yoga & Wellness Bali Retreat",
+    "overview": "An Immersive Journey of Mindfulness, Rejuvenation, and Breathtaking Landscapes Welcome Note from TRAGUIN: Embark on an extraordinary, soulful escape with the Best Bali Tour Package curated meticulously by TRAGUIN experts. Known as the Island of the Gods, Bali represents a sanctuary where spirituality meets raw natural beauty. This exclusive Bali Wellness Yoga Retreat is tailored to harmonize your mind, body, and spirit while enveloping you in ultra-luxury. Experience signature holistic therapy, sacred rituals, and the breathtaking landscapes of Ubud and Seminyak in this ultimate Luxury Bali Holiday.\n\nTOUR OVERVIEW\nThis premium Bali Family Tour and Wellness Retreat is designed as a fully customizable FIT (Flexible Independent Travel) experience. It features high-end private transfers in an executive luxury vehicle, premium handpicked hotels, and a carefully curated daily meal plan emphasizing organic, farm-to-table culinary experiences. Your route seamlessly bridges the tranquil, emerald-green cultural heart of Ubud with the sophisticated, beachside opulence of Seminyak. Every detail reflects the distinct TRAGUIN Curated Experience hallmark, ensuring unforgettable memories. TRAGUIN Luxury Travel WHY CHOOSE THE TRAGUIN PREMIUM BALI EXPERIENCE? Bali remains the world’s most searched destination for holistic wellness, spiritual healing, and high-fashion leisure. Travelers look for the ultimate Bali Honeymoon Package and immersive Bali Sightseeing opportunities to reconnect and capture moments. Ubud, famed for its sweeping rice terraces and artistic heritage, provides the ideal ecosystem for a transformative Yoga Bali Retreat. Meanwhile, Seminyak delivers the premium lifestyle elements—from iconic Instagram locations to legendary golden sunsets. Our itinerary unlocks the Top Tourist Places in Bali, including the iconic sacred monkey forest, Tirta Empul holy spring water temple, breathtaking Tegenungan waterfall, and exclusive beach clubs. Whether it’s participating in a traditional Balinese Melukat purification ritual, shopping for unique handcrafted silver jewelry in local markets, or practicing sunrise yoga overlooking mist-shrouded jungle valleys, this package serves as your definitive guide to the ultimate island escape.\n\nWHY CHOOSE THE TRAGUIN PREMIUM BALI EXPERIENCE?\nBali remains the world’s most searched destination for holistic wellness, spiritual healing, and high-fashion leisure. Travelers look for the ultimate Bali Honeymoon Package and immersive Bali Sightseeing opportunities to reconnect and capture moments. Ubud, famed for its sweeping rice terraces and artistic heritage, provides the ideal ecosystem for a transformative Yoga Bali Retreat. Meanwhile, Seminyak delivers the premium lifestyle elements—from iconic Instagram locations to legendary golden sunsets. Our itinerary unlocks the Top Tourist Places in Bali, including the iconic sacred monkey forest, Tirta Empul holy spring water temple, breathtaking Tegenungan waterfall, and exclusive beach clubs. Whether it’s participating in a traditional Balinese Melukat purification ritual, shopping for unique handcrafted silver jewelry in local markets, or practicing sunrise yoga overlooking mist-shrouded jungle valleys, this package serves as your definitive guide to the ultimate island escape.",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ID-014 | Luxury Yoga & Wellness Bali Retreat | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Bali package (ID-014 / TRG-BALI-WELLNESS-014): Ubud (4N) • Seminyak (2N)IDEAL FOR: Wellness Seekers, Families & with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BALI • THE JOURNEY INTO TRANQUILITY BEGINS",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MORNING VINYASA YOGA & SACRED BALINESE PURIFICATION RITUAL",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SPIRITUAL HEALING, SPA THERAPY & GASTRONOMIC EXPLORATION",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MT. BATUR SUNRISE TREK OR SCENIC WATERFALL SAFARI",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: TRANSITION TO SEMINYAK • ICONIC TANAH LOT SUNSET",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: COASTAL YOGA, BEACHFRONT LEISURE & SUNSET CATAMARAN",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: FAREWELL BALI • DEPARTURE WITH UNFORGETTABLE MEMORIES",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BALI • THE JOURNEY INTO TRANQUILITY BEGINS",
+        "description": "Arrive at Ngurah Rai International Airport in Denpasar, where you will experience a seamless VIP welcome. Your dedicated TRAGUIN luxury consultant and private chauffeur will greet you at the arrival terminal with customized welcome amenities. Settle into your premium executive vehicle and enjoy a scenic, comfortable drive to Ubud, the spiritual and cultural heart of Bali. As the urban landscape transitions into emerald-green vistas, feel the tranquil energy of the island instantly put your mind at ease. Arrive at your ultra-luxury resort, complete an exclusive in-villa check-in, and spend the afternoon unwinding in your private infinity pool overlooking the lush river valley. venue.",
+        "activities": [
+          "Sightseeing Included: VIP Airport Meet & Greet, Scenic Private Transfer to Ubud.",
+          "Evening Experience: An intimate, candlelit organic welcome dinner at the resort's signature fine-dining",
+          "Overnight Stay: Premium Handpicked Luxury Resort in Ubud (e.g., Maya Ubud Resort / Viceroy Bali).",
+          "Meals Included: Dinner."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MORNING VINYASA YOGA & SACRED BALINESE PURIFICATION RITUAL",
+        "description": "Awaken your senses with an invigorating sunrise Vinyasa yoga session inside a breathtaking open-air bamboo shala, guided by a master yogi. Following a nutritious, farm-fresh breakfast, journey to the historic Tirta Empul Holy Water Temple. Here, participate in a deeply moving, traditional Melukat purification ceremony, bathing in crystalline spring waters to cleanse your aura. In the afternoon, explore the iconic Tegalalang Rice Terraces—a world-famous Instagram location—where you can capture striking photographs TRAGUIN Luxury Travel on a private valley swing. Conclude the afternoon with an immersive stroll through the Sacred Monkey Forest Sanctuary.",
+        "activities": [
+          "Sightseeing Included: Tirta Empul Holy Temple, Tegalalang Rice Terraces, Sacred Monkey Forest.",
+          "Optional Activities: Private sound healing session at the Pyramids of Chi.",
+          "Evening Experience: Leisurely walk through Ubud Art Market followed by a gourmet vegan-fusion dinner.",
+          "Overnight Stay: Premium Handpicked Luxury Resort in Ubud.",
+          "Meals Included: Breakfast & Lunch."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SPIRITUAL HEALING, SPA THERAPY & GASTRONOMIC EXPLORATION",
+        "description": "Dedicate your morning to holistic restoration. Partake in a personalized Hatha yoga and meditation session aimed at calming the nervous system. Afterward, surrender to a blissful, 120-minute signature Balinese massage and organic body scrub at an award-winning luxury spa. In the afternoon, delve into Bali's culinary heritage with an exclusive farm-to-table cooking masterclass. Handpick fresh herbs and spices from an organic garden and learn the traditional methods of preparing authentic, nutrient-rich Balinese delicacies. Mozaic restaurant.",
+        "activities": [
+          "Sightseeing Included: Ubud Traditional Arts, Luxury Wellness Spa Experience.",
+          "Optional Activities: Private consultation with a traditional Balinese healer (Balian).",
+          "Evening Experience: Fine-dining multi-course culinary experience at the world-renowned Locavore or",
+          "Overnight Stay: Premium Handpicked Luxury Resort in Ubud.",
+          "Meals Included: Breakfast & Lunch (Self-Prepared)."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MT. BATUR SUNRISE TREK OR SCENIC WATERFALL SAFARI",
+        "description": "An exhilarating day of adventure awaits. Opt for an early morning, premium guided trek up Mount Batur to witness a dramatic sunrise over the volcanic caldera and Lake Batur, complete with a gourmet breakfast served at the summit. Alternatively, choose a relaxed, premium waterfall safari to the majestic Hidden Canyons and Tukad Cepung Waterfall, where morning sunbeams dance magically through a cave opening. Spend your afternoon at leisure, shopping for premium linen apparel, handmade boutique goods, and exquisite ceramics along Ubud’s chic avenues. TRAGUIN Luxury Travel Evening Experience: Relaxed acoustic evening at a boutique lounge in Ubud center.",
+        "activities": [
+          "Sightseeing Included: Choice of Mt. Batur Sunrise Trek OR Tukad Cepung & Tegenungan Waterfalls.",
+          "Optional Activities: White-water rafting along the pristine Ayung River with a luxury picnic setup.",
+          "Overnight Stay: Premium Handpicked Luxury Resort in Ubud.",
+          "Meals Included: Breakfast & Dinner."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "TRANSITION TO SEMINYAK • ICONIC TANAH LOT SUNSET",
+        "description": "Bid farewell to the serene jungle as you check out from Ubud. Travel via your luxury private vehicle toward the sophisticated coastal paradise of Seminyak. En route, stop at the magnificent Royal Temple of Mengwi (Taman Ayun), a stunning architectural marvel surrounded by wide moats. Arrive in Seminyak, check into your ultra-luxury beachfront resort, and feel the vibrant, cosmopolitan seaside energy. In the late afternoon, proceed to the iconic Tanah Lot Temple, perched dramatically on a wave-swept rock formation in the ocean, to witness one of the world's most spectacular and legendary sunsets. cocktails. Bali).",
+        "activities": [
+          "Sightseeing Included: Taman Ayun Temple, Tanah Lot Temple Sunset Expedition.",
+          "Optional Activities: Surfing lessons with a certified private instructor on Seminyak Beach.",
+          "Evening Experience: VIP access to an elite beachfront lounge like Potato Head or Ku De Ta for dinner and",
+          "Overnight Stay: Ultra-Luxury Beachfront Resort in Seminyak (e.g., The Seminyak Beach Resort / W",
+          "Meals Included: Breakfast & Lunch."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "COASTAL YOGA, BEACHFRONT LEISURE & SUNSET CATAMARAN",
+        "description": "CRUISE Greet your final full day on the island with a rejuvenating beachside Yin Yoga session, listening to the rhythmic soothing crash of the Indian Ocean waves. Spend your morning shopping at Seminyak’s upscale fashion boutiques, designer flagships, and artisanal art galleries. In the afternoon, embark on an exclusive, private luxury catamaran cruise. Sail along Bali's dramatic southern coastline, enjoy snorkeling in turquoise waters, and toast to an unforgettable trip with a premium gourmet seafood barbecue dinner served on board as the sun dips below the horizon. TRAGUIN Luxury Travel Meals Included: Breakfast & Dinner Cruise.",
+        "activities": [
+          "Sightseeing Included: Coastal Yoga, Seminyak Premium Shopping Streets, Private Sunset Cruise.",
+          "Optional Activities: Pre-dinner modern Balinese spa ritual.",
+          "Evening Experience: Farewell premium beach party celebrations or fine dining.",
+          "Overnight Stay: Ultra-Luxury Beachfront Resort in Seminyak."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "FAREWELL BALI • DEPARTURE WITH UNFORGETTABLE MEMORIES",
+        "description": "Savor a decadent, final floating breakfast in your private pool or a relaxed breakfast at the ocean-facing restaurant. Enjoy a morning at leisure for last-minute souvenir shopping or a final walk along the golden sand beach. At the designated time, your TRAGUIN private chauffeur will arrive to provide a comfortable transfer back to Ngurah Rai International Airport for your departure flight, carrying with you refreshed energy, peace of mind, and beautiful memories.",
+        "activities": [
+          "Sightseeing Included: Private Departure Transfer.",
+          "Optional Activities: Airport VIP Premium Lounge access booking via TRAGUIN.",
+          "Evening Experience: Onward Journey.",
+          "Overnight Stay: N/A.",
+          "Meals Included: Breakfast."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Alaya Resort Ubud Deluxe Room The Haven Seminyak Suite Room CP (Breakfast Only)",
+        "location": "Multi-city Bali",
+        "nights_label": "6N",
+        "description": "Option 01: Deluxe — Alaya Resort Ubud Deluxe Room The Haven Seminyak Suite Room CP (Breakfast Only)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Maya Ubud Resort & Spa Impression Forest Valley Suite The Seminyak Beach Resort The Garden Suite MAP (Breakfast & Dinner)",
+        "location": "Multi-city Bali",
+        "nights_label": "6N",
+        "description": "Option 02: Premium — Maya Ubud Resort & Spa Impression Forest Valley Suite The Seminyak Beach Resort The Garden Suite MAP (Breakfast & Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Viceroy Bali Ubud Pool Villa W Bali - Seminyak Wonderful Garden Escape Villa MAP (Breakfast & Curated Dining)",
+        "location": "Multi-city Bali",
+        "nights_label": "6N",
+        "description": "Option 03: Luxury — Viceroy Bali Ubud Pool Villa W Bali - Seminyak Wonderful Garden Escape Villa MAP (Breakfast & Curated Dining)",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Mandapa, a Ritz-Carlton Reserve One Bedroom Pool Villa The Legian Bali Beachfront Studio Suite As Per Curated Gourmet Menu",
+        "location": "Multi-city Bali",
+        "nights_label": "6N",
+        "description": "Option 04: Ultra Luxury — Mandapa, a Ritz-Carlton Reserve One Bedroom Pool Villa The Legian Bali Beachfront Studio Suite As Per Curated Gourmet Me",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Luxury Accommodation at handpicked hotels",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "All VIP entry tickets, parking fees, and fuel taxes",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Accommodation at handpicked hotels",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "International or domestic flight tickets",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Indonesian Visa on Arrival (VoA) fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional tours and non-itinerary activities",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel and health insurance coverage",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping/Gratuites for drivers and local guides",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Any meals or beverages not explicitly detailed",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "International or domestic flight tickets",
+        "sort_order": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "destination_slug": "bali",
+  "package": {
+    "slug": "id-012-bali-romantic-tour-package",
+    "serial_code": "ID-012",
+    "traguin_tour_code": "TRAGUIN-BALI-ID-012",
+    "title": "Bali Romantic Tour Package",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code ID-012 | TRAGUIN tour code TRAGUIN-BALI-ID-012",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Bali, Indonesia | Category: Premium Haryana Tour",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Romantic Uluwatu • Artistic Ubud • Nusa Dua Coastal Paradise",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Royal Breakfast (CP+) & Specialty Curated Dining Experiences Primary Route: Denpasar Airport → Romantic Uluwatu Cliffs → Ubud Cultural Heart → Nusa Dua Coast → Departure",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon"
+    ]
+  },
+  "itinerary": {
+    "slug": "id-012-bali-romantic-tour-package-itinerary",
+    "title": "Bali Romantic Tour Package",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Bali Romantic Tour Package",
+    "overview": "Uluwatu • Ubud • Nusa Dua | 05 Nights & 06 Days Indulge in an extraordinary romantic escapade crafted exclusively for discerning souls. This Luxury Bali Holiday promises an immersive, deeply emotional journey across Indonesia's most captivating island paradise. Designed carefully by TRAGUIN, your premium travel companion, this customized itinerary balances the cinematic, cliff-hanging drama of Uluwatu with the emerald, mystical soul of Ubud's rain forests. From your private pool villa overlooking pristine turquoise waters to intimate candlelit dining beneath starlit skies, every touchpoint has been curated to transform moments into unforgettable memories. Experience the true definition of a Premium Bali Experience, where your personal desires dictate the pace of the day and world-class Balinese hospitality cocoons you in comfort. TRAGUIN Premium Luxury Holidays Page 1\n\nTOUR OVERVIEW\nTravel Pattern: Flexible Private FIT (Fully Independent Tour) Vehicle Fleet: Private Premium Luxury Alphard / SUV with English-speaking Guide-Driver Meal Plan: Royal Breakfast (CP+) & Specialty Curated Dining Experiences Primary Route: Denpasar Airport → Romantic Uluwatu Cliffs → Ubud Cultural Heart → Nusa Dua Coast → Departure TRAGUIN Curated Note: Includes fast-track airport assistance, pre-vetted premium romantic pool villas, and VIP entry at prime attractions. THE ULTIMATE BALI HONEYMOON PACKAGE EXPERIENCE\n\nWhy choose our signature  Bali Honeymoon Package? Bali remains the ultimate luxury destination for\ncouples, weaving breathtaking landscapes with deep spiritual heritage. It is globally searched for its dramatic coastlines, sweeping cliffside sunsets, and lush tiered rice terraces. By choosing a Luxury Bali Holiday via TRAGUIN, you unlock access to handpicked premium properties and private, uncrowded natural spectacles. Our TRAGUIN Bali Packages highlight the absolute Top Tourist Places in Bali, focusing heavily on highly sought-after Instagram locations like the iconic Uluwatu Temple, the magical Tegenungan Waterfall, and the romantic Tegalalang Rice Terraces. Whether you seek thrilling jungle swings over deep valleys, exclusive high-fashion couples photography sessions, private sunset catamarans, or traditional holistic couple spa treatments, this itinerary serves as the definitive reference for the Best Bali Tour Package online. TRAGUIN Premium Luxury Holidays Page 2",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "ID-012 | Bali Romantic Tour Package | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Bali package (ID-012 / TRAGUIN-BALI-ID-012): Romantic Uluwatu • Artistic Ubud • Nusa Dua Coastal Paradise with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN BALI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: ULUWATU SIGHTSEEING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: JOURNEY TO UBUD",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: IMMERSIVE UBUD CULTURE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: NUSA DUA TRANSITION",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN BALI | THE ROMANTIC CLIFFS OF ULUWATU WELCOME",
+        "description": "Step into paradise as you land at Denpasar International Airport. After seamlessly clearing immigration via our VIP fast-track assistance, your dedicated private luxury vehicle and personal tour concierge from TRAGUIN will greet you with fresh orchid garlands and chilled refreshments. Sit back and take in the beautiful island vistas as you ascend toward the dramatic limestone cliffs of southern Bali. Arrive at your ultra-luxury cliffside resort in Uluwatu. Check into your private pool villa designed with traditional accents and high-end modern amenities. Spend your afternoon unwinding in your private infinity pool that blends seamlessly into the ocean skyline. As twilight approaches, embark on your first of this island paradise. Indian Ocean. TRAGUIN Premium Luxury Holidays Page 3",
+        "activities": [
+          "evening experience: toward the cliff edges, absorbing the immense scenic beauty and spiritual energy",
+          "Sightseeing Included: VIP Airport Assistance, Scenic Uluwatu Coastal Drive, Private Villa Check-In.",
+          "Evening Experience: Intimate sunset cocktails at an exclusive cliff-hanging lounge overlooking the",
+          "Overnight Stay: Premium Handpicked Luxury Cliff Villa, Uluwatu",
+          "Meals Included: Welcome Drinks & Refreshments"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "ULUWATU SIGHTSEEING | SPIRITUAL TEMPLES & FIRE DANCE APEX",
+        "description": "Wake up to the sounds of crashing waves and enjoy a floating breakfast served directly in your private pool. Today is dedicated to exploring the finest Bali Sightseeing highlights in the southern peninsula. Your private guide will escort you to the magnificent Uluwatu Temple, perched precisely 70 meters atop a sheer cliff face. This is universally recognized as one of the top tourist places in Bali for majestic photography and breathtaking landscapes. Stroll hand-in-hand along the ancient stone pathways while learning about Balinese mythology. As the sun dips below the horizon, painting the sky in deep shades of gold and amber, witness the dramatic, world-famous Kecak Fire Dance performance. The rhythmic chanting against the backdrop of the blazing sunset creates an absolute sensory highlight. Conclude your day with an elite seafood dinner right on the sands of Jimbaran Bay. Dinner. TRAGUIN Premium Luxury Holidays Page 4",
+        "activities": [
+          "Sightseeing Included: Uluwatu Cliff Temple, Melasti Beach Coastal Walk, Panoramic Viewpoints.",
+          "Optional Activities: Couples Professional Cinematic Sunset Drone Shoot.",
+          "Evening Experience: VIP seating at the Kecak Fire Dance followed by a Candlelit Jimbaran Seafood",
+          "Overnight Stay: Premium Handpicked Luxury Cliff Villa, Uluwatu",
+          "Meals Included: Floating Breakfast & Private Seafood Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "JOURNEY TO UBUD | WATERFALLS, TROPICAL VALLEYS & EMERALD RICE",
+        "description": "TERRACES After a luxurious breakfast, bid adieu to the coast as your TRAGUIN Family Tour / Couple vehicle drives you inland toward Ubud, the beating cultural heart of Bali. The route transitions beautifully from oceanic blue to vibrant shades of deep forest emerald. En route, make a private stop at the majestic Tegenungan Waterfall, nestled inside a lush tropical valley—perfect for immersive nature walks and photography. Arrive in Ubud and witness the breathtaking Tegalalang Rice Terraces. Walk through the ancient, valley-carved subak irrigation systems that look like cascading green steps. For those seeking mild adventure, step onto the famous Bali Jungle Swing, soaring over the canopy for an iconic couple's photograph. Check into your ultra-private rainforest sanctuary resort later in the afternoon for some serene relaxation. TRAGUIN Premium Luxury Holidays Page 5",
+        "activities": [
+          "Sightseeing Included: Tegenungan Waterfall, Tegalalang Rice Terraces, Ubud Art Market.",
+          "Optional Activities: High-fly Jungle Swing Experience & Traditional Luwak Coffee Tasting.",
+          "Evening Experience: Leisurely walks through Ubud’s fine-dining culinary streets or artisan boutiques.",
+          "Overnight Stay: Luxury Rainforest Private Pool Villa, Ubud",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "IMMERSIVE UBUD CULTURE | ARTISAN VILLAGES & HOLY WATER",
+        "description": "CLEANSING Embrace a spiritual morning with an optional, beautifully peaceful sunrise yoga session overlooking the mist-shrouded jungle valleys. Following breakfast, your guide will lead you into the authentic cultural side of Ubud. Visit Tirta Empul Holy Water Temple, where you can choose to participate in an immersive, traditional Balinese purification ritual, cleansing your mind and body in crystal-clear mountain spring water. Spend your afternoon browsing through Celuk and Mas villages, world-famous for their high-end handmade silver jewelry and intricate wood carvings. Meet local master artisans and witness centuries- old crafting techniques passed down through generations. This is a brilliant opportunity to acquire highly authentic souvenirs and meaningful keepsakes from your magical TRAGUIN Bali Packages journey. Forest. winning spa. TRAGUIN Premium Luxury Holidays Page 6",
+        "activities": [
+          "Sightseeing Included: Tirta Empul Holy Springs, Artisan Village Tours (Celuk/Mas), Ubud Monkey",
+          "Optional Activities: Private Silver-Making Couples Workshop.",
+          "Evening Experience: 120-minute Royal Balinese Deep Tissue Couple Spa Treatment at an award-",
+          "Overnight Stay: Luxury Rainforest Private Pool Villa, Ubud",
+          "Meals Included: Gourmet Breakfast"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "NUSA DUA TRANSITION | PRISTINE WHITE BEACHES & PRIVATE SUNSET",
+        "description": "CRUISE Enjoy your final breakfast overlooking the calm river valleys of Ubud before driving down to the pristine, white-sand enclave of Nusa Dua—Bali’s premier resort zone. Nusa Dua is globally highly-rated for its calm, azure waters and meticulously manicured beachfront properties, making it an essential inclusion in our Best Bali Tour Package structures. Check into your ultra-luxury beachfront resort. In the late afternoon, your driver will transfer you to the private marina where you will step onto a private luxury catamaran cruise. Sail along the beautiful coastlines as the sun goes down, drinking premium vintage wine and enjoying gourmet hors d'oeuvres. This elegant, private ocean experience offers the perfect romantic culmination to your magnificent holiday.",
+        "activities": [
+          "Sightseeing Included: Nusa Dua Beach Promenade, Water Blow Landmark Attraction.",
+          "Optional Activities: Jet Skiing, Parasailing, or Sea Walking at nearby Tanjung Benoa.",
+          "Evening Experience: Private Sunset Catamaran Cruise followed by an elegant multi-course dinner.",
+          "Overnight Stay: Ultra-Luxury Oceanfront Resort, Nusa Dua",
+          "Meals Included: Gourmet Breakfast & Farewell Dinner Cruise"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE | CHERISHING UNFORGETTABLE MEMORIES BEYOND",
+        "description": "DESTINATIONS Greet your final Balinese morning with a peaceful beach stroll or a final swim in the azure waters. Indulge in an expansive international buffet breakfast at the resort restaurant. Depending on your flight schedule, enjoy some last-minute luxury shopping at The Bali Collection mall or simply relax in the sun- drenched gardens of your resort property. Your private luxury vehicle will arrive precisely on time to smoothly transfer you to Denpasar International Airport for your homeward journey. As you board your flight, look back at a perfectly organized luxury vacation filled with deep laughter, culture, romance, and beautiful milestones, expertly delivered by the destination professionals at TRAGUIN. TRAGUIN Premium Luxury Holidays Page 7",
+        "activities": [
+          "Sightseeing Included: Leisure Beach Time, Private Airport Outbound Transfer.",
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Renaissance Bali Uluwatu Alaya Resort Ubud Merusaka Nusa DuaBB (Breakfast Plan)",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 01: Deluxe — Renaissance Bali Uluwatu Alaya Resort Ubud Merusaka Nusa DuaBB (Breakfast Plan)",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Anantara Uluwatu Resort The Kayon Resort Ubud The Westin Resort Bali BB + Special Dinner",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 02: Premium — Anantara Uluwatu Resort The Kayon Resort Ubud The Westin Resort Bali BB + Special Dinner",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Six Senses UluwatuThe Kayon Jungle Resort The St. Regis Bali Resort BB + Floating BF",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 03: Luxury — Six Senses UluwatuThe Kayon Jungle Resort The St. Regis Bali Resort BB + Floating BF",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Bvlgari Resort Bali Mandapa, a Ritz- Carlton The Mulia Villas BaliUltra-VIP Club Plan",
+        "location": "Multi-city Bali",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — Bvlgari Resort Bali Mandapa, a Ritz- Carlton The Mulia Villas BaliUltra-VIP Club Plan",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Royal Meals: 5 Gourmet Breakfasts, 1 Jimbaran Candlelit Dinner, 1 Luxury Sunset Cruise Dinner",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transfers: All transfers in an exclusive, private air-conditioned vehicle with dedicated driver-guide",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "VIP Assistance: Personalized meet-and-greet on arrival plus fast-track airport customs assistance",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Curated Sightseeing: All entrance fees, parking, and toll expenses for itineraries listed above",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: 120-Minute Couple Spa session and access to top-tier beach clubs",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "24/7 TRAGUIN Support: Dedicated digital concierge service throughout your entire trip",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Royal Meals: 5 Gourmet Breakfasts, 1 Jimbaran Candlelit Dinner, 1 Luxury Sunset Cruise Dinner",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "Luxury Transfers: All transfers in an exclusive, private air-conditioned vehicle with dedicated driver-guide",
+        "sort_order": 8
+      },
+      {
+        "kind": "included",
+        "text": "VIP Assistance: Personalized meet-and-greet on arrival plus fast-track airport customs assistance",
+        "sort_order": 9
+      },
+      {
+        "kind": "included",
+        "text": "Curated Sightseeing: All entrance fees, parking, and toll expenses for itineraries listed above",
+        "sort_order": 10
+      },
+      {
+        "kind": "included",
+        "text": "Complimentary Experiences: 120-Minute Couple Spa session and access to top-tier beach clubs",
+        "sort_order": 11
+      },
+      {
+        "kind": "included",
+        "text": "24/7 TRAGUIN Support: Dedicated digital concierge service throughout your entire trip",
+        "sort_order": 12
+      },
+      {
+        "kind": "excluded",
+        "text": "International Flights: Round-trip airfares from your originating city to Denpasar, Bali",
+        "sort_order": 13
+      },
+      {
+        "kind": "excluded",
+        "text": "Visa Formalities: Visa on Arrival (VoA) fees and Tourism Levy taxes payable directly at the border",
+        "sort_order": 14
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, premium alcoholic beverages, and tipping tips",
+        "sort_order": 15
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional Activities: Water sports at Tanjung Benoa, specific jungle swings, or extra meals not mentioned",
+        "sort_order": 16
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel Insurance: Comprehensive international travel and medical health insurance policies",
+        "sort_order": 17
+      },
+      {
+        "kind": "excluded",
+        "text": "International Flights: Round-trip airfares from your originating city to Denpasar, Bali",
+        "sort_order": 18
+      },
+      {
+        "kind": "excluded",
+        "text": "Visa Formalities: Visa on Arrival (VoA) fees and Tourism Levy taxes payable directly at the border",
+        "sort_order": 19
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal Expenses: Laundry, telephone calls, premium alcoholic beverages, and tipping tips",
+        "sort_order": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "destination_slug": "switzerland",
+  "package": {
+    "slug": "ch-005-grand-switzerland-tour",
+    "serial_code": "SW-005",
+    "traguin_tour_code": "TRG-SWI-GRD-2026",
+    "title": "Grand Switzerland Tour",
+    "duration_label": "09 Nights / 10 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code CH-005 | TRAGUIN tour code TRG-SWI-GRD-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Switzerland | Category: Premium Grand Switzerland Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Zurich • Lucerne • Mt. Titlis • Interlaken • Jungfraujoch • Zermatt • Montreux • Geneva",
+        "sort_order": 3
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 4
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 5
+      }
+    ],
+    "moods": [
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "ch-005-grand-switzerland-tour-itinerary",
+    "title": "Grand Switzerland Tour",
+    "duration_label": "09 Nights / 10 Days",
+    "duration_days": 10,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Switzerland Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Zurich • Lucerne • Mt. Titlis • Interlaken • Jungfraujoch • Zermatt • Montreux • Geneva",
+    "overview": "Zurich • Lucerne • Mt. Titlis • Interlaken • Jungfraujoch • Zermatt • Montreux • Geneva 09 Nights / 10 Days Grand Switzerland Premium Expedition SERIAL CODE: CH-005 TRAGUIN TOUR CODE: TRG-SWI-GRD-2026 STATE / COUNTRY: Switzerland CATEGORY: Premium Grand Switzerland Tour Package DURATION: 09 Nights / 10 Days Zurich(2N) + Lucerne(2N) + Interlaken(2N) + Zermatt(2N) + Geneva(1N)\n\nTOUR OVERVIEW\nDiscover the absolute best of Switzerland with our TRAGUIN curated Grand Expedition. This comprehensive 10-day journey covers all iconic destinations—from the sophistication of Zurich and Lucerne to the alpine heart of Interlaken, the grandeur of Zermatt, and the lakeside elegance of Geneva—ensuring unforgettable memories in ultimate comfort. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "CH-005 | Grand Switzerland Tour | TRAGUIN",
+    "seo_description": "Premium 09 Nights / 10 Days Switzerland package (CH-005 / TRG-SWI-GRD-2026): Zurich • Lucerne • Mt. Titlis • Interlaken • Jungfraujoch • Zermatt • Montreux • Geneva.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN ZURICH",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: ZURICH CULTURAL DISCOVERY",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: TRANSFER TO LUCERNE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: MT. TITLIS EXCURSION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: TRANSFER TO INTERLAKEN",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: JUNGFRAUJOCH EXPEDITION",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: TRANSFER TO ZERMATT",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: MATTERHORN EXPLORATION",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN ZURICH",
+        "description": "Arrive in Zurich. Private transfer to your handpicked premium hotel. Evening at leisure.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "ZURICH CULTURAL DISCOVERY",
+        "description": "Comprehensive city tour covering Zurich’s most famous landmarks, providing a rich educational experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "TRANSFER TO LUCERNE",
+        "description": "Scenic transfer to Lucerne. Visit the iconic Chapel Bridge and take a peaceful lake cruise, a classic Swiss experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "MT. TITLIS EXCURSION",
+        "description": "Ascend to Mt. Titlis by cable car. Enjoy snow activities at the summit, creating unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "TRANSFER TO INTERLAKEN",
+        "description": "Scenic train transfer to Interlaken. Check into your luxury alpine retreat.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "JUNGFRAUJOCH EXPEDITION",
+        "description": "A spectacular journey to Jungfraujoch—the Top of Europe. Experience breathtaking panoramic views and high-altitude excitement.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "TRANSFER TO ZERMATT",
+        "description": "Transfer to Zermatt. Check into an ultra-luxury boutique suite with Matterhorn views.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "MATTERHORN EXPLORATION",
+        "description": "Explore Zermatt at your own pace, enjoy boutique shopping, and an exclusive experience viewing the iconic peak.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "TRANSFER TO GENEVA",
+        "description": "Scenic transfer to Geneva. Evening farewell dinner gala, celebrating your grand Switzerland expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 9
+      },
+      {
+        "day_number": 10,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer to the airport, completing your grand Switzerland journey.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 10
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Premium Luxury City Hotel / similar",
+        "location": "Zurich",
+        "nights_label": "2N",
+        "description": "OPTION 01 – PREMIUM: Premium Luxury City Hotel",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Premium Lake View Hotel / similar",
+        "location": "Lucerne",
+        "nights_label": "2N",
+        "description": "OPTION 02 – PREMIUM: Premium Lake View Hotel",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Alpine Retreat / similar",
+        "location": "Interlaken",
+        "nights_label": "2N",
+        "description": "OPTION 03 – PREMIUM: Luxury Alpine Retreat",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Matterhorn Suites / similar",
+        "location": "Zermatt",
+        "nights_label": "2N",
+        "description": "OPTION 04 – PREMIUM: Luxury Matterhorn Suites",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 4
+      },
+      {
+        "hotel_id": null,
+        "name": "Luxury Lakeside Hotel / similar",
+        "location": "Geneva",
+        "nights_label": "1N",
+        "description": "OPTION 05 – PREMIUM: Luxury Lakeside Hotel",
+        "stars": 5,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Breakfast",
+        "image_media_id": null,
+        "sort_order": 5
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "09 Nights in handpicked premium hotels across Zurich • Lucerne • Mt. Titlis • Interlaken • Jungfraujoch • Zermatt • Montreux • Geneva",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Mt. Titlis cable car ascent with summit snow activities",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Jungfraujoch — Top of Europe excursion",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Lucerne lake cruise and Chapel Bridge sightseeing",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "Matterhorn-view luxury stay and exploration in Zermatt",
+        "sort_order": 6
+      },
+      {
+        "kind": "included",
+        "text": "Geneva lakeside elegance and farewell gala dinner",
+        "sort_order": 7
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Switzerland entry visa processing fees",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 11
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 12
+      }
+    ]
+  }
+}

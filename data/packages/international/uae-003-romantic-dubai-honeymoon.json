@@ -2,47 +2,50 @@
   "destination_slug": "uae",
   "package": {
     "slug": "uae-003-romantic-dubai-honeymoon",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "UAE-003",
+    "traguin_tour_code": "TRG-DXB-ROM-2026",
     "title": "Romantic Dubai Honeymoon",
     "duration_label": "05 Nights / 06 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 77,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Dubai (5N) ultra-luxury honeymoon retreat",
+        "text": "Serial code UAE-003 | TRAGUIN tour code TRG-DXB-ROM-2026",
         "sort_order": 1
       },
       {
-        "text": "Burj Khalifa & Dubai Mall luxury city experience",
+        "text": "Country: Dubai, UAE | Category: Best Dubai Honeymoon Package",
         "sort_order": 2
       },
       {
-        "text": "Intimate desert safari with private BBQ under the stars",
+        "text": "Destinations: Dubai City & Desert",
         "sort_order": 3
       },
       {
-        "text": "Private sunset yacht cruise & couple's spa retreat",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-DXB-ROM-2026 | Serial UAE-003",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
-      "Romantic",
       "Luxury",
-      "Adventure",
-      "Beach"
+      "Honeymoon",
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -51,98 +54,94 @@
     "duration_label": "05 Nights / 06 Days",
     "duration_days": 6,
     "starting_price": 0,
-    "price_note": "On Request (Premium Honeymoon Experience)",
+    "price_note": "On Request (Premium UAE Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Dubai • Burj Khalifa • Desert Safari • Palm Jumeirah • Yacht Cruise",
-    "overview": "Begin your life together in the golden city of dreams with this TRAGUIN curated honeymoon. From private yacht sunsets to intimate desert dining, this romantic Dubai holiday promises unforgettable memories, breathtaking landscapes, and exclusive experiences.",
-    "is_featured": true,
-    "featured_sort_order": 77,
+    "tagline": "Romantic Dubai Honeymoon",
+    "overview": "Dubai • Burj Khalifa • Desert Safari • Palm Jumeirah • Yacht Cruise 05 Nights / 06 Days Ultra-Luxury Honeymoon Retreat SERIAL CODE: UAE-003 TRAGUIN TOUR CODE: TRG-DXB-ROM-2026 STATE / COUNTRY: Dubai / UAE CATEGORY: Best Dubai Honeymoon Package DURATION: 05 Nights / 06 Days DESTINATIONS: Dubai City & Desert Sanctuary\n\nTOUR OVERVIEW\nBegin your life together in the golden city of dreams with this TRAGUIN curated honeymoon. From private yacht sunsets to intimate desert dining, this romantic Dubai holiday promises unforgettable memories, breathtaking landscapes, and exclusive experiences. We ensure every moment is as special as your love story.\n\nWHY CHOOSE OUR ROMANTIC DUBAI HONEYMOON?\nDubai is the ultimate sanctuary for couples, blending urban grandeur with desert mystique. Our curated experiences provide a seamless balance of luxury and romance. With TRAGUIN, enjoy handpicked hotels, private transfers, and a truly premium Dubai experience. Discover the iconic attractions that make Dubai a dream destination. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "UAE-003 | Romantic Dubai Honeymoon | TRAGUIN",
-    "seo_description": "Premium 05 Nights / 06 Days Dubai honeymoon package (UAE-003): Burj Khalifa, desert romance, private yacht cruise, and couple's spa retreat.",
-    "is_published": true,
+    "seo_description": "Premium 05 Nights / 06 Days Dubai package (UAE-003 / TRG-DXB-ROM-2026): Dubai City & Desert with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Burj Khalifa & Luxury Shopping",
+        "text": "Day 01: ARRIVAL IN DUBAI",
         "sort_order": 1
       },
       {
-        "text": "Intimate Desert Safari & BBQ Dinner",
+        "text": "Day 02: CITY LUXURY & BURJ KHALIFA",
         "sort_order": 2
       },
       {
-        "text": "Private Sunset Yacht Cruise",
+        "text": "Day 03: DESERT ROMANCE",
         "sort_order": 3
       },
       {
-        "text": "Couple's Spa Retreat",
+        "text": "Day 04: YACHT CRUISE & RELAXATION",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: LEISURE & SPA",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Dubai",
+        "title": "ARRIVAL IN DUBAI",
         "description": "A romantic welcome to the City of Gold. Your private TRAGUIN transfer will escort you to your handpicked hotel. Enjoy a quiet evening admiring the scenic beauty of the Dubai Marina.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private transfer",
-          "Overnight Stay: Dubai (Ultra-Luxury Couple Hotel)",
-          "Meals Included: Welcome arrangements on arrival"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "City Luxury & Burj Khalifa",
+        "title": "CITY LUXURY & BURJ KHALIFA",
         "description": "Explore the heights of luxury. Visit the Burj Khalifa and indulge in high-end shopping at the Dubai Mall. A curated experience to admire the city's iconic attractions.",
         "activities": [
-          "Sightseeing Included: Burj Khalifa, Dubai Mall luxury experience",
-          "Overnight Stay: Dubai (Ultra-Luxury Couple Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Desert Romance",
-        "description": "Experience an intimate desert safari. Enjoy dune bashing, camel rides, and a private BBQ dinner under the stars — an exclusive experience for couples seeking breathtaking landscapes.",
+        "title": "DESERT ROMANCE",
+        "description": "Experience an intimate desert safari. Enjoy dune bashing, camel rides, and a private BBQ dinner under the stars—an exclusive experience for couples seeking breathtaking landscapes.",
         "activities": [
-          "Sightseeing Included: Intimate desert safari, dune bashing, private BBQ dinner",
-          "Overnight Stay: Dubai (Ultra-Luxury Couple Hotel)",
-          "Meals Included: Breakfast & Private Desert BBQ Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Yacht Cruise & Relaxation",
+        "title": "YACHT CRUISE & RELAXATION",
         "description": "A private sunset yacht cruise, offering scenic beauty of the Dubai skyline. Spend your day enjoying premium stays and relaxation in the lap of luxury.",
         "activities": [
-          "Sightseeing Included: Private sunset yacht cruise",
-          "Overnight Stay: Dubai (Ultra-Luxury Couple Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Leisure & Spa",
-        "description": "Indulge in a couple's spa retreat. Reflect on your unforgettable memories in Dubai with an evening at a world-class restaurant.",
+        "title": "LEISURE & SPA",
+        "description": "Indulge in a couple’s spa retreat. Reflect on your unforgettable memories in Dubai with an evening at a world-class restaurant.",
         "activities": [
-          "Sightseeing Included: Couple's spa retreat",
-          "Evening Experience: World-class restaurant dinner",
-          "Overnight Stay: Dubai (Ultra-Luxury Couple Hotel)",
-          "Meals Included: Breakfast & Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Final breakfast and souvenir shopping before your TRAGUIN assisted transfer, concluding your premium Dubai experience.",
         "activities": [
-          "Sightseeing Included: Private airport transfer, souvenir shopping time",
-          "Meals Included: International Buffet Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       }
@@ -150,86 +149,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Burj Al Arab / similar",
-        "location": "Dubai",
-        "nights_label": "05 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Dubai City & Desert",
+        "nights_label": "5N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Atlantis, The Palm / similar",
-        "location": "Dubai",
-        "nights_label": "05 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Dubai City & Desert",
+        "nights_label": "5N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
         "image_media_id": null,
         "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Dubai City & Desert",
+        "nights_label": "5N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Burj Al Arab / Atlantis, The Palm",
+        "location": "Multi-city UAE",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — Burj Al Arab / Atlantis, The Palm",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "05 Nights in handpicked ultra-luxury couple hotel in Dubai",
+        "text": "Premium handpicked accommodation across Dubai and the UAE",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private chauffeur-driven luxury transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Burj Khalifa and Dubai Mall luxury city experience",
+        "text": "Inter-emirate transfers and curated sightseeing as per itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Intimate desert safari with private BBQ dinner under the stars",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "Private sunset yacht cruise",
-        "sort_order": 5
-      },
-      {
-        "kind": "included",
-        "text": "Couple's spa retreat",
-        "sort_order": 6
-      },
-      {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated honeymoon concierge support",
-        "sort_order": 7
-      },
-      {
         "kind": "excluded",
-        "text": "International airfare and UAE entry visa processing fees",
-        "sort_order": 8
+        "text": "International airfare and UAE visa fees",
+        "sort_order": 5
       },
       {
         "kind": "excluded",
         "text": "Personal expenses, laundry, room service, and mini-bar charges",
-        "sort_order": 9
+        "sort_order": 6
       },
       {
         "kind": "excluded",
         "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 10
+        "sort_order": 7
       },
       {
         "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 11
+        "sort_order": 8
       }
     ]
   }

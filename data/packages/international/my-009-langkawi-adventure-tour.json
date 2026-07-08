@@ -1,0 +1,246 @@
+{
+  "destination_slug": "malaysia",
+  "package": {
+    "slug": "my-009-langkawi-adventure-tour",
+    "serial_code": "MY-009",
+    "traguin_tour_code": "TRG-LGK-ADV-2026",
+    "title": "Langkawi Adventure Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code MY-009 | TRAGUIN tour code TRG-LGK-ADV-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Malaysia, Asia | Category: Best Langkawi Adventure Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Langkawi (5 Nights",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Nature",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "my-009-langkawi-adventure-itinerary",
+    "title": "Langkawi Adventure Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Malaysia Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Langkawi Adventure Tour",
+    "overview": "Langkawi • Kilim Geoforest • SkyBridge • Jet Ski Safari • Island Hopping 05 Nights / 06 Days Ultra-Luxury Adventure Expedition SERIAL CODE: MY-009 TRAGUIN TOUR CODE: TRG-LGK-ADV-2026 STATE / COUNTRY: Malaysia CATEGORY: Best Langkawi Adventure Tour Package DURATION: 05 Nights / 06 Days DESTINATIONS: Langkawi (5 Nights Adventure Sanctuary)\n\nTOUR OVERVIEW\nUnleash your spirit of adventure with this TRAGUIN curated Langkawi expedition. Designed for thrill-seekers, this package combines high-octane adventure with the serene luxury of Langkawi’s breathtaking landscapes. Experience curated experiences and create unforgettable memories on the ultimate luxury Malaysia holiday. THE LANGKAWI ADVENTURE EXPERIENCE Langkawi is the perfect playground for adventure enthusiasts. From jet ski safaris through tropical islands to trekking the ancient Kilim Geoforest, this Malaysia adventure tour offers immersive experiences and exclusive experiences that redefine the typical holiday. Enjoy the scenic beauty of a truly premium Langkawi sightseeing experience. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "MY-009 | Langkawi Adventure Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Malaysia package (MY-009 / TRG-LGK-ADV-2026): Langkawi (5 Nights with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN LANGKAWI",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: JET SKI SAFARI & ISLAND HOPPING",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: KILIM GEOFOREST ADVENTURE",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: SKYBRIDGE & MOUNTAIN THRILLS",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: MARINE EXPLORATION",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN LANGKAWI",
+        "description": "Your TRAGUIN adventure begins with a private transfer to your handpicked hotel. Relax and prepare for an action-packed Langkawi sightseeing trip.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "JET SKI SAFARI & ISLAND HOPPING",
+        "description": "Embark on an adrenaline-fueled jet ski safari, one of our exclusive experiences. Explore hidden coves and pristine islands, capturing breathtaking landscapes along the way.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "KILIM GEOFOREST ADVENTURE",
+        "description": "Discover the Kilim Geoforest Park, featuring iconic attractions like floating fish farms and eagle-feeding spots. A curated experience that brings you closer to Malaysia's natural wonders.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "SKYBRIDGE & MOUNTAIN THRILLS",
+        "description": "Ascend the SkyCab to the Langkawi SkyBridge. Experience scenic beauty and breathtaking landscapes from the high peaks. Perfect for thrill-seekers looking for unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "MARINE EXPLORATION",
+        "description": "A full day of marine exploration, including snorkeling in pristine reefs. Enjoy our signature exclusive experiences as you dive into the aquatic life that makes Langkawi a top Langkawi sightseeing spot.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE",
+        "description": "Enjoy a final adventure breakfast before your TRAGUIN assisted transfer, concluding your premium Langkawi experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Deluxe Property",
+        "location": "Langkawi (5 Nights",
+        "nights_label": "5N",
+        "description": "OPTION 01 – DELUXE: TRAGUIN Handpicked Deluxe Property",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Langkawi (5 Nights",
+        "nights_label": "5N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Langkawi (5 Nights",
+        "nights_label": "5N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Datai Langkawi / The Ritz-Carlton",
+        "location": "Multi-city Malaysia",
+        "nights_label": "5N",
+        "description": "Option 04: Ultra Luxury — The Datai Langkawi / The Ritz-Carlton",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Malaysia",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "destination_slug": "vietnam",
+  "package": {
+    "slug": "vn-008-vietnam-adventure-expedition-tour",
+    "serial_code": "VN-008",
+    "traguin_tour_code": "TRG-VNM-ADV-2026",
+    "title": "Vietnam Adventure Expedition",
+    "duration_label": "06 Nights / 07 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code VN-008 | TRAGUIN tour code TRG-VNM-ADV-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Vietnam, Southeast Asia | Category: Premium Vietnam Adventure Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Northern Wilderness • Sapa Trekking • Halong Bay Expedition • Off-Road Exploration",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Adventure"
+    ]
+  },
+  "itinerary": {
+    "slug": "vn-008-vietnam-adventure-itinerary",
+    "title": "Vietnam Adventure Expedition",
+    "duration_label": "06 Nights / 07 Days",
+    "duration_days": 7,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Vietnam Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Vietnam Adventure Expedition",
+    "overview": "Northern Wilderness • Sapa Trekking • Halong Bay Expedition • Off-Road Exploration 06 Nights / 07 Days High-Octane Vietnam Adventure Expedition SERIAL CODE: VN-008 TRAGUIN TOUR CODE: TRG-VNM-ADV-2026 STATE / COUNTRY: Vietnam CATEGORY: Premium Vietnam Adventure Tour Package DURATION: 06 Nights / 07 Days Hanoi, Sapa & Northern Highlands\n\nTOUR OVERVIEW\nPush your boundaries with our TRAGUIN curated Vietnam Adventure Expedition. Designed for true thrill- seekers, this itinerary plunges into the northern wilderness, featuring rugged mountain trekking in Sapa, off- road exploration through remote landscapes, and intensive nature discovery, ensuring unforgettable memories in Vietnam's untamed heart. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "VN-008 | Vietnam Adventure Expedition | TRAGUIN",
+    "seo_description": "Premium 06 Nights / 07 Days Vietnam package (VN-008 / TRG-VNM-ADV-2026): Northern Wilderness • Sapa Trekking • Halong Bay Expedition • Off-Road Exploration with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN HANOI & BRIEFING",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: JOURNEY TO SAPA HIGHLANDS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SAPA MOUNTAIN TREKKING",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: WILDERNESS OFF-ROAD EXPLORATION",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: HALONG BAY ADVENTURE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: EXTREME MARINE ACTIVITIES",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: DEPARTURE",
+        "sort_order": 7
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN HANOI & BRIEFING",
+        "description": "Arrive in Hanoi. Expedition gear check and briefing. Private transfer to your wilderness-ready lodge.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "JOURNEY TO SAPA HIGHLANDS",
+        "description": "Drive to the Sapa highlands. Immerse yourself in the mountainous terrain, preparing for your multi-day rugged adventure. TRAGUIN Adventure",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SAPA MOUNTAIN TREKKING",
+        "description": "Intensive guided trek through remote Sapa trails. Experience local tribal life and breathtaking high-altitude vistas.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "WILDERNESS OFF-ROAD EXPLORATION",
+        "description": "Engage in an exclusive experience of off-road vehicle exploration through remote northern valleys, a highlight for serious adventure lovers.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "HALONG BAY ADVENTURE",
+        "description": "Transfer to Halong Bay. Kayak through hidden sea caves and explore remote islands on a premium adventure cruise vessel.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "EXTREME MARINE ACTIVITIES",
+        "description": "A full day of intense marine exploration, from swimming in hidden bays to cliff-side discovery. Celebrating with a celebratory adventure dinner gala.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "DEPARTURE",
+        "description": "Final breakfast before your TRAGUIN private transfer, completing your high-octane Vietnam adventure. HANDPICKED ADVENTURE STAYS Category Sapa & Highlands (3N) Halong Bay (3N) Option 01: Premium Highland Adventure Lodges Premium Adventure Cruise PREMIUM TRAVEL | ADVENTURE HOLIDAYS | CORPORATE MICE | HONEYMOON EXPERTS | FAMILY VACATIONS TRAGUIN Adventure Travel •",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 7
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Highland Adventure Lodges Premium Adventure Cruise",
+        "location": "Vietnam",
+        "nights_label": "6N",
+        "description": "Option 01: Premium — Highland Adventure Lodges Premium Adventure Cruise",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Northern Wilderness",
+        "nights_label": "6N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Northern Wilderness",
+        "nights_label": "6N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Northern Wilderness",
+        "nights_label": "6N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Vietnam",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven executive van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Inter-city transfers and curated sightseeing as per itinerary",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Vietnam visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

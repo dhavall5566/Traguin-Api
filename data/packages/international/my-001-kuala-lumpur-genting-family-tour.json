@@ -2,46 +2,49 @@
   "destination_slug": "malaysia",
   "package": {
     "slug": "my-001-kuala-lumpur-genting-family-tour",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "MY-001",
+    "traguin_tour_code": "TRG-KUL-GEN-FAM-2026",
     "title": "Kuala Lumpur Genting Family Tour",
     "duration_label": "04 Nights / 05 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 54,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Kuala Lumpur (2N) → Genting Highlands (2N) family circuit",
+        "text": "Serial code MY-001 | TRAGUIN tour code TRG-KUL-GEN-FAM-2026",
         "sort_order": 1
       },
       {
-        "text": "Petronas Twin Towers & Batu Caves cultural expedition",
+        "text": "Country: Malaysia, Asia | Category: Best Kuala Lumpur Genting Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Awana SkyWay cable car & Genting theme parks",
+        "text": "Destinations: Kuala Lumpur (2N) +",
         "sort_order": 3
       },
       {
-        "text": "Full-day theme park adventure & mountain farewell dinner",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 dedicated family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-KUL-GEN-FAM-2026 | Serial MY-001",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Cultural",
       "Adventure"
     ]
   },
@@ -54,84 +57,78 @@
     "price_note": "On Request (Premium Malaysia Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Kuala Lumpur • Petronas Towers • Genting Highlands • Theme Parks",
-    "overview": "An exhilarating family escapade bridging Kuala Lumpur's city sophistication with Genting Highlands' mountain-top thrills. From iconic Petronas Towers and Batu Caves to world-class theme parks and cable car vistas — a premier luxury Malaysia holiday crafted by TRAGUIN.",
-    "is_featured": true,
-    "featured_sort_order": 54,
+    "tagline": "Kuala Lumpur Genting Family Tour",
+    "overview": "Kuala Lumpur • Petronas Towers • Genting Highlands • Theme Parks 04 Nights / 05 Days Classic Malaysia Family Holiday SERIAL CODE: MY-001 TRAGUIN TOUR CODE: TRG-KUL-GEN-FAM-2026 STATE / COUNTRY: Malaysia CATEGORY: Best Kuala Lumpur Genting Family Tour Package DURATION: 04 Nights / 05 Days DESTINATIONS: Kuala Lumpur (2N) + Genting Highlands (2N) IDEAL FOR: Families, Couples, Theme Park EnthusiastsBEST SEASON: Year-Round (Best during school holidays) Dive into an exhilarating family escapade with the Best Kuala Lumpur Genting Tour Package, masterfully curated by TRAGUIN to perfectly bridge city sophistication with mountain-top thrill. From iconic metropolitan landmarks to world-class theme parks, discover breathtaking landscapes and create unforgettable memories on this premier Luxury Malaysia Holiday.\n\nTOUR OVERVIEW\nWelcome to your bespoke Kuala Lumpur & Genting Highlands Family Vacation, a holiday structured explicitly for families who command seamless coordination, children-friendly exploration, and elite hospitality. Across 5 wonderful days, your family will explore the finest metropolitan marvels, mountain retreats, and entertainment centers of Malaysia. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "MY-001 | Kuala Lumpur Genting Family Tour | TRAGUIN",
-    "seo_description": "Premium 04 Nights / 05 Days Malaysia family package (MY-001): Petronas Towers, Batu Caves, Genting Highlands cable car, and theme parks.",
-    "is_published": true,
+    "seo_description": "Premium 04 Nights / 05 Days Malaysia package (MY-001 / TRG-KUL-GEN-FAM-2026): Kuala Lumpur (2N) + with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Petronas Twin Towers Observation Deck",
+        "text": "Day 01: ARRIVAL IN KUALA LUMPUR & CITY LIGHTS",
         "sort_order": 1
       },
       {
-        "text": "Batu Caves & Merdeka Square",
+        "text": "Day 02: KUALA LUMPUR CULTURAL EXPEDITION",
         "sort_order": 2
       },
       {
-        "text": "Awana SkyWay Cable Car to Genting",
+        "text": "Day 03: GENTING HIGHLANDS ESCAPE",
         "sort_order": 3
       },
       {
-        "text": "Genting Theme Park Full-Day Adventure",
+        "text": "Day 04: THE ULTIMATE THEME PARK DAY",
         "sort_order": 4
+      },
+      {
+        "text": "Day 05: DEPARTURE",
+        "sort_order": 5
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Kuala Lumpur & City Lights",
-        "description": "Arrive at KL International Airport with TRAGUIN welcome. Private luxury van to premium hotel. Evening visit to Petronas Twin Towers for breathtaking city skyline views.",
+        "title": "ARRIVAL IN KUALA LUMPUR & CITY LIGHTS",
+        "description": "THE GARDEN CITY WELCOME – PETRONAS TOWERS TWILIGHT Your Kuala Lumpur family tour begins perfectly as you arrive at KL International Airport. Receive a warm greeting coordinated seamlessly by your TRAGUIN representative. Step into your private luxury van for a scenic transfer to your premium hotel. In the evening, visit the iconic Petronas Twin Towers for breathtaking landscape views of the city skyline. Sightseeing: Petronas Twin Towers observation deck, KL city skyline drive. Stay: Kuala Lumpur (Premium City Hotel)",
         "activities": [
-          "Sightseeing Included: Petronas Twin Towers observation deck, KL city skyline drive",
-          "Overnight Stay: Kuala Lumpur (Premium City Hotel)",
-          "Meals Included: Welcome Family Dinner"
+          "Meals: Welcome Family Dinner"
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Kuala Lumpur Cultural Expedition",
-        "description": "Explore majestic Batu Caves with towering golden statue. Visit historic Merdeka Square and enjoy curated city shopping and cultural landmarks.",
+        "title": "KUALA LUMPUR CULTURAL EXPEDITION",
+        "description": "HISTORIC MARVELS – BATU CAVES & METROPOLITAN VIBES Explore the majestic Batu Caves, featuring iconic attractions like the towering golden statue. Afterward, visit the historic Merdeka Square and enjoy a curated city shopping experience. Conclude the day with immersive experiences at local cultural landmarks. Sightseeing: Batu Caves, Merdeka Square, local handicraft market. Stay: Kuala Lumpur (Premium City Hotel)",
         "activities": [
-          "Sightseeing Included: Batu Caves, Merdeka Square, local handicraft market",
-          "Overnight Stay: Kuala Lumpur (Premium City Hotel)",
-          "Meals Included: Breakfast & Local Lunch"
+          "Meals: Breakfast, Local Lunch"
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Genting Highlands Escape",
-        "description": "Scenic cable car ride via Awana SkyWay to Genting Highlands. Afternoon exploring indoor and outdoor theme parks.",
+        "title": "GENTING HIGHLANDS ESCAPE",
+        "description": "MOUNTAIN THRILLS – CABLE CAR VISTAS & COOL HIGHLAND AIR Transfer to the cool heights of Genting Highlands via a scenic cable car ride. Enjoy breathtaking landscapes as you ascend. Spend the afternoon exploring the indoor and outdoor theme parks, providing endless fun for the family. Sightseeing: Awana SkyWay cable car, Genting Theme Park entry. Stay: Genting Highlands (Handpicked Resort)",
         "activities": [
-          "Sightseeing Included: Awana SkyWay cable car, Genting Theme Park entry",
-          "Overnight Stay: Genting Highlands (Handpicked Resort)",
-          "Meals Included: Breakfast & Buffet Dinner"
+          "Meals: Breakfast, Buffet Dinner"
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "The Ultimate Theme Park Day",
-        "description": "Full day at Genting's integrated entertainment hubs with world-class rides. Grand finale dinner overlooking mountain valleys.",
+        "title": "THE ULTIMATE THEME PARK DAY",
+        "description": "UNFORGETTABLE MEMORIES – ACTION, ADVENTURE & ENTERTAINMENT A full day of immersive fun at Genting’s integrated entertainment hubs. Explore world-class rides and iconic attractions. In the evening, enjoy a grand finale dinner overlooking the mountain valleys. Sightseeing: Full day theme park exploration. Stay: Genting Highlands (Handpicked Resort)",
         "activities": [
-          "Sightseeing Included: Full day theme park exploration",
-          "Evening Experience: Farewell family dinner overlooking mountain valleys",
-          "Overnight Stay: Genting Highlands (Handpicked Resort)",
-          "Meals Included: Breakfast & Farewell Family Dinner"
+          "Meals: Breakfast, Farewell Family Dinner"
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Departure",
-        "description": "Final morning breakfast before luxury transfer to KL International Airport. Premium Malaysia family tour concludes with unforgettable TRAGUIN memories.",
+        "title": "DEPARTURE",
+        "description": "CHERISHING MEMORIES – DEPARTURE FROM MALAYSIA Enjoy a final morning breakfast before your luxury transfer back to KL International Airport. Your premium Malaysia family tour concludes, leaving you with unforgettable memories crafted by TRAGUIN. Sightseeing: Last-minute souvenir shopping at KL Airport Duty Free.",
         "activities": [
-          "Sightseeing Included: Last-minute souvenir shopping at KL Airport Duty Free",
-          "Meals Included: Breakfast"
+          "Meals: Breakfast"
         ],
         "sort_order": 5
       }
@@ -139,154 +136,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Impiana KLCC / similar",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Impiana KLCC First World Hotel",
+        "location": "Malaysia",
+        "nights_label": "4N",
+        "description": "Option 01: Deluxe — Impiana KLCC First World Hotel",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "First World Hotel / similar",
-        "location": "Genting Highlands",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 3,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "Berjaya Times Square Resorts World Genting",
+        "location": "Multi-city Malaysia",
+        "nights_label": "4N",
+        "description": "Option 02: Premium — Berjaya Times Square Resorts World Genting",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Berjaya Times Square",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Shangri-La Kuala Lumpur Crockfords",
+        "location": "Malaysia",
+        "nights_label": "4N",
+        "description": "Option 03: Luxury — Shangri-La Kuala Lumpur Crockfords",
         "stars": 4,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Resorts World Genting",
-        "location": "Genting Highlands",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 4,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "name": "The St. Regis KL Resorts World Genting Suites",
+        "location": "Multi-city Malaysia",
+        "nights_label": "4N",
+        "description": "Option 04: Ultra Luxury — The St. Regis KL Resorts World Genting Suites",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "Shangri-La Kuala Lumpur",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Crockfords",
-        "location": "Genting Highlands",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "The St. Regis KL",
-        "location": "Kuala Lumpur",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "Resorts World Genting Suites",
-        "location": "Genting Highlands",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "04 Nights in handpicked premium family hotels across Kuala Lumpur and Genting",
+        "text": "Premium handpicked accommodation across Malaysia",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private luxury van ground transfers throughout",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Petronas Towers, Batu Caves, and Genting Theme Park sightseeing",
+        "text": "Domestic flights and inter-city transfers as per curated itinerary",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Awana SkyWay cable car ascent to Genting Highlands",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 4
       },
       {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated on-ground family concierge support",
+        "kind": "excluded",
+        "text": "International airfare and Malaysia visa fees",
         "sort_order": 5
       },
       {
         "kind": "excluded",
-        "text": "International airfare and Malaysia entry visa processing fees",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
         "sort_order": 6
       },
       {
         "kind": "excluded",
-        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
         "sort_order": 7
       },
       {
         "kind": "excluded",
-        "text": "Optional sightseeing excursions not specified in the itinerary",
-        "sort_order": 8
-      },
-      {
-        "kind": "excluded",
         "text": "Tipping, porterage fees, and travel insurance",
-        "sort_order": 9
+        "sort_order": 8
       }
     ]
   }

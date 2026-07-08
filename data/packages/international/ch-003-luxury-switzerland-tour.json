@@ -3,46 +3,39 @@
   "package": {
     "slug": "ch-003-luxury-switzerland-tour",
     "serial_code": "SW-003",
-    "traguin_tour_code": null,
+    "traguin_tour_code": "TRG-SWI-LUX-2026",
     "title": "Luxury Switzerland Tour",
     "duration_label": "08 Nights / 09 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 36,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Zurich (2N) → Lucerne (2N) → Interlaken (3N) → Zermatt (2N) ultra-luxury circuit",
+        "text": "Serial code CH-003 | TRAGUIN tour code TRG-SWI-LUX-2026",
         "sort_order": 1
       },
       {
-        "text": "VIP Zurich discovery & exclusive Mt. Titlis summit access",
+        "text": "Country: Switzerland | Category: Ultra-Luxury Switzerland Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Luxury scenic rail journey & Jungfraujoch VIP expedition",
+        "text": "Destinations: Zurich Luxury • Lucerne Grandeur • Interlaken Alpine Retreat • Zermatt Elite • Exclusive",
         "sort_order": 3
       },
       {
-        "text": "Matterhorn elite experience & farewell gala dinner",
+        "text": "Best season: October to March",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 luxury travel concierge support",
+        "text": "Starting price: On Request",
         "sort_order": 5
-      },
-      {
-        "text": "Tour code TRG-SWI-LUX-2026 | Serial CH-003",
-        "sort_order": 6
       }
     ],
     "moods": [
-      "Luxury",
-      "Family",
-      "Nature",
-      "Adventure"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -51,135 +44,129 @@
     "duration_label": "08 Nights / 09 Days",
     "duration_days": 9,
     "starting_price": 0,
-    "price_note": "On Request (Ultra-Luxury Switzerland Experience)",
+    "price_note": "On Request (Premium Switzerland Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Zurich • Lucerne • Interlaken • Zermatt • Exclusive Rail Journeys",
-    "overview": "Indulge in the absolute height of sophistication across Switzerland with TRAGUIN's curated luxury expedition. From opulent five-star stays and world-class alpine resorts to exclusive private rail journeys and elite culinary experiences, this journey is designed for the discerning traveler — ensuring unforgettable memories in ultimate luxury across Zurich, Lucerne, Interlaken, and Zermatt.",
-    "is_featured": true,
-    "featured_sort_order": 36,
+    "tagline": "Zurich Luxury • Lucerne Grandeur • Interlaken Alpine Retreat • Zermatt Elite • Exclusive",
+    "overview": "Zurich Luxury • Lucerne Grandeur • Interlaken Alpine Retreat • Zermatt Elite • Exclusive Rail Journeys 08 Nights / 09 Days Ultra-Luxury Switzerland Expedition SERIAL CODE: CH-003 TRAGUIN TOUR CODE: TRG-SWI-LUX-2026 STATE / COUNTRY: Switzerland CATEGORY: Ultra-Luxury Switzerland Tour Package DURATION: 08 Nights / 09 Days Zurich (2N) + Lucerne (2N) + Interlaken (3N) + Zermatt (2N)\n\nTOUR OVERVIEW\nIndulge in the absolute height of sophistication across Switzerland with our TRAGUIN curated luxury expedition. From opulent five-star stays and world-class alpine resorts to exclusive private rail journeys and elite culinary experiences, this journey is designed for the discerning traveler, ensuring unforgettable memories in ultimate luxury. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "CH-003 | Luxury Switzerland Tour | TRAGUIN",
-    "seo_description": "Ultra-luxury 08 Nights / 09 Days Switzerland package (CH-003): Baur au Lac, Bürgenstock, Victoria-Jungfrau, The Omnia, Mt. Titlis, Jungfraujoch, and Matterhorn experiences.",
-    "is_published": true,
+    "seo_description": "Premium 08 Nights / 09 Days Switzerland package (CH-003 / TRG-SWI-LUX-2026): Zurich Luxury • Lucerne Grandeur • Interlaken Alpine Retreat • Zermatt Elite • Exclusive.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "VIP Zurich Discovery & Gourmet Welcome",
+        "text": "Day 01: VIP ARRIVAL & ZURICH LUXURY",
         "sort_order": 1
       },
       {
-        "text": "Mt. Titlis Exclusive Summit Access",
+        "text": "Day 02: EXCLUSIVE ZURICH DISCOVERY",
         "sort_order": 2
       },
       {
-        "text": "Luxury Scenic Rail to Interlaken",
+        "text": "Day 03: TRANSFER TO LUCERNE",
         "sort_order": 3
       },
       {
-        "text": "Jungfraujoch VIP Expedition",
+        "text": "Day 04: MT. TITLIS EXCLUSIVE ACCESS",
         "sort_order": 4
       },
       {
-        "text": "Matterhorn Elite Experience & Gala Dinner",
+        "text": "Day 05: SCENIC RAIL TO INTERLAKEN",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: JUNGFRAUJOCH VIP EXPEDITION",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: TRANSFER TO ZERMATT",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: MATTERHORN ELITE EXPERIENCE",
+        "sort_order": 8
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "VIP Arrival & Zurich Luxury",
+        "title": "VIP ARRIVAL & ZURICH LUXURY",
         "description": "Arrive in Zurich. VIP chauffeur transfer to your world-class hotel. Evening gourmet welcome dinner overlooking the lake.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private hotel transfer",
-          "Evening Experience: Gourmet welcome dinner",
-          "Overnight Stay: Zurich (Baur au Lac)",
-          "Meals Included: Welcome Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Exclusive Zurich Discovery",
-        "description": "Private guided tour of Zurich's most prestigious districts, boutique shopping, and cultural landmarks — an exclusive experience.",
+        "title": "EXCLUSIVE ZURICH DISCOVERY",
+        "description": "Private guided tour of Zurich’s most prestigious districts, boutique shopping, and cultural landmarks—an exclusive experience.",
         "activities": [
-          "Sightseeing Included: Private guided Zurich city tour",
-          "Overnight Stay: Zurich (Baur au Lac)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Transfer to Lucerne",
+        "title": "TRANSFER TO LUCERNE",
         "description": "VIP transfer to Lucerne. Check into a premium lakeside palace hotel. Afternoon private lake cruise with gourmet catering.",
         "activities": [
-          "Sightseeing Included: Private lake cruise with gourmet catering",
-          "Overnight Stay: Lucerne (Bürgenstock Resort)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Mt. Titlis Exclusive Access",
+        "title": "MT. TITLIS EXCLUSIVE ACCESS",
         "description": "Private cable car access to Mt. Titlis summit. Enjoy personal guiding, premium snow experiences, and gourmet dining at the top.",
         "activities": [
-          "Sightseeing Included: Mt. Titlis private summit access, personal guiding",
-          "Overnight Stay: Lucerne (Bürgenstock Resort)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Scenic Rail to Interlaken",
-        "description": "Embark on an exclusive luxury scenic rail journey to Interlaken. Check into an ultra-luxury alpine retreat.",
+        "title": "SCENIC RAIL TO INTERLAKEN",
+        "description": "Embark on an exclusive experience luxury scenic rail journey to Interlaken. Check into an ultra-luxury alpine retreat.",
         "activities": [
-          "Sightseeing Included: Luxury scenic rail journey to Interlaken",
-          "Overnight Stay: Interlaken (Victoria-Jungfrau Grand Hotel & Spa)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Jungfraujoch VIP Expedition",
-        "description": "Private VIP expedition to Jungfraujoch — the Top of Europe. Enjoy personalized guiding and unparalleled panoramic views.",
+        "title": "JUNGFRAUJOCH VIP EXPEDITION",
+        "description": "Private VIP expedition to Jungfraujoch—the Top of Europe. Enjoy personalized guiding and unparalleled panoramic views.",
         "activities": [
-          "Sightseeing Included: Jungfraujoch VIP private expedition",
-          "Overnight Stay: Interlaken (Victoria-Jungfrau Grand Hotel & Spa)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Transfer to Zermatt",
+        "title": "TRANSFER TO ZERMATT",
         "description": "Transfer to Zermatt. Check into an ultra-luxury boutique suite with iconic Matterhorn views.",
         "activities": [
-          "Sightseeing Included: Scenic transfer to Zermatt",
-          "Overnight Stay: Zermatt (The Omnia)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 7
       },
       {
         "day_number": 8,
-        "title": "Matterhorn Elite Experience",
+        "title": "MATTERHORN ELITE EXPERIENCE",
         "description": "Private leisure day in Zermatt, boutique shopping, and a farewell gala dinner celebrating your luxury Swiss expedition.",
         "activities": [
-          "Evening Experience: Farewell gala dinner",
-          "Overnight Stay: Zermatt (The Omnia)",
-          "Meals Included: Breakfast & Gala Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 8
       },
       {
         "day_number": 9,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Final luxury breakfast. VIP chauffeur transfer to the airport, concluding your premium Switzerland luxury expedition.",
         "activities": [
-          "Sightseeing Included: VIP airport transfer",
-          "Meals Included: International Buffet Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 9
       }
@@ -187,52 +174,52 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Baur au Lac",
+        "name": "Baur au Lac / similar",
         "location": "Zurich",
-        "nights_label": "02 Nights",
-        "description": null,
+        "nights_label": "2N",
+        "description": "OPTION 01 – ULTRA LUXURY: Baur au Lac",
         "stars": 5,
         "category_label": "Ultra Luxury",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Bürgenstock Resort",
+        "name": "Bürgenstock Resort / similar",
         "location": "Lucerne",
-        "nights_label": "02 Nights",
-        "description": null,
+        "nights_label": "2N",
+        "description": "OPTION 02 – ULTRA LUXURY: Bürgenstock Resort",
         "stars": 5,
         "category_label": "Ultra Luxury",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "Victoria-Jungfrau Grand Hotel & Spa",
+        "name": "Victoria-Jungfrau Grand / similar",
         "location": "Interlaken",
-        "nights_label": "03 Nights",
-        "description": null,
+        "nights_label": "3N",
+        "description": "OPTION 03 – ULTRA LUXURY: Victoria-Jungfrau Grand",
         "stars": 5,
         "category_label": "Ultra Luxury",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "The Omnia",
+        "name": "The Omnia / similar",
         "location": "Zermatt",
-        "nights_label": "02 Nights",
-        "description": null,
+        "nights_label": "2N",
+        "description": "OPTION 04 – ULTRA LUXURY: The Omnia",
         "stars": 5,
         "category_label": "Ultra Luxury",
-        "room_type": null,
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 4
@@ -241,37 +228,37 @@
     "inclusions": [
       {
         "kind": "included",
-        "text": "08 Nights in ultra-luxury hotels across Zurich, Lucerne, Interlaken, and Zermatt",
+        "text": "08 Nights in handpicked premium hotels across Zurich Luxury • Lucerne Grandeur • Interlaken Alpine Retreat • Zermatt Elite • Exclusive",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "VIP chauffeur-driven luxury ground transfers throughout",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Exclusive luxury scenic rail journey to Interlaken",
+        "text": "Mt. Titlis cable car ascent with summit snow activities",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Mt. Titlis private summit access with personal guiding",
+        "text": "Jungfraujoch — Top of Europe excursion",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "Jungfraujoch VIP private expedition to the Top of Europe",
+        "text": "Lucerne lake cruise and Chapel Bridge sightseeing",
         "sort_order": 5
       },
       {
         "kind": "included",
-        "text": "Private lake cruise with gourmet catering in Lucerne",
+        "text": "Matterhorn-view luxury stay and exploration in Zermatt",
         "sort_order": 6
       },
       {
         "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated luxury travel concierge support",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 7
       },
       {

@@ -1,0 +1,246 @@
+{
+  "destination_slug": "singapore",
+  "package": {
+    "slug": "sg-015-grand-singapore-family-tour",
+    "serial_code": "SG-015",
+    "traguin_tour_code": "TRG-SIN-GRD-2026",
+    "title": "Grand Singapore Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code SG-015 | TRAGUIN tour code TRG-SIN-GRD-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Singapore, Asia | Category: Best Grand Singapore Family Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Marina Bay • Gardens by the Bay • Sentosa Resort • Universal Studios • City Highlights",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Family",
+      "Luxury",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "sg-015-grand-singapore-family-itinerary",
+    "title": "Grand Singapore Family Tour",
+    "duration_label": "05 Nights / 06 Days",
+    "duration_days": 6,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Singapore Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Singapore Family Tour",
+    "overview": "Marina Bay • Gardens by the Bay • Sentosa Resort • Universal Studios • City Highlights 05 Nights / 06 Days Grand Singapore Family Expedition SERIAL CODE: SG-015 TRAGUIN TOUR CODE: TRG-SIN-GRD-2026 STATE / COUNTRY: Singapore CATEGORY: Best Grand Singapore Family Tour Package DURATION: 05 Nights / 06 Days Singapore City & Sentosa Grand Discovery\n\nTOUR OVERVIEW\nDiscover the absolute best of Singapore with our TRAGUIN curated Grand Family Expedition. This comprehensive itinerary blends luxury city stays, immersive nature explorations, and world-class theme park thrills, ensuring your family creates unforgettable memories in this spectacular city-state. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "SG-015 | Grand Singapore Family Tour | TRAGUIN",
+    "seo_description": "Premium 05 Nights / 06 Days Singapore package (SG-015 / TRG-SIN-GRD-2026): Marina Bay • Gardens by the Bay • Sentosa Resort • Universal Studios • City Highlights with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL & MARINA BAY SPLENDOR",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: GARDENS BY THE BAY & CULTURAL SIGHTS",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: SENTOSA ISLAND DISCOVERY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: UNIVERSAL STUDIOS SINGAPORE",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: CITY HIGHLIGHTS & SHOPPING",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL & MARINA BAY SPLENDOR",
+        "description": "Arrive in Singapore. Private transfer to your handpicked premium resort. Evening walk through Marina Bay to witness the grand city skyline.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "GARDENS BY THE BAY & CULTURAL SIGHTS",
+        "description": "Explore the stunning Gardens by the Bay. Followed by a grand cultural tour, showcasing the iconic attractions that define Singapore.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "SENTOSA ISLAND DISCOVERY",
+        "description": "Transfer to Sentosa Island. A day of exploration, beach leisure, and island attractions—a perfect premium family experience.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "UNIVERSAL STUDIOS SINGAPORE",
+        "description": "A full day of thrills at Universal Studios Singapore, enjoying world-class movie-themed rides—creating unforgettable memories.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "CITY HIGHLIGHTS & SHOPPING",
+        "description": "A comprehensive tour of Singapore's famous shopping districts and city landmarks, enjoying the scenic beauty of this dynamic metropolis.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "DEPARTURE",
+        "description": "Final luxury breakfast before your TRAGUIN private transfer to the airport, completing your premium grand Singapore family expedition.",
+        "activities": [
+          "Full day as per curated TRAGUIN itinerary."
+        ],
+        "sort_order": 6
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Selected Grand City Hotels / Beach Resorts ● TRAGUIN",
+        "location": "Multi-city Singapore",
+        "nights_label": "5N",
+        "description": "Option 01: Premium — Selected Grand City Hotels / Beach Resorts ● TRAGUIN",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Premium Property",
+        "location": "Marina Bay",
+        "nights_label": "5N",
+        "description": "OPTION 02 – PREMIUM: TRAGUIN Handpicked Premium Property",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Luxury Property",
+        "location": "Marina Bay",
+        "nights_label": "5N",
+        "description": "OPTION 03 – LUXURY: TRAGUIN Handpicked Luxury Property",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "TRAGUIN Handpicked Ultra Luxury Property",
+        "location": "Marina Bay",
+        "nights_label": "5N",
+        "description": "OPTION 04 – ULTRA LUXURY: TRAGUIN Handpicked Ultra Luxury Property",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "MAPAI (Breakfast & Dinner)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Premium handpicked accommodation across Singapore",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Private luxury airport transfers and dedicated chauffeur-driven van",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "International and connecting flights as per curated itinerary (where applicable)",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "International airfare and Singapore visa fees",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, laundry, room service, and mini-bar charges",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional sightseeing excursions not specified in the itinerary",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Tipping, porterage fees, and travel insurance",
+        "sort_order": 8
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "destination_slug": "uae",
+  "package": {
+    "slug": "uae-010-grand-dubai-tour",
+    "serial_code": "UAE-010",
+    "traguin_tour_code": "TRG-DXB-GRD-2026",
+    "title": "Grand Dubai Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Serial code UAE-010 | TRAGUIN tour code TRG-DXB-GRD-2026",
+        "sort_order": 1
+      },
+      {
+        "text": "Country: Dubai, UAE | Category: Premium Grand Dubai Tour Package",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Burj Al Arab Dining • Premium Desert Oasis • Private Yacht Charter • Lapita Parks • Abu",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Luxury Travelers",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Luxury"
+    ]
+  },
+  "itinerary": {
+    "slug": "uae-010-grand-dubai-itinerary",
+    "title": "Grand Dubai Tour",
+    "duration_label": "07 Nights / 08 Days",
+    "duration_days": 8,
+    "starting_price": 0,
+    "price_note": "On Request (Premium UAE Experience)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Dubai Tour",
+    "overview": "Dhabi Day Cross 07 Nights / 08 Days Ultimate Grand Dubai Ultra-Luxury Showcase SERIAL CODE: UAE-010 TRAGUIN TOUR CODE: TRG-DXB-GRD-2026 STATE / COUNTRY: Dubai / UAE CATEGORY: Premium Grand Dubai Tour Package DURATION: 07 Nights / 08 Days Dubai Full Exploration & Abu Dhabi Inclusion\n\nTOUR OVERVIEW\nStep into the absolute zenith of opulent travel with our flagship TRAGUIN curated itinerary. Designed with rigorous attention to detail, this Grand Dubai tour provides a comprehensive showcase of the Arabian Gulf’s finest landmarks. Experience exclusive experiences, indulge in premium stays, and cherish unforgettable memories on a truly definitive Luxury [Destination] Holiday. Branding Note from TRAGUIN: Distinction is our standard. Your 8-day private expedition includes full VIP chauffeured ground logistics in private Mercedes V-Class or luxury coaches, skip-the-line sky platform admissions, and Michelin-tier culinary highlights backed by our elite 24/7 guest care concierge desk.\n\nWHY CHOOSE OUR GRAND DUBAI LUXURY PACKAGE?\nDubai is a global icon of architectural triumphs and unparalleled hospitality, making it the perfect choice for families and couples seeking elite comfort. Selecting this Best Dubai Tour Package promises a comprehensive exploration of the region’s finest treasures. This professional framework incorporates top-tier corporate, honeymoon, and leisure strings to serve as a stellar client quotation format. Uncover all prominent iconic attractions: feast inside the magnificent Burj Al Arab, ascend the sky structures of Burj Khalifa via private elevators, relax during private sunset yacht charters, explore luxury beachfront developments across Palm Jumeirah, and capture the breathtaking landscapes of the deep desert. It is the absolute Best Time to Visit Dubai to witness premier Dubai Sightseeing landmarks and enjoy a truly rewarding Premium Dubai Experience. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "UAE-010 | Grand Dubai Tour | TRAGUIN",
+    "seo_description": "Premium 07 Nights / 08 Days Dubai package (UAE-010 / TRG-DXB-GRD-2026): Burj Al Arab Dining • Premium Desert Oasis • Private Yacht Charter • Lapita Parks • Abu with 4-tier handpicked accommodation.",
+    "is_published": false,
+    "highlights": [
+      {
+        "text": "Day 01: ARRIVAL IN DUBAI & NETWORKING CRUISE",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MODERN CITY ICONS & FAST-TRACK BURJ KHALIFA",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: BURJ AL ARAB HIGH TEA & COMRADE MARKETS",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: PREMIUM DESERT RETREAT & OVERNIGHT OASIS",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: SCENIC RESORT RELAXATION & PRIVATE YACHT GALA",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: GRAND ABU DHABI CROSSING & MOSQUE TOUR",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: RESORT LEISURE, MIRACLE GARDEN & FINALE",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: HIGH-END CHECKOUT & DEPARTURE",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "ARRIVAL IN DUBAI & NETWORKING CRUISE",
+        "description": "Arrive in glittering Dubai to a VIP terminal greeting. Your private TRAGUIN luxury chauffeur will transfer you to your premium hotel. In the evening, unwind with a private, relaxing dhow cruise across the historic Dubai Creek, taking in the scenic beauty of illuminated spice and gold markets while enjoying refreshments. Sightseeing Included: VIP airport personalized clearance, private luxury vehicle transfer. Evening Experience: Private cruise with traditional Arabic catering and ambient music tracks.",
+        "activities": [
+          "Overnight Stay: Downtown Dubai (Handpicked Premium Luxury Hotel)",
+          "Meals Included: Welcome International Gala Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MODERN CITY ICONS & FAST-TRACK BURJ KHALIFA",
+        "description": "Savor a luxurious breakfast before embarking on a guided tour of New Dubai. Visit the iconic Dubai Mall and bypass all crowded queues using our pre-booked priority passes to ascend the towering Burj Khalifa up to Levels 124/125. Conclude the afternoon exploring Palm Jumeirah luxury promenades. Sightseeing Included: Burj Khalifa entry passes, Dubai Mall, Palm Jumeirah island drive. Evening Experience: Reserved terrace lounge dining facing the synchronized Dubai Fountain Show.",
+        "activities": [
+          "Overnight Stay: Downtown Dubai (Handpicked Premium Luxury Hotel)",
+          "Meals Included: International Breakfast & Premium View Fountain Dinner"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "BURJ AL ARAB HIGH TEA & COMRADE MARKETS",
+        "description": "Indulge in a regal afternoon. Your luxury chauffeur transfers you to the world-famous sail-shaped landmark, the Burj Al Arab, for an exclusive, curated culinary experience. Later, enjoy a guided heritage stroll through the historic wind-towers of Al Fahidi Quarter, shopping for rare oud and silks. Sightseeing Included: Burj Al Arab ultra-luxury entry, Al Fahidi heritage Quarter walk.",
+        "activities": [
+          "Overnight Stay: Downtown Dubai (Handpicked Premium Luxury Hotel)",
+          "Meals Included: International Breakfast, Burj Al Arab High Tea, & Fine Dining Dinner"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "PREMIUM DESERT RETREAT & OVERNIGHT OASIS",
+        "description": "Transition from city glitz to majestic timelessness. Enter a private desert conservation reserve in customized 4x4 vehicles for a premium safari. Experience dune-bashing, falconry demonstrations, and sandboarding before checking into an ultra-exclusive desert resort nestled deep in the sand hills. Sightseeing Included: Conservation reserve private safari entries, deep sand exploration tracks. Evening Experience: Private candle-lit oasis dinner with celestial stargazing presentations.",
+        "activities": [
+          "Overnight Stay: Desert Conservation Reserve (Ultra-Luxury Desert Sanctuary Resort)",
+          "Meals Included: Breakfast & Live Flame Desert Grill Gala Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "SCENIC RESORT RELAXATION & PRIVATE YACHT GALA",
+        "description": "Wake up to the serene silent beauty of the desert sunrise. In the afternoon, return to the city and head to Dubai Marina to board a private luxury yacht chartered exclusively by TRAGUIN. Sip fine mocktails while cruising past JBR Beach and Bluewaters Island during sunset, capturing stunning photos. Sightseeing Included: Private luxury yacht charter cruise, Marina coastline exploration tracks.",
+        "activities": [
+          "Overnight Stay: Palm Jumeirah Beachfront Resort (Premium Stay)",
+          "Meals Included: Gourmet Resort Breakfast & Yacht Sunset Seafood Dinner"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "GRAND ABU DHABI CROSSING & MOSQUE TOUR",
+        "description": "A full-day excursion to the majestic capital of the UAE, Abu Dhabi. Travel via a private executive vehicle along the scenic highway. Tour the breathtaking Sheikh Zayed Grand Mosque, admiring its marble architecture. Later, visit the spectacular Louvre Abu Dhabi museum before returning to Dubai. Sightseeing Included: Sheikh Zayed Grand Mosque guided tour, Louvre Abu Dhabi entry passes.",
+        "activities": [
+          "Overnight Stay: Palm Jumeirah Beachfront Resort (Premium Stay)",
+          "Meals Included: International Breakfast & Abu Dhabi Yas Island Luxury Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "RESORT LEISURE, MIRACLE GARDEN & FINALE",
+        "description": "Spend a free morning relaxing at your beachfront resort pool. In the afternoon, visit the world's largest natural flower sanctuary, the Dubai Miracle Garden, admiring spectacular floral structures. Conclude your final evening with a grand farewell dinner event, celebrating a remarkable journey. Sightseeing Included: Dubai Miracle Garden flower passes, private city return logistics. Evening Experience: Grand finale corporate or family celebration dinner party.",
+        "activities": [
+          "Overnight Stay: Palm Jumeirah Beachfront Resort (Premium Stay)",
+          "Meals Included: International Breakfast & Farewell Grand Finale Dinner"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "HIGH-END CHECKOUT & DEPARTURE",
+        "description": "Savor a luxurious final breakfast, enjoying the serene beach view block. Our on-ground concierge team handles all checkout and luggage arrangements seamlessly. Your private vehicle transfers you smoothly to Dubai International Airport for your return flight home, concluding an epic grand holiday. Transfers: Private luxury van airport departure transit, complete luggage handling.",
+        "activities": [
+          "Meals Included: International Buffet Breakfast"
+        ],
+        "sort_order": 8
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "JW Marriott Marquis DubaiArabian Oryx Luxury CampRadisson Resort Palm Jumeirah",
+        "location": "Multi-city UAE",
+        "nights_label": "7N",
+        "description": "Option 01: Deluxe — JW Marriott Marquis DubaiArabian Oryx Luxury CampRadisson Resort Palm Jumeirah",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "Taj Dubai Downtown Mysk Al Badayer RetreatHilton Dubai The Palm",
+        "location": "Multi-city UAE",
+        "nights_label": "7N",
+        "description": "Option 02: Premium — Taj Dubai Downtown Mysk Al Badayer RetreatHilton Dubai The Palm",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "The Palace Downtown DubaiBab Al Shams Desert Resort The Westin Dubai Mina Seyahi",
+        "location": "Multi-city UAE",
+        "nights_label": "7N",
+        "description": "Option 03: Luxury — The Palace Downtown DubaiBab Al Shams Desert Resort The Westin Dubai Mina Seyahi",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "Armani Hotel Dubai Al Maha Desert Resort & Spa Atlantis The Royal / One&Only",
+        "location": "Multi-city UAE",
+        "nights_label": "7N",
+        "description": "Option 04: Ultra Luxury — Armani Hotel Dubai Al Maha Desert Resort & Spa Atlantis The Royal / One&Only",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Gourmet Experiences: Ultra-premium Burj Al Arab dining access and 7 customized high-end dinners",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "VIP Support: Fast-Track priority entrance passes for Burj Khalifa and all specified major landmarks",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Protection: Dedicated 24/7 on-call travel expert assistance and local hospitality desk",
+        "sort_order": 3
+      },
+      {
+        "kind": "excluded",
+        "text": "International Flight tickets and UAE entry visa processing fees",
+        "sort_order": 4
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses, tipping, laundry, mini-bar consumptions",
+        "sort_order": 5
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional extreme tours or water sports not specified in the main flow",
+        "sort_order": 6
+      }
+    ]
+  }
+}

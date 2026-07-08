@@ -2,48 +2,50 @@
   "destination_slug": "japan",
   "package": {
     "slug": "jp-002-japan-family-expedition",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "JP-002",
+    "traguin_tour_code": "TRG-JPN-FAMILY-2026",
     "title": "Japan Family Expedition",
     "duration_label": "07 Nights / 08 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 49,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Tokyo (3N) → Osaka (2N) → Kyoto (2N) Golden Route explorer",
+        "text": "Serial code JP-002 | TRAGUIN tour code TRG-JPN-FAMILY-2026",
         "sort_order": 1
       },
       {
-        "text": "Universal Studios Japan express passes & Super Nintendo World",
+        "text": "Country: Japan, East Asia | Category: Best Japan Family Tour Package",
         "sort_order": 2
       },
       {
-        "text": "Private sushi masterclass & Mt. Fuji Lake Ashi cruise",
+        "text": "Destinations: Tokyo • Mt. Fuji • Bullet Train Shinkansen • Osaka Universal • Kyoto Shrines",
         "sort_order": 3
       },
       {
-        "text": "First-class Shinkansen with TRAGUIN luggage forwarding",
+        "text": "Ideal for: Luxury Travelers",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 bilingual family concierge support",
+        "text": "Best season: October to March",
         "sort_order": 5
       },
       {
-        "text": "Tour code TRG-JPN-FAMILY-2026 | Serial JP-002",
+        "text": "Starting price: On Request",
         "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury Executive Van / Buffet Breakfast & Curated Dinners",
+        "sort_order": 7
       }
     ],
     "moods": [
       "Family",
       "Luxury",
-      "Cultural",
-      "Adventure",
-      "Nature"
+      "Leisure"
     ]
   },
   "itinerary": {
@@ -52,127 +54,127 @@
     "duration_label": "07 Nights / 08 Days",
     "duration_days": 8,
     "starting_price": 0,
-    "price_note": "On Request (Premium Japan Family Experience)",
+    "price_note": "On Request (Premium Japan Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Tokyo • Mt. Fuji • Osaka Universal • Kyoto Shrines",
-    "overview": "The ultimate multigenerational family journey through the Land of the Rising Sun. Connecting Tokyo's neon horizons, Osaka's Universal Studios thrills, and Kyoto's UNESCO heritage forests — with private luxury vans, first-class Shinkansen, luggage forwarding, and 24/7 bilingual support.",
-    "is_featured": true,
-    "featured_sort_order": 49,
+    "tagline": "Japan Family Expedition",
+    "overview": "07 Nights / 08 Days Immersive Golden Route Family Explorer SERIAL CODE: JP-002 TRAGUIN TOUR CODE: TRG-JPN-FAMILY-2026 STATE / COUNTRY: Japan / East Asia CATEGORY: Best Japan Family Tour Package DURATION: 07 Nights / 08 Days Tokyo (3N) • Osaka (2N) • Kyoto (2N)\n\nTOUR OVERVIEW\nEmbark on the ultimate multigenerational family journey through the Land of the Rising Sun with this beautifully paced TRAGUIN curated itinerary. Seamlessly connecting the neon sky-high horizons of Tokyo, the cinematic thrilling theme worlds of Osaka, and the peaceful UNESCO heritage forests of Kyoto, this Luxury Japan Holiday guarantees a rich balance of absolute comfort, technical marvel, and unforgettable memories. Family Comfort Note from TRAGUIN: Seamless operation is our commitment. This 8-day grand expedition relies on dedicated private luxury executive vans, first-class Shinkansen Bullet Train tickets, TRAGUIN Luggage Forwarding services to eliminate handling heavy bags on trains, and pre-vetted family dining reservations backed by our 24/7 bilingual on-ground support.\n\nWHY CHOOSE OUR TOKYO, OSAKA & KYOTO FAMILY FRAMEWORK?\nJapan is an incredibly rich storybook where ancient shrines stand alongside neon towers, making it the premier safe global environment for family bonding. Selecting this Best Japan Tour Package delivers a comprehensive exploration across the country's iconic Golden Route. Our narrative relies on topsearched travel terms optimized for Google ranking, ensuring an exceptional client quotation and presentation layout for premier Japan Sightseeing milestones. Discover Top Tourist Places in Japan: look across the snow-capped peak of Mt. Fuji, wander through Kyoto's historic red torii paths, enjoy a private sushi-making masterclass with a master chef in Tokyo, and experience Universal Studios Japan in Osaka—a premier popular Instagram location. It is the absolute Best Time to Visit Japan to enjoy curated experiences, experience high-end exclusive experiences, photograph breathtaking landscapes, and secure an unmatched Premium Japan Experience. TRAGUIN Family Signatures: Private family sushi masterclass, TeamLab Planets digital art priority passes, First-Class bullet train seating, hotel-to-hotel luggage transits, and private luxury executive van allocations throughout. THE DEFINITIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "JP-002 | Japan Family Expedition | TRAGUIN",
-    "seo_description": "Luxury 07 Nights / 08 Days Japan family package (JP-002): Tokyo, Mt. Fuji, Universal Studios Osaka, Kyoto shrines, sushi masterclass, and Shinkansen.",
-    "is_published": true,
+    "seo_description": "Premium 07 Nights / 08 Days Japan package (JP-002 / TRG-JPN-FAMILY-2026): Tokyo • Mt. Fuji • Bullet Train Shinkansen • Osaka Universal • Kyoto Shrines with 4-tier handpicked accommodation.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Shibuya Scramble & Senso-ji Temple",
+        "text": "Day 01: ARRIVAL IN TOKYO & SHIBUYA NEON CRUISE",
         "sort_order": 1
       },
       {
-        "text": "Private Sushi Masterclass & TeamLab Planets",
+        "text": "Day 02: HISTORIC ASAKUSA & PRIVATE SUSHI MASTERCLASS",
         "sort_order": 2
       },
       {
-        "text": "Mt. Fuji & Lake Ashi Pirate Ship Cruise",
+        "text": "Day 03: MT. FUJI PANORAMIC LANDSCAPES & LAKE ASHI CRUISE",
         "sort_order": 3
       },
       {
-        "text": "Universal Studios Japan Express Passes",
+        "text": "Day 04: FIRST-CLASS BULLET TRAIN TO OSCILLATING OSAKA",
         "sort_order": 4
       },
       {
-        "text": "Golden Pavilion & Fushimi Inari",
+        "text": "Day 05: UNIVERSAL STUDIOS JAPAN FULL-DAY IMMERSION",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: OSAKA CASTLE TO THE BAMBOO FORESTS OF KYOTO",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: GOLDEN PAVILION & RED TORII PATHWAYS GALA",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: HIGH-END TRANSIT & KANSAI DEPARTURE",
+        "sort_order": 8
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Tokyo & Shibuya Neon Cruise",
-        "description": "Premium airport reception. Private executive van to central hotel. Evening exploration of Shibuya neon pathways and Shibuya Scramble.",
+        "title": "ARRIVAL IN TOKYO & SHIBUYA NEON CRUISE",
+        "description": "Welcome to Tokyo! Your grand family holiday begins with a premium airport reception at Narita or Haneda Airport. Your private TRAGUIN chauffeur transfers your family in a spacious executive van directly to your central hotel. In the evening, explore the blinding neon-lit pathways of Shibuya, capturing beautiful family photographs crossing the famous Shibuya Scramble pedestrian paths. Sightseeing Included: VIP Airport reception, private luxury van transit, Shibuya Scramble walking trail. Evening Experience: Family welcome dinner at an upscale traditional Japanese restaurant.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private luxury van transit, Shibuya Scramble trail",
-          "Evening Experience: Family welcome dinner at upscale traditional Japanese restaurant",
-          "Overnight Stay: Tokyo City Centre (Premium Family Hotel)",
+          "Overnight Stay: Tokyo City Centre (Handpicked Premium Family Hotel)",
           "Meals Included: Traditional Japanese Welcome Dinner"
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Historic Asakusa & Private Sushi Masterclass",
-        "description": "Senso-ji Temple and Nakamise craft street. Private family sushi-making masterclass. Priority entry to teamLab Planets digital art maze.",
+        "title": "HISTORIC ASAKUSA & PRIVATE SUSHI MASTERCLASS",
+        "description": "Savor a bountiful breakfast before discovering Tokyo’s historic core. Visit Senso-ji Temple in Asakusa, walking down Nakamise craft street. In the afternoon, participate in a highlights event: a private family sushi-making masterclass led by an expert Japanese chef. Learn to roll maki and shape nigiri before enjoying your delicious creations for a family lunch. Conclude with priority entry to teamLab Planets immersive digital art maze. Sightseeing Included: Senso-ji Temple guided tour, TeamLab Planets priority entry passes. Special Curation:Private family sushi-making masterclass with a master chef.",
         "activities": [
-          "Sightseeing Included: Senso-ji Temple guided tour, TeamLab Planets priority entry",
-          "Special Curation: Private family sushi-making masterclass",
-          "Overnight Stay: Tokyo City Centre (Premium Family Hotel)",
+          "Overnight Stay: Tokyo City Centre (Handpicked Premium Family Hotel)",
           "Meals Included: International Breakfast & Masterclass Sushi Lunch"
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Mt. Fuji Panoramic Landscapes & Lake Ashi Cruise",
-        "description": "Drive to Mt. Fuji Subaru 5th Station. Scenic Lake Ashi pirate ship cruise. TRAGUIN luggage forwarding from Tokyo to Osaka.",
+        "title": "MT. FUJI PANORAMIC LANDSCAPES & LAKE ASHI CRUISE",
+        "description": "Check out as your private luxury van drives towards the majestic snow-capped peak of Mt. Fuji. Ascend to the Subaru 5th Station for spectacular view blocks of the valley below. Later, head into Hakone for a relaxing, scenic cruise across Lake Ashi aboard an ornate pirate ship, taking in the scenic beauty of mountain peaks and red torii gates reflecting in the pristine lake waters. Sightseeing Included: Mt. Fuji 5th Station access, Lake Ashi panoramic pirate ship cruise. Logistics Highlight: TRAGUIN seamless luggage forwarding services handle your heavy bags directly from Tokyo to Osaka.",
         "activities": [
-          "Sightseeing Included: Mt. Fuji 5th Station access, Lake Ashi pirate ship cruise",
-          "Logistics Highlight: Luggage forwarding from Tokyo to Osaka",
-          "Overnight Stay: Tokyo City Centre (Premium Family Hotel)",
+          "Overnight Stay: Tokyo City Centre (Handpicked Premium Family Hotel)",
           "Meals Included: International Breakfast & Casual Fuji-view Lunch"
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "First-Class Bullet Train to Osaka",
-        "description": "First-class Shinkansen to Osaka. Evening exploration of Dotonbori neon canal walkways and Glico Man banner.",
+        "title": "FIRST-CLASS BULLET TRAIN TO OSCILLATING OSAKA",
+        "description": "HIGH-SPEED REFINEMENT – SHINKANSEN TO ARABIAN FUTURISM Board Japan’s world-famous Shinkansen Bullet Train in First-Class Comfort. Experience incredible speeds of up to 320 km/h with total stability while your family relaxes in spacious layouts. Arrive in the dynamic culinary capital of Osaka. Check into your premium hotel and spend a vibrant evening exploring the glowing neon- lined canal walkways of Dotonbori, photographing the iconic Glico Man banner. Sightseeing Included: First-Class Bullet Train Shinkansen ticket, Dotonbori neon district orientation walk.",
         "activities": [
-          "Sightseeing Included: First-class Shinkansen ticket, Dotonbori orientation walk",
-          "Overnight Stay: Osaka Centre (Premium Family Hotel)",
-          "Meals Included: International Breakfast & Dotonbori Street-Food Dinner"
+          "Overnight Stay: Osaka Centre (Handpicked Premium Family Hotel)",
+          "Meals Included: International Breakfast & Dotonbori Street-Food Culinary Dinner"
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Universal Studios Japan Full-Day Immersion",
-        "description": "Full day at Universal Studios Japan with express passes. Super Nintendo World, Mario Kart, and Wizarding World of Harry Potter.",
+        "title": "UNIVERSAL STUDIOS JAPAN FULL-DAY IMMERSION",
+        "description": "A thrilling day for the entire family. Enter Universal Studios Japan with pre-arranged express passes to minimize all lines. Explore Super Nintendo World, race inside Mario Kart tracks, and experience the Wizarding World of Harry Potter. This highly engaging theme kingdom delivers endless smiles and unforgettable memories for children and adults alike. Sightseeing Included: Universal Studios Japan full-day admission tickets, Express priority passes.",
         "activities": [
-          "Sightseeing Included: Universal Studios Japan admission, express priority passes",
-          "Overnight Stay: Osaka Centre (Premium Family Hotel)",
+          "Overnight Stay: Osaka Centre (Handpicked Premium Family Hotel)",
           "Meals Included: International Breakfast & Theme Park Dine-around Vouchers"
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Osaka Castle to the Bamboo Forests of Kyoto",
-        "description": "Osaka Castle park tour. Transfer to Kyoto. Walk through Arashiyama Bamboo Grove.",
+        "title": "OSAKA CASTLE TO THE BAMBOO FORESTS OF KYOTO",
+        "description": "Tour the monumental Osaka Castle park, learning about historic samurai legends. In the afternoon, your private vehicle transfers your family to Kyoto, the cultural heart of Japan. Walk through the soaring, emerald Arashiyama Bamboo Grove, where towering stalks move with the wind, creating an otherworldly, sensory immersive experience. Sightseeing Included: Osaka Castle park guided tour, Arashiyama Bamboo Grove walking trail.",
         "activities": [
-          "Sightseeing Included: Osaka Castle guided tour, Arashiyama Bamboo Grove trail",
-          "Overnight Stay: Kyoto Heritage Centre (Premium Luxury Hotel)",
+          "Overnight Stay: Kyoto Heritage Centre (Handpicked Premium Luxury Hotel)",
           "Meals Included: International Breakfast & Traditional Kyoto Cuisine Dinner"
         ],
         "sort_order": 6
       },
       {
         "day_number": 7,
-        "title": "Golden Pavilion & Red Torii Pathways Gala",
-        "description": "Kinkaku-ji Golden Pavilion. Fushimi Inari Shrine torii gate trail. Grand farewell dinner with cultural performances.",
+        "title": "GOLDEN PAVILION & RED TORII PATHWAYS GALA",
+        "description": "Explore Kyoto’s architectural crown, Kinkaku-ji (The Golden Pavilion), entirely covered in gold leaf and reflecting over a mirror pond. Later, discover Fushimi Inari Shrine, walking past thousands of brilliant vermilion torii gates winding up the sacred forest. Celebrate your final evening with a grand farewell dinner party at a historic garden terrace restaurant. Sightseeing Included: Kinkaku-ji Golden Pavilion entry, Fushimi Inari Torii Gate trail. Evening Experience: Grand farewell family culinary feast with local cultural performances.",
         "activities": [
-          "Sightseeing Included: Kinkaku-ji entry, Fushimi Inari torii trail",
-          "Evening Experience: Grand farewell family feast with cultural performances",
-          "Overnight Stay: Kyoto Heritage Centre (Premium Luxury Hotel)",
+          "Overnight Stay: Kyoto Heritage Centre (Handpicked Premium Luxury Hotel)",
           "Meals Included: International Breakfast & Grand Farewell Gala Dinner"
         ],
         "sort_order": 7
       },
       {
         "day_number": 8,
-        "title": "High-End Transit & Kansai Departure",
-        "description": "Final luxurious breakfast. Private luxury van to Osaka Kansai International Airport with luggage coordination.",
+        "title": "HIGH-END TRANSIT & KANSAI DEPARTURE",
+        "description": "Savor a final luxurious breakfast, reviewing your incredible photo library. Our corporate concierge assistants handle your seamless checkout and manage all group luggage logistics smoothly. Your private luxury van transfers your family comfortably to Osaka Kansai International Airport for your departure flight, concluding an epic grand holiday. Transfers: Private luxury van airport departure transit, priority luggage coordination.",
         "activities": [
-          "Transfers Included: Private luxury van airport departure, priority luggage coordination",
-          "Meals Included: International Buffet Breakfast"
+          "Meals Included: International固定 Buffet Breakfast"
         ],
         "sort_order": 8
       }
@@ -180,211 +182,97 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "Keio Plaza Hotel Tokyo / similar",
-        "location": "Tokyo",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "Keio Plaza Hotel TokyoCross Hotel Osaka The Thousand Kyoto",
+        "location": "Multi-city Japan",
+        "nights_label": "7N",
+        "description": "Option 01: Deluxe — Keio Plaza Hotel TokyoCross Hotel Osaka The Thousand Kyoto",
         "stars": 4,
         "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 1
       },
       {
         "hotel_id": null,
-        "name": "Cross Hotel Osaka / similar",
-        "location": "Osaka",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "Cerulean Tower TokyuSwissotel Nankai Osaka Kyoto Tokyu Hotel",
+        "location": "Multi-city Japan",
+        "nights_label": "7N",
+        "description": "Option 02: Premium — Cerulean Tower TokyuSwissotel Nankai Osaka Kyoto Tokyu Hotel",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 2
       },
       {
         "hotel_id": null,
-        "name": "The Thousand Kyoto / similar",
-        "location": "Kyoto",
-        "nights_label": "02 Nights",
-        "description": null,
+        "name": "The Capitol Hotel TokyuW Osaka The Ritz-Carlton Kyoto",
+        "location": "Multi-city Japan",
+        "nights_label": "7N",
+        "description": "Option 03: Luxury — The Capitol Hotel TokyuW Osaka The Ritz-Carlton Kyoto",
         "stars": 4,
-        "category_label": "Deluxe",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 3
       },
       {
         "hotel_id": null,
-        "name": "Cerulean Tower Tokyu",
-        "location": "Tokyo",
-        "nights_label": "03 Nights",
-        "description": null,
+        "name": "Aman Tokyo / Palace Hotel St. Regis Osaka Aman Kyoto / Suiran Luxury Collection",
+        "location": "Multi-city Japan",
+        "nights_label": "7N",
+        "description": "Option 04: Ultra Luxury — Aman Tokyo / Palace Hotel St. Regis Osaka Aman Kyoto / Suiran Luxury Collection",
         "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
+        "category_label": "Ultra Luxury",
+        "room_type": "Deluxe Room",
+        "meal_plan": "Buffet Breakfast (CP)",
         "image_media_id": null,
         "sort_order": 4
-      },
-      {
-        "hotel_id": null,
-        "name": "Swissotel Nankai Osaka",
-        "location": "Osaka",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 5
-      },
-      {
-        "hotel_id": null,
-        "name": "Kyoto Tokyu Hotel",
-        "location": "Kyoto",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Premium",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 6
-      },
-      {
-        "hotel_id": null,
-        "name": "The Capitol Hotel Tokyu",
-        "location": "Tokyo",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 7
-      },
-      {
-        "hotel_id": null,
-        "name": "W Osaka",
-        "location": "Osaka",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 8
-      },
-      {
-        "hotel_id": null,
-        "name": "The Ritz-Carlton Kyoto",
-        "location": "Kyoto",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 9
-      },
-      {
-        "hotel_id": null,
-        "name": "Aman Tokyo / Palace Hotel",
-        "location": "Tokyo",
-        "nights_label": "03 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 10
-      },
-      {
-        "hotel_id": null,
-        "name": "St. Regis Osaka",
-        "location": "Osaka",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 11
-      },
-      {
-        "hotel_id": null,
-        "name": "Aman Kyoto / Suiran Luxury Collection",
-        "location": "Kyoto",
-        "nights_label": "02 Nights",
-        "description": null,
-        "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
-        "meal_plan": "Breakfast",
-        "image_media_id": null,
-        "sort_order": 12
       }
     ],
     "inclusions": [
       {
         "kind": "included",
-        "text": "07 Nights in family-friendly premium luxury hotel rooms or suites",
+        "text": "Stays: 07 Nights accommodation in family-friendly premium luxury hotel rooms or suites",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Daily breakfast spreads and curated specialty fine dinners",
+        "text": "Catering: Bountiful daily breakfast spreads and curated specialty fine dinners as per itinerary",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "First-class Shinkansen bullet train tickets from Tokyo to Osaka",
+        "text": "Bullet Train: First-class Shinkansen Bullet train tickets from Tokyo to Osaka",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "TRAGUIN seamless hotel-to-hotel luggage forwarding (1 bag per person)",
+        "text": "Luggage Care: TRAGUIN seamless hotel-to-hotel luggage forwarding service (1 bag per person)",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "Skip-the-line Universal Studios express, TeamLab Planets, and Golden Pavilion",
+        "text": "Specialty Curation: Private Family Sushi-making Masterclass led by an expert Japanese sushi chef",
         "sort_order": 5
       },
       {
-        "kind": "included",
-        "text": "Private family sushi-making masterclass with expert Japanese chef",
+        "kind": "excluded",
+        "text": "International Flight tickets and Japan entry Visa processing fees",
         "sort_order": 6
       },
       {
-        "kind": "included",
-        "text": "TRAGUIN 24/7 bilingual destination managers and guest assistance",
+        "kind": "excluded",
+        "text": "Personal expenses, hotel room service laundry bills, mini-bar billing",
         "sort_order": 7
       },
       {
         "kind": "excluded",
-        "text": "International flight tickets and Japan entry visa processing fees",
+        "text": "Tipping, porterage fees, or optional sightseeing excursions not mentioned in the flow",
         "sort_order": 8
-      },
-      {
-        "kind": "excluded",
-        "text": "Personal expenses, laundry, room service, and mini-bar billing",
-        "sort_order": 9
-      },
-      {
-        "kind": "excluded",
-        "text": "Tipping, porterage fees, or optional sightseeing not mentioned",
-        "sort_order": 10
       }
     ]
   }

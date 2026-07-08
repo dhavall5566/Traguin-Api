@@ -2,46 +2,41 @@
   "destination_slug": "france",
   "package": {
     "slug": "fr-002-romantic-paris-honeymoon",
-    "serial_code": null,
-    "traguin_tour_code": null,
+    "serial_code": "FR-002",
+    "traguin_tour_code": "TRG-PAR-ROMANCE-2026",
     "title": "Romantic Paris Honeymoon",
     "duration_label": "05 Nights / 06 Days",
     "price": 0,
     "sold_last_month": 0,
     "rating": "4.9",
-    "is_featured": true,
-    "featured_sort_order": 38,
-    "is_published": true,
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": false,
     "highlights": [
       {
-        "text": "Paris (5N) romantic honeymoon sanctuary",
+        "text": "Serial code FR-002 | TRAGUIN tour code TRG-PAR-ROMANCE-2026",
         "sort_order": 1
       },
       {
-        "text": "Private Seine River dinner cruise with Eiffel Tower views",
+        "text": "Country: France | Category: Luxury Romantic Paris Honeymoon Package",
         "sort_order": 2
       },
       {
-        "text": "Eiffel Tower skip-the-line & Montmartre artistic walk",
+        "text": "Destinations: Eiffel Tower • Seine River Cruise • Montmartre • Versailles • Luxury Dining",
         "sort_order": 3
       },
       {
-        "text": "Versailles, Louvre & Champs-Élysées luxury shopping",
+        "text": "Best season: October to March",
         "sort_order": 4
       },
       {
-        "text": "TRAGUIN 24/7 honeymoon concierge desk support",
+        "text": "Starting price: On Request",
         "sort_order": 5
-      },
-      {
-        "text": "Tour code TRG-PAR-ROMANCE-2026 | Serial FR-002",
-        "sort_order": 6
       }
     ],
     "moods": [
       "Romantic",
-      "Luxury",
-      "Cultural"
+      "Luxury"
     ]
   },
   "itinerary": {
@@ -50,102 +45,94 @@
     "duration_label": "05 Nights / 06 Days",
     "duration_days": 6,
     "starting_price": 0,
-    "price_note": "On Request (Premium Honeymoon Experience)",
+    "price_note": "On Request (Premium France Experience)",
     "rating": "4.9",
     "review_count": 0,
-    "tagline": "Eiffel Tower • Seine Cruise • Montmartre • Versailles • Luxury Dining",
-    "overview": "Begin your lifelong love story in the most poetic city in the world. TRAGUIN's curated Paris honeymoon retreat offers an unparalleled blend of classic French romance, world-class culinary experiences, and iconic landmark exploration. Designed for absolute comfort and privacy, this Romantic Paris journey guarantees unforgettable memories in the heart of the City of Light.",
-    "is_featured": true,
-    "featured_sort_order": 38,
+    "tagline": "Eiffel Tower • Seine River Cruise • Montmartre • Versailles • Luxury Dining",
+    "overview": "Eiffel Tower • Seine River Cruise • Montmartre • Versailles • Luxury Dining 05 Nights / 06 Days Romantic Paris Honeymoon Sanctuary SERIAL CODE: FR-002 TRAGUIN TOUR CODE: TRG-PAR-ROMANCE-2026 STATE / COUNTRY: France CATEGORY: Luxury Romantic Paris Honeymoon Package DURATION: 05 Nights / 06 Days Paris Exploration\n\nTOUR OVERVIEW\nBegin your lifelong love story in the most poetic city in the world. Our TRAGUIN curated Paris honeymoon retreat offers an unparalleled blend of classic French romance, world-class culinary experiences, and iconic landmark exploration. Designed for absolute comfort and privacy, this Romantic Paris journey guarantees unforgettable memories in the heart of the \"City of Light\".\n\nWHY CHOOSE OUR ROMANTIC PARIS HONEYMOON?\nParis provides an iconic backdrop for honeymoons, featuring breathtaking architecture, charming cobblestone streets, and exquisite dining. Choosing TRAGUIN for your honeymoon ensures premium experiences, from private guided tours to intimate sunset cruises. Discover why Paris remains the dream destination for couples worldwide. THE IMMERSIVE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
     "seo_title": "FR-002 | Romantic Paris Honeymoon | TRAGUIN",
-    "seo_description": "Premium 05 Nights / 06 Days Paris honeymoon package (FR-002): Seine dinner cruise, Eiffel Tower, Versailles, Louvre, Montmartre, and candlelight farewell dinner.",
-    "is_published": true,
+    "seo_description": "Premium 05 Nights / 06 Days France package (FR-002 / TRG-PAR-ROMANCE-2026): Eiffel Tower • Seine River Cruise • Montmartre • Versailles • Luxury Dining.",
+    "is_published": false,
     "highlights": [
       {
-        "text": "Private Seine River Dinner Cruise",
+        "text": "Day 01: ARRIVAL IN PARIS & SEINE RIVER DINNER CRUISE",
         "sort_order": 1
       },
       {
-        "text": "Eiffel Tower Skip-the-Line Access",
+        "text": "Day 02: EIFFEL TOWER & ARTISTIC MONTMARTRE",
         "sort_order": 2
       },
       {
-        "text": "Palace of Versailles Private Excursion",
+        "text": "Day 03: PALACE OF VERSAILLES",
         "sort_order": 3
       },
       {
-        "text": "Louvre Museum & Champs-Élysées",
+        "text": "Day 04: LOUVRE MUSEUM & SHOPPING",
         "sort_order": 4
       },
       {
-        "text": "Candlelight Farewell Dinner",
+        "text": "Day 05: LEISURE & ROMANTIC DINNER",
         "sort_order": 5
+      },
+      {
+        "text": "Day 06: DEPARTURE",
+        "sort_order": 6
       }
     ],
     "days": [
       {
         "day_number": 1,
-        "title": "Arrival in Paris & Seine River Dinner Cruise",
+        "title": "ARRIVAL IN PARIS & SEINE RIVER DINNER CRUISE",
         "description": "Arrive in Paris, the City of Light. Your private transfer will escort you to your ultra-luxury hotel. Celebrate your first evening with a private dinner cruise on the Seine River, viewing iconic landmarks like the Eiffel Tower illuminated.",
         "activities": [
-          "Sightseeing Included: VIP airport reception, private Seine dinner cruise",
-          "Evening Experience: Private dinner cruise with Eiffel Tower views",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Welcome Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 1
       },
       {
         "day_number": 2,
-        "title": "Eiffel Tower & Artistic Montmartre",
+        "title": "EIFFEL TOWER & ARTISTIC MONTMARTRE",
         "description": "Visit the iconic Eiffel Tower with skip-the-line access. Later, explore the charming artistic district of Montmartre, visit the Sacré-Cœur Basilica, and enjoy a private artistic walking tour through its quaint streets.",
         "activities": [
-          "Sightseeing Included: Eiffel Tower skip-the-line, Montmartre private walking tour, Sacré-Cœur Basilica",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 2
       },
       {
         "day_number": 3,
-        "title": "Palace of Versailles",
-        "description": "A private excursion to the majestic Palace of Versailles. Explore the royal apartments and stroll through the expansive, beautiful royal gardens in style.",
+        "title": "PALACE OF VERSAILLES",
+        "description": "A private excursion to the majestic Palace of Versailles. Explore the royal apartments and stroll through the expansive, beautiful royal gardens in style, creating unforgettable memories.",
         "activities": [
-          "Sightseeing Included: Private Palace of Versailles excursion, royal gardens",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 3
       },
       {
         "day_number": 4,
-        "title": "Louvre Museum & Shopping",
-        "description": "Discover artistic treasures at the Louvre Museum. Spend your afternoon enjoying leisurely luxury shopping along the Champs-Élysées.",
+        "title": "LOUVRE MUSEUM & SHOPPING",
+        "description": "Discover artistic treasures at the Louvre Museum. Spend your afternoon enjoying leisurely luxury shopping along the Champs-Élysées, ensuring a perfect premium experience.",
         "activities": [
-          "Sightseeing Included: Louvre Museum guided visit, Champs-Élysées leisure time",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 4
       },
       {
         "day_number": 5,
-        "title": "Leisure & Romantic Dinner",
+        "title": "LEISURE & ROMANTIC DINNER",
         "description": "Spend a relaxing day exploring local cafes, visiting charming patisseries, and enjoying a farewell candlelight dinner in a romantic garden restaurant.",
         "activities": [
-          "Evening Experience: Candlelight farewell dinner in garden restaurant",
-          "Overnight Stay: Paris (Ultra Luxury Hotel)",
-          "Meals Included: Breakfast & Farewell Dinner"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 5
       },
       {
         "day_number": 6,
-        "title": "Departure",
+        "title": "DEPARTURE",
         "description": "Enjoy a final French breakfast before your TRAGUIN private transfer, completing your romantic Paris honeymoon.",
         "activities": [
-          "Sightseeing Included: Private airport transfer",
-          "Meals Included: International Buffet Breakfast"
+          "Full day as per curated TRAGUIN itinerary."
         ],
         "sort_order": 6
       }
@@ -153,13 +140,13 @@
     "hotels": [
       {
         "hotel_id": null,
-        "name": "The Ritz Paris / Shangri-La Paris",
-        "location": "Paris",
+        "name": "TRAGUIN Handpicked Premium Property / similar",
+        "location": "Eiffel Tower",
         "nights_label": "05 Nights",
-        "description": null,
+        "description": "OPTION 01 – PREMIUM: TRAGUIN Handpicked Premium Property",
         "stars": 5,
-        "category_label": "Ultra Luxury",
-        "room_type": null,
+        "category_label": "Premium",
+        "room_type": "Deluxe Room",
         "meal_plan": "Breakfast",
         "image_media_id": null,
         "sort_order": 1
@@ -168,37 +155,37 @@
     "inclusions": [
       {
         "kind": "included",
-        "text": "05 Nights in handpicked ultra-luxury honeymoon hotel in Paris",
+        "text": "05 Nights in handpicked premium hotels across Eiffel Tower • Seine River Cruise • Montmartre • Versailles • Luxury Dining",
         "sort_order": 1
       },
       {
         "kind": "included",
-        "text": "Private chauffeur-driven luxury ground transfers throughout",
+        "text": "Private executive chauffeur-driven luxury ground transfers throughout",
         "sort_order": 2
       },
       {
         "kind": "included",
-        "text": "Private Seine River dinner cruise on arrival evening",
+        "text": "Private guided Paris sightseeing including Eiffel Tower, Louvre, and Versailles",
         "sort_order": 3
       },
       {
         "kind": "included",
-        "text": "Eiffel Tower skip-the-line access and Louvre Museum visit",
+        "text": "Scenic Seine River cruise experience",
         "sort_order": 4
       },
       {
         "kind": "included",
-        "text": "Private Palace of Versailles excursion with royal gardens",
+        "text": "Montmartre and Sacré-Cœur artistic quarter exploration",
         "sort_order": 5
       },
       {
         "kind": "included",
-        "text": "TRAGUIN 24/7 dedicated honeymoon concierge support",
+        "text": "TRAGUIN 24/7 dedicated on-ground concierge support",
         "sort_order": 6
       },
       {
         "kind": "excluded",
-        "text": "International airfare and France entry visa processing fees",
+        "text": "International airfare and France/Schengen entry visa processing fees",
         "sort_order": 7
       },
       {
