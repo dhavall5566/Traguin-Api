@@ -540,7 +540,7 @@ def build_fr_004(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         rating=Decimal("4.9"),
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ph('Serial code FR-004 | TRAGUIN tour code TRG-PAR-SWI-2026', 1),
             _ph('Country: France | Category: Best Family Tour Package', 2),
@@ -566,7 +566,7 @@ def build_fr_004(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         seo_description='Premium 07 Nights / 08 Days France package (FR-004 / TRG-PAR-SWI-2026): Paris, France • Lucerne/Interlaken, Switzerland.',
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ih('Day 01: ARRIVAL IN PARIS', 1),
             _ih('Day 02: PARIS LANDMARKS', 2),
@@ -717,7 +717,7 @@ def build_fr_005(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         rating=Decimal("4.9"),
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ph('Serial code FR-005 | TRAGUIN tour code TRG-FRA-GRD-2026', 1),
             _ph('Country: France | Category: Grand Luxury France Tour Package', 2),
@@ -743,7 +743,7 @@ def build_fr_005(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         seo_description='Premium 08 Nights / 09 Days France package (FR-005 / TRG-FRA-GRD-2026): Paris • Versailles • Loire Valley Castles • Bordeaux Vineyards • French Riviera (Nice/.',
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ih('Day 01: ARRIVAL IN PARIS', 1),
             _ih('Day 02: PARIS ART & HISTORY', 2),

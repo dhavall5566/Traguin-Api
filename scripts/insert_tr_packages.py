@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Insert TR-001 through TR-003 Turkey packages (no images)."""
+"""Insert TR-001 through TR-005 Turkey packages (no images, skip if exists)."""
 
 from __future__ import annotations
 
@@ -9,13 +9,15 @@ from pathlib import Path
 from sqlalchemy import select
 
 _SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR.parent) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR.parent))
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
 
 from tr_batch_package_defs import TR_BUILDERS
 from database import SessionLocal
 from models.destinations import Destination
-from services.package_insert import upsert_package_without_images
+from services.package_insert import insert_package_if_missing
 from utils.db import commit_or_raise
 
 TURKEY_SLUG = "turkey"
@@ -49,23 +51,35 @@ def get_or_create_turkey_destination_id() -> str:
 
 
 def main() -> None:
-    dest_id = get_or_create_turkey_destination_id()
+    inserted = 0
+    skipped = 0
+
     with SessionLocal() as db:
+        dest_id = get_or_create_turkey_destination_id()
+        destination = db.scalar(select(Destination).where(Destination.slug == TURKEY_SLUG))
+        if destination is None:
+            raise RuntimeError("Turkey destination not found after create")
+
         for builder in TR_BUILDERS:
             package, itinerary = builder(dest_id)
-            package = package.model_copy(update={"destination_id": dest_id})
-            itinerary = itinerary.model_copy(update={"destination_id": dest_id})
-            print(f"\n--- {package.slug} ---")
+            serial = package.serial_code or package.slug
+            print(f"\n--- {serial} | {package.slug} ---")
             try:
-                upsert_package_without_images(
+                result = insert_package_if_missing(
                     db,
                     destination_id=dest_id,
                     package=package,
                     itinerary=itinerary,
                 )
+                if result is None:
+                    skipped += 1
+                else:
+                    inserted += 1
             except Exception as exc:
                 print(f"Failed {package.slug}: {exc}", file=sys.stderr)
                 raise
+
+    print(f"\nDone. Inserted: {inserted}, Skipped: {skipped}")
 
 
 if __name__ == "__main__":

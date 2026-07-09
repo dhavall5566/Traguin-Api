@@ -78,7 +78,7 @@ def _duration_days(duration_label: str) -> int:
 
 
 def build_tr_002(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
-    serial = 'TR-002'
+    serial = 'TRP-002'
     tour_code = 'TRAGUIN-TR-002'
     title = 'Ujjayanta Palace • Neermahal • Udaipur • Heritage Exploration'
     duration = '03 Nights / 04 Days'
@@ -95,9 +95,9 @@ def build_tr_002(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         rating=Decimal("4.9"),
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
-            _ph('Serial code TR-002 | TRAGUIN tour code TRAGUIN-TR-002', 1),
+            _ph('Serial code TRP-002 | TRAGUIN tour code TRAGUIN-TR-002', 1),
             _ph('State / Country: Tripura / India | Category: HERITAGE HOLIDAY', 2),
             _ph('Destinations: Ujjayanta Palace • Neermahal • Udaipur • Heritage Exploration', 3),
             _ph('Ideal for: Family, History Lovers', 4),
@@ -120,10 +120,10 @@ def build_tr_002(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         tagline='Ujjayanta Palace',
         overview='Travel Dates: As Per Request Group / FIT: Private Family Tour (FIT) Vehicle: Meal Plan: TRAGUIN Luxury Proposal Page 1 of 5 Premium Air-Conditioned Luxury Vehicle MAPAI (Breakfast & Gourmet Dinner) Route: Agartala → Neermahal (Melaghar) → Udaipur → Agartala TRAGUIN Curated Experience Note: This elite Luxury Tripura Holiday offers prioritized, exclusive access to grand royal halls, custom historical storytellers, and private cruise transfers. We take care of every minor detail so your family can travel with complete ease and prestige.',
         seo_title='TR-002 | Ujjayanta Palace | TRAGUIN',
-        seo_description='Premium 03 Nights / 04 Days Tripura package (TR-002 / TRAGUIN-TR-002): Ujjayanta Palace • Neermahal • Udaipur • Heritage Exploration with handpicked accommodation.',
+        seo_description='Premium 03 Nights / 04 Days Tripura package (TRP-002 / TRAGUIN-TR-002): Ujjayanta Palace • Neermahal • Udaipur • Heritage Exploration with handpicked accommodation.',
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ih('Day 01: ARRIVAL IN AGARTALA', 1),
             _ih('Day 02: AGARTALA TO MELAGHAR (NEERMAHAL)', 2),
@@ -248,7 +248,7 @@ def build_tr_002(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
     return package, itinerary
 
 def build_tr_003(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
-    serial = 'TR-003'
+    serial = 'TRP-003'
     tour_code = 'TRAGUIN-TR-003'
     title = 'AGARTALA ESCAPE EXCLUSIVE ITINERARY'
     duration = '03 Nights / 04 Days'
@@ -265,9 +265,9 @@ def build_tr_003(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         rating=Decimal("4.9"),
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
-            _ph('Serial code TR-003 | TRAGUIN tour code TRAGUIN-TR-003', 1),
+            _ph('Serial code TRP-003 | TRAGUIN tour code TRAGUIN-TR-003', 1),
             _ph('State / Country: Tripura / India | Category: FAMILY / ESCAPE', 2),
             _ph('Destinations: COVERED: Agartala • Neermahal Water Palace • Sepahijala • Udaipur (Matabari)', 3),
             _ph('Ideal for: Luxury Family Quick Breaks', 4),
@@ -290,10 +290,10 @@ def build_tr_003(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         tagline='AGARTALA ESCAPE EXCLUSIVE ITINERARY',
         overview='Travel Dates: Flexible / Customized Group / FIT: Private FIT Family Tour Vehicle: Luxury AC Innova CrystaMeal Plan: MAPAI (Breakfast & Gourmet Dinner) Route: Agartala → Sepahijala → Neermahal → Udaipur → Agartala TRAGUIN Curated Experience Note: This refined Agartala Escape balances leisurely transit with deep cultural immersion. Enjoy private boat charters, swift VIP darshans, and hand-selected culinary previews designed by local culinary specialists exclusively for TRAGUIN guests.',
         seo_title='TR-003 | AGARTALA ESCAPE EXCLUSIVE ITINERARY | TRAGUIN',
-        seo_description='Premium 03 Nights / 04 Days Tripura package (TR-003 / TRAGUIN-TR-003): COVERED: Agartala • Neermahal Water Palace • Sepahijala • Udaipur (Matabari) with handpicked accommodation.',
+        seo_description='Premium 03 Nights / 04 Days Tripura package (TRP-003 / TRAGUIN-TR-003): COVERED: Agartala • Neermahal Water Palace • Sepahijala • Udaipur (Matabari) with handpicked accommodation.',
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ih('Day 01: AGARTALA', 1),
             _ih('Day 02: SEPAHIJALA & NEERMAHAL WATER PALACE', 2),
@@ -415,7 +415,7 @@ def build_tr_003(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
     return package, itinerary
 
 def build_tr_004(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
-    serial = 'TR-004'
+    serial = 'TRP-004'
     tour_code = 'TG-TR-PIL-004'
     title = 'PILGRIMAGE Agartala • Matabari Tripura Sundari Temple • Neermahal Palace Embark on a profound spiritual journey to one of the 51 sacred Shakti Peethas. The Tripura Sundari Tour meticulously curated by'
     duration = '03 Nights / 04 Days'
@@ -559,7 +559,7 @@ def build_tr_004(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
     return package, itinerary
 
 def build_tr_005(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCreate]:
-    serial = 'TR-005'
+    serial = 'TRP-005'
     tour_code = 'TG-TR-LEI-005'
     title = 'Agartala • Royal Water Palace Neermahal • Sacred Udaipur • Matabari'
     duration = '04 Nights / 05 Days'

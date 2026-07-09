@@ -95,7 +95,7 @@ def build_au_005(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         rating=Decimal("4.9"),
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ph('Serial code AU-005 | TRAGUIN tour code TRAGUIN-AU-005-PREMIUM', 1),
             _ph('State / Country: Australia | Category: Premium / Luxury Holidays DURATION: 10 Nights / 11 Days', 2),
@@ -123,7 +123,7 @@ def build_au_005(destination_id: str | UUID) -> tuple[PackageCreate, ItineraryCr
         seo_description='Premium 10 Nights / 11 Days Australia package (AU-005 / TRAGUIN-AU-005-PREMIUM): Melbourne (3N) • Cairns & Great Barrier Reef (2N) • Gold Coast (2N) • Sydney (3N) with 4-tier handpicked accommodation.',
         is_featured=False,
         featured_sort_order=None,
-        is_published=False,
+        is_published=True,
         highlights=[
             _ih('Day 01: MELBOURNE — ARRIVE IN THE CULTURAL CAPITAL & LUXURY WELCOME', 1),
             _ih('Day 02: MELBOURNE — THE GREAT OCEAN ROAD SPECTACULAR DRIVE', 2),

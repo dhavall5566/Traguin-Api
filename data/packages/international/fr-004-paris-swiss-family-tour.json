@@ -11,7 +11,7 @@
     "rating": "4.9",
     "is_featured": false,
     "featured_sort_order": null,
-    "is_published": false,
+    "is_published": true,
     "highlights": [
       {
         "text": "Serial code FR-004 | TRAGUIN tour code TRG-PAR-SWI-2026",
@@ -55,7 +55,7 @@
     "featured_sort_order": null,
     "seo_title": "FR-004 | Paris & Swiss Family Tour | TRAGUIN",
     "seo_description": "Premium 07 Nights / 08 Days France package (FR-004 / TRG-PAR-SWI-2026): Paris, France • Lucerne/Interlaken, Switzerland.",
-    "is_published": false,
+    "is_published": true,
     "highlights": [
       {
         "text": "Day 01: ARRIVAL IN PARIS",

@@ -1,0 +1,345 @@
+{
+  "destination_slug": "australia",
+  "package": {
+    "slug": "au-005-grand-australia-discovery-melbourne-cairns-gold-coast-sydney",
+    "serial_code": "AU-005",
+    "traguin_tour_code": "TRAGUIN-AU-005-PREMIUM",
+    "title": "Grand Australia Discovery: Melbourne • Cairns • Gold Coast • Sydney",
+    "duration_label": "10 Nights / 11 Days",
+    "price": 0,
+    "sold_last_month": 0,
+    "rating": "4.9",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Serial code AU-005 | TRAGUIN tour code TRAGUIN-AU-005-PREMIUM",
+        "sort_order": 1
+      },
+      {
+        "text": "State / Country: Australia | Category: Premium / Luxury Holidays DURATION: 10 Nights / 11 Days",
+        "sort_order": 2
+      },
+      {
+        "text": "Destinations: Melbourne (3N) • Cairns & Great Barrier Reef (2N) • Gold Coast (2N) • Sydney (3N)",
+        "sort_order": 3
+      },
+      {
+        "text": "Ideal for: Premium Families, Luxury Leisure Seekers, Honeymooners",
+        "sort_order": 4
+      },
+      {
+        "text": "Best season: October to March",
+        "sort_order": 5
+      },
+      {
+        "text": "Starting price: On Request",
+        "sort_order": 6
+      },
+      {
+        "text": "Vehicle / Meals: Private Luxury SUV / MAPAI",
+        "sort_order": 7
+      }
+    ],
+    "moods": [
+      "Luxury",
+      "Honeymoon",
+      "Beach"
+    ]
+  },
+  "itinerary": {
+    "slug": "au-005-grand-australia-discovery-melbourne-cairns-gold-coast-sydney-itinerary",
+    "title": "Grand Australia Discovery: Melbourne • Cairns • Gold Coast • Sydney",
+    "duration_label": "10 Nights / 11 Days",
+    "duration_days": 11,
+    "starting_price": 0,
+    "price_note": "On Request (Premium Customised)",
+    "rating": "4.9",
+    "review_count": 0,
+    "tagline": "Grand Australia Discovery: Melbourne",
+    "overview": "Grand Australia Discovery: Melbourne • Cairns • Gold Coast • Sydney 10 NIGHTS / 11 DAYS PREMIUM EXPERIENCE Welcome to a journey crafted exclusively for discerning travelers who demand nothing short of perfection. The Best Australia Tour Package by TRAGUIN unlocks the timeless, sun-drenched landscapes and sophisticated coastal charm of the Southern Hemisphere. From the vibrant laneways of Melbourne to the breathtaking landscapes of the Great Barrier Reef, this Luxury Australia Holiday promises an immersive blend of high-octane adventure and relaxed luxury. Trust TRAGUIN to design unforgettable memories tailored perfectly for your next elite getaway.\n\nTOUR OVERVIEW\nThis strictly bespoke, high-end itinerary represents the pinnacle of TRAGUIN Australia Packages. Designed for a premium FIT (Fully Independent Traveler) or family group looking for seamless connectivity, handpicked hotels, and curated experiences, this operational blueprint ensures zero stress. Enjoy private luxury airport transfers, a comprehensive premium meal plan featuring dynamic local dining options, and an expertly paced route designed by top destination specialists. Route: Melbourne (3 Nights) ➔ Cairns / Great Barrier Reef (2 Nights) ➔ Gold Coast (2 Nights) ➔ Sydney (3 Nights) Vehicle: Private Chauffeur-driven Premium SUV / Luxury Coach Transfers Meal Plan: European Plan / Modified American Plan (Daily Premium Breakfast & Gourmet Dinners) TRAGUIN Curated Experience Note: Includes private yacht charters, exclusive helicopter flight upgrades over the reef, and VIP backstage access to iconic landmarks.\n\nWHY CHOOSE A PREMIUM AUSTRALIA EXPERIENCE?\nAustralia is an ultimate bucket-list destination packed with world-famous attractions and some of the most popular Instagram locations globally. Choosing a Premium Australia Experience through TRAGUIN means trading crowded tourist buses for exclusive, high-end memories. Famous Attractions: The Sydney Opera House, the majestic Great Barrier Reef, the Twelve Apostles on the Great Ocean Road, and Warner Bros. Movie World. Most Searched Experiences: Hot air ballooning at dawn, private wine-tasting masterclasses in Yarra Valley, and sleeping over the Great Barrier Reef. Best Honeymoon / Family Points: Golden beaches of Surfers Paradise provide multi-generational fun, while private dining over Sydney Harbour offers unparalleled romance. Culture & Shopping: Explore the chic boutiques of Melbourne’s Collins Street, high-end retail at Sydney’s Queen Victoria Building, and Indigenous immersive experiences. YOUR BESPOKE DAY-WISE ITINERARY",
+    "is_featured": false,
+    "featured_sort_order": null,
+    "seo_title": "AU-005 | Grand Australia Discovery: Melbourne | TRAGUIN",
+    "seo_description": "Premium 10 Nights / 11 Days Australia package (AU-005 / TRAGUIN-AU-005-PREMIUM): Melbourne (3N) • Cairns & Great Barrier Reef (2N) • Gold Coast (2N) • Sydney (3N) with 4-tier handpicked accommodation.",
+    "is_published": true,
+    "highlights": [
+      {
+        "text": "Day 01: MELBOURNE — ARRIVE IN THE CULTURAL CAPITAL & LUXURY WELCOME",
+        "sort_order": 1
+      },
+      {
+        "text": "Day 02: MELBOURNE — THE GREAT OCEAN ROAD SPECTACULAR DRIVE",
+        "sort_order": 2
+      },
+      {
+        "text": "Day 03: MELBOURNE — YARRA VALLEY WINE MASTERCLASS & PUFFING BILLY",
+        "sort_order": 3
+      },
+      {
+        "text": "Day 04: CAIRNS — FLY TO TROPICAL NORTH QUEENSLAND",
+        "sort_order": 4
+      },
+      {
+        "text": "Day 05: CAIRNS — IMMERSIVE GREAT BARRIER REEF LUXURY CRUISE",
+        "sort_order": 5
+      },
+      {
+        "text": "Day 06: GOLD COAST — TRANSIT TO THE SUNSHINE PARADISE",
+        "sort_order": 6
+      },
+      {
+        "text": "Day 07: GOLD COAST — WARNER BROS. MOVIE WORLD VIP ADVENTURE",
+        "sort_order": 7
+      },
+      {
+        "text": "Day 08: SYDNEY — ARRIVE IN THE ICONIC HARBOUR CITY",
+        "sort_order": 8
+      }
+    ],
+    "days": [
+      {
+        "day_number": 1,
+        "title": "MELBOURNE — ARRIVE IN THE CULTURAL CAPITAL & LUXURY WELCOME",
+        "description": "Touchdown in the cultural heart of the country. Your premium Australia Sightseeing voyage commences with a smooth VIP airport pick-up, transferring you directly to your handpicked hotel. Spend your afternoon unwinding or walking down the famous street-art-filled graffiti lanes. As evening falls, settle in for a curated welcome dinner overlooking the Yarra River.",
+        "activities": [
+          "Sightseeing Included: Private City orientation, Street Art Laneways",
+          "Evening Experience: Riverside Fine Dining Welcome Experience",
+          "Overnight Stay: Melbourne (Premium Luxury Stay)",
+          "Meals Included: Welcome Dinner"
+        ],
+        "sort_order": 1
+      },
+      {
+        "day_number": 2,
+        "title": "MELBOURNE — THE GREAT OCEAN ROAD SPECTACULAR DRIVE",
+        "description": "Prepare for one of the world's most spectacular coastal drives. Your private vehicle guides you through breathtaking landscapes, winding along the rugged southern coast. Arrive at the iconic Twelve Apostles and Loch Ard Gorge. Witness towering limestone stacks rising from the Southern Ocean—a true photographer's paradise and a highlight of this Australia Family Tour.",
+        "activities": [
+          "Sightseeing Included: Full-Day Great Ocean Road, Twelve Apostles, Apollo Bay",
+          "Optional Activities: Scenic Helicopter Flight over the Apostles",
+          "Overnight Stay: Melbourne",
+          "Meals Included: Breakfast & Gourmet Lunch"
+        ],
+        "sort_order": 2
+      },
+      {
+        "day_number": 3,
+        "title": "MELBOURNE — YARRA VALLEY WINE MASTERCLASS & PUFFING BILLY",
+        "description": "Step back in time aboard the historic Puffing Billy steam train through the lush Dandenong Ranges. Afterward, journey into the elegant Yarra Valley for an exclusive premium wine-tasting experience and private lunch at a world-renowned estate. This curated experience balances natural scenic beauty with unmatched culinary indulgence.",
+        "activities": [
+          "Sightseeing Included: Puffing Billy Steam Train, Yarra Valley Estate Tour",
+          "Evening Experience: Premium Local Cafe Hopping in Melbourne Labyrinths",
+          "Overnight Stay: Melbourne",
+          "Meals Included: Breakfast & Vineyard Lunch"
+        ],
+        "sort_order": 3
+      },
+      {
+        "day_number": 4,
+        "title": "CAIRNS — FLY TO TROPICAL NORTH QUEENSLAND",
+        "description": "Bid farewell to Melbourne as your private luxury transfer drives you to the airport for your flight to tropical Cairns. Welcome to the gateway of the Great Barrier Reef. Upon landing, check into your ultra-luxury resort and absorb the soothing tropical climate. Spend your evening strolling down the lively Cairns Esplanade.",
+        "activities": [
+          "Sightseeing Included: Cairns Esplanade exploration",
+          "Evening Experience: Oceanfront Premium Seafood Dining Experience",
+          "Overnight Stay: Cairns (Handpicked Premium Resort)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 4
+      },
+      {
+        "day_number": 5,
+        "title": "CAIRNS — IMMERSIVE GREAT BARRIER REEF LUXURY CRUISE",
+        "description": "Today features the centerpiece of your Luxury Australia Holiday. Board a premium, high-speed luxury catamaran heading out to an exclusive outer reef platform. Indulge in an immersive experience snorkeling alongside exotic marine life, or view the vibrant corals via a semi-submersible observatory. This is an absolute top-searched experience that defines a true premium vacation.",
+        "activities": [
+          "Sightseeing Included: Outer Barrier Reef Premium Cruise, Marine Biologist Presentation",
+          "Optional Activities: Certified Scuba Diving, Sea Trek Helmet Walk",
+          "Overnight Stay: Cairns",
+          "Meals Included: Breakfast & Tropical Buffet Lunch"
+        ],
+        "sort_order": 5
+      },
+      {
+        "day_number": 6,
+        "title": "GOLD COAST — TRANSIT TO THE SUNSHINE PARADISE",
+        "description": "Fly south to Brisbane or Gold Coast airport. Your private vehicle whisks you away to Surfers Paradise, renowned for its sweeping beaches and endless golden horizons. The Gold Coast is globally recognized as an iconic landmark for luxury entertainment and pristine coastline, ideal for creating unforgettable memories with your loved ones.",
+        "activities": [
+          "Sightseeing Included: Surfers Paradise Beach walk, SkyPoint Observation Deck Access",
+          "Evening Experience: High-end dining at Broadbeach Marina",
+          "Overnight Stay: Gold Coast",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 6
+      },
+      {
+        "day_number": 7,
+        "title": "GOLD COAST — WARNER BROS. MOVIE WORLD VIP ADVENTURE",
+        "description": "Experience Hollywood on the Gold Coast with premium admission tickets to Warner Bros. Movie World. Perfect for families, this day offers world-class rollercoasters, movie character meet-and-greets, and spectacular stunt shows. It stands out as one of the top tourist places in Australia for premium multi- generational fun.",
+        "activities": [
+          "Sightseeing Included: Full Day Warner Bros. Movie World Admission Ticket",
+          "Evening Experience: Luxury Marina Mirage shopping & relaxation",
+          "Overnight Stay: Gold Coast",
+          "Meals Included: Breakfast"
+        ],
+        "sort_order": 7
+      },
+      {
+        "day_number": 8,
+        "title": "SYDNEY — ARRIVE IN THE ICONIC HARBOUR CITY",
+        "description": "Fly to Sydney, the crown jewel of Australia. Check into your opulent hotel overlooking the glittering harbor. In the late afternoon, enjoy a private curated tour of the historic Rocks district, tracing the birth of modern Sydney before enjoying a relaxing evening under the stars.",
+        "activities": [
+          "Sightseeing Included: Historic Rocks Walking Tour, Darling Harbour Orientation",
+          "Evening Experience: Premium Harbourfront Lounging and Dining",
+          "Overnight Stay: Sydney (Premium Luxury Stay)",
+          "Meals Included: Breakfast & Dinner"
+        ],
+        "sort_order": 8
+      },
+      {
+        "day_number": 9,
+        "title": "SYDNEY | CITY SIGHTSEEING, OPERA HOUSE VIP ACCESS & SHOWBOAT CRUISE",
+        "description": "Discover the finest landmarks of Sydney. Cross the Harbour Bridge, feel the sand at Bondi Beach, and capture breathtaking landscapes from Mrs. Macquarie’s Chair. Enjoy an exclusive inside-guided VIP tour of the magnificent Sydney Opera House. Cap off the night aboard an elegant Sydney Showboat Dinner Cruise with premier cabaret entertainment.",
+        "activities": [
+          "Sightseeing Included: Bondi Beach Coastal Visit, Opera House Guided Tour, Sydney Showboat Dinner Cruise",
+          "Optional Activities: Sydney Harbour BridgeClimb Experience",
+          "Overnight Stay: Sydney",
+          "Meals Included: Breakfast & Deluxe Cruise Dinner"
+        ],
+        "sort_order": 9
+      },
+      {
+        "day_number": 10,
+        "title": "SYDNEY — BLUE MOUNTAINS WILDLIFE & SCENIC WORLD DISCOVERY",
+        "description": "Head inland towards the dramatic Blue Mountains National Park. Watch the mystical blue haze hovering over deep valleys from Echo Point, looking across at the iconic Three Sisters rock formation. Experience the thrilling Scenic World cableway and railway rides before visiting a premier wildlife park to meet koalas and kangaroos up close.",
+        "activities": [
+          "Sightseeing Included: Blue Mountains Eco Point, Scenic World Cable Rides, Featherdale Wildlife Park",
+          "Evening Experience: Farewell Gala Dinner hosted at an award-winning restaurant",
+          "Overnight Stay: Sydney",
+          "Meals Included: Breakfast & Farewell Dinner"
+        ],
+        "sort_order": 10
+      },
+      {
+        "day_number": 11,
+        "title": "SYDNEY — DEPARTURE WITH UNFORGETTABLE MEMORIES",
+        "description": "Savor your final premium breakfast in Sydney. Take advantage of last-minute luxury shopping opportunities at the Queen Victoria Building before your private chauffeur transfers you seamlessly to Sydney International Airport for your homeward bound flight. Your unforgettable journey planned by TRAGUIN concludes here. Transfers: Private International Airport Chauffeur Drop",
+        "activities": [
+          "Sightseeing Included: Luxury Shopping at QVB (Self-Paced)",
+          "Meals Included: Premium Breakfast"
+        ],
+        "sort_order": 11
+      }
+    ],
+    "hotels": [
+      {
+        "hotel_id": null,
+        "name": "Pan Pacific Melbourne | Hilton Cairns | Vibe Hotel Gold Coast | Hyatt Regency Sydney",
+        "location": "Melbourne | Cairns | Gold Coast | Sydney",
+        "nights_label": "10N multi-city",
+        "description": "OPTION 01 – DELUXE: Pan Pacific Melbourne | Hilton Cairns | Vibe Hotel Gold Coast | Hyatt Regency Sydney",
+        "stars": 4,
+        "category_label": "Deluxe",
+        "room_type": "Premium Room",
+        "meal_plan": "Daily Premium Breakfast & Gourmet Dinner",
+        "image_media_id": null,
+        "sort_order": 1
+      },
+      {
+        "hotel_id": null,
+        "name": "The Langham Melbourne | Pullman Reef Hotel Casino | Hilton Surfers Paradise | InterContinental Sydney",
+        "location": "Melbourne | Cairns | Gold Coast | Sydney",
+        "nights_label": "10N multi-city",
+        "description": "OPTION 02 – PREMIUM: The Langham Melbourne | Pullman Reef Hotel Casino | Hilton Surfers Paradise | InterContinental Sydney",
+        "stars": 4,
+        "category_label": "Premium",
+        "room_type": "Premium Room",
+        "meal_plan": "Daily Premium Breakfast & Gourmet Dinner",
+        "image_media_id": null,
+        "sort_order": 2
+      },
+      {
+        "hotel_id": null,
+        "name": "Crown Towers Melbourne | Shangri-La The Marina | The Star Grand Gold Coast | Sofitel Sydney Darling Harbour",
+        "location": "Melbourne | Cairns | Gold Coast | Sydney",
+        "nights_label": "10N multi-city",
+        "description": "OPTION 03 – LUXURY: Crown Towers Melbourne | Shangri-La The Marina | The Star Grand Gold Coast | Sofitel Sydney Darling Harbour",
+        "stars": 4,
+        "category_label": "Luxury",
+        "room_type": "Premium Room",
+        "meal_plan": "Daily Premium Breakfast & Gourmet Dinner",
+        "image_media_id": null,
+        "sort_order": 3
+      },
+      {
+        "hotel_id": null,
+        "name": "The Ritz-Carlton Melbourne | Crystalbrook Riley Luxury Resort | The Langham Gold Coast | Park Hyatt Sydney (Opera View)",
+        "location": "Melbourne | Cairns | Gold Coast | Sydney",
+        "nights_label": "10N multi-city",
+        "description": "OPTION 04 – ULTRA LUXURY: The Ritz-Carlton Melbourne | Crystalbrook Riley Luxury Resort | The Langham Gold Coast | Park Hyatt Sydney (Opera View)",
+        "stars": 5,
+        "category_label": "Ultra Luxury",
+        "room_type": "Premium Room",
+        "meal_plan": "Daily Premium Breakfast & Gourmet Dinner",
+        "image_media_id": null,
+        "sort_order": 4
+      }
+    ],
+    "inclusions": [
+      {
+        "kind": "included",
+        "text": "Accommodation: 10 Nights stay in handpicked premium hotels based on your chosen tier",
+        "sort_order": 1
+      },
+      {
+        "kind": "included",
+        "text": "Meals: Daily gourmet buffet breakfasts and curated multi-course dinners as highlighted in the itinerary",
+        "sort_order": 2
+      },
+      {
+        "kind": "included",
+        "text": "Transfers: Private Chauffeur-driven luxury airport and inter-city transfers throughout the trip",
+        "sort_order": 3
+      },
+      {
+        "kind": "included",
+        "text": "Sightseeing: Great Ocean Road, Great Barrier Reef Cruise, Warner Bros. Movie World, VIP Opera House Tour, and Sydney Showboat Cruise",
+        "sort_order": 4
+      },
+      {
+        "kind": "included",
+        "text": "Welcome Amenities: Personalized luxury travel kits, local SIM cards, and signature welcome gifts upon arrival",
+        "sort_order": 5
+      },
+      {
+        "kind": "included",
+        "text": "TRAGUIN Support: 24/7 dedicated guest relations concierge assistance from our local expert team",
+        "sort_order": 6
+      },
+      {
+        "kind": "excluded",
+        "text": "International and domestic internal flight tickets (Can be added on actual cost basis)",
+        "sort_order": 7
+      },
+      {
+        "kind": "excluded",
+        "text": "Australian Tourist Visa fees and processing charges",
+        "sort_order": 8
+      },
+      {
+        "kind": "excluded",
+        "text": "Personal expenses such as laundry, mini-bar, telephone calls, and tips",
+        "sort_order": 9
+      },
+      {
+        "kind": "excluded",
+        "text": "Optional adventure activities like skydiving, bridge climbs, or helicopter flights",
+        "sort_order": 10
+      },
+      {
+        "kind": "excluded",
+        "text": "Travel insurance coverage (Highly recommended)",
+        "sort_order": 11
+      }
+    ]
+  }
+}
