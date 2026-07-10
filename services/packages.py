@@ -1,5 +1,6 @@
 from uuid import UUID
 
+from sqlalchemy import func, select
 from sqlalchemy.orm import Session, selectinload
 
 from models.destinations import Destination
@@ -104,3 +105,35 @@ def package_to_read(package: Package) -> PackageRead:
     if read.title:
         read.title = clean_package_title(read.title) or read.title
     return read
+
+
+def sync_destination_package_stats(db: Session, destination_id: UUID) -> None:
+    """Keep destination package_count and starting_price aligned with published packages."""
+    destination = db.get(Destination, destination_id)
+    if destination is None:
+        return
+
+    published_packages = db.scalars(
+        select(Package).where(
+            Package.destination_id == destination_id,
+            Package.is_published.is_(True),
+        )
+    ).all()
+
+    destination.package_count = len(published_packages)
+    if published_packages:
+        destination.starting_price = min(package.price for package in published_packages)
+
+
+def sync_linked_itinerary_visibility(db: Session, package: Package) -> None:
+    """Keep linked itinerary publish state aligned with its package (source of truth)."""
+    linked_itineraries = db.scalars(
+        select(Itinerary).where(Itinerary.package_id == package.id)
+    ).all()
+    for itinerary in linked_itineraries:
+        itinerary.is_published = package.is_published
+
+
+def apply_package_visibility_side_effects(db: Session, package: Package) -> None:
+    sync_linked_itinerary_visibility(db, package)
+    sync_destination_package_stats(db, package.destination_id)

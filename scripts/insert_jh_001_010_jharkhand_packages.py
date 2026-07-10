@@ -32,14 +32,14 @@ def get_or_create_jharkhand_destination(db) -> Destination:
         name="Jharkhand",
         country="India",
         region="domestic",
-        india_region="east",
+        india_region="central",
         description=(
             "Ranchi waterfalls, Netarhat hill station, Betla National Park, Deoghar Baidyanath Dham, "
             "Patratu Valley, and tribal heritage."
         ),
         starting_price=0,
         moods=["Nature", "Family", "Luxury", "Spiritual"],
-        is_published=False,
+        is_published=True,
     )
     db.add(destination)
     db.flush()

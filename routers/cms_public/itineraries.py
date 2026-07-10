@@ -9,7 +9,7 @@ from models.destinations import Destination
 from models.itineraries import Itinerary
 from schemas.itineraries import ItineraryRead
 from schemas.pagination import PaginatedResponse
-from services.itineraries import itinerary_query_with_nested, itinerary_to_read
+from services.itineraries import itinerary_to_read, public_itinerary_query
 from utils.pagination import paginate
 
 router = APIRouter()
@@ -21,21 +21,13 @@ def list_itineraries(
     pagination: tuple[int, int] = Depends(get_pagination),
 ):
     limit, offset = pagination
-    query = (
-        itinerary_query_with_nested(db)
-        .filter(Itinerary.is_published.is_(True))
-        .order_by(Itinerary.title)
-    )
+    query = public_itinerary_query(db).order_by(Itinerary.title)
     return paginate(query, limit, offset, transform=itinerary_to_read)
 
 
 @router.get("/slug/{slug}", response_model=ItineraryRead)
 def get_itinerary_by_slug(slug: str, db: Session = Depends(get_db)):
-    itinerary = (
-        itinerary_query_with_nested(db)
-        .filter_by(slug=slug, is_published=True)
-        .one_or_none()
-    )
+    itinerary = public_itinerary_query(db).filter_by(slug=slug).one_or_none()
     if itinerary is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Itinerary not found.")
     return itinerary_to_read(itinerary)
@@ -44,8 +36,8 @@ def get_itinerary_by_slug(slug: str, db: Session = Depends(get_db)):
 @router.get("/by-destination/{destination_id}", response_model=ItineraryRead)
 def get_itinerary_by_destination_id(destination_id: UUID, db: Session = Depends(get_db)):
     itinerary = (
-        itinerary_query_with_nested(db)
-        .filter_by(destination_id=destination_id, is_published=True)
+        public_itinerary_query(db)
+        .filter_by(destination_id=destination_id)
         .order_by(Itinerary.updated_at.desc())
         .first()
     )
@@ -68,8 +60,8 @@ def get_itinerary_by_destination_slug(
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Itinerary not found.")
 
     itinerary = (
-        itinerary_query_with_nested(db)
-        .filter_by(destination_id=destination.id, is_published=True)
+        public_itinerary_query(db)
+        .filter_by(destination_id=destination.id)
         .order_by(Itinerary.updated_at.desc())
         .first()
     )
@@ -89,8 +81,8 @@ def list_itineraries_by_destination_slug(destination_slug: str, db: Session = De
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Itinerary not found.")
 
     itineraries = (
-        itinerary_query_with_nested(db)
-        .filter_by(destination_id=destination.id, is_published=True)
+        public_itinerary_query(db)
+        .filter_by(destination_id=destination.id)
         .order_by(Itinerary.featured_sort_order.asc().nullslast(), Itinerary.title.asc())
         .all()
     )

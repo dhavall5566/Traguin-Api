@@ -44,7 +44,11 @@ from services.homepage_hero_settings import (
     read_homepage_hero_settings,
     select_homepage_hero_packages,
 )
-from services.itineraries import itinerary_query_with_nested, itinerary_to_read
+from services.itineraries import (
+    itinerary_query_with_nested,
+    itinerary_to_read,
+    public_itinerary_visibility_filters,
+)
 from services.packages import package_query_with_nested, package_to_read
 from utils.singleton import get_singleton_or_404
 
@@ -131,7 +135,7 @@ def build_homepage_bundle(db: Session) -> HomepageBundleRead:
     media_package_ids = hero_package_ids
     media_packages = [p for p in packages if p.id in media_package_ids]
 
-    itinerary_filters = [Itinerary.is_published.is_(True)]
+    itinerary_filters = [*public_itinerary_visibility_filters()]
     scope_filters = []
     if hero_package_ids:
         scope_filters.append(Itinerary.package_id.in_(hero_package_ids))

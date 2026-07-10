@@ -1,6 +1,7 @@
 from uuid import UUID
 
 from fastapi import HTTPException, status
+from sqlalchemy import exists, or_, select
 from sqlalchemy.orm import Session, selectinload
 
 from models.destinations import Destination
@@ -184,3 +185,23 @@ def itinerary_to_read(itinerary: Itinerary) -> ItineraryRead:
     if linked_package is not None and linked_package.hero_media_id is not None:
         read.package_hero_media_id = linked_package.hero_media_id
     return read
+
+
+def public_itinerary_visibility_filters():
+    """Itineraries are public only when published and their linked package is published."""
+    return (
+        Itinerary.is_published.is_(True),
+        or_(
+            Itinerary.package_id.is_(None),
+            exists(
+                select(1).where(
+                    Package.id == Itinerary.package_id,
+                    Package.is_published.is_(True),
+                )
+            ),
+        ),
+    )
+
+
+def public_itinerary_query(db: Session):
+    return itinerary_query_with_nested(db).filter(*public_itinerary_visibility_filters())

@@ -12,6 +12,7 @@ from schemas.packages import PackageCreate, PackageListRead, PackageRead, Packag
 from schemas.pagination import PaginatedResponse
 from services.packages import (
     apply_package_codes,
+    apply_package_visibility_side_effects,
     package_list_query,
     package_query_with_nested,
     package_to_list_read,
@@ -66,6 +67,7 @@ def create_package(payload: PackageCreate, db: Session = Depends(get_db)):
     sync_package_highlights(db, package, highlights)
     sync_package_moods(db, package, moods)
     sync_package_hero_to_itineraries(db, package)
+    apply_package_visibility_side_effects(db, package)
     commit_or_raise(db)
     package = package_query_with_nested(db).filter_by(id=package.id).one()
     return package_to_read(package)
@@ -89,6 +91,7 @@ def update_package(
     if moods is not None:
         sync_package_moods(db, package, moods)
     sync_package_hero_to_itineraries(db, package)
+    apply_package_visibility_side_effects(db, package)
     commit_or_raise(db)
     package = package_query_with_nested(db).filter_by(id=package.id).one()
     return package_to_read(package)

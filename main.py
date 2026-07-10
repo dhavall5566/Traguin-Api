@@ -11,6 +11,7 @@ from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 from config import settings
 from database import check_unified_database
 from dependencies.auth import require_admin
+import services.package_visibility_hooks  # noqa: F401 — register package/itinerary visibility hooks
 from routers.admin import router as admin_router
 from routers.auth import router as auth_router
 from routers.crm import router as crm_router

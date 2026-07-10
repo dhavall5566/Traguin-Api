@@ -20,7 +20,13 @@ from services.itineraries import (
     sync_itinerary_nested_content,
 )
 from services.media_from_pexels import apply_pexels_images_to_package
-from services.packages import package_query_with_nested, sync_package_highlights, sync_package_moods
+from services.packages import (
+    apply_package_codes,
+    apply_package_visibility_side_effects,
+    package_query_with_nested,
+    sync_package_highlights,
+    sync_package_moods,
+)
 from services.travel_moods import travel_moods_for_package
 from utils.db import commit_or_raise
 
@@ -95,6 +101,7 @@ def upsert_gujarat_package(
         image_specs=image_specs,
         global_used_urls=global_used_urls,
     )
+    apply_package_visibility_side_effects(db, pkg_row)
     commit_or_raise(db)
 
     itin_row = itinerary_query_with_nested(db).filter_by(id=itin_row.id).one()
@@ -204,6 +211,7 @@ def insert_package_if_missing(
     sync_itinerary_inclusions(db, itin_row, inclusions)
     print(f"Created itinerary: {itin_row.slug} ({itin_row.id})")
 
+    apply_package_visibility_side_effects(db, pkg_row)
     commit_or_raise(db)
 
     itin_row = itinerary_query_with_nested(db).filter_by(id=itin_row.id).one()
