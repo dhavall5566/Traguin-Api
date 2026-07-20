@@ -42,11 +42,16 @@ class Settings(BaseSettings):
     whatsapp_api_url: str | None = None
     whatsapp_api_base_url: str = "https://app.whatsmarketing.in"
     whatsapp_phone_number_id: str | None = None
+    # WhatsMarketing internal template id (preferred when set); from template/list after Meta sync
+    whatsapp_template_id: str | None = None
     whatsapp_lead_template: str | None = None
     whatsapp_crm_template: str | None = None
     whatsapp_lead_template_language: str = "en"
+    whatsapp_customer_inquiry_template_id: str | None = None
     whatsapp_notifications_enabled: bool = True
     whatsapp_crm_base_url: str | None = None
+    whatsapp_use_meta_api: bool = True
+    whatsapp_webhook_verify_token: str | None = None
 
     @field_validator("api_public_base_url", mode="before")
     @classmethod
@@ -73,6 +78,13 @@ class Settings(BaseSettings):
     @field_validator("whatsapp_notifications_enabled", mode="before")
     @classmethod
     def parse_whatsapp_notifications_enabled(cls, value):
+        if isinstance(value, str):
+            return value.strip().lower() in {"1", "true", "yes", "on"}
+        return value
+
+    @field_validator("whatsapp_use_meta_api", mode="before")
+    @classmethod
+    def parse_whatsapp_use_meta_api(cls, value):
         if isinstance(value, str):
             return value.strip().lower() in {"1", "true", "yes", "on"}
         return value

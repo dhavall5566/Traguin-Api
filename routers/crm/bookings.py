@@ -11,6 +11,7 @@ from models.crm.tenancy import User
 from schemas.crm.booking import BookingCreate, BookingRead, BookingUpdate
 from schemas.pagination import PaginatedResponse
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
+from services.customer_codes import ensure_customer_code_by_id
 from services.whatsapp_notifications import notify_booking_created_by_id
 from services.crm_scope import (
     get_booking_for_agency,
@@ -86,6 +87,7 @@ def create_booking(
     booking = Booking(**payload.model_dump(), agency_id=agency_id)
     db.add(booking)
     db.flush()
+    ensure_customer_code_by_id(db, payload.customer_id, agency_id)
     audit_create(
         db,
         agency_id=agency_id,

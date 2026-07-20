@@ -31,6 +31,7 @@ class Customer(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     last_name: Mapped[str] = mapped_column(String(128), nullable=False)
     email: Mapped[str] = mapped_column(String(255), nullable=False)
     phone: Mapped[Optional[str]] = mapped_column(String(64), nullable=True)
+    customer_code: Mapped[Optional[str]] = mapped_column(String(32), nullable=True, index=True)
     passport_number: Mapped[Optional[str]] = mapped_column(String(64), nullable=True)
     passport_expiry: Mapped[Optional[datetime]] = mapped_column(nullable=True)
     travel_history: Mapped[Optional[Any]] = mapped_column(JSONB, nullable=True)
@@ -41,3 +42,6 @@ class Customer(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     leads: Mapped[list[Lead]] = relationship(back_populates="customer")
     itineraries: Mapped[list[Itinerary]] = relationship(back_populates="customer")
     bookings: Mapped[list[Booking]] = relationship(back_populates="customer")
+    flags: Mapped[list["CustomerFlag"]] = relationship(
+        back_populates="customer", cascade="all, delete-orphan"
+    )

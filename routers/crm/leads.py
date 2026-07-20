@@ -12,6 +12,7 @@ from dependencies.pagination import get_pagination
 from models.crm.customers import Customer
 from models.crm.leads import Lead, LeadActivity
 from models.crm.tenancy import User
+from schemas.crm.customer_inquiry import CustomerInquiryHistoryRead
 from schemas.crm.lead import (
     LeadActivityCreateNested,
     LeadAssignmentPendingRead,
@@ -26,12 +27,16 @@ from schemas.crm.lead import (
     LeadUpdate,
 )
 from schemas.pagination import PaginatedResponse
+from services.customer_inquiry_history import build_customer_inquiry_history
 from services.lead_assignee import apply_returning_customer_assignee
 from services.lead_codes import assign_lead_code, ensure_lead_code
+from services.customer_codes import ensure_customer_code_by_id
 from services.lead_customers import find_customer_by_contact, link_or_create_customer_for_lead
 from services.lead_intake_check import check_lead_intake
 from services.lead_phone_dedup import merge_inquiry_into_existing_lead, resolve_canonical_lead_for_intake
+from services.notification_matrix import maybe_notify_no_answer_calls_by_id
 from services.lead_status import apply_lead_status_transition
+from services.lead_stage_automation import maybe_sync_lead_stage_from_signals
 from services.leads import (
     add_lead_children,
     get_lead_for_agency,
@@ -42,7 +47,6 @@ from services.leads import (
 )
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
 from services.email_notifications import (
-    notify_lead_assigned_email_by_id,
     notify_lead_assignment_accepted_email_by_id,
     notify_lead_assignment_rejected_email_by_id,
 )
@@ -61,8 +65,10 @@ router = APIRouter()
 
 
 def _finalize_lead_read(db: Session, lead: Lead) -> LeadRead:
+    had_code = bool(lead.lead_code)
     result = lead_to_read(db, lead)
-    commit_or_raise(db)
+    if not had_code and lead.lead_code:
+        commit_or_raise(db)
     return result
 
 
@@ -142,8 +148,31 @@ def list_leads(
         offset,
         transform=lambda lead: lead_to_list_read(db, lead),
     )
-    commit_or_raise(db)
     return result
+
+
+def _serialize_inquiry_history(
+    db: Session,
+    *,
+    agency_id: UUID,
+    phone: str | None,
+    email: str | None,
+    customer_id: UUID | None = None,
+    current_lead_id: UUID | None = None,
+    include_interactions: bool = True,
+    include_details: bool = True,
+) -> CustomerInquiryHistoryRead:
+    history = build_customer_inquiry_history(
+        db,
+        agency_id=agency_id,
+        phone=phone,
+        email=email,
+        customer_id=customer_id,
+        current_lead_id=current_lead_id,
+        include_interactions=include_interactions,
+        include_details=include_details,
+    )
+    return CustomerInquiryHistoryRead.model_validate(history.__dict__)
 
 
 @router.get("/intake-check", response_model=LeadIntakeCheckRead)
@@ -317,6 +346,7 @@ def accept_lead_assignment_route(
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lead not found.")
 
     accept_lead_assignment(db, lead, user_id=current_user.id)
+    maybe_sync_lead_stage_from_signals(db, lead, actor_id=current_user.id)
     audit_create(
         db,
         agency_id=agency_id,
@@ -376,16 +406,50 @@ def reject_lead_assignment_route(
     return _finalize_lead_read(db, lead)
 
 
+@router.get("/{lead_id}/inquiry-history", response_model=CustomerInquiryHistoryRead)
+def get_lead_inquiry_history(
+    lead_id: UUID,
+    include_interactions: bool = Query(default=True),
+    include_details: bool = Query(default=True),
+    agency_id: UUID = Depends(require_agency_scope),
+    db: Session = Depends(get_db),
+):
+    lead = (
+        db.query(Lead)
+        .filter(
+            Lead.id == lead_id,
+            Lead.agency_id == agency_id,
+            Lead.is_deleted.is_(False),
+        )
+        .one_or_none()
+    )
+    if lead is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lead not found.")
+    return _serialize_inquiry_history(
+        db,
+        agency_id=agency_id,
+        phone=lead.phone,
+        email=lead.email,
+        customer_id=lead.customer_id,
+        current_lead_id=lead.id,
+        include_interactions=include_interactions,
+        include_details=include_details,
+    )
+
+
 @router.get("/{lead_id}", response_model=LeadRead)
 def get_lead(
     lead_id: UUID,
     agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
     db: Session = Depends(get_db),
     include_deleted: bool = Depends(get_include_deleted),
 ):
     lead = get_lead_for_agency(db, lead_id, agency_id, include_deleted=include_deleted)
     if lead is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lead not found.")
+    if maybe_sync_lead_stage_from_signals(db, lead, actor_id=current_user.id):
+        commit_or_raise(db)
     return _finalize_lead_read(db, lead)
 
 
@@ -569,7 +633,15 @@ def create_lead(
     commit_or_raise(db)
     background_tasks.add_task(notify_team_new_lead_by_id, lead.id, event_type="crm_lead")
     if lead.assigned_to_id is not None and lead.assignment_status == ASSIGNMENT_PENDING:
-        background_tasks.add_task(notify_lead_assigned_email_by_id, lead.id)
+        assignee = db.get(User, lead.assigned_to_id)
+        background_tasks.add_task(
+            notify_lead_update_by_id,
+            lead.id,
+            LeadUpdateNotice(
+                assigned_changed=True,
+                assignee_name=assignee.name if assignee else "Team member",
+            ),
+        )
     response.status_code = status.HTTP_201_CREATED
     lead = get_lead_for_agency(db, lead.id, agency_id, include_deleted=True)
     assert lead is not None
@@ -611,6 +683,8 @@ def update_lead(
             previous_status,
             created_by_id=current_user.id,
         )
+        if lead.status.upper() == "BOOKED" and lead.customer_id is not None:
+            ensure_customer_code_by_id(db, lead.customer_id, agency_id)
 
     notice = LeadUpdateNotice()
 
@@ -661,6 +735,12 @@ def update_lead(
             followups=payload.append_followups,
         )
 
+    if maybe_sync_lead_stage_from_signals(db, lead, actor_id=current_user.id):
+        if lead.status != previous_status:
+            notice.status_changed = True
+            notice.old_status = previous_status
+            notice.new_status = lead.status
+
     audit_update(
         db,
         agency_id=agency_id,
@@ -674,8 +754,8 @@ def update_lead(
         ),
     )
     commit_or_raise(db)
-    if notice.assigned_changed and lead.assigned_to_id is not None and lead.assignment_status == ASSIGNMENT_PENDING:
-        background_tasks.add_task(notify_lead_assigned_email_by_id, lead.id)
+    if payload.append_activities:
+        background_tasks.add_task(maybe_notify_no_answer_calls_by_id, lead.id)
     if (
         notice.assigned_changed
         or notice.status_changed

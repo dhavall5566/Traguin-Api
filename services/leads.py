@@ -16,17 +16,20 @@ def lead_query_with_nested(db: Session):
 
 
 def lead_to_read(db: Session, lead: Lead) -> LeadRead:
-    ensure_lead_code(db, lead)
-    if not (lead.last_name or "").strip():
-        lead.last_name = "Visitor"
-    return LeadRead.model_validate(lead)
+    if not lead.lead_code:
+        ensure_lead_code(db, lead)
+    read = LeadRead.model_validate(lead)
+    if not (read.last_name or "").strip():
+        return read.model_copy(update={"last_name": "Visitor"})
+    return read
 
 
-def lead_to_list_read(db: Session, lead: Lead) -> LeadListRead:
-    ensure_lead_code(db, lead)
-    if not (lead.last_name or "").strip():
-        lead.last_name = "Visitor"
-    return LeadListRead.model_validate(lead)
+def lead_to_list_read(_db: Session, lead: Lead) -> LeadListRead:
+    """Read-only list row — never assign codes or flush here (list would be O(n) writes)."""
+    read = LeadListRead.model_validate(lead)
+    if not (read.last_name or "").strip():
+        return read.model_copy(update={"last_name": "Visitor"})
+    return read
 
 
 def list_pending_followups_for_agency(db: Session, agency_id: UUID) -> list[LeadFollowupRead]:

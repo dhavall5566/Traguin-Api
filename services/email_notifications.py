@@ -13,6 +13,7 @@ from models.crm.tenancy import Agency, User
 from schemas.crm.lead_mail_settings import LeadMailEventType
 from services.lead_mail_settings import list_lead_notification_emails
 from services.smtp_settings import get_agency_smtp_settings, send_agency_email
+from utils.lead_pipeline import PIPELINE_STATUS_LABELS
 
 logger = logging.getLogger(__name__)
 
@@ -48,15 +49,7 @@ def _should_skip_duplicate_lead_email(
     return False
 
 
-STATUS_LABELS = {
-    "NEW": "New",
-    "CONTACTED": "Contacted",
-    "QUALIFIED": "Qualified",
-    "PROPOSAL": "Proposal",
-    "NEGOTIATION": "Negotiation",
-    "WON": "Won",
-    "LOST": "Lost",
-}
+STATUS_LABELS = PIPELINE_STATUS_LABELS
 
 
 def _lead_display_name(lead: Lead) -> str:
@@ -93,6 +86,7 @@ def _build_lead_assigned_email_body(
     lead: Lead,
     agency_name: str,
     assignee_name: str,
+    history_lines: list[str] | None = None,
 ) -> str:
     name = _lead_display_name(lead)
     lines = [
@@ -109,6 +103,9 @@ def _build_lead_assigned_email_body(
         f"Status: {lead.status}",
         f"Title: {lead.title or '—'}",
     ]
+    if history_lines:
+        lines.extend(["", "Customer inquiry history (internal):"])
+        lines.extend(history_lines)
     if lead.message:
         lines.extend(["", "Message:", lead.message.strip()])
     lines.extend(["", f"Open CRM notifications to accept or reject: {_crm_dashboard_link()}"])
@@ -172,6 +169,7 @@ def _send_email_to_user(
     to_user_id: UUID | None,
     subject: str,
     body: str,
+    html_body: str | None = None,
 ) -> bool:
     if to_user_id is None:
         return False
@@ -195,6 +193,7 @@ def _send_email_to_user(
         to_email=to_email,
         subject=subject,
         body=body,
+        html_body=html_body,
         agency_name=agency_name,
     )
     return True
@@ -272,22 +271,36 @@ def notify_team_new_lead_email(
     *,
     event_type: LeadMailEventType,
 ) -> int:
-    agency = db.get(Agency, lead.agency_id)
-    agency_name = agency.name if agency is not None else "TRAGUIN CRM"
-    source_label = {
-        "website_lead": "Website lead form",
-        "crm_lead": "CRM lead creation",
-    }.get(event_type, "New lead")
-    subject = f"{agency_name} — New lead: {_lead_display_name(lead)}"
-    body = _build_new_lead_email_body(lead=lead, agency_name=agency_name, source_label=source_label)
-    return _send_lead_emails(
-        db,
-        agency_id=lead.agency_id,
-        event_type=event_type,
-        subject=subject,
-        body=body,
-        lead_id=lead.id,
-    )
+    from services.notification_templates.context import build_lead_context
+    from services.notification_templates.delivery import send_templated_email
+    from services.lead_mail_settings import list_lead_notification_emails
+
+    if _should_skip_duplicate_lead_email(lead.id, event_type):
+        return 0
+
+    smtp = get_agency_smtp_settings(db, lead.agency_id)
+    if smtp is None or not smtp.enabled:
+        return 0
+
+    recipients = list_lead_notification_emails(db, lead.agency_id, event_type)
+    if not recipients:
+        return 0
+
+    variables = build_lead_context(db, lead)
+    sent = 0
+    for email in recipients:
+        try:
+            if send_templated_email(
+                db,
+                agency_id=lead.agency_id,
+                to_email=email,
+                template_id="team_new_lead",
+                variables=variables,
+            ):
+                sent += 1
+        except Exception:
+            logger.exception("Lead alert email failed for %s (lead %s)", email, lead.id)
+    return sent
 
 
 def notify_team_new_lead_email_by_id(lead_id: UUID, *, event_type: LeadMailEventType) -> None:
@@ -335,26 +348,33 @@ def notify_lead_assigned_email_by_id(lead_id: UUID) -> None:
             return
 
         agency = db.get(Agency, lead.agency_id)
-        agency_name = agency.name if agency is not None else "TRAGUIN CRM"
-        lead_name = _lead_display_name(lead)
-        subject = f"{agency_name} — Lead assigned to you: {lead_name}"
-        body = _build_lead_assigned_email_body(
-            lead=lead,
-            agency_name=agency_name,
-            assignee_name=assignee.name,
+        from services.notification_templates.context import build_lead_context
+        from services.notification_templates.delivery import (
+            send_templated_email,
+            send_templated_whatsapp,
         )
-        send_agency_email(
-            smtp,
+
+        ctx = build_lead_context(db, lead, rm_user=assignee)
+        if send_templated_email(
+            db,
+            agency_id=lead.agency_id,
             to_email=assignee_email,
-            subject=subject,
-            body=body,
-            agency_name=agency_name,
-        )
-        logger.info(
-            "Lead assignment email sent to %s for lead %s",
-            assignee_email,
-            lead_id,
-        )
+            template_id="team_lead_assigned",
+            variables=ctx,
+        ):
+            logger.info(
+                "Lead assignment email sent to %s for lead %s",
+                assignee_email,
+                lead_id,
+            )
+        if assignee.phone:
+            send_templated_whatsapp(
+                assignee.phone,
+                "team_lead_assigned",
+                ctx,
+                db=db,
+                agency_id=lead.agency_id,
+            )
     except Exception:
         logger.exception("Email lead assignment notification failed for %s", lead_id)
     finally:

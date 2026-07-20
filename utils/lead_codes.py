@@ -1,8 +1,16 @@
-"""Human-readable lead reference codes: TRG001-WA (2-letter source suffix)."""
+"""Lead & customer reference codes — Travel CRM Lead Flow Guide v4.2.
+
+Before booking:  TEMP202607100001-FB
+After booking:   TG2026070001 (customer permanent ID)
+Legacy:          TRG001-WA (still recognized in UI)
+"""
 
 from __future__ import annotations
 
-# Website form types (from cms intake) → 2-letter suffix
+import re
+from datetime import date
+
+# Website form types (CMS intake) → suffix
 _WEBSITE_FORM_ABBREVS: dict[str, str] = {
     "travel_planner": "TP",
     "itinerary_inquiry": "IT",
@@ -12,12 +20,34 @@ _WEBSITE_FORM_ABBREVS: dict[str, str] = {
     "plan_my_journey": "PJ",
 }
 
-# CRM / channel sources → 2-letter suffix (order: longer keys first when matching)
+# Channel sources → suffix (longer keys first)
 _CHANNEL_SOURCE_ABBREVS: tuple[tuple[str, str], ...] = (
+    ("facebook / instagram", "FB"),
+    ("facebook", "FB"),
+    ("instagram", "IG"),
+    ("google ads", "GA"),
+    ("google business", "GB"),
+    ("landing page", "LP"),
+    ("offline campaign", "OC"),
+    ("phone call", "PC"),
+    ("club member", "CM"),
+    ("club members", "CM"),
+    ("travel partner", "TW"),
+    ("travel partners", "TW"),
+    ("existing / repeat", "RP"),
+    ("existing", "RP"),
+    ("repeat", "RP"),
+    ("walk-in", "WI"),
+    ("walk in", "WI"),
+    ("corporate", "CP"),
+    ("influencer", "IN"),
+    ("influencers", "IN"),
+    ("referral", "REF"),
+    ("client referral", "REF"),
+    ("whatsapp", "WA"),
+    ("direct whatsapp", "WA"),
     ("manual crm input", "MN"),
     ("manual input", "MN"),
-    ("direct whatsapp", "WA"),
-    ("client referral", "RF"),
     ("social ads", "IG"),
     ("travel expert", "TE"),
     ("contact consultation", "CC"),
@@ -25,29 +55,46 @@ _CHANNEL_SOURCE_ABBREVS: tuple[tuple[str, str], ...] = (
     ("plan my journey", "PJ"),
     ("travel planner", "TP"),
     ("hotel booking", "HB"),
-    ("whatsapp", "WA"),
-    ("instagram", "IG"),
-    ("referral", "RF"),
-    ("website", "WB"),
+    ("website", "WEB"),
+    ("email", "EM"),
+    ("phone", "PC"),
     ("manual", "MN"),
     ("direct", "DR"),
 )
 
-# Legend shown in CRM UI (code → label)
 LEAD_SOURCE_ABBREV_LEGEND: tuple[tuple[str, str], ...] = (
-    ("WB", "Website"),
+    ("WEB", "Website"),
+    ("FB", "Facebook"),
+    ("IG", "Instagram"),
+    ("GA", "Google Ads"),
+    ("GB", "Google Business"),
+    ("WA", "WhatsApp"),
+    ("REF", "Referral"),
+    ("RP", "Existing / repeat"),
+    ("WI", "Walk-in"),
+    ("CP", "Corporate"),
+    ("CM", "Club members"),
+    ("TW", "Travel partners"),
+    ("IN", "Influencers"),
+    ("PC", "Phone call"),
+    ("EM", "Email"),
+    ("LP", "Landing page"),
+    ("OC", "Offline campaign"),
     ("IT", "Itinerary inquiry"),
     ("TP", "Travel planner"),
     ("HB", "Hotel booking"),
     ("CC", "Contact form"),
     ("TE", "Expert consultation"),
     ("PJ", "Plan my journey"),
-    ("WA", "WhatsApp"),
-    ("IG", "Instagram / social ads"),
-    ("RF", "Referral"),
     ("MN", "Manual CRM entry"),
     ("DR", "Direct / other"),
+    ("RF", "Referral (legacy)"),
+    ("WB", "Website (legacy)"),
 )
+
+TEMP_CODE_RE = re.compile(r"^TEMP(\d{8})(\d{4})-([A-Z0-9]{2,3})$")
+LEGACY_TRG_CODE_RE = re.compile(r"^TRG(\d+)-([A-Z0-9]{2,3})$")
+CUSTOMER_CODE_RE = re.compile(r"^TG(\d{6})(\d{4})$")
 
 
 def normalize_phone_digits(phone: str | None) -> str | None:
@@ -81,7 +128,7 @@ def source_abbreviation(source: str | None) -> str:
         if form_type in _WEBSITE_FORM_ABBREVS:
             return _WEBSITE_FORM_ABBREVS[form_type]
         if form_type == "website":
-            return "WB"
+            return "WEB"
         return _two_letter_fallback(form_type)
 
     for needle, abbrev in _CHANNEL_SOURCE_ABBREVS:
@@ -91,7 +138,21 @@ def source_abbreviation(source: str | None) -> str:
     return _two_letter_fallback(raw)
 
 
+def format_temp_lead_code(day: date, sequence: int, source: str | None) -> str:
+    """TEMP + YYYYMMDD + 0001 + source suffix."""
+    return f"TEMP{day.strftime('%Y%m%d')}{sequence:04d}-{source_abbreviation(source)}"
+
+
+def format_customer_code(year_month: str, sequence: int) -> str:
+    """TG + YYYYMM + 0001 permanent customer ID."""
+    ym = year_month.strip()
+    if len(ym) != 6 or not ym.isdigit():
+        raise ValueError("year_month must be YYYYMM")
+    return f"TG{ym}{sequence:04d}"
+
+
 def format_lead_code(sequence: int, source: str | None) -> str:
+    """Legacy TRG format — kept for backward-compatible backfill scripts."""
     return f"TRG{sequence:03d}-{source_abbreviation(source)}"
 
 
@@ -101,3 +162,15 @@ def abbrev_label(abbrev: str) -> str | None:
         if code == key:
             return label
     return None
+
+
+def is_temp_lead_code(code: str | None) -> bool:
+    return bool(code and TEMP_CODE_RE.match(code.strip()))
+
+
+def is_legacy_trg_lead_code(code: str | None) -> bool:
+    return bool(code and LEGACY_TRG_CODE_RE.match(code.strip()))
+
+
+def is_customer_code(code: str | None) -> bool:
+    return bool(code and CUSTOMER_CODE_RE.match(code.strip()))

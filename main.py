@@ -16,6 +16,7 @@ from routers.admin import router as admin_router
 from routers.auth import router as auth_router
 from routers.crm import router as crm_router
 from routers.cms_public import router as public_router
+from routers.webhooks_whatsapp import router as webhooks_whatsapp_router
 
 app = FastAPI(title="Traguin API")
 
@@ -34,6 +35,7 @@ app.add_middleware(
 )
 
 app.include_router(public_router, prefix="/api/cms/public")
+app.include_router(webhooks_whatsapp_router)
 app.include_router(auth_router, prefix="/api/cms/auth")
 app.include_router(admin_router, prefix="/api/cms/admin", dependencies=[Depends(require_admin)])
 app.include_router(crm_router, prefix="/api/crm")

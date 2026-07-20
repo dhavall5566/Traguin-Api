@@ -97,6 +97,7 @@ def send_agency_email(
     subject: str,
     body: str,
     agency_name: str,
+    html_body: str | None = None,
 ) -> None:
     if not row.enabled:
         raise ValueError("SMTP is not enabled for this workspace.")
@@ -113,7 +114,11 @@ def send_agency_email(
         f"{row.from_name} <{row.from_email}>" if row.from_name.strip() else row.from_email
     )
     message["To"] = to_email
-    message.set_content(body)
+    if html_body:
+        message.set_content(body)
+        message.add_alternative(html_body, subtype="html")
+    else:
+        message.set_content(body)
 
     username = row.username.strip() or None
     password = row.password or ""

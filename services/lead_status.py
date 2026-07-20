@@ -9,8 +9,14 @@ from sqlalchemy.orm import Session
 
 from models.crm.leads import Lead, LeadActivity
 
-PROPOSAL_SENT_STATUS = "PROPOSAL_SENT"
+ITINERARY_SENT_STATUS = "ITINERARY_SENT"
+PROPOSAL_SENT_STATUS = "PROPOSAL_SENT"  # legacy alias
 ENTERED_PROPOSAL_SENT_ACTIVITY = "ENTERED_PROPOSAL_SENT"
+_ITINERARY_SENT_STATUSES = frozenset({ITINERARY_SENT_STATUS, PROPOSAL_SENT_STATUS})
+
+
+def _is_itinerary_sent_status(status: str | None) -> bool:
+    return (status or "").upper() in _ITINERARY_SENT_STATUSES
 
 
 def apply_lead_status_transition(
@@ -22,24 +28,27 @@ def apply_lead_status_transition(
     entered_at: datetime | None = None,
 ) -> None:
     """
-    When status enters PROPOSAL_SENT, set lead.proposal_sent_at and append a structured
-    ENTERED_PROPOSAL_SENT activity. Clears proposal_sent_at when leaving that stage.
+    When status enters itinerary-sent (ITINERARY_SENT or legacy PROPOSAL_SENT), set
+    lead.proposal_sent_at and append ENTERED_PROPOSAL_SENT. Clears when leaving that stage.
     """
     prev = (previous_status or "").upper()
     curr = lead.status.upper()
     if curr == prev:
         return
 
-    if curr == PROPOSAL_SENT_STATUS and prev != PROPOSAL_SENT_STATUS:
+    entering = _is_itinerary_sent_status(curr) and not _is_itinerary_sent_status(prev)
+    leaving = _is_itinerary_sent_status(prev) and not _is_itinerary_sent_status(curr)
+
+    if entering:
         when = entered_at or datetime.now(timezone.utc)
         lead.proposal_sent_at = when
         db.add(
             LeadActivity(
                 lead_id=lead.id,
                 type=ENTERED_PROPOSAL_SENT_ACTIVITY,
-                description=f"Entered {PROPOSAL_SENT_STATUS} stage",
+                description=f"Entered {curr} stage",
                 created_by_id=created_by_id,
             )
         )
-    elif prev == PROPOSAL_SENT_STATUS and curr != PROPOSAL_SENT_STATUS:
+    elif leaving:
         lead.proposal_sent_at = None

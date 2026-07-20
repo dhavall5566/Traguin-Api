@@ -28,10 +28,14 @@ MIGRATION_MODULES: tuple[str, ...] = (
     "scripts.migrate_cms_form_submission_package_id",
     "scripts.migrate_crm_lead_cms_package_id",
     "scripts.migrate_crm_lead_code",
+    "scripts.migrate_crm_customer_code",
     "scripts.migrate_crm_lead_package_mode",
     "scripts.migrate_crm_lead_priority_category",
     "scripts.migrate_crm_lead_assignment_status",
+    "scripts.migrate_crm_lead_assignment_timers",
+    "scripts.migrate_crm_customer_flags",
     "scripts.migrate_crm_agency_smtp_settings",
+    "scripts.migrate_crm_agency_whatsapp_template_settings",
 )
 
 

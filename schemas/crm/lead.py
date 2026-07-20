@@ -238,4 +238,8 @@ class LeadAssignmentPendingRead(BaseModel):
     phone: str | None = None
     assigned_by_id: UUID | None = None
     assigned_by_name: str | None = None
+    assigned_at: datetime | None = None
+    accept_within_working_minutes: int = 15
+    working_minutes_elapsed: int = 0
+    minutes_remaining: int = 15
     updated_at: datetime

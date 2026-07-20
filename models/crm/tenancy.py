@@ -12,6 +12,7 @@ from models.crm.base import CrmBase, CreatedAtMixin, TimestampMixin, UUIDPrimary
 if TYPE_CHECKING:
     from models.crm.lead_mail_settings import AgencyLeadMailSettings
     from models.crm.smtp_settings import AgencySmtpSettings
+    from models.crm.whatsapp_template_settings import AgencyWhatsAppTemplateSettings
 
 
 class Agency(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
@@ -47,6 +48,9 @@ class Agency(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     lead_mail_settings: Mapped[Optional["AgencyLeadMailSettings"]] = relationship(
         back_populates="agency", cascade="all, delete-orphan", uselist=False
     )
+    whatsapp_template_settings: Mapped[Optional["AgencyWhatsAppTemplateSettings"]] = relationship(
+        back_populates="agency", cascade="all, delete-orphan", uselist=False
+    )
 
 
 class User(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
@@ -74,6 +78,7 @@ class User(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     created_followups: Mapped[list[LeadFollowup]] = relationship(back_populates="created_by")
     user_roles: Mapped[list[UserRole]] = relationship(back_populates="user", cascade="all, delete-orphan")
     audit_logs: Mapped[list[AuditLog]] = relationship(back_populates="user")
+    created_customer_flags: Mapped[list["CustomerFlag"]] = relationship(back_populates="created_by")
 
 
 class Role(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
