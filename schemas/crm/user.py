@@ -14,6 +14,8 @@ class UserBase(BaseModel):
 class UserCreate(UserBase):
     password: str = Field(..., min_length=8, max_length=128)
     agency_id: UUID | None = None
+    org_unit_id: UUID | None = None
+    manager_id: UUID | None = None
 
 
 class UserUpdate(BaseModel):
@@ -22,6 +24,8 @@ class UserUpdate(BaseModel):
     phone: str | None = Field(default=None, max_length=64)
     password: str | None = Field(default=None, min_length=8, max_length=128)
     agency_id: UUID | None = None
+    org_unit_id: UUID | None = None
+    manager_id: UUID | None = None
 
 
 class UserRead(CrmTimestampRead, UserBase):

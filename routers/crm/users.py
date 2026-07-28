@@ -11,6 +11,7 @@ from models.crm.tenancy import User
 from schemas.crm.user import UserCreate, UserRead, UserUpdate
 from schemas.pagination import PaginatedResponse
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
+from services.user_hierarchy import validate_manager_for_user, validate_org_unit_for_agency
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
 from utils.passwords import hash_password, validate_password_strength
@@ -82,6 +83,14 @@ def create_user(
     except ValueError as exc:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(exc)) from exc
 
+    validate_org_unit_for_agency(db, target_agency_id, payload.org_unit_id)
+    validate_manager_for_user(
+        db,
+        agency_id=target_agency_id,
+        user_id=None,
+        manager_id=payload.manager_id,
+    )
+
     data = payload.model_dump(exclude={"password", "agency_id", "email"})
     user = User(
         **data,
@@ -124,6 +133,17 @@ def update_user(
             status_code=status.HTTP_403_FORBIDDEN,
             detail="Cannot move users outside your agency.",
         )
+
+    next_org_unit_id = payload.org_unit_id if "org_unit_id" in payload.model_fields_set else user.org_unit_id
+    next_manager_id = payload.manager_id if "manager_id" in payload.model_fields_set else user.manager_id
+    validate_org_unit_for_agency(db, agency_id, next_org_unit_id)
+    validate_manager_for_user(
+        db,
+        agency_id=agency_id,
+        user_id=user.id,
+        manager_id=next_manager_id,
+    )
+
     apply_partial_update(user, data)
     if payload.password is not None:
         try:
