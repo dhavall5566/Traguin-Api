@@ -36,6 +36,7 @@ MIGRATION_MODULES: tuple[str, ...] = (
     "scripts.migrate_crm_customer_flags",
     "scripts.migrate_crm_agency_smtp_settings",
     "scripts.migrate_crm_agency_whatsapp_template_settings",
+    "scripts.migrate_crm_enterprise_p1",
 )
 
 

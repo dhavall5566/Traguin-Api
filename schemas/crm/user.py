@@ -26,4 +26,6 @@ class UserUpdate(BaseModel):
 
 class UserRead(CrmTimestampRead, UserBase):
     agency_id: UUID | None
+    org_unit_id: UUID | None = None
+    manager_id: UUID | None = None
     is_deleted: bool

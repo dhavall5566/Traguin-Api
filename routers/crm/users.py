@@ -13,7 +13,7 @@ from schemas.pagination import PaginatedResponse
 from services.crm_audit import audit_create, audit_delete, audit_update, changed_fields_from_payload
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
-from utils.passwords import hash_password
+from utils.passwords import hash_password, validate_password_strength
 
 router = APIRouter()
 
@@ -77,6 +77,11 @@ def create_user(
             detail="Cannot create users outside your agency.",
         )
 
+    try:
+        validate_password_strength(payload.password)
+    except ValueError as exc:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(exc)) from exc
+
     data = payload.model_dump(exclude={"password", "agency_id", "email"})
     user = User(
         **data,
@@ -121,6 +126,10 @@ def update_user(
         )
     apply_partial_update(user, data)
     if payload.password is not None:
+        try:
+            validate_password_strength(payload.password)
+        except ValueError as exc:
+            raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(exc)) from exc
         user.password_hash = hash_password(payload.password)
 
     changed = changed_fields_from_payload(payload, exclude={"password"})

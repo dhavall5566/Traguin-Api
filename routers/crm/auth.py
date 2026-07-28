@@ -8,6 +8,8 @@ from database import get_db
 from dependencies.crm_auth import require_agency_scope, require_crm_user
 from models.crm.tenancy import Agency, User
 from schemas.crm.auth import CrmLoginRequest, CrmSessionRead, CrmTokenResponse
+from schemas.crm.permissions import UserPermissionsRead
+from services.crm_permissions import list_user_permissions, user_is_agency_admin
 from utils.crm_jwt_tokens import create_crm_access_token
 from utils.passwords import verify_password
 
@@ -50,3 +52,15 @@ def get_me(
     if agency is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Agency not found.")
     return CrmSessionRead(user=current_user, agency=agency)
+
+
+@router.get("/permissions", response_model=UserPermissionsRead)
+def get_my_permissions(
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    perms = list_user_permissions(db, current_user.id, current_user.agency_id)
+    return UserPermissionsRead(
+        is_admin=user_is_agency_admin(db, current_user.id, current_user.agency_id),
+        permissions=perms,
+    )

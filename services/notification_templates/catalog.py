@@ -24,6 +24,8 @@ TEMPLATE_IDS = (
     "team_dump_lead",
     "team_payment_overdue",
     "team_escalation",
+    "team_manager_lead_unassigned",
+    "team_assigner_lead_unassigned",
 )
 
 
@@ -587,6 +589,68 @@ _register(
 
 RM {{RM_Name}} — please follow up.
 Booking On Hold until paid.""",
+    )
+)
+
+_register(
+    NotificationTemplate(
+        id="team_assigner_lead_unassigned",
+        subject="Lead unassigned — {{Temp_ID}} not accepted by {{RM_Name}}",
+        email_subheader="Assignment update",
+        hero_title="",
+        hero_subtitle="",
+        email_body_html='<div style="background:#fef2f2;border:1px solid #fecaca;border-radius:6px;padding:12px;margin:0 0 12px;color:#991b1b;">{{Escalation_Message}}</div>'
+        + _grid(
+            [
+                ("Lead", "Temp_ID"),
+                ("Assigned RM", "RM_Name"),
+                ("Customer", "Customer_Name"),
+                ("Reminders sent", "Attempt_Count"),
+            ]
+        )
+        + "<p>The lead is back in the unassigned pool. You can assign it to another RM in CRM.</p>"
+        + '<div style="text-align:center;"><a href="{{CRM_Link}}" style="display:inline-block;background:#1E6BB8;color:#fff;text-decoration:none;padding:10px 22px;border-radius:6px;font-weight:600;">Reassign in CRM →</a></div>',
+        whatsapp_text="""⚠️ *Lead unassigned — RM did not accept*
+
+Lead {{Temp_ID}}
+RM: {{RM_Name}}
+Customer: {{Customer_Name}}
+
+{{Escalation_Message}}
+
+🔗 {{CRM_Link}}""",
+        wrap_layout=True,
+    )
+)
+
+_register(
+    NotificationTemplate(
+        id="team_manager_lead_unassigned",
+        subject="Lead unassigned — no RM activity · {{Temp_ID}}",
+        email_subheader="Manager alert · RM inactivity",
+        hero_title="",
+        hero_subtitle="",
+        email_body_html='<div style="background:#fef2f2;border:1px solid #fecaca;border-radius:6px;padding:12px;margin:0 0 12px;color:#991b1b;">{{Escalation_Message}}</div>'
+        + _grid(
+            [
+                ("Lead", "Temp_ID"),
+                ("Previous RM", "RM_Name"),
+                ("Customer", "Customer_Name"),
+                ("Reminders sent", "Attempt_Count"),
+            ]
+        )
+        + "<p>The lead has been returned to the unassigned pool. Please reassign it to an available RM.</p>"
+        + '<div style="text-align:center;"><a href="{{CRM_Link}}" style="display:inline-block;background:#1E6BB8;color:#fff;text-decoration:none;padding:10px 22px;border-radius:6px;font-weight:600;">Open lead in CRM →</a></div>',
+        whatsapp_text="""⚠️ *Lead unassigned — RM inactivity*
+
+Lead {{Temp_ID}} is now unassigned.
+RM: {{RM_Name}}
+Customer: {{Customer_Name}}
+
+{{Escalation_Message}}
+
+🔗 {{CRM_Link}}""",
+        wrap_layout=True,
     )
 )
 

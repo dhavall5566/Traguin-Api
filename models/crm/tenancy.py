@@ -67,6 +67,12 @@ class User(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
     agency_id: Mapped[Optional[uuid.UUID]] = mapped_column(
         UUID(as_uuid=True), ForeignKey("agencies.id", ondelete="CASCADE"), nullable=True
     )
+    org_unit_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("org_units.id", ondelete="SET NULL"), nullable=True
+    )
+    manager_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("users.id", ondelete="SET NULL"), nullable=True
+    )
     is_deleted: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
 
     agency: Mapped[Optional[Agency]] = relationship(back_populates="users")

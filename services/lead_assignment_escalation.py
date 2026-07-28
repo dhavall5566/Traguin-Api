@@ -14,10 +14,9 @@ from config import settings
 from models.crm.leads import Lead, LeadActivity, LeadNote
 from models.crm.tenancy import User
 from services.crm_escalation_targets import (
-    find_alternate_sales_agent,
     resolve_admin_users,
-    resolve_ceo_users,
-    resolve_ops_head_users,
+    resolve_manager_or_ops_users,
+    resolve_rm_user,
 )
 from services.lead_assignment import (
     ASSIGNMENT_ACCEPTED,
@@ -33,24 +32,27 @@ from utils.working_hours import (
 logger = logging.getLogger(__name__)
 
 POST_ACCEPT_INACTIVITY_MINUTES = 30
+MAX_RM_REMINDERS = 5
 
 # (working_minutes_threshold, escalation_level, event_title_suffix)
 PENDING_ESCALATION_TIERS: tuple[tuple[int, int, str], ...] = (
-    (15, 1, "RM reminder"),
-    (30, 2, "RM second reminder"),
-    (45, 3, "Admin alert"),
-    (60, 4, "Ops head alert"),
-    (90, 5, "Reassign RM"),
+    (15, 1, "RM reminder 1/5"),
+    (30, 2, "RM reminder 2/5"),
+    (45, 3, "RM reminder 3/5"),
+    (60, 4, "RM reminder 4/5"),
+    (75, 5, "RM reminder 5/5"),
 )
+PENDING_UNASSIGN_AFTER_MINUTES = 90
 
 _EARLY_PIPELINE_STATUSES = frozenset({"NEW", "ASSIGNED", "ACCEPTED"})
 
 
-@dataclass(frozen=True)
+@dataclass
 class EscalationRunCounts:
     pending_escalations: int = 0
     accept_inactivity_reminders: int = 0
     reassignments: int = 0
+    unassignments: int = 0
 
 
 def _lead_subject(lead: Lead) -> str:
@@ -189,54 +191,70 @@ def _log_escalation_activity(
 
 
 def _targets_for_tier(db: Session, lead: Lead, level: int) -> list[User]:
-    assignee = db.get(User, lead.assigned_to_id) if lead.assigned_to_id else None
-    if level in (1, 2):
+    assignee = resolve_rm_user(db, lead)
+    if level in range(1, MAX_RM_REMINDERS + 1):
         return [assignee] if assignee is not None else []
-    if level == 3:
-        return resolve_admin_users(db, lead.agency_id)
-    if level == 4:
-        return resolve_ops_head_users(db, lead.agency_id)
-    if level == 5:
-        ceo = resolve_ceo_users(db, lead.agency_id)
-        ops = resolve_ops_head_users(db, lead.agency_id)
-        seen: set[UUID] = set()
-        out: list[User] = []
-        for user in [*ceo, *ops]:
-            if user.id in seen:
-                continue
-            seen.add(user.id)
-            out.append(user)
-        return out
     return []
 
 
-def _reassign_lead(db: Session, lead: Lead, *, actor_id: UUID) -> bool:
-    previous_id = lead.assigned_to_id
-    alternate = find_alternate_sales_agent(
+def _notify_assigner_lead_unassigned_no_accept(
+    db: Session,
+    lead: Lead,
+    *,
+    previous_rm: User | None,
+    assigner_id: UUID | None,
+) -> None:
+    if assigner_id is None:
+        return
+    assigner = db.get(User, assigner_id)
+    if assigner is None or assigner.is_deleted:
+        return
+
+    rm_name = previous_rm.name if previous_rm is not None else "Assigned RM"
+    subject = _lead_subject(lead)
+    escalation_message = (
+        f"Lead {lead.lead_code or lead.id} was unassigned because {rm_name} did not accept "
+        f"the assignment after {MAX_RM_REMINDERS} reminders."
+    )
+    _notify_users(
         db,
         agency_id=lead.agency_id,
-        exclude_user_id=previous_id,
-    )
-    if alternate is None:
-        apply_assignment_on_assign(
-            db,
-            lead,
-            assignee_id=None,
-            actor_id=actor_id,
+        users=[assigner],
+        payload=CrmAlertPayload(
             agency_id=lead.agency_id,
-        )
-        _log_escalation_activity(
-            db,
-            lead,
-            description="Assignment escalated: no alternate RM — lead returned to pool",
-            actor_id=actor_id,
-        )
-        return False
+            event_title="Lead unassigned — RM did not accept",
+            subject=subject,
+            detail=escalation_message,
+            extra=f"Previous RM: {rm_name} · Status: {lead.status}",
+        ),
+        lead=lead,
+        template_id="team_assigner_lead_unassigned",
+        template_variables={
+            "RM_Name": rm_name,
+            "Escalation_Message": escalation_message,
+            "Attempt_Count": str(MAX_RM_REMINDERS),
+        },
+        escalation_level="Unassigned",
+        escalation_message=escalation_message,
+    )
+
+
+def _unassign_lead_for_rm_inactivity(
+    db: Session,
+    lead: Lead,
+    *,
+    previous_rm: User | None,
+    reason: str,
+    actor_id: UUID,
+    notify_assigner_only: bool = False,
+) -> None:
+    rm_name = previous_rm.name if previous_rm is not None else "Assigned RM"
+    assigner_id = lead.assigned_by_id
 
     apply_assignment_on_assign(
         db,
         lead,
-        assignee_id=alternate.id,
+        assignee_id=None,
         actor_id=actor_id,
         agency_id=lead.agency_id,
     )
@@ -244,12 +262,48 @@ def _reassign_lead(db: Session, lead: Lead, *, actor_id: UUID) -> bool:
         db,
         lead,
         description=(
-            f"Assignment escalated: reassigned from previous RM to {alternate.name} "
-            f"after 90 working minutes without acceptance"
+            f"Lead unassigned after {MAX_RM_REMINDERS} reminders: {rm_name} had no activity "
+            f"({reason})"
         ),
         actor_id=actor_id,
     )
-    return True
+
+    if notify_assigner_only:
+        _notify_assigner_lead_unassigned_no_accept(
+            db,
+            lead,
+            previous_rm=previous_rm,
+            assigner_id=assigner_id,
+        )
+        return
+
+    subject = _lead_subject(lead)
+    managers = resolve_manager_or_ops_users(db, lead.agency_id, previous_rm)
+    escalation_message = (
+        f"Lead {lead.lead_code or lead.id} is now unassigned because {rm_name} performed no "
+        f"activity after {MAX_RM_REMINDERS} reminders ({reason})."
+    )
+    _notify_users(
+        db,
+        agency_id=lead.agency_id,
+        users=managers,
+        payload=CrmAlertPayload(
+            agency_id=lead.agency_id,
+            event_title="Lead unassigned — RM inactivity",
+            subject=subject,
+            detail=escalation_message,
+            extra=f"Previous RM: {rm_name} · Status: {lead.status}",
+        ),
+        lead=lead,
+        template_id="team_manager_lead_unassigned",
+        template_variables={
+            "RM_Name": rm_name,
+            "Escalation_Message": escalation_message,
+            "Attempt_Count": str(MAX_RM_REMINDERS),
+        },
+        escalation_level="Manager alert",
+        escalation_message=escalation_message,
+    )
 
 
 def _has_rm_progress_since_accept(db: Session, lead: Lead, since: datetime) -> bool:
@@ -304,38 +358,31 @@ def process_pending_assignment_escalations(
 
     for lead in pending_leads:
         elapsed = working_minutes_between(lead.assigned_at, when)
+        assignee = resolve_rm_user(db, lead)
+        actor_id = _system_actor_id(db, lead)
+
+        if (
+            lead.assignment_escalation_level >= MAX_RM_REMINDERS
+            and elapsed >= PENDING_UNASSIGN_AFTER_MINUTES
+        ):
+            _unassign_lead_for_rm_inactivity(
+                db,
+                lead,
+                previous_rm=assignee,
+                reason="no acceptance after assignment reminders",
+                actor_id=actor_id,
+                notify_assigner_only=True,
+            )
+            counts.pending_escalations += 1
+            counts.unassignments += 1
+            continue
+
         for threshold, level, label in PENDING_ESCALATION_TIERS:
             if elapsed < threshold or lead.assignment_escalation_level >= level:
                 continue
 
-            actor_id = _system_actor_id(db, lead)
             subject = _lead_subject(lead)
-
-            if level == 5:
-                reassigned = _reassign_lead(db, lead, actor_id=actor_id)
-                counts.pending_escalations += 1
-                if reassigned:
-                    counts.reassignments += 1
-                _notify_users(
-                    db,
-                    agency_id=lead.agency_id,
-                    users=_targets_for_tier(db, lead, level),
-                    payload=CrmAlertPayload(
-                        agency_id=lead.agency_id,
-                        event_title="Lead reassigned (90 min)",
-                        subject=subject,
-                        detail=f"Lead reassigned after {threshold} working minutes without RM acceptance.",
-                        extra=f"Previous assignee overdue · Status: {lead.status}",
-                    ),
-                    lead=lead,
-                    template_id="team_escalation",
-                    escalation_level=f"Tier {level}",
-                    escalation_message=f"Lead reassigned after {threshold} working minutes without RM acceptance.",
-                )
-                break
-
             elapsed_label = f"{elapsed} working minutes"
-            template_id = "team_rm_accept_reminder" if level in (1, 2) else "team_escalation"
             _notify_users(
                 db,
                 agency_id=lead.agency_id,
@@ -351,19 +398,20 @@ def process_pending_assignment_escalations(
                     extra=f"Accept within {ACCEPT_WINDOW_WORKING_MINUTES} min · Status: {lead.status}",
                 ),
                 lead=lead,
-                template_id=template_id,
+                template_id="team_rm_accept_reminder",
                 elapsed_time=elapsed_label,
-                escalation_level=f"Tier {level} — {label}",
+                escalation_level=f"Reminder {level}/{MAX_RM_REMINDERS}",
                 escalation_message=(
                     f"Lead {lead.lead_code or lead.id} not accepted after {elapsed_label}. "
-                    f"Assigned RM must accept or reject."
+                    f"Reminder {level} of {MAX_RM_REMINDERS} sent to assigned RM."
                 ),
+                template_variables={"Attempt_Count": f"{level}/{MAX_RM_REMINDERS}"},
             )
             lead.assignment_escalation_level = level
             _log_escalation_activity(
                 db,
                 lead,
-                description=f"Assignment escalation tier {level}: {label} ({threshold} working min)",
+                description=f"Assignment reminder {level}/{MAX_RM_REMINDERS}: {label} ({threshold} working min)",
                 actor_id=actor_id,
             )
             counts.pending_escalations += 1
@@ -376,9 +424,10 @@ def process_accept_inactivity_reminders(
     db: Session,
     *,
     now: datetime | None = None,
-) -> int:
+) -> tuple[int, int]:
     when = now or datetime.now(timezone.utc)
     sent = 0
+    unassigned = 0
 
     accepted_leads = db.scalars(
         select(Lead).where(
@@ -386,66 +435,95 @@ def process_accept_inactivity_reminders(
             Lead.assignment_status == ASSIGNMENT_ACCEPTED,
             Lead.assigned_to_id.is_not(None),
             Lead.assignment_accepted_at.is_not(None),
-            Lead.accept_inactivity_notified.is_(False),
         )
     ).all()
 
     for lead in accepted_leads:
         if _has_rm_progress_since_accept(db, lead, lead.assignment_accepted_at):
-            lead.accept_inactivity_notified = True
+            lead.assignment_escalation_level = 0
+            lead.accept_inactivity_notified = False
             continue
 
         elapsed = working_minutes_between(lead.assignment_accepted_at, when)
-        if elapsed < POST_ACCEPT_INACTIVITY_MINUTES:
+        reminder_count = lead.assignment_escalation_level
+        assignee = resolve_rm_user(db, lead)
+        actor_id = _system_actor_id(db, lead)
+
+        if reminder_count >= MAX_RM_REMINDERS:
+            unassign_after = POST_ACCEPT_INACTIVITY_MINUTES * (MAX_RM_REMINDERS + 1)
+            if elapsed < unassign_after:
+                continue
+            _unassign_lead_for_rm_inactivity(
+                db,
+                lead,
+                previous_rm=assignee,
+                reason="no customer contact after acceptance reminders",
+                actor_id=actor_id,
+                notify_assigner_only=False,
+            )
+            unassigned += 1
             continue
 
-        assignee = db.get(User, lead.assigned_to_id) if lead.assigned_to_id else None
+        next_threshold = POST_ACCEPT_INACTIVITY_MINUTES * (reminder_count + 1)
+        if elapsed < next_threshold:
+            continue
+
         if assignee is None:
             lead.accept_inactivity_notified = True
             continue
 
+        next_reminder = reminder_count + 1
         subject = _lead_subject(lead)
+        elapsed_label = f"{elapsed} working minutes"
         _notify_users(
             db,
             agency_id=lead.agency_id,
             users=[assignee],
             payload=CrmAlertPayload(
                 agency_id=lead.agency_id,
-                event_title="No action after accept",
+                event_title=f"No action after accept ({next_reminder}/{MAX_RM_REMINDERS})",
                 subject=subject,
                 detail=(
                     f"No customer contact recorded {elapsed} working minutes after accepting "
                     f"this lead."
                 ),
-                extra=f"Move to Contacted when you reach the customer · Status: {lead.status}",
+                extra=f"Reminder {next_reminder} of {MAX_RM_REMINDERS} · Status: {lead.status}",
             ),
             lead=lead,
             template_id="team_no_action_after_accept",
+            elapsed_time=elapsed_label,
+            escalation_level=f"Reminder {next_reminder}/{MAX_RM_REMINDERS}",
+            escalation_message=(
+                f"No call or note logged for lead {lead.lead_code or lead.id} after accept. "
+                f"Reminder {next_reminder} of {MAX_RM_REMINDERS}."
+            ),
+            template_variables={"Attempt_Count": f"{next_reminder}/{MAX_RM_REMINDERS}"},
         )
-        actor_id = _system_actor_id(db, lead)
         _log_escalation_activity(
             db,
             lead,
             description=(
-                f"RM inactivity reminder: no progress {POST_ACCEPT_INACTIVITY_MINUTES}+ "
-                "working minutes after accept"
+                f"RM inactivity reminder {next_reminder}/{MAX_RM_REMINDERS}: no progress "
+                f"{POST_ACCEPT_INACTIVITY_MINUTES}+ working minutes after accept"
             ),
             actor_id=actor_id,
         )
-        lead.accept_inactivity_notified = True
+        lead.assignment_escalation_level = next_reminder
+        lead.accept_inactivity_notified = next_reminder >= MAX_RM_REMINDERS
         sent += 1
 
-    return sent
+    return sent, unassigned
 
 
 def run_assignment_escalations(db: Session) -> dict[str, int]:
     pending = process_pending_assignment_escalations(db)
-    inactivity = process_accept_inactivity_reminders(db)
+    inactivity_sent, inactivity_unassigned = process_accept_inactivity_reminders(db)
     db.commit()
     return {
         "pending_escalations": pending.pending_escalations,
         "reassignments": pending.reassignments,
-        "accept_inactivity_reminders": inactivity,
+        "accept_inactivity_reminders": inactivity_sent,
+        "unassignments": pending.unassignments + inactivity_unassigned,
     }
 
 

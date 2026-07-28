@@ -536,16 +536,15 @@ def build_customer_inquiry_history(
             customer_id=resolved_customer_id,
         )
         inquiry_number: int | None = None
-        if include_details:
-            if current_lead_id is not None:
-                inquiry_number = _inquiry_number_for_lead(
-                    db,
-                    agency_id=agency_id,
-                    customer_id=resolved_customer_id,
-                    current_lead_id=current_lead_id,
-                )
-            elif total > 0:
-                inquiry_number = total
+        if current_lead_id is not None:
+            inquiry_number = _inquiry_number_for_lead(
+                db,
+                agency_id=agency_id,
+                customer_id=resolved_customer_id,
+                current_lead_id=current_lead_id,
+            )
+        elif total > 0:
+            inquiry_number = total
 
         booking_count = _count_bookings_by_customer_id(
             db,

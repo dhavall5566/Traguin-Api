@@ -1,7 +1,9 @@
 from fastapi import APIRouter, Depends
 
 from dependencies.crm_auth import require_crm_user
+from dependencies.crm_permissions import enforce_crm_permissions
 from routers.crm.agencies import router as agencies_router
+from routers.crm.approvals import router as approvals_router
 from routers.crm.audit_logs import router as audit_logs_router
 from routers.crm.auth import router as auth_router
 from routers.crm.bookings import router as bookings_router
@@ -9,15 +11,18 @@ from routers.crm.customers import router as customers_router
 from routers.crm.finance import router as finance_router
 from routers.crm.itineraries import router as itineraries_router
 from routers.crm.leads import router as leads_router
+from routers.crm.org_units import router as org_units_router
 from routers.crm.packages import router as packages_router
 from routers.crm.rbac import router as rbac_router
+from routers.crm.reports import router as reports_router
+from routers.crm.sla_settings import router as sla_settings_router
 from routers.crm.users import router as users_router
 from routers.crm.vendors import router as vendors_router
 from routers.crm.settings import router as settings_router
 
 router = APIRouter()
 
-protected = [Depends(require_crm_user)]
+protected = [Depends(require_crm_user), Depends(enforce_crm_permissions)]
 
 router.include_router(auth_router, prefix="/auth", tags=["CRM · Auth"])
 router.include_router(agencies_router, prefix="/agencies", tags=["CRM · Agencies"], dependencies=protected)
@@ -32,3 +37,7 @@ router.include_router(finance_router, prefix="/finance", tags=["CRM · Finance"]
 router.include_router(rbac_router, prefix="/rbac", tags=["CRM · RBAC"], dependencies=protected)
 router.include_router(audit_logs_router, prefix="/audit-logs", tags=["CRM · Audit Logs"], dependencies=protected)
 router.include_router(settings_router, prefix="/settings", tags=["CRM · Settings"], dependencies=protected)
+router.include_router(org_units_router, prefix="/org-units", tags=["CRM · Org Units"], dependencies=protected)
+router.include_router(approvals_router, prefix="/approvals", tags=["CRM · Approvals"], dependencies=protected)
+router.include_router(reports_router, prefix="/reports", tags=["CRM · Reports"], dependencies=protected)
+router.include_router(sla_settings_router, prefix="/sla-settings", tags=["CRM · SLA Settings"], dependencies=protected)

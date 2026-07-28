@@ -83,6 +83,9 @@ class Lead(CrmBase, UUIDPrimaryKeyMixin, TimestampMixin):
         UUID(as_uuid=True), nullable=True, index=True
     )
     lead_code: Mapped[Optional[str]] = mapped_column(String(32), nullable=True, index=True)
+    org_unit_id: Mapped[Optional[uuid.UUID]] = mapped_column(
+        UUID(as_uuid=True), ForeignKey("org_units.id", ondelete="SET NULL"), nullable=True
+    )
     is_deleted: Mapped[bool] = mapped_column(Boolean, nullable=False, default=False)
 
     agency: Mapped[Agency] = relationship(back_populates="leads")

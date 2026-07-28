@@ -22,6 +22,7 @@ from schemas.crm.lead import (
     LeadIntakeCustomerRead,
     LeadIntakeDuplicateRead,
     LeadListRead,
+    LeadOutboundEmailCreate,
     LeadRead,
     LeadRecentEventRead,
     LeadUpdate,
@@ -57,6 +58,7 @@ from services.lead_assignment import (
     list_pending_assignments_for_user,
     reject_lead_assignment,
 )
+from services.lead_outbound_email import send_lead_outbound_email
 from services.whatsapp_notifications import LeadUpdateNotice, notify_lead_update_by_id, notify_team_new_lead_by_id
 from utils.db import apply_partial_update, commit_or_raise
 from utils.pagination import paginate
@@ -404,6 +406,38 @@ def reject_lead_assignment_route(
     lead = get_lead_for_agency(db, lead.id, agency_id, include_deleted=True)
     assert lead is not None
     return _finalize_lead_read(db, lead)
+
+
+@router.post("/{lead_id}/email", status_code=status.HTTP_204_NO_CONTENT)
+def send_lead_customer_email(
+    lead_id: UUID,
+    payload: LeadOutboundEmailCreate,
+    agency_id: UUID = Depends(require_agency_scope),
+    current_user: User = Depends(require_crm_user),
+    db: Session = Depends(get_db),
+):
+    lead = get_lead_for_agency(db, lead_id, agency_id)
+    if lead is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Lead not found.")
+
+    send_lead_outbound_email(
+        db,
+        lead,
+        actor=current_user,
+        subject=payload.subject,
+        body=payload.body,
+        html_body=payload.html_body,
+    )
+    audit_create(
+        db,
+        agency_id=agency_id,
+        user_id=current_user.id,
+        entity_type="Lead",
+        entity_id=lead.id,
+        details=f'Email sent to customer for "{lead.title}" ({lead.first_name} {lead.last_name})',
+    )
+    commit_or_raise(db)
+    return Response(status_code=status.HTTP_204_NO_CONTENT)
 
 
 @router.get("/{lead_id}/inquiry-history", response_model=CustomerInquiryHistoryRead)

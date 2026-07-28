@@ -7,6 +7,7 @@ from database import get_db
 from dependencies.crm_auth import require_agency_scope
 from dependencies.pagination import get_pagination
 from models.crm.tenancy import Permission, Role, RolePermission, User, UserRole
+from schemas.crm.permissions import PermissionsMatrixUpdate
 from schemas.crm.rbac import (
     PermissionCreate,
     PermissionRead,
@@ -195,6 +196,38 @@ def remove_role_permission(
     db.delete(link)
     commit_or_raise(db)
     return Response(status_code=status.HTTP_204_NO_CONTENT)
+
+
+@router.put("/roles/{role_id}/permissions-matrix")
+def sync_role_permissions_matrix(
+    role_id: UUID,
+    payload: PermissionsMatrixUpdate,
+    agency_id: UUID = Depends(require_agency_scope),
+    db: Session = Depends(get_db),
+):
+    role = require_role_for_agency(db, role_id, agency_id)
+    catalog = db.query(Permission).all()
+    by_key = {(p.module, p.name): p for p in catalog}
+    desired_ids: set[UUID] = set()
+    for module, actions in payload.permissions.items():
+        for action, enabled in actions.items():
+            if not enabled:
+                continue
+            perm = by_key.get((module, action))
+            if perm:
+                desired_ids.add(perm.id)
+    existing = {
+        rp.permission_id
+        for rp in db.query(RolePermission).filter(RolePermission.role_id == role.id)
+    }
+    for pid in desired_ids - existing:
+        db.add(RolePermission(role_id=role.id, permission_id=pid))
+    for pid in existing - desired_ids:
+        db.query(RolePermission).filter(
+            RolePermission.role_id == role.id, RolePermission.permission_id == pid
+        ).delete()
+    commit_or_raise(db)
+    return {"role_id": str(role.id), "permission_count": len(desired_ids)}
 
 
 # --- UserRole junction ---

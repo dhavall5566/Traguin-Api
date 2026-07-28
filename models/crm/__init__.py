@@ -6,6 +6,9 @@ import models.crm.customer_flags  # noqa: F401
 import models.crm.customers  # noqa: F401
 import models.crm.finance  # noqa: F401
 import models.crm.itineraries  # noqa: F401
+import models.crm.approvals  # noqa: F401
+import models.crm.org_units  # noqa: F401
+import models.crm.sla_settings  # noqa: F401
 import models.crm.leads  # noqa: F401
 import models.crm.lead_mail_settings  # noqa: F401
 import models.crm.smtp_settings  # noqa: F401
@@ -19,6 +22,9 @@ from models.crm.customer_flags import CustomerFlag
 from models.crm.customers import Customer
 from models.crm.finance import Expense, Invoice, Payment, Quotation, VendorPayout
 from models.crm.itineraries import Itinerary, ItineraryDay, ItineraryItem
+from models.crm.approvals import ApprovalRequest
+from models.crm.org_units import OrgUnit
+from models.crm.sla_settings import AgencySlaSettings
 from models.crm.leads import Lead, LeadActivity, LeadFollowup, LeadNote
 from models.crm.smtp_settings import AgencySmtpSettings
 from models.crm.whatsapp_template_settings import AgencyWhatsAppTemplateSettings
@@ -33,6 +39,9 @@ __all__ = [
     "AgencySmtpSettings",
     "AgencyWhatsAppTemplateSettings",
     "Agency",
+    "OrgUnit",
+    "ApprovalRequest",
+    "AgencySlaSettings",
     "User",
     "Role",
     "Permission",

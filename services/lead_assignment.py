@@ -161,6 +161,7 @@ def accept_lead_assignment(
 
     lead.assignment_status = ASSIGNMENT_ACCEPTED
     lead.assignment_accepted_at = _now_utc()
+    lead.assignment_escalation_level = 0
     lead.accept_inactivity_notified = False
     db.add(
         LeadActivity(

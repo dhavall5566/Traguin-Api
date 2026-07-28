@@ -107,6 +107,25 @@ def resolve_rm_user(db: Session, lead) -> User | None:
     return user
 
 
+def resolve_manager_users(db: Session, user: User | None) -> list[User]:
+    if user is None or user.manager_id is None:
+        return []
+    manager = db.get(User, user.manager_id)
+    if manager is None or manager.is_deleted or manager.agency_id != user.agency_id:
+        return []
+    return [manager]
+
+
+def resolve_manager_or_ops_users(db: Session, agency_id: UUID, user: User | None) -> list[User]:
+    managers = resolve_manager_users(db, user)
+    if managers:
+        return managers
+    ops = resolve_ops_head_users(db, agency_id)
+    if ops:
+        return ops
+    return resolve_admin_users(db, agency_id)[:1]
+
+
 def dedupe_users(users: list[User]) -> list[User]:
     seen: set[UUID] = set()
     out: list[User] = []

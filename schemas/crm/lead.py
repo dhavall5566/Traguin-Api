@@ -243,3 +243,9 @@ class LeadAssignmentPendingRead(BaseModel):
     working_minutes_elapsed: int = 0
     minutes_remaining: int = 15
     updated_at: datetime
+
+
+class LeadOutboundEmailCreate(BaseModel):
+    subject: str = Field(min_length=1, max_length=200)
+    body: str = Field(min_length=1, max_length=20000)
+    html_body: str | None = Field(default=None, max_length=50000)
