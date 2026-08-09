@@ -1,0 +1,56 @@
+
+> trasuin-new@0.1.0 dev
+> node scripts/ensure-turbopack-cache.mjs && next dev -p 3001
+
+▲ Next.js 16.2.7 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.29.176:3001
+- Environments: .env.local, .env
+✓ Ready in 197ms
+⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+- Experiments (use with caution):
+  · optimizePackageImports
+
+ GET / 200 in 1425ms (next.js: 1168ms, application-code: 257ms)
+ GET /contact 200 in 88ms (next.js: 33ms, application-code: 55ms)
+ POST /api/public/form-submissions 201 in 656ms (next.js: 30ms, application-code: 626ms)
+ POST /api/public/form-submissions 201 in 623ms (next.js: 938µs, application-code: 622ms)
+ POST /api/public/form-submissions 201 in 667ms (next.js: 2ms, application-code: 665ms)
+ POST /api/public/form-submissions 201 in 552ms (next.js: 3ms, application-code: 549ms)
+ POST /api/public/form-submissions 201 in 550ms (next.js: 3ms, application-code: 547ms)
+ POST /api/public/form-submissions 201 in 566ms (next.js: 2ms, application-code: 564ms)
+ POST /api/public/form-submissions 201 in 441ms (next.js: 2ms, application-code: 439ms)
+ POST /api/public/form-submissions 201 in 186ms (next.js: 1913µs, application-code: 184ms)
+ GET / 200 in 91ms (next.js: 23ms, application-code: 68ms)
+ GET / 200 in 37ms (next.js: 1235µs, application-code: 36ms)
+ GET /contact 200 in 25ms (next.js: 761µs, application-code: 24ms)
+ POST /api/public/form-submissions 201 in 538ms (next.js: 2ms, application-code: 535ms)
+ POST /api/public/form-submissions 201 in 530ms (next.js: 2ms, application-code: 528ms)
+ POST /api/public/form-submissions 201 in 390ms (next.js: 2ms, application-code: 388ms)
+ POST /api/public/form-submissions 201 in 618ms (next.js: 1861µs, application-code: 616ms)
+ POST /api/public/form-submissions 201 in 540ms (next.js: 2ms, application-code: 538ms)
+ POST /api/public/form-submissions 201 in 537ms (next.js: 1607µs, application-code: 536ms)
+ POST /api/public/form-submissions 201 in 434ms (next.js: 2ms, application-code: 432ms)
+ POST /api/public/form-submissions 201 in 191ms (next.js: 3ms, application-code: 188ms)
+ GET / 200 in 66ms (next.js: 3ms, application-code: 62ms)
+ GET / 200 in 43ms (next.js: 989µs, application-code: 42ms)
+ GET /contact 200 in 24ms (next.js: 975µs, application-code: 23ms)
+ POST /api/public/form-submissions 201 in 541ms (next.js: 1700µs, application-code: 540ms)
+ POST /api/public/form-submissions 201 in 507ms (next.js: 2ms, application-code: 505ms)
+ POST /api/public/form-submissions 201 in 517ms (next.js: 1914µs, application-code: 515ms)
+ POST /api/public/form-submissions 201 in 529ms (next.js: 2ms, application-code: 527ms)
+ POST /api/public/form-submissions 201 in 546ms (next.js: 1940µs, application-code: 544ms)
+ POST /api/public/form-submissions 201 in 564ms (next.js: 2ms, application-code: 562ms)
+ POST /api/public/form-submissions 201 in 456ms (next.js: 1811µs, application-code: 454ms)
+ POST /api/public/form-submissions 201 in 192ms (next.js: 1974µs, application-code: 190ms)
+ GET / 200 in 65ms (next.js: 2ms, application-code: 63ms)
+ GET / 200 in 46ms (next.js: 1390µs, application-code: 45ms)
+ GET /contact 200 in 25ms (next.js: 1120µs, application-code: 24ms)
+ POST /api/public/form-submissions 201 in 558ms (next.js: 1778µs, application-code: 556ms)
+ POST /api/public/form-submissions 201 in 519ms (next.js: 1557µs, application-code: 518ms)
+ POST /api/public/form-submissions 201 in 504ms (next.js: 3ms, application-code: 501ms)
+ POST /api/public/form-submissions 201 in 527ms (next.js: 1684µs, application-code: 525ms)
+ POST /api/public/form-submissions 201 in 517ms (next.js: 1841µs, application-code: 515ms)
+ POST /api/public/form-submissions 201 in 546ms (next.js: 1653µs, application-code: 545ms)
+ POST /api/public/form-submissions 201 in 437ms (next.js: 1474µs, application-code: 436ms)
+ POST /api/public/form-submissions 201 in 185ms (next.js: 1666µs, application-code: 183ms)

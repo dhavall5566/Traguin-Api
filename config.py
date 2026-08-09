@@ -49,6 +49,8 @@ class Settings(BaseSettings):
     whatsapp_lead_template_language: str = "en"
     whatsapp_customer_inquiry_template_id: str | None = None
     whatsapp_notifications_enabled: bool = True
+    # Comma-separated E.164-ish numbers; when set, only these receive outbound WhatsApp alerts.
+    whatsapp_notification_allowlist: str | None = None
     whatsapp_crm_base_url: str | None = None
     whatsapp_use_meta_api: bool = True
     whatsapp_webhook_verify_token: str | None = None

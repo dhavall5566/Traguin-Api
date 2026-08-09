@@ -1,0 +1,436 @@
+INFO:     Started server process [14550]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55285 - "GET /health/db HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55314 - "GET /api/cms/public/homepage HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55344 - "GET /api/cms/public/itineraries?limit=10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55344 - "GET /api/cms/public/hotels?limit=5 HTTP/1.1" 200 OK
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for bdb2fcc3-6714-416c-bdd5-84216308f2c8
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+WhatsApp new-lead notification failed for 80d9171e-c436-4f4c-911c-21e8d576b8a3
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for be74f36c-1928-4846-bc08-63d31dcf7e80
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for eae9bfe8-831a-4e45-867c-312239d80670
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 9320a824-1341-47e7-b9c0-2e56fdcad89d
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 46acf094-1156-4e47-9529-46f16b4375ac
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55358 - "POST /api/crm/auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55360 - "POST /api/crm/auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55363 - "POST /api/crm/auth/login HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55367 - "GET /api/cms/public/hotels?limit=3 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55368 - "GET /api/cms/public/luxury-stays?limit=3 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55398 - "POST /api/crm/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55398 - "DELETE /api/crm/leads/bdb2fcc3-6714-416c-bdd5-84216308f2c8 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55398 - "DELETE /api/crm/leads/eae9bfe8-831a-4e45-867c-312239d80670 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55398 - "DELETE /api/crm/leads/80d9171e-c436-4f4c-911c-21e8d576b8a3 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55398 - "DELETE /api/crm/leads/9320a824-1341-47e7-b9c0-2e56fdcad89d HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55398 - "DELETE /api/crm/leads/46acf094-1156-4e47-9529-46f16b4375ac HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55399 - "GET /health/db HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55407 - "GET /api/cms/public/itineraries?limit=10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55407 - "GET /api/cms/public/hotels?limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55401 - "GET /api/cms/public/homepage HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55403 - "GET /api/cms/public/homepage HTTP/1.1" 200 OK
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 0e382eed-3e2a-4d88-bce1-9ba3e3f60a25
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 2e489ff7-fa9c-4f7e-8fdd-23b62f74439c
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+WhatsApp new-lead notification failed for be74f36c-1928-4846-bc08-63d31dcf7e80
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 41ce0a56-276e-4456-b2d4-79a1f8ac582d
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 3a269036-3916-4b94-bc89-5ea7bfe809b0
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 29748838-fb50-499d-b399-e563102a8c96
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55418 - "POST /api/crm/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55418 - "GET /api/crm/leads?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55418 - "GET /api/crm/leads/0e382eed-3e2a-4d88-bce1-9ba3e3f60a25 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55418 - "PATCH /api/crm/leads/0e382eed-3e2a-4d88-bce1-9ba3e3f60a25 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55418 - "GET /api/crm/leads/0e382eed-3e2a-4d88-bce1-9ba3e3f60a25/inquiry-history HTTP/1.1" 200 OK
+/Users/nikunj/Downloads/Cursor Projects/traguinall/api/.venv/lib/python3.14/site-packages/starlette/_exception_handler.py:59: StarletteDeprecationWarning: 'HTTP_422_UNPROCESSABLE_ENTITY' is deprecated. Use 'HTTP_422_UNPROCESSABLE_CONTENT' instead.
+  response = await handler(conn, exc)  # type: ignore[arg-type]
+INFO:     127.0.0.1:55418 - "GET /api/crm/leads/recent?limit=20 HTTP/1.1" 422 Unprocessable Content
+INFO:     127.0.0.1:55421 - "DELETE /api/crm/leads/0e382eed-3e2a-4d88-bce1-9ba3e3f60a25 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55421 - "DELETE /api/crm/leads/2e489ff7-fa9c-4f7e-8fdd-23b62f74439c HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55421 - "DELETE /api/crm/leads/be74f36c-1928-4846-bc08-63d31dcf7e80 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55421 - "DELETE /api/crm/leads/41ce0a56-276e-4456-b2d4-79a1f8ac582d HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55421 - "DELETE /api/crm/leads/3a269036-3916-4b94-bc89-5ea7bfe809b0 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55421 - "DELETE /api/crm/leads/29748838-fb50-499d-b399-e563102a8c96 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55436 - "GET /health/db HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55442 - "GET /api/cms/public/itineraries?limit=10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55442 - "GET /api/cms/public/hotels?limit=5 HTTP/1.1" 200 OK
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 5038987d-10bf-45a9-8cb3-4555f39db131
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 740ca306-60e3-45bb-8fdf-8709572bcae9
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 83d37b84-98e9-4ede-88b6-8ce732f5d6c6
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 46bb223e-48d8-4ae3-90f6-8e1c2e7d164c
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 21b81e6b-afd7-4e2a-ba94-5f1b24ccf02f
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 4255d845-3d11-411e-8182-3a4e88a60de7
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55447 - "POST /api/crm/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55447 - "GET /api/crm/leads?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55447 - "GET /api/crm/leads/5038987d-10bf-45a9-8cb3-4555f39db131 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55447 - "PATCH /api/crm/leads/5038987d-10bf-45a9-8cb3-4555f39db131 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55447 - "GET /api/crm/leads/5038987d-10bf-45a9-8cb3-4555f39db131/inquiry-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55447 - "GET /api/crm/leads/recent?since=2026-08-09T10%3A16%3A16.393190%2B00%3A00 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55447 - "GET /api/crm/leads/followups/pending HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55464 - "DELETE /api/crm/leads/5038987d-10bf-45a9-8cb3-4555f39db131 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55464 - "DELETE /api/crm/leads/740ca306-60e3-45bb-8fdf-8709572bcae9 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55464 - "DELETE /api/crm/leads/83d37b84-98e9-4ede-88b6-8ce732f5d6c6 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55464 - "DELETE /api/crm/leads/46bb223e-48d8-4ae3-90f6-8e1c2e7d164c HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55464 - "DELETE /api/crm/leads/21b81e6b-afd7-4e2a-ba94-5f1b24ccf02f HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55464 - "DELETE /api/crm/leads/4255d845-3d11-411e-8182-3a4e88a60de7 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55473 - "GET /health/db HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55481 - "GET /api/cms/public/itineraries?limit=10 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55481 - "GET /api/cms/public/hotels?limit=5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55477 - "GET /api/cms/public/homepage HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55475 - "GET /api/cms/public/homepage HTTP/1.1" 200 OK
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 67f083a4-4d1d-48ec-a54d-848707fece4f
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 8f04252c-2b84-4b85-adbc-81b11b0fec52
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for f26355a6-e883-481e-9522-10e3e01a0e96
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 2bba6445-f405-4ccb-a30d-b86799c3a033
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 8c36c62d-b24a-43e5-8106-ea03a1d52b77
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+WhatsApp new-lead notification failed for 2e6c9ed9-e534-4f2c-b358-4eec370d8a0b
+Traceback (most recent call last):
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 518, in notify_team_new_lead_by_id
+    notify_team_new_lead(db, lead)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/whatsapp_notifications.py", line 508, in notify_team_new_lead
+    counts = dispatch_lead_matrix_event(db, "new_lead", lead)
+  File "/Users/nikunj/Downloads/Cursor Projects/traguinall/api/services/notification_matrix.py", line 433, in dispatch_lead_matrix_event
+    agency_id=agency_id,
+              ^^^^^^^^^
+NameError: name 'agency_id' is not defined. Did you mean: 'agency'?
+INFO:     ::ffff:127.0.0.1:0 - "POST /api/cms/public/form-submissions HTTP/1.1" 201 Created
+INFO:     127.0.0.1:55489 - "POST /api/crm/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55489 - "GET /api/crm/leads?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55489 - "GET /api/crm/leads/67f083a4-4d1d-48ec-a54d-848707fece4f HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55489 - "PATCH /api/crm/leads/67f083a4-4d1d-48ec-a54d-848707fece4f HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55489 - "GET /api/crm/leads/67f083a4-4d1d-48ec-a54d-848707fece4f/inquiry-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55489 - "GET /api/crm/leads/recent?since=2026-08-09T10%3A17%3A56.338418%2B00%3A00 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55489 - "GET /api/crm/leads/followups/pending HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "POST /api/crm/auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/rbac/roles?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55506 - "GET /api/crm/rbac/user-roles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/finance/invoices?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/users?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/leads?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/org-units/tree HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/rbac/user-roles HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55518 - "GET /api/crm/leads?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55519 - "GET /api/crm/users?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55524 - "GET /api/crm/rbac/roles?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55520 - "GET /api/crm/customers?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/leads/assignments/pending HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/finance/invoices?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/bookings?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/vendors?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/itineraries?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55506 - "GET /api/crm/org-units/tree HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/finance/expenses?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/leads?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/customers/a4c93f93-7425-44de-a9a4-9973991ef213 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/customers/348918e8-410b-40f0-9f78-39371d12bfb6 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55506 - "GET /api/crm/customers/4b19ad69-7fbe-4767-ba7d-bb5b2116ec93 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/customers/2bc09841-b818-43eb-b659-332e41987d98 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/customers/e2a15b14-6fe1-45b7-86ec-d0fb0a1d9d3c HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/customers/971f1f7e-678d-40a9-84a8-545bd0e5a6e9 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/customers/a8dcf8f1-6e0a-4cf0-8edf-a36fbd1d42fe HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/customers/3b43576d-4e25-45e2-aff7-cad21d756050 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55506 - "GET /api/crm/customers/41e6bdb1-0bc2-48f1-8d6c-13ebfee26508 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/customers/3bbb5528-d5a9-42b4-9c8a-58c851c4ae71 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/customers/c9606570-0911-4637-8595-455635ec0b89 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/users?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/customers?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/settings/smtp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/leads?limit=20&offset=0&org_unit_id=4db6c27c-6d24-47c5-971e-b532d68cf0f1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/rbac/roles?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/users?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/audit-logs?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/audit-logs?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/audit-logs?limit=100&offset=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/audit-logs?limit=100&offset=120 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/audit-logs?limit=100&offset=20 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/audit-logs?limit=100&offset=120 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/settings/smtp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/users?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/leads?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/packages/filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/bookings?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/finance/invoices?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55506 - "GET /api/crm/packages/5f5c63a3-27df-4ffb-9dbe-efeae4bc378b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/itineraries?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/customers?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/settings/smtp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55503 - "GET /api/crm/users?limit=100 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55505 - "GET /api/crm/leads?limit=20&offset=0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55506 - "GET /api/crm/packages/filters HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /api/crm/packages/5f5c63a3-27df-4ffb-9dbe-efeae4bc378b HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55504 - "GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b/inquiry-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55499 - "GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b/inquiry-history HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/67f083a4-4d1d-48ec-a54d-848707fece4f HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/8f04252c-2b84-4b85-adbc-81b11b0fec52 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/f26355a6-e883-481e-9522-10e3e01a0e96 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/2bba6445-f405-4ccb-a30d-b86799c3a033 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/8c36c62d-b24a-43e5-8106-ea03a1d52b77 HTTP/1.1" 204 No Content
+INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b HTTP/1.1" 204 No Content

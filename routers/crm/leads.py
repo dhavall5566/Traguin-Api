@@ -141,7 +141,7 @@ def list_leads(
     include_deleted: bool = Depends(get_include_deleted),
 ):
     limit, offset = pagination
-    query = db.query(Lead).filter(Lead.agency_id == agency_id).order_by(Lead.created_at.desc())
+    query = db.query(Lead).filter(Lead.agency_id == agency_id).order_by(Lead.updated_at.desc())
     if not include_deleted:
         query = query.filter(Lead.is_deleted.is_(False))
     result = paginate(
@@ -237,6 +237,8 @@ def list_recent_lead_events(
                 LeadActivity.description.ilike("%Returning contact%"),
                 LeadActivity.description.ilike("%Merged inquiry%"),
                 LeadActivity.description.ilike("%Website intake merged into%"),
+                LeadActivity.description.ilike("%Merged into lead%"),
+                LeadActivity.description.ilike("%Website intake from%"),
             ),
         )
         .distinct()

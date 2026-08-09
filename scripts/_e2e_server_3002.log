@@ -1,0 +1,100 @@
+
+> travel@0.1.0 dev
+> next dev --turbopack -p 3002
+
+   ▲ Next.js 15.2.6 (Turbopack)
+   - Local:        http://localhost:3002
+   - Network:      http://192.168.29.176:3002
+   - Environments: .env.local, .env
+
+ ✓ Starting...
+ ✓ Compiled in 165ms
+ ✓ Ready in 766ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1049ms
+ GET / 307 in 1194ms
+ ✓ Compiled /auth/login in 262ms
+ GET /auth/login 200 in 293ms
+ GET / 307 in 26ms
+ GET /auth/login 200 in 22ms
+ GET / 307 in 22ms
+ GET /auth/login 200 in 20ms
+ GET /auth/login 200 in 40ms
+ ⚠ Cross origin request detected from 127.0.0.1 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ GET / 307 in 23ms
+ GET /auth/login 200 in 21ms
+ GET /auth/login 200 in 28ms
+ ✓ Compiled /api/crm/auth/login in 163ms
+ POST /api/crm/auth/login 200 in 437ms
+ ✓ Compiled /dashboard in 265ms
+ GET /dashboard 200 in 362ms
+ GET /dashboard 200 in 103ms
+ GET /api/crm/auth/session 200 in 306ms
+ ✓ Compiled /dashboard/crm in 419ms
+ GET /api/crm/users?limit=100 200 in 545ms
+ GET /api/crm/rbac/roles?limit=100 200 in 535ms
+ GET /api/crm/finance/invoices?limit=20&offset=0 200 in 547ms
+ GET /api/crm/rbac/user-roles 200 in 238ms
+ GET /api/crm/leads?limit=20&offset=0 200 in 547ms
+ GET /dashboard/crm 200 in 562ms
+ GET /api/crm/auth/session 200 in 121ms
+ GET /api/crm/org-units/tree 200 in 160ms
+ GET /api/crm/rbac/user-roles 200 in 118ms
+ GET /api/crm/leads?limit=20&offset=0 200 in 251ms
+ GET /api/crm/users?limit=100 200 in 255ms
+ GET /api/crm/rbac/roles?limit=100 200 in 248ms
+ GET /api/crm/customers?limit=20&offset=0 200 in 269ms
+ GET /api/crm/leads/assignments/pending 200 in 121ms
+ GET /api/crm/finance/invoices?limit=20&offset=0 200 in 147ms
+ GET /api/crm/bookings?limit=20&offset=0 200 in 156ms
+ GET /api/crm/vendors?limit=20&offset=0 200 in 153ms
+ GET /api/crm/itineraries?limit=20&offset=0 200 in 164ms
+ GET /api/crm/org-units/tree 200 in 140ms
+ GET /api/crm/finance/expenses?limit=20&offset=0 200 in 157ms
+ GET /api/crm/leads?limit=20&offset=0 200 in 140ms
+ GET /api/crm/customers/a4c93f93-7425-44de-a9a4-9973991ef213 200 in 126ms
+ GET /api/crm/customers/348918e8-410b-40f0-9f78-39371d12bfb6 200 in 131ms
+ GET /api/crm/customers/4b19ad69-7fbe-4767-ba7d-bb5b2116ec93 200 in 129ms
+ GET /api/crm/customers/2bc09841-b818-43eb-b659-332e41987d98 200 in 136ms
+ GET /api/crm/customers/e2a15b14-6fe1-45b7-86ec-d0fb0a1d9d3c 200 in 133ms
+ GET /api/crm/customers/971f1f7e-678d-40a9-84a8-545bd0e5a6e9 200 in 116ms
+ GET /api/crm/customers/a8dcf8f1-6e0a-4cf0-8edf-a36fbd1d42fe 200 in 124ms
+ GET /api/crm/customers/3b43576d-4e25-45e2-aff7-cad21d756050 200 in 131ms
+ GET /api/crm/customers/41e6bdb1-0bc2-48f1-8d6c-13ebfee26508 200 in 123ms
+ GET /api/crm/customers/3bbb5528-d5a9-42b4-9c8a-58c851c4ae71 200 in 125ms
+ GET /api/crm/customers/c9606570-0911-4637-8595-455635ec0b89 200 in 124ms
+ GET /api/crm/users?limit=100 200 in 127ms
+ GET /api/crm/customers?limit=20&offset=0 200 in 131ms
+ GET /api/crm/settings/smtp 200 in 119ms
+ GET /api/crm/leads?limit=20&offset=0&org_unit_id=4db6c27c-6d24-47c5-971e-b532d68cf0f1 200 in 138ms
+ GET /api/crm/rbac/roles?limit=100 200 in 129ms
+ GET /api/crm/users?limit=100 200 in 132ms
+ GET /api/crm/audit-logs?limit=20&offset=0 200 in 134ms
+ GET /api/crm/audit-logs?limit=20&offset=0 200 in 138ms
+ GET /api/crm/audit-logs?limit=100&offset=20 200 in 160ms
+ GET /api/crm/audit-logs?limit=100&offset=120 200 in 157ms
+ GET /api/crm/audit-logs?limit=100&offset=20 200 in 167ms
+ GET /api/crm/audit-logs?limit=100&offset=120 200 in 149ms
+ GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z 200 in 170ms
+ ✓ Compiled /dashboard/crm/leads/[leadId] in 308ms
+ GET /dashboard/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b 200 in 493ms
+ GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z 200 in 146ms
+ GET /api/crm/settings/smtp 200 in 158ms
+ GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b 200 in 170ms
+ GET /api/crm/users?limit=100 200 in 182ms
+ GET /api/crm/leads?limit=20&offset=0 200 in 188ms
+ GET /api/crm/packages/filters 200 in 228ms
+ GET /api/crm/bookings?limit=20&offset=0 200 in 152ms
+ GET /api/crm/finance/invoices?limit=20&offset=0 200 in 144ms
+ GET /api/crm/packages/5f5c63a3-27df-4ffb-9dbe-efeae4bc378b 200 in 316ms
+ GET /api/crm/itineraries?limit=20&offset=0 200 in 152ms
+ GET /api/crm/customers?limit=20&offset=0 200 in 141ms
+ GET /api/crm/settings/smtp 200 in 134ms
+ GET /api/crm/users?limit=100 200 in 146ms
+ GET /api/crm/leads?limit=20&offset=0 200 in 145ms
+ GET /api/crm/packages/filters 200 in 192ms
+ GET /api/crm/packages/5f5c63a3-27df-4ffb-9dbe-efeae4bc378b 200 in 188ms
+ GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z 200 in 142ms
+ GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b/inquiry-history 200 in 452ms
+ GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b/inquiry-history 200 in 359ms

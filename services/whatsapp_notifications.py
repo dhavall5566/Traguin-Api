@@ -56,6 +56,25 @@ def _recipient_phone(phone: str) -> str | None:
     return digits
 
 
+def _notification_allowlist_digits() -> frozenset[str]:
+    raw = (settings.whatsapp_notification_allowlist or "").strip()
+    if not raw:
+        return frozenset()
+    allowed: set[str] = set()
+    for part in raw.split(","):
+        normalized = _recipient_phone(part.strip())
+        if normalized:
+            allowed.add(normalized)
+    return frozenset(allowed)
+
+
+def _phone_is_allowlisted(phone_digits: str) -> bool:
+    allowlist = _notification_allowlist_digits()
+    if not allowlist:
+        return True
+    return phone_digits in allowlist
+
+
 def _crm_dashboard_link(path: str = "/dashboard/crm") -> str:
     base = (settings.whatsapp_crm_base_url or "").rstrip("/")
     return f"{base}{path}" if base else "Open TRAGUIN CRM"
@@ -73,6 +92,10 @@ def _meta_template_text(value: str) -> str:
 
 
 def list_team_notification_phones(db: Session, agency_id: UUID) -> list[str]:
+    allowlist = _notification_allowlist_digits()
+    if allowlist:
+        return [f"+{digits}" for digits in sorted(allowlist)]
+
     users = db.scalars(
         select(User)
         .where(
@@ -320,6 +343,17 @@ def send_whatsapp_template_with_result(
     if recipient is None:
         logger.warning("WhatsApp send skipped: invalid phone %s", phone_number)
         return WhatsAppSendResult(ok=False, error=f"Invalid phone number: {phone_number}")
+
+    if not _phone_is_allowlisted(recipient):
+        logger.info(
+            "WhatsApp send skipped (allowlist active): %s is not allowlisted",
+            f"+{recipient}",
+        )
+        return WhatsAppSendResult(
+            ok=False,
+            recipient=f"+{recipient}",
+            error="Recipient not in WHATSAPP_NOTIFICATION_ALLOWLIST.",
+        )
 
     base = settings.whatsapp_api_base_url.rstrip("/")
     url = f"{base}/api/v1/whatsapp/send/template"
