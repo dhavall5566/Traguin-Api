@@ -434,3 +434,7 @@ INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/f26355a6-e883-481e-9522-10e3e
 INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/2bba6445-f405-4ccb-a30d-b86799c3a033 HTTP/1.1" 204 No Content
 INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/8c36c62d-b24a-43e5-8106-ea03a1d52b77 HTTP/1.1" 204 No Content
 INFO:     127.0.0.1:55530 - "DELETE /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b HTTP/1.1" 204 No Content
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [14550]

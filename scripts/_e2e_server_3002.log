@@ -98,3 +98,4 @@ Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allow
  GET /api/crm/leads/recent?since=2026-08-09T12%3A17%3A59.216Z 200 in 142ms
  GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b/inquiry-history 200 in 452ms
  GET /api/crm/leads/2e6c9ed9-e534-4f2c-b358-4eec370d8a0b/inquiry-history 200 in 359ms
+[?25h
